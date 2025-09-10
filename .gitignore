@@ -1,0 +1,26 @@
+# LaTeX intermediate files
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.brf
+*.bcf
+*.gz
+*.xml
+*.lot
+*.tst
+*.lof
+*.fls
+*.latexmkrc
+*.xmpi
+*.xmpdata
+*.fdb_latexmk
+# Code editor files
+code/.venv/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+.vscode
