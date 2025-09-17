@@ -1,5 +1,41 @@
 \chapter{Background}\label{chapter:background}
 
-\section{Section}
+Different models have been used in this thesis to tackle the problem of morphological inflection generation. This chapter presents the theoretical background of the models used, as well as some related concepts.
+
+\section{Non-Neural Baseline}
+
+The first model evaluated was the non-neural baseline provided in the Sigmorphon 2023 shared task \cite{goldman-etal-2023-sigmorphon} repository.
+This is a statistical model based on the work first presented in \cite{cotterell2017conllsigmorphon2017sharedtask}, which uses a set of edit rules extracted from the training data to perform morphological inflection generation.
+
+This rule-based system learns a set of prefix and suffix transformation rules from the training data. For each morphological tag (MSD), the model extracts the possible prefix and suffix transformation rules that map the lemma to the inflected form. During inference, given a lemma and a target MSD, the model applies the most frequent rules associated with the specific transformation to generate the inflected form.
+
+For example, given the Portuguese verb \textit{andar} (to walk) and the target MSD \texttt{V;PRS;3;SG} (verb, present tense, third person singular), the model might learn the suffix transformation rule \texttt{AR -> A} from the training data. Applying this rule to the lemma \textit{amar} would yield the inflected form \textit{ama}.
+
+\begin{table}[h]
+    \centering
+    \begin{tabular}{|c|c|c|c|}
+        \hline
+        Verb & Target MSD & Inflected Form & Transformation Rule \\
+        \hline
+        \textit{andar} & \texttt{V;PRS;3;SG} & \textit{anda} & \texttt{AR -> A} \\
+        \hline
+        \textit{amar} & \texttt{V;PRS;3;SG} & \textit{ama} & \texttt{AR -> A} \\
+        \hline
+    \end{tabular}
+    \caption{Example of transformation rule learned by the non-neural baseline}
+\end{table}
+
+How the model works, is that it first extracts all possible prefix and suffix transformation rules from the training data. For each lemma-inflected form pair, it identifies the longest common prefix and suffix, and derives the transformation rules by comparing the remaining parts of the lemma and inflected form. The model keeps track of the frequency of each rule for each MSD.
+
+
+\section{Neural Baseline}
+
+Placeholder text.
+
+\section{ByT5}
+
+Placeholder text.
+
+\section{Large Language Models}
 
 Placeholder text.

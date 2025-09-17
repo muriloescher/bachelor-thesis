@@ -98,7 +98,7 @@ class TransformerEncoderLayer(nn.Module):
 
         self.activation = {"relu": F.relu, "gelu": F.gelu}[activation]
 
-    def forward(self, src, src_mask=None, src_key_padding_mask=None):
+    def forward(self, src, src_mask=None, src_key_padding_mask=None, is_causal=False):
         r"""Pass the input through the endocder layer.
 
         Args:
@@ -167,6 +167,9 @@ class TransformerDecoderLayer(nn.Module):
         memory_mask=None,
         tgt_key_padding_mask=None,
         memory_key_padding_mask=None,
+        is_causal=False,
+        tgt_is_causal=False,
+        memory_is_causal=False,
     ):
         r"""Pass the inputs (and mask) through the decoder layer.
 
