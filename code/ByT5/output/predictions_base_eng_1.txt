@@ -1,0 +1,1004 @@
+Generate the inflected form for: Arabize V;PRS;NOM(3,SG)	e V;PRS;NOM(3,SG)generate the 
+Generate the inflected form for: Arabize V;V.PTCP;PRS	e V;V.PTCP;PRSb;V.PTCP;PRSb.PT
+Generate the inflected form for: Arabize V;V.PTCP;PST	e V;V.PTCP;PST.PTCP;PST.PTCP;P
+Generate the inflected form for: DL V;PST	 L V D L D L D L D L D L D L D
+Generate the inflected form for: DL V;V.PTCP;PST	 PTCP PST PTCP PTCP PTCP PTCP 
+Generate the inflected form for: GI V;PRS;NOM(3,SG)	 S S S S S S S S S S S S S S S
+Generate the inflected form for: GI V;V.PTCP;PRS	 PRS PRS PRS PRS PRS PRS PRS P
+Generate the inflected form for: GI V;V.PTCP;PST	 PTCP;PST PST PST PST PST PST 
+Generate the inflected form for: Godcast V;PRS;NOM(3,SG)	 V;PRS;NOM(3,SG)godcast V;PRS;
+Generate the inflected form for: Godcast V;V.PTCP;PRS	 V;V.PTCP;PRSe V;V.PTCP;PRSe V
+Generate the inflected form for: Godcast V;V.PTCP;PST	 V;V.PTCP;PST;PST;PST;PST;PST;
+Generate the inflected form for: IRC V;NFIN	 IRC V;NFINs V;NFINs V;NFINs V
+Generate the inflected form for: IRC V;PRS;NOM(3,SG)	 S V;PRS;NOM(3,SG)generate the
+Generate the inflected form for: IRC V;PST	 V;PST V;PST V;PST V;PST V;PST
+Generate the inflected form for: IRC V;V.PTCP;PST	 V;V.PTCP;PST;PST.PST;PST.PST.
+Generate the inflected form for: Muhammadanize V;NFIN	 V;NFINgenerate the inflected 
+Generate the inflected form for: Muhammadanize V;PRS;NOM(3,SG)	 Muhammadanize V;PRS;NOM(3,SG)
+Generate the inflected form for: Muhammadanize V;V.PTCP;PST	;V.PTCP;PST;PST.PTCP;PST.PTCP;
+Generate the inflected form for: Salafize V;PRS;NOM(3,SG)	a V;PRS;NOM(3,SG)generate the 
+Generate the inflected form for: Salafize V;PST	ali V;
+Program the inflected f
+Generate the inflected form for: Salafize V;V.PTCP;PST	ali V;V.PTCP;PST.PTCP;PST.PTCP
+Generate the inflected form for: Sufize V;PRS;NOM(3,SG)	 Sufize V;PRS;NOM(3,SG)and the
+Generate the inflected form for: Sufize V;V.PTCP;PRS	a Sufize V;V.PTCP;PRSb Sufize 
+Generate the inflected form for: Sufize V;V.PTCP;PST	 Sufize Sufize Sufize Sufize S
+Generate the inflected form for: abode V;NFIN	 abode V;NFINg abode V;NFINg a
+Generate the inflected form for: abode V;PRS;NOM(3,SG)	e V;PRS;NOM(3,SG)generate the 
+Generate the inflected form for: abode V;V.PTCP;PRS	 abode V;V.PTCP;PRSbode V;V.PT
+Generate the inflected form for: absolve V;PRS;NOM(3,SG)	 absolve V;PRS;NOM(3,SG)absolv
+Generate the inflected form for: absolve V;PST	 V;PST V;PST V;PST V;PST V;PST
+Generate the inflected form for: absolve V;V.PTCP;PRS	 and state the context of the 
+Generate the inflected form for: accept V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: accept V;PRS;NOM(3,SG)	 accept V;PRS;NOM(3,SG)accept 
+Generate the inflected form for: accept V;V.PTCP;PRS	 V.PTCP;PRSgenerate the inflec
+Generate the inflected form for: accept V;V.PTCP;PST	 PTCP;PST PST PST PST PST PST 
+Generate the inflected form for: accession V;NFIN	 for: accession V;NFINs access
+Generate the inflected form for: accession V;PRS;NOM(3,SG)	 accession V;PRS;NOM(3,SG)acce
+Generate the inflected form for: accession V;V.PTCP;PRS	 accession V;V.PTCP;PRServer V
+Generate the inflected form for: acetize V;PRS;NOM(3,SG)	etize V;PRS;NOM(3,SG)generate 
+Generate the inflected form for: acetize V;PST	 V acetize V acetize V acetize
+Generate the inflected form for: acquire V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: acquire V;PRS;NOM(3,SG)	 Set the form for the inflecte
+Generate the inflected form for: acquire V;PST	 V;PSTn V;PSTn V;PSTn V;PSTn V
+Generate the inflected form for: acquire V;V.PTCP;PRS	 acquire V;V.PTCP;PRSb acquire
+Generate the inflected form for: adhære V;NFIN	e V;NFIN; adhære V;NFIN; adh
+Generate the inflected form for: adhære V;PST	e V;PST V;PST V;PST V;PST V;PS
+Generate the inflected form for: adhære V;V.PTCP;PST	e V;V.PTCP;PST.PTCP;PST.PTCP.P
+Generate the inflected form for: adipocerate V;PRS;NOM(3,SG)	 adipocerate V;PRS;NOM(3,SG)ge
+Generate the inflected form for: adipocerate V;PST	 adipocerate V;PSTn V;PSTn V;P
+Generate the inflected form for: adipocerate V;V.PTCP;PRS	erate V;V.PTCP;PRSb adipocerat
+Generate the inflected form for: affect V;NFIN	 IN the inflected form for: af
+Generate the inflected form for: affect V;PST	 affect V;PST V ;PST V ;PST V 
+Generate the inflected form for: affect V;V.PTCP;PRS	 V;V.PTCP;PRSb;PRSb.PTCP.PRSb.
+Generate the inflected form for: affect V;V.PTCP;PST	 PTCP;PST PST PTCP.PTCP.PST.PT
+Generate the inflected form for: affine V;NFIN	e V;NFINs affine V;NFINs affin
+Generate the inflected form for: affine V;PRS;NOM(3,SG)	 affine V;PRS;NOM(3,SG)generat
+Generate the inflected form for: affine V;PST	e V;PST V affine V affine V af
+Generate the inflected form for: anticipate V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: anticipate V;PRS;NOM(3,SG)	ipate V;PRS;NOM(3,SG)anticipat
+Generate the inflected form for: anticipate V;PST	 anticipate V;PSTg anticipate 
+Generate the inflected form for: anticipate V;V.PTCP;PRS	ipate V;V.PTCP;PRSb;V.PTCP.PRS
+Generate the inflected form for: assail V;PRS;NOM(3,SG)	 assail V;PRS;NOM(3,SG)generat
+Generate the inflected form for: assail V;PST	 assail V;PST V;PST V;PST V;PS
+Generate the inflected form for: assail V;V.PTCP;PRS	er V;V.PTCP;PRSb assail V;V.PT
+Generate the inflected form for: assail V;V.PTCP;PST	e assail V;V.PTCP;PSTby the fo
+Generate the inflected form for: atsake V;NFIN	ake V;NFINgenerate the inflect
+Generate the inflected form for: atsake V;PRS;NOM(3,SG)	ake V;PRS;NOM(3,SG)generate th
+Generate the inflected form for: atsake V;PST	ake V;PST V;PST V;PST V;PST V;
+Generate the inflected form for: aumail V;NFIN	ail V;NFINs V;NFINs V;NFINs V;
+Generate the inflected form for: aumail V;PRS;NOM(3,SG)	aumail V;PRS;NOM(3,SG)generate
+Generate the inflected form for: aumail V;V.PTCP;PRS	a V;V.PTCP;PRSb V;V.PTCP;PRSb.
+Generate the inflected form for: babify V;NFIN	 babify V;NFINs babify V;NFINs
+Generate the inflected form for: babify V;PRS;NOM(3,SG)	 babify V;PRS;NOM(3,SG)generat
+Generate the inflected form for: babify V;PST	 V;PST V V V V V V V V V V V V
+Generate the inflected form for: babify V;V.PTCP;PST	 babify V;V.PTCP;PST;PST.PTCP;
+Generate the inflected form for: barhop V;NFIN	 V;NFINs barhop V;NFINs barhop
+Generate the inflected form for: barhop V;PRS;NOM(3,SG)	an V;PRS;NOM(3,SG)generate the
+Generate the inflected form for: barhop V;V.PTCP;PRS	 barhop V;V.PTCP;PRSbarhop V;V
+Generate the inflected form for: base V;NFIN	 the inflected form for: base 
+Generate the inflected form for: base V;PRS;NOM(3,SG)	 (3,SG) Generate the inflected
+Generate the inflected form for: base V;PST	 V base V base V base V base V
+Generate the inflected form for: base V;V.PTCP;PST	 base V;V.PTCP;PST.PTCP;PST.PT
+Generate the inflected form for: bemaul V;NFIN	 V;NFINs V;NFINs V;NFINs V;NFI
+Generate the inflected form for: bemaul V;PRS;NOM(3,SG)	aul V;PRS;NOM(3,SG)generate th
+Generate the inflected form for: bemaul V;V.PTCP;PRS	a V;V.PTCP;PRSbemaul V;V.PTCP;
+Generate the inflected form for: bemaul V;V.PTCP;PST	 bemaul V;V.PTCP;PST;PST.PTCP;
+Generate the inflected form for: beshape V;NFIN	 V;NFIN V;NFIN V;NFIN V;NFIN V
+Generate the inflected form for: beshape V;PRS;NOM(3,SG)	e V;PRS;NOM(3,SG)generate the 
+Generate the inflected form for: beshape V;V.PTCP;PRS	 V.PTCP;PRSbeshape V;V.PTCP;PR
+Generate the inflected form for: beshape V;V.PTCP;PST	 PTCP;PST.PTCP;PST.PTCP.PTCP.P
+Generate the inflected form for: bespirt V;NFIN	 V;NFIN V;NFIN V;NFIN V;NFIN V
+Generate the inflected form for: bespirt V;PRS;NOM(3,SG)	 bespirt V;PRS;NOM(3,SG)genera
+Generate the inflected form for: bespirt V;V.PTCP;PRS	 bespirt V;V.PTCP;PRS;PRS.PTCP
+Generate the inflected form for: bespirt V;V.PTCP;PST	 bespirt V;V.PTCP;PST.PTCP;PST
+Generate the inflected form for: bioactivate V;NFIN	 V;NFINgenerate the inflected 
+Generate the inflected form for: bioactivate V;PST	 V;PST V;PST V;PST V;PST V;PST
+Generate the inflected form for: bioactivate V;V.PTCP;PRS	ectivate V;V.PTCP;PRSbioactiva
+Generate the inflected form for: biodegrade V;NFIN	e V;NFINgrade V;NFINgrade V;NF
+Generate the inflected form for: biodegrade V;PST	er V;PST V;PST V;PST V;PST V;P
+Generate the inflected form for: biodegrade V;V.PTCP;PRS	er V;V.PTCP;PRSbiodegrade V;V.
+Generate the inflected form for: biodegrade V;V.PTCP;PST	 biodegrade V;V.PTCP;PST.PTCP;
+Generate the inflected form for: biostimulate V;NFIN	 V;NFINgenerate the inflected 
+Generate the inflected form for: biostimulate V;PRS;NOM(3,SG)	 biostimulate V;PRS;NOM(3,SG)g
+Generate the inflected form for: biostimulate V;PST	 V;PST V;PST V;PST V;PST V;PST
+Generate the inflected form for: biostimulate V;V.PTCP;PRS	ect V;V.PTCP;PRSect V;V.PTCP;P
+Generate the inflected form for: bliken V;NFIN	 bliken V;NFINs bliken V;NFINs
+Generate the inflected form for: bliken V;PST	 V;PSTe V;PSTe V;PSTe V;PSTe V
+Generate the inflected form for: bliken V;V.PTCP;PRS	 bliken V;V.PTCP;PRSe V;V.PTCP
+Generate the inflected form for: bliken V;V.PTCP;PST	 bliken V;V.PTCP;PST.PTCP;PST.
+Generate the inflected form for: bodysurf V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: bodysurf V;PST	ear V;PST V V Generate the inf
+Generate the inflected form for: bodysurf V;V.PTCP;PST	 PTCP;PST PTCP.PTCP.PST.PTCP.P
+Generate the inflected form for: brickfilm V;PRS;NOM(3,SG)	 (1,2,3,4,5,6,7,8,9,10,11,12,1
+Generate the inflected form for: brickfilm V;PST	film V;PST V V brickfilm V bri
+Generate the inflected form for: brickfilm V;V.PTCP;PRS	 V;V.PTCP;PRSerial Note 1. Gen
+Generate the inflected form for: brickfilm V;V.PTCP;PST	 PTCP;PSTbrickfilm V;V.PTCP;PS
+Generate the inflected form for: bulletize V;NFIN	 V;NFINs V;NFINs V;NFINs V;NFI
+Generate the inflected form for: bulletize V;PST	e V;PSTSTSTSTSTSTSTSTSTSTSTSTS
+Generate the inflected form for: bulletize V;V.PTCP;PRS	e V;V.PTCP;PRSbulletize V;V.PT
+Generate the inflected form for: bus V;NFIN	 V;NFIN;NFIN;NFIN;NFIN;NFIN;NF
+Generate the inflected form for: change V;NFIN	 Inflect the inflected form fo
+Generate the inflected form for: change V;PRS;NOM(3,SG)	 SG SG SG SG SG SG SG SG SG SG
+Generate the inflected form for: change V;PST	 V V V V V V V V V V V V V V V
+Generate the inflected form for: change V;V.PTCP;PST	 PTCP;PSTb PTCP.PTCP.PTCP.PTCP
+Generate the inflected form for: chequer V;PRS;NOM(3,SG)	 chequer V;PRS;NOM(3,SG)genera
+Generate the inflected form for: chequer V;PST	 V;PST V;PST V;PST V;PST V;PST
+Generate the inflected form for: chequer V;V.PTCP;PRS	 chequer V;V.PTCP;PRSb;V.PTCP.
+Generate the inflected form for: chinwag V;NFIN	ag V;NFINg V;NFINg V;NFINg V;N
+Generate the inflected form for: chinwag V;V.PTCP;PRS	 V;V.PTCP;PRSb V;V.PTCP;PRSb V
+Generate the inflected form for: chinwag V;V.PTCP;PST	 V;V.PTCP;PST.PTCP;PST.PTCP;PS
+Generate the inflected form for: chirr V;NFIN	r V;NFINg V;NFINg V;NFINg V;NF
+Generate the inflected form for: chirr V;PRS;NOM(3,SG)	r V;PRS;NOM(3,SG)generate the 
+Generate the inflected form for: chirr V;PST	r V;PST V V V V V V V V V V V 
+Generate the inflected form for: chirr V;V.PTCP;PRS	r V;V.PTCP;PRSgr V;V.PTCP;PRSg
+Generate the inflected form for: co-locate V;PRS;NOM(3,SG)	ected V;PRS;NOM(3,SG)generate 
+Generate the inflected form for: co-locate V;PST	ease V V V V V V V V V V V V V
+Generate the inflected form for: co-locate V;V.PTCP;PST	e V;V.PTCP;PST;PST.PTCP;PST.PT
+Generate the inflected form for: codeshare V;NFIN	 V;NFINs V;NFINs V;NFINs V;NFI
+Generate the inflected form for: codeshare V;PRS;NOM(3,SG)	 codeshare V;PRS;NOM(3,SG)gene
+Generate the inflected form for: codeshare V;V.PTCP;PRS	 V;V.PTCP;PRServer V.PTCP;PRSe
+Generate the inflected form for: codeshare V;V.PTCP;PST	 PTCP PST PTCP PTCP PTCP PTCP 
+Generate the inflected form for: coimmunoprecipitate V;NFIN	 coimmunoprecipitate V;NFIN V;
+Generate the inflected form for: coimmunoprecipitate V;PRS;NOM(3,SG)	 coimmunoprecipitate V;PRS;NOM
+Generate the inflected form for: coimmunoprecipitate V;V.PTCP;PRS	 coimmunoprecipitate V;V.PTCP;
+Generate the inflected form for: coimmunoprecipitate V;V.PTCP;PST	 coimmunoprecipitate V;V.PTCP;
+Generate the inflected form for: comarket V;PRS;NOM(3,SG)	 comarket V;PRS;NOM(3,SG)gener
+Generate the inflected form for: comarket V;PST	 V;PST V;PST V;PST V;PST V;PST
+Generate the inflected form for: comarket V;V.PTCP;PRS	 V;V.PTCP;PRSecurity V;V.PTCP;
+Generate the inflected form for: comarket V;V.PTCP;PST	 comarket V;V.PTCP;PST;PST.PTC
+Generate the inflected form for: commiserate V;NFIN	erate V;NFINgenerate the infle
+Generate the inflected form for: commiserate V;PST	erate V;PST V;PST V;PST V;PST 
+Generate the inflected form for: commiserate V;V.PTCP;PRS	erate V;V.PTCP;PRSberate V;V.P
+Generate the inflected form for: commiserate V;V.PTCP;PST	erate V;V.PTCP;PST;PST.PTCP;PS
+Generate the inflected form for: compost V;NFIN	 V;NFINs V;NFINs V;NFINs V;NFI
+Generate the inflected form for: compost V;PRS;NOM(3,SG)	 S;NOM(3,SG)generate the infle
+Generate the inflected form for: compost V;PST	 I II II II II II II II II II 
+Generate the inflected form for: compost V;V.PTCP;PST	 PTCP;PST.PTCP.PTCP.PTCP.PTCP.
+Generate the inflected form for: congest V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: congest V;PRS;NOM(3,SG)	 congest V;PRS;NOM(3,SG)genera
+Generate the inflected form for: congest V;V.PTCP;PST	 PTCP;PST.PTCP;PST.PTCP.PTCP.P
+Generate the inflected form for: conquer V;PRS;NOM(3,SG)	 V;PRS;NOM(3,SG)generate the i
+Generate the inflected form for: conquer V;V.PTCP;PRS	er V;V.PTCP;PRSb;PRSb.PTCP;PRS
+Generate the inflected form for: conversation V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: conversation V;PRS;NOM(3,SG)	 conversation Generate the inf
+Generate the inflected form for: conversation V;V.PTCP;PRS	 conversation V;V.PTCP;PRSente
+Generate the inflected form for: conversation V;V.PTCP;PST	 conversation V;V.PTCP;PST con
+Generate the inflected form for: cordon V;PST	 V cordon V cordon V cordon V 
+Generate the inflected form for: cordon V;V.PTCP;PRS	 cordon V;V.PTCP;PRSeries V.PT
+Generate the inflected form for: cordon V;V.PTCP;PST	 PTCP;PST PST PTCP.PTCP.PST.PT
+Generate the inflected form for: cosponsor V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: cosponsor V;PRS;NOM(3,SG)	 V;PRS;NOM(3,SG)generate the i
+Generate the inflected form for: cosponsor V;PST	er V;PSTn V;PSTn V;PSTn V;PSTn
+Generate the inflected form for: counterindoctrinate V;NFIN	octrinate V;NFINgenerate the i
+Generate the inflected form for: counterindoctrinate V;V.PTCP;PST	erate the inflected for: count
+Generate the inflected form for: crescendo V;NFIN	endo V;NFINgendo V;NFINgendo V
+Generate the inflected form for: crescendo V;PST	endo V;PSTE V;PSTE V;PSTE V;PS
+Generate the inflected form for: crescendo V;V.PTCP;PRS	endo V;V.PTCP;PRSendo V;V.PTCP
+Generate the inflected form for: crescendo V;V.PTCP;PST	ere crescendo V;V.PTCP;PSTgene
+Generate the inflected form for: croggle V;PRS;NOM(3,SG)	er V;PRS;NOM(3,SG)grain V;PRS;
+Generate the inflected form for: croggle V;PST	roggle V;PST V V V V V V V V V
+Generate the inflected form for: croggle V;V.PTCP;PRS	roggle V;V.PTCP;PRSb;V.PTCP;PR
+Generate the inflected form for: declamate V;PRS;NOM(3,SG)	ate V;PRS;NOM(3,SG)ate V;PRS;N
+Generate the inflected form for: declamate V;V.PTCP;PRS	eclamate V;V.PTCP;PRSb;V.PTCP;
+Generate the inflected form for: declamate V;V.PTCP;PST	ate V;V.PTCP;PSTby Stephen Koc
+Generate the inflected form for: decompartmentalize V;NFIN	 V;NFINgenerate the inflected 
+Generate the inflected form for: decompartmentalize V;PST	 V;PST;PST;PST;PST;PST;PST;PST
+Generate the inflected form for: decompartmentalize V;V.PTCP;PRS	e V;V.PTCP;PRSerialize V;V.PTC
+Generate the inflected form for: decompartmentalize V;V.PTCP;PST	ect the inflected form for: de
+Generate the inflected form for: deconcentrate V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: deconcentrate V;PST	econcentrate V;PST V;PST V;PST
+Generate the inflected form for: deconcentrate V;V.PTCP;PST	 PTCP;PST PTCP;PST.PTCP;PST.PT
+Generate the inflected form for: defunctionalize V;NFIN	 and defunctionalize V;NFINgen
+Generate the inflected form for: defunctionalize V;PRS;NOM(3,SG)	 Set the constructor for the f
+Generate the inflected form for: defunctionalize V;PST	 V;PSTs V;PSTs V;PSTs V;PSTs V
+Generate the inflected form for: defunctionalize V;V.PTCP;PST	e V;V.PTCP;PST;PST.PTCP;PST.PT
+Generate the inflected form for: degroup V;NFIN	 N F I N I N I N I N I N I N I
+Generate the inflected form for: degroup V;PRS;NOM(3,SG)	 (1,2,3,4,5,6,7,8,9,10,11,12,1
+Generate the inflected form for: degroup V;PST	 V degroup V degroup V degroup
+Generate the inflected form for: degroup V;V.PTCP;PRS	 V;V.PTCP;PRS;PRS.PTCP.PTCP.PT
+Generate the inflected form for: deke V;PRS;NOM(3,SG)	e V;PRS;NOM(3,SG)generate the 
+Generate the inflected form for: deke V;PST	e V;PST V;PST V;PST V;PST V;PS
+Generate the inflected form for: deke V;V.PTCP;PST	 deke V;V.PTCP;PST.PTCP;PST.PT
+Generate the inflected form for: deliberate V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: deliberate V;PST	eate V;PST V;PST V;PST V;PST V
+Generate the inflected form for: deliberate V;V.PTCP;PRS	ected V;V.PTCP;PRSb;V.PTCP.PRS
+Generate the inflected form for: deliberate V;V.PTCP;PST	 the inflected form for: delib
+Generate the inflected form for: delve V;PST	 V;PST V V V V V V V V V V V V
+Generate the inflected form for: delve V;V.PTCP;PRS	 V;V.PTCP;PRSb V;V.PTCP;PRSb V
+Generate the inflected form for: delve V;V.PTCP;PST	 V;V.PTCP;PST;PST.PTCP.PTCP.PT
+Generate the inflected form for: demorify V;NFIN	 V;NFINgenerate the inflected 
+Generate the inflected form for: demorify V;PRS;NOM(3,SG)	 demorify V;PRS;NOM(3,SG)demor
+Generate the inflected form for: demorify V;PST	 V;PSTmorify V;PSTmorify V;PST
+Generate the inflected form for: demorify V;V.PTCP;PST	 V;V.PTCP;PST;PST.PTCP;PST.PTC
+Generate the inflected form for: denuclearize V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: denuclearize V;PRS;NOM(3,SG)	earize V;PRS;NOM(3,SG)generate
+Generate the inflected form for: denuclearize V;PST	earize V;PST V;PST V;PST V;PST
+Generate the inflected form for: denuclearize V;V.PTCP;PST	earize V;V.PTCP;PSTby the same
+Generate the inflected form for: deraign V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: deraign V;PRS;NOM(3,SG)	eraign V;PRS;NOM(3,SG)generate
+Generate the inflected form for: deraign V;PST	 V;PSTn;PSTn;PSTn;PSTn;PSTn;PS
+Generate the inflected form for: deraign V;V.PTCP;PRS	n V;V.PTCP;PRSeraign V;V.PTCP;
+Generate the inflected form for: destruct V;PRS;NOM(3,SG)	 S S S S S S S S S S S S S S S
+Generate the inflected form for: destruct V;PST	 V destruct V destruct V destr
+Generate the inflected form for: destruct V;V.PTCP;PRS	 PTCP PRS PRS PRS PRS PRS PRS 
+Generate the inflected form for: detumesce V;NFIN	esce V;NFINlected for: detumes
+Generate the inflected form for: detumesce V;PRS;NOM(3,SG)	e V;PRS;NOM(3,SG)generate the 
+Generate the inflected form for: detumesce V;PST	esce V;PST V detumesce V;PST V
+Generate the inflected form for: detumesce V;V.PTCP;PST	esce V;V.PTCP;PSTgenerate the 
+Generate the inflected form for: deurbanize V;NFIN	eurbanize V;NFINgenerate the i
+Generate the inflected form for: deurbanize V;PRS;NOM(3,SG)	erbanize V;PRS;NOM(3,SG)genera
+Generate the inflected form for: deurbanize V;PST	erbanize V;PST V deurbanize V 
+Generate the inflected form for: deurbanize V;V.PTCP;PRS	erate the inflected form for: 
+Generate the inflected form for: devenustate V;NFIN	enustate V;NFINgenerate the in
+Generate the inflected form for: devenustate V;PRS;NOM(3,SG)	enustate devenustate devenusta
+Generate the inflected form for: devenustate V;PST	enustate V;PSTgenerate the inf
+Generate the inflected form for: devenustate V;V.PTCP;PRS	erate the inflected form for: 
+Generate the inflected form for: dewret V;PRS;NOM(3,SG)	et V;PRS;NOM(3,SG)generate the
+Generate the inflected form for: dewret V;V.PTCP;PRS	 dewret V;V.PTCP;PRSb dewret V
+Generate the inflected form for: dewret V;V.PTCP;PST	 dewret V;V.PTCP;PST V;V.PTCP;
+Generate the inflected form for: digiscope V;PST	 V digiscope V digiscope V dig
+Generate the inflected form for: digiscope V;V.PTCP;PRS	 V;V.PTCP;PRServer V;V.PTCP;PR
+Generate the inflected form for: digiscope V;V.PTCP;PST	 V;V.PTCP;PST;PST.PTCP;PST.PTC
+Generate the inflected form for: dishonnour V;NFIN	ing V;NFINg V;NFINg V;NFINg V;
+Generate the inflected form for: dishonnour V;PRS;NOM(3,SG)	our V;PRS;NOM(3,SG);NOM(3,SG);
+Generate the inflected form for: dishonnour V;V.PTCP;PRS	er V;V.PTCP;PRSb dishonnour V;
+Generate the inflected form for: dishonnour V;V.PTCP;PST	er V;V.PTCP;PST;PST;PST;PST.PT
+Generate the inflected form for: dissettle V;PRS;NOM(3,SG)	eat dissettle dissettle disset
+Generate the inflected form for: dissettle V;V.PTCP;PRS	e V;V.PTCP;PRSb V;V.PTCP;PRSb 
+Generate the inflected form for: dissettle V;V.PTCP;PST	e V;V.PTCP;PSTby the following
+Generate the inflected form for: dissonate V;NFIN	 V;NFIN dissonate V;NFIN disso
+Generate the inflected form for: dissonate V;V.PTCP;PRS	er V;V.PTCP;PRSb V.PTCP;PRSb V
+Generate the inflected form for: dissonate V;V.PTCP;PST	 V;V.PTCP;PST;PST.PTCP;PST.PTC
+Generate the inflected form for: disuse V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: disuse V;PRS;NOM(3,SG)	 disuse V;PRS;NOM(3,SG)add the
+Generate the inflected form for: disuse V;V.PTCP;PST	 V;V.PTCP;PST.PTCP;PST.PTCP;PS
+Generate the inflected form for: dodd V;PRS;NOM(3,SG)	 dodd V;PRS;NOM(3,SG)generate 
+Generate the inflected form for: dodd V;PST	 V;PST V;PST V;PST V;PST V;PST
+Generate the inflected form for: dodd V;V.PTCP;PRS	 dodd V;V.PTCP;PRSerial No. 10
+Generate the inflected form for: dodd V;V.PTCP;PST	 dodd V;V.PTCP;PSTb dodd V;V.P
+Generate the inflected form for: douche V;NFIN	 douche V;NFIN douche V;NFIN d
+Generate the inflected form for: douche V;PRS;NOM(3,SG)	e douche douche douche douche 
+Generate the inflected form for: douche V;PST	e V;PST V douche V douche V do
+Generate the inflected form for: douche V;V.PTCP;PRS	e douche V;V.PTCP;PRSe douche 
+Generate the inflected form for: downclock V;PRS;NOM(3,SG)	 downclock V;PRS;NOM(3,SG)gene
+Generate the inflected form for: downclock V;PST	 V downclock V ;PSTn downclock
+Generate the inflected form for: downclock V;V.PTCP;PRS	 V;V.PTCP;PRServer V;V.PTCP;PR
+Generate the inflected form for: dram V;NFIN	 dram V;NFIN dram V;NFIN dram 
+Generate the inflected form for: dram V;PRS;NOM(3,SG)	 dram V;PRS;NOM(3,SG)generate 
+Generate the inflected form for: dram V;PST	 V dram V dram V dram V dram V
+Generate the inflected form for: dram V;V.PTCP;PRS	 dram V;V.PTCP;PRSe dram V;V.P
+Generate the inflected form for: duress V;NFIN	 duress V;NFINs V;NFINs V;NFIN
+Generate the inflected form for: duress V;PRS;NOM(3,SG)	 S;NOM(3,SG)generate the infle
+Generate the inflected form for: earnest V;PRS;NOM(3,SG)	est V;PRS;NOM(3,SG)generate th
+Generate the inflected form for: earnest V;V.PTCP;PST	est V;V.PTCP;PST;PST.PTCP;PST.
+Generate the inflected form for: empassion V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: empassion V;PRS;NOM(3,SG)	er V;PRS;NOM(3,SG)and empassio
+Generate the inflected form for: encoach V;PRS;NOM(3,SG)	 encoach V;PRS;NOM(3,SG)genera
+Generate the inflected form for: encoach V;PST	 encoach V;PSTg encoach V;PSTg
+Generate the inflected form for: encoach V;V.PTCP;PRS	 encoach V;V.PTCP;PRSencoach V
+Generate the inflected form for: enlace V;NFIN	 enlace enlace enlace enlace e
+Generate the inflected form for: enlace V;PRS;NOM(3,SG)	 enlace enlace enlace enlace e
+Generate the inflected form for: enlace V;V.PTCP;PRS	 enlace enlace enlace enlace e
+Generate the inflected form for: enlace V;V.PTCP;PST	 enlace enlace enlace enlace e
+Generate the inflected form for: enrank V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: enring V;PRS;NOM(3,SG)	 enring I;PRS;NOM(3,SG)generat
+Generate the inflected form for: enring V;PST	 enring V;PST enring V;PST enr
+Generate the inflected form for: enring V;V.PTCP;PRS	 enring V;V.PTCP;PRSb enring V
+Generate the inflected form for: ensky V;NFIN	 ensky V;NFINg ensky V;NFINg e
+Generate the inflected form for: ensky V;PRS;NOM(3,SG)	 ensky V;PRS;NOM(3,SG)generate
+Generate the inflected form for: ensky V;PST	 ensky V;PST V;PST V;PST V;PST
+Generate the inflected form for: ensky V;V.PTCP;PST	 ensky V;V.PTCP;PSTg ensky V;V
+Generate the inflected form for: enwisen V;NFIN	en V;NFINgen V;NFINgen V;NFINg
+Generate the inflected form for: enwisen V;PRS;NOM(3,SG)	enwisen V;PRS;NOM(3,SG)generat
+Generate the inflected form for: enwisen V;V.PTCP;PRS	 enwisen V;V.PTCP;PRSenwisen V
+Generate the inflected form for: exceed V;NFIN	NFINg the inflected form for: 
+Generate the inflected form for: exceed V;PRS;NOM(3,SG)	 exceed V;PRS;NOM(3,SG)generat
+Generate the inflected form for: exceed V;V.PTCP;PRS	 exceed V;V.PTCP;PRSby exceed 
+Generate the inflected form for: fainten V;PRS;NOM(3,SG)	en V;PRS;NOM(3,SG)generate the
+Generate the inflected form for: fainten V;PST	 V;PST V;PST V;PST V;PST V;PST
+Generate the inflected form for: fainten V;V.PTCP;PRS	en V;V.PTCP;PRSen V;V.PTCP;PRS
+Generate the inflected form for: fainten V;V.PTCP;PST	en V;V.PTCP;PST.PTCP;PST.PTCP;
+Generate the inflected form for: fanaticize V;PRS;NOM(3,SG)	e V;PRS;NOM(3,SG)generate the 
+Generate the inflected form for: fanaticize V;V.PTCP;PRS	er V;V.PTCP;PRSb V;V.PTCP;PRSb
+Generate the inflected form for: feel V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: feel V;PRS;NOM(3,SG)	 feel V;PRS;NOM(3,SG)generate 
+Generate the inflected form for: feel V;V.PTCP;PRS	 PTCP;PRSe PTCP.PTCP.PRSe.PTCP
+Generate the inflected form for: flail V;PST	l V;PST flail V;PST flail V;PS
+Generate the inflected form for: fluff V;NFIN	 fluff V;NFINs V;NFINs V;NFINs
+Generate the inflected form for: fluff V;V.PTCP;PRS	er fluff fluff fluff fluff flu
+Generate the inflected form for: flutter V;NFIN	 flutter V;NFINs flutter V;NFI
+Generate the inflected form for: flutter V;PRS;NOM(3,SG)	er V;PRS;NOM(3,SG)generate the
+Generate the inflected form for: flutter V;PST	er V;PST V V V V V V V V V V V
+Generate the inflected form for: flutter V;V.PTCP;PST	 flutter V;V.PTCP;PSTb flutter
+Generate the inflected form for: forestal V;NFIN	l V;NFINg forestal V;NFINg for
+Generate the inflected form for: forestal V;PRS;NOM(3,SG)	 forestal V;PRS;NOM(3,SG)gener
+Generate the inflected form for: forestal V;PST	estal V;PSTn forestal V;PSTn f
+Generate the inflected form for: formicate V;NFIN	 formicate V;NFINgenerate the 
+Generate the inflected form for: formicate V;V.PTCP;PRS	 formicate V;V.PTCP;PRSb V;V.P
+Generate the inflected form for: formicate V;V.PTCP;PST	 V;V.PTCP;PST;PST.PTCP;PST.PTC
+Generate the inflected form for: forthcast V;NFIN	 forthcast V;NFINg forthcast V
+Generate the inflected form for: forthcast V;PRS;NOM(3,SG)	cast forthcast forthcast forth
+Generate the inflected form for: forthcast V;V.PTCP;PRS	 V;V.PTCP;PRS;PRS.PTCPRS.PTCPR
+Generate the inflected form for: forthcast V;V.PTCP;PST	 PTCP;PST.PTCP;PST.PTCP;PST.PT
+Generate the inflected form for: forwrap V;PRS;NOM(3,SG)	 forwrap I;PRS;NOM(3,SG)genera
+Generate the inflected form for: forwrap V;V.PTCP;PRS	 V;V.PTCP;PRSb V;V.PTCP;PRSb.P
+Generate the inflected form for: forwrap V;V.PTCP;PST	 PTCP;PST PTCP.PTCP.PST.PTCP.P
+Generate the inflected form for: fraternise V;PST	ernise V;PST V;PST V;PST V;PST
+Generate the inflected form for: fraternise V;V.PTCP;PRS	ernise V;V.PTCP;PRSb;V.PTCP;PR
+Generate the inflected form for: fraternise V;V.PTCP;PST	ernise V;V.PTCP;PST.PTCP;PST.P
+Generate the inflected form for: frustrate V;PST	erate V;PST V;PST V;PST V;PST 
+Generate the inflected form for: frustrate V;V.PTCP;PRS	ate V;V.PTCP;PRSbeneficiate V;
+Generate the inflected form for: fustigate V;PST	ate V;PSTgate V;PSTgate V;PSTg
+Generate the inflected form for: fustigate V;V.PTCP;PRS	ate V;V.PTCP;PRSb;V.PTCP.PRSb.
+Generate the inflected form for: fustigate V;V.PTCP;PST	ate V;V.PTCP;PST.PTCP;PST.PTCP
+Generate the inflected form for: geck V;NFIN	 V;NFINs V;NFINs V;NFINs V;NFI
+Generate the inflected form for: geck V;PRS;NOM(3,SG)	 geck V;PRS;NOM(3,SG)geck V;PR
+Generate the inflected form for: geck V;V.PTCP;PRS	 geck V;V.PTCP;PRSeck V;V.PTCP
+Generate the inflected form for: geck V;V.PTCP;PST	 PTCP;PST PTCP.PTCP.PST.PTCP.P
+Generate the inflected form for: germinate V;NFIN	 V;NFIN V;NFIN V;NFIN V;NFIN V
+Generate the inflected form for: germinate V;PRS;NOM(3,SG)	 germinate V;PRS;NOM(3,SG)germ
+Generate the inflected form for: germinate V;V.PTCP;PST	 V;V.PTCP;PST.PTCP;PST.PTCP;PS
+Generate the inflected form for: glycolyze V;PRS;NOM(3,SG)	 SG SG SG SG SG SG SG SG SG SG
+Generate the inflected form for: glycolyze V;V.PTCP;PST	 PTCP;PST.PTCP;PST.PTCP;PST.PT
+Generate the inflected form for: graffiti V;PRS;NOM(3,SG)	 graffiti V;PRS;NOM(3,SG)graff
+Generate the inflected form for: graffiti V;PST	 V graffiti V graffiti V graff
+Generate the inflected form for: graffiti V;V.PTCP;PRS	 V;V.PTCP;PRSe V;V.PTCP;PRSe V
+Generate the inflected form for: graffiti V;V.PTCP;PST	 graffiti V;V.PTCP;PST.PTCP;PS
+Generate the inflected form for: grammaticize V;PRS;NOM(3,SG)	e V;PRS;NOM(3,SG)grammaticize 
+Generate the inflected form for: grammaticize V;PST	ize V;PST grammaticize V;PST g
+Generate the inflected form for: grammaticize V;V.PTCP;PRS	e V;V.PTCP;PRSb V;V.PTCP;PRSb 
+Generate the inflected form for: grammaticize V;V.PTCP;PST	e V;V.PTCP;PST.PTCP;PST.PTCP.P
+Generate the inflected form for: grid V;NFIN	 the inflected form for: grid 
+Generate the inflected form for: grid V;PRS;NOM(3,SG)	 SG SG SG SG SG SG SG SG SG SG
+Generate the inflected form for: grid V;PST	 V ; grid V ; grid V ; grid V 
+Generate the inflected form for: grid V;V.PTCP;PST	 V;V.PTCP;PST;PST.PTCP;PST.PTC
+Generate the inflected form for: grill V;NFIN	 V;NFINs V;NFINs V;NFINs V;NFI
+Generate the inflected form for: grill V;PRS;NOM(3,SG)	 grill V;PRS;NOM(3,SG)grill V;
+Generate the inflected form for: grill V;PST	rill V;PST V V V V V V V V V V
+Generate the inflected form for: grill V;V.PTCP;PRS	 grill V;V.PTCP;PRSeries V;V.P
+Generate the inflected form for: gub V;PRS;NOM(3,SG)	 V;PRS;NOM(3,SG)gub V;PRS;NOM(
+Generate the inflected form for: gub V;PST	 V;PST V V V V V V V V V V V V
+Generate the inflected form for: gub V;V.PTCP;PRS	 gub V;V.PTCP;PRSb V;V.PTCP;PR
+Generate the inflected form for: gub V;V.PTCP;PST	 PTCP;PST PTCP.PTCP.PST.PTCP.P
+Generate the inflected form for: hand V;PRS;NOM(3,SG)	 V;PRS;NOM(3,SG)g V;PRS;NOM(3,
+Generate the inflected form for: hand V;V.PTCP;PRS	 PTCP;PRSb PTCP.PTCP.PRSb PTCP
+Generate the inflected form for: hand V;V.PTCP;PST	 PTCP;PSTb PTCP.PTCP.PSTb PTCP
+Generate the inflected form for: happify V;PRS;NOM(3,SG)	 fi fi fi fi fi fi fi fi fi fi
+Generate the inflected form for: happify V;PST	 V ;PST V ;PST V ;PST V ;PST V
+Generate the inflected form for: happify V;V.PTCP;PST	 PTCP;PST.PTCP;PST.PTCP;PST.PT
+Generate the inflected form for: harpoon V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: harpoon V;PRS;NOM(3,SG)	oon harpoon harpoon harpoon ha
+Generate the inflected form for: harpoon V;V.PTCP;PST	oon V;V.PTCP;PSTb V;V.PTCP;PST
+Generate the inflected form for: heli-ski V;NFIN	 V;NFINg INg INg INg INg INg I
+Generate the inflected form for: heli-ski V;PST	 V V V V V V V V V V V V V V V
+Generate the inflected form for: heli-ski V;V.PTCP;PRS	 heli-ski V;V.PTCP;PRSelect th
+Generate the inflected form for: heli-ski V;V.PTCP;PST	 heli-ski V;V.PTCP;PSTgenerate
+Generate the inflected form for: hickup V;PRS;NOM(3,SG)	 hickup hickup hickup hickup h
+Generate the inflected form for: hickup V;PST	 V;PST V;PST V;PST V;PST V;PST
+Generate the inflected form for: hickup V;V.PTCP;PST	 PTCP;PST.PTCP;PST.PTCP.PTCP.P
+Generate the inflected form for: high-step V;NFIN	NFINgenerate the inflected for
+Generate the inflected form for: high-step V;PRS;NOM(3,SG)	 Step V;PRS;NOM(3,SG)a high-st
+Generate the inflected form for: high-step V;PST	 Step V V V V V V V V V V V V 
+Generate the inflected form for: high-step V;V.PTCP;PST	 step V;V.PTCP;PST;PST.PTCP;PS
+Generate the inflected form for: hiss V;NFIN	 IN IN IN IN IN IN IN IN IN IN
+Generate the inflected form for: hiss V;PST	 S T S T S T S T S T S T S T S
+Generate the inflected form for: hiss V;V.PTCP;PRS	 PTCP;PRSb PTCP.PTCP.PRSb PTCP
+Generate the inflected form for: hiss V;V.PTCP;PST	 PTCP;PST PTCP.PTCP.PST.PTCP.P
+Generate the inflected form for: hydrolyze V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: hydrolyze V;PRS;NOM(3,SG)	 Set the container for the hyd
+Generate the inflected form for: hydrolyze V;V.PTCP;PRS	 PTCP;PRSe PTCP.PTCP.PTCP.PTCP
+Generate the inflected form for: hydrolyze V;V.PTCP;PST	 and the substances of the sub
+Generate the inflected form for: illure V;V.PTCP;PRS	er V;V.PTCP;PRSb V;V.PTCP;PRSb
+Generate the inflected form for: imboil V;NFIN	 imboil V;NFINg imboil V;NFINg
+Generate the inflected form for: imboil V;PRS;NOM(3,SG)	 imboil V;PRS;NOM(3,SG)generat
+Generate the inflected form for: imboil V;PST	 imboil V;PSTn imboil V;PSTn i
+Generate the inflected form for: imboil V;V.PTCP;PST	 imboil V;V.PTCP;PST imboil V;
+Generate the inflected form for: imbower V;NFIN	 imbower V;NFINg imbower V;NFI
+Generate the inflected form for: imbower V;PRS;NOM(3,SG)	er V;PRS;NOM(3,SG)generate the
+Generate the inflected form for: imbower V;V.PTCP;PRS	 imbower V;V.PTCP;PRSbower V;V
+Generate the inflected form for: imparl V;PST	 V;PST V;PST V;PST V;PST V;PST
+Generate the inflected form for: imparl V;V.PTCP;PRS	 PTCP PRS PTCP PRS PTCP PRS PT
+Generate the inflected form for: imperialize V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: imperialize V;PRS;NOM(3,SG)	 Sentence for the inflected fo
+Generate the inflected form for: imperialize V;V.PTCP;PRS	er V;V.PTCP;PRSb V.PTCP;PRSb.P
+Generate the inflected form for: indorse V;NFIN	 indorse V;NFINg indorse V;NFI
+Generate the inflected form for: indorse V;PRS;NOM(3,SG)	 indorse V;PRS;NOM(3,SG)genera
+Generate the inflected form for: indorse V;PST	e V;PST V;PST V;PST V;PST V;PS
+Generate the inflected form for: infeeble V;PRS;NOM(3,SG)	 infeeble V;PRS;NOM(3,SG)gener
+Generate the inflected form for: infeeble V;V.PTCP;PRS	 for the inflected form for: i
+Generate the inflected form for: infumate V;NFIN	 infumate V;NFINg infumate V;N
+Generate the inflected form for: infumate V;PRS;NOM(3,SG)	e V;PRS;NOM(3,SG)generate the 
+Generate the inflected form for: infumate V;PST	er V;PST V;PST V;PST V;PST V;P
+Generate the inflected form for: infumate V;V.PTCP;PRS	ected for: infumate V;V.PTCP;P
+Generate the inflected form for: inhere V;NFIN	 V;NFINs V;NFINs V;NFINs V;NFI
+Generate the inflected form for: inhere V;PRS;NOM(3,SG)	e V;PRS;NOM(3,SG)generate the 
+Generate the inflected form for: inhere V;V.PTCP;PST	 PTCP;PST.PTCP;PST.PTCP;PST.PT
+Generate the inflected form for: instrengthen V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: instrengthen V;PRS;NOM(3,SG)	engthen V;PRS;NOM(3,SG)generat
+Generate the inflected form for: instrengthen V;PST	 V;PST V;PST V;PST V;PST V;PST
+Generate the inflected form for: instrengthen V;V.PTCP;PRS	 PTCP;PRSb PRSb PTCP;PRSb PTCP
+Generate the inflected form for: intergrade V;PRS;NOM(3,SG)	 SG SG SG SG SG SG SG SG SG SG
+Generate the inflected form for: intergrade V;PST	ear V V V V V V V V V V V V V 
+Generate the inflected form for: intergrade V;V.PTCP;PRS	 V;V.PTCP;PRSb;PRSb.PTCP;PRSb.
+Generate the inflected form for: internetwork V;PRS;NOM(3,SG)	 internetwork V;PRS;NOM(3,SG)g
+Generate the inflected form for: internetwork V;V.PTCP;PRS	 V;V.PTCP;PRSb V;V.PTCP;PRSb V
+Generate the inflected form for: internetwork V;V.PTCP;PST	 internetwork V;V.PTCP;PSTb in
+Generate the inflected form for: interplay V;NFIN	 the inflected form for: inter
+Generate the inflected form for: interplay V;PRS;NOM(3,SG)	 interplay V;PRS;NOM(3,SG)gene
+Generate the inflected form for: interplay V;V.PTCP;PRS	 interplay V;V.PTCP;PRSb inter
+Generate the inflected form for: interplay V;V.PTCP;PST	 PTCP;PST PST PTCP.PTCP.PST.PT
+Generate the inflected form for: interpoint V;NFIN	 interpoint V;NFINg interpoint
+Generate the inflected form for: interpoint V;V.PTCP;PRS	 V;V.PTCP;PRSb V.PTCP;PRSb V.P
+Generate the inflected form for: interpoint V;V.PTCP;PST	 PTCP;PST PST PTCP.PTCP.PST.PT
+Generate the inflected form for: jetski V;NFIN	ski V;NFINg V;NFINg V;NFINg V;
+Generate the inflected form for: jetski V;V.PTCP;PRS	etski V;V.PTCP;PRSetski V;V.PT
+Generate the inflected form for: jetski V;V.PTCP;PST	 V;V.PTCP;PST.PTCP;PST.PTCP;PS
+Generate the inflected form for: jockey V;PRS;NOM(3,SG)	ey V;PRS;NOM(3,SG)generate the
+Generate the inflected form for: jockey V;V.PTCP;PRS	ey V;V.PTCP;PRSey V;V.PTCP;PRS
+Generate the inflected form for: jockey V;V.PTCP;PST	ey V;V.PTCP;PST;PST.PTCP;PST.P
+Generate the inflected form for: joke V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: joke V;PRS;NOM(3,SG)	e joke joke joke joke joke jok
+Generate the inflected form for: joke V;PST	 V;PST V;PST V;PST V;PST V;PST
+Generate the inflected form for: juice V;NFIN	 I N I N I N I N I N I N I N I
+Generate the inflected form for: juice V;PRS;NOM(3,SG)	 V;PRS;NOM(3,SG)generate the i
+Generate the inflected form for: juice V;V.PTCP;PST	 PTCP;PST.PTCP;PST.PTCP;PST.PT
+Generate the inflected form for: knuckleball V;NFIN	ball V;NFINg knuckleball V;NFI
+Generate the inflected form for: knuckleball V;PRS;NOM(3,SG)	ball knuckleball knuckleball k
+Generate the inflected form for: knuckleball V;PST	eball V;
+knuckleball V;
+knuckl
+Generate the inflected form for: knuckleball V;V.PTCP;PST	ball V;V.PTCP;PST V;V.PTCP;PST
+Generate the inflected form for: laud V;V.PTCP;PRS	 laud V;V.PTCP;PRSb laud V;V.P
+Generate the inflected form for: laud V;V.PTCP;PST	 laud V;V.PTCP;PST;PST.PTCP.PT
+Generate the inflected form for: lave V;NFIN	 lave V;NFINs lave V;NFINs lav
+Generate the inflected form for: lave V;PRS;NOM(3,SG)	a lave lave lave lave lave lav
+Generate the inflected form for: lave V;PST	 V;PST V;PST V;PST V;PST V;PST
+Generate the inflected form for: lave V;V.PTCP;PRS	 lave V;V.PTCP;PRSb lave V;V.P
+Generate the inflected form for: lear V;NFIN	 lear V;NFINg lear V;NFINg lea
+Generate the inflected form for: lear V;V.PTCP;PRS	 lear V;V.PTCP;PRSb lear V;V.P
+Generate the inflected form for: legislate V;NFIN	 IN the form of the legislate 
+Generate the inflected form for: legislate V;PST	 V;PST;PST;PST;PST;PST;PST;PST
+Generate the inflected form for: legislate V;V.PTCP;PRS	e V;V.PTCP;PRSb;V.PTCP.PTCP.PR
+Generate the inflected form for: legislate V;V.PTCP;PST	e V;V.PTCP;PST.PTCP;PST.PTCP;P
+Generate the inflected form for: livetweet V;NFIN	 Inflect the inflected form fo
+Generate the inflected form for: livetweet V;PRS;NOM(3,SG)	 livetweet livetweet livetweet
+Generate the inflected form for: livetweet V;PST	 livetweet V;PST V;PST V;PST V
+Generate the inflected form for: livetweet V;V.PTCP;PST	 livetweet V;V.PTCP;PSTv livet
+Generate the inflected form for: loun V;PRS;NOM(3,SG)	 loun V;PRS;NOM(3,SG)generate 
+Generate the inflected form for: loun V;PST	 V;PST V;PST V;PST V;PST V;PST
+Generate the inflected form for: loun V;V.PTCP;PRS	 loun V;V.PTCP;PRSeries V;V.PT
+Generate the inflected form for: loun V;V.PTCP;PST	 PTCP;PST.PTCP;PST.PTCP;PST.PT
+Generate the inflected form for: lush V;NFIN	 lush V;NFINs lush V;NFINs lus
+Generate the inflected form for: lush V;PRS;NOM(3,SG)	 lush lush lush lush lush lush
+Generate the inflected form for: lush V;V.PTCP;PRS	 lush V;V.PTCP;PRSb lush V;V.P
+Generate the inflected form for: machicolate V;PRS;NOM(3,SG)	ate V;PRS;NOM(3,SG)generate th
+Generate the inflected form for: machicolate V;PST	 V V V V V V V V V V V V V V V
+Generate the inflected form for: machicolate V;V.PTCP;PRS	olate machicolate machicolate 
+Generate the inflected form for: machicolate V;V.PTCP;PST	ate V;V.PTCP;PST;PST.PTCP;PST.
+Generate the inflected form for: mactate V;PRS;NOM(3,SG)	ate mactate mactate mactate ma
+Generate the inflected form for: mactate V;PST	ate V;PST V;PST V;PST V;PST V;
+Generate the inflected form for: mactate V;V.PTCP;PRS	ate V;V.PTCP;PRSb mactate V;V.
+Generate the inflected form for: mactate V;V.PTCP;PST	ate V;V.PTCP;PST.PTCP;PST.PTCP
+Generate the inflected form for: mand V;NFIN	 mand V;NFINs V;NFINs V;NFINs 
+Generate the inflected form for: mand V;PST	 V;PST V;PST V;PST V;PST V;PST
+Generate the inflected form for: mand V;V.PTCP;PRS	 PTCP PRS PTCP PRS PTCP PRS PT
+Generate the inflected form for: mand V;V.PTCP;PST	 PTCP;PST PST PTCP PTCP PTCP P
+Generate the inflected form for: maternalize V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: maternalize V;PRS;NOM(3,SG)	 Search for a particular form 
+Generate the inflected form for: maternalize V;V.PTCP;PRS	e V;V.PTCP;PRSb V.PTCP;PRSb V.
+Generate the inflected form for: maternalize V;V.PTCP;PST	 Generate the inflected form f
+Generate the inflected form for: meach V;PRS;NOM(3,SG)	 S S S S S S S S S S S S S S S
+Generate the inflected form for: meach V;PST	 V V V V V V V V V V V V V V V
+Generate the inflected form for: meach V;V.PTCP;PRS	 PTCP PRS PTCP PRS PTCP PRS PT
+Generate the inflected form for: meach V;V.PTCP;PST	 PTCP;PST.PTCP;PST.PTCP;PST.PT
+Generate the inflected form for: mirk V;NFIN	 V;NFINs V;NFINs V;NFINs V;NFI
+Generate the inflected form for: mirk V;PRS;NOM(3,SG)	 mirk V;PRS;NOM(3,SG)a mirk V;
+Generate the inflected form for: mirk V;PST	 V;PST V V V V V V V V V V V V
+Generate the inflected form for: mirk V;V.PTCP;PRS	 mirk V;V.PTCP;PRSe mirk V;V.P
+Generate the inflected form for: misken V;NFIN	 misken V;NFIN misken V;NFIN m
+Generate the inflected form for: misken V;PST	 V;PSTE V;PSTE V;PSTE V;PSTE V
+Generate the inflected form for: misken V;V.PTCP;PRS	 V;V.PTCP;PRSe V;V.PTCP;PRSe.P
+Generate the inflected form for: misstructure V;NFIN	NFINg NFINg NFINg NFINg NFINg 
+Generate the inflected form for: misstructure V;PRS;NOM(3,SG)	 ( ) ( ) ( ) ( ) ( ) ( ) ( ) (
+Generate the inflected form for: misstructure V;V.PTCP;PST	 V;V.PTCP;PST;PST.PTCP;PST.PTC
+Generate the inflected form for: misvalue V;NFIN	 Inflected form for: misvalue 
+Generate the inflected form for: misvalue V;PST	er V;PSTO V;PSTO V;PSTO V;PSTO
+Generate the inflected form for: misvalue V;V.PTCP;PRS	 V;V.PTCP;PRSb V.PTCP;PRSb V.P
+Generate the inflected form for: misvalue V;V.PTCP;PST	 V;V.PTCP;PSTb V.PTCP;PSTb.PTC
+Generate the inflected form for: mold V;PST	 V V V V V V V V V V V V V V V
+Generate the inflected form for: mongrelize V;NFIN	elize V;NFIN;NFIN;NFIN;NFIN;NF
+Generate the inflected form for: mongrelize V;PRS;NOM(3,SG)	elize V;PRS;NOM(3,SG)generate 
+Generate the inflected form for: mongrelize V;PST	elize V;PST V V V V V V V V V 
+Generate the inflected form for: mongrelize V;V.PTCP;PRS	elize V;V.PTCP;PRSelect the fo
+Generate the inflected form for: mounch V;NFIN	 V;NFINs V;NFINs V;NFINs V;NFI
+Generate the inflected form for: mounch V;V.PTCP;PST	 V;V.PTCP;PSTb V.PTCP;PSTb.PTC
+Generate the inflected form for: nasalise V;NFIN	ise II;NFINgenerate the inflec
+Generate the inflected form for: nasalise V;PRS;NOM(3,SG)	alise V;PRS;NOM(3,SG)generate 
+Generate the inflected form for: nasalise V;PST	 V V V V V V V V V V V V V V V
+Generate the inflected form for: nasalise V;V.PTCP;PST	ise V;V.PTCP;PSTb;PSTb.PTCP;PS
+Generate the inflected form for: newname V;NFIN	 V;NFINgenerate the inflected 
+Generate the inflected form for: newname V;PRS;NOM(3,SG)	 V;PRS;NOM(3,SG)generate the i
+Generate the inflected form for: newname V;PST	 V;PSTk V V V V V V V V V V V 
+Generate the inflected form for: newname V;V.PTCP;PST	 V.PTCP;PST;PST.PTCP.PTCP.PTCP
+Generate the inflected form for: obdure V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: obdure V;PST	e V;PST V PST V PST V PST V PS
+Generate the inflected form for: obdure V;V.PTCP;PRS	e V;V.PTCP;PRSbdure V;V.PTCP;P
+Generate the inflected form for: obdure V;V.PTCP;PST	e V;V.PTCP;PSTb;V.PTCP;PSTb.PT
+Generate the inflected form for: obsolete V;NFIN	ete V;NFINg V;NFINg V;NFINg V;
+Generate the inflected form for: obsolete V;PRS;NOM(3,SG)	ete obsolete obsolete obsolete
+Generate the inflected form for: obsolete V;PST	ete V;PST V;PST V;PST V;PST V;
+Generate the inflected form for: obsolete V;V.PTCP;PRS	ete V;V.PTCP;PRSb;V.PTCP;PRSb.
+Generate the inflected form for: outbud V;NFIN	 V;NFINs V;NFINs V;NFINs V;NFI
+Generate the inflected form for: outbud V;PRS;NOM(3,SG)	 inbud V;PRS;NOM(3,SG)generate
+Generate the inflected form for: outbud V;V.PTCP;PRS	 inbud V;V.PTCP;PRSbud V;V.PTC
+Generate the inflected form for: outbud V;V.PTCP;PST	 outbud V;V.PTCP;PST;PST.PTCP;
+Generate the inflected form for: outduel V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: outduel V;PRS;NOM(3,SG)	el outduel outduel outduel out
+Generate the inflected form for: outduel V;V.PTCP;PST	 outduel V;V.PTCP;PST;PST.PTCP
+Generate the inflected form for: outgush V;PRS;NOM(3,SG)	gush outgush outgush outgush o
+Generate the inflected form for: outgush V;PST	 V;PSTn V;PSTn V;PSTn V;PSTn V
+Generate the inflected form for: outgush V;V.PTCP;PRS	 outgush V;V.PTCP;PRSb outgush
+Generate the inflected form for: outgush V;V.PTCP;PST	 outgush outgush outgush outgu
+Generate the inflected form for: outjuggle V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: outjuggle V;PRS;NOM(3,SG)	eat the standard for the outju
+Generate the inflected form for: outjuggle V;PST	eat V;PSTnews - outjuggle V;PS
+Generate the inflected form for: outjuggle V;V.PTCP;PRS	e V;V.PTCP;PRSb;PRSb.PTCP;PRSb
+Generate the inflected form for: outplace V;NFIN	NFINg V;NFINg V;NFINg V;NFINg 
+Generate the inflected form for: outplace V;PRS;NOM(3,SG)	 outplace outplace outplace ou
+Generate the inflected form for: outplace V;PST	 outplace V;PST outplace V;PST
+Generate the inflected form for: outplace V;V.PTCP;PRS	e outplace V;V.PTCP;PRSbyden o
+Generate the inflected form for: outwin V;NFIN	 V;NFIN V;NFIN V;NFIN V;NFIN V
+Generate the inflected form for: outwin V;PRS;NOM(3,SG)	 outwin V;PRS;NOM(3,SG)generat
+Generate the inflected form for: outwin V;V.PTCP;PST	 outwin outwin outwin outwin o
+Generate the inflected form for: overdot V;NFIN	 overdot V;NFINg overdot V;NFI
+Generate the inflected form for: overdot V;PST	 V overdot V overdot V overdot
+Generate the inflected form for: overdot V;V.PTCP;PRS	 overdot V;V.PTCP;PRSerial ove
+Generate the inflected form for: overdot V;V.PTCP;PST	 PTCP;PST PST PTCP.PTCP.PST.PT
+Generate the inflected form for: overexpose V;NFIN	 IN the inflected form for: ov
+Generate the inflected form for: overexpose V;PST	 V;PSTn V;PSTn V;PSTn V;PSTn V
+Generate the inflected form for: overexpose V;V.PTCP;PST	 V;V.PTCP;PSTby V;V.PTCP;PSTby
+Generate the inflected form for: overgloom V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: overgloom V;PRS;NOM(3,SG)	om overgloom overgloom overglo
+Generate the inflected form for: overgloom V;PST	out V;PSTnews V;PSTnews V;PSTn
+Generate the inflected form for: overgloom V;V.PTCP;PST	 overgloom overgloom overgloom
+Generate the inflected form for: overgrow V;PRS;NOM(3,SG)	read the form for: overgrow V;
+Generate the inflected form for: overgrow V;V.PTCP;PRS	 overgrow V;V.PTCP;PRSeries V;
+Generate the inflected form for: overplow V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: overplow V;PST	 V;PSTnews Archives - PSTnews.
+Generate the inflected form for: overplow V;V.PTCP;PRS	 overplow overplow overplow ov
+Generate the inflected form for: overplow V;V.PTCP;PST	 overplow V;V.PTCP;PST.PTCP;PS
+Generate the inflected form for: overpublicize V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: overpublicize V;V.PTCP;PRS	er V;V.PTCP;PRSer V;V.PTCP;PRS
+Generate the inflected form for: overpublicize V;V.PTCP;PST	;V.PTCP;PSTb;PSTb.PTCP.PTCP.PS
+Generate the inflected form for: overreckon V;NFIN	 overreckon V;NFINg overreckon
+Generate the inflected form for: overreckon V;PRS;NOM(3,SG)	reckon V;PRS;NOM(3,SG)generate
+Generate the inflected form for: overreckon V;PST	 overreckon V;PSTg overreckon 
+Generate the inflected form for: overreckon V;V.PTCP;PRS	on V;V.PTCP;PRSby V;V.PTCP;PRS
+Generate the inflected form for: overtask V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: overtask V;PRS;NOM(3,SG)	ask V;PRS;NOM(3,SG)generate th
+Generate the inflected form for: overtask V;V.PTCP;PRS	ask V;V.PTCP;PRServer V;V.PTCP
+Generate the inflected form for: overtask V;V.PTCP;PST	 PTCP;PST.PTCP;PST.PTCP.PTCP.P
+Generate the inflected form for: overwater V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: overwater V;PST	er V;PSTn V;PSTn V;PSTn V;PSTn
+Generate the inflected form for: palatalize V;NFIN	alize V;NFINgenerate the infle
+Generate the inflected form for: palatalize V;PST	alize V;PST V V V V V V V V V 
+Generate the inflected form for: palatalize V;V.PTCP;PRS	alize V;V.PTCP;PRSb V;V.PTCP;P
+Generate the inflected form for: palatalize V;V.PTCP;PST	alize V;V.PTCP;PST.PTCP;PST.PT
+Generate the inflected form for: paralyze V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: paralyze V;PRS;NOM(3,SG)	e V;PRS;NOM(3,SG)generate the 
+Generate the inflected form for: paralyze V;V.PTCP;PRS	e V;V.PTCP;PRSe V;V.PTCP;PRSe.
+Generate the inflected form for: parboil V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: parboil V;PRS;NOM(3,SG)	er V;PRS;NOM(3,SG)generate the
+Generate the inflected form for: parboil V;V.PTCP;PRS	 parboil V;V.PTCP;PRSeries par
+Generate the inflected form for: parboil V;V.PTCP;PST	 parboil V;V.PTCP;PSTboil V;V.
+Generate the inflected form for: pauperise V;PRS;NOM(3,SG)	ise V;PRS;NOM(3,SG)generate th
+Generate the inflected form for: pauperise V;PST	e V;PST V V V V V V V V V V V 
+Generate the inflected form for: pauperise V;V.PTCP;PRS	ise V;V.PTCP;PRSb;PRSb.PTCP;PR
+Generate the inflected form for: pauperise V;V.PTCP;PST	ise V;V.PTCP;PST;PST;PST;PST.P
+Generate the inflected form for: perhorresce V;PRS;NOM(3,SG)	e V;PRS;NOM(3,SG)generate the 
+Generate the inflected form for: perhorresce V;PST	e V;PSTman V;PSTman V;PSTman V
+Generate the inflected form for: perhorresce V;V.PTCP;PRS	er V;V.PTCP;PRSb perhorresce V
+Generate the inflected form for: perhorresce V;V.PTCP;PST	er V;V.PTCP;PST.PTCP;PST.PTCP.
+Generate the inflected form for: phosphorylate V;NFIN	 and reduce the reaction for: 
+Generate the inflected form for: phosphorylate V;V.PTCP;PST	 V;V.PTCP;PST;PST;PST.PTCP;PST
+Generate the inflected form for: piggyback V;PRS;NOM(3,SG)	back piggyback piggyback piggy
+Generate the inflected form for: piggyback V;PST	back III IV IV IV IV IV IV IV 
+Generate the inflected form for: piggyback V;V.PTCP;PRS	back piggyback piggyback piggy
+Generate the inflected form for: piggyback V;V.PTCP;PST	back piggyback piggyback piggy
+Generate the inflected form for: politize V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: politize V;PST	e V;PST PST PST PST PST PST PS
+Generate the inflected form for: politize V;V.PTCP;PST	e V;V.PTCP;PSTby the following
+Generate the inflected form for: polycondense V;NFIN	 V polycondense V polycondense
+Generate the inflected form for: polycondense V;PRS;NOM(3,SG)	 SG Generate the inflected for
+Generate the inflected form for: polycondense V;PST	 V V V V V V V V V V V V V V V
+Generate the inflected form for: polycondense V;V.PTCP;PST	out of the standard for: polyc
+Generate the inflected form for: polytenize V;NFIN	enize V;NFINgenerate the infle
+Generate the inflected form for: polytenize V;PRS;NOM(3,SG)	enize V;PRS;NOM(3,SG)generate 
+Generate the inflected form for: polytenize V;V.PTCP;PST	enize V;V.PTCP;PSTgenerate the
+Generate the inflected form for: pork V;PST	 pork V;PST V;PST V;PST V;PST 
+Generate the inflected form for: pork V;V.PTCP;PRS	 PTCP;PRSe PTCP.PTCP.PRSe.PTCP
+Generate the inflected form for: pork V;V.PTCP;PST	 PTCP;PSTb PTCP.PTCP.PSTb.PTCP
+Generate the inflected form for: pouch V;NFIN	 pouch V;NFINg pouch V;NFINg p
+Generate the inflected form for: pouch V;PST	 pouch pouch pouch pouch pouch
+Generate the inflected form for: pouch V;V.PTCP;PRS	 pouch pouch pouch pouch pouch
+Generate the inflected form for: pouch V;V.PTCP;PST	 PTCP;PST.PTCP;PST.PTCP;PST.PT
+Generate the inflected form for: practicalize V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: practicalize V;PRS;NOM(3,SG)	e V;PRS;NOM(3,SG)generate the 
+Generate the inflected form for: practicalize V;PST	 V;PST PST PST PST PST PST PST
+Generate the inflected form for: practicalize V;V.PTCP;PRS	e V;V.PTCP;PRSb;PRSb.PTCP.PRSb
+Generate the inflected form for: praise V;NFIN	 praise V;NFINg praise V;NFINg
+Generate the inflected form for: praise V;V.PTCP;PST	e V;V.PTCP;PSTby V;V.PTCP;PSTb
+Generate the inflected form for: predicate V;NFIN	NFIN; Generate the inflected f
+Generate the inflected form for: predicate V;V.PTCP;PRS	 subsubsubsubsubsubsubsubsubsu
+Generate the inflected form for: preprogram V;NFIN	 the inflected form for: prepr
+Generate the inflected form for: preprogram V;PRS;NOM(3,SG)	 PRS V;PRS V;PRS V;PRS V;PRS V
+Generate the inflected form for: preprogram V;V.PTCP;PRS	 preprogram V;V.PTCP;PRSb prep
+Generate the inflected form for: preprogram V;V.PTCP;PST	 PTCP PTCP PTCP PTCP PTCP PTCP
+Generate the inflected form for: preseed V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: preseed V;PRS;NOM(3,SG)	eed PRS;NOM(3,SG)generate the 
+Generate the inflected form for: preseed V;PST	 V;PST V;PST V;PST V;PST V;PST
+Generate the inflected form for: preseed V;V.PTCP;PST	 PTCP;PSTby PTCP.PTCP.PSTby PT
+Generate the inflected form for: preshow V;PST	 V PST PST PST PST PST PST PST
+Generate the inflected form for: preshow V;V.PTCP;PRS	 PTCP PRS PTCP PRS PTCP PRS PT
+Generate the inflected form for: preshow V;V.PTCP;PST	 V;V.PTCP;PSTbuild the inflect
+Generate the inflected form for: pretest V;PRS;NOM(3,SG)	est V;PRS;NOM(3,SG)generate th
+Generate the inflected form for: pretest V;PST	 V;PST V;PST V;PST V;PST V;PST
+Generate the inflected form for: pretest V;V.PTCP;PRS	 PTCP;PRSb PTCP.PTCP.PRSb.PTCP
+Generate the inflected form for: pretest V;V.PTCP;PST	 PTCP;PST PTCP.PTCP.PST.PTCP.P
+Generate the inflected form for: proclaime V;NFIN	 V;NFIN;NFIN;NFIN;NFIN;NFIN;NF
+Generate the inflected form for: proclaime V;V.PTCP;PST	 PTCP;PST proclaime V;V.PTCP;P
+Generate the inflected form for: protocol V;PRS;NOM(3,SG)	 (3,SG) Generate the inflected
+Generate the inflected form for: protocol V;PST	 for: protocol V;PSTn for: pro
+Generate the inflected form for: protocol V;V.PTCP;PRS	 PTCP PRS PRS PRS PRS PRS PRS 
+Generate the inflected form for: provinciate V;NFIN	 provinciate V;NFINg provincia
+Generate the inflected form for: provinciate V;PST	e V;PST V;PST V;PST V;PST V;PS
+Generate the inflected form for: provinciate V;V.PTCP;PRS	er V;V.PTCP;PRSb provinciate V
+Generate the inflected form for: provinciate V;V.PTCP;PST	er V;V.PTCP;PST.PTCP;PST.PTCP;
+Generate the inflected form for: re-dye V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: re-dye V;PST	e V;PST V;PST V;PST V;PST V;PS
+Generate the inflected form for: re-dye V;V.PTCP;PRS	e V;V.PTCP;PRSe V;V.PTCP;PRSe 
+Generate the inflected form for: re-dye V;V.PTCP;PST	 V;V.PTCP;PSTb V.PTCP;PSTb.PTC
+Generate the inflected form for: re-use V;NFIN	NFINg Inflect the inflected fo
+Generate the inflected form for: re-use V;PRS;NOM(3,SG)	 SG SG SG SG SG SG SG SG SG SG
+Generate the inflected form for: re-use V;PST	 re-use V;PST V;PST V;PST V;PS
+Generate the inflected form for: re-use V;V.PTCP;PRS	PRS PRS PRS PRS PRS PRS PRS PR
+Generate the inflected form for: rearrest V;NFIN	rest V;NFINg rearrest V;NFINg 
+Generate the inflected form for: rearrest V;V.PTCP;PRS	 PTCP;PRS PRS PRS PRS PRS PRS 
+Generate the inflected form for: redemand V;NFIN	 redemand V;NFINg redemand V;N
+Generate the inflected form for: redemand V;V.PTCP;PRS	 V;V.PTCP;PRSb V;V.PTCP;PRSb.P
+Generate the inflected form for: redemand V;V.PTCP;PST	 V;V.PTCP;PST;PST.PTCP;PST.PTC
+Generate the inflected form for: redline V;PST	 V redline V redline V redline
+Generate the inflected form for: redline V;V.PTCP;PST	 redline V;V.PTCP;PSTb redline
+Generate the inflected form for: refamiliarize V;NFIN	ize V;NFINgenerate the inflect
+Generate the inflected form for: refamiliarize V;PRS;NOM(3,SG)	arize V;PRS;NOM(3,SG)generate 
+Generate the inflected form for: refamiliarize V;PST	ection V;PSTs refamiliarize V;
+Generate the inflected form for: refamiliarize V;V.PTCP;PRS	erize V;V.PTCP;PRSby V;V.PTCP;
+Generate the inflected form for: refold V;PRS;NOM(3,SG)	 refold refold refold refold r
+Generate the inflected form for: refold V;PST	 refold V;PSTman refold V;PSTm
+Generate the inflected form for: refold V;V.PTCP;PRS	 V;V.PTCP;PRSb V;V.PTCP;PRSb.P
+Generate the inflected form for: refold V;V.PTCP;PST	 PTCP;PST PTCP.PTCP.PST.PTCP.P
+Generate the inflected form for: regale V;NFIN	 V;NFIN;NFIN;NFIN;NFIN;NFIN;NF
+Generate the inflected form for: regale V;PRS;NOM(3,SG)	e V;PRS;NOM(3,SG)generate the 
+Generate the inflected form for: regale V;V.PTCP;PRS	 regale V;V.PTCP;PRSb regale V
+Generate the inflected form for: regale V;V.PTCP;PST	 regale V;V.PTCP;PST.PTCP;PST.
+Generate the inflected form for: regiment V;PST	 V regiment V regiment V regim
+Generate the inflected form for: regiment V;V.PTCP;PST	 PTCP;PST PST PTCP.PTCP.PST.PT
+Generate the inflected form for: rehybridize V;NFIN	 V;NFINgenerate the inflected 
+Generate the inflected form for: rehybridize V;PRS;NOM(3,SG)	ector V;PRS;NOM(3,SG)generate 
+Generate the inflected form for: rehybridize V;PST	e V rehybridize V rehybridize 
+Generate the inflected form for: rehybridize V;V.PTCP;PRS	ector V;V.PTCP;PRSb;V.PTCP;PRS
+Generate the inflected form for: reinsulate V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: reinsulate V;V.PTCP;PST	 PTCP;PST PTCP.PTCP.PST.PTCP.P
+Generate the inflected form for: relodge V;NFIN	e V;NFINge V;NFINge V;NFINge V
+Generate the inflected form for: relodge V;PST	e V;PST V;PST V;PST V;PST V;PS
+Generate the inflected form for: relodge V;V.PTCP;PRS	e V;V.PTCP;PRS.PTCP;PRS.PTCP.P
+Generate the inflected form for: relodge V;V.PTCP;PST	e V;V.PTCP;PSTby the following
+Generate the inflected form for: remodel V;PRS;NOM(3,SG)	 V;PRS;NOM(3,SG)generate the i
+Generate the inflected form for: remodel V;PST	 V V V V V V V V V V V V V V V
+Generate the inflected form for: remodel V;V.PTCP;PRS	 V;V.PTCP;PRSeries V.PTCP;PRSe
+Generate the inflected form for: remodel V;V.PTCP;PST	 V;V.PTCP;PST.PTCP;PST.PTCP.PT
+Generate the inflected form for: renaturalize V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: renaturalize V;PRS;NOM(3,SG)	e V;PRS;NOM(3,SG)generate the 
+Generate the inflected form for: renaturalize V;V.PTCP;PRS	ect V;V.PTCP;PRSbyden V;V.PTCP
+Generate the inflected form for: renaturalize V;V.PTCP;PST	ect V;V.PTCP;PST.PTCP;PST.PTCP
+Generate the inflected form for: reperuse V;NFIN	e V;NFINg V;NFINg V;NFINg V;NF
+Generate the inflected form for: reperuse V;PRS;NOM(3,SG)	e V;PRS;NOM(3,SG)generate the 
+Generate the inflected form for: reperuse V;PST	e V;PSTge V;PSTge V;PSTge V;PS
+Generate the inflected form for: reperuse V;V.PTCP;PST	e V;V.PTCP;PSTb reperuse V;V.P
+Generate the inflected form for: repipe V;NFIN	 V;NFINgenerate the inflected 
+Generate the inflected form for: repipe V;PRS;NOM(3,SG)	 S S S S S S S S S S S S S S S
+Generate the inflected form for: repipe V;V.PTCP;PST	 V;V.PTCP;PST V.PTCP;PST.PTCP;
+Generate the inflected form for: repopularise V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: repopularise V;PST	ease V;PST V;PST V;PST V;PST V
+Generate the inflected form for: repopularise V;V.PTCP;PRS	ise V;V.PTCP;PRSense V;V.PTCP;
+Generate the inflected form for: repopularise V;V.PTCP;PST	erise V;V.PTCP;PST;PST.PTCP;PS
+Generate the inflected form for: repot V;NFIN	 repot V;NFINg repot V;NFINg r
+Generate the inflected form for: repot V;PST	 repot V repot V repot V repot
+Generate the inflected form for: repot V;V.PTCP;PRS	 repot V;V.PTCP;PRSgenerate th
+Generate the inflected form for: repot V;V.PTCP;PST	 PTCP;PST PST PTCP.PTCP.PST.PT
+Generate the inflected form for: reprice V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: reprice V;PRS;NOM(3,SG)	 reprice V;PRS;NOM(3,SG)and re
+Generate the inflected form for: reprice V;V.PTCP;PRS	 V;V.PTCP;PRS.PTCP;PRS.PTCP.PT
+Generate the inflected form for: reprice V;V.PTCP;PST	 PTCP;PST PST PTCP.PTCP.PTCP.P
+Generate the inflected form for: reprogramme V;NFIN	 V;NFINgenerate the inflected 
+Generate the inflected form for: reprogramme V;PRS;NOM(3,SG)	 SG SG SG SG SG SG SG SG SG SG
+Generate the inflected form for: reprogramme V;V.PTCP;PRS	 V;V.PTCP;PRS;PRS.PTCP.PRS.PTC
+Generate the inflected form for: reprogramme V;V.PTCP;PST	 V;V.PTCP;PSTb V.PTCP;PSTb.PTC
+Generate the inflected form for: resent V;PST	 V;PSTn V;PSTn V;PSTn V;PSTn V
+Generate the inflected form for: resent V;V.PTCP;PRS	 V;V.PTCP;PRSb V.PTCP;PRSb.PTC
+Generate the inflected form for: resent V;V.PTCP;PST	 V;V.PTCP;PSTb V.PTCP;PSTb.PTC
+Generate the inflected form for: revector V;NFIN	 IN IN IN IN IN IN IN IN IN IN
+Generate the inflected form for: revector V;PRS;NOM(3,SG)	ector V;PRS;NOM(3,SG)antivecto
+Generate the inflected form for: revector V;PST	ector V V V V V V V V V V V V 
+Generate the inflected form for: revector V;V.PTCP;PST	 V;V.PTCP;PSTb;V.PTCP;PSTb.PTC
+Generate the inflected form for: rewetten V;NFIN	 rewetten V;NFIN rewetten V;NF
+Generate the inflected form for: rewetten V;PST	 rewetten V;PST rewetten V;PST
+Generate the inflected form for: rewetten V;V.PTCP;PRS	en V;V.PTCP;PRSen V;V.PTCP;PRS
+Generate the inflected form for: rewetten V;V.PTCP;PST	en V;V.PTCP;PST.PTCP;PST.PTCP.
+Generate the inflected form for: rigidize V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: rigidize V;PRS;NOM(3,SG)	e V;PRS;NOM(3,SG)generate the 
+Generate the inflected form for: rigidize V;V.PTCP;PRS	e V;V.PTCP;PRSb V;V.PTCP;PRSb 
+Generate the inflected form for: rigidize V;V.PTCP;PST	e V;V.PTCP;PST.PTCP.PTCP.PTCP.
+Generate the inflected form for: roadshow V;PRS;NOM(3,SG)	 roadshow roadshow roadshow ro
+Generate the inflected form for: roadshow V;PST	 V roadshow V roadshow V roads
+Generate the inflected form for: roadshow V;V.PTCP;PRS	 V;V.PTCP;PRSb V;V.PTCP;PRSb V
+Generate the inflected form for: roadshow V;V.PTCP;PST	 roadshow V;V.PTCP;PSTb roadsh
+Generate the inflected form for: romanticise V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: romanticise V;PRS;NOM(3,SG)	 Set the form for the romantic
+Generate the inflected form for: romanticise V;V.PTCP;PRS	er V;V.PTCP;PRSb romanticise V
+Generate the inflected form for: romanticise V;V.PTCP;PST	e V;V.PTCP;PST;PST;PST;PST.PTC
+Generate the inflected form for: rong V;NFIN	 V;NFINs V;NFINs V;NFINs V;NFI
+Generate the inflected form for: rong V;PRS;NOM(3,SG)	 rong V;PRS;NOM(3,SG)generate 
+Generate the inflected form for: rong V;V.PTCP;PRS	 V;V.PTCP;PRSb V;V.PTCP;PRSb V
+Generate the inflected form for: rong V;V.PTCP;PST	 V;V.PTCP;PST;PST.PTCP.PTCP.PT
+Generate the inflected form for: ross V;NFIN	 ross V;NFINs ross V;NFINs ros
+Generate the inflected form for: ross V;PRS;NOM(3,SG)	er V;PRS;NOM(3,SG)generate the
+Generate the inflected form for: ross V;PST	er V;PST V;PST V;PST V;PST V;P
+Generate the inflected form for: roughen V;NFIN	 roughen V;NFIN roughen V;NFIN
+Generate the inflected form for: roughen V;PRS;NOM(3,SG)	en V;PRS;NOM(3,SG)generate the
+Generate the inflected form for: roughen V;V.PTCP;PST	en V;V.PTCP;PSTby Andrew Steve
+Generate the inflected form for: roundtrip V;NFIN	 t r t r t r t r t r t r t r t
+Generate the inflected form for: roundtrip V;PST	 roundtrip V;PST V;PST V;PST V
+Generate the inflected form for: roundtrip V;V.PTCP;PRS	 roundtrip V;V.PTCP;PRS;PRS.PT
+Generate the inflected form for: sail V;PRS;NOM(3,SG)	 sail sail sail sail sail sail
+Generate the inflected form for: sail V;PST	 sail V;PSTm V;PSTm V;PSTm V;P
+Generate the inflected form for: sail V;V.PTCP;PRS	 sail V;V.PTCP;PRSb sail V;V.P
+Generate the inflected form for: sap V;V.PTCP;PRS	 sap V;V.PTCP;PRSe sap V;V.PTC
+Generate the inflected form for: sap V;V.PTCP;PST	 PTCP;PST PTCP.PTCP.PST.PTCP.P
+Generate the inflected form for: sardine V;NFIN	ardine V;NFIN V;NFIN V;NFIN V;
+Generate the inflected form for: sardine V;PRS;NOM(3,SG)	 sardine sardine sardine sardi
+Generate the inflected form for: sardine V;PST	ana V;
+PST - Part of the PST -
+Generate the inflected form for: sardine V;V.PTCP;PST	ane sardine sardine sardine sa
+Generate the inflected form for: scapegoat V;NFIN	ot V;NFINg V;NFINg V;NFINg V;N
+Generate the inflected form for: scapegoat V;PRS;NOM(3,SG)	oat V;PRS;NOM(3,SG)goat V;PRS;
+Generate the inflected form for: scapegoat V;V.PTCP;PRS	out scapegoat V;V.PTCP;PRSecti
+Generate the inflected form for: scapegoat V;V.PTCP;PST	out V;V.PTCP;PST;PST.PTCP;PST.
+Generate the inflected form for: scone V;NFIN	 I I I I I I I I I I I I I I I
+Generate the inflected form for: scone V;PRS;NOM(3,SG)	 SG SG SG SG SG SG SG SG SG SG
+Generate the inflected form for: scone V;PST	 V scone V scone V scone V sco
+Generate the inflected form for: scone V;V.PTCP;PST	 scone V;V.PTCP;PSTb;V.PTCP.PT
+Generate the inflected form for: season V;NFIN	NFINg NFINg NFINg NFINg NFINg 
+Generate the inflected form for: season V;PST	 V season V season V season V 
+Generate the inflected form for: season V;V.PTCP;PRS	 season V;V.PTCP;PRSb season V
+Generate the inflected form for: season V;V.PTCP;PST	 season V;V.PTCP;PSTby season 
+Generate the inflected form for: seceed V;PRS;NOM(3,SG)	eed seceed seceed seceed secee
+Generate the inflected form for: seceed V;PST	ed V;PSTman V;PSTman V;PSTman 
+Generate the inflected form for: seceed V;V.PTCP;PRS	 V;V.PTCP;PRSb V.PTCP;PRSb V.P
+Generate the inflected form for: seceed V;V.PTCP;PST	 seceed V;V.PTCP;PSTb V;V.PTCP
+Generate the inflected form for: sheal V;NFIN	 sheal V;NFINsheal V;NFINsheal
+Generate the inflected form for: sheal V;PRS;NOM(3,SG)	 sheal sheal sheal sheal sheal
+Generate the inflected form for: sheal V;PST	 V;PST V V V V V V V V V V V V
+Generate the inflected form for: sheal V;V.PTCP;PST	 sheal V;V.PTCP;PST sheal V;V.
+Generate the inflected form for: sie V;NFIN	 V;NFIN IN IN IN IN IN IN IN I
+Generate the inflected form for: sie V;PST	 V;PST V;PST V;PST V;PST V;PST
+Generate the inflected form for: sie V;V.PTCP;PRS	 PTCP;PRSb PTCP.PTCP.PRSb PTCP
+Generate the inflected form for: sie V;V.PTCP;PST	 PTCP;PST.PTCP.PTCP.PTCP.PTCP.
+Generate the inflected form for: slick V;NFIN	 slick V;NFINgenerate the infl
+Generate the inflected form for: slick V;PST	 slick V;PSTech V Produce the 
+Generate the inflected form for: slick V;V.PTCP;PST	 slick V;V.PTCP;PSTb slick V;V
+Generate the inflected form for: smirk V;NFIN	 smirk V;NFINsmirk V;NFINsmirk
+Generate the inflected form for: smirk V;PRS;NOM(3,SG)	mirk V;PRS;NOM(3,SG)generate t
+Generate the inflected form for: smirk V;V.PTCP;PRS	 smirk V;V.PTCP;PRSb smirk V;V
+Generate the inflected form for: smush V;NFIN	 smush V;NFINsmush V;NFINsmush
+Generate the inflected form for: smush V;PST	 V;PST V V V V V V V V V V V V
+Generate the inflected form for: smush V;V.PTCP;PRS	 smush smush smush smush smush
+Generate the inflected form for: softload V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: softload V;PRS;NOM(3,SG)	out V;PRS;NOM(3,SG)generate th
+Generate the inflected form for: softload V;PST	 V;PSTn V;PSTn V;PSTn V;PSTn V
+Generate the inflected form for: softload V;V.PTCP;PRS	 V;V.PTCP;PRServer V.PTCP;PRSe
+Generate the inflected form for: somnambulate V;PRS;NOM(3,SG)	ate V;PRS;NOM(3,SG)ate V;PRS;N
+Generate the inflected form for: somnambulate V;PST	eri V;PST V V V V V V V V V V 
+Generate the inflected form for: somnambulate V;V.PTCP;PRS	ate V;V.PTCP;PRSerial No. 10/2
+Generate the inflected form for: somnambulate V;V.PTCP;PST	ate V;V.PTCP;PST.PTCP;PST.PTCP
+Generate the inflected form for: spile V;NFIN	 V;NFIN;NFIN;NFIN;NFIN;NFIN;NF
+Generate the inflected form for: spile V;PRS;NOM(3,SG)	e V;PRS;NOM(3,SG)generate the 
+Generate the inflected form for: spile V;PST	e V spile V spile V spile V sp
+Generate the inflected form for: spile V;V.PTCP;PRS	 V;V.PTCP;PRSb V;V.PTCP;PRSb.P
+Generate the inflected form for: staddle V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: staddle V;PRS;NOM(3,SG)	e V;PRS;NOM(3,SG)generate the 
+Generate the inflected form for: staddle V;V.PTCP;PRS	 V;V.PTCP;PRSb V;V.PTCP;PRSb.P
+Generate the inflected form for: starburst V;PRS;NOM(3,SG)	angel starburst starburst star
+Generate the inflected form for: starburst V;PST	art III III III III III III II
+Generate the inflected form for: starburst V;V.PTCP;PRS	 V;V.PTCP;PRSe V;V.PTCP;PRSe V
+Generate the inflected form for: stark V;NFIN	 stark V;NFINg stark V;NFINg s
+Generate the inflected form for: stark V;PRS;NOM(3,SG)	angel SG SG SG SG SG SG SG SG 
+Generate the inflected form for: stark V;PST	easy V;PST V V stark V V V V V
+Generate the inflected form for: stark V;V.PTCP;PRS	 stark V;V.PTCP;PRSb V;V.PTCP;
+Generate the inflected form for: sternutate V;PRS;NOM(3,SG)	ernutate V;PRS;NOM(3,SG)genera
+Generate the inflected form for: sternutate V;PST	ernutate V;PSTgenerate the inf
+Generate the inflected form for: sternutate V;V.PTCP;PRS	ate V;V.PTCP;PRSbergen V;V.PTC
+Generate the inflected form for: sternutate V;V.PTCP;PST	ernutate V;V.PTCP;PSTb;PSTb.PT
+Generate the inflected form for: storm V;NFIN	 storm storm storm storm storm
+Generate the inflected form for: storm V;PRS;NOM(3,SG)	out storm storm storm storm st
+Generate the inflected form for: storm V;V.PTCP;PST	 PTCP;PST.PTCP;PST.PTCP.PTCP.P
+Generate the inflected form for: storyboard V;PRS;NOM(3,SG)	 SB is a storyboard for the st
+Generate the inflected form for: storyboard V;PST	e V;PST V V V V V V V V V V V 
+Generate the inflected form for: stringify V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: stringify V;PST	 stringify V;PSTgenerate the i
+Generate the inflected form for: stringify V;V.PTCP;PRS	;V.PTCP;PRServer; stringify V;
+Generate the inflected form for: stringify V;V.PTCP;PST	;V.PTCP;PST;PST;PST;PST;PST;PS
+Generate the inflected form for: strip-search V;NFIN	 search search search search s
+Generate the inflected form for: strip-search V;V.PTCP;PRS	 search V;V.PTCP;PRSb strip-se
+Generate the inflected form for: strip-search V;V.PTCP;PST	 PTCP;PST PTCP.PTCP.PST PTCP.P
+Generate the inflected form for: strow V;NFIN	 V;NFINstrow V;NFINstrow V;NFI
+Generate the inflected form for: strow V;PST	 V;PST V;PST V;PST V;PST V;PST
+Generate the inflected form for: strow V;V.PTCP;PRS	 strow V;V.PTCP;PRSeries V.PTC
+Generate the inflected form for: strow V;V.PTCP;PST	 V;V.PTCP;PSTb V.PTCP;PSTb V.P
+Generate the inflected form for: sublime V;NFIN	 sublime V;NFIN sublime V;NFIN
+Generate the inflected form for: sublime V;V.PTCP;PST	 sublime V;V.PTCP;PST.PTCP;PST
+Generate the inflected form for: subsidise V;PRS;NOM(3,SG)	ise V;PRS;NOM(3,SG)generate th
+Generate the inflected form for: subsidise V;V.PTCP;PRS	 subsidise V;V.PTCP;PRSb subsi
+Generate the inflected form for: subsidise V;V.PTCP;PST	e V;V.PTCP;PST.PTCP;PST.PTCP.P
+Generate the inflected form for: superordinate V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: superordinate V;PRS;NOM(3,SG)	 superordinate V;PRS;NOM(3,SG)
+Generate the inflected form for: superordinate V;PST	er V;PST V V superordinate V V
+Generate the inflected form for: supervene V;NFIN	 V;NFINgenerate the inflected 
+Generate the inflected form for: supervene V;PRS;NOM(3,SG)	e V;PRS;NOM(3,SG)generate the 
+Generate the inflected form for: supervene V;PST	e V supervene V supervene V su
+Generate the inflected form for: supervene V;V.PTCP;PRS	e V;V.PTCP;PRSgenerate the inf
+Generate the inflected form for: survive V;PRS;NOM(3,SG)	 survive V;PRS;NOM(3,SG)genera
+Generate the inflected form for: survive V;PST	 V;PST;PST;PST;PST;PST;PST;PST
+Generate the inflected form for: survive V;V.PTCP;PRS	 PTCP;PRSbusiness V;V.PTCP;PRS
+Generate the inflected form for: terp V;NFIN	 V;NFIN V;NFIN V;NFIN V;NFIN V
+Generate the inflected form for: terp V;PST	 V V V V V V V V V V V V V V V
+Generate the inflected form for: terp V;V.PTCP;PRS	 V;V.PTCP;PRSgenerate the infl
+Generate the inflected form for: terp V;V.PTCP;PST	 PTCP;PST PTCP.PTCP.PTCP.PTCP.
+Generate the inflected form for: thrombose V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: thrombose V;PRS;NOM(3,SG)	 (1,2,3,4,5,6,7,8,9,10,11,12,1
+Generate the inflected form for: thrombose V;V.PTCP;PST	ectomy V;V.PTCP;PSTb;PSTb.PTCP
+Generate the inflected form for: tint V;NFIN	 V;NFINs V;NFINs V;NFINs V;NFI
+Generate the inflected form for: tint V;PRS;NOM(3,SG)	 tint V;PRS;NOM(3,SG)generate 
+Generate the inflected form for: tint V;V.PTCP;PRS	 t V;V.PTCP;PRSe t V;V.PTCP;PR
+Generate the inflected form for: tint V;V.PTCP;PST	 t V;V.PTCP;PST.PTCP;PST.PTCP.
+Generate the inflected form for: tipple V;PRS;NOM(3,SG)	er V;PRS;NOM(3,SG)generate the
+Generate the inflected form for: tipple V;PST	e V V V V V V V V V V V V V V 
+Generate the inflected form for: tipple V;V.PTCP;PRS	 tipple V;V.PTCP;PRSb V;V.PTCP
+Generate the inflected form for: tipple V;V.PTCP;PST	 tipple V;V.PTCP;PSTb tipple V
+Generate the inflected form for: titivate V;PRS;NOM(3,SG)	 titivate V;PRS;NOM(3,SG) titi
+Generate the inflected form for: titivate V;V.PTCP;PRS	 tivate V;V.PTCP;PRSb tivate V
+Generate the inflected form for: titivate V;V.PTCP;PST	ivate V;V.PTCP;PSTb;PSTb.PTCP.
+Generate the inflected form for: transsexualize V;PRS;NOM(3,SG)	 Sexualize V;PRS;NOM(3,SG)gene
+Generate the inflected form for: transsexualize V;PST	 V;PST;PST;PST;PST;PST;PST;PST
+Generate the inflected form for: transsexualize V;V.PTCP;PRS	er V;V.PTCP;PRSbuster V;V.PTCP
+Generate the inflected form for: transsexualize V;V.PTCP;PST	exualize V;V.PTCP;PST.PTCP;PST
+Generate the inflected form for: trench-plough V;NFIN	-plough V;NFINg trench-plough 
+Generate the inflected form for: trench-plough V;PRS;NOM(3,SG)	-plough V;PRS;NOM(3,SG)generat
+Generate the inflected form for: trench-plough V;V.PTCP;PST	er V;V.PTCP;PST trench-plough 
+Generate the inflected form for: trice V;PRS;NOM(3,SG)	 the inflected form for: trice
+Generate the inflected form for: trice V;PST	 V;PST V;PST V;PST V;PST V;PST
+Generate the inflected form for: trice V;V.PTCP;PRS	 V;V.PTCP;PRSe V.PTCP;PRSe.PTC
+Generate the inflected form for: trypsinise V;NFIN	ise V;NFIN V;NFIN V;NFIN V;NFI
+Generate the inflected form for: trypsinise V;PRS;NOM(3,SG)	ise V;PRS;NOM(3,SG)generate th
+Generate the inflected form for: trypsinise V;V.PTCP;PRS	ise V;V.PTCP;PRSb trypsinise V
+Generate the inflected form for: trypsinise V;V.PTCP;PST	ise V;V.PTCP;PSTgenerate the i
+Generate the inflected form for: tubulate V;PRS;NOM(3,SG)	ate V;PRS;NOM(3,SG)graphene V;
+Generate the inflected form for: tubulate V;PST	eter V;PST V V tubulate V V V 
+Generate the inflected form for: twine V;PRS;NOM(3,SG)	 S S S S S S S S S S S S S S S
+Generate the inflected form for: twine V;PST	 twine V V V V V V V V V V V V
+Generate the inflected form for: twine V;V.PTCP;PRS	 V;V.PTCP;PRSb V.PTCP;PRSb.PTC
+Generate the inflected form for: twist V;PRS;NOM(3,SG)	 SG SG SG SG SG SG SG SG SG SG
+Generate the inflected form for: twist V;PST	 t t t t t t t t t t t t t t t
+Generate the inflected form for: twist V;V.PTCP;PRS	 twist V;V.PTCP;PRSerial twist
+Generate the inflected form for: twist V;V.PTCP;PST	 the twist V;V.PTCP;PST.PTCP;P
+Generate the inflected form for: unclamp V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: unclamp V;PRS;NOM(3,SG)	 V;PRS;NOM(3,SG)generate the i
+Generate the inflected form for: unclamp V;V.PTCP;PRS	 V;V.PTCP;PRSgr V;V.PTCP;PRSgr
+Generate the inflected form for: undeceave V;NFIN	e V;NFINge V;NFINge V;NFINge V
+Generate the inflected form for: undeceave V;PST	eave V;PSTk V;PSTk V;PSTk V;PS
+Generate the inflected form for: underdose V;PRS;NOM(3,SG)	er V;PRS;NOM(3,SG)generate the
+Generate the inflected form for: underdose V;V.PTCP;PRS	er V;V.PTCP;PRSb V.PTCP;PRSb V
+Generate the inflected form for: underdose V;V.PTCP;PST	 V;V.PTCP;PST.PTCP;PST.PTCP;PS
+Generate the inflected form for: unfocus V;PST	 V;PST V V V V V V V V V V V V
+Generate the inflected form for: unfocus V;V.PTCP;PRS	 unfocus V;V.PTCP;PRSb;PRSb.PT
+Generate the inflected form for: unfocus V;V.PTCP;PST	 V;V.PTCP;PST;PST.PTCP;PST.PTC
+Generate the inflected form for: unhyphenate V;PRS;NOM(3,SG)	ate V;PRS;NOM(3,SG)generate th
+Generate the inflected form for: unhyphenate V;PST	ate V;PSTmate V;PSTmate V;PSTm
+Generate the inflected form for: unhyphenate V;V.PTCP;PRS	enate V;V.PTCP;PRSb;PRSb.PTCP;
+Generate the inflected form for: unhyphenate V;V.PTCP;PST	enate V;V.PTCP;PST.PTCP;PST.PT
+Generate the inflected form for: unpaint V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: unpaint V;PRS;NOM(3,SG)	 PRS;NOM(3,SG)generate the inf
+Generate the inflected form for: unperplex V;PRS;NOM(3,SG)	 PRS;NOM(3,SG)generate the inf
+Generate the inflected form for: unperplex V;V.PTCP;PRS	 V;V.PTCP;PRSb;V.PTCP;PRSb.PTC
+Generate the inflected form for: unperplex V;V.PTCP;PST	 unperplex V;V.PTCP;PST V;V.PT
+Generate the inflected form for: unplat V;NFIN	 V;NFINs V;NFINs V;NFINs V;NFI
+Generate the inflected form for: unplat V;PRS;NOM(3,SG)	 SG SG SG SG SG SG SG SG SG SG
+Generate the inflected form for: unplat V;V.PTCP;PST	 PTCP;PST.PTCP.PTCP.PTCP.PTCP.
+Generate the inflected form for: unplug V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: unplug V;PRS;NOM(3,SG)	 SG SG SG SG SG SG SG SG SG SG
+Generate the inflected form for: unplug V;PST	 V;PST V V V V V V V V V V V V
+Generate the inflected form for: unplug V;V.PTCP;PST	 PTCP;PST PTCP.PTCP.PST.PTCP.P
+Generate the inflected form for: unsell V;NFIN	 V;NFIN;NFIN;NFIN;NFIN;NFIN;NF
+Generate the inflected form for: unsell V;PRS;NOM(3,SG)	 S;NOM(3,SG)generate the infle
+Generate the inflected form for: unsell V;PST	 V;PST V;PST V;PST V;PST V;PST
+Generate the inflected form for: unsell V;V.PTCP;PST	 Sell V;V.PTCP;PSTby Sell V;V.
+Generate the inflected form for: unstabilize V;PRS;NOM(3,SG)	 Stabilize the inflected form 
+Generate the inflected form for: upbar V;NFIN	 V;NFINs V;NFINs V;NFINs V;NFI
+Generate the inflected form for: upbar V;PRS;NOM(3,SG)	 V;PRS;NOM(3,SG)generate the i
+Generate the inflected form for: upbar V;PST	 V V V V V V V V V V V V V V V
+Generate the inflected form for: upbar V;V.PTCP;PST	 PTCP;PST.PTCP;PST.PTCP.PTCP.P
+Generate the inflected form for: usher V;NFIN	 V;NFINs V;NFINs V;NFINs V;NFI
+Generate the inflected form for: usher V;PST	 V;PST V;PST V;PST V;PST V;PST
+Generate the inflected form for: usher V;V.PTCP;PRS	 V;V.PTCP;PRSb V;V.PTCP;PRSb V
+Generate the inflected form for: usher V;V.PTCP;PST	 V;V.PTCP;PSTb;PSTb.PTCP.PTCP.
+Generate the inflected form for: vaccinate V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: vaccinate V;PST	ate V;PST V V V V V V V V V V 
+Generate the inflected form for: vaccinate V;V.PTCP;PRS	e V;V.PTCP;PRSb V.PTCP;PRSb.PT
+Generate the inflected form for: vaccinate V;V.PTCP;PST	 V;V.PTCP;PSTby V.PTCP;PSTby V
+Generate the inflected form for: vacillate V;PRS;NOM(3,SG)	ate V;PRS;NOM(3,SG)generate th
+Generate the inflected form for: vacillate V;V.PTCP;PRS	ate V;V.PTCP;PRSb;V.PTCP;PRSb.
+Generate the inflected form for: vacillate V;V.PTCP;PST	ate V;V.PTCP;PSTby Samuel Barr
+Generate the inflected form for: vell V;NFIN	l V;NFINS V;NFINS V;NFINS V;NF
+Generate the inflected form for: vell V;PRS;NOM(3,SG)	 V;PRS;NOM(3,SG)gen V;PRS;NOM(
+Generate the inflected form for: vell V;V.PTCP;PST	 V.PTCP;PSTB V.PTCP;PSTB.PTCP.
+Generate the inflected form for: verbigerate V;NFIN	erate V;NFINgerate V;NFINgerat
+Generate the inflected form for: verbigerate V;PRS;NOM(3,SG)	erate V;PRS;NOM(3,SG)gerate V;
+Generate the inflected form for: verbigerate V;PST	erate V;PST V;PST V;PST V;PST 
+Generate the inflected form for: verbigerate V;V.PTCP;PRS	erate V;V.PTCP;PRSbus V;V.PTCP
+Generate the inflected form for: viscerate V;NFIN	ate V;NFINgenerate the inflect
+Generate the inflected form for: viscerate V;PST	ate V;PSTnews;PST;PSTnews;PSTn
+Generate the inflected form for: viscerate V;V.PTCP;PRS	ate V.PTCP;PRSbyden Sales - Pa
+Generate the inflected form for: viscerate V;V.PTCP;PST	ate V;V.PTCP;PST.PTCP;PST.PTCP
+Generate the inflected form for: vivificate V;NFIN	ate V;NFINs vivificate V;NFINs
+Generate the inflected form for: vivificate V;PRS;NOM(3,SG)	ate V;PRS;NOM(3,SG)generate th
+Generate the inflected form for: vivificate V;PST	ate V;PSTmate V;PSTmate V;PSTm
+Generate the inflected form for: vivificate V;V.PTCP;PST	ate V;V.PTCP;PST.PTCP;PST.PTCP
+Generate the inflected form for: wabble V;NFIN	 V;NFIN;NFIN;NFIN;NFIN;NFIN;NF
+Generate the inflected form for: wabble V;PRS;NOM(3,SG)	e V;PRS;NOM(3,SG)generate the 
+Generate the inflected form for: wabble V;PST	 V wabble V wabble V wabble V 
+Generate the inflected form for: wabble V;V.PTCP;PRS	 V;V.PTCP;PRSgenerate the infl
+Generate the inflected form for: watchdog V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: watchdog V;PST	dog V V V V V V V V V V V V V 
+Generate the inflected form for: watchdog V;V.PTCP;PST	og V;V.PTCP;PSTbog V;V.PTCP;PS
+Generate the inflected form for: water V;NFIN	 form for: water V;NFINs V;NFI
+Generate the inflected form for: water V;PST	 V ;PSTN PSTT PSTT PSTT PSTT P
+Generate the inflected form for: water V;V.PTCP;PST	 PTCP;PSTb PTCP.PTCP.PTCP.PTCP
+Generate the inflected form for: wham V;PRS;NOM(3,SG)	 wham PRS;NOM(3,SG)generate th
+Generate the inflected form for: wham V;V.PTCP;PST	 PTCP;PST PTCP.PTCP.PTCP.PTCP.
+Generate the inflected form for: whoomp V;NFIN	 V;NFIN;NFIN;NFIN;NFIN;NFIN;NF
+Generate the inflected form for: whoomp V;PRS;NOM(3,SG)	 V;PRS;NOM(3,SG)generate the i
+Generate the inflected form for: whoomp V;PST	 V;PST;PST;PST;PST;PST;PST;PST
+Generate the inflected form for: whoomp V;V.PTCP;PST	 V;V.PTCP;PST;PST;PST;PST;PST;
+Generate the inflected form for: whoot V;PRS;NOM(3,SG)	 SG SG SG SG SG SG SG SG SG SG
+Generate the inflected form for: whoot V;PST	 whoot V;PSTn whoot V;PSTn who
+Generate the inflected form for: whoot V;V.PTCP;PRS	 Generate the inflected form f
+Generate the inflected form for: whoot V;V.PTCP;PST	 PTCP;PST.PTCP;PST.PTCP.PTCP.P
+Generate the inflected form for: withsay V;NFIN	 IN the inflected form for: wi
+Generate the inflected form for: withsay V;PRS;NOM(3,SG)	 S;NOM(3,SG);NOM(3,SG);NOM(3,S
+Generate the inflected form for: withsay V;V.PTCP;PRS	 PTCP;PRSb PTCP.PTCP.PRSb PTCP
+Generate the inflected form for: withsay V;V.PTCP;PST	 PTCP;PST;PST.PTCP;PST.PTCP;PS
+Generate the inflected form for: world V;NFIN	 the inflected form for: world
+Generate the inflected form for: world V;PRS;NOM(3,SG)	 V;PRS;NOM(3,SG)generate the i
+Generate the inflected form for: world V;V.PTCP;PRS	 V;V.PTCP;PRSb V.PTCP;PRSb V.P
+Generate the inflected form for: world V;V.PTCP;PST	 the inflected form for: world
+Generate the inflected form for: xeriscape V;PRS;NOM(3,SG)	eriscape V;PRS;NOM(3,SG)genera
+Generate the inflected form for: yabby V;PRS;NOM(3,SG)	 yabby yabby yabby yabby yabby
+Generate the inflected form for: yabby V;PST	 yabby V yabby V yabby V yabby
+Generate the inflected form for: yearn V;NFIN	 yearn V;NFINg INg INg INg INg
+Generate the inflected form for: yearn V;PRS;NOM(3,SG)	 yearn V;PRS;NOM(3,SG)generate
+Generate the inflected form for: yearn V;PST	 yearn V;PSTn V;PSTn V;PSTn V;
+Generate the inflected form for: yellow V;PRS;NOM(3,SG)	 yellow yellow yellow yellow y
+Generate the inflected form for: yellow V;PST	 V V V V V V V V V V V V V V V
+Generate the inflected form for: yellow V;V.PTCP;PRS	 V;V.PTCP;PRSb V.PTCP;PRSb V.P
+Generate the inflected form for: yellow V;V.PTCP;PST	 V;V.PTCP;PSTby V.PTCP;PSTby V

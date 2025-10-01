@@ -1,0 +1,1108 @@
+Generate the inflected form for: accasciare V;COND;NOM(1,SG)	;COND;NOM(1,SG);COND;NOM(1,SG)
+Generate the inflected form for: accasciare V;COND;NOM(3,PL)	;COND;NOM(3,PL);COND;NOM(3,PL)
+Generate the inflected form for: accasciare V;IND;FUT;NOM(1,SG)	;IND;FUT;NOM(1,SG);IND;FUT;NOM
+Generate the inflected form for: accasciare V;IND;FUT;NOM(2,SG)	;IND;FUT;NOM(2,SG);IND;FUT;NOM
+Generate the inflected form for: accasciare V;IND;PRS;NOM(1,PL)	 V;IND;PRS;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: accasciare V;IND;PRS;NOM(1,SG)	 V;IND;PRS;NOM(1,SG);NOM(1,SG)
+Generate the inflected form for: accasciare V;IND;PRS;NOM(3,PL)	 V;IND;PRS;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: accasciare V;IND;PST;IPFV;NOM(1,SG)	 accept the inflected form for
+Generate the inflected form for: accasciare V;IND;PST;IPFV;NOM(2,PL)	 accept the inflected form for
+Generate the inflected form for: accasciare V;IND;PST;IPFV;NOM(3,PL)	 accept the inflected form for
+Generate the inflected form for: accasciare V;IND;PST;IPFV;NOM(3,SG)	 acciaio V;IND;PST;IPFV;NOM(3,
+Generate the inflected form for: accasciare V;NFIN	 form for: accasciare V;NFINFO
+Generate the inflected form for: accasciare V;POS;IMP;NOM(1,PL)	 V;POS;IMP;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: accasciare V;POS;IMP;NOM(3,PL)	 V;POS;IMP;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: accasciare V;POS;IMP;NOM(3,SG)	 V;POS;IMP;NOM(3,SG);IMP;NOM(3
+Generate the inflected form for: accasciare V;SBJV;PRS;NOM(1,SG)	 V;SBJV;PRS;NOM(1,SG);NOM(1,SG
+Generate the inflected form for: accasciare V;SBJV;PRS;NOM(3,PL)	 V;SBJV;PRS;NOM(3,PL);NOM(3,PL
+Generate the inflected form for: accasciare V;SBJV;PRS;NOM(3,SG)	 V;SBJV;PRS;NOM(3,SG);NOM(3,SG
+Generate the inflected form for: accasciare V;SBJV;PST;NOM(1,SG)	 V;SBJV;PST;NOM(1,SG);NOM(1,SG
+Generate the inflected form for: accasciare V;SBJV;PST;NOM(3,PL)	 V;SBJV;PST;NOM(3,PL);NOM(3,PL
+Generate the inflected form for: accecare V.CVB;PRS	 V.CVB;PRS;PRS;PRS;PRS;PRS;PRS
+Generate the inflected form for: accecare V.PTCP;PRS	 V.PTCP;PRS;PRS;PRS;PRS;PRS;PR
+Generate the inflected form for: accecare V.PTCP;PST	;PST;PST;PST;PST;PST;PST;PST;P
+Generate the inflected form for: accecare V;COND;NOM(1,SG)	;COND;NOM(1,SG);COND;NOM(1,SG)
+Generate the inflected form for: accecare V;COND;NOM(2,PL)	;COND;NOM(2,PL);COND;NOM(2,PL)
+Generate the inflected form for: accecare V;COND;NOM(2,SG)	;COND;NOM(2,SG);COND;NOM(2,SG)
+Generate the inflected form for: accecare V;COND;NOM(3,PL)	;COND;NOM(3,PL);COND;NOM(3,PL)
+Generate the inflected form for: accecare V;COND;NOM(3,SG)	;COND;NOM(3,SG);COND;NOM(3,SG)
+Generate the inflected form for: accecare V;IND;FUT;NOM(3,SG)	(3,SG)(3,SG)(3,SG)(3,SG)(3,SG)
+Generate the inflected form for: accecare V;IND;PRS;NOM(2,PL)	 V;IND;PRS;NOM(2,PL)
+Accecare 
+Generate the inflected form for: accecare V;IND;PRS;NOM(2,SG)	 V;IND;PRS;NOM(2,SG)
+Accecare 
+Generate the inflected form for: accecare V;IND;PST;IPFV;NOM(1,PL)	 V;IND;PST;IPFV;NOM(1,PL);NOM(
+Generate the inflected form for: accecare V;IND;PST;PFV;NOM(1,SG)	 V;IND;PST;PFV;NOM(1,SG)
+The i
+Generate the inflected form for: accecare V;IND;PST;PFV;NOM(2,PL)	 accecare V;IND;PST;PFV;NOM(2,
+Generate the inflected form for: accecare V;POS;IMP;NOM(1,PL)	 V;POS;IMP;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: accecare V;POS;IMP;NOM(3,PL)	 V;POS;IMP;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: accecare V;POS;IMP;NOM(3,SG)	 V;POS;IMP;NOM(3,SG);NOM(3,SG)
+Generate the inflected form for: accecare V;SBJV;PRS;NOM(1,SG)	 V;SBJV;PRS;NOM(1,SG);NOM(1,SG
+Generate the inflected form for: accecare V;SBJV;PRS;NOM(2,SG)	 V;SBJV;PRS;NOM(2,SG);NOM(2,SG
+Generate the inflected form for: accecare V;SBJV;PST;NOM(3,SG)	 V;SBJV;PST;NOM(3,SG);NOM(3,SG
+Generate the inflected form for: accontentarsi V.PTCP;PRS	;PRS;PRS;PRS;PRS;PRS;PRS;PRS;P
+Generate the inflected form for: accontentarsi V;COND;NOM(3,PL)	 V;COND;NOM(3,PL)
+i V;COND;NOM
+Generate the inflected form for: accontentarsi V;IND;FUT;NOM(1,PL)	 V;IND;FUT;NOM(1,PL)
+V;IND;FUT
+Generate the inflected form for: accontentarsi V;IND;FUT;NOM(1,SG)	 V;IND;FUT;NOM(1,SG)
+Generate 
+Generate the inflected form for: accontentarsi V;IND;FUT;NOM(2,PL)	 V;IND;FUT;NOM(2,PL)
+V;IND;FUT
+Generate the inflected form for: accontentarsi V;IND;FUT;NOM(3,PL)	 V;IND;FUT;NOM(3,PL) V;IND;FUT
+Generate the inflected form for: accontentarsi V;IND;PRS;NOM(2,SG)	 V;IND;PRS;NOM(2,SG)
+Inflected
+Generate the inflected form for: accontentarsi V;IND;PRS;NOM(3,PL)	 V;IND;PRS;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: accontentarsi V;IND;PRS;NOM(3,SG)	 V;IND;PRS;NOM(3,SG);NOM(3,SG)
+Generate the inflected form for: accontentarsi V;IND;PST;IPFV;NOM(3,SG)	 V;IND;PST;IPFV;NOM(3,SG)
+The 
+Generate the inflected form for: accontentarsi V;IND;PST;PFV;NOM(1,PL)	 V;IND;PST;PFV;NOM(1,PL);NOM(1
+Generate the inflected form for: accontentarsi V;IND;PST;PFV;NOM(2,SG)	 V;IND;PST;PFV;NOM(2,SG)
+The i
+Generate the inflected form for: accontentarsi V;IND;PST;PFV;NOM(3,PL)	 V;IND;PST;PFV;NOM(3,PL);NOM(3
+Generate the inflected form for: accontentarsi V;IND;PST;PFV;NOM(3,SG)	 V;IND;PST;PFV;NOM(3,SG)
+The i
+Generate the inflected form for: accontentarsi V;POS;IMP;NOM(1,PL)	 V;POS;IMP;NOM(1,PL);IMP;NOM(1
+Generate the inflected form for: accontentarsi V;POS;IMP;NOM(2,PL)	 V;POS;IMP;NOM(2,PL);IMP;NOM(2
+Generate the inflected form for: accontentarsi V;POS;IMP;NOM(3,SG)	 V;POS;IMP;NOM(3,SG);IMP;NOM(3
+Generate the inflected form for: accontentarsi V;SBJV;PRS;NOM(3,SG)	 V;SBJV;PRS;NOM(3,SG);NOM(3,SG
+Generate the inflected form for: accontentarsi V;SBJV;PST;NOM(1,SG)	 V;SBJV;PST;NOM(1,SG);NOM(1,SG
+Generate the inflected form for: accontentarsi V;SBJV;PST;NOM(2,SG)	 V;SBJV;PST;NOM(2,SG);NOM(2,SG
+Generate the inflected form for: addomandare V.PTCP;PRS	 V.PTCP;PRS;PRS;PRS;PRS;PRS;PR
+Generate the inflected form for: addomandare V;COND;NOM(3,SG)	 V;COND;NOM(3,SG)
+addomandare 
+Generate the inflected form for: addomandare V;IND;FUT;NOM(2,PL)	 V;IND;FUT;NOM(2,PL)
+V;IND;FUT
+Generate the inflected form for: addomandare V;IND;FUT;NOM(3,PL)	 V;IND;FUT;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: addomandare V;IND;PRS;NOM(1,PL)	 addomandare V;IND;PRS;NOM(1,P
+Generate the inflected form for: addomandare V;IND;PRS;NOM(1,SG)	 V;IND;PRS;NOM(1,SG);NOM(1,SG)
+Generate the inflected form for: addomandare V;IND;PRS;NOM(2,PL)	 addomandare V;IND;PRS;NOM(2,P
+Generate the inflected form for: addomandare V;IND;PRS;NOM(3,PL)	 addomandare V;IND;PRS;NOM(3,P
+Generate the inflected form for: addomandare V;IND;PST;IPFV;NOM(1,PL)	 addomandare V;IND;PST;IPFV;NO
+Generate the inflected form for: addomandare V;IND;PST;IPFV;NOM(2,SG)	 addomandare V;IND;PST;IPFV;NO
+Generate the inflected form for: addomandare V;IND;PST;IPFV;NOM(3,PL)	 addomandare V;IND;PST;IPFV;NO
+Generate the inflected form for: addomandare V;IND;PST;PFV;NOM(1,PL)	 addomandare V;IND;PST;PFV;NOM
+Generate the inflected form for: addomandare V;IND;PST;PFV;NOM(1,SG)	 addomandare V;IND;PST;PFV;NOM
+Generate the inflected form for: addomandare V;IND;PST;PFV;NOM(2,PL)	 addomandare V;IND;PST;PFV;NOM
+Generate the inflected form for: addomandare V;IND;PST;PFV;NOM(2,SG)	 addomandare V;IND;PST;PFV;NOM
+Generate the inflected form for: addomandare V;POS;IMP;NOM(3,PL)	 addomandare V;POS;IMP;NOM(3,P
+Generate the inflected form for: addomandare V;SBJV;PRS;NOM(1,SG)	 V;SBJV;PRS;NOM(1,SG);NOM(1,SG
+Generate the inflected form for: addomandare V;SBJV;PRS;NOM(2,PL)	 V;SBJV;PRS;NOM(2,PL);NOM(2,PL
+Generate the inflected form for: addomandare V;SBJV;PRS;NOM(3,SG)	 V;SBJV;PRS;NOM(3,SG);NOM(3,SG
+Generate the inflected form for: addomandare V;SBJV;PST;NOM(3,SG)	 V;SBJV;PST;NOM(3,SG);NOM(3,SG
+Generate the inflected form for: affascinare V.CVB;PRS	 V.CVB;PRS;PRS;PRS;PRS;PRS;PRS
+Generate the inflected form for: affascinare V.PTCP;PST	;PST;PST;PST;PST;PST;PST;PST;P
+Generate the inflected form for: affascinare V;COND;NOM(2,PL)	 V;COND;NOM(2,PL) V;COND;NOM(2
+Generate the inflected form for: affascinare V;IND;FUT;NOM(1,SG)	 V;IND;FUT;NOM(1,SG) V;IND;FUT
+Generate the inflected form for: affascinare V;IND;FUT;NOM(2,SG)	;IND;FUT;NOM(2,SG)
+The inflect
+Generate the inflected form for: affascinare V;IND;FUT;NOM(3,PL)	 V;IND;FUT;NOM(3,PL) V;IND;FUT
+Generate the inflected form for: affascinare V;IND;FUT;NOM(3,SG)	;IND;FUT;NOM(3,SG);IND;FUT;NOM
+Generate the inflected form for: affascinare V;IND;PRS;NOM(3,PL)	 affffffffffffffffffffffffffff
+Generate the inflected form for: affascinare V;IND;PST;IPFV;NOM(1,SG)	 affiliate form for: affiliate
+Generate the inflected form for: affascinare V;IND;PST;IPFV;NOM(2,PL)	 affected form for: affected f
+Generate the inflected form for: affascinare V;IND;PST;IPFV;NOM(2,SG)	 form for: affffffffffffffffff
+Generate the inflected form for: affascinare V;IND;PST;IPFV;NOM(3,PL)	 affected form for: affected f
+Generate the inflected form for: affascinare V;IND;PST;IPFV;NOM(3,SG)	 affiliate form for: affiliate
+Generate the inflected form for: affascinare V;IND;PST;PFV;NOM(3,SG)	 V;IND;PST;PFV;NOM(3,SG) V;IND
+Generate the inflected form for: affascinare V;POS;IMP;NOM(1,PL)	 affascinare V;POS;IMP;NOM(1,P
+Generate the inflected form for: affascinare V;SBJV;PRS;NOM(2,PL)	 affected form for: affected f
+Generate the inflected form for: affascinare V;SBJV;PRS;NOM(3,PL)	 affected form for: affected f
+Generate the inflected form for: affascinare V;SBJV;PST;NOM(2,SG)	 SBJV;PST;NOM(2,SG) SBJV;PST;N
+Generate the inflected form for: affascinare V;SBJV;PST;NOM(3,PL)	 affected form for: affected f
+Generate the inflected form for: affascinare V;SBJV;PST;NOM(3,SG)	 V;SBJV;PST;NOM(3,SG);NOM(3,SG
+Generate the inflected form for: africanizzare V.PTCP;PRS	 PTCP;PRS;PRS;PRS;PRS;PRS;PRS;
+Generate the inflected form for: africanizzare V;COND;NOM(1,PL)	;COND;NOM(1,PL);COND;NOM(1,PL)
+Generate the inflected form for: africanizzare V;COND;NOM(2,PL)	;COND;NOM(2,PL);COND;NOM(2,PL)
+Generate the inflected form for: africanizzare V;COND;NOM(2,SG)	;COND;NOM(2,SG);COND;NOM(2,SG)
+Generate the inflected form for: africanizzare V;COND;NOM(3,PL)	;COND;NOM(3,PL);COND;NOM(3,PL)
+Generate the inflected form for: africanizzare V;COND;NOM(3,SG)	;COND;NOM(3,SG);COND;NOM(3,SG)
+Generate the inflected form for: africanizzare V;IND;FUT;NOM(1,PL)	 V;IND;FUT;NOM(1,PL)
+V;IND;FUT
+Generate the inflected form for: africanizzare V;IND;PRS;NOM(1,PL)	 V;IND;PRS;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: africanizzare V;IND;PST;IPFV;NOM(2,SG)	 V;IND;PST;IPFV;NOM(2,SG)
+Infl
+Generate the inflected form for: africanizzare V;IND;PST;PFV;NOM(1,PL)	 africanizzare V;IND;PST;PFV;N
+Generate the inflected form for: africanizzare V;IND;PST;PFV;NOM(3,SG)	 V;IND;PST;PFV;NOM(3,SG)
+Infle
+Generate the inflected form for: africanizzare V;POS;IMP;NOM(2,SG)	 form for: africanizzare V;POS
+Generate the inflected form for: africanizzare V;POS;IMP;NOM(3,SG)	 V;POS;IMP;NOM(3,SG)
+Inflected
+Generate the inflected form for: africanizzare V;SBJV;PRS;NOM(1,SG)	 V;SBJV;PRS;NOM(1,SG);NOM(1,SG
+Generate the inflected form for: africanizzare V;SBJV;PRS;NOM(3,PL)	 V;SBJV;PRS;NOM(3,PL);NOM(3,PL
+Generate the inflected form for: africanizzare V;SBJV;PRS;NOM(3,SG)	 V;SBJV;PRS;NOM(3,SG);NOM(3,SG
+Generate the inflected form for: africanizzare V;SBJV;PST;NOM(1,PL)	 SBJV;PST;NOM(1,PL);NOM(1,PL);
+Generate the inflected form for: africanizzare V;SBJV;PST;NOM(2,PL)	 V;SBJV;PST;NOM(2,PL);NOM(2,PL
+Generate the inflected form for: africanizzare V;SBJV;PST;NOM(2,SG)	 SBJV;PST;NOM(2,SG)
+SBJV;PST;N
+Generate the inflected form for: africanizzare V;SBJV;PST;NOM(3,SG)	 V;SBJV;PST;NOM(3,SG);NOM(3,SG
+Generate the inflected form for: arraffare V.CVB;PRS	 arraffare V.CVB;PRS;PRS;PRS;P
+Generate the inflected form for: arraffare V;COND;NOM(1,SG)	;COND;NOM(1,SG);COND;NOM(1,SG)
+Generate the inflected form for: arraffare V;COND;NOM(2,PL)	;COND;NOM(2,PL);COND;NOM(2,PL)
+Generate the inflected form for: arraffare V;COND;NOM(2,SG)	;COND;NOM(2,SG);COND;NOM(2,SG)
+Generate the inflected form for: arraffare V;COND;NOM(3,SG)	;COND;NOM(3,SG);COND;NOM(3,SG)
+Generate the inflected form for: arraffare V;IND;FUT;NOM(2,PL)	 V;IND;FUT;NOM(2,PL)
+V;IND;FUT
+Generate the inflected form for: arraffare V;IND;FUT;NOM(2,SG)	(2,SG)(2,SG)(2,SG)(2,SG)(2,SG)
+Generate the inflected form for: arraffare V;IND;FUT;NOM(3,PL)	 V;IND;FUT;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: arraffare V;IND;PRS;NOM(1,SG)	 V;IND;PRS;NOM(1,SG);NOM(1,SG)
+Generate the inflected form for: arraffare V;IND;PRS;NOM(2,PL)	 arraffare V;IND;PRS;NOM(2,PL)
+Generate the inflected form for: arraffare V;IND;PRS;NOM(3,SG)	 V;IND;PRS;NOM(3,SG);NOM(3,SG)
+Generate the inflected form for: arraffare V;IND;PST;IPFV;NOM(2,PL)	 arraffare V;IND;PST;IPFV;NOM(
+Generate the inflected form for: arraffare V;IND;PST;IPFV;NOM(2,SG)	 arraffare V;IND;PST;IPFV;NOM(
+Generate the inflected form for: arraffare V;IND;PST;PFV;NOM(1,SG)	 arraffare V;IND;PST;PFV;NOM(1
+Generate the inflected form for: arraffare V;NFIN	 V;NFIN V;NFIN V;NFIN V;NFIN V
+Generate the inflected form for: arraffare V;POS;IMP;NOM(2,SG)	 arraffare V;POS;IMP;NOM(2,SG)
+Generate the inflected form for: arraffare V;SBJV;PRS;NOM(1,PL)	 arraffare V;SBJV;PRS;NOM(1,PL
+Generate the inflected form for: arraffare V;SBJV;PST;NOM(1,PL)	 arraffare V;SBJV;PST;NOM(1,PL
+Generate the inflected form for: arraffare V;SBJV;PST;NOM(2,SG)	 SBJV;PST;NOM(2,SG);NOM(2,SG);
+Generate the inflected form for: arraffare V;SBJV;PST;NOM(3,SG)	 arraffare V;SBJV;PST;NOM(3,SG
+Generate the inflected form for: asfissiare V.CVB;PRS	 V.CVB;PRS V.CVB;PRS V.CVB;PRS
+Generate the inflected form for: asfissiare V;COND;NOM(1,PL)	;COND;NOM(1,PL);COND;NOM(1,PL)
+Generate the inflected form for: asfissiare V;COND;NOM(1,SG)	;COND;NOM(1,SG);COND;NOM(1,SG)
+Generate the inflected form for: asfissiare V;COND;NOM(3,SG)	;COND;NOM(3,SG);COND;NOM(3,SG)
+Generate the inflected form for: asfissiare V;IND;FUT;NOM(1,PL)	 V;IND;FUT;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: asfissiare V;IND;FUT;NOM(1,SG)	 V;IND;FUT;NOM(1,SG)
+The infle
+Generate the inflected form for: asfissiare V;IND;FUT;NOM(2,PL)	 V;IND;FUT;NOM(2,PL)
+V;IND;FUT
+Generate the inflected form for: asfissiare V;IND;PRS;NOM(1,SG)	 V;IND;PRS;NOM(1,SG);NOM(1,SG)
+Generate the inflected form for: asfissiare V;IND;PRS;NOM(2,SG)	 V;IND;PRS;NOM(2,SG);NOM(2,SG)
+Generate the inflected form for: asfissiare V;IND;PST;IPFV;NOM(2,PL)	 asfissiare V;IND;PST;IPFV;NOM
+Generate the inflected form for: asfissiare V;IND;PST;IPFV;NOM(2,SG)	 V;IND;PST;IPFV;NOM(2,SG)
+Infl
+Generate the inflected form for: asfissiare V;IND;PST;PFV;NOM(1,PL)	 asfissiare V;IND;PST;PFV;NOM(
+Generate the inflected form for: asfissiare V;IND;PST;PFV;NOM(1,SG)	 V;IND;PST;PFV;NOM(1,SG)
+The i
+Generate the inflected form for: asfissiare V;IND;PST;PFV;NOM(2,PL)	 asfissiare V;IND;PST;PFV;NOM(
+Generate the inflected form for: asfissiare V;IND;PST;PFV;NOM(2,SG)	 V;IND;PST;PFV;NOM(2,SG)
+The i
+Generate the inflected form for: asfissiare V;IND;PST;PFV;NOM(3,PL)	 asfissiare V;IND;PST;PFV;NOM(
+Generate the inflected form for: asfissiare V;POS;IMP;NOM(2,SG)	 asfissiare V;POS;IMP;NOM(2,SG
+Generate the inflected form for: asfissiare V;SBJV;PRS;NOM(1,SG)	 V;SBJV;PRS;NOM(1,SG);NOM(1,SG
+Generate the inflected form for: asfissiare V;SBJV;PRS;NOM(2,SG)	 V;SBJV;PRS;NOM(2,SG);NOM(2,SG
+Generate the inflected form for: asfissiare V;SBJV;PST;NOM(1,PL)	 V;SBJV;PST;NOM(1,PL);NOM(1,PL
+Generate the inflected form for: chioccolare V.CVB;PRS	 V.CVB;PRS;PRS;PRS;PRS;PRS;PRS
+Generate the inflected form for: chioccolare V.PTCP;PRS	;PRS;PRS;PRS;PRS;PRS;PRS;PRS;P
+Generate the inflected form for: chioccolare V.PTCP;PST	e V.PTCP;PST;PST;PST;PST;PST;P
+Generate the inflected form for: chioccolare V;COND;NOM(1,PL)	;COND;NOM(1,PL);COND;NOM(1,PL)
+Generate the inflected form for: chioccolare V;COND;NOM(1,SG)	;COND;NOM(1,SG);COND;NOM(1,SG)
+Generate the inflected form for: chioccolare V;COND;NOM(2,PL)	;COND;NOM(2,PL);COND;NOM(2,PL)
+Generate the inflected form for: chioccolare V;IND;FUT;NOM(2,SG)	(2,SG)(2,SG)(2,SG)(2,SG)(2,SG)
+Generate the inflected form for: chioccolare V;IND;PST;IPFV;NOM(1,SG)	 chioccolare V;IND;PST;IPFV;NO
+Generate the inflected form for: chioccolare V;IND;PST;PFV;NOM(1,PL)	 chioccolare V;IND;PST;PFV;NOM
+Generate the inflected form for: chioccolare V;IND;PST;PFV;NOM(2,SG)	 V;IND;PST;PFV;NOM(2,SG)
+V;IND
+Generate the inflected form for: chioccolare V;IND;PST;PFV;NOM(3,SG)	 V;IND;PST;PFV;NOM(3,SG)
+V;IND
+Generate the inflected form for: chioccolare V;POS;IMP;NOM(2,PL)	 chioccolare V;POS;IMP;NOM(2,P
+Generate the inflected form for: chioccolare V;POS;IMP;NOM(3,PL)	 chioccolare V;POS;IMP;NOM(3,P
+Generate the inflected form for: chioccolare V;SBJV;PRS;NOM(1,PL)	 V;SBJV;PRS;NOM(1,PL);NOM(1,PL
+Generate the inflected form for: chioccolare V;SBJV;PRS;NOM(3,PL)	 V;SBJV;PRS;NOM(3,PL);NOM(3,PL
+Generate the inflected form for: chioccolare V;SBJV;PST;NOM(1,PL)	 V;SBJV;PST;NOM(1,PL);NOM(1,PL
+Generate the inflected form for: chioccolare V;SBJV;PST;NOM(1,SG)	 V;SBJV;PST;NOM(1,SG);NOM(1,SG
+Generate the inflected form for: chioccolare V;SBJV;PST;NOM(2,PL)	 V;SBJV;PST;NOM(2,PL);NOM(2,PL
+Generate the inflected form for: chioccolare V;SBJV;PST;NOM(2,SG)	 V;SBJV;PST;NOM(2,SG);NOM(2,SG
+Generate the inflected form for: chioccolare V;SBJV;PST;NOM(3,SG)	 V;SBJV;PST;NOM(3,SG);NOM(3,SG
+Generate the inflected form for: colludere V.PTCP;PST	 PTCP;PSTCP;PSTCP;PSTCP;PSTCP;
+Generate the inflected form for: colludere V;COND;NOM(1,PL)	 V;COND;NOM(1,PL);COND;NOM(1,P
+Generate the inflected form for: colludere V;COND;NOM(2,SG)	 V;COND;NOM(2,SG);NOM(2,SG);NO
+Generate the inflected form for: colludere V;IND;FUT;NOM(3,PL)	 V;IND;FUT;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: colludere V;IND;FUT;NOM(3,SG)	 V;IND;FUT;NOM(3,SG);NOM(3,SG)
+Generate the inflected form for: colludere V;IND;PRS;NOM(2,SG)	 V;IND;PRS;NOM(2,SG);NOM(2,SG)
+Generate the inflected form for: colludere V;IND;PRS;NOM(3,SG)	 V;IND;PRS;NOM(3,SG);NOM(3,SG)
+Generate the inflected form for: colludere V;IND;PST;IPFV;NOM(2,SG)	 V;IND;PST;IPFV;NOM(2,SG)
+The 
+Generate the inflected form for: colludere V;IND;PST;PFV;NOM(1,PL)	 colludere V;IND;PST;PFV;NOM(1
+Generate the inflected form for: colludere V;IND;PST;PFV;NOM(2,PL)	 colludere V;IND;PST;PFV;NOM(2
+Generate the inflected form for: colludere V;IND;PST;PFV;NOM(2,SG)	 V;IND;PST;PFV;NOM(2,SG)
+The i
+Generate the inflected form for: colludere V;IND;PST;PFV;NOM(3,PL)	 colludere V;IND;PST;PFV;NOM(3
+Generate the inflected form for: colludere V;IND;PST;PFV;NOM(3,SG)	 V;IND;PST;PFV;NOM(3,SG)
+The i
+Generate the inflected form for: colludere V;POS;IMP;NOM(1,PL)	 colludere V;POS;IMP;NOM(1,PL)
+Generate the inflected form for: colludere V;POS;IMP;NOM(3,SG)	 colludere V;POS;IMP;NOM(3,SG)
+Generate the inflected form for: colludere V;SBJV;PRS;NOM(1,PL)	 colludere V;SBJV;PRS;NOM(1,PL
+Generate the inflected form for: colludere V;SBJV;PRS;NOM(1,SG)	 V;SBJV;PRS;NOM(1,SG);NOM(1,SG
+Generate the inflected form for: colludere V;SBJV;PST;NOM(1,PL)	 V;SBJV;PST;NOM(1,PL);NOM(1,PL
+Generate the inflected form for: colludere V;SBJV;PST;NOM(2,PL)	 V;SBJV;PST;NOM(2,PL);NOM(2,PL
+Generate the inflected form for: colludere V;SBJV;PST;NOM(3,SG)	 SBJV;PST;NOM(3,SG);NOM(3,SG);
+Generate the inflected form for: convenzionare V;COND;NOM(2,PL)	 NOM(2,PL) NOM(2,PL) NOM(2,PL)
+Generate the inflected form for: convenzionare V;COND;NOM(3,PL)	 NOM(3,PL) NOM(3,PL) NOM(3,PL)
+Generate the inflected form for: convenzionare V;COND;NOM(3,SG)	;COND;NOM(3,SG);COND;NOM(3,SG)
+Generate the inflected form for: convenzionare V;IND;FUT;NOM(1,SG)	 V;IND;FUT;NOM(1,SG)
+The infle
+Generate the inflected form for: convenzionare V;IND;FUT;NOM(2,SG)	(2,SG)(2,SG)(2,SG)(2,SG)(2,SG)
+Generate the inflected form for: convenzionare V;IND;FUT;NOM(3,SG)	(3,SG)(3,SG)(3,SG)(3,SG)(3,SG)
+Generate the inflected form for: convenzionare V;IND;PRS;NOM(3,SG)	 V;IND;PRS;NOM(3,SG);NOM(3,SG)
+Generate the inflected form for: convenzionare V;IND;PST;IPFV;NOM(1,PL)	 convenzionare V;IND;PST;IPFV;
+Generate the inflected form for: convenzionare V;IND;PST;IPFV;NOM(1,SG)	 V;IND;PST;IPFV;NOM(1,SG)
+The 
+Generate the inflected form for: convenzionare V;IND;PST;IPFV;NOM(2,SG)	 V;IND;PST;IPFV;NOM(2,SG)
+The 
+Generate the inflected form for: convenzionare V;IND;PST;IPFV;NOM(3,SG)	 V;IND;PST;IPFV;NOM(3,SG)
+The 
+Generate the inflected form for: convenzionare V;IND;PST;PFV;NOM(1,PL)	 convenzionare V;IND;PST;PFV;N
+Generate the inflected form for: convenzionare V;IND;PST;PFV;NOM(1,SG)	 V;IND;PST;PFV;NOM(1,SG)
+The i
+Generate the inflected form for: convenzionare V;IND;PST;PFV;NOM(2,SG)	 V;IND;PST;PFV;NOM(2,SG)
+The i
+Generate the inflected form for: convenzionare V;IND;PST;PFV;NOM(3,PL)	 convenzionare V;IND;PST;PFV;N
+Generate the inflected form for: convenzionare V;POS;IMP;NOM(3,SG)	 V;POS;IMP;NOM(3,SG);IMP;NOM(3
+Generate the inflected form for: convenzionare V;SBJV;PRS;NOM(2,PL)	 V;SBJV;PRS;NOM(2,PL);NOM(2,PL
+Generate the inflected form for: convenzionare V;SBJV;PRS;NOM(3,PL)	 V;SBJV;PRS;NOM(3,PL);NOM(3,PL
+Generate the inflected form for: convenzionare V;SBJV;PST;NOM(1,PL)	 V;SBJV;PST;NOM(1,PL);NOM(1,PL
+Generate the inflected form for: convenzionare V;SBJV;PST;NOM(3,PL)	 V;SBJV;PST;NOM(3,PL);NOM(3,PL
+Generate the inflected form for: dipingere V.CVB;PRS	 dipingere V.CVB;PRS;PRS;PRS;P
+Generate the inflected form for: dipingere V;COND;NOM(2,PL)	;COND;NOM(2,PL);COND;NOM(2,PL)
+Generate the inflected form for: dipingere V;IND;FUT;NOM(1,SG)	 V;IND;FUT;NOM(1,SG) V;IND;FUT
+Generate the inflected form for: dipingere V;IND;FUT;NOM(3,SG)	;IND;FUT;NOM(3,SG);IND;FUT;NOM
+Generate the inflected form for: dipingere V;IND;PRS;NOM(1,PL)	 V;IND;PRS;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: dipingere V;IND;PRS;NOM(3,SG)	 V;IND;PRS;NOM(3,SG);NOM(3,SG)
+Generate the inflected form for: dipingere V;IND;PST;IPFV;NOM(1,SG)	 V;IND;PST;IPFV;NOM(1,SG);IPFV
+Generate the inflected form for: dipingere V;IND;PST;IPFV;NOM(2,PL)	 dipisere V;IND;PST;IPFV;NOM(2
+Generate the inflected form for: dipingere V;IND;PST;IPFV;NOM(2,SG)	 V;IND;PST;IPFV;NOM(2,SG);IPFV
+Generate the inflected form for: dipingere V;IND;PST;IPFV;NOM(3,PL)	 dipisere V;IND;PST;IPFV;NOM(3
+Generate the inflected form for: dipingere V;IND;PST;IPFV;NOM(3,SG)	 V;IND;PST;IPFV;NOM(3,SG);IPFV
+Generate the inflected form for: dipingere V;IND;PST;PFV;NOM(1,PL)	 dipigere V;IND;PST;PFV;NOM(1,
+Generate the inflected form for: dipingere V;IND;PST;PFV;NOM(1,SG)	 V;IND;PST;PFV;NOM(1,SG);NOM(1
+Generate the inflected form for: dipingere V;IND;PST;PFV;NOM(2,PL)	 dipigere V;IND;PST;PFV;NOM(2,
+Generate the inflected form for: dipingere V;IND;PST;PFV;NOM(3,PL)	 dipingere V;IND;PST;PFV;NOM(3
+Generate the inflected form for: dipingere V;POS;IMP;NOM(2,PL)	 dipisis V;POS;IMP;NOM(2,PL);N
+Generate the inflected form for: dipingere V;SBJV;PRS;NOM(1,PL)	 V;SBJV;PRS;NOM(1,PL);NOM(1,PL
+Generate the inflected form for: dipingere V;SBJV;PRS;NOM(2,PL)	 dipigere V;SBJV;PRS;NOM(2,PL)
+Generate the inflected form for: dipingere V;SBJV;PRS;NOM(2,SG)	 V;SBJV;PRS;NOM(2,SG);NOM(2,SG
+Generate the inflected form for: dipingere V;SBJV;PST;NOM(1,PL)	 V;SBJV;PST;NOM(1,PL);NOM(1,PL
+Generate the inflected form for: giostrare V.CVB;PRS	 V.CVB;PRS;PRS;PRS;PRS;PRS;PRS
+Generate the inflected form for: giostrare V.PTCP;PRS	 V.PTCP;PRS;PRS;PRS;PRS;PRS;PR
+Generate the inflected form for: giostrare V;COND;NOM(1,SG)	;COND;NOM(1,SG);COND;NOM(1,SG)
+Generate the inflected form for: giostrare V;COND;NOM(2,PL)	;COND;NOM(2,PL);COND;NOM(2,PL)
+Generate the inflected form for: giostrare V;COND;NOM(3,SG)	;COND;NOM(3,SG);NOM(3,SG);NOM(
+Generate the inflected form for: giostrare V;IND;FUT;NOM(1,SG)	 V;IND;FUT;NOM(1,SG)
+The infle
+Generate the inflected form for: giostrare V;IND;PRS;NOM(1,PL)	 V;IND;PRS;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: giostrare V;IND;PRS;NOM(1,SG)	 form for: giostrare V;IND;PRS
+Generate the inflected form for: giostrare V;IND;PRS;NOM(2,PL)	 V;IND;PRS;NOM(2,PL);NOM(2,PL)
+Generate the inflected form for: giostrare V;IND;PRS;NOM(3,PL)	 V;IND;PRS;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: giostrare V;IND;PRS;NOM(3,SG)	 V;IND;PRS;NOM(3,SG);NOM(3,SG)
+Generate the inflected form for: giostrare V;IND;PST;IPFV;NOM(1,PL)	 giostrare V;IND;PST;IPFV;NOM(
+Generate the inflected form for: giostrare V;IND;PST;IPFV;NOM(2,PL)	 giostrare V;IND;PST;IPFV;NOM(
+Generate the inflected form for: giostrare V;IND;PST;PFV;NOM(2,SG)	 V;IND;PST;PFV;NOM(2,SG) V;IND
+Generate the inflected form for: giostrare V;IND;PST;PFV;NOM(3,PL)	 V;IND;PST;PFV;NOM(3,PL);NOM(3
+Generate the inflected form for: giostrare V;IND;PST;PFV;NOM(3,SG)	 V;IND;PST;PFV;NOM(3,SG) V;IND
+Generate the inflected form for: giostrare V;POS;IMP;NOM(2,SG)	 V;POS;IMP;NOM(2,SG);IMP;NOM(2
+Generate the inflected form for: giostrare V;SBJV;PRS;NOM(2,SG)	 V;SBJV;PRS;NOM(2,SG);NOM(2,SG
+Generate the inflected form for: giostrare V;SBJV;PRS;NOM(3,SG)	 V;SBJV;PRS;NOM(3,SG);NOM(3,SG
+Generate the inflected form for: giostrare V;SBJV;PST;NOM(3,PL)	 V;SBJV;PST;NOM(3,PL);NOM(3,PL
+Generate the inflected form for: guarnire V.PTCP;PRS	 V.PTCP;PRS;PRS;PRS;PRS;PRS;PR
+Generate the inflected form for: guarnire V;COND;NOM(2,PL)	;COND;NOM(2,PL);NOM(2,PL);NOM(
+Generate the inflected form for: guarnire V;COND;NOM(2,SG)	;COND;NOM(2,SG);NOM(2,SG);NOM(
+Generate the inflected form for: guarnire V;COND;NOM(3,SG)	;COND;NOM(3,SG);NOM(3,SG);NOM(
+Generate the inflected form for: guarnire V;IND;FUT;NOM(1,PL)	 V;IND;FUT;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: guarnire V;IND;FUT;NOM(2,PL)	 V;IND;FUT;NOM(2,PL);NOM(2,PL)
+Generate the inflected form for: guarnire V;IND;PRS;NOM(1,PL)	 V;IND;PRS;NOM(1,PL)
+Generate 
+Generate the inflected form for: guarnire V;IND;PRS;NOM(2,PL)	 V;IND;PRS;NOM(2,PL)
+V;IND;PRS
+Generate the inflected form for: guarnire V;IND;PRS;NOM(3,PL)	 V;IND;PRS;NOM(3,PL)
+V;IND;PRS
+Generate the inflected form for: guarnire V;IND;PRS;NOM(3,SG)	 V;IND;PRS;NOM(3,SG);NOM(3,SG)
+Generate the inflected form for: guarnire V;IND;PST;IPFV;NOM(3,PL)	 V;IND;PST;IPFV;NOM(3,PL);NOM(
+Generate the inflected form for: guarnire V;IND;PST;IPFV;NOM(3,SG)	 V;IND;PST;IPFV;NOM(3,SG)
+The 
+Generate the inflected form for: guarnire V;IND;PST;PFV;NOM(2,PL)	 V;IND;PST;PFV;NOM(2,PL);NOM(2
+Generate the inflected form for: guarnire V;IND;PST;PFV;NOM(3,SG)	 V;IND;PST;PFV;NOM(3,SG)
+The i
+Generate the inflected form for: guarnire V;POS;IMP;NOM(2,PL)	 V;POS;IMP;NOM(2,PL);NOM(2,PL)
+Generate the inflected form for: guarnire V;SBJV;PRS;NOM(1,PL)	 V;SBJV;PRS;NOM(1,PL);NOM(1,PL
+Generate the inflected form for: guarnire V;SBJV;PRS;NOM(2,SG)	 V;SBJV;PRS;NOM(2,SG);NOM(2,SG
+Generate the inflected form for: guarnire V;SBJV;PST;NOM(2,PL)	 V;SBJV;PST;NOM(2,PL);NOM(2,PL
+Generate the inflected form for: guarnire V;SBJV;PST;NOM(3,PL)	 V;SBJV;PST;NOM(3,PL);NOM(3,PL
+Generate the inflected form for: guarnire V;SBJV;PST;NOM(3,SG)	 V;SBJV;PST;NOM(3,SG);NOM(3,SG
+Generate the inflected form for: imborghesirsi V.CVB;PRS	 V.CVB;PRS;PRS;PRS;PRS;PRS;PRS
+Generate the inflected form for: imborghesirsi V;COND;NOM(1,PL)	 V;COND;NOM(1,PL);NOM(1,PL);NO
+Generate the inflected form for: imborghesirsi V;COND;NOM(1,SG)	 V;COND;NOM(1,SG);NOM(1,SG);NO
+Generate the inflected form for: imborghesirsi V;COND;NOM(2,PL)	 V;COND;NOM(2,PL);NOM(2,PL);NO
+Generate the inflected form for: imborghesirsi V;COND;NOM(2,SG)	 V;COND;NOM(2,SG);NOM(2,SG);NO
+Generate the inflected form for: imborghesirsi V;COND;NOM(3,PL)	 V;COND;NOM(3,PL);NOM(3,PL);NO
+Generate the inflected form for: imborghesirsi V;IND;FUT;NOM(1,SG)	 V;IND;FUT;NOM(1,SG)
+Generate 
+Generate the inflected form for: imborghesirsi V;IND;PRS;NOM(2,SG)	 V;IND;PRS;NOM(2,SG);NOM(2,SG)
+Generate the inflected form for: imborghesirsi V;IND;PST;IPFV;NOM(2,PL)	 V;IND;PST;IPFV;NOM(2,PL);IPFV
+Generate the inflected form for: imborghesirsi V;IND;PST;PFV;NOM(1,PL)	 V;IND;PST;PFV;NOM(1,PL);NOM(1
+Generate the inflected form for: imborghesirsi V;IND;PST;PFV;NOM(1,SG)	 V;IND;PST;PFV;NOM(1,SG);IND;P
+Generate the inflected form for: imborghesirsi V;POS;IMP;NOM(1,PL)	 V;POS;IMP;NOM(1,PL);IMP;NOM(1
+Generate the inflected form for: imborghesirsi V;POS;IMP;NOM(2,SG)	 V;POS;IMP;NOM(2,SG);IMP;NOM(2
+Generate the inflected form for: imborghesirsi V;POS;IMP;NOM(3,PL)	 V;POS;IMP;NOM(3,PL);IMP;NOM(3
+Generate the inflected form for: imborghesirsi V;POS;IMP;NOM(3,SG)	 V;POS;IMP;NOM(3,SG);IMP;NOM(3
+Generate the inflected form for: imborghesirsi V;SBJV;PRS;NOM(1,PL)	 V;SBJV;PRS;NOM(1,PL);NOM(1,PL
+Generate the inflected form for: imborghesirsi V;SBJV;PRS;NOM(1,SG)	 V;SBJV;PRS;NOM(1,SG);NOM(1,SG
+Generate the inflected form for: imborghesirsi V;SBJV;PRS;NOM(2,SG)	 V;SBJV;PRS;NOM(2,SG);NOM(2,SG
+Generate the inflected form for: imborghesirsi V;SBJV;PRS;NOM(3,PL)	 V;SBJV;PRS;NOM(3,PL);NOM(3,PL
+Generate the inflected form for: imborghesirsi V;SBJV;PST;NOM(3,PL)	 V;SBJV;PST;NOM(3,PL);NOM(3,PL
+Generate the inflected form for: impadronirsi V.CVB;PRS	 V.CVB;PRS;PRS;PRS;PRS;PRS;PRS
+Generate the inflected form for: impadronirsi V.PTCP;PST	 PTCP;PST;PST;PST;PST;PST;PST;
+Generate the inflected form for: impadronirsi V;COND;NOM(1,PL)	 V;COND;NOM(1,PL);NOM(1,PL);NO
+Generate the inflected form for: impadronirsi V;COND;NOM(2,SG)	 V;COND;NOM(2,SG);NOM(2,SG);NO
+Generate the inflected form for: impadronirsi V;COND;NOM(3,PL)	 V;COND;NOM(3,PL);NOM(3,PL);NO
+Generate the inflected form for: impadronirsi V;IND;FUT;NOM(3,PL)	 V;IND;FUT;NOM(3,PL) V;IND;FUT
+Generate the inflected form for: impadronirsi V;IND;FUT;NOM(3,SG)	 V;IND;FUT;NOM(3,SG)
+impadroni
+Generate the inflected form for: impadronirsi V;IND;PRS;NOM(3,PL)	 V;IND;PRS;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: impadronirsi V;IND;PST;IPFV;NOM(3,PL)	 V;IND;PST;IPFV;NOM(3,PL);IPFV
+Generate the inflected form for: impadronirsi V;IND;PST;PFV;NOM(1,PL)	 V;IND;PST;PFV;NOM(1,PL);NOM(1
+Generate the inflected form for: impadronirsi V;IND;PST;PFV;NOM(1,SG)	 V;IND;PST;PFV;NOM(1,SG)
+Infle
+Generate the inflected form for: impadronirsi V;IND;PST;PFV;NOM(2,SG)	 V;IND;PST;PFV;NOM(2,SG)
+Infle
+Generate the inflected form for: impadronirsi V;POS;IMP;NOM(3,SG)	 V;POS;IMP;NOM(3,SG);IMP;NOM(3
+Generate the inflected form for: impadronirsi V;SBJV;PRS;NOM(2,PL)	 V;SBJV;PRS;NOM(2,PL);NOM(2,PL
+Generate the inflected form for: impadronirsi V;SBJV;PRS;NOM(2,SG)	 V;SBJV;PRS;NOM(2,SG);NOM(2,SG
+Generate the inflected form for: impadronirsi V;SBJV;PRS;NOM(3,SG)	 V;SBJV;PRS;NOM(3,SG);NOM(3,SG
+Generate the inflected form for: impadronirsi V;SBJV;PST;NOM(2,PL)	 V;SBJV;PST;NOM(2,PL);NOM(2,PL
+Generate the inflected form for: impadronirsi V;SBJV;PST;NOM(2,SG)	 V;SBJV;PST;NOM(2,SG);NOM(2,SG
+Generate the inflected form for: impadronirsi V;SBJV;PST;NOM(3,PL)	 V;SBJV;PST;NOM(3,PL);NOM(3,PL
+Generate the inflected form for: impadronirsi V;SBJV;PST;NOM(3,SG)	 V;SBJV;PST;NOM(3,SG);NOM(3,SG
+Generate the inflected form for: impermeabilizzare V.CVB;PRS	;PRS;PRS;PRS;PRS;PRS;PRS;PRS;P
+Generate the inflected form for: impermeabilizzare V.PTCP;PST	;PST;PST;PST;PST;PST;PST;PST;P
+Generate the inflected form for: impermeabilizzare V;COND;NOM(2,PL)	;COND;NOM(2,PL);COND;NOM(2,PL)
+Generate the inflected form for: impermeabilizzare V;COND;NOM(2,SG)	;COND;NOM(2,SG);COND;NOM(2,SG)
+Generate the inflected form for: impermeabilizzare V;IND;FUT;NOM(2,PL)	 impermeabilizzare V;IND;FUT;N
+Generate the inflected form for: impermeabilizzare V;IND;FUT;NOM(2,SG)	(2,SG)(2,SG)(2,SG)(2,SG)(2,SG)
+Generate the inflected form for: impermeabilizzare V;IND;FUT;NOM(3,PL)	 impermeabilizzare V;IND;FUT;N
+Generate the inflected form for: impermeabilizzare V;IND;FUT;NOM(3,SG)	;IND;FUT;NOM(3,SG);IND;FUT;NOM
+Generate the inflected form for: impermeabilizzare V;IND;PRS;NOM(1,PL)	 impermeabilizzare V;IND;PRS;N
+Generate the inflected form for: impermeabilizzare V;IND;PRS;NOM(2,SG)	 impermeabilizzare V;IND;PRS;N
+Generate the inflected form for: impermeabilizzare V;IND;PST;IPFV;NOM(1,PL)	 impermeabilizzare V;IND;PST;I
+Generate the inflected form for: impermeabilizzare V;IND;PST;IPFV;NOM(2,SG)	 impermeabilizzare V;IND;PST;I
+Generate the inflected form for: impermeabilizzare V;IND;PST;PFV;NOM(2,SG)	 impermeabilizzare V;IND;PST;P
+Generate the inflected form for: impermeabilizzare V;IND;PST;PFV;NOM(3,PL)	 impermeabilizzare V;IND;PST;P
+Generate the inflected form for: impermeabilizzare V;IND;PST;PFV;NOM(3,SG)	 impermeabilizzare V;IND;PST;P
+Generate the inflected form for: impermeabilizzare V;NFIN	erate the inflected form for: 
+Generate the inflected form for: impermeabilizzare V;POS;IMP;NOM(3,PL)	 impermeabilizzare V;POS;IMP;N
+Generate the inflected form for: impermeabilizzare V;POS;IMP;NOM(3,SG)	 impermeabilizzare V;POS;IMP;N
+Generate the inflected form for: impermeabilizzare V;SBJV;PST;NOM(1,SG)	 SBJV;PST;NOM(1,SG);NOM(1,SG);
+Generate the inflected form for: impermeabilizzare V;SBJV;PST;NOM(3,SG)	 the inflected form for: impre
+Generate the inflected form for: impingere V.CVB;PRS	 form for: impingere V.CVB;PRS
+Generate the inflected form for: impingere V;COND;NOM(2,PL)	;COND;NOM(2,PL);COND;NOM(2,PL)
+Generate the inflected form for: impingere V;COND;NOM(3,PL)	;COND;NOM(3,PL);COND;NOM(3,PL)
+Generate the inflected form for: impingere V;IND;FUT;NOM(2,PL)	 V;IND;FUT;NOM(2,PL);NOM(2,PL)
+Generate the inflected form for: impingere V;IND;FUT;NOM(2,SG)	(2,SG)(2,SG)(2,SG)(2,SG)(2,SG)
+Generate the inflected form for: impingere V;IND;PRS;NOM(1,SG)	 V;IND;PRS;NOM(1,SG);NOM(1,SG)
+Generate the inflected form for: impingere V;IND;PRS;NOM(3,SG)	 V;IND;PRS;NOM(3,SG);NOM(3,SG)
+Generate the inflected form for: impingere V;IND;PST;IPFV;NOM(3,PL)	 impigere V;IND;PST;IPFV;NOM(3
+Generate the inflected form for: impingere V;IND;PST;PFV;NOM(2,PL)	 impigere V;IND;PST;PFV;NOM(2,
+Generate the inflected form for: impingere V;IND;PST;PFV;NOM(2,SG)	 impigere V;IND;PST;PFV;NOM(2,
+Generate the inflected form for: impingere V;NFIN	 form for: impingere V;NFIN
+fo
+Generate the inflected form for: impingere V;POS;IMP;NOM(2,PL)	 impingere V;POS;IMP;NOM(2,PL)
+Generate the inflected form for: impingere V;SBJV;PRS;NOM(1,PL)	 impigere V;SBJV;PRS;NOM(1,PL)
+Generate the inflected form for: impingere V;SBJV;PRS;NOM(2,PL)	 impigere V;SBJV;PRS;NOM(2,PL)
+Generate the inflected form for: impingere V;SBJV;PRS;NOM(2,SG)	 impigere V;SBJV;PRS;NOM(2,SG)
+Generate the inflected form for: impingere V;SBJV;PRS;NOM(3,PL)	 impigere V;SBJV;PRS;NOM(3,PL)
+Generate the inflected form for: impingere V;SBJV;PST;NOM(1,PL)	 impigere V;SBJV;PST;NOM(1,PL)
+Generate the inflected form for: impingere V;SBJV;PST;NOM(2,SG)	 SBJV;PST;NOM(2,SG);NOM(2,SG);
+Generate the inflected form for: impingere V;SBJV;PST;NOM(3,PL)	 impigere V;SBJV;PST;NOM(3,PL)
+Generate the inflected form for: impingere V;SBJV;PST;NOM(3,SG)	 SBJV;PST;NOM(3,SG);NOM(3,SG);
+Generate the inflected form for: increspare V.CVB;PRS	;PRS;PRS;PRS;PRS;PRS;PRS;PRS;P
+Generate the inflected form for: increspare V.PTCP;PRS	 PTCP;PTCP;PTCP;PTCP;PTCP;PTCP
+Generate the inflected form for: increspare V.PTCP;PST	;PST;PST;PST;PST;PST;PST;PST;P
+Generate the inflected form for: increspare V;COND;NOM(1,PL)	 V;COND;NOM(1,PL);NOM(1,PL);NO
+Generate the inflected form for: increspare V;COND;NOM(1,SG)	;COND;NOM(1,SG);NOM(1,SG);NOM(
+Generate the inflected form for: increspare V;COND;NOM(3,PL)	;COND;NOM(3,PL);COND;NOM(3,PL)
+Generate the inflected form for: increspare V;COND;NOM(3,SG)	;COND;NOM(3,SG);NOM(3,SG);NOM(
+Generate the inflected form for: increspare V;IND;FUT;NOM(1,PL)	 V;IND;FUT;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: increspare V;IND;FUT;NOM(1,SG)	 V;IND;FUT;NOM(1,SG);NOM(1,SG)
+Generate the inflected form for: increspare V;IND;FUT;NOM(3,SG)	(3,SG)(3,SG)(3,SG)(3,SG)(3,SG)
+Generate the inflected form for: increspare V;IND;PRS;NOM(1,SG)	 V;IND;PRS;NOM(1,SG);NOM(1,SG)
+Generate the inflected form for: increspare V;IND;PRS;NOM(2,PL)	 V;IND;PRS;NOM(2,PL);NOM(2,PL)
+Generate the inflected form for: increspare V;IND;PRS;NOM(3,SG)	 V;IND;PRS;NOM(3,SG);NOM(3,SG)
+Generate the inflected form for: increspare V;IND;PST;IPFV;NOM(1,SG)	 form for: increspare V;IND;PS
+Generate the inflected form for: increspare V;IND;PST;IPFV;NOM(2,SG)	 form for: increspare V;IND;PS
+Generate the inflected form for: increspare V;NFIN	 form for: increspare V;NFINFI
+Generate the inflected form for: increspare V;POS;IMP;NOM(3,PL)	 increspare V;POS;IMP;NOM(3,PL
+Generate the inflected form for: increspare V;SBJV;PRS;NOM(2,PL)	 V;SBJV;PRS;NOM(2,PL);NOM(2,PL
+Generate the inflected form for: increspare V;SBJV;PST;NOM(2,SG)	 SBJV;PST;NOM(2,SG);NOM(2,SG);
+Generate the inflected form for: increspare V;SBJV;PST;NOM(3,SG)	 SBJV;PST;NOM(3,SG);NOM(3,SG);
+Generate the inflected form for: indebolirsi V.PTCP;PST	 PTCP;PST;PST;PST;PST;PST;PST;
+Generate the inflected form for: indebolirsi V;COND;NOM(2,SG)	 V;COND;NOM(2,SG);NOM(2,SG);NO
+Generate the inflected form for: indebolirsi V;COND;NOM(3,PL)	;COND;NOM(3,PL);COND;NOM(3,PL)
+Generate the inflected form for: indebolirsi V;COND;NOM(3,SG)	 V;COND;NOM(3,SG);NOM(3,SG);NO
+Generate the inflected form for: indebolirsi V;IND;PRS;NOM(1,SG)	 V;IND;PRS;NOM(1,SG);NOM(1,SG)
+Generate the inflected form for: indebolirsi V;IND;PST;IPFV;NOM(2,SG)	 V;IND;PST;IPFV;NOM(2,SG);IPFV
+Generate the inflected form for: indebolirsi V;IND;PST;IPFV;NOM(3,PL)	 indebolirsi V;IND;PST;IPFV;NO
+Generate the inflected form for: indebolirsi V;IND;PST;IPFV;NOM(3,SG)	 V;IND;PST;IPFV;NOM(3,SG);IPFV
+Generate the inflected form for: indebolirsi V;IND;PST;PFV;NOM(1,PL)	 indebolirsi V;IND;PST;PFV;NOM
+Generate the inflected form for: indebolirsi V;IND;PST;PFV;NOM(1,SG)	 V;IND;PST;PFV;NOM(1,SG);NOM(1
+Generate the inflected form for: indebolirsi V;IND;PST;PFV;NOM(3,PL)	 indebolirsi V;IND;PST;PFV;NOM
+Generate the inflected form for: indebolirsi V;IND;PST;PFV;NOM(3,SG)	 V;IND;PST;PFV;NOM(3,SG);NOM(3
+Generate the inflected form for: indebolirsi V;POS;IMP;NOM(1,PL)	 V;POS;IMP;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: indebolirsi V;POS;IMP;NOM(2,PL)	 V;POS;IMP;NOM(2,PL);NOM(2,PL)
+Generate the inflected form for: indebolirsi V;POS;IMP;NOM(3,PL)	 V;POS;IMP;NOM(3,PL);IMP;NOM(3
+Generate the inflected form for: indebolirsi V;SBJV;PRS;NOM(1,SG)	 V;SBJV;PRS;NOM(1,SG);NOM(1,SG
+Generate the inflected form for: indebolirsi V;SBJV;PRS;NOM(2,SG)	 V;SBJV;PRS;NOM(2,SG);NOM(2,SG
+Generate the inflected form for: indebolirsi V;SBJV;PRS;NOM(3,SG)	 V;SBJV;PRS;NOM(3,SG);NOM(3,SG
+Generate the inflected form for: indebolirsi V;SBJV;PST;NOM(2,SG)	 V;SBJV;PST;NOM(2,SG);NOM(2,SG
+Generate the inflected form for: indebolirsi V;SBJV;PST;NOM(3,PL)	 V;SBJV;PST;NOM(3,PL);NOM(3,PL
+Generate the inflected form for: infettare V.PTCP;PRS	;PRS;PRS;PRS;PRS;PRS;PRS;PRS;P
+Generate the inflected form for: infettare V.PTCP;PST	;PST;PST;PST;PST;PST;PST;PST;P
+Generate the inflected form for: infettare V;COND;NOM(2,PL)	;COND;NOM(2,PL);COND;NOM(2,PL)
+Generate the inflected form for: infettare V;IND;FUT;NOM(1,PL)	 V;IND;FUT;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: infettare V;IND;FUT;NOM(2,PL)	 V;IND;FUT;NOM(2,PL)
+Infettare
+Generate the inflected form for: infettare V;IND;FUT;NOM(3,PL)	 V;IND;FUT;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: infettare V;IND;PRS;NOM(2,SG)	 infettare V;IND;PRS;NOM(2,SG)
+Generate the inflected form for: infettare V;IND;PST;IPFV;NOM(2,SG)	 infettare V;IND;PST;IPFV;NOM(
+Generate the inflected form for: infettare V;IND;PST;PFV;NOM(1,PL)	 infettare V;IND;PST;PFV;NOM(1
+Generate the inflected form for: infettare V;IND;PST;PFV;NOM(2,PL)	 infettare V;IND;PST;PFV;NOM(2
+Generate the inflected form for: infettare V;IND;PST;PFV;NOM(3,SG)	 infettare V;IND;PST;PFV;NOM(3
+Generate the inflected form for: infettare V;POS;IMP;NOM(2,SG)	 infettare V;POS;IMP;NOM(2,SG)
+Generate the inflected form for: infettare V;POS;IMP;NOM(3,PL)	 infettare V;POS;IMP;NOM(3,PL)
+Generate the inflected form for: infettare V;SBJV;PRS;NOM(1,PL)	 inflected form for: inflected
+Generate the inflected form for: infettare V;SBJV;PRS;NOM(1,SG)	 infettare V;SBJV;PRS;NOM(1,SG
+Generate the inflected form for: infettare V;SBJV;PRS;NOM(3,PL)	 inflected form for: infettare
+Generate the inflected form for: infettare V;SBJV;PRS;NOM(3,SG)	 infettare V;SBJV;PRS;NOM(3,SG
+Generate the inflected form for: infettare V;SBJV;PST;NOM(1,PL)	 infettare V;SBJV;PST;NOM(1,PL
+Generate the inflected form for: infettare V;SBJV;PST;NOM(2,PL)	 infettare V;SBJV;PST;NOM(2,PL
+Generate the inflected form for: infettare V;SBJV;PST;NOM(3,PL)	 infettare V;SBJV;PST;NOM(3,PL
+Generate the inflected form for: lacerarsi V.CVB;PRS	 V.CVB;PRS;PRS;PRS;PRS;PRS;PRS
+Generate the inflected form for: lacerarsi V.PTCP;PRS	;PRS;PRS;PRS;PRS;PRS;PRS;PRS;P
+Generate the inflected form for: lacerarsi V;COND;NOM(1,SG)	;COND;NOM(1,SG);COND;NOM(1,SG)
+Generate the inflected form for: lacerarsi V;IND;FUT;NOM(1,PL)	 V;IND;FUT;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: lacerarsi V;IND;FUT;NOM(2,SG)	;IND;FUT;NOM(2,SG);IND;FUT;NOM
+Generate the inflected form for: lacerarsi V;IND;FUT;NOM(3,PL)	 V;IND;FUT;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: lacerarsi V;IND;FUT;NOM(3,SG)	;IND;FUT;NOM(3,SG);IND;FUT;NOM
+Generate the inflected form for: lacerarsi V;IND;PRS;NOM(2,SG)	 V;IND;PRS;NOM(2,SG)
+IND;PRS;N
+Generate the inflected form for: lacerarsi V;IND;PST;IPFV;NOM(2,SG)	 V;IND;PST;IPFV;NOM(2,SG);IPFV
+Generate the inflected form for: lacerarsi V;IND;PST;IPFV;NOM(3,SG)	 V;IND;PST;IPFV;NOM(3,SG);IPFV
+Generate the inflected form for: lacerarsi V;IND;PST;PFV;NOM(1,SG)	 V;IND;PST;PFV;NOM(1,SG)
+The i
+Generate the inflected form for: lacerarsi V;IND;PST;PFV;NOM(3,SG)	 V;IND;PST;PFV;NOM(3,SG)
+The i
+Generate the inflected form for: lacerarsi V;POS;IMP;NOM(2,SG)	 V;POS;IMP;NOM(2,SG);IMP;NOM(2
+Generate the inflected form for: lacerarsi V;POS;IMP;NOM(3,PL)	 V;POS;IMP;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: lacerarsi V;POS;IMP;NOM(3,SG)	 V;POS;IMP;NOM(3,SG);IMP;NOM(3
+Generate the inflected form for: lacerarsi V;SBJV;PRS;NOM(1,PL)	 V;SBJV;PRS;NOM(1,PL);NOM(1,PL
+Generate the inflected form for: lacerarsi V;SBJV;PRS;NOM(1,SG)	 V;SBJV;PRS;NOM(1,SG);NOM(1,SG
+Generate the inflected form for: lacerarsi V;SBJV;PRS;NOM(2,PL)	 V;SBJV;PRS;NOM(2,PL);NOM(2,PL
+Generate the inflected form for: lacerarsi V;SBJV;PST;NOM(1,SG)	 V;SBJV;PST;NOM(1,SG);NOM(1,SG
+Generate the inflected form for: lacerarsi V;SBJV;PST;NOM(2,SG)	 V;SBJV;PST;NOM(2,SG);NOM(2,SG
+Generate the inflected form for: limitare V.PTCP;PRS	;PRS;PRS;PRS;PRS;PRS;PRS;PRS;P
+Generate the inflected form for: limitare V;COND;NOM(2,PL)	;COND;NOM(2,PL);COND;NOM(2,PL)
+Generate the inflected form for: limitare V;COND;NOM(3,PL)	;COND;NOM(3,PL);COND;NOM(3,PL)
+Generate the inflected form for: limitare V;COND;NOM(3,SG)	;COND;NOM(3,SG);COND;NOM(3,SG)
+Generate the inflected form for: limitare V;IND;FUT;NOM(1,PL)	 V;IND;FUT;FUT;FUT;FUT;FUT;FUT
+Generate the inflected form for: limitare V;IND;FUT;NOM(2,PL)	 V;IND;FUT;FUT;FUT;FUT;FUT;FUT
+Generate the inflected form for: limitare V;IND;FUT;NOM(3,PL)	 V;IND;FUT;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: limitare V;IND;PRS;NOM(1,PL)	 V;IND;PRS;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: limitare V;IND;PRS;NOM(2,PL)	 V;IND;PRS;NOM(2,PL);NOM(2,PL)
+Generate the inflected form for: limitare V;IND;PRS;NOM(3,PL)	 V;IND;PRS;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: limitare V;IND;PST;IPFV;NOM(3,SG)	 V;IND;PST;IPFV;NOM(3,SG)
+The 
+Generate the inflected form for: limitare V;IND;PST;PFV;NOM(2,SG)	 V;IND;PST;PFV;NOM(2,SG) V;IND
+Generate the inflected form for: limitare V;IND;PST;PFV;NOM(3,PL)	 V;IND;PST;PFV;NOM(3,PL);NOM(3
+Generate the inflected form for: limitare V;POS;IMP;NOM(1,PL)	 form for: limitare V;POS;IMP;
+Generate the inflected form for: limitare V;POS;IMP;NOM(2,PL)	 form for: limitare V;POS;IMP;
+Generate the inflected form for: limitare V;POS;IMP;NOM(2,SG)	 form for: limitare V;POS;IMP;
+Generate the inflected form for: limitare V;SBJV;PRS;NOM(1,SG)	 V;SBJV;PRS;NOM(1,SG);NOM(1,SG
+Generate the inflected form for: limitare V;SBJV;PRS;NOM(3,SG)	 V;SBJV;PRS;NOM(3,SG);NOM(3,SG
+Generate the inflected form for: limitare V;SBJV;PST;NOM(2,SG)	 V;SBJV;PST;NOM(2,SG);NOM(2,SG
+Generate the inflected form for: limitare V;SBJV;PST;NOM(3,PL)	 V;SBJV;PST;NOM(3,PL);NOM(3,PL
+Generate the inflected form for: masturbare V.PTCP;PRS	 V.PTCP;PRS;PRS;PRS;PRS;PRS;PR
+Generate the inflected form for: masturbare V.PTCP;PST	 V.PTCP;PST;PST;PST;PST;PST;PS
+Generate the inflected form for: masturbare V;COND;NOM(1,PL)	;COND;NOM(1,PL);COND;NOM(1,PL)
+Generate the inflected form for: masturbare V;COND;NOM(2,PL)	;COND;NOM(2,PL);COND;NOM(2,PL)
+Generate the inflected form for: masturbare V;COND;NOM(2,SG)	;COND;NOM(2,SG);COND;NOM(2,SG)
+Generate the inflected form for: masturbare V;COND;NOM(3,SG)	;COND;NOM(3,SG);COND;NOM(3,SG)
+Generate the inflected form for: masturbare V;IND;FUT;NOM(2,SG)	(2,SG)(2,SG)(2,SG)(2,SG)(2,SG)
+Generate the inflected form for: masturbare V;IND;FUT;NOM(3,PL)	 V;IND;FUT;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: masturbare V;IND;FUT;NOM(3,SG)	;IND;FUT;NOM(3,SG);IND;FUT;NOM
+Generate the inflected form for: masturbare V;IND;PST;IPFV;NOM(1,SG)	 V;IND;PST;IPFV;NOM(1,SG)
+The 
+Generate the inflected form for: masturbare V;IND;PST;IPFV;NOM(3,PL)	 masturbare V;IND;PST;IPFV;NOM
+Generate the inflected form for: masturbare V;IND;PST;PFV;NOM(1,SG)	 V;IND;PST;PFV;NOM(1,SG)
+The i
+Generate the inflected form for: masturbare V;IND;PST;PFV;NOM(2,SG)	 V;IND;PST;PFV;NOM(2,SG)
+The i
+Generate the inflected form for: masturbare V;POS;IMP;NOM(2,SG)	 form for: masturbare V;POS;IM
+Generate the inflected form for: masturbare V;POS;IMP;NOM(3,PL)	 V;POS;IMP;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: masturbare V;SBJV;PRS;NOM(1,SG)	 SBJV;PRS;NOM(1,SG);NOM(1,SG);
+Generate the inflected form for: masturbare V;SBJV;PRS;NOM(2,PL)	 V;SBJV;PRS;NOM(2,PL);NOM(2,PL
+Generate the inflected form for: masturbare V;SBJV;PRS;NOM(2,SG)	 SBJV;PRS;NOM(2,SG)
+SBJV;PRS;N
+Generate the inflected form for: masturbare V;SBJV;PRS;NOM(3,PL)	 V;SBJV;PRS;NOM(3,PL);NOM(3,PL
+Generate the inflected form for: masturbare V;SBJV;PST;NOM(1,PL)	 SBJV;PST;NOM(1,PL);NOM(1,PL);
+Generate the inflected form for: mercificare V.CVB;PRS	;PRS;PRS;PRS;PRS;PRS;PRS;PRS;P
+Generate the inflected form for: mercificare V.PTCP;PRS	;PRS;PRS;PRS;PRS;PRS;PRS;PRS;P
+Generate the inflected form for: mercificare V.PTCP;PST	;PST;PST;PST;PST;PST;PST;PST;P
+Generate the inflected form for: mercificare V;COND;NOM(1,SG)	;COND;NOM(1,SG);COND;NOM(1,SG)
+Generate the inflected form for: mercificare V;COND;NOM(2,PL)	 V;COND;NOM(2,PL);NOM(2,PL);NO
+Generate the inflected form for: mercificare V;COND;NOM(2,SG)	;COND;NOM(2,SG);COND;NOM(2,SG)
+Generate the inflected form for: mercificare V;COND;NOM(3,PL)	 V;COND;NOM(3,PL);NOM(3,PL);NO
+Generate the inflected form for: mercificare V;COND;NOM(3,SG)	;COND;NOM(3,SG);COND;NOM(3,SG)
+Generate the inflected form for: mercificare V;IND;FUT;NOM(2,SG)	(2,SG)(2,SG)(2,SG)(2,SG)(2,SG)
+Generate the inflected form for: mercificare V;IND;FUT;NOM(3,PL)	 V;IND;FUT;NOM(3,PL) V;IND;FUT
+Generate the inflected form for: mercificare V;IND;PRS;NOM(2,PL)	 V;IND;PRS;NOM(2,PL);NOM(2,PL)
+Generate the inflected form for: mercificare V;IND;PST;IPFV;NOM(2,SG)	 the inflected form for: merci
+Generate the inflected form for: mercificare V;IND;PST;PFV;NOM(2,PL)	 the inflected form for: merci
+Generate the inflected form for: mercificare V;IND;PST;PFV;NOM(3,PL)	 the inflected form for: merci
+Generate the inflected form for: mercificare V;POS;IMP;NOM(2,SG)	 form for: mercificare V;POS;I
+Generate the inflected form for: mercificare V;POS;IMP;NOM(3,PL)	 inflected form for: mercifica
+Generate the inflected form for: mercificare V;SBJV;PRS;NOM(2,SG)	 the inflected form for: merci
+Generate the inflected form for: mercificare V;SBJV;PST;NOM(1,PL)	 SBJV;PST;NOM(1,PL);NOM(1,PL);
+Generate the inflected form for: mercificare V;SBJV;PST;NOM(2,SG)	 the inflected form for: merci
+Generate the inflected form for: mercificare V;SBJV;PST;NOM(3,SG)	 the inflected form for: merci
+Generate the inflected form for: naturalizzarsi V.CVB;PRS	 V.CVB;PRS;PRS;PRS;PRS;PRS;PRS
+Generate the inflected form for: naturalizzarsi V.PTCP;PRS	 PTCP;PRS;PRS;PRS;PRS;PRS;PRS;
+Generate the inflected form for: naturalizzarsi V.PTCP;PST	e form for: naturalizzarsi V.P
+Generate the inflected form for: naturalizzarsi V;COND;NOM(2,PL)	;COND;NOM(2,PL);COND;NOM(2,PL)
+Generate the inflected form for: naturalizzarsi V;COND;NOM(3,PL)	;COND;NOM(3,PL);COND;NOM(3,PL)
+Generate the inflected form for: naturalizzarsi V;IND;FUT;NOM(1,PL)	 V;IND;FUT;NOM(1,PL) V;IND;FUT
+Generate the inflected form for: naturalizzarsi V;IND;FUT;NOM(3,PL)	 V;IND;FUT;NOM(3,PL) V;IND;FUT
+Generate the inflected form for: naturalizzarsi V;IND;FUT;NOM(3,SG)	(3,SG)(3,SG)(3,SG)(3,SG)(3,SG)
+Generate the inflected form for: naturalizzarsi V;IND;PRS;NOM(1,PL)	 V;IND;PRS;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: naturalizzarsi V;IND;PRS;NOM(2,PL)	 V;IND;PRS;NOM(2,PL)
+Generate 
+Generate the inflected form for: naturalizzarsi V;IND;PRS;NOM(2,SG)	 V;IND;PRS;NOM(2,SG)
+V;IND;PRS
+Generate the inflected form for: naturalizzarsi V;IND;PRS;NOM(3,SG)	 V;IND;PRS;NOM(3,SG);NOM(3,SG)
+Generate the inflected form for: naturalizzarsi V;IND;PST;IPFV;NOM(2,PL)	 V;IND;PST;IPFV;NOM(2,PL)
+1. I
+Generate the inflected form for: naturalizzarsi V;NFIN	 form for: naturalizzarsi V;NF
+Generate the inflected form for: naturalizzarsi V;POS;IMP;NOM(3,PL)	 V;POS;IMP;NOM(3,PL);IMP;NOM(3
+Generate the inflected form for: naturalizzarsi V;SBJV;PRS;NOM(1,PL)	 V;SBJV;PRS;NOM(1,PL);NOM(1,PL
+Generate the inflected form for: naturalizzarsi V;SBJV;PRS;NOM(3,PL)	 V;SBJV;PRS;NOM(3,PL);NOM(3,PL
+Generate the inflected form for: naturalizzarsi V;SBJV;PRS;NOM(3,SG)	 V;SBJV;PRS;NOM(3,SG);NOM(3,SG
+Generate the inflected form for: naturalizzarsi V;SBJV;PST;NOM(2,SG)	 SBJV;PST;NOM(2,SG)
+SBJV;PST;N
+Generate the inflected form for: naturalizzarsi V;SBJV;PST;NOM(3,SG)	 SBJV;PST;NOM(3,SG)
+SBJV;PST;N
+Generate the inflected form for: oscillare V.CVB;PRS	 V.CVB;PRS;PRS;PRS;PRS;PRS;PRS
+Generate the inflected form for: oscillare V.PTCP;PRS	 PTCP;PTCP;PTCP;PTCP;PTCP;PTCP
+Generate the inflected form for: oscillare V;COND;NOM(1,SG)	 V;COND;NOM(1,SG);NOM(1,SG);NO
+Generate the inflected form for: oscillare V;COND;NOM(2,PL)	;COND;NOM(2,PL);COND;NOM(2,PL)
+Generate the inflected form for: oscillare V;IND;FUT;NOM(1,SG)	 V;IND;FUT;NOM(1,SG)
+The infle
+Generate the inflected form for: oscillare V;IND;FUT;NOM(2,PL)	 V;IND;FUT;NOM(2,PL);NOM(2,PL)
+Generate the inflected form for: oscillare V;IND;FUT;NOM(3,PL)	 V;IND;FUT;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: oscillare V;IND;PRS;NOM(1,PL)	 form for oscillare V;IND;PRS;
+Generate the inflected form for: oscillare V;IND;PRS;NOM(1,SG)	 form for oscillare V;IND;PRS;
+Generate the inflected form for: oscillare V;IND;PRS;NOM(3,PL)	 form for oscillare V;IND;PRS;
+Generate the inflected form for: oscillare V;IND;PST;IPFV;NOM(1,PL)	 form for: oscillare V;IND;PST
+Generate the inflected form for: oscillare V;IND;PST;IPFV;NOM(3,SG)	 form for: oscillare V;IND;PST
+Generate the inflected form for: oscillare V;IND;PST;PFV;NOM(2,SG)	 V;IND;PST;PFV;NOM(2,SG);NOM(2
+Generate the inflected form for: oscillare V;POS;IMP;NOM(3,PL)	 form for: oscillare V;POS;IMP
+Generate the inflected form for: oscillare V;POS;IMP;NOM(3,SG)	 V;POS;IMP;NOM(3,SG);IMP;NOM(3
+Generate the inflected form for: oscillare V;SBJV;PRS;NOM(1,PL)	 V SBJV SBJV SBJV SBJV SBJV SB
+Generate the inflected form for: oscillare V;SBJV;PRS;NOM(3,PL)	 V SBJV;PRS;NOM(3,PL);NOM(3,PL
+Generate the inflected form for: oscillare V;SBJV;PST;NOM(2,PL)	 V SBJV;PST;NOM(2,PL);NOM(2,PL
+Generate the inflected form for: oscillare V;SBJV;PST;NOM(2,SG)	 V;SBJV;PST;NOM(2,SG);NOM(2,SG
+Generate the inflected form for: oscillare V;SBJV;PST;NOM(3,PL)	 V SBJV;PST;NOM(3,PL);NOM(3,PL
+Generate the inflected form for: ossequiare V.CVB;PRS	 V.CVB;PRS;PRS;PRS;PRS;PRS;PRS
+Generate the inflected form for: ossequiare V.PTCP;PST	 V.PTCP;PST;PST;PST;PST;PST;PS
+Generate the inflected form for: ossequiare V;COND;NOM(2,SG)	;COND;NOM(2,SG);COND;NOM(2,SG)
+Generate the inflected form for: ossequiare V;IND;FUT;NOM(2,PL)	 V;IND;FUT;FUT;FUT;FUT;FUT;FUT
+Generate the inflected form for: ossequiare V;IND;PRS;NOM(1,PL)	 V;IND;PRS;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: ossequiare V;IND;PRS;NOM(3,SG)	 V;IND;PRS;NOM(3,SG);NOM(3,SG)
+Generate the inflected form for: ossequiare V;IND;PST;IPFV;NOM(1,PL)	 V;IND;PST;IPFV;NOM(1,PL);IPFV
+Generate the inflected form for: ossequiare V;IND;PST;IPFV;NOM(1,SG)	 V;IND;PST;IPFV;NOM(1,SG))
+Set
+Generate the inflected form for: ossequiare V;IND;PST;IPFV;NOM(2,SG)	 form for: ossequiare V;IND;PS
+Generate the inflected form for: ossequiare V;IND;PST;IPFV;NOM(3,SG)	 V;IND;PST;IPFV;NOM(3,SG)
+V;IN
+Generate the inflected form for: ossequiare V;IND;PST;PFV;NOM(1,PL)	 V;IND;PST;PFV;NOM(1,PL);NOM(1
+Generate the inflected form for: ossequiare V;IND;PST;PFV;NOM(2,SG)	 V;IND;PST;PFV;NOM(2,SG)
+V;IND
+Generate the inflected form for: ossequiare V;POS;IMP;NOM(3,PL)	 V;POS;IMP;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: ossequiare V;SBJV;PRS;NOM(1,PL)	 V;SBJV;PRS;NOM(1,PL);NOM(1,PL
+Generate the inflected form for: ossequiare V;SBJV;PRS;NOM(2,PL)	 V;SBJV;PRS;NOM(2,PL);NOM(2,PL
+Generate the inflected form for: ossequiare V;SBJV;PRS;NOM(2,SG)	 V;SBJV;PRS;NOM(2,SG);NOM(2,SG
+Generate the inflected form for: ossequiare V;SBJV;PRS;NOM(3,SG)	 V;SBJV;PRS;NOM(3,SG);NOM(3,SG
+Generate the inflected form for: ossequiare V;SBJV;PST;NOM(2,PL)	 V;SBJV;PST;NOM(2,PL);NOM(2,PL
+Generate the inflected form for: ossequiare V;SBJV;PST;NOM(2,SG)	 SBJV;PST;NOM(2,SG);NOM(2,SG);
+Generate the inflected form for: ossequiare V;SBJV;PST;NOM(3,SG)	 SBJV;PST;NOM(3,SG);NOM(3,SG);
+Generate the inflected form for: preludiare V;COND;NOM(3,SG)	;COND;NOM(3,SG);COND;NOM(3,SG)
+Generate the inflected form for: preludiare V;IND;FUT;NOM(3,PL)	 V;IND;FUT;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: preludiare V;IND;PRS;NOM(1,PL)	 preludiare V;IND;PRS;NOM(1,PL
+Generate the inflected form for: preludiare V;IND;PRS;NOM(2,PL)	 preludiare V;IND;PRS;NOM(2,PL
+Generate the inflected form for: preludiare V;IND;PRS;NOM(2,SG)	 V;IND;PRS;NOM(2,SG);NOM(2,SG)
+Generate the inflected form for: preludiare V;IND;PRS;NOM(3,SG)	 V;IND;PRS;NOM(3,SG);NOM(3,SG)
+Generate the inflected form for: preludiare V;IND;PST;IPFV;NOM(2,PL)	 preludiare V;IND;PST;IPFV;NOM
+Generate the inflected form for: preludiare V;IND;PST;PFV;NOM(1,PL)	 preludiare V;IND;PST;PFV;NOM(
+Generate the inflected form for: preludiare V;IND;PST;PFV;NOM(1,SG)	 preludiare V;IND;PST;PFV;NOM(
+Generate the inflected form for: preludiare V;IND;PST;PFV;NOM(2,SG)	 preludiare V;IND;PST;PFV;NOM(
+Generate the inflected form for: preludiare V;IND;PST;PFV;NOM(3,PL)	 preludiare V;IND;PST;PFV;NOM(
+Generate the inflected form for: preludiare V;NFIN	 form for: preludiare V;NFIN f
+Generate the inflected form for: preludiare V;POS;IMP;NOM(2,PL)	 preludiare V;POS;IMP;NOM(2,PL
+Generate the inflected form for: preludiare V;POS;IMP;NOM(3,PL)	 preludiare V;POS;IMP;NOM(3,PL
+Generate the inflected form for: preludiare V;POS;IMP;NOM(3,SG)	 preludiare V;POS;IMP;NOM(3,SG
+Generate the inflected form for: preludiare V;SBJV;PRS;NOM(1,SG)	 preludiare V;SBJV;PRS;NOM(1,S
+Generate the inflected form for: preludiare V;SBJV;PRS;NOM(2,SG)	 preludiare V;SBJV;PRS;NOM(2,S
+Generate the inflected form for: preludiare V;SBJV;PST;NOM(1,SG)	 V;SBJV;PST;NOM(1,SG);NOM(1,SG
+Generate the inflected form for: preludiare V;SBJV;PST;NOM(2,PL)	 V;SBJV;PST;NOM(2,PL);NOM(2,PL
+Generate the inflected form for: preludiare V;SBJV;PST;NOM(2,SG)	 V;SBJV;PST;NOM(2,SG);NOM(2,SG
+Generate the inflected form for: rabuffare V.PTCP;PRS	 form for: rabuffare V.PTCP;PR
+Generate the inflected form for: rabuffare V.PTCP;PST	;PST;PST;PST;PST;PST;PST;PST;P
+Generate the inflected form for: rabuffare V;COND;NOM(2,PL)	;COND;NOM(2,PL);COND;NOM(2,PL)
+Generate the inflected form for: rabuffare V;COND;NOM(2,SG)	;COND;NOM(2,SG);COND;NOM(2,SG)
+Generate the inflected form for: rabuffare V;COND;NOM(3,SG)	;COND;NOM(3,SG);COND;NOM(3,SG)
+Generate the inflected form for: rabuffare V;IND;FUT;NOM(2,PL)	 V;IND;FUT;NOM(2,PL) V;IND;FUT
+Generate the inflected form for: rabuffare V;IND;FUT;NOM(2,SG)	(2,SG)(2,SG)(2,SG)(2,SG)(2,SG)
+Generate the inflected form for: rabuffare V;IND;PRS;NOM(1,SG)	 V;IND;PRS;NOM(1,SG);NOM(1,SG)
+Generate the inflected form for: rabuffare V;IND;PRS;NOM(2,PL)	 V;IND;PRS;NOM(2,PL);NOM(2,PL)
+Generate the inflected form for: rabuffare V;IND;PRS;NOM(2,SG)	 V;IND;PRS;NOM(2,SG);NOM(2,SG)
+Generate the inflected form for: rabuffare V;IND;PRS;NOM(3,SG)	 V;IND;PRS;NOM(3,SG);NOM(3,SG)
+Generate the inflected form for: rabuffare V;IND;PST;IPFV;NOM(1,PL)	 rabuffare V;IND;PST;IPFV;NOM(
+Generate the inflected form for: rabuffare V;IND;PST;IPFV;NOM(2,PL)	 rabuffare V;IND;PST;IPFV;NOM(
+Generate the inflected form for: rabuffare V;IND;PST;PFV;NOM(1,SG)	 form for: rabuffare V;IND;PST
+Generate the inflected form for: rabuffare V;POS;IMP;NOM(2,SG)	 form for: rabuffare V;POS;IMP
+Generate the inflected form for: rabuffare V;POS;IMP;NOM(3,SG)	 form for: rabuffare V;POS;IMP
+Generate the inflected form for: rabuffare V;SBJV;PRS;NOM(1,PL)	 rabuffare V;SBJV;PRS;NOM(1,PL
+Generate the inflected form for: rabuffare V;SBJV;PRS;NOM(3,PL)	 rabuffare V;SBJV;PRS;NOM(3,PL
+Generate the inflected form for: rabuffare V;SBJV;PST;NOM(1,SG)	 SBJV;PST;NOM(1,SG);NOM(1,SG);
+Generate the inflected form for: rabuffare V;SBJV;PST;NOM(2,SG)	 SBJV;PST;NOM(2,SG);NOM(2,SG);
+Generate the inflected form for: raccostare V.PTCP;PST	 PTCP;PST;PST;PST;PST;PST;PST;
+Generate the inflected form for: raccostare V;COND;NOM(2,PL)	;COND;NOM(2,PL);COND;NOM(2,PL)
+Generate the inflected form for: raccostare V;IND;FUT;NOM(1,PL)	 V;IND;FUT;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: raccostare V;IND;FUT;NOM(2,PL)	 V;IND;FUT;NOM(2,PL)
+V;IND;FUT
+Generate the inflected form for: raccostare V;IND;FUT;NOM(3,PL)	 V;IND;FUT;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: raccostare V;IND;FUT;NOM(3,SG)	(3,SG)(3,SG)(3,SG)(3,SG)(3,SG)
+Generate the inflected form for: raccostare V;IND;PRS;NOM(2,PL)	 V;IND;PRS;NOM(2,PL);NOM(2,PL)
+Generate the inflected form for: raccostare V;IND;PRS;NOM(2,SG)	 V;IND;PRS;NOM(2,SG);NOM(2,SG)
+Generate the inflected form for: raccostare V;IND;PST;IPFV;NOM(1,PL)	 racccostare V;IND;PST;IPFV;NO
+Generate the inflected form for: raccostare V;IND;PST;IPFV;NOM(1,SG)	 the inflected form for: racc;
+Generate the inflected form for: raccostare V;IND;PST;PFV;NOM(1,PL)	 racccostare V;IND;PST;PFV;NOM
+Generate the inflected form for: raccostare V;IND;PST;PFV;NOM(1,SG)	 the inflected form for: racc;
+Generate the inflected form for: raccostare V;IND;PST;PFV;NOM(2,PL)	 racccostare V;IND;PST;PFV;NOM
+Generate the inflected form for: raccostare V;NFIN	e form for: raccostare V;NFIN 
+Generate the inflected form for: raccostare V;POS;IMP;NOM(1,PL)	 raccostare V;POS;IMP;NOM(1,PL
+Generate the inflected form for: raccostare V;POS;IMP;NOM(3,PL)	 raccostare V;POS;IMP;NOM(3,PL
+Generate the inflected form for: raccostare V;SBJV;PRS;NOM(2,PL)	 raccostare V;SBJV;PRS;NOM(2,P
+Generate the inflected form for: raccostare V;SBJV;PRS;NOM(3,PL)	 raccostare V;SBJV;PRS;NOM(3,P
+Generate the inflected form for: raccostare V;SBJV;PRS;NOM(3,SG)	 V;SBJV;PRS;NOM(3,SG);NOM(3,SG
+Generate the inflected form for: raccostare V;SBJV;PST;NOM(3,PL)	 raccostare V;SBJV;PST;NOM(3,P
+Generate the inflected form for: riammalarsi V.PTCP;PRS	 V.PTCP;PRS;PRS;PRS;PRS;PRS;PR
+Generate the inflected form for: riammalarsi V.PTCP;PST	 V.PTCP;PST;PST;PST;PST;PST;PS
+Generate the inflected form for: riammalarsi V;COND;NOM(2,PL)	;COND;NOM(2,PL);COND;NOM(2,PL)
+Generate the inflected form for: riammalarsi V;COND;NOM(2,SG)	 V;COND;NOM(2,SG);NOM(2,SG);NO
+Generate the inflected form for: riammalarsi V;COND;NOM(3,SG)	 V;COND;NOM(3,SG);COND;NOM(3,S
+Generate the inflected form for: riammalarsi V;IND;FUT;NOM(1,PL)	 V;IND;FUT;NOM(1,PL) V;IND;FUT
+Generate the inflected form for: riammalarsi V;IND;FUT;NOM(1,SG)	 V;IND;FUT;NOM(1,SG) V;IND;FUT
+Generate the inflected form for: riammalarsi V;IND;FUT;NOM(3,PL)	 V;IND;FUT;NOM(3,PL) V;IND;FUT
+Generate the inflected form for: riammalarsi V;IND;FUT;NOM(3,SG)	(3,SG)(3,SG)(3,SG)(3,SG)(3,SG)
+Generate the inflected form for: riammalarsi V;IND;PRS;NOM(1,SG)	 V;IND;PRS;NOM(1,SG);NOM(1,SG)
+Generate the inflected form for: riammalarsi V;IND;PRS;NOM(3,SG)	 V;IND;PRS;NOM(3,SG);NOM(3,SG)
+Generate the inflected form for: riammalarsi V;IND;PST;IPFV;NOM(1,PL)	 riammalarsi V;IND;PST;IPFV;NO
+Generate the inflected form for: riammalarsi V;IND;PST;IPFV;NOM(1,SG)	 the inflected form for: riamm
+Generate the inflected form for: riammalarsi V;IND;PST;PFV;NOM(1,PL)	 riammalarsi V;IND;PST;PFV;NOM
+Generate the inflected form for: riammalarsi V;IND;PST;PFV;NOM(1,SG)	 V;IND;PST;PFV;NOM(1,SG)
+The i
+Generate the inflected form for: riammalarsi V;IND;PST;PFV;NOM(3,SG)	 V;IND;PST;PFV;NOM(3,SG)
+The i
+Generate the inflected form for: riammalarsi V;POS;IMP;NOM(1,PL)	 V;POS;IMP;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: riammalarsi V;SBJV;PRS;NOM(1,SG)	 V;SBJV;PRS;NOM(1,SG);NOM(1,SG
+Generate the inflected form for: riammalarsi V;SBJV;PST;NOM(1,PL)	 V;SBJV;PST;NOM(1,PL);NOM(1,PL
+Generate the inflected form for: riammalarsi V;SBJV;PST;NOM(2,PL)	 V;SBJV;PST;NOM(2,PL);NOM(2,PL
+Generate the inflected form for: rimangiarsi V;COND;NOM(1,PL)	;COND;NOM(1,PL);COND;NOM(1,PL)
+Generate the inflected form for: rimangiarsi V;COND;NOM(2,SG)	;COND;NOM(2,SG);COND;NOM(2,SG)
+Generate the inflected form for: rimangiarsi V;IND;FUT;NOM(2,PL)	 V;IND;FUT;NOM(2,PL) V;IND;FUT
+Generate the inflected form for: rimangiarsi V;IND;FUT;NOM(2,SG)	;IND;FUT;NOM(2,SG);IND;FUT;NOM
+Generate the inflected form for: rimangiarsi V;IND;FUT;NOM(3,PL)	 V;IND;FUT;NOM(3,PL) V;IND;FUT
+Generate the inflected form for: rimangiarsi V;IND;PRS;NOM(3,SG)	 V;IND;PRS;NOM(3,SG);NOM(3,SG)
+Generate the inflected form for: rimangiarsi V;IND;PST;IPFV;NOM(1,PL)	 rimangiarsi V;IND;PST;IPFV;NO
+Generate the inflected form for: rimangiarsi V;IND;PST;IPFV;NOM(3,SG)	 V;IND;PST;IPFV;NOM(3,SG);IPFV
+Generate the inflected form for: rimangiarsi V;IND;PST;PFV;NOM(2,SG)	 V;IND;PST;PFV;NOM(2,SG);NOM(2
+Generate the inflected form for: rimangiarsi V;IND;PST;PFV;NOM(3,PL)	 V;IND;PST;PFV;NOM(3,PL);NOM(3
+Generate the inflected form for: rimangiarsi V;IND;PST;PFV;NOM(3,SG)	 V;IND;PST;PFV;NOM(3,SG);NOM(3
+Generate the inflected form for: rimangiarsi V;NFIN	 form for: rimangiarsi V;NFIN 
+Generate the inflected form for: rimangiarsi V;POS;IMP;NOM(2,PL)	 V;POS;IMP;NOM(2,PL);NOM(2,PL)
+Generate the inflected form for: rimangiarsi V;POS;IMP;NOM(3,SG)	 V;POS;IMP;NOM(3,SG);IMP;NOM(3
+Generate the inflected form for: rimangiarsi V;SBJV;PRS;NOM(1,PL)	 V;SBJV;PRS;NOM(1,PL);NOM(1,PL
+Generate the inflected form for: rimangiarsi V;SBJV;PRS;NOM(2,SG)	 V;SBJV;PRS;NOM(2,SG);NOM(2,SG
+Generate the inflected form for: rimangiarsi V;SBJV;PRS;NOM(3,SG)	 V;SBJV;PRS;NOM(3,SG);NOM(3,SG
+Generate the inflected form for: rimangiarsi V;SBJV;PST;NOM(1,PL)	 V;SBJV;PST;NOM(1,PL);NOM(1,PL
+Generate the inflected form for: rimangiarsi V;SBJV;PST;NOM(2,SG)	 V;SBJV;PST;NOM(2,SG);NOM(2,SG
+Generate the inflected form for: rimangiarsi V;SBJV;PST;NOM(3,PL)	 V;SBJV;PST;NOM(3,PL);NOM(3,PL
+Generate the inflected form for: rimbeccare V;COND;NOM(1,SG)	 V;COND;NOM(1,SG);NOM(1,SG);NO
+Generate the inflected form for: rimbeccare V;COND;NOM(3,PL)	 rimbeccare V;COND;NOM(3,PL);N
+Generate the inflected form for: rimbeccare V;IND;FUT;NOM(2,PL)	 V;IND;FUT;NOM(2,PL) V;IND;FUT
+Generate the inflected form for: rimbeccare V;IND;FUT;NOM(3,PL)	 V;IND;FUT;NOM(3,PL) V;IND;FUT
+Generate the inflected form for: rimbeccare V;IND;PRS;NOM(3,PL)	 V;IND;PRS;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: rimbeccare V;IND;PRS;NOM(3,SG)	 V;IND;PRS;NOM(3,SG)
+V;IND;PRS
+Generate the inflected form for: rimbeccare V;IND;PST;IPFV;NOM(1,PL)	 rimbecccccccccccccccccccccccc
+Generate the inflected form for: rimbeccare V;IND;PST;IPFV;NOM(2,SG)	 the inflected form for: rimbe
+Generate the inflected form for: rimbeccare V;IND;PST;PFV;NOM(2,SG)	 V;IND;PST;PFV;NOM(2,SG)
+The i
+Generate the inflected form for: rimbeccare V;IND;PST;PFV;NOM(3,PL)	 rimbecccccccccccccccccccccccc
+Generate the inflected form for: rimbeccare V;POS;IMP;NOM(1,PL)	 rimbecccccccccccccccccccccccc
+Generate the inflected form for: rimbeccare V;POS;IMP;NOM(3,SG)	 form for: rimbeccare V;POS;IM
+Generate the inflected form for: rimbeccare V;SBJV;PRS;NOM(1,SG)	 V;SBJV;PRS;NOM(1,SG);NOM(1,SG
+Generate the inflected form for: rimbeccare V;SBJV;PRS;NOM(2,PL)	 V;SBJV;PRS;NOM(2,PL);NOM(2,PL
+Generate the inflected form for: rimbeccare V;SBJV;PRS;NOM(2,SG)	 V;SBJV;PRS;NOM(2,SG);NOM(2,SG
+Generate the inflected form for: rimbeccare V;SBJV;PRS;NOM(3,PL)	 V;SBJV;PRS;NOM(3,PL);NOM(3,PL
+Generate the inflected form for: rimbeccare V;SBJV;PRS;NOM(3,SG)	 V;SBJV;PRS;NOM(3,SG);NOM(3,SG
+Generate the inflected form for: rimbeccare V;SBJV;PST;NOM(1,SG)	 V;SBJV;PST;NOM(1,SG);NOM(1,SG
+Generate the inflected form for: rimbeccare V;SBJV;PST;NOM(2,PL)	 V;SBJV;PST;NOM(2,PL);NOM(2,PL
+Generate the inflected form for: rimbeccare V;SBJV;PST;NOM(3,PL)	 V;SBJV;PST;NOM(3,PL);NOM(3,PL
+Generate the inflected form for: rintorpidire V.CVB;PRS	 V.CVB;PRS;PRS;PRS;PRS;PRS;PRS
+Generate the inflected form for: rintorpidire V.PTCP;PRS	 PTCP;PRS;PRS;PRS;PRS;PRS;PRS;
+Generate the inflected form for: rintorpidire V;COND;NOM(2,PL)	;COND;NOM(2,PL);COND;NOM(2,PL)
+Generate the inflected form for: rintorpidire V;COND;NOM(2,SG)	;COND;NOM(2,SG);COND;NOM(2,SG)
+Generate the inflected form for: rintorpidire V;COND;NOM(3,SG)	;COND;NOM(3,SG);COND;NOM(3,SG)
+Generate the inflected form for: rintorpidire V;IND;FUT;NOM(1,PL)	 V;IND;FUT;NOM(1,PL)
+V;IND;FUT
+Generate the inflected form for: rintorpidire V;IND;FUT;NOM(1,SG)	 V;IND;FUT;NOM(1,SG)
+rintorpid
+Generate the inflected form for: rintorpidire V;IND;PRS;NOM(2,PL)	 V;IND;PRS;NOM(2,PL);NOM(2,PL)
+Generate the inflected form for: rintorpidire V;IND;PRS;NOM(3,PL)	 V;IND;PRS;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: rintorpidire V;IND;PST;IPFV;NOM(1,SG)	 V;IND;PST;IPFV;NOM(1,SG))
+The
+Generate the inflected form for: rintorpidire V;IND;PST;IPFV;NOM(3,PL)	 rintorpidire V;IND;PST;IPFV;N
+Generate the inflected form for: rintorpidire V;IND;PST;IPFV;NOM(3,SG)	 V;IND;PST;IPFV;NOM(3,SG)
+Infl
+Generate the inflected form for: rintorpidire V;IND;PST;PFV;NOM(1,SG)	 V;IND;PST;PFV;NOM(1,SG))
+The 
+Generate the inflected form for: rintorpidire V;IND;PST;PFV;NOM(2,PL)	 rintorpidire V;IND;PST;PFV;NO
+Generate the inflected form for: rintorpidire V;IND;PST;PFV;NOM(2,SG)	 V;IND;PST;PFV;NOM(2,SG)
+The i
+Generate the inflected form for: rintorpidire V;NFIN	e V;NFIN V;NFIN V;NFIN V;NFIN 
+Generate the inflected form for: rintorpidire V;POS;IMP;NOM(2,SG)	 V;POS;IMP;NOM(2,SG);IMP;NOM(2
+Generate the inflected form for: rintorpidire V;SBJV;PRS;NOM(1,PL)	 V;SBJV;PRS;NOM(1,PL);NOM(1,PL
+Generate the inflected form for: rintorpidire V;SBJV;PRS;NOM(3,SG)	 V;SBJV;PRS;NOM(3,SG);NOM(3,SG
+Generate the inflected form for: rintorpidire V;SBJV;PST;NOM(1,SG)	 V;SBJV;PST;NOM(1,SG);NOM(1,SG
+Generate the inflected form for: rinvestire V.PTCP;PRS	 PTCP;PRS;PRS;PRS;PRS;PRS;PRS;
+Generate the inflected form for: rinvestire V.PTCP;PST	;PST;PST;PST;PST;PST;PST;PST;P
+Generate the inflected form for: rinvestire V;COND;NOM(3,PL)	 V;COND;NOM(3,PL);NOM(3,PL);NO
+Generate the inflected form for: rinvestire V;IND;FUT;NOM(1,PL)	 V;IND;FUT;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: rinvestire V;IND;FUT;NOM(1,SG)	 V;IND;FUT;NOM(1,SG) V;IND;FUT
+Generate the inflected form for: rinvestire V;IND;FUT;NOM(2,SG)	(2,SG)(2,SG)(2,SG)(2,SG)(2,SG)
+Generate the inflected form for: rinvestire V;IND;PRS;NOM(1,PL)	 V;IND;PRS;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: rinvestire V;IND;PRS;NOM(1,SG)	 V;IND;PRS;NOM(1,SG);NOM(1,SG)
+Generate the inflected form for: rinvestire V;IND;PRS;NOM(2,PL)	 V;IND;PRS;NOM(2,PL);NOM(2,PL)
+Generate the inflected form for: rinvestire V;IND;PRS;NOM(3,SG)	 V;IND;PRS;NOM(3,SG);NOM(3,SG)
+Generate the inflected form for: rinvestire V;IND;PST;IPFV;NOM(3,PL)	 rinvestire V;IND;PST;IPFV;NOM
+Generate the inflected form for: rinvestire V;IND;PST;PFV;NOM(1,SG)	 rinvestire V;IND;PST;PFV;NOM(
+Generate the inflected form for: rinvestire V;IND;PST;PFV;NOM(3,PL)	 rinvestire V;IND;PST;PFV;NOM(
+Generate the inflected form for: rinvestire V;IND;PST;PFV;NOM(3,SG)	 the inflected form for: rinve
+Generate the inflected form for: rinvestire V;NFIN	e V;NFIN V;NFIN V;NFIN V;NFIN 
+Generate the inflected form for: rinvestire V;SBJV;PRS;NOM(1,PL)	 rinvestire V;SBJV;PRS;NOM(1,P
+Generate the inflected form for: rinvestire V;SBJV;PRS;NOM(2,PL)	 rinvestire V;SBJV;PRS;NOM(2,P
+Generate the inflected form for: rinvestire V;SBJV;PRS;NOM(3,PL)	 rinvestire V;SBJV;PRS;NOM(3,P
+Generate the inflected form for: rinvestire V;SBJV;PST;NOM(3,PL)	 V;SBJV;PST;NOM(3,PL);NOM(3,PL
+Generate the inflected form for: rinvestire V;SBJV;PST;NOM(3,SG)	 V;SBJV;PST;NOM(3,SG);NOM(3,SG
+Generate the inflected form for: ripercuotersi V.CVB;PRS	 V.CVB;PRS;PRS;PRS;PRS;PRS;PRS
+Generate the inflected form for: ripercuotersi V.PTCP;PRS	 PTCP;PRS;PRS;PRS;PRS;PRS;PRS;
+Generate the inflected form for: ripercuotersi V.PTCP;PST	ersi V.PTCP;PSTCP;PSTCP;PSTCP;
+Generate the inflected form for: ripercuotersi V;COND;NOM(1,SG)	;COND;NOM(1,SG);COND;NOM(1,SG)
+Generate the inflected form for: ripercuotersi V;COND;NOM(3,PL)	 V;COND;NOM(3,PL);NOM(3,PL);NO
+Generate the inflected form for: ripercuotersi V;IND;FUT;NOM(1,PL)	 V;IND;FUT;NOM(1,PL) V;IND;FUT
+Generate the inflected form for: ripercuotersi V;IND;PRS;NOM(1,PL)	 V;IND;PRS;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: ripercuotersi V;IND;PRS;NOM(1,SG)	 V;IND;PRS;NOM(1,SG);NOM(1,SG)
+Generate the inflected form for: ripercuotersi V;IND;PRS;NOM(2,SG)	 V;IND;PRS;NOM(2,SG);NOM(2,SG)
+Generate the inflected form for: ripercuotersi V;IND;PRS;NOM(3,PL)	 V;IND;PRS;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: ripercuotersi V;IND;PST;IPFV;NOM(1,SG)	 V;IND;PST;IPFV;NOM(1,SG);IPFV
+Generate the inflected form for: ripercuotersi V;IND;PST;PFV;NOM(1,PL)	 V;IND;PST;PFV;NOM(1,PL);NOM(1
+Generate the inflected form for: ripercuotersi V;IND;PST;PFV;NOM(1,SG)	 V;IND;PST;PFV;NOM(1,SG);IND;P
+Generate the inflected form for: ripercuotersi V;IND;PST;PFV;NOM(3,PL)	 V;IND;PST;PFV;NOM(3,PL);NOM(3
+Generate the inflected form for: ripercuotersi V;POS;IMP;NOM(1,PL)	 V;POS;IMP;NOM(1,PL);IMP;NOM(1
+Generate the inflected form for: ripercuotersi V;POS;IMP;NOM(3,PL)	 V;POS;IMP;NOM(3,PL);IMP;NOM(3
+Generate the inflected form for: ripercuotersi V;POS;IMP;NOM(3,SG)	 V;POS;IMP;NOM(3,SG);IMP;NOM(3
+Generate the inflected form for: ripercuotersi V;SBJV;PRS;NOM(2,SG)	 V;SBJV;PRS;NOM(2,SG);NOM(2,SG
+Generate the inflected form for: ripercuotersi V;SBJV;PST;NOM(1,PL)	 V;SBJV;PST;NOM(1,PL);NOM(1,PL
+Generate the inflected form for: ripercuotersi V;SBJV;PST;NOM(1,SG)	 V;SBJV;PST;NOM(1,SG);NOM(1,SG
+Generate the inflected form for: sbandierare V;COND;NOM(2,SG)	;COND;NOM(2,SG);COND;NOM(2,SG)
+Generate the inflected form for: sbandierare V;COND;NOM(3,PL)	;COND;NOM(3,PL);COND;NOM(3,PL)
+Generate the inflected form for: sbandierare V;COND;NOM(3,SG)	;COND;NOM(3,SG);COND;NOM(3,SG)
+Generate the inflected form for: sbandierare V;IND;FUT;NOM(1,PL)	 V;IND;FUT;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: sbandierare V;IND;FUT;NOM(1,SG)	 V;IND;FUT;NOM(1,SG)
+The infle
+Generate the inflected form for: sbandierare V;IND;FUT;NOM(3,PL)	 V;IND;FUT;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: sbandierare V;IND;PRS;NOM(1,PL)	 V;IND;PRS;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: sbandierare V;IND;PST;IPFV;NOM(1,SG)	 V;IND;PST;IPFV;NOM(1,SG)
+The 
+Generate the inflected form for: sbandierare V;IND;PST;IPFV;NOM(3,PL)	 sbandierare V;IND;PST;IPFV;NO
+Generate the inflected form for: sbandierare V;IND;PST;PFV;NOM(1,SG)	 V;IND;PST;PFV;NOM(1,SG)
+The i
+Generate the inflected form for: sbandierare V;IND;PST;PFV;NOM(3,PL)	 sbandierare V;IND;PST;PFV;NOM
+Generate the inflected form for: sbandierare V;POS;IMP;NOM(2,PL)	 sbandierare V;POS;IMP;NOM(2,P
+Generate the inflected form for: sbandierare V;POS;IMP;NOM(3,PL)	 sbandierare V;POS;IMP;NOM(3,P
+Generate the inflected form for: sbandierare V;POS;IMP;NOM(3,SG)	 sbandierare V;POS;IMP;NOM(3,S
+Generate the inflected form for: sbandierare V;SBJV;PRS;NOM(1,PL)	 V;SBJV;PRS;NOM(1,PL);NOM(1,PL
+Generate the inflected form for: sbandierare V;SBJV;PRS;NOM(1,SG)	 V;SBJV;PRS;NOM(1,SG);NOM(1,SG
+Generate the inflected form for: sbandierare V;SBJV;PRS;NOM(2,SG)	 V;SBJV;PRS;NOM(2,SG);NOM(2,SG
+Generate the inflected form for: sbandierare V;SBJV;PRS;NOM(3,PL)	 sbandierare V;SBJV;PRS;NOM(3,
+Generate the inflected form for: sbandierare V;SBJV;PST;NOM(3,PL)	 V;SBJV;PST;NOM(3,PL);NOM(3,PL
+Generate the inflected form for: sbandierare V;SBJV;PST;NOM(3,SG)	 V;SBJV;PST;NOM(3,SG);NOM(3,SG
+Generate the inflected form for: scannare V.CVB;PRS	 V.CVB;PRS;PRS;PRS;PRS;PRS;PRS
+Generate the inflected form for: scannare V.PTCP;PST	;PST;PST;PST;PST;PST;PST;PST;P
+Generate the inflected form for: scannare V;COND;NOM(1,SG)	 V;COND;NOM(1,SG)
+scannare V;C
+Generate the inflected form for: scannare V;IND;FUT;NOM(1,PL)	 V;IND;FUT;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: scannare V;IND;FUT;NOM(1,SG)	 V;IND;FUT;NOM(1,SG)
+The infle
+Generate the inflected form for: scannare V;IND;FUT;NOM(3,SG)	(3,SG)(3,SG)(3,SG)(3,SG)(3,SG)
+Generate the inflected form for: scannare V;IND;PRS;NOM(1,PL)	 V;IND;PRS;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: scannare V;IND;PRS;NOM(1,SG)	 V;IND;PRS;NOM(1,SG)
+Scannare 
+Generate the inflected form for: scannare V;IND;PRS;NOM(2,PL)	 V;IND;PRS;NOM(2,PL)
+Scannare 
+Generate the inflected form for: scannare V;IND;PRS;NOM(3,SG)	 V;IND;PRS;NOM(3,SG)
+Scannare 
+Generate the inflected form for: scannare V;IND;PST;IPFV;NOM(2,PL)	 scannare V;IND;PST;IPFV;NOM(2
+Generate the inflected form for: scannare V;IND;PST;IPFV;NOM(2,SG)	 form for: scannare V;IND;PST;
+Generate the inflected form for: scannare V;IND;PST;IPFV;NOM(3,SG)	 form for: scannare V;IND;PST;
+Generate the inflected form for: scannare V;IND;PST;PFV;NOM(2,SG)	 the inflected form for: scann
+Generate the inflected form for: scannare V;IND;PST;PFV;NOM(3,SG)	 the inflected form for: scann
+Generate the inflected form for: scannare V;POS;IMP;NOM(3,SG)	 form for: scannare V;POS;IMP;
+Generate the inflected form for: scannare V;SBJV;PRS;NOM(1,SG)	 scannare V;SBJV;PRS;NOM(1,SG)
+Generate the inflected form for: scannare V;SBJV;PRS;NOM(2,PL)	 scannare V;SBJV;PRS;NOM(2,PL)
+Generate the inflected form for: scannare V;SBJV;PRS;NOM(3,PL)	 scannare V;SBJV;PRS;NOM(3,PL)
+Generate the inflected form for: scannare V;SBJV;PST;NOM(2,SG)	 SBJV;PST;NOM(2,SG);NOM(2,SG);
+Generate the inflected form for: sconcertare V.CVB;PRS	;PRS;PRS;PRS;PRS;PRS;PRS;PRS;P
+Generate the inflected form for: sconcertare V;COND;NOM(1,PL)	;COND;NOM(1,PL);COND;NOM(1,PL)
+Generate the inflected form for: sconcertare V;COND;NOM(2,SG)	 Nom(2,SG)
+COND;NOM(2,SG)
+COND
+Generate the inflected form for: sconcertare V;COND;NOM(3,PL)	;COND;NOM(3,PL);COND;NOM(3,PL)
+Generate the inflected form for: sconcertare V;IND;FUT;NOM(1,SG)	 V;IND;FUT;NOM(1,SG)
+The infle
+Generate the inflected form for: sconcertare V;IND;FUT;NOM(3,SG)	(3,SG)(3,SG)(3,SG)(3,SG)(3,SG)
+Generate the inflected form for: sconcertare V;IND;PRS;NOM(1,SG)	 V;IND;PRS;NOM(1,SG);NOM(1,SG)
+Generate the inflected form for: sconcertare V;IND;PRS;NOM(2,SG)	 V;IND;PRS;NOM(2,SG)
+V;IND;PRS
+Generate the inflected form for: sconcertare V;IND;PRS;NOM(3,SG)	 V;IND;PRS;NOM(3,SG);NOM(3,SG)
+Generate the inflected form for: sconcertare V;IND;PST;PFV;NOM(2,PL)	 sconcertare V;IND;PST;PFV;NOM
+Generate the inflected form for: sconcertare V;IND;PST;PFV;NOM(2,SG)	 the inflected form for: sconc
+Generate the inflected form for: sconcertare V;IND;PST;PFV;NOM(3,PL)	 sconcertare V;IND;PST;PFV;NOM
+Generate the inflected form for: sconcertare V;POS;IMP;NOM(2,PL)	 sconcertare V;POS;IMP;NOM(2,P
+Generate the inflected form for: sconcertare V;POS;IMP;NOM(2,SG)	 sconcertare V;POS;IMP;NOM(2,S
+Generate the inflected form for: sconcertare V;SBJV;PRS;NOM(1,PL)	 sconcertare V;SBJV;PRS;NOM(1,
+Generate the inflected form for: sconcertare V;SBJV;PRS;NOM(2,PL)	 sconcertare V;SBJV;PRS;NOM(2,
+Generate the inflected form for: sconcertare V;SBJV;PRS;NOM(2,SG)	 sconcertare V;SBJV;PRS;NOM(2,
+Generate the inflected form for: sconcertare V;SBJV;PRS;NOM(3,PL)	 sconcertare V;SBJV;PRS;NOM(3,
+Generate the inflected form for: sconcertare V;SBJV;PST;NOM(2,SG)	 sconcertare V;SBJV;PST;NOM(2,
+Generate the inflected form for: sconcertare V;SBJV;PST;NOM(3,SG)	 sconcertare V;SBJV;PST;NOM(3,
+Generate the inflected form for: seminare V.CVB;PRS	 V.CVB;PRS;PRS;PRS;PRS;PRS;PRS
+Generate the inflected form for: seminare V;COND;NOM(1,SG)	;COND;NOM(1,SG);COND;NOM(1,SG)
+Generate the inflected form for: seminare V;COND;NOM(2,PL)	;COND;NOM(2,PL);COND;NOM(2,PL)
+Generate the inflected form for: seminare V;COND;NOM(2,SG)	;COND;NOM(2,SG);COND;NOM(2,SG)
+Generate the inflected form for: seminare V;IND;FUT;NOM(1,PL)	 V;IND;FUT;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: seminare V;IND;FUT;NOM(2,SG)	 V;IND;FUT;NOM(2,SG) V;IND;FUT
+Generate the inflected form for: seminare V;IND;FUT;NOM(3,SG)	 V;IND;FUT;NOM(3,SG) V;IND;FUT
+Generate the inflected form for: seminare V;IND;PRS;NOM(1,PL)	 V;IND;PRS;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: seminare V;IND;PRS;NOM(1,SG)	 V;IND;PRS;NOM(1,SG);NOM(1,SG)
+Generate the inflected form for: seminare V;IND;PRS;NOM(3,PL)	 V;IND;PRS;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: seminare V;IND;PST;IPFV;NOM(2,PL)	 seminare V;IND;PST;IPFV;NOM(2
+Generate the inflected form for: seminare V;IND;PST;IPFV;NOM(3,PL)	 seminare V;IND;PST;IPFV;NOM(3
+Generate the inflected form for: seminare V;IND;PST;PFV;NOM(1,PL)	 semantic form for semantic fo
+Generate the inflected form for: seminare V;IND;PST;PFV;NOM(2,SG)	 form for: semantic form for: 
+Generate the inflected form for: seminare V;NFIN	 form for: seminare V;NFIN for
+Generate the inflected form for: seminare V;POS;IMP;NOM(2,PL)	 V;POS;IMP;NOM(2,PL);NOM(2,PL)
+Generate the inflected form for: seminare V;POS;IMP;NOM(3,PL)	 V;POS;IMP;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: seminare V;SBJV;PRS;NOM(2,PL)	 V;SBJV;PRS;NOM(2,PL);NOM(2,PL
+Generate the inflected form for: seminare V;SBJV;PST;NOM(3,PL)	 V;SBJV;PST;NOM(3,PL);NOM(3,PL
+Generate the inflected form for: seminare V;SBJV;PST;NOM(3,SG)	 V;SBJV;PST;NOM(3,SG);NOM(3,SG
+Generate the inflected form for: servire V.CVB;PRS	 V.CVB;PRS;PRS;PRS;PRS;PRS;PRS
+Generate the inflected form for: servire V.PTCP;PST	;PST;PST;PST;PST;PST;PST;PST;P
+Generate the inflected form for: servire V;COND;NOM(1,SG)	 V;COND;NOM(1,SG);NOM(1,SG);NO
+Generate the inflected form for: servire V;COND;NOM(2,PL)	;COND;NOM(2,PL);COND;NOM(2,PL)
+Generate the inflected form for: servire V;COND;NOM(3,SG)	 V;COND;NOM(3,SG);NOM(3,SG);NO
+Generate the inflected form for: servire V;IND;FUT;NOM(2,SG)	 V;IND;FUT;NOM(2,SG)
+The infle
+Generate the inflected form for: servire V;IND;FUT;NOM(3,PL)	 V;IND;FUT;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: servire V;IND;PRS;NOM(1,PL)	 V;IND;PRS;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: servire V;IND;PRS;NOM(2,PL)	 V;IND;PRS;NOM(2,PL);NOM(2,PL)
+Generate the inflected form for: servire V;IND;PST;IPFV;NOM(2,SG)	 the inflected form for: servi
+Generate the inflected form for: servire V;IND;PST;IPFV;NOM(3,PL)	 servire V;IND;PST;IPFV;NOM(3,
+Generate the inflected form for: servire V;IND;PST;PFV;NOM(3,PL)	 servire V;IND;PST;PFV;NOM(3,P
+Generate the inflected form for: servire V;IND;PST;PFV;NOM(3,SG)	 V;IND;PST;PFV;NOM(3,SG)
+The i
+Generate the inflected form for: servire V;NFIN	 V;NFINFINFINFINFINFINFINFINFI
+Generate the inflected form for: servire V;POS;IMP;NOM(2,PL)	 servire V;POS;IMP;NOM(2,PL);N
+Generate the inflected form for: servire V;POS;IMP;NOM(3,PL)	 servire V;POS;IMP;NOM(3,PL);N
+Generate the inflected form for: servire V;SBJV;PRS;NOM(1,SG)	 V;SBJV;PRS;NOM(1,SG);NOM(1,SG
+Generate the inflected form for: servire V;SBJV;PRS;NOM(3,SG)	 V;SBJV;PRS;NOM(3,SG);NOM(3,SG
+Generate the inflected form for: servire V;SBJV;PST;NOM(1,SG)	 V;SBJV;PST;NOM(1,SG);NOM(1,SG
+Generate the inflected form for: servire V;SBJV;PST;NOM(2,SG)	 V;SBJV;PST;NOM(2,SG);NOM(2,SG
+Generate the inflected form for: servoassistere V.CVB;PRS	 servoassistere V.CVB;PRS serv
+Generate the inflected form for: servoassistere V;COND;NOM(1,PL)	 V;COND;NOM(1,PL)
+Servoassiste
+Generate the inflected form for: servoassistere V;COND;NOM(2,SG)	 V;COND;NOM(2,SG);NOM(2,SG);NO
+Generate the inflected form for: servoassistere V;COND;NOM(3,PL)	 V;COND;NOM(3,PL)
+Servoassiste
+Generate the inflected form for: servoassistere V;IND;FUT;NOM(1,PL)	 V;IND;FUT;NOM(1,PL) V;IND;FUT
+Generate the inflected form for: servoassistere V;IND;FUT;NOM(2,PL)	 V;IND;FUT;NOM(2,PL) V;IND;FUT
+Generate the inflected form for: servoassistere V;IND;FUT;NOM(3,PL)	 V;IND;FUT;NOM(3,PL) V;IND;FUT
+Generate the inflected form for: servoassistere V;IND;PRS;NOM(2,SG)	 V;IND;PRS;NOM(2,SG);NOM(2,SG)
+Generate the inflected form for: servoassistere V;IND;PST;PFV;NOM(1,PL)	 servoasssssssssssssssssssssss
+Generate the inflected form for: servoassistere V;IND;PST;PFV;NOM(3,PL)	 servoasssssssssssssssssssssss
+Generate the inflected form for: servoassistere V;NFIN	 form for: servoassistere V;NF
+Generate the inflected form for: servoassistere V;POS;IMP;NOM(1,PL)	 servoassistere V;POS;IMP;NOM(
+Generate the inflected form for: servoassistere V;POS;IMP;NOM(3,PL)	 servoassistere V;POS;IMP;NOM(
+Generate the inflected form for: servoassistere V;POS;IMP;NOM(3,SG)	 servoassistere V;POS;IMP;NOM(
+Generate the inflected form for: servoassistere V;SBJV;PRS;NOM(1,PL)	 servoasssssssssssssssssssssss
+Generate the inflected form for: servoassistere V;SBJV;PRS;NOM(2,PL)	 servoasssssssssssssssssssssss
+Generate the inflected form for: servoassistere V;SBJV;PRS;NOM(3,PL)	 servoasssssssssssssssssssssss
+Generate the inflected form for: servoassistere V;SBJV;PST;NOM(1,SG)	 V;SBJV;PST;NOM(1,SG);NOM(1,SG
+Generate the inflected form for: servoassistere V;SBJV;PST;NOM(2,PL)	 V;SBJV;PST;NOM(2,PL);NOM(2,PL
+Generate the inflected form for: servoassistere V;SBJV;PST;NOM(2,SG)	 SBJV;PST;NOM(2,SG);NOM(2,SG);
+Generate the inflected form for: sfaldarsi V.CVB;PRS	;PRS;PRS;PRS;PRS;PRS;PRS;PRS;P
+Generate the inflected form for: sfaldarsi V.PTCP;PRS	;PRS;PRS;PRS;PRS;PRS;PRS;PRS;P
+Generate the inflected form for: sfaldarsi V.PTCP;PST	;PST;PST;PST;PST;PST;PST;PST;P
+Generate the inflected form for: sfaldarsi V;COND;NOM(1,PL)	;COND;NOM(1,PL);COND;NOM(1,PL)
+Generate the inflected form for: sfaldarsi V;COND;NOM(2,PL)	;COND;NOM(2,PL);COND;NOM(2,PL)
+Generate the inflected form for: sfaldarsi V;COND;NOM(3,PL)	;COND;NOM(3,PL);COND;NOM(3,PL)
+Generate the inflected form for: sfaldarsi V;COND;NOM(3,SG)	 V;COND;NOM(3,SG);NOM(3,SG);NO
+Generate the inflected form for: sfaldarsi V;IND;FUT;NOM(2,PL)	;IND;FUT;NOM(2,PL);IND;FUT;NOM
+Generate the inflected form for: sfaldarsi V;IND;FUT;NOM(2,SG)	;IND;FUT;NOM(2,SG);IND;FUT;NOM
+Generate the inflected form for: sfaldarsi V;IND;FUT;NOM(3,SG)	;IND;FUT;NOM(3,SG);IND;FUT;NOM
+Generate the inflected form for: sfaldarsi V;IND;PRS;NOM(3,SG)	 V;IND;PRS;NOM(3,SG);NOM(3,SG)
+Generate the inflected form for: sfaldarsi V;IND;PST;PFV;NOM(2,PL)	 V;IND;PST;PFV;NOM(2,PL);NOM(2
+Generate the inflected form for: sfaldarsi V;NFIN	 V;NFIN V;NFIN V;NFIN V;NFIN V
+Generate the inflected form for: sfaldarsi V;POS;IMP;NOM(2,PL)	 V;POS;IMP;NOM(2,PL);NOM(2,PL)
+Generate the inflected form for: sfaldarsi V;SBJV;PRS;NOM(1,SG)	 V;SBJV;PRS;NOM(1,SG);NOM(1,SG
+Generate the inflected form for: sfaldarsi V;SBJV;PRS;NOM(2,SG)	 V;SBJV;PRS;NOM(2,SG);NOM(2,SG
+Generate the inflected form for: sfaldarsi V;SBJV;PRS;NOM(3,PL)	 V;SBJV;PRS;NOM(3,PL);NOM(3,PL
+Generate the inflected form for: sfaldarsi V;SBJV;PRS;NOM(3,SG)	 V;SBJV;PRS;NOM(3,SG);NOM(3,SG
+Generate the inflected form for: sfaldarsi V;SBJV;PST;NOM(2,SG)	 V;SBJV;PST;NOM(2,SG);NOM(2,SG
+Generate the inflected form for: sfaldarsi V;SBJV;PST;NOM(3,PL)	 V;SBJV;PST;NOM(3,PL);NOM(3,PL
+Generate the inflected form for: sognarsi V.CVB;PRS	 V.CVB;PRS;PRS;PRS;PRS;PRS;PRS
+Generate the inflected form for: sognarsi V;COND;NOM(1,SG)	 V;COND;NOM(1,SG);NOM(1,SG);NO
+Generate the inflected form for: sognarsi V;COND;NOM(2,PL)	 V;COND;NOM(2,PL)
+sognarsi V;C
+Generate the inflected form for: sognarsi V;IND;FUT;NOM(2,PL)	 V;IND;FUT;NOM(2,PL);NOM(2,PL)
+Generate the inflected form for: sognarsi V;IND;PRS;NOM(1,PL)	 V;IND;PRS;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: sognarsi V;IND;PST;IPFV;NOM(1,PL)	 V;IND;PST;IPFV;NOM(1,PL);IPFV
+Generate the inflected form for: sognarsi V;IND;PST;IPFV;NOM(3,PL)	 V;IND;PST;IPFV;NOM(3,PL);IPFV
+Generate the inflected form for: sognarsi V;IND;PST;IPFV;NOM(3,SG)	 V;IND;PST;IPFV;NOM(3,SG)
+The 
+Generate the inflected form for: sognarsi V;IND;PST;PFV;NOM(1,SG)	 V;IND;PST;PFV;NOM(1,SG)
+The i
+Generate the inflected form for: sognarsi V;IND;PST;PFV;NOM(2,SG)	 V;IND;PST;PFV;NOM(2,SG)
+The i
+Generate the inflected form for: sognarsi V;IND;PST;PFV;NOM(3,PL)	 V;IND;PST;PFV;NOM(3,PL);NOM(3
+Generate the inflected form for: sognarsi V;IND;PST;PFV;NOM(3,SG)	 V;IND;PST;PFV;NOM(3,SG)
+The i
+Generate the inflected form for: sognarsi V;POS;IMP;NOM(2,SG)	 V;POS;IMP;NOM(2,SG);IMP;NOM(2
+Generate the inflected form for: sognarsi V;POS;IMP;NOM(3,PL)	;POS;IMP;NOM(3,PL);POS;IMP;NOM
+Generate the inflected form for: sognarsi V;POS;IMP;NOM(3,SG)	 V;POS;IMP;NOM(3,SG);NOM(3,SG)
+Generate the inflected form for: sognarsi V;SBJV;PRS;NOM(2,SG)	 V;SBJV;PRS;NOM(2,SG);NOM(2,SG
+Generate the inflected form for: sognarsi V;SBJV;PRS;NOM(3,SG)	 V;SBJV;PRS;NOM(3,SG);NOM(3,SG
+Generate the inflected form for: sognarsi V;SBJV;PST;NOM(1,PL)	 V;SBJV;PST;NOM(1,PL);NOM(1,PL
+Generate the inflected form for: sognarsi V;SBJV;PST;NOM(3,PL)	 V;SBJV;PST;NOM(3,PL);NOM(3,PL
+Generate the inflected form for: sognarsi V;SBJV;PST;NOM(3,SG)	 V;SBJV;PST;NOM(3,SG);NOM(3,SG
+Generate the inflected form for: strofinarsi V.CVB;PRS	 V.CVB;PRS;PRS;PRS;PRS;PRS;PRS
+Generate the inflected form for: strofinarsi V.PTCP;PRS	 V.PTCP;PRS;PRS;PRS;PRS;PRS;PR
+Generate the inflected form for: strofinarsi V;COND;NOM(3,PL)	;COND;NOM(3,PL);NOM(3,PL);NOM(
+Generate the inflected form for: strofinarsi V;COND;NOM(3,SG)	;COND;NOM(3,SG);COND;NOM(3,SG)
+Generate the inflected form for: strofinarsi V;IND;FUT;NOM(1,PL)	 V;IND;FUT;NOM(1,PL) V;IND;FUT
+Generate the inflected form for: strofinarsi V;IND;FUT;NOM(1,SG)	 V;IND;FUT;NOM(1,SG)
+The infle
+Generate the inflected form for: strofinarsi V;IND;FUT;NOM(2,PL)	 V;IND;FUT;NOM(2,PL) V;IND;FUT
+Generate the inflected form for: strofinarsi V;IND;PRS;NOM(1,SG)	 V;IND;PRS;NOM(1,SG);NOM(1,SG)
+Generate the inflected form for: strofinarsi V;IND;PRS;NOM(2,PL)	 V;IND;PRS;NOM(2,PL);NOM(2,PL)
+Generate the inflected form for: strofinarsi V;IND;PST;IPFV;NOM(1,PL)	 V;IND;PST;IPFV;NOM(1,PL);IPFV
+Generate the inflected form for: strofinarsi V;IND;PST;IPFV;NOM(1,SG)	 V;IND;PST;IPFV;NOM(1,SG)
+The 
+Generate the inflected form for: strofinarsi V;IND;PST;IPFV;NOM(2,SG)	 V;IND;PST;IPFV;NOM(2,SG);IPFV
+Generate the inflected form for: strofinarsi V;IND;PST;IPFV;NOM(3,PL)	 V;IND;PST;IPFV;NOM(3,PL);IPFV
+Generate the inflected form for: strofinarsi V;POS;IMP;NOM(1,PL)	 V;POS;IMP;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: strofinarsi V;POS;IMP;NOM(2,PL)	 V;POS;IMP;NOM(2,PL);NOM(2,PL)
+Generate the inflected form for: strofinarsi V;POS;IMP;NOM(2,SG)	 V;POS;IMP;NOM(2,SG);IMP;NOM(2
+Generate the inflected form for: strofinarsi V;SBJV;PRS;NOM(1,SG)	 V;SBJV;PRS;NOM(1,SG);NOM(1,SG
+Generate the inflected form for: strofinarsi V;SBJV;PRS;NOM(2,SG)	 V;SBJV;PRS;NOM(2,SG);NOM(2,SG
+Generate the inflected form for: strofinarsi V;SBJV;PRS;NOM(3,SG)	 V;SBJV;PRS;NOM(3,SG);NOM(3,SG
+Generate the inflected form for: strofinarsi V;SBJV;PST;NOM(2,SG)	 V;SBJV;PST;NOM(2,SG);NOM(2,SG
+Generate the inflected form for: sussumere V;COND;NOM(2,SG)	 V;COND;NOM(2,SG);NOM(2,SG);NO
+Generate the inflected form for: sussumere V;IND;FUT;NOM(1,SG)	 V;IND;FUT;NOM(1,SG)
+The infle
+Generate the inflected form for: sussumere V;IND;FUT;NOM(3,SG)	 V;IND;FUT;NOM(3,SG)
+The infle
+Generate the inflected form for: sussumere V;IND;PRS;NOM(1,PL)	 V;IND;PRS;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: sussumere V;IND;PRS;NOM(1,SG)	 V;IND;PRS;NOM(1,SG);NOM(1,SG)
+Generate the inflected form for: sussumere V;IND;PRS;NOM(2,PL)	 V;IND;PRS;NOM(2,PL)
+Set the i
+Generate the inflected form for: sussumere V;IND;PRS;NOM(3,PL)	 V;IND;PRS;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: sussumere V;IND;PST;PFV;NOM(1,PL)	 susssssssssssssssssssssssssss
+Generate the inflected form for: sussumere V;IND;PST;PFV;NOM(2,SG)	 V;IND;PST;PFV;NOM(2,SG)
+The i
+Generate the inflected form for: sussumere V;IND;PST;PFV;NOM(3,SG)	 V;IND;PST;PFV;NOM(3,SG)
+The i
+Generate the inflected form for: sussumere V;NFIN	 form for: sussumere V;NFINFOR
+Generate the inflected form for: sussumere V;POS;IMP;NOM(3,PL)	 sussumere V;POS;IMP;NOM(3,PL)
+Generate the inflected form for: sussumere V;SBJV;PRS;NOM(1,PL)	 V;SBJV;PRS;NOM(1,PL);NOM(1,PL
+Generate the inflected form for: sussumere V;SBJV;PRS;NOM(1,SG)	 V;SBJV;PRS;NOM(1,SG);NOM(1,SG
+Generate the inflected form for: sussumere V;SBJV;PRS;NOM(2,PL)	 V;SBJV;PRS;NOM(2,PL);NOM(2,PL
+Generate the inflected form for: sussumere V;SBJV;PRS;NOM(2,SG)	 V;SBJV;PRS;NOM(2,SG);NOM(2,SG
+Generate the inflected form for: sussumere V;SBJV;PST;NOM(1,PL)	 V;SBJV;PST;NOM(1,PL);NOM(1,PL
+Generate the inflected form for: sussumere V;SBJV;PST;NOM(1,SG)	 V;SBJV;PST;NOM(1,SG);NOM(1,SG
+Generate the inflected form for: sussumere V;SBJV;PST;NOM(2,PL)	 V;SBJV;PST;NOM(2,PL);NOM(2,PL
+Generate the inflected form for: sussumere V;SBJV;PST;NOM(3,PL)	 V;SBJV;PST;NOM(3,PL);NOM(3,PL
+Generate the inflected form for: sviscerare V;COND;NOM(1,SG)	;COND;NOM(1,SG);COND;NOM(1,SG)
+Generate the inflected form for: sviscerare V;COND;NOM(2,PL)	;COND;NOM(2,PL);COND;NOM(2,PL)
+Generate the inflected form for: sviscerare V;IND;FUT;NOM(1,SG)	(1,SG)(1,SG)(1,SG)(1,SG)(1,SG)
+Generate the inflected form for: sviscerare V;IND;FUT;NOM(2,SG)	(2,SG)(2,SG)(2,SG)(2,SG)(2,SG)
+Generate the inflected form for: sviscerare V;IND;PRS;NOM(1,PL)	 V;IND;PRS;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: sviscerare V;IND;PRS;NOM(2,SG)	 V;IND;PRS;NOM(2,SG)
+V;IND;PRS
+Generate the inflected form for: sviscerare V;IND;PRS;NOM(3,PL)	 V;IND;PRS;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: sviscerare V;IND;PRS;NOM(3,SG)	 V;IND;PRS;NOM(3,SG);NOM(3,SG)
+Generate the inflected form for: sviscerare V;IND;PST;IPFV;NOM(2,PL)	 sviscerare V;IND;PST;IPFV;NOM
+Generate the inflected form for: sviscerare V;IND;PST;IPFV;NOM(3,PL)	 sviscerare V;IND;PST;IPFV;NOM
+Generate the inflected form for: sviscerare V;IND;PST;PFV;NOM(2,PL)	 sviscerare V;IND;PST;PFV;NOM(
+Generate the inflected form for: sviscerare V;IND;PST;PFV;NOM(3,PL)	 sviscerare V;IND;PST;PFV;NOM(
+Generate the inflected form for: sviscerare V;IND;PST;PFV;NOM(3,SG)	 sviscerare V;IND;PST;PFV;NOM(
+Generate the inflected form for: sviscerare V;POS;IMP;NOM(1,PL)	 sviscerare V;POS;IMP;NOM(1,PL
+Generate the inflected form for: sviscerare V;POS;IMP;NOM(3,PL)	 sviscerare V;POS;IMP;NOM(3,PL
+Generate the inflected form for: sviscerare V;POS;IMP;NOM(3,SG)	 sviscerare V;POS;IMP;NOM(3,SG
+Generate the inflected form for: sviscerare V;SBJV;PRS;NOM(1,PL)	 sviscerare V;SBJV;PRS;NOM(1,P
+Generate the inflected form for: sviscerare V;SBJV;PRS;NOM(3,PL)	 sviscerare V;SBJV;PRS;NOM(3,P
+Generate the inflected form for: sviscerare V;SBJV;PRS;NOM(3,SG)	 sviscerare V;SBJV;PRS;NOM(3,S
+Generate the inflected form for: sviscerare V;SBJV;PST;NOM(3,SG)	 SBJV;PST;NOM(3,SG);NOM(3,SG);
+Generate the inflected form for: telefonarsi V.CVB;PRS	 V.CVB;PRS;PRS;PRS;PRS;PRS;PRS
+Generate the inflected form for: telefonarsi V;COND;NOM(1,PL)	;COND;NOM(1,PL);NOM(1,PL);NOM(
+Generate the inflected form for: telefonarsi V;COND;NOM(1,SG)	;COND;NOM(1,SG);NOM(1,SG);NOM(
+Generate the inflected form for: telefonarsi V;COND;NOM(2,SG)	;COND;NOM(2,SG);COND;NOM(2,SG)
+Generate the inflected form for: telefonarsi V;IND;FUT;NOM(1,PL)	 V;IND;FUT;NOM(1,PL) V;IND;FUT
+Generate the inflected form for: telefonarsi V;IND;FUT;NOM(3,PL)	 V;IND;FUT;NOM(3,PL) V;IND;FUT
+Generate the inflected form for: telefonarsi V;IND;PRS;NOM(1,PL)	 V;IND;PRS;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: telefonarsi V;IND;PRS;NOM(3,PL)	 V;IND;PRS;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: telefonarsi V;IND;PST;IPFV;NOM(1,PL)	 V;IND;PST;IPFV;NOM(1,PL);IPFV
+Generate the inflected form for: telefonarsi V;IND;PST;IPFV;NOM(2,PL)	 V;IND;PST;IPFV;NOM(2,PL);IPFV
+Generate the inflected form for: telefonarsi V;IND;PST;IPFV;NOM(2,SG)	 V;IND;PST;IPFV;NOM(2,SG);IPFV
+Generate the inflected form for: telefonarsi V;IND;PST;PFV;NOM(2,SG)	 V;IND;PST;PFV;NOM(2,SG);NOM(2
+Generate the inflected form for: telefonarsi V;IND;PST;PFV;NOM(3,PL)	 V;IND;PST;PFV;NOM(3,PL);NOM(3
+Generate the inflected form for: telefonarsi V;IND;PST;PFV;NOM(3,SG)	 V;IND;PST;PFV;NOM(3,SG);NOM(3
+Generate the inflected form for: telefonarsi V;SBJV;PRS;NOM(1,PL)	 V;SBJV;PRS;NOM(1,PL);NOM(1,PL
+Generate the inflected form for: telefonarsi V;SBJV;PRS;NOM(1,SG)	 V;SBJV;PRS;NOM(1,SG);NOM(1,SG
+Generate the inflected form for: telefonarsi V;SBJV;PRS;NOM(2,PL)	 V;SBJV;PRS;NOM(2,PL);NOM(2,PL
+Generate the inflected form for: telefonarsi V;SBJV;PST;NOM(1,PL)	 V;SBJV;PST;NOM(1,PL);NOM(1,PL
+Generate the inflected form for: telefonarsi V;SBJV;PST;NOM(1,SG)	 V;SBJV;PST;NOM(1,SG);NOM(1,SG
+Generate the inflected form for: telefonarsi V;SBJV;PST;NOM(2,PL)	 V;SBJV;PST;NOM(2,PL);NOM(2,PL
+Generate the inflected form for: urtacchiare V.CVB;PRS	 V.CVB;PRS;PRS;PRS;PRS;PRS;PRS
+Generate the inflected form for: urtacchiare V;COND;NOM(1,PL)	 V;COND;NOM(1,PL) V;COND;NOM(1
+Generate the inflected form for: urtacchiare V;COND;NOM(1,SG)	;COND;NOM(1,SG);COND;NOM(1,SG)
+Generate the inflected form for: urtacchiare V;COND;NOM(2,PL)	 V;COND;NOM(2,PL) V;COND;NOM(2
+Generate the inflected form for: urtacchiare V;COND;NOM(2,SG)	;COND;NOM(2,SG);COND;NOM(2,SG)
+Generate the inflected form for: urtacchiare V;IND;FUT;NOM(3,SG)	 V;IND;FUT;NOM(3,SG)
+The infle
+Generate the inflected form for: urtacchiare V;IND;PRS;NOM(1,PL)	 V;IND;PRS;NOM(1,PL);NOM(1,PL)
+Generate the inflected form for: urtacchiare V;IND;PRS;NOM(2,PL)	 V;IND;PRS;NOM(2,PL);NOM(2,PL)
+Generate the inflected form for: urtacchiare V;IND;PRS;NOM(2,SG)	 V;IND;PRS;NOM(2,SG);NOM(2,SG)
+Generate the inflected form for: urtacchiare V;IND;PRS;NOM(3,PL)	 V;IND;PRS;NOM(3,PL);NOM(3,PL)
+Generate the inflected form for: urtacchiare V;IND;PST;IPFV;NOM(1,PL)	 urtacchiare V;IND;PST;IPFV;NO
+Generate the inflected form for: urtacchiare V;IND;PST;PFV;NOM(1,PL)	 urtacchiare V;IND;PST;PFV;NOM
+Generate the inflected form for: urtacchiare V;IND;PST;PFV;NOM(2,SG)	 V;IND;PST;PFV;NOM(2,SG)
+The i
+Generate the inflected form for: urtacchiare V;IND;PST;PFV;NOM(3,PL)	 urtacchiare V;IND;PST;PFV;NOM
+Generate the inflected form for: urtacchiare V;IND;PST;PFV;NOM(3,SG)	 V;IND;PST;PFV;NOM(3,SG)
+The i
+Generate the inflected form for: urtacchiare V;POS;IMP;NOM(1,PL)	 urtacchiare V;POS;IMP;NOM(1,P
+Generate the inflected form for: urtacchiare V;SBJV;PRS;NOM(2,SG)	 V;SBJV;PRS;NOM(2,SG);NOM(2,SG
+Generate the inflected form for: urtacchiare V;SBJV;PRS;NOM(3,SG)	 V;SBJV;PRS;NOM(3,SG);NOM(3,SG
+Generate the inflected form for: urtacchiare V;SBJV;PST;NOM(2,PL)	 V;SBJV;PST;NOM(2,PL);NOM(2,PL
+Generate the inflected form for: urtacchiare V;SBJV;PST;NOM(2,SG)	 V;SBJV;PST;NOM(2,SG);NOM(2,SG

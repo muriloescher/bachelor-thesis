@@ -1,0 +1,1000 @@
+აბსტრაქტული ADJ;DAT(PL)	აბსტრაქტულ
+აბსტრაქტული ADJ;DAT(PL;LGSPEC2)	მონტაჟი მო
+აბსტრაქტული ADJ;DAT(SG)	აბსტრაქტულ
+აბსტრაქტული ADJ;ERG(PL)	აბსტრაქტულ
+აბსტრაქტული ADJ;ERG(PL;LGSPEC2)	ọ ọ ọ ọ ọ ọ ọ 
+აბსტრაქტული ADJ;ERG(SG)	აბსტრაქტულ
+აბსტრაქტული ADJ;FRML(PL)	აბსტრაქტულ
+აბსტრაქტული ADJ;FRML(SG)	აბსტრაქტულ
+აბსტრაქტული ADJ;GEN(PL)	აბსტრაქტულ
+აბსტრაქტული ADJ;GEN(PL;LGSPEC2)	ọ ọ ọ ọ ọ ọ ọ 
+აბსტრაქტული ADJ;GEN(SG)	აბსტრაქტულ
+აბსტრაქტული ADJ;INS(PL)	აბსტრაქტულ
+აბსტრაქტული ADJ;INS(SG)	აბსტრაქტულ
+აბსტრაქტული ADJ;NOM(PL)	აბსტრაქტულ
+აბსტრაქტული ADJ;NOM(PL;LGSPEC2)	მონტაჟი მო
+აბსტრაქტული ADJ;NOM(SG)	აბსტრაქტულ
+აბსტრაქტული ADJ;VOC(PL)	აბსტრაქტულ
+აბსტრაქტული ADJ;VOC(PL;LGSPEC2)	ọ ọ ọ ọ ọ ọ ọ 
+აბსტრაქტული ADJ;VOC(SG)	აბსტრაქტულ
+აგენტი N;DAT(PL)	ისტორიის ა
+აგენტი N;DAT(PL;LGSPEC2)	ის ანუსალი
+აგენტი N;DAT(SG)	აგენტი N;DAT(SG)$1
+აგენტი N;ERG(PL)	მედია N;ERG(PL)a N;E
+აგენტი N;ERG(PL;LGSPEC2)	აგენტი N;ERG(PL;LG
+აგენტი N;ERG(SG)	აგენტი N;ERG(SG)k
+აგენტი N;FRML(PL)	იმპლინი N;FRML(P
+აგენტი N;FRML(SG)	აგენტი N;FRML(SG)i
+აგენტი N;GEN(PL)	ისტორიის ა
+აგენტი N;GEN(PL;LGSPEC2)	ის აგენტი N;GE
+აგენტი N;GEN(SG)	აგენტი N;GEN(SG)
+აგენტი N;INS(PL)	იმაგრე იმა
+აგენტი N;INS(SG)	აგენტი N;INS(SG)j(
+აგენტი N;NOM(PL)	აგენტი N;NOM(PL)ad
+აგენტი N;NOM(PL;LGSPEC2)	აგენტი N;NOM(PL;LG
+აგენტი N;NOM(SG)	აგენტი N;NOM(SG)an
+აგენტი N;VOC(PL)	მონაწევრი N;
+აგენტი N;VOC(PL;LGSPEC2)	აგენტი N;VOC(PL;LG
+აგენტი N;VOC(SG)	მონაწევრი N;
+ათეთრებს V;IMP;NOM(2,PL);ACC(1,SG)	ათეთრებს V;IMP
+ათეთრებს V;IND;FUT;NOM(3,PL);ACC(2,PL)	მეტად მეტა
+ათეთრებს V;IND;IPFV;NOM(2,PL);ACC(1,SG)	ს ათეთრებს V
+ათეთრებს V;IND;IPFV;NOM(2,SG);ACC(1,PL)	ს ათეთრებს V
+ათეთრებს V;IND;IPFV;NOM(2,SG);ACC(3,PL)	მეტი არ არ ა
+ათეთრებს V;IND;PRS;NOM(1,PL);ACC(2,SG)	მეცნიერებს
+ათეთრებს V;IND;PRS;NOM(2,SG);ACC(1,SG)	 არ არ არ არ 
+ათეთრებს V;IND;PRS;NOM(3,PL);ACC(1,PL)	მეტად ათეთ
+ათეთრებს V;IND;PRS;NOM(3,PL);ACC(2,PL)	მეტად ათეთ
+ათეთრებს V;IND;PRS;NOM(3,PL);ACC(3,SG)	მეცნიერებს
+ათეთრებს V;IND;PRS;NOM(3,SG);ACC(2,PL)	მ ათეთრებს V
+ათეთრებს V;IND;PST;PFV;NOM(3,SG);ACC(2,SG)	ათეთრებს V;IND
+ათეთრებს V;IND;PST;PRF;NOM(1,PL);ACC(2,SG)	მეტად მეტა
+ათეთრებს V;IND;PST;PRF;NOM(1,PL);ACC(3,SG)	მეტად მეტა
+ათეთრებს V;IND;PST;PRF;NOM(1,SG);ACC(2,SG)	ათეთრებს V;IND
+ათეთრებს V;IND;PST;PRF;NOM(2,PL);ACC(3,PL)	 მეტი მეტი მ
+ათეთრებს V;IND;PST;PRF;NOM(3,PL);ACC(2,PL)	მეტი მეტი მ
+ათეთრებს V;IND;PST;PRF;NOM(3,PL);ACC(3,SG)	მეტად მეტა
+ათეთრებს V;OPT;NOM(3,PL);ACC(1,PL)	მეტად მეტა
+ათეთრებს V;OPT;NOM(3,PL);ACC(2,PL)	მეტად მეტა
+ათეთრებს V;SBJV;FUT;NOM(2,PL);ACC(1,PL)	მეტი მეტი მ
+ათეთრებს V;SBJV;FUT;NOM(2,SG);ACC(3,PL)	მეტად მეტა
+ათეთრებს V;SBJV;FUT;NOM(3,PL);ACC(2,SG)	ს ათეთრებს V
+ათეთრებს V;SBJV;PRF;NOM(3,PL);ACC(3,PL)	მეტი მეტი მ
+ათეთრებს V;SBJV;PRS;NOM(2,SG);ACC(1,PL)	მეტად მეტა
+აკვამარინი N;DAT(PL)	აკვამარინი
+აკვამარინი N;DAT(PL;LGSPEC2)	აკვამარინი
+აკვამარინი N;DAT(SG)	აკვამარინი
+აკვამარინი N;ERG(PL)	აკვამარინი
+აკვამარინი N;ERG(PL;LGSPEC2)	აკვამარინი
+აკვამარინი N;ERG(SG)	აკვამარინი
+აკვამარინი N;FRML(PL)	აკვამარინი
+აკვამარინი N;FRML(SG)	აკვამარინი
+აკვამარინი N;GEN(PL)	აკვამარინი
+აკვამარინი N;GEN(PL;LGSPEC2)	აკვამარინი
+აკვამარინი N;GEN(SG)	აკვამარინი
+აკვამარინი N;INS(PL)	აკვამარინი
+აკვამარინი N;INS(SG)	აკვამარინი
+აკვამარინი N;NOM(PL)	აკვამარინი
+აკვამარინი N;NOM(PL;LGSPEC2)	აკვამარინი
+აკვამარინი N;NOM(SG)	აკვამარინი
+აკვამარინი N;VOC(PL)	აკვამარინი
+აკვამარინი N;VOC(PL;LGSPEC2)	აკვამარინი
+აკვამარინი N;VOC(SG)	აკვამარინი
+ართმევს V;COND;NOM(2,PL);ACC(3,PL)	 არასასოემ
+ართმევს V;COND;NOM(2,SG);ACC(1,SG)	 მედია მედი
+ართმევს V;COND;NOM(3,PL);ACC(3,PL)	 არასაკაცო
+ართმევს V;IMP;NOM(3,PL);ACC(1,PL)	 არასაკამა
+ართმევს V;IMP;NOM(3,SG);ACC(1,SG)	 ართმევს V;IMP;N
+ართმევს V;IND;FUT;NOM(1,PL);ACC(3,SG)	სამართლებს
+ართმევს V;IND;FUT;NOM(2,SG);ACC(1,SG)	საუკე მომა
+ართმევს V;IND;FUT;NOM(3,PL);ACC(3,PL)	სახელი მომ
+ართმევს V;IND;FUT;NOM(3,SG);ACC(1,SG)	საუკე მომა
+ართმევს V;IND;IPFV;NOM(1,PL);ACC(3,SG)	საუკე მოიმ
+ართმევს V;IND;PRF;NOM(1,SG);ACC(2,PL)	სახელები: მ
+ართმევს V;IND;PRF;NOM(3,PL);ACC(3,PL)	სახელით და 
+ართმევს V;IND;PRF;NOM(3,PL);ACC(3,SG)	სახელმწიფო
+ართმევს V;IND;PRS;NOM(2,SG);ACC(3,PL)	სახელმწიფო
+ართმევს V;IND;PRS;NOM(3,PL);ACC(3,SG)	სახელმწიფო
+ართმევს V;IND;PRS;NOM(3,SG);ACC(1,SG)	საუზმა არა
+ართმევს V;IND;PST;PFV;NOM(2,PL);ACC(1,SG)	ს ართმევს V;IN
+ართმევს V;IND;PST;PFV;NOM(3,SG);ACC(3,SG)	საუკუნები 
+ართმევს V;OPT;NOM(2,PL);ACC(3,PL)	სახელებით 
+ართმევს V;OPT;NOM(3,PL);ACC(2,PL)	სახელებით 
+ართმევს V;SBJV;PRF;NOM(1,SG);ACC(3,PL)	სახელით მო
+ართმევს V;SBJV;PRF;NOM(2,SG);ACC(3,SG)	ს ართმევს V;SB
+ართმევს V;SBJV;PRF;NOM(3,PL);ACC(2,SG)	საუკე მომა
+ართმევს V;SBJV;PRS;NOM(2,PL);ACC(1,PL)	საუზმა მოი
+ართმევს V;SBJV;PRS;NOM(2,SG);ACC(1,PL)	საუზმელი მ
+ართმევს V;SBJV;PRS;NOM(3,SG);ACC(3,SG)	ს ართმევს V;SB
+ასისტენტი N;DAT(PL)	ასისტენტი N;
+ასისტენტი N;DAT(PL;LGSPEC2)	ასისტენტი N;
+ასისტენტი N;DAT(SG)	ასისტენტი N;
+ასისტენტი N;ERG(PL)	ასისტენტი N;
+ასისტენტი N;ERG(PL;LGSPEC2)	ასისტენტი N;
+ასისტენტი N;ERG(SG)	ასისტენტი N;
+ასისტენტი N;FRML(PL)	ასისტენტი N;
+ასისტენტი N;FRML(SG)	ასისტენტი N;
+ასისტენტი N;GEN(PL)	ასისტენტი N;
+ასისტენტი N;GEN(PL;LGSPEC2)	ასისტენტი N;
+ასისტენტი N;GEN(SG)	ასისტენტი N;
+ასისტენტი N;INS(PL)	ასისტენტი N;
+ასისტენტი N;INS(SG)	ასისტენტი N;
+ასისტენტი N;NOM(PL)	ასისტენტი N;
+ასისტენტი N;NOM(PL;LGSPEC2)	ასისტენტი N;
+ასისტენტი N;NOM(SG)	ასისტენტი N;
+ასისტენტი N;VOC(PL)	ასისტენტი N;
+ასისტენტი N;VOC(PL;LGSPEC2)	ასისტენტი N;
+ასისტენტი N;VOC(SG)	ასისტენტი N;
+ატიპური ADJ;DAT(PL)	ატიპური ADJ;DAT(
+ატიპური ADJ;DAT(PL;LGSPEC2)	ინგლისის ს
+ატიპური ADJ;DAT(SG)	ატიპური ADJ;DAT(
+ატიპური ADJ;ERG(PL)	ინგლისი ADJ;ERG(
+ატიპური ADJ;ERG(PL;LGSPEC2)	ინგლისი სა
+ატიპური ADJ;ERG(SG)	ინგლისი ADJ;ERG(
+ატიპური ADJ;FRML(PL)	ინგლიგიური
+ატიპური ADJ;FRML(SG)	ინგლიგიური
+ატიპური ADJ;GEN(PL)	ისი ADJ;GEN(PL)con(PL)co
+ატიპური ADJ;GEN(PL;LGSPEC2)	ისტოკჱად ს
+ატიპური ADJ;GEN(SG)	სახებითი ADJ;G
+ატიპური ADJ;INS(PL)	ინგლისი ADJ;INS(
+ატიპური ADJ;INS(SG)	ატიპური ADJ;INS(
+ატიპური ADJ;NOM(PL)	ინგლისი სტ
+ატიპური ADJ;NOM(PL;LGSPEC2)	ისი სამატი
+ატიპური ADJ;NOM(SG)	ატიპური ADJ;NOM(
+ატიპური ADJ;VOC(PL)	ინგლისი ADJ;VOC(
+ატიპური ADJ;VOC(PL;LGSPEC2)	ისი საერთა
+ატიპური ADJ;VOC(SG)	სატიპური ADJ;V
+ბიოლოგი N;DAT(PL)	ọn ọn ọn ọn ọn ọn
+ბიოლოგი N;DAT(PL;LGSPEC2)	მანიშვილი 
+ბიოლოგი N;DAT(SG)	მეცნიერება
+ბიოლოგი N;ERG(PL)	ბიოლოგი N;ERG(PL
+ბიოლოგი N;ERG(PL;LGSPEC2)	ბიოლოგი N;ERG(PL
+ბიოლოგი N;ERG(SG)	ბიოლოგი N;ERG(SG
+ბიოლოგი N;FRML(PL)	მეცნიერი N;FRM
+ბიოლოგი N;FRML(SG)	ბიოლოგი N;FRML(S
+ბიოლოგი N;GEN(PL)	მეცნიერი N;GEN
+ბიოლოგი N;GEN(PL;LGSPEC2)	მონოლოგი N;GEN
+ბიოლოგი N;GEN(SG)	მეცნიერება
+ბიოლოგი N;INS(PL)	მონას ბიოლ
+ბიოლოგი N;INS(SG)	ọn ọn ọn ọn ọn ọn
+ბიოლოგი N;NOM(PL)	მანისტრაცი
+ბიოლოგი N;NOM(PL;LGSPEC2)	მონოლოგი N;NOM
+ბიოლოგი N;NOM(SG)	ბიოლოგი N;NOM(SG
+ბიოლოგი N;VOC(PL)	ბიოლოგი N;VOC(PL
+ბიოლოგი N;VOC(PL;LGSPEC2)	ბიოლოგი N;VOC(PL
+ბიოლოგი N;VOC(SG)	ọkọkọkọkọkọkọk
+გარანტი N;DAT(PL)	გარანტი N;DAT(PL
+გარანტი N;DAT(PL;LGSPEC2)	გარანტი N;DAT(PL
+გარანტი N;DAT(SG)	გარანႢი N;DAT(SG
+გარანტი N;ERG(PL)	გარანტი N;ERG(PL
+გარანტი N;ERG(PL;LGSPEC2)	გარანტი N;ERG(PL
+გარანტი N;ERG(SG)	გარანႢი N;ERG(SG
+გარანტი N;FRML(PL)	გარანტი N;FRML(P
+გარანტი N;FRML(SG)	გარანტი N;FRML(S
+გარანტი N;GEN(PL)	გარანტი N;GEN(PL
+გარანტი N;GEN(PL;LGSPEC2)	გარანტი N;GEN(PL
+გარანტი N;GEN(SG)	სახეობა გა
+გარანტი N;INS(PL)	გარანტი N;INS(PL
+გარანტი N;INS(SG)	ი N;INS(SG)aṇINS(SG)aṇIN
+გარანტი N;NOM(PL)	გარანტი N;NOM(PL
+გარანტი N;NOM(PL;LGSPEC2)	გარანტი N;NOM(PL
+გარანტი N;NOM(SG)	გარანႢი N;NOM(SG
+გარანტი N;VOC(PL)	გარანტი N;VOC(PL
+გარანტი N;VOC(PL;LGSPEC2)	გარანტი N;VOC(PL
+გარანტი N;VOC(SG)	გარანტი N;VOC(SG
+გუთანი N;DAT(PL)	გუთანი N;DAT(PL)at
+გუთანი N;DAT(PL;LGSPEC2)	გუთანი გუთ
+გუთანი N;DAT(SG)	გუთანი N;DAT(SG)gi
+გუთანი N;ERG(PL)	გუთანი N;ERG(PL)ar
+გუთანი N;ERG(PL;LGSPEC2)	გუთანი გუთ
+გუთანი N;ERG(SG)	გუთანი N;ERG(SG)a 
+გუთანი N;FRML(PL)	გუთანი N;FRML(PL)i
+გუთანი N;FRML(SG)	გუთანი N;FRML(SG)f
+გუთანი N;GEN(PL)	ი N;GEN(PL)acetate N;GEN(PL)
+გუთანი N;GEN(PL;LGSPEC2)	გუთანი გუთ
+გუთანი N;GEN(SG)	გუთანი N;GEN(SG)an
+გუთანი N;INS(PL)	ი N;INS(PL)ateg(PL)ateg(PL)a
+გუთანი N;INS(SG)	გუთანი N;INS(SG)ja
+გუთანი N;NOM(PL)	ანატომი N;NOM(PL
+გუთანი N;NOM(PL;LGSPEC2)	 გუთანი N;NOM(PL;L
+გუთანი N;NOM(SG)	გუთანი N;NOM(SG)an
+გუთანი N;VOC(PL)	გუთანი N;VOC(PL)in
+გუთანი N;VOC(PL;LGSPEC2)	გუთანი გუთ
+გუთანი N;VOC(SG)	გუთანი N;VOC(SG)y 
+დოლარი N;DAT(PL)	დოლარი N;DAT(PL)at
+დოლარი N;DAT(PL;LGSPEC2)	მ დოẚაကი N;DAT(P
+დოლარი N;DAT(SG)	დოლარი N;DAT(SG)f;
+დოლარი N;ERG(PL)	დოᚚᐠი N;ERG(PL)დ
+დოლარი N;ERG(PL;LGSPEC2)	 ល ល ល ល ល ល ល 
+დოლარი N;ERG(SG)	დოᚚარი N;ERG(SG)a
+დოლარი N;FRML(PL)	ი N,იანვარი N,
+დოლარი N;FRML(SG)	დოლარი N;FRML(SG)f
+დოლარი N;GEN(PL)	დოẚარი N;GEN(PL)
+დოლარი N;GEN(PL;LGSPEC2)	 მეტალური N;GE
+დოლარი N;GEN(SG)	ი N;GEN(SG)f;GEN(SG)f;GEN(SG
+დოლარი N;INS(PL)	დოᚚარი N;INS(PL)at
+დოლარი N;INS(SG)	დოლარი N;INS(SG)a 
+დოლარი N;NOM(PL)	დოლარი N;NOM(PL)ar
+დოლარი N;NOM(PL;LGSPEC2)	 დოლაဠი დოẚ
+დოლარი N;NOM(SG)	დოლარი N;NOM(SG)a;
+დოლარი N;VOC(PL)	დოლარი N;VOC(PL)ad
+დოლარი N;VOC(PL;LGSPEC2)	 ᐅ ᐅ ᐅ ᐅ ᐅ ᐅ ᐅ 
+დოლარი N;VOC(SG)	დოლარი N;VOC(SG)in
+ებონიტი N;DAT(PL)	ებონიტი N;DAT(PL
+ებონიტი N;DAT(PL;LGSPEC2)	ებონიტი N;DAT(PL
+ებონიტი N;DAT(SG)	ებონიტი N;DAT(SG
+ებონიტი N;ERG(PL)	ებონიტი N;ERG(PL
+ებონიტი N;ERG(PL;LGSPEC2)	ებონიტი N;ERG(PL
+ებონიტი N;ERG(SG)	ებონიტი N;ERG(SG
+ებონიტი N;FRML(PL)	ებონიტი N;FRML(P
+ებონიტი N;FRML(SG)	ებონიტი N;FRML(S
+ებონიტი N;GEN(PL)	ებონიტი N;GEN(PL
+ებონიტი N;GEN(PL;LGSPEC2)	იტი N;GEN(PL;LGSPEC2);LG
+ებონიტი N;GEN(SG)	ებონიტი N;GEN(SG
+ებონიტი N;INS(PL)	ებონიტი N;INS(PL
+ებონიტი N;INS(SG)	ებონიტი N;INS(SG
+ებონიტი N;NOM(PL)	ებონიტი N;NOM(PL
+ებონიტი N;NOM(PL;LGSPEC2)	ებონიტი N;NOM(PL
+ებონიტი N;NOM(SG)	ებონიტი N;NOM(SG
+ებონიტი N;VOC(PL)	27 N;VOC(PL)iO(PL)iO(27, PL)iO
+ებონიტი N;VOC(PL;LGSPEC2)	ებონიტი N;VOC(PL
+ებონიტი N;VOC(SG)	ებონიტი N;VOC(SG
+ეზო N;DAT(PL)	ოსალოდეს N;DA
+ეზო N;DAT(PL;LGSPEC2)	რიონი მონა
+ეზო N;DAT(SG)	უხლობლისწ
+ეზო N;ERG(PL)	ონასვა N;ERG(PL)j
+ეზო N;ERG(PL;LGSPEC2)	რის მონაცე
+ეზო N;ERG(SG)	უხტი N;ERG(SG)kkkkkkk
+ეზო N;FRML(PL)	უხრუჭირობ
+ეზო N;FRML(SG)	მართველი ე
+ეზო N;GEN(PL)	ოსასმენი მ
+ეზო N;GEN(PL;LGSPEC2)	მეტრიანი მ
+ეზო N;GEN(SG)	ოსასმენო მ
+ეზო N;INS(PL)	დგომითი და 
+ეზო N;INS(SG)	დომიმართვ
+ეზო N;NOM(PL)	ომზადყოფნ
+ეზო N;NOM(PL;LGSPEC2)	რიონი მონა
+ეზო N;NOM(SG)	დომიმართვ
+ეზო N;VOC(PL)	უნიციპალი
+ეზო N;VOC(PL;LGSPEC2)	კეანი მონა
+ეზო N;VOC(SG)	უნიციპალი
+ეპიდემიოლოგი N;DAT(PL)	ᐅ ᐅ ᐅ ᐅ ᐅ ᐅ ᐅ 
+ეპიდემიოლოგი N;DAT(PL;LGSPEC2)	 ᐈ ᐈ ᐈ ᐈ ᐈ ᐈ ᐈ 
+ეპიდემიოლოგი N;DAT(SG)	ḗḗḗ (ḗḗḗḗḗḗ
+ეპიდემიოლოგი N;ERG(PL)	ḥn ḥn ḥn ḥn ḥn ḥn 
+ეპიდემიოლოგი N;ERG(PL;LGSPEC2)	ọn ọn ọn ọn ọn ọn 
+ეპიდემიოლოგი N;ERG(SG)	მინიჩაბათი
+ეპიდემიოლოგი N;FRML(PL)	ọn ọn ọn ọn ọn ọn 
+ეპიდემიოლოგი N;FRML(SG)	მოსახლობით
+ეპიდემიოლოგი N;GEN(PL)	ḥn ḥn ḥn ḥn ḥn ḥn 
+ეპიდემიოლოგი N;GEN(PL;LGSPEC2)	ọn ọn ọn ọn ọn ọn 
+ეპიდემიოლოგი N;GEN(SG)	მინიჩა ეპი
+ეპიდემიოლოგი N;INS(PL)	ḍḍḍḍḍḍḍḍḍḍ
+ეპიდემიოლოგი N;INS(SG)	ọn ọn ọn ọn ọn ọn 
+ეპიდემიოლოგი N;NOM(PL)	ḍḍሁḍრიḍ ḍጡ
+ეპიდემიოლოგი N;NOM(PL;LGSPEC2)	ḕḕḕḕḕḕḕḕḕḕ
+ეპიდემიოლოგი N;NOM(SG)	ḗḗḗ ḗḗḗ ḗḗḗ 
+ეპიდემიოლოგი N;VOC(PL)	ọnọnọnnọnnọnnnnnnnn
+ეპიდემიოლოგი N;VOC(PL;LGSPEC2)	 მეცნიერი მ
+ეპიდემიოლოგი N;VOC(SG)	(SG)-ს მოსახლე
+ვაჟი N;DAT(PL)	მაგარი N;DAT(PL)ac
+ვაჟი N;DAT(PL;LGSPEC2)	 ផაសម N;DAT(PL;LGSP)gs
+ვაჟი N;DAT(SG)	მ N;DAT(SG)giv(SG)giv(SG)giv
+ვაჟი N;ERG(PL)	მ N;მ N;მ N;მ N;მ N;
+ვაჟი N;ERG(PL;LGSPEC2)	 მეტალური N;ER
+ვაჟი N;ERG(SG)	ᐅ ᐅ ᐅ ᐅ ᐅ ᐅ ᐅ 
+ვაჟი N;FRML(PL)	 ល្វិប N;FRML(PL)ia 
+ვაჟი N;FRML(SG)	(ᐅᐅᐅᐅაა)ᐅᐅᐅ
+ვაჟი N;GEN(PL)	 მეგო მეგო მ
+ვაჟი N;GEN(PL;LGSPEC2)	 លើវបាម N;GEN(PL;L
+ვაჟი N;GEN(SG)	ᐅ ᐅ ᐅ ᐅ ᐅ ᐅ ᐅ 
+ვაჟი N;INS(PL)	 ផថសម N;INS(PL)aក IN
+ვაჟი N;INS(SG)	 លេខកអនមយម 
+ვაჟი N;NOM(PL)	მამა N;მამა N;
+ვაჟი N;NOM(PL;LGSPEC2)	 លេამა N;NOM(PL;LGSP
+ვაჟი N;NOM(SG)	 លេខក N;លេჁჀ N
+ვაჟი N;VOC(PL)	 მეგო N;VOC(PL)ja N;VO
+ვაჟი N;VOC(PL;LGSPEC2)	 ផაჟი N;VOC(PL;LGSP;LG
+ვაჟი N;VOC(SG)	 მეგო N;მეგო N
+ზამბახიანი ADJ;DAT(PL)	ზამბახიანი
+ზამბახიანი ADJ;DAT(PL;LGSPEC2)	ზამბახიანი
+ზამბახიანი ADJ;DAT(SG)	ზამბახიანი
+ზამბახიანი ADJ;ERG(PL)	ზამბახიანი
+ზამბახიანი ADJ;ERG(PL;LGSPEC2)	ზამბახიანი
+ზამბახიანი ADJ;ERG(SG)	ზამბახიანი
+ზამბახიანი ADJ;FRML(PL)	ზამბახიანი
+ზამბახიანი ADJ;FRML(SG)	ზამბახიანი
+ზამბახიანი ADJ;GEN(PL)	ზამბახიანი
+ზამბახიანი ADJ;GEN(PL;LGSPEC2)	ზამბახიანი
+ზამბახიანი ADJ;GEN(SG)	ზამბახიანი
+ზამბახიანი ADJ;INS(PL)	ზამბახიანი
+ზამბახიანი ADJ;INS(SG)	ზამბახიანი
+ზამბახიანი ADJ;NOM(PL)	ზამბახიანი
+ზამბახიანი ADJ;NOM(PL;LGSPEC2)	ზამბახიანი
+ზამბახიანი ADJ;NOM(SG)	ზამბახიანი
+ზამბახიანი ADJ;VOC(PL)	ზამბახიანი
+ზამბახიანი ADJ;VOC(PL;LGSPEC2)	ზამბახიანი
+ზამბახიანი ADJ;VOC(SG)	ზამბახიანი
+თარაზო N;DAT(PL)	ოსათარაზო N
+თარაზო N;DAT(PL;LGSPEC2)	 სამარილო N;DA
+თარაზო N;DAT(SG)	 N;DAT(SG)j N;DAT(SG)j N;DAT(S
+თარაზო N;ERG(PL)	ო N;ERG(PL)ო N;ERG(PL)ო
+თარაზო N;ERG(PL;LGSPEC2)	 სამკურაო N;E
+თარაზო N;ERG(SG)	 მოქმედო N;ERG(S
+თარაზო N;FRML(PL)	 N N N N N N N N N N N N N N N
+თარაზო N;FRML(SG)	 N N N N N N N N N N N N N N N
+თარაზო N;GEN(PL)	 N;GEN(PL)სასამა
+თარაზო N;GEN(PL;LGSPEC2)	 სამკურაო N;GE
+თარაზო N;GEN(SG)	 N N N N N N N N N N N N N N N
+თარაზო N;INS(PL)	 N N N N N N N N N N N N N N N
+თარაზო N;INS(SG)	 N S S S S S S S S S S S S S S
+თარაზო N;NOM(PL)	მომართავე N;
+თარაზო N;NOM(PL;LGSPEC2)	 სამარილო N;NO
+თარაზო N;NOM(SG)	 N;NOM(SG)a მომავა
+თარაზო N;VOC(PL)	 N;VOC(PL)acetogazetochondrocy
+თარაზო N;VOC(PL;LGSPEC2)	 სამკურაო N;VO
+თარაზო N;VOC(SG)	(გამომნათლ
+თეთრდება V;COND;NOM(1,PL)	თეთრდება თ
+თეთრდება V;COND;NOM(1,SG)	თეთრდება თ
+თეთრდება V;COND;NOM(2,PL)	თეთრდება თ
+თეთრდება V;COND;NOM(3,PL)	თეთრდება თ
+თეთრდება V;COND;NOM(3,SG)	თეთრდება თ
+თეთრდება V;IMP;NOM(1,PL)	მოთეთრდება
+თეთრდება V;IND;FUT;NOM(3,SG)	მონება მონ
+თეთრდება V;IND;IPFV;NOM(1,PL)	მონება მონ
+თეთრდება V;IND;IPFV;NOM(3,SG)	მონება მონ
+თეთრდება V;IND;PRS;NOM(2,PL)	მოთეთრდება
+თეთრდება V;IND;PRS;NOM(2,SG)	თეთრდება თ
+თეთრდება V;IND;PRS;NOM(3,PL)	მოთეთრდება
+თეთრდება V;IND;PRS;NOM(3,SG)	თეთრდება თ
+თეთრდება V;IND;PST;PFV;NOM(2,SG)	მონება მონ
+თეთრდება V;IND;PST;PFV;NOM(3,PL)	მოთეთრდება
+თეთრდება V;IND;PST;PFV;NOM(3,SG)	მონება მონ
+თეთრდება V;IND;PST;PRF;NOM(2,PL)	მოთეთრდება
+თეთრდება V;IND;PST;PRF;NOM(2,SG)	მოთეთრდება
+თეთრდება V;OPT;NOM(1,SG)	თეთრდეᑑა თ
+თეთრდება V;SBJV;FUT;NOM(1,PL)	მოთეთრდება
+თეთრდება V;SBJV;FUT;NOM(2,PL)	მოთეთრდება
+თეთრდება V;SBJV;FUT;NOM(2,SG)	მომბოსი მო
+თეთრდება V;SBJV;FUT;NOM(3,PL)	მოთეთრდება
+თეთრდება V;SBJV;PRF;NOM(1,SG)	მოთეთრდება
+თეთრდება V;SBJV;PRS;NOM(1,PL)	ᐅ ᐅ ᐅ ᐅ ᐅ ᐅ ᐅ 
+თეთრდება V;V.MSDR;PRF	ọn từ ọn từ ọn từ 
+ილი N;DAT(PL)	ილი N;DAT(PL)at(PL)at(PL
+ილი N;DAT(PL;LGSPEC2)	ეტრის მენე
+ილი N;DAT(SG)	ილი N;DAT(SG)j;DAT(SG)j;
+ილი N;ERG(PL)	ილი N;ERG(PL)j;ERG(PL)j;
+ილი N;ERG(PL;LGSPEC2)	მეტრი მენე
+ილი N;ERG(SG)	ინჟინერი მ
+ილი N;FRML(PL)	ილი N;FRML(PL)frmL(PL)fr
+ილი N;FRML(SG)	ნოვიცა მოდ
+ილი N;GEN(PL)	ილი N;GEN(PL)ar(PL)ar(PL
+ილი N;GEN(PL;LGSPEC2)	 მენელისა დ
+ილი N;GEN(SG)	ილი N;GEN(SG)fen(SG)fen(
+ილი N;INS(PL)	ილი N;INS(PL)f;INS(PL)f;
+ილი N;INS(SG)	ილი N;INS(SG)kj;INS(kj;I
+ილი N;NOM(PL)	ილი N;NOM(PL)ar(PL)ar(PL
+ილი N;NOM(PL;LGSPEC2)	მეთოდი მეთ
+ილი N;NOM(SG)	ილი N;NOM(SG)aa;NOM(SG)a
+ილი N;VOC(PL)	ილი N;VOC(PL)j;VOC(PL)j;
+ილი N;VOC(PL;LGSPEC2)	ოდანანი მა
+ილი N;VOC(SG)	ილი N;VOC(SG)j j j j j j
+იმპერიალისტი N;DAT(PL)	მპერიალის
+იმპერიალისტი N;DAT(PL;LGSPEC2)	მპერიალის
+იმპერიალისტი N;DAT(SG)	იმპერიალის
+იმპერიალისტი N;ERG(PL)	იმპერიალის
+იმპერიალისტი N;ERG(PL;LGSPEC2)	იმპერიალის
+იმპერიალისტი N;ERG(SG)	იმპერიალის
+იმპერიალისტი N;FRML(PL)	იმპერიალის
+იმპერიალისტი N;FRML(SG)	მპერიალის
+იმპერიალისტი N;GEN(PL)	იმპერიალის
+იმპერიალისტი N;GEN(PL;LGSPEC2)	იმპერიალის
+იმპერიალისტი N;GEN(SG)	იმპერიალის
+იმპერიალისტი N;INS(PL)	მპერიალის
+იმპერიალისტი N;INS(SG)	იმპერიალის
+იმპერიალისტი N;NOM(PL)	იმპერიალის
+იმპერიალისტი N;NOM(PL;LGSPEC2)	იმპერიალის
+იმპერიალისტი N;NOM(SG)	იმპერიალის
+იმპერიალისტი N;VOC(PL)	იმპერიალის
+იმპერიალისტი N;VOC(PL;LGSPEC2)	იმპერიალის
+იმპერიალისტი N;VOC(SG)	იმპერიალის
+იმპორტი N;DAT(PL)	მპორტი N;DAT(PL)ag
+იმპორტი N;DAT(PL;LGSPEC2)	 მოდი იმპორ
+იმპორტი N;DAT(SG)	ᐅ ᐅ ᐅ ᐅ ᐅ ᐅ ᐅ 
+იმპორტი N;ERG(PL)	ᐉ ᐉ ᐉ ᐉ ᐉ ᐉ ᐉ 
+იმპორტი N;ERG(PL;LGSPEC2)	 მპორტი N;ERG(PL;L
+იმპორტი N;ERG(SG)	ᐉ ᐉ ᐉ ᐉ ᐉ ᐉ ᐉ 
+იმპორტი N;FRML(PL)	მპორტი N;FRML(PL)
+იმპორტი N;FRML(SG)	მპორტი N;FRML(SG)i
+იმპორტი N;GEN(PL)	ọọọọọọọọọọ
+იმპორტი N;GEN(PL;LGSPEC2)	 იმპორტი N;GEN(P
+იმპორტი N;GEN(SG)	ᐅ ᐅ ᐅ ᐅ ᐅ ᐅ ᐅ 
+იმპორტი N;INS(PL)	მპორტი N;INS(PL)a
+იმპორტი N;INS(SG)	მპორტი N;INS(SG)a
+იმპორტი N;NOM(PL)	მპორტი N;NOM(PL)a
+იმპორტი N;NOM(PL;LGSPEC2)	 მოქმედები
+იმპორტი N;NOM(SG)	მპორტი N;NOM(SG)a
+იმპორტი N;VOC(PL)	მპორტი N;VOC(PL)in
+იმპორტი N;VOC(PL;LGSPEC2)	 მოსახლე მო
+იმპორტი N;VOC(SG)	 მპორტი N;VOC(SG)a
+იღება V;COND;NOM(1,PL)	მოკლებულეᑑ
+იღება V;COND;NOM(3,SG)	მ მ მ მ მ მ მ 
+იღება V;IMP;NOM(1,PL)	ანალიზატორ
+იღება V;IMP;NOM(2,PL)	იღეᑑა მოდი
+იღება V;IND;FUT;NOM(1,SG)	მომხიბვება
+იღება V;IND;FUT;NOM(2,SG)	მომხმარება
+იღება V;IND;FUT;NOM(3,PL)	მომხმარებე
+იღება V;IND;IPFV;NOM(2,PL)	იღეᑑა V;IND;IPFV;NOM
+იღება V;IND;PRF;NOM(1,PL)	მოსახლეობა
+იღება V;IND;PRF;NOM(1,SG)	მოსახლეობა
+იღება V;IND;PRF;NOM(2,SG)	მოსახლეობა
+იღება V;IND;PRF;NOM(3,PL)	იღᔔᑑა V;IND;PRF;NOM(
+იღება V;IND;PRF;NOM(3,SG)	მოსახლეობა
+იღება V;IND;PRS;NOM(1,PL)	მორიგეობა 
+იღება V;IND;PRS;NOM(1,SG)	მომხიბვლებ
+იღება V;IND;PRS;NOM(2,SG)	მოკლებულထა
+იღება V;IND;PST;PFV;NOM(1,PL)	იღᔔᑑა იღᔔᑑ
+იღება V;IND;PST;PFV;NOM(2,PL)	იღᔔᑑა V;IND;PST;PFV;
+იღება V;IND;PST;PFV;NOM(3,PL)	მომხὛၕე მო
+იღება V;IND;PST;PRF;NOM(1,PL)	მოსახლეობა
+იღება V;IND;PST;PRF;NOM(3,PL)	იღᔔᑑა V;IND;PST;PRF;
+იღება V;OPT;NOM(3,SG)	მომხმარება
+იღება V;SBJV;PRF;NOM(2,PL)	მოსახლეობა
+იღება V;SBJV;PRF;NOM(2,SG)	მოკლებულია
+იღება V;SBJV;PRS;NOM(2,PL)	მომხმარე მ
+იღება V;SBJV;PRS;NOM(3,SG)	მომბილება 
+კანდიდატი N;DAT(PL)	ᐅ ᐅ ᐅ ᐅ ᐅ ᐅ ᐅ 
+კანდიდატი N;DAT(PL;LGSPEC2)	მონថკადული
+კანდიდატი N;DAT(SG)	მონაცემი N;DAT
+კანდიდატი N;ERG(PL)	ắ N;ERG(PL)ắ N;ERG(PL)ắ 
+კანდიდატი N;ERG(PL;LGSPEC2)	ọọọ ọọọ ọọọ 
+კანდიდატი N;ERG(SG)	მონថკადური
+კანდიდატი N;FRML(PL)	მონაწერი N;FRM
+კანდიდატი N;FRML(SG)	მონატრიუმ 
+კანდიდატი N;GEN(PL)	ẽẢẂẂ ẽẢẂẂ ẽ
+კანდიდატი N;GEN(PL;LGSPEC2)	ọ ọ ọ ọ ọ ọ ọ 
+კანდიდატი N;GEN(SG)	მანჯავა კა
+კანდიდატი N;INS(PL)	მონაწერი N;INS
+კანდიდატი N;INS(SG)	კანდიდატი N;
+კანდიდატი N;NOM(PL)	მონაწဝირებ
+კანდიდატი N;NOM(PL;LGSPEC2)	კანდიდატი N;
+კანდიდატი N;NOM(SG)	მონაკვეဒან
+კანდიდატი N;VOC(PL)	(PL)general;მედია 
+კანდიდატი N;VOC(PL;LGSPEC2)	კანდიდატი 
+კანდიდატი N;VOC(SG)	(SG)interview with a VOC(SG)in
+კონტური N;DAT(PL)	ისტოკონტურ
+კონტური N;DAT(PL;LGSPEC2)	კო᜛ორფიგულ
+კონტური N;DAT(SG)	ონტური N;DAT(SG)is
+კონტური N;ERG(PL)	კონტური N;კო
+კონტური N;ERG(PL;LGSPEC2)	კონტური N;ERG(PL
+კონტური N;ERG(SG)	ინტერვეზებ
+კონტური N;FRML(PL)	კონტური N;FRML(P
+კონტური N;FRML(SG)	ინგლისური 
+კონტური N;GEN(PL)	ისი N;კონტურ
+კონტური N;GEN(PL;LGSPEC2)	კო᜛ორი N;GEN(PL;LG
+კონტური N;GEN(SG)	ინგლისური N;
+კონტური N;INS(PL)	ინტერესი N;INS
+კონტური N;INS(SG)	ინტერესი დ
+კონტური N;NOM(PL)	ისტორია N;კო
+კონტური N;NOM(PL;LGSPEC2)	ისტონიური N;
+კონტური N;NOM(SG)	ინტერესები
+კონტური N;VOC(PL)	მონომისი N;კ
+კონტური N;VOC(PL;LGSPEC2)	კონტური N;VOC(PL
+კონტური N;VOC(SG)	ისტონიური N;
+კორიდორი N;DAT(PL)	კორიდორი N;DAT
+კორიდორი N;DAT(PL;LGSPEC2)	კოᠠიდორი N;DAT
+კორიდორი N;ERG(PL)	კოᠠიდოဠი N;ERG
+კორიდორი N;ERG(PL;LGSPEC2)	კოᠠიდორი N;ERG
+კორიდორი N;ERG(SG)	ọ ọ ọ ọ ọ ọ ọ 
+კორიდორი N;FRML(SG)	ი ი ი ი ი ი ი 
+კორიდორი N;GEN(PL)	კოᠠიდოဠი N;GEN
+კორიდორი N;GEN(PL;LGSPEC2)	კოᠠიდოဠი N;GEN
+კორიდორი N;GEN(SG)	კორიდორი N;GEN
+კორიდორი N;INS(PL)	კოᠠიდორი N;INS
+კორიდორი N;INS(SG)	კორიდორი N;INS
+კორიდორი N;NOM(PL)	კოᠠიდორი N;NOM
+კორიდორი N;NOM(PL;LGSPEC2)	კოᠠიდორი N;NOM
+კორიდორი N;NOM(SG)	კოဠიდოဠი N;NOM
+კორიდორი N;VOC(PL)	კორიდორი N;VOC
+კორიდორი N;VOC(PL;LGSPEC2)	მონელი კოᠠ
+კორიდორი N;VOC(SG)	კორიდორი N;VOC
+მთისწინეთი N;DAT(PL)	მთისწინეთი
+მთისწინეთი N;DAT(PL;LGSPEC2)	მთისწინეთი
+მთისწინეთი N;DAT(SG)	მთისწინეთი
+მთისწინეთი N;ERG(PL)	მთისწინეთი
+მთისწინეთი N;ERG(PL;LGSPEC2)	მთისწინეთი
+მთისწინეთი N;ERG(SG)	მთისწინეთი
+მთისწინეთი N;FRML(PL)	მთისწინეთი
+მთისწინეთი N;FRML(SG)	მთისწინეთი
+მთისწინეთი N;GEN(PL)	მთისწინეთი
+მთისწინეთი N;GEN(PL;LGSPEC2)	მთისწინეთი
+მთისწინეთი N;GEN(SG)	მთისწინეთი
+მთისწინეთი N;INS(PL)	მთისწინეთი
+მთისწინეთი N;INS(SG)	მთისწინეთი
+მთისწინეთი N;NOM(PL)	მთისწინეთი
+მთისწინეთი N;NOM(PL;LGSPEC2)	მთისწინეთი
+მთისწინეთი N;NOM(SG)	მთისწინეთი
+მთისწინეთი N;VOC(PL)	მთისწინეთი
+მთისწინეთი N;VOC(PL;LGSPEC2)	მთისწინეთი
+მთისწინეთი N;VOC(SG)	მთისწინეთი
+მშვიდი ADJ;DAT(PL)	მშვიდი ADJ;DAT(PL)
+მშვიდი ADJ;DAT(PL;LGSPEC2)	მშვიდი ADJ;DAT(PL;
+მშვიდი ADJ;DAT(SG)	მშვიდი ADJ;DAT(SG)
+მშვიდი ADJ;ERG(PL)	მშვიდი ADJ;ERG(PL)
+მშვიდი ADJ;ERG(PL;LGSPEC2)	 მშვიდი ADJ;ERG(PL
+მშვიდი ADJ;ERG(SG)	 მშვიდი ADJ;ERG(SG
+მშვიდი ADJ;FRML(PL)	 მშვიდი ADJ;FRML(P
+მშვიდი ADJ;FRML(SG)	მშვიდი ADJ;FRML(SG
+მშვიდი ADJ;GEN(PL)	 მშვიდი ADJ;GEN(PL
+მშვიდი ADJ;GEN(PL;LGSPEC2)	 მშვიდი ADJ;GEN(PL
+მშვიდი ADJ;GEN(SG)	მშვიდი ADJ;GEN(SG)
+მშვიდი ADJ;INS(PL)	მშვიდი ADJ;INS(PL)
+მშვიდი ADJ;INS(SG)	მშვიდი ADJ;INS(SG)
+მშვიდი ADJ;NOM(PL)	 მშვიდი ADJ;NOM(PL
+მშვიდი ADJ;NOM(PL;LGSPEC2)	 მშვიდი ADJ;NOM(PL
+მშვიდი ADJ;NOM(SG)	მშვიდი ADJ;NOM(SG)
+მშვიდი ADJ;VOC(PL)	 მშვიდი ADJ;VOC(PL
+მშვიდი ADJ;VOC(PL;LGSPEC2)	მშვიდი ADJ;VOC(PL;
+მშვიდი ADJ;VOC(SG)	მშვიდი ADJ;VOC(SG)
+მძინარე ADJ;DAT(PL)	მძინარე ADJ;DAT(
+მძინარე ADJ;DAT(PL;LGSPEC2)	 მემკვიდრე A
+მძინარე ADJ;DAT(SG)	მძინარე ADJ;DAT(
+მძინარე ADJ;ERG(PL)	მძინარე ADJ;ERG(
+მძინარე ADJ;ERG(PL;LGSPEC2)	მეტანი მეტ
+მძინარე ADJ;ERG(SG)	მძინარე ADJ;ERG(
+მძინარე ADJ;FRML(PL)	მემკვიდრე AD
+მძინარე ADJ;FRML(SG)	ძინარე ADJ;FRML(S
+მძინარე ADJ;GEN(PL)	მძინარე ADJ;GEN(
+მძინარე ADJ;GEN(PL;LGSPEC2)	 მომავალი ADJ;
+მძინარე ADJ;GEN(SG)	ძინარე ADJ;GEN(SG
+მძინარე ADJ;INS(PL)	მძინარე ADJ;INS(
+მძინარე ADJ;INS(SG)	მემკვიდრე AD
+მძინარე ADJ;NOM(PL)	მძინარე ADJ;NOM(
+მძინარე ADJ;NOM(PL;LGSPEC2)	 მემკვიდრე A
+მძინარე ADJ;NOM(SG)	მძინარე ADJ;NOM(
+მძინარე ADJ;VOC(PL)	მძინარე ADJ;VOC(
+მძინარე ADJ;VOC(PL;LGSPEC2)	მძინარე ADJ;VOC(
+მძინარე ADJ;VOC(SG)	მძინარე ADJ;VOC(
+ნამდვილი ADJ;DAT(PL)	ი ADJ;DAT(PL)ნამდვ
+ნამდვილი ADJ;DAT(PL;LGSPEC2)	მონაცემი ADJ;D
+ნამდვილი ADJ;DAT(SG)	ნამდვილი ADJ;D
+ნამდვილი ADJ;ERG(PL)	ნამდვილი ADJ;E
+ნამდვილი ADJ;ERG(PL;LGSPEC2)	ის ნამდვილ
+ნამდვილი ADJ;ERG(SG)	ისტორია ნა
+ნამდვილი ADJ;FRML(PL)	ის ნამდვილ
+ნამდვილი ADJ;FRML(SG)	მოსაზრებებ
+ნამდვილი ADJ;GEN(PL)	ი ADJ;GEN(PL) ADJ;GEN(PL) AD
+ნამდვილი ADJ;GEN(PL;LGSPEC2)	ის ნამდვილ
+ნამდვილი ADJ;GEN(SG)	ი ADJ;GEN(SG) ნამდ
+ნამდვილი ADJ;INS(PL)	ი ADJ;INS(PL)ნამდვ
+ნამდვილი ADJ;INS(SG)	ისტორიკოსმ
+ნამდვილი ADJ;NOM(PL)	ი ADJ;NOM(PL)adj ნამ
+ნამდვილი ADJ;NOM(PL;LGSPEC2)	მეტი ნამდვ
+ნამდვილი ADJ;NOM(SG)	ი ADJ;NOM(SG)g ADJ;NOM(SG)g 
+ნამდვილი ADJ;VOC(PL)	ი ADJ;VOC(PL)ნამდვ
+ნამდვილი ADJ;VOC(PL;LGSPEC2)	მეტი ADJ;VOC(PL;LGSPEC
+ნამდვილი ADJ;VOC(SG)	ისტორია ADJ;VOC(
+ოლქი N;DAT(PL)	ი N, ოლქი N, DAT(PL)
+ოლქი N;DAT(PL;LGSPEC2)	 ოლქი N;DAT(PL;LGSP);
+ოლქი N;DAT(SG)	ი მეცინი N;DAT(S
+ოლქი N;ERG(PL)	ინგლოვი N;ERG(PL
+ოლქი N;ERG(PL;LGSPEC2)	ისტოლქი ოლ
+ოლქი N;ERG(SG)	ოლქი N;ERG(SG)a N;ERG(
+ოლქი N;FRML(PL)	ოლქი N;FRML(PL)ase N;
+ოლქი N;FRML(SG)	ისი N;FRML(SG)in ოლ
+ოლქი N;GEN(PL)	ისტოლქი N;GEN(PL
+ოლქი N;GEN(PL;LGSPEC2)	ლქი N;GEN(PL;LGSPM);LGS
+ოლქი N;GEN(SG)	ი ოლქი N;GEN(SG)arr(
+ოლქი N;INS(PL)	ი ოლქი N;INS(PL)a N;
+ოლქი N;INS(SG)	ისტორია მო
+ოლქი N;NOM(PL)	ოლქი N;NOM(PL)aa) ო
+ოლქი N;NOM(PL;LGSPEC2)	ისტორი სტა
+ოლქი N;NOM(SG)	ოლქი N;NOM(SG)aaaaaaaa
+ოლქი N;VOC(PL)	 მონოლქი N;VOC(P
+ოლქი N;VOC(PL;LGSPEC2)	სტი N;VOC(PL;LGSPEC2)an
+ოლქი N;VOC(SG)	ოლქი N;VOC(SG)i, მ
+სამერცხული N;DAT(PL)	სამერცხული
+სამერცხული N;DAT(PL;LGSPEC2)	სამერცხული
+სამერცხული N;DAT(SG)	სამერცხული
+სამერცხული N;ERG(PL)	სამეဠცხული
+სამერცხული N;ERG(PL;LGSPEC2)	ინგლოიდუატ
+სამერცხული N;ERG(SG)	სამეဠცხული
+სამერცხული N;FRML(PL)	სამეဠცხული
+სამერცხული N;FRML(SG)	სამერცხული
+სამერცხული N;GEN(PL)	სამეဠცხული
+სამერცხული N;GEN(PL;LGSPEC2)	ინგლიკერი 
+სამერცხული N;GEN(SG)	სამერცხული
+სამერცხული N;INS(PL)	სამერცხული
+სამერცხული N;INS(SG)	სამერცხული
+სამერცხული N;NOM(PL)	სამერცხული
+სამერცხული N;NOM(PL;LGSPEC2)	სამერცხული
+სამერცხული N;NOM(SG)	სამერცხული
+სამერცხული N;VOC(PL)	სამერცხული
+სამერცხული N;VOC(PL;LGSPEC2)	სამერცხული
+სამერცხული N;VOC(SG)	(SG)a(SG)a(SG)a(SG)a(SG)a(SG)a
+სარჩელი N;DAT(PL)	არჩელი N;DAT(PL)a
+სარჩელი N;DAT(PL;LGSPEC2)	არჩელი N;DAT(PL;L
+სარჩელი N;DAT(SG)	არჩელი N;DAT(SG)
+სარჩელი N;ERG(PL)	სარჩელი N;ERG(PL
+სარჩელი N;ERG(PL;LGSPEC2)	სარჩელი N;ERG(PL
+სარჩელი N;ERG(SG)	სარჩელი N;ERG(SG
+სარჩელი N;FRML(PL)	სარჩელი N;FRML(P
+სარჩელი N;FRML(SG)	არჩელი N;FRML(SG)
+სარჩელი N;GEN(PL)	არჩელი N;GEN(PL)a
+სარჩელი N;GEN(PL;LGSPEC2)	ავადმყოფობ
+სარჩელი N;GEN(SG)	სარჩელი N;GEN(SG
+სარჩელი N;INS(PL)	არჩელი N;INS(PL)a
+სარჩელი N;INS(SG)	არჩელი N;INS(SG)a
+სარჩელი N;NOM(PL)	არჩელი N;NOM(PL)a
+სარჩელი N;NOM(PL;LGSPEC2)	სარჩელი N;NOM(PL
+სარჩელი N;NOM(SG)	სარჩელი N;NOM(SG
+სარჩელი N;VOC(PL)	სარჩელი N;VOC(PL
+სარჩელი N;VOC(PL;LGSPEC2)	არჩელი N;VOC(PL;L
+სარჩელი N;VOC(SG)	არჩელი N;VOC(SG)f
+საწყალი ADJ;DAT(PL)	საწყალი ADJ;DAT(
+საწყალი ADJ;DAT(PL;LGSPEC2)	საწყალი ADJ;DAT(
+საწყალი ADJ;DAT(SG)	აწყალი ADJ;DAT(SG
+საწყალი ADJ;ERG(PL)	საწყალი ADJ;ERG(
+საწყალი ADJ;ERG(PL;LGSPEC2)	საწყალი ADJ;ERG(
+საწყალი ADJ;ERG(SG)	საწყალი ADJ;ERG(
+საწყალი ADJ;FRML(PL)	საწყალი ADJ;FRML
+საწყალი ADJ;FRML(SG)	საწყალი ADJ;FRML
+საწყალი ADJ;GEN(PL)	საწყალი ADJ;GEN(
+საწყალი ADJ;GEN(PL;LGSPEC2)	საწყალი ADJ;GEN(
+საწყალი ADJ;GEN(SG)	საწყალი ADJ;GEN(
+საწყალი ADJ;INS(PL)	საწყალი ADJ;INS(
+საწყალი ADJ;INS(SG)	საწყალი ADJ;INS(
+საწყალი ADJ;NOM(PL)	საწყალი ADJ;NOM(
+საწყალი ADJ;NOM(PL;LGSPEC2)	საწყალი ADJ;NOM(
+საწყალი ADJ;NOM(SG)	საწყალი ADJ;NOM(
+საწყალი ADJ;VOC(PL)	საწყალი ADJ;VOC(
+საწყალი ADJ;VOC(PL;LGSPEC2)	საწყალი ADJ;VOC(
+საწყალი ADJ;VOC(SG)	საწყალი ADJ;VOC(
+სკანერი N;DAT(PL)	 სკანეဠი N;DAT(P
+სკანერი N;DAT(PL;LGSPEC2)	 ᐈ N N N N ᐈ N N N N N N N
+სკანერი N;DAT(SG)	 სკანეဠი N;DAT(S
+სკანერი N;ERG(PL)	სკანეဠი N;ERG(PL
+სკანერი N;ERG(PL;LGSPEC2)	 ឡយថနហი N;ERG(PL;L
+სკანერი N;ERG(SG)	ს ს ს ს ს ს ს 
+სკანერი N;FRML(PL)	 მარკერი N;FRML(
+სკანერი N;FRML(SG)	სკანერი N;FRML(S
+სკანერი N;GEN(PL)	ს ს ს ს ს ს ს 
+სკანერი N;GEN(PL;LGSPEC2)	 លოឡკᐜᔔဠი N;GE
+სკანერი N;GEN(SG)	ს ს ს ს ს ს ს 
+სკანერი N;INS(PL)	 სკᐐნეဠი N;INS(P
+სკანერი N;INS(SG)	 სკᐐნერი N;INS(S
+სკანერი N;NOM(PL)	 სკანეဠი N;NOM(P
+სკანერი N;NOM(PL;LGSPEC2)	 ឡយថបហი N;NOM(PL;L
+სკანერი N;NOM(SG)	 მარი სკანე
+სკანერი N;VOC(PL)	ს ს ს ს ს ს ს 
+სკანერი N;VOC(PL;LGSPEC2)	 ឡយថបហម N;VOC(PL;L
+სკანერი N;VOC(SG)	ს ს ს ს ს ს ს 
+ტექტონა N;DAT(PL)	(PL)as(PL)as(PL)as(PL)as(PL)as
+ტექტონა N;DAT(PL;LGSPEC2)	 მეტაბელი მ
+ტექტონა N;ERG(PL)	ისა N;ისა N;ის
+ტექტონა N;ERG(PL;LGSPEC2)	მონომონომო
+ტექტონა N;ERG(SG)	ინგლისი სა
+ტექტონა N;FRML(PL)	ტექტონა N;FRML(P
+ტექტონა N;FRML(SG)	ინგლავ მას
+ტექტონა N;GEN(PL)	N(PL)a-GEN(PL)a-GEN(PL)a-GEN(P
+ტექტონა N;GEN(PL;LGSPEC2)	მონომონომო
+ტექტონა N;GEN(SG)	(SG)f;GEN(SG)f;GEN(SG)f;GEN(SG
+ტექტონა N;INS(PL)	ტეᥛონა N;INS(PL)a 
+ტექტონა N;INS(SG)	ტეᥛონა N;INS(SG)a 
+ტექტონა N;NOM(PL)	არასტექტონ
+ტექტონა N;NOM(PL;LGSPEC2)	ტექტონა ა ა 
+ტექტონა N;NOM(SG)	არაბეთინ მ
+ტექტონა N;VOC(PL)	(PL)a2O2(PL)a2O3(PL)a2O4(PL)a2
+ტექტონა N;VOC(PL;LGSPEC2)	 მეტექტონა N
+უტყვი ADJ;DAT(PL)	 მოსაუტყვი A
+უტყვი ADJ;DAT(PL;LGSPEC2)	;DAT(PL;LGSPEC2) ADJ;DAT(PL;LG
+უტყვი ADJ;DAT(SG)	უტ᧕ი ADJ;DAT(SG)უტ
+უტყვი ADJ;ERG(PL)	;ERG(PL)მამაკაც
+უტყვი ADJ;ERG(PL;LGSPEC2)	 ADJ;ERG(PL;LGSPEC2) ADJ;ERG(P
+უტყვი ADJ;ERG(SG)	;უტ᧝ვი ADJ;ERG(SG)gi
+უტყვი ADJ;FRML(PL)	 ADJ;FRML(PL);FRML(PL);FRML(PL
+უტყვი ADJ;FRML(SG)	;FRML(SG)უტ᧝ი ADJ;FRML
+უტყვი ADJ;GEN(PL)	;უტ᧝ი ADJ;GEN(PL)მ
+უტყვი ADJ;GEN(PL;LGSPEC2)	 ADJ;GEN(PL;LGSPEC2);GEN(PL;LG
+უტყვი ADJ;GEN(SG)	უტ᧕ი ADJ;GEN(SG)უტ
+უტყვი ADJ;INS(PL)	;უტ᧕ი ADJ;INS(PL)adj A
+უტყვი ADJ;INS(SG)	უტ᧕ი ADJ;INS(SG)jუ
+უტყვი ADJ;NOM(PL)	;უტ᧝ი ADJ;NOM(PL)adj;N
+უტყვი ADJ;NOM(PL;LGSPEC2)	 ADJ;NOM(PL;LGSPEC2)adj;nom(PL
+უტყვი ADJ;NOM(SG)	;NOM(SG)giv(SG)giv(SG)giv(SG)g
+უტყვი ADJ;VOC(PL)	უტ᧕ი ADJ;VOC(PL)gụ
+უტყვი ADJ;VOC(PL;LGSPEC2)	;VOC(PL;LGSPEC2);LGSPEC2 ADJ;V
+უტყვი ADJ;VOC(SG)	;VOC(SG)gg;VOC(SG)gggggggggggg
+ფრაზა N;DAT(PL)	ფრაზა N;DAT(PL)age N
+ფრაზა N;DAT(PL;LGSPEC2)	მონომბროლა
+ფრაზა N;DAT(SG)	მონომი ფრა
+ფრაზა N;ERG(PL)	მონაცემები
+ფრაზა N;ERG(PL;LGSPEC2)	ფრაზა N;ERG(PL;LGSPE
+ფრაზა N;ERG(SG)	მონაცემები
+ფრაზა N;FRML(PL)	მონაცემები
+ფრაზა N;FRML(SG)	მონაცემები
+ფრაზა N;GEN(PL)	ფრაზა N;GEN(PL)ფ
+ფრაზა N;GEN(PL;LGSPEC2)	ფრაზა N;GEN(PL;LGSPE
+ფრაზა N;GEN(SG)	ფრაზა N;GEN(SG)jẹn
+ფრაზა N;INS(PL)	მონოლოგიურ
+ფრაზა N;INS(SG)	მონენა N - მო
+ფრაზა N;NOM(PL)	მუზა მუზა მ
+ფრაზა N;NOM(PL;LGSPEC2)	ọn ọn ọn ọn ọn ọn 
+ფრაზა N;NOM(SG)	მუზა მუზა მ
+ფრაზა N;VOC(PL)	(PL)ac(PL)ac(PL)ac(PL)ac(PL)ac
+ფრაზა N;VOC(PL;LGSPEC2)	მონენა მონ
+ფრაზა N;VOC(SG)	მონენთა N;ფრ
+ღერო N;DAT(PL)	ო N;DAT(PL)at(PL)at(PL)at(PL
+ღერო N;DAT(PL;LGSPEC2)	რიონი მეორ
+ღერო N;DAT(SG)	 N;DAT(SG)j;DAT(SG)j;DAT(SG)j;
+ღერო N;ERG(PL)	ერო N;ERG(PL)la N;ERG(
+ღერო N;ERG(PL;LGSPEC2)	ღერო N;ERG(PL;LGSPEC2)
+ღერო N;ERG(SG)	 ს ს ს ს ს ს ს 
+ღერო N;FRML(PL)	ერო N N N N N N N N N N 
+ღერო N;FRML(SG)	ოსასმენო N N 
+ღერო N;GEN(PL)	ღერო N;GEN(PL)an(PL)an
+ღერო N;GEN(PL;LGSPEC2)	რო N;GEN(PL;LGSPEC2);L
+ღერო N;GEN(SG)	ერო N;GEN(SG)f N;GEN(SG)
+ღერო N;INS(PL)	 ღერო N;INS(PL)at(PL)a
+ღერო N;INS(SG)	 ღერო N;INS(SG)f(SG)f(
+ღერო N;NOM(PL)	ოსასმენი N;NO
+ღერო N;NOM(PL;LGSPEC2)	ერო N;NOM(PL;LGSPEC2) N;
+ღერო N;NOM(SG)	ოსახეობო N;NO
+ღერო N;VOC(PL)	 ღერო N;VOC(PL)a N;VOC
+ღერო N;VOC(PL;LGSPEC2)	ლალალალა
+ღერო N;VOC(SG)	ვერო N;VOC(SG)and(SG)a
+ყვერული N;DAT(PL)	ინტერესი N;DAT
+ყვერული N;DAT(PL;LGSPEC2)	ყველი N;DAT(PL;LGSPE
+ყვერული N;DAT(SG)	მონასეული N;
+ყვერული N;ERG(PL)	მონუმუნური
+ყვერული N;ERG(PL;LGSPEC2)	ყვერული N;ERG(PL
+ყვერული N;ERG(SG)	მოყვერული N;
+ყვერული N;FRML(PL)	ინტერესი N;FRM
+ყვერული N;FRML(SG)	მონასეული N;
+ყვერული N;GEN(PL)	ინოვანი N;GEN(PL
+ყვერული N;GEN(PL;LGSPEC2)	ი N;GEN(PL;LGSPEC2)alpha-gly
+ყვერული N;GEN(SG)	ისტორიის მ
+ყვერული N;INS(PL)	ყვერული N;INS(PL
+ყვერული N;INS(SG)	ყვერული N;INS(SG
+ყვერული N;NOM(PL)	ანუკი N;NOM(PL)artic
+ყვერული N;NOM(PL;LGSPEC2)	ყველი N;NOM(PL;LGSPE
+ყვერული N;NOM(SG)	მონასეული N;
+ყვერული N;VOC(PL)	მონუმერული
+ყვერული N;VOC(PL;LGSPEC2)	მოსახლეობა
+ყვერული N;VOC(SG)	მონასეული N;
+შხაპი N;DAT(PL)	 შხაპი N;DAT(PL)at(P
+შხაპი N;DAT(PL;LGSPEC2)	შხაპი N;DAT(PL;LGSPE
+შხაპი N;DAT(SG)	(გამოშვია) N;D
+შხაპი N;ERG(PL)	 შხაპი N;ERG(PL)a N;
+შხაპი N;ERG(PL;LGSPEC2)	შხაპი N;ERG(PL;LGSPE
+შხაპი N;ERG(SG)	 შხაპი N;ERG(SG)a N;
+შხაპი N;FRML(PL)	შხაპი N;FRML(PL)aშ
+შხაპი N;FRML(SG)	შხაპი N;FRML(SG)frml
+შხაპი N;GEN(PL)	შხაპი N;GEN(PL)fშ
+შხაპი N;GEN(PL;LGSPEC2)	შხაპი N;GEN(PL;LGSPE
+შხაპი N;GEN(SG)	შხაპი N;GEN(SG)fშ
+შხაპი N;INS(PL)	შხაპი N;INS(PL)fშ
+შხაპი N;INS(SG)	შხაპი N;INS(SG)jშ
+შხაპი N;NOM(PL)	 შხაპი N;NOM(PL)age 
+შხაპი N;NOM(PL;LGSPEC2)	შხაპი N;NOM(PL;LGSPE
+შხაპი N;NOM(SG)	 შხაპი N;NOM(SG)a 
+შხაპი N;VOC(PL)	შხაპი N;VOC(PL)aceta
+შხაპი N;VOC(PL;LGSPEC2)	შხაპი N;VOC(PL;LGSPE
+შხაპი N;VOC(SG)	(SG)შხაპი N;VOC(SG)
+ჩქარობს V;COND;NOM(3,PL)	ადგილი ჩქა
+ჩქარობს V;COND;NOM(3,SG)	ინტერესებს
+ჩქარობს V;IND;FUT;NOM(2,SG)	არის ჩქარო
+ჩქარობს V;IND;FUT;NOM(3,PL)	არაუშავს ჩ
+ჩქარობს V;IND;FUT;NOM(3,SG)	არის ჩქარო
+ჩქარობს V;IND;IPFV;NOM(1,PL)	არსებობს V;IND
+ჩქარობს V;IND;IPFV;NOM(3,PL)	არის ჩქარო
+ჩქარობს V;IND;IPFV;NOM(3,SG)	ავიწყდება 
+ჩქარობს V;IND;PRF;NOM(2,PL)	ინტერესებს
+ჩქარობს V;IND;PRF;NOM(2,SG)	არსებობს ჩ
+ჩქარობს V;IND;PRS;NOM(3,PL)	მოსახლდება
+ჩქარობს V;IND;PST;PFV;NOM(1,PL)	არსებობს ჩ
+ჩქარობს V;IND;PST;PFV;NOM(1,SG)	ერთობლივ ჩ
+ჩქარობს V;IND;PST;PFV;NOM(3,PL)	არსებობს ჩ
+ჩქარობს V;IND;PST;PRF;NOM(1,PL)	მოსაზრების
+ჩქარობს V;IND;PST;PRF;NOM(3,SG)	არსებობს ჩ
+ჩქარობს V;OPT;NOM(1,PL)	მოსაზრება 
+ჩქარობს V;SBJV;FUT;NOM(1,SG)	ინტერესებს
+ჩქარობს V;SBJV;FUT;NOM(2,PL)	ინტერესებს
+ჩქარობს V;SBJV;FUT;NOM(3,PL)	ექსტრანი მ
+ჩქარობს V;SBJV;FUT;NOM(3,SG)	ინგლოვანებ
+ჩქარობს V;SBJV;PRF;NOM(2,SG)	ავიწყდება 
+ჩქარობს V;SBJV;PRF;NOM(3,PL)	არაფერს ჩქ
+ჩქარობს V;SBJV;PRS;NOM(2,PL)	ექსტრანი მ
+ჩქარობს V;SBJV;PRS;NOM(2,SG)	ის ჩქარობს 
+ჩქარობს V;SBJV;PRS;NOM(3,PL)	ექსტრანი ე
+ცერობი N;DAT(PL)	ომავები N,DAT(PL
+ცერობი N;DAT(PL;LGSPEC2)	მეტრი და ას
+ცერობი N;DAT(SG)	ომბომბოლი N;
+ცერობი N;ERG(PL)	ომარი N;ERG(PL)ka N;
+ცერობი N;ERG(PL;LGSPEC2)	მეტრიანი დ
+ცერობი N;ERG(SG)	ერობი N;ERG(SG)a N;E
+ცერობი N;FRML(PL)	ომარი N;FRML(PL)a 
+ცერობი N;FRML(SG)	ოლიმერობი N;
+ცერობი N;GEN(PL)	ცერობი N;GEN(PL)aa
+ცერობი N;GEN(PL;LGSPEC2)	ანი ანი ანი 
+ცერობი N;GEN(SG)	ცერობი N;GEN(SG)ag
+ცერობი N;INS(PL)	ომარი N,რომა
+ცერობი N;INS(SG)	ომარი მასა
+ცერობი N;NOM(PL)	მეტორი მეტ
+ცერობი N;NOM(PL;LGSPEC2)	მეტრიანი დ
+ცერობი N;NOM(SG)	მუდამები N;NOM
+ცერობი N;VOC(PL)	ცერობი N;VOC(PL)au
+ცერობი N;VOC(PL;LGSPEC2)	წრაფი ცერო
+ცერობი N;VOC(SG)	(SG)h);VOC(SG)h) ;VOC(SG)h) ;V
+ცური N;DAT(PL)	ისტები N;DAT(PL)at
+ცური N;DAT(PL;LGSPEC2)	 მენეჯმეტო
+ცური N;DAT(SG)	ისტორია N;DAT(SG
+ცური N;ERG(PL)	ი N;ERG(PL)a N;ERG(PL)a N;ER
+ცური N;ERG(PL;LGSPEC2)	ისტორუტი მ
+ცური N;ERG(SG)	ისტორია N;ERG(SG
+ცური N;FRML(PL)	ანური N;FRML(PL)ia 
+ცური N;FRML(SG)	ისტორია იმ
+ცური N;GEN(PL)	(PL)a)an(PL)a)an(PL)a)an(PL)a)
+ცური N;GEN(PL;LGSPEC2)	ისტორია მო
+ცური N;GEN(SG)	ისი N;GEN(SG)an N;GEN(SG
+ცური N;INS(PL)	ისი მეთქი მ
+ცური N;INS(SG)	 სახელი სახ
+ცური N;NOM(PL)	ისი N;NOM(PL)a(PL)a(PL)a
+ცური N;NOM(PL;LGSPEC2)	ცური N;NOM(PL;LGSPEC2)
+ცური N;VOC(PL)	ისი N;VOC(PL)japan N;VOC
+ცური N;VOC(PL;LGSPEC2)	ისტორია მე
+ცური N;VOC(SG)	ისტორია N;VOC(SG
+წონის V;COND;NOM(1,PL);ACC(2,PL)	ა წონის გამ
+წონის V;COND;NOM(1,PL);ACC(3,SG)	წონის გამო 
+წონის V;IND;IPFV;NOM(1,PL);ACC(2,PL)	 წონის V;IND;IPFV;
+წონის V;IND;IPFV;NOM(1,PL);ACC(3,SG)	წონის V;IND;IPFV;NOM
+წონის V;IND;IPFV;NOM(1,SG);ACC(3,PL)	წონის გამო
+წონის V;IND;IPFV;NOM(2,PL);ACC(3,PL)	 წონის V;IND;IPFV;
+წონის V;IND;PRS;NOM(3,SG);ACC(2,SG)	 წონის გ;IND;PRS
+წონის V;IND;PRS;NOM(3,SG);ACC(3,PL)	ის დაწონის 
+წონის V;IND;PST;PFV;NOM(1,PL);ACC(3,SG)	 წონის V;IND;PST;P
+წონის V;IND;PST;PFV;NOM(1,SG);ACC(2,PL)	წონის თანა
+წონის V;IND;PST;PFV;NOM(1,SG);ACC(3,PL)	წონის თავი
+წონის V;IND;PST;PFV;NOM(2,PL);ACC(1,PL)	 წონის V;IND;PST;P
+წონის V;IND;PST;PFV;NOM(2,SG);ACC(1,PL)	წონის თავი
+წონის V;IND;PST;PFV;NOM(3,SG);ACC(3,SG)	 წონის V;IND;PST;P
+წონის V;IND;PST;PRF;NOM(1,PL);ACC(2,SG)	წონის გამო
+წონის V;OPT;NOM(2,SG);ACC(1,PL)	დგილები წო
+წონის V;OPT;NOM(3,PL);ACC(1,PL)	რა წონის V;OPT
+წონის V;OPT;NOM(3,PL);ACC(2,SG)	 წონის V;OPT;NOM(3
+წონის V;OPT;NOM(3,SG);ACC(2,PL)	დგილები წო
+წონის V;SBJV;FUT;NOM(1,SG);ACC(3,PL)	წონის წონი
+წონის V;SBJV;FUT;NOM(3,PL);ACC(1,SG)	წონის წონი
+წონის V;SBJV;FUT;NOM(3,SG);ACC(1,SG)	წონის წონი
+წონის V;SBJV;PRF;NOM(1,PL);ACC(3,SG)	წონის გამო
+წონის V;SBJV;PRF;NOM(2,PL);ACC(3,SG)	 წონის V;SBJV;PRF;
+წონის V;SBJV;PRF;NOM(3,PL);ACC(2,SG)	 წონის V;SBJV;PRF;
+წონის V;SBJV;PRS;NOM(2,PL);ACC(1,PL)	 წონის წონ
+ჭილიბი N;DAT(PL)	ილიბი N;DAT(PL)at(PL
+ჭილიბი N;DAT(PL;LGSPEC2)	იბი N;DAT(PL;LGSPEC2)a;L
+ჭილიბი N;DAT(SG)	იბერიბერიბ
+ჭილიბი N;ERG(PL)	ინოლიბი N;ERG(PL
+ჭილიბი N;ERG(PL;LGSPEC2)	ჭილიბი N;ERG(PL;LG
+ჭილიბი N;ERG(SG)	ლიბი N;ERG(SG)arginine
+ჭილიბი N;FRML(PL)	ილიბი N;FRML(PL)arm(
+ჭილიბი N;FRML(SG)	ილიბი N;FRML(SG)ig;F
+ჭილიბი N;GEN(PL)	ინობი N;GEN(PL)aceta
+ჭილიბი N;GEN(PL;LGSPEC2)	ჭილიბი N;GEN(PL;LG
+ჭილიბი N;GEN(SG)	ლიბი N;GEN(SG)a N(SG
+ჭილიბი N;INS(PL)	ილიბი N;INS(PL)ag PL
+ჭილიბი N;INS(SG)	იბი N;INS(SG)
+ჭილიბი N;NOM(PL)	იბი N;NOM(PL)art NOM(PL)
+ჭილიბი N;NOM(PL;LGSPEC2)	იბი N;NOM(PL;LGSPEC2)alg
+ჭილიბი N;NOM(SG)	ჭილიბი N;NOM(SG)aa
+ჭილიბი N;VOC(PL)	ილიბი N;VOC(PL)ion(P
+ჭილიბი N;VOC(PL;LGSPEC2)	ჭილიბი ჭილ
+ჭილიბი N;VOC(SG)	ი N;VOC(SG)j N;VOC(SG)j N;VO
+ჭრის V;COND;NOM(2,PL);ACC(1,PL)	მონაწევები
+ჭრის V;IMP;NOM(2,PL);ACC(3,PL)	მოქმედების
+ჭრის V;IMP;NOM(3,SG);ACC(3,PL)	მოქმედების
+ჭრის V;IND;FUT;NOM(1,PL);ACC(3,PL)	მოძიების შ
+ჭრის V;IND;FUT;NOM(1,PL);ACC(3,SG)	მოქმედების
+ჭრის V;IND;FUT;NOM(1,SG);ACC(2,SG)	მოქმედების
+ჭრის V;IND;FUT;NOM(2,PL);ACC(3,SG)	მოქმედების
+ჭრის V;IND;FUT;NOM(3,SG);ACC(1,SG)	მოქმედების
+ჭრის V;IND;PRF;NOM(1,PL);ACC(2,PL)	ჭრის V;IND;PRF;NOM(1,P
+ჭრის V;IND;PRF;NOM(1,PL);ACC(2,SG)	მოქმედების
+ჭრის V;IND;PRF;NOM(2,SG);ACC(1,SG)	ჭრის ს ს ს ს 
+ჭრის V;IND;PRF;NOM(3,PL);ACC(1,PL)	მოჭრის V;IND;PRF;N
+ჭრის V;IND;PRF;NOM(3,PL);ACC(3,SG)	მოჭრის შემ
+ჭრის V;IND;PRS;NOM(1,PL);ACC(3,PL)	მწვანის ჭრ
+ჭრის V;IND;PRS;NOM(3,SG);ACC(1,SG)	მონასჭრის V;
+ჭრის V;IND;PST;PFV;NOM(3,PL);ACC(1,SG)	მოჭრის შემ
+ჭრის V;IND;PST;PFV;NOM(3,PL);ACC(2,SG)	მოჭრის შემ
+ჭრის V;IND;PST;PFV;NOM(3,SG);ACC(2,SG)	მოჭრის შემ
+ჭრის V;IND;PST;PRF;NOM(1,PL);ACC(2,PL)	მოჭრის შემ
+ჭრის V;IND;PST;PRF;NOM(2,PL);ACC(3,PL)	მოჭრის შ შ შ
+ჭრის V;OPT;NOM(3,PL);ACC(3,PL)	მჭრელების 
+ჭრის V;OPT;NOM(3,SG);ACC(1,SG)	ს შ შ შ შ შ შ 
+ჭრის V;SBJV;FUT;NOM(1,PL);ACC(2,PL)	მოძიების შ
+ჭრის V;SBJV;FUT;NOM(1,SG);ACC(2,PL)	მოძიების შ
+ჭრის V;SBJV;FUT;NOM(3,SG);ACC(3,SG)	ს ჭრის ჭრის 
+ჭრის V;SBJV;PRS;NOM(3,SG);ACC(1,PL)	მოჭრის შეჭ
+ხვართქლა N;DAT(PL)	ვართქლა N;DAT(PL
+ხვართქლა N;DAT(PL;LGSPEC2)	ვართქლა N;DAT(PL
+ხვართქლა N;DAT(SG)	ვართქლა N;DAT(SG
+ხვართქლა N;ERG(PL)	თქლა N;ERG(PL)ხვ
+ხვართქლა N;ERG(PL;LGSPEC2)	 ხვართქლა N;ER
+ხვართქლა N;ERG(SG)	თქლა N;ERG(SG)ხვ
+ხვართქლა N;FRML(PL)	 N;FRML(PL)ხვართქ
+ხვართქლა N;FRML(SG)	ვართქლა N;FRML(S
+ხვართქლა N;GEN(PL)	ხვართქლა N;GEN
+ხვართქლა N;GEN(PL;LGSPEC2)	 სამართქლა N
+ხვართქლა N;GEN(SG)	ხვართქლა N;GEN
+ხვართქლა N;INS(PL)	ხვართქლა N;INS
+ხვართქლა N;INS(SG)	ართქლა N;INS(SG)a 
+ხვართქლა N;NOM(PL)	ხვართქლა N;NOM
+ხვართქლა N;NOM(PL;LGSPEC2)	 ხვართქლა N;NO
+ხვართქლა N;NOM(SG)	თქლა N;NOM(SG)ხვ
+ხვართქლა N;VOC(PL)	ხვართქლა N;VOC
+ხვართქლა N;VOC(PL;LGSPEC2)	 ხვართქლა N;VO
+ხვართქლა N;VOC(SG)	ვართქლა N;VOC(SG
+ხვია N;DAT(PL)	ის ანუ ანუ ა
+ხვია N;DAT(PL;LGSPEC2)	 ა ა ა ა ა ა ა 
+ხვია N;DAT(SG)	(ისა) N;DAT(SG)j;DAT(SG)
+ხვია N;ERG(PL)	ხვია N;ERG(PL)ხვ
+ხვია N;ERG(PL;LGSPEC2)	 ა ა ა ა ა ა ა 
+ხვია N;ERG(SG)	ინტინოქსია
+ხვია N;FRML(PL)	ხვია N;FRML(PL)aხვ
+ხვია N;FRML(SG)	ხვია N;FRML(SG)მი
+ხვია N;GEN(PL)	ხვია N;GEN(PL)an(ხ
+ხვია N;GEN(PL;LGSPEC2)	 N;GEN(PL;LGSPEC2))))))))))))
+ხვია N;GEN(SG)	(SG)ა N;GEN(SG)ა N;GEN(SG)
+ხვია N;INS(PL)	 ა ა ა ა ა ა ა 
+ხვია N;INS(SG)	 და და და და 
+ხვია N;NOM(PL)	ხვია N;NOM(PL)araრ
+ხვია N;NOM(PL;LGSPEC2)	ხვია N;NOM(PL;LGSPEC2)
+ხვია N;NOM(SG)	ხვია N;NOM(SG)ag(დ
+ხვია N;VOC(PL)	იმეტარი ან
+ხვია N;VOC(PL;LGSPEC2)	ხვია N;VOC(PL;LGSPEC
+ხვია N;VOC(SG)	 მეტრია N;VOC(SG)a
+ხუმარა N;DAT(PL)	ხუმარა N;DAT(PL)aa
+ხუმარა N;DAT(PL;LGSPEC2)	ხუმარა N;DAT(PL;LG
+ხუმარა N;DAT(SG)	 ხუმარა N;DAT(SG)a
+ხუმარა N;ERG(PL)	ხუმარა N;ERG(PL)a
+ხუმარა N;ERG(PL;LGSPEC2)	ხუმარა ხუმ
+ხუმარა N;ERG(SG)	 ხუმარა N;ERG(SG)
+ხუმარა N;FRML(PL)	ხუმარა N;FRML(PL)a
+ხუმარა N;FRML(SG)	ხუმარა N;FRML(SG)
+ხუმარა N;GEN(PL)	ხუმარა N;GEN(PL)aa
+ხუმარა N;GEN(PL;LGSPEC2)	ხუმარა ხუმ
+ხუმარა N;GEN(SG)	ხუმარა N;GEN(SG)an
+ხუმარა N;INS(PL)	ხუმარა N;INS(PL)a
+ხუმარა N;INS(SG)	 ხუმარა N;INS(SG)a
+ხუმარა N;NOM(PL)	 ხუმარა N;NOM(PL)a
+ხუმარა N;NOM(PL;LGSPEC2)	ხუმარა N;NOM(PL;LG
+ხუმარა N;NOM(SG)	 N;NOM(SG)aხუმარა 
+ხუმარა N;VOC(PL)	 ხუმარა N;VOC(PL)a
+ხუმარა N;VOC(PL;LGSPEC2)	ხუმარა N;VOC(PL;LG
+ხუმარა N;VOC(SG)	ხუმარა N;VOC(SG)ar
+ჰქვია V;IND;FUT;NOM(1,PL)	ჰქვია V;IND;FUT;NOM;
+ჰქვია V;IND;FUT;NOM(1,SG)	სახეობს სა
+ჰქვია V;IND;FUT;NOM(2,PL)	ჰქვია V;IND;FUT;NOM;
+ჰქვია V;IND;FUT;NOM(2,SG)	სახეობა და 
+ჰქვია V;IND;FUT;NOM(3,PL)	ის ჰქვის V;IND;F
+ჰქვია V;IND;FUT;NOM(3,SG)	სახეობა და 
+ჰქვია V;IND;PRF;NOM(2,PL)	ის ჰქვის V დ
+ჰქვია V;IND;PRF;NOM(2,SG)	სახეობა და 
+ჰქვია V;IND;PRF;NOM(3,PL)	ის ჰქვის ჰქ
+ჰქვია V;IND;PRF;NOM(3,SG)	სახეობა და 
+ჰქვია V;IND;PRS;NOM(1,PL)	ჰქვია V;IND;PRS;NOM(
+ჰქვია V;IND;PRS;NOM(1,SG)	სახეობა და 
+ჰქვია V;IND;PRS;NOM(2,SG)	ს ჰქვია V;IND;PRS;
+ჰქვია V;IND;PRS;NOM(3,PL)	ის ჰქვის V;IND;P
+ჰქვია V;IND;PRS;NOM(3,SG)	ს ჰქვია V;IND;PRS;
+ჰქვია V;IND;PST;PFV;NOM(1,PL)	ჰქვინა V;IND;PST;P
+ჰქვია V;IND;PST;PFV;NOM(1,SG)	სახეობა V;IND;PS
+ჰქვია V;IND;PST;PFV;NOM(2,PL)	ჰქვია V;IND;PST;PFV;
+ჰქვია V;IND;PST;PFV;NOM(3,PL)	ჰქვინა V;IND;PST;P
+ჰქვია V;IND;PST;PRF;NOM(2,SG)	სახეობს სა
+ჰქვია V;IND;PST;PRF;NOM(3,PL)	მეტად მეტა
+ჰქვია V;IND;PST;PRF;NOM(3,SG)	მონაცემები
+ჰქვია V;OPT;NOM(1,PL)	ის მეცნიერ
+ჰქვია V;OPT;NOM(2,PL)	ის ჰქვია V;OPT;N
+ჰქვია V;OPT;NOM(2,SG)	ის ჰქვის V;OPT;N
+ჰქვია V;OPT;NOM(3,SG)	ის ჰქვია V;OPT;N

@@ -1,0 +1,1264 @@
+Generate the inflected form for: Βισάλτης N;ACC(DU)	αλτης N;ACC(DU);ACC(DU);A
+Generate the inflected form for: Βισάλτης N;ACC(PL)	αλτης N;ACC(PL) N;ACC(PL)
+Generate the inflected form for: Βισάλτης N;ACC(SG)	αλτης N;ACC(SG) N;ACC(SG)
+Generate the inflected form for: Βισάλτης N;DAT(DU)	λτης N;DAT(DU)
+Βισάλ
+Generate the inflected form for: Βισάλτης N;DAT(PL)	λτης N;DAT(PL)
+Βισάλ
+Generate the inflected form for: Βισάλτης N;DAT(SG)	λτης N;DAT(SG) N;DAT(SG) N
+Generate the inflected form for: Βισάλτης N;GEN(DU)	λτης N;GEN(DU)
+Βισάλ
+Generate the inflected form for: Βισάλτης N;GEN(PL)	λτης N;GEN(PL)
+Βισάλ
+Generate the inflected form for: Βισάλτης N;GEN(SG)	λτης N;GEN(SG)
+Βισάλ
+Generate the inflected form for: Βισάλτης N;NOM(DU)	λτης N;NOM(DU) Βισάλ
+Generate the inflected form for: Βισάλτης N;NOM(PL)	λτης N;NOM(PL)
+Βισάλ
+Generate the inflected form for: Βισάλτης N;NOM(SG)	λτης N;NOM(SG)
+Βισάλ
+Generate the inflected form for: Βισάλτης N;VOC(DU)	βισάλτης N;VOC(DU) N;V
+Generate the inflected form for: Βισάλτης N;VOC(PL)	λτης N;VOC(PL)
+Βισάλ
+Generate the inflected form for: Βισάλτης N;VOC(SG)	βισάλτης N;VOC(SG)
+Β
+Generate the inflected form for: Μασσαλιώτης N;ACC(DU)	αντικαντικαντικ
+Generate the inflected form for: Μασσαλιώτης N;ACC(PL)	ασσολιώτης N;ACC(PL)
+Generate the inflected form for: Μασσαλιώτης N;ACC(SG)	αλιώτης N;ACC(SG) N;ACC
+Generate the inflected form for: Μασσαλιώτης N;DAT(DU)	μασσασσασσασσασ
+Generate the inflected form for: Μασσαλιώτης N;DAT(PL)	ασσαλιώτης N;DAT(PL)
+Generate the inflected form for: Μασσαλιώτης N;DAT(SG)	ασσασασασασασασ
+Generate the inflected form for: Μασσαλιώτης N;GEN(DU)	ασσαλιώτης N;GEN(DU)
+Generate the inflected form for: Μασσαλιώτης N;GEN(PL)	ασσαλιώτης N;GEN(PL)
+Generate the inflected form for: Μασσαλιώτης N;GEN(SG)	ασσαλιώτης N;GEN(SG)
+Generate the inflected form for: Μασσαλιώτης N;NOM(DU)	μασσαλιώτης N;NOM(D
+Generate the inflected form for: Μασσαλιώτης N;NOM(PL)	ασσαλιώτης N;NOM(PL)
+Generate the inflected form for: Μασσαλιώτης N;NOM(SG)	ασσαλιώτης N;NOM(SG)
+Generate the inflected form for: Μασσαλιώτης N;VOC(DU)	ααααααααααααααα
+Generate the inflected form for: Μασσαλιώτης N;VOC(PL)	ασσαλιώτης N;VOC(PL)
+Generate the inflected form for: Μασσαλιώτης N;VOC(SG)	αλιώτης N;VOC(SG)
+Μα
+Generate the inflected form for: Μιθριακός ADJ;ACC(DU;MASC)	ακός ADJ;ACC(DU;MASC) ADJ;
+Generate the inflected form for: Μιθριακός ADJ;ACC(DU;NEUT)	ακός ADJ;ACC(DU;NEUT)
+Μι
+Generate the inflected form for: Μιθριακός ADJ;ACC(PL;FEM)	ακός ADJ;ACC(PL;FEM) ADJ;A
+Generate the inflected form for: Μιθριακός ADJ;ACC(PL;MASC)	ακός ADJ;ACC(PL;MASC) ADJ;
+Generate the inflected form for: Μιθριακός ADJ;ACC(PL;NEUT)	ακός ADJ;ACC(PL;NEUT)
+Μι
+Generate the inflected form for: Μιθριακός ADJ;ACC(SG;FEM)	ανακαλλιενίας ADJ
+Generate the inflected form for: Μιθριακός ADJ;DAT(DU;FEM)	σσσσσσσσσσσσσσσ
+Generate the inflected form for: Μιθριακός ADJ;DAT(DU;MASC)	ανακλάσιο ADJ;DAT(DU;
+Generate the inflected form for: Μιθριακός ADJ;DAT(PL;MASC)	ανακλάσας ADJ;DAT(PL;
+Generate the inflected form for: Μιθριακός ADJ;DAT(SG;FEM)	ακός ADJ;DAT(SG;FEM)Μιθ
+Generate the inflected form for: Μιθριακός ADJ;DAT(SG;MASC)	ανθοπούλου ADJ;DAT(S
+Generate the inflected form for: Μιθριακός ADJ;DAT(SG;NEUT)	ακός ADJ;DAT(SG;NEUT)
+Μι
+Generate the inflected form for: Μιθριακός ADJ;GEN(DU;FEM)	σουριακός ADJ;GEN(DU;
+Generate the inflected form for: Μιθριακός ADJ;GEN(DU;MASC)	ακός ADJ;GEN(DU;MASC)
+Μι
+Generate the inflected form for: Μιθριακός ADJ;GEN(DU;NEUT)	ακός ADJ;GEN(DU;NEUT)
+Μι
+Generate the inflected form for: Μιθριακός ADJ;GEN(PL;MASC)	ιθριακός ADJ;GEN(PL;MA
+Generate the inflected form for: Μιθριακός ADJ;GEN(PL;NEUT)	ακός ADJ;GEN(PL;NEUT)
+Μι
+Generate the inflected form for: Μιθριακός ADJ;GEN(SG;FEM)	ακός ADJ;GEN(SG;FEM)
+Μι
+Generate the inflected form for: Μιθριακός ADJ;GEN(SG;MASC)	ακός ADJ;GEN(SG;MASC)
+Μι
+Generate the inflected form for: Μιθριακός ADJ;GEN(SG;NEUT)	λαδικός ADJ;GEN(SG;NEUT
+Generate the inflected form for: Μιθριακός ADJ;NOM(DU;FEM)	ακός ADJ;NOM(DU;FEM) ADJ;N
+Generate the inflected form for: Μιθριακός ADJ;NOM(DU;MASC)	ς ADJ;NOM(DU;MASC)
+Μιθρι
+Generate the inflected form for: Μιθριακός ADJ;NOM(DU;NEUT)	ακός ADJ;NOM(DU;NEUT)
+Μι
+Generate the inflected form for: Μιθριακός ADJ;NOM(PL;FEM)	ακός ADJ;NOM(PL;FEM)
+Gener
+Generate the inflected form for: Μιθριακός ADJ;NOM(PL;MASC)	ακός ADJ;NOM(PL;MASC)
+Μι
+Generate the inflected form for: Μιθριακός ADJ;NOM(PL;NEUT)	ακός ADJ;NOM(PL;NEUT)
+Μι
+Generate the inflected form for: Μιθριακός ADJ;NOM(SG;FEM)	ανθοποιητικός ADJ
+Generate the inflected form for: Μιθριακός ADJ;VOC(DU;MASC)	 ADJ;VOC(DU;MASC)
+Μιθρια
+Generate the inflected form for: Μιθριακός ADJ;VOC(PL;FEM)	ακός ADJ;VOC(PL;FEM)(PL;FE
+Generate the inflected form for: Μιθριακός ADJ;VOC(PL;NEUT)	ακός ADJ;VOC(PL;NEUT)
+Μι
+Generate the inflected form for: Μιθριακός ADJ;VOC(SG;FEM)	αναλάβαση μιθρι
+Generate the inflected form for: Μιθριακός ADJ;VOC(SG;MASC)	αναλογικός ADJ;VOC(S
+Generate the inflected form for: Μιθριακός ADJ;VOC(SG;NEUT)	ακός ADJ;VOC(SG;NEUT)
+Μι
+Generate the inflected form for: αἴγιλος N;ACC(DU)	αγιλος N;ACC(DU);ACC(DU)
+Generate the inflected form for: αἴγιλος N;ACC(PL)	αγιλος N;ACC(PL);ACC(PL)
+Generate the inflected form for: αἴγιλος N;ACC(SG)	αγιλος N;ACC(SG);ACC(SG)
+Generate the inflected form for: αἴγιλος N;DAT(DU)	γιλος N;DAT(DU)
+αἴγι
+Generate the inflected form for: αἴγιλος N;DAT(PL)	αγιλος N;DAT(PL) αἴγ
+Generate the inflected form for: αἴγιλος N;DAT(SG)	λος N;DAT(SG) N;DAT(SG) N;D
+Generate the inflected form for: αἴγιλος N;GEN(DU)	γιλος N;GEN(DU) for: α
+Generate the inflected form for: αἴγιλος N;GEN(PL)	γιλος N;GEN(PL)
+αἴγι
+Generate the inflected form for: αἴγιλος N;GEN(SG)	αγιλος N;GEN(SG)
+αἴγ
+Generate the inflected form for: αἴγιλος N;NOM(DU)	γιλος N;NOM(DU) αἴγι
+Generate the inflected form for: αἴγιλος N;NOM(PL)	αγιλος N;NOM(PL) αἴγ
+Generate the inflected form for: αἴγιλος N;NOM(SG)	γιλος N;NOM(SG)
+αἴγι
+Generate the inflected form for: αἴγιλος N;VOC(DU)	αγιλος N;VOC(DU);VOC(DU)
+Generate the inflected form for: αἴγιλος N;VOC(PL)	αγιλος N;VOC(PL);VOC(PL)
+Generate the inflected form for: αἴγιλος N;VOC(SG)	αγιλος N;VOC(SG);VOC(SG)
+Generate the inflected form for: αὔρα N;ACC(DU)	ααααααααααααααα
+Generate the inflected form for: αὔρα N;ACC(PL)	αναρα N;ACC(PL);ACC(PL);A
+Generate the inflected form for: αὔρα N;ACC(SG)	αναρα N;ACC(SG);ACC(SG);A
+Generate the inflected form for: αὔρα N;DAT(DU)	αναρα N;DAT(DU) N;DAT(DU)
+Generate the inflected form for: αὔρα N;DAT(PL)	ρα N;DAT(PL) αὔρα N;DAT
+Generate the inflected form for: αὔρα N;DAT(SG)	αναρα N;DAT(SG);DAT(SG);D
+Generate the inflected form for: αὔρα N;GEN(DU)	ααααααααααααααα
+Generate the inflected form for: αὔρα N;GEN(PL)	ααααααααααααααα
+Generate the inflected form for: αὔρα N;GEN(SG)	ααααααααααααααα
+Generate the inflected form for: αὔρα N;NOM(DU)	αρα N;NOM(DU) αὔρα N;N
+Generate the inflected form for: αὔρα N;NOM(PL)	ααααααααααααααα
+Generate the inflected form for: αὔρα N;NOM(SG)	αναρα N;NOM(SG) αὔρα
+Generate the inflected form for: αὔρα N;VOC(DU)	αρα N;VOC(DU);VOC(DU);VOC(D
+Generate the inflected form for: αὔρα N;VOC(PL)	ααααααααααααααα
+Generate the inflected form for: αὔρα N;VOC(SG)	ααααααααααααααα
+Generate the inflected form for: βραχύτης N;ACC(DU)	βραχύτης N;ACC(DU) N;A
+Generate the inflected form for: βραχύτης N;ACC(PL)	της N;ACC(PL)
+βραχύτ
+Generate the inflected form for: βραχύτης N;ACC(SG)	της N;ACC(SG) N;ACC(SG) N;A
+Generate the inflected form for: βραχύτης N;DAT(DU)	βραχύτης N;DAT(DU)
+β
+Generate the inflected form for: βραχύτης N;DAT(PL)	της N;DAT(PL);DAT(PL);DAT(P
+Generate the inflected form for: βραχύτης N;DAT(SG)	της N;DAT(SG) N;DAT(SG) N;D
+Generate the inflected form for: βραχύτης N;GEN(DU)	της N;GEN(DU) for: βραχ
+Generate the inflected form for: βραχύτης N;GEN(PL)	της N;GEN(PL)
+βραχύτ
+Generate the inflected form for: βραχύτης N;GEN(SG)	της N;GEN(SG)
+βραχύτ
+Generate the inflected form for: βραχύτης N;NOM(DU)	βραχύτης N;NOM(DU)
+β
+Generate the inflected form for: βραχύτης N;NOM(PL)	της N;NOM(PL)
+βραχύτ
+Generate the inflected form for: βραχύτης N;NOM(SG)	βραχύτης N;NOM(SG)
+β
+Generate the inflected form for: βραχύτης N;VOC(DU)	της N;VOC(DU) N;VOC(DU) N;V
+Generate the inflected form for: βραχύτης N;VOC(PL)	στολή N;VOC(PL) N;VOC(PL)
+Generate the inflected form for: βραχύτης N;VOC(SG)	της N;VOC(SG) N;VOC(SG) N;V
+Generate the inflected form for: γοεδνός ADJ;ACC(DU;FEM)	γοεδνός ADJ;ACC(DU;FEM)
+Generate the inflected form for: γοεδνός ADJ;ACC(DU;NEUT)	ς ADJ;ACC(DU;NEUT)
+γοεδν
+Generate the inflected form for: γοεδνός ADJ;ACC(PL;FEM)	γοεδνός ADJ;ACC(PL;FEM)
+Generate the inflected form for: γοεδνός ADJ;ACC(PL;NEUT)	ς ADJ;ACC(PL;NEUT) ADJ;ACC(PL
+Generate the inflected form for: γοεδνός ADJ;ACC(SG;FEM)	γοεδνός ADJ;ACC(SG;FEM)
+Generate the inflected form for: γοεδνός ADJ;ACC(SG;NEUT)	ς ADJ;ACC(SG;NEUT)
+γοεδν
+Generate the inflected form for: γοεδνός ADJ;DAT(DU;MASC)	γοεδνος ADJ;DAT(DU;MASC
+Generate the inflected form for: γοεδνός ADJ;DAT(DU;NEUT)	ς ADJ;DAT(DU;NEUT)
+γοεδν
+Generate the inflected form for: γοεδνός ADJ;DAT(PL;MASC)	γοεδνος ADJ;DAT(PL;MASC
+Generate the inflected form for: γοεδνός ADJ;DAT(SG;FEM)	γοεδνός ADJ;DAT(SG;FEM)
+Generate the inflected form for: γοεδνός ADJ;DAT(SG;MASC)	γοεδνος ADJ;DAT(SG;MASC
+Generate the inflected form for: γοεδνός ADJ;DAT(SG;NEUT)	ς ADJ;DAT(SG;NEUT)
+γοεδν
+Generate the inflected form for: γοεδνός ADJ;GEN(DU;MASC)	ς ADJ;GEN(DU;MASC)
+γοεδν
+Generate the inflected form for: γοεδνός ADJ;GEN(DU;NEUT)	γοεδνός ADJ;GEN(DU;NEUT
+Generate the inflected form for: γοεδνός ADJ;GEN(PL;FEM)	γοεδνός ADJ;GEN(PL;FEM)
+Generate the inflected form for: γοεδνός ADJ;GEN(PL;MASC)	γοεδνός ADJ;GEN(PL;MASC
+Generate the inflected form for: γοεδνός ADJ;GEN(SG;FEM)	γοεδνός ADJ;GEN(SG;FEM)
+Generate the inflected form for: γοεδνός ADJ;GEN(SG;MASC)	ς ADJ;GEN(SG;MASC)
+γοεδν
+Generate the inflected form for: γοεδνός ADJ;GEN(SG;NEUT)	γοεδνός ADJ;GEN(SG;NEUT
+Generate the inflected form for: γοεδνός ADJ;NOM(DU;FEM)	γοεδνός ADJ;NOM(DU;FEM)
+Generate the inflected form for: γοεδνός ADJ;NOM(DU;NEUT)	γοεδνός ADJ;NOM(DU;NEUT
+Generate the inflected form for: γοεδνός ADJ;NOM(PL;FEM)	γοεδνός ADJ;NOM(PL;FEM)
+Generate the inflected form for: γοεδνός ADJ;NOM(PL;NEUT)	γοεδνός ADJ;NOM(PL;NEUT
+Generate the inflected form for: γοεδνός ADJ;NOM(SG;FEM)	γοεδνός ADJ;NOM(SG;FEM)
+Generate the inflected form for: γοεδνός ADJ;NOM(SG;MASC)	ς ADJ;NOM(SG;MASC) ADJ;NOM(SG
+Generate the inflected form for: γοεδνός ADJ;VOC(DU;FEM)	γοεδνός ADJ;VOC(DU;FEM)
+Generate the inflected form for: γοεδνός ADJ;VOC(DU;NEUT)	ς ADJ;VOC(DU;NEUT) ADJ;VOC(DU
+Generate the inflected form for: γοεδνός ADJ;VOC(PL;FEM)	γοεδνός ADJ;VOC(PL;FEM)
+Generate the inflected form for: γοεδνός ADJ;VOC(PL;MASC)	ς ADJ;VOC(PL;MASC)
+γοεδν
+Generate the inflected form for: γοεδνός ADJ;VOC(PL;NEUT)	ς ADJ;VOC(PL;NEUT)
+γοεδν
+Generate the inflected form for: γοεδνός ADJ;VOC(SG;FEM)	γοεδνός ADJ;VOC(SG;FEM)
+Generate the inflected form for: γοεδνός ADJ;VOC(SG;MASC)	γοεδνός ADJ;VOC(SG;MASC
+Generate the inflected form for: γοεδνός ADJ;VOC(SG;NEUT)	ς ADJ;VOC(SG;NEUT)
+γοεδν
+Generate the inflected form for: διθυμία N;ACC(DU)	ανθυμία N;ACC(DU) N;ACC
+Generate the inflected form for: διθυμία N;ACC(PL)	θυμία N;ACC(PL) N;ACC(PL)
+Generate the inflected form for: διθυμία N;ACC(SG)	θυμία N;ACC(SG) N;ACC(SG)
+Generate the inflected form for: διθυμία N;DAT(DU)	διθυμία N;DAT(DU)
+δι
+Generate the inflected form for: διθυμία N;DAT(PL)	θυμία N;DAT(PL);DAT(PL);D
+Generate the inflected form for: διθυμία N;DAT(SG)	α διθυμία N;DAT(SG) δ
+Generate the inflected form for: διθυμία N;GEN(DU)	διθυμία N;GEN(DU) δι
+Generate the inflected form for: διθυμία N;GEN(PL)	αδιθυμία N;GEN(PL) δ
+Generate the inflected form for: διθυμία N;GEN(SG)	διθυμία N;GEN(SG)
+δι
+Generate the inflected form for: διθυμία N;NOM(DU)	θυμία N;NOM(DU) διθυ
+Generate the inflected form for: διθυμία N;NOM(PL)	θυμία N;NOM(PL) διθυ
+Generate the inflected form for: διθυμία N;NOM(SG)	θυμία N;NOM(SG)
+διθυ
+Generate the inflected form for: διθυμία N;VOC(DU)	διθυμία N;VOC(DU) N;VOC
+Generate the inflected form for: διθυμία N;VOC(PL)	διθυμία N;VOC(PL);VOC(P
+Generate the inflected form for: διθυμία N;VOC(SG)	διθυμία N;VOC(SG)
+δι
+Generate the inflected form for: δορκάς N;ACC(DU)	 δορκάς N;ACC(DU) δορ
+Generate the inflected form for: δορκάς N;ACC(PL)	δορκάς N;ACC(PL) N;ACC(P
+Generate the inflected form for: δορκάς N;ACC(SG)	 δορκάς N;ACC(SG) N;ACC(
+Generate the inflected form for: δορκάς N;DAT(DU)	δορκάς N;DAT(DU) N;DAT(D
+Generate the inflected form for: δορκάς N;DAT(PL)	δορκάς N;DAT(PL) N;DAT(P
+Generate the inflected form for: δορκάς N;DAT(SG)	δορκάς N;DAT(SG) N;DAT(S
+Generate the inflected form for: δορκάς N;GEN(DU)	δορκάς N;GEN(DU) δορ
+Generate the inflected form for: δορκάς N;GEN(PL)	ς N;GEN(PL) δορκάς N;GE
+Generate the inflected form for: δορκάς N;GEN(SG)	δορκάς N;GEN(SG) for: δ
+Generate the inflected form for: δορκάς N;NOM(DU)	λάς N;NOM(DU) δορκάς 
+Generate the inflected form for: δορκάς N;NOM(PL)	λάς N;NOM(PL) δορκάς 
+Generate the inflected form for: δορκάς N;NOM(SG)	δορκάς N;NOM(SG)
+δορ
+Generate the inflected form for: δορκάς N;VOC(DU)	 N;VOC(DU) N;VOC(DU) N;VOC(DU)
+Generate the inflected form for: δορκάς N;VOC(PL)	ς N;VOC(PL) N;VOC(PL) N;VOC(P
+Generate the inflected form for: δορκάς N;VOC(SG)	δορκάς N;VOC(SG)
+δορ
+Generate the inflected form for: θήρα N;ACC(DU)	ήρα N;ACC(DU)
+θήρα N;AC
+Generate the inflected form for: θήρα N;ACC(PL)	ήρα N;ACC(PL) N;ACC(PL) N;A
+Generate the inflected form for: θήρα N;ACC(SG)	ήρα N;ACC(SG) N;ACC(SG) N;A
+Generate the inflected form for: θήρα N;DAT(DU)	θήρα N;DAT(DU) θήρα N;
+Generate the inflected form for: θήρα N;DAT(PL)	ήρα N;DAT(PL) θήρα N;DA
+Generate the inflected form for: θήρα N;DAT(SG)	ήρα N;DAT(SG);DAT(SG);DAT(S
+Generate the inflected form for: θήρα N;GEN(DU)	θήρα N;GEN(DU)
+θήρα N;
+Generate the inflected form for: θήρα N;GEN(PL)	θήρα N;GEN(PL) θήρα N;
+Generate the inflected form for: θήρα N;GEN(SG)	θήρα N;GEN(SG) for: θήρ
+Generate the inflected form for: θήρα N;NOM(DU)	θήρα N;NOM(DU) θήρα N;
+Generate the inflected form for: θήρα N;NOM(PL)	θήρα N;NOM(PL) θήρα N;
+Generate the inflected form for: θήρα N;NOM(SG)	θήρα N;NOM(SG) θήρα N;
+Generate the inflected form for: θήρα N;VOC(DU)	θήρα N;VOC(DU) θήρα N;
+Generate the inflected form for: θήρα N;VOC(PL)	θήρα N;VOC(PL)
+θήρα N;
+Generate the inflected form for: θήρα N;VOC(SG)	θήρα N;VOC(SG)
+θήρα N;
+Generate the inflected form for: θρεπτικός ADJ;ACC(DU;FEM)	αθρεπτικός ADJ;ACC(D
+Generate the inflected form for: θρεπτικός ADJ;ACC(DU;MASC)	λεπτικός ADJ;ACC(DU;MA
+Generate the inflected form for: θρεπτικός ADJ;ACC(DU;NEUT)	αθρεπτικός ADJ;ACC(D
+Generate the inflected form for: θρεπτικός ADJ;ACC(PL;MASC)	λεπτικός ADJ;ACC(PL;MA
+Generate the inflected form for: θρεπτικός ADJ;ACC(PL;NEUT)	αθρεπτικός ADJ;ACC(P
+Generate the inflected form for: θρεπτικός ADJ;ACC(SG;FEM)	ανθοπτικός ADJ;ACC(S
+Generate the inflected form for: θρεπτικός ADJ;ACC(SG;MASC)	λεπτικός ADJ;ACC(SG;MA
+Generate the inflected form for: θρεπτικός ADJ;ACC(SG;NEUT)	λειτουργικός ADJ;A
+Generate the inflected form for: θρεπτικός ADJ;DAT(DU;FEM)	ρεπτικός ADJ;DAT(DU;FE
+Generate the inflected form for: θρεπτικός ADJ;DAT(DU;NEUT)	ρεπτικός ADJ;DAT(DU;NE
+Generate the inflected form for: θρεπτικός ADJ;DAT(PL;FEM)	ρεπτικός ADJ;DAT(PL;FE
+Generate the inflected form for: θρεπτικός ADJ;DAT(PL;NEUT)	ρεπτικός ADJ;DAT(PL;NE
+Generate the inflected form for: θρεπτικός ADJ;DAT(SG;FEM)	λευκός ADJ;DAT(SG;FEM)
+
+Generate the inflected form for: θρεπτικός ADJ;DAT(SG;MASC)	ανθοπτικός ADJ;DAT(S
+Generate the inflected form for: θρεπτικός ADJ;GEN(DU;NEUT)	λειτουργικός ADJ;G
+Generate the inflected form for: θρεπτικός ADJ;GEN(PL;MASC)	λεπτικός ADJ;GEN(PL;MA
+Generate the inflected form for: θρεπτικός ADJ;GEN(PL;NEUT)	λειτουργικός ADJ;G
+Generate the inflected form for: θρεπτικός ADJ;GEN(SG;MASC)	λεπτικός ADJ;GEN(SG;MA
+Generate the inflected form for: θρεπτικός ADJ;GEN(SG;NEUT)	λειτουργικός ADJ;G
+Generate the inflected form for: θρεπτικός ADJ;NOM(DU;MASC)	θρεπτικός ADJ;NOM(DU;
+Generate the inflected form for: θρεπτικός ADJ;NOM(DU;NEUT)	λευκός ADJ;NOM(DU;NEUT)
+
+Generate the inflected form for: θρεπτικός ADJ;NOM(PL;MASC)	θρεπτικός ADJ;NOM(PL;
+Generate the inflected form for: θρεπτικός ADJ;NOM(SG;NEUT)	λειτουργικός ADJ;N
+Generate the inflected form for: θρεπτικός ADJ;VOC(DU;FEM)	λειτουργία από θ
+Generate the inflected form for: θρεπτικός ADJ;VOC(DU;MASC)	αθρεπτικός ADJ;VOC(D
+Generate the inflected form for: θρεπτικός ADJ;VOC(DU;NEUT)	ρεπτικός ADJ;VOC(DU;NE
+Generate the inflected form for: θρεπτικός ADJ;VOC(PL;FEM)	λειτουργία ADJ;VOC(P
+Generate the inflected form for: θρεπτικός ADJ;VOC(PL;MASC)	ανθοπτικός ADJ;VOC(P
+Generate the inflected form for: θρεπτικός ADJ;VOC(PL;NEUT)	ρεπτικός ADJ;VOC(PL;NE
+Generate the inflected form for: θρεπτικός ADJ;VOC(SG;FEM)	αθρεπτικός ADJ;VOC(S
+Generate the inflected form for: θρεπτικός ADJ;VOC(SG;MASC)	λεπτικός ADJ;VOC(SG;MA
+Generate the inflected form for: θρεπτικός ADJ;VOC(SG;NEUT)	θρεπτικός ADJ;VOC(SG;
+Generate the inflected form for: θυγάτηρ N;ACC(DU)	σσσσσσσσσσσσσσσ
+Generate the inflected form for: θυγάτηρ N;ACC(PL)	ραμβού N;ACC(PL) N;ACC(P
+Generate the inflected form for: θυγάτηρ N;ACC(SG)	γάτηρ N;ACC(SG) N;ACC(SG)
+Generate the inflected form for: θυγάτηρ N;DAT(DU)	γάτηρ N;DAT(DU) θυγά
+Generate the inflected form for: θυγάτηρ N;DAT(PL)	υγάτηρ N;DAT(PL);DAT(PL)
+Generate the inflected form for: θυγάτηρ N;DAT(SG)	γάτης N;DAT(SG) θυγά
+Generate the inflected form for: θυγάτηρ N;GEN(DU)	γάτηρ N;GEN(DU)
+θυγά
+Generate the inflected form for: θυγάτηρ N;GEN(PL)	θυγάτηρ N;GEN(PL)
+θυ
+Generate the inflected form for: θυγάτηρ N;GEN(SG)	θυγάτηρ N;GEN(SG)
+θυ
+Generate the inflected form for: θυγάτηρ N;NOM(DU)	θυγάτηρ N;NOM(DU)
+θυ
+Generate the inflected form for: θυγάτηρ N;NOM(PL)	θυγάτηρ N;NOM(PL)
+θυ
+Generate the inflected form for: θυγάτηρ N;NOM(SG)	θυγάτηρ N;NOM(SG)
+θυ
+Generate the inflected form for: θυγάτηρ N;VOC(DU)	ρητικής και καθα
+Generate the inflected form for: θυγάτηρ N;VOC(PL)	ρητικός θυγάτηρ 
+Generate the inflected form for: θυγάτηρ N;VOC(SG)	ραμβής θυγάτηρ N;
+Generate the inflected form for: καδμία N;ACC(DU)	 N;ACC(DU) N;ACC(DU) N;ACC(DU)
+Generate the inflected form for: καδμία N;ACC(PL)	καδμία N;ACC(PL) N;ACC(P
+Generate the inflected form for: καδμία N;ACC(SG)	καδμία N;ACC(SG) N;ACC(S
+Generate the inflected form for: καδμία N;DAT(DU)	αδμία N;DAT(DU)
+καδμ
+Generate the inflected form for: καδμία N;DAT(PL)	αδμία N;DAT(PL)
+καδμ
+Generate the inflected form for: καδμία N;DAT(SG)	αδμία N;DAT(SG);DAT(SG);D
+Generate the inflected form for: καδμία N;GEN(DU)	καδμία N;GEN(DU) for: κ
+Generate the inflected form for: καδμία N;GEN(PL)	καδμία N;GEN(PL) καδ
+Generate the inflected form for: καδμία N;GEN(SG)	καδμία N;GEN(SG) for: κ
+Generate the inflected form for: καδμία N;NOM(DU)	καδμία N;NOM(DU) καδ
+Generate the inflected form for: καδμία N;NOM(PL)	καδμία N;NOM(PL) καδ
+Generate the inflected form for: καδμία N;NOM(SG)	καδμία N;NOM(SG)
+καδ
+Generate the inflected form for: καδμία N;VOC(DU)	καδμία N;VOC(DU);VOC(DU)
+Generate the inflected form for: καδμία N;VOC(PL)	καδμία N;VOC(PL)
+καδ
+Generate the inflected form for: καδμία N;VOC(SG)	καδμία N;VOC(SG);VOC(SG)
+Generate the inflected form for: κενταύριον N;ACC(DU)	ανταύριον N;ACC(DU) N
+Generate the inflected form for: κενταύριον N;ACC(PL)	νταύριον N;ACC(PL) N;A
+Generate the inflected form for: κενταύριον N;ACC(SG)	νταύριον N;ACC(SG);ACC
+Generate the inflected form for: κενταύριον N;DAT(DU)	νταύριον N;DAT(DU)
+κ
+Generate the inflected form for: κενταύριον N;DAT(PL)	νταύριον N;DAT(PL)
+κ
+Generate the inflected form for: κενταύριον N;DAT(SG)	νταύριον N;DAT(SG) N;D
+Generate the inflected form for: κενταύριον N;GEN(DU)	κενταύριον N;GEN(DU)
+Generate the inflected form for: κενταύριον N;GEN(PL)	νταύριον N;GEN(PL)
+κ
+Generate the inflected form for: κενταύριον N;GEN(SG)	νταύριον N;GEN(SG)
+κ
+Generate the inflected form for: κενταύριον N;NOM(DU)	νταύριον N;NOM(DU) κ
+Generate the inflected form for: κενταύριον N;NOM(PL)	νταύριον N;NOM(PL)
+κ
+Generate the inflected form for: κενταύριον N;NOM(SG)	νταύριον N;NOM(SG)
+κ
+Generate the inflected form for: κενταύριον N;VOC(DU)	 N;VOC(DU)N;VOC(DU)N;VOC(DU)N;
+Generate the inflected form for: κενταύριον N;VOC(PL)	κενταύριον N;VOC(PL)
+Generate the inflected form for: κενταύριον N;VOC(SG)	κενταύριον N;VOC(SG)
+Generate the inflected form for: κενός ADJ;ACC(DU;FEM)	κενός ADJ;ACC(DU;FEM) κ
+Generate the inflected form for: κενός ADJ;ACC(DU;MASC)	κενός ADJ;ACC(DU;MASC)
+κ
+Generate the inflected form for: κενός ADJ;ACC(DU;NEUT)	κενός ADJ;ACC(DU;NEUT)
+κ
+Generate the inflected form for: κενός ADJ;ACC(PL;FEM)	κενός ADJ;ACC(PL;FEM) ADJ
+Generate the inflected form for: κενός ADJ;ACC(PL;MASC)	κενός ADJ;ACC(PL;MASC)
+κ
+Generate the inflected form for: κενός ADJ;ACC(PL;NEUT)	κενός ADJ;ACC(PL;NEUT)
+κ
+Generate the inflected form for: κενός ADJ;ACC(SG;FEM)	κενός ADJ;ACC(SG;FEM) κ
+Generate the inflected form for: κενός ADJ;ACC(SG;MASC)	κενός ADJ;ACC(SG;MASC)
+κ
+Generate the inflected form for: κενός ADJ;ACC(SG;NEUT)	κενός ADJ;ACC(SG;NEUT)
+κ
+Generate the inflected form for: κενός ADJ;DAT(DU;FEM)	ς ADJ;DAT(DU;FEM)
+κενός 
+Generate the inflected form for: κενός ADJ;DAT(DU;MASC)	κενός ADJ;DAT(DU;MASC)
+κ
+Generate the inflected form for: κενός ADJ;DAT(PL;FEM)	κενός ADJ;DAT(PL;FEM)
+κ
+Generate the inflected form for: κενός ADJ;DAT(PL;MASC)	κενός ADJ;DAT(PL;MASC)
+κ
+Generate the inflected form for: κενός ADJ;DAT(PL;NEUT)	κενός ADJ;DAT(PL;NEUT)
+κ
+Generate the inflected form for: κενός ADJ;DAT(SG;MASC)	κενός ADJ;DAT(SG;MASC)
+κ
+Generate the inflected form for: κενός ADJ;DAT(SG;NEUT)	κενός ADJ;DAT(SG;NEUT)
+κ
+Generate the inflected form for: κενός ADJ;GEN(DU;FEM)	κενός ADJ;GEN(DU;FEM)
+κ
+Generate the inflected form for: κενός ADJ;GEN(PL;FEM)	κενός ADJ;GEN(PL;FEM)
+κ
+Generate the inflected form for: κενός ADJ;GEN(PL;MASC)	κενός ADJ;GEN(PL;MASC)
+κ
+Generate the inflected form for: κενός ADJ;GEN(SG;NEUT)	κενός ADJ;GEN(SG;NEUT)
+κ
+Generate the inflected form for: κενός ADJ;NOM(DU;FEM)	κενός ADJ;NOM(DU;FEM) ADJ
+Generate the inflected form for: κενός ADJ;NOM(DU;MASC)	ς ADJ;NOM(DU;MASC)
+κενός
+Generate the inflected form for: κενός ADJ;NOM(PL;NEUT)	κενός ADJ;NOM(PL;NEUT)
+κ
+Generate the inflected form for: κενός ADJ;NOM(SG;FEM)	κενός ADJ;NOM(SG;FEM) ADJ
+Generate the inflected form for: κενός ADJ;NOM(SG;MASC)	κενός ADJ;NOM(SG;MASC);NO
+Generate the inflected form for: κενός ADJ;NOM(SG;NEUT)	κενός ADJ;NOM(SG;NEUT)
+κ
+Generate the inflected form for: κενός ADJ;VOC(DU;FEM)	κενός ADJ;VOC(DU;FEM)(DU;
+Generate the inflected form for: κενός ADJ;VOC(DU;MASC)	κενός ADJ;VOC(DU;MASC)
+κ
+Generate the inflected form for: κενός ADJ;VOC(DU;NEUT)	 ADJ;VOC(DU;NEUT)
+κενός A
+Generate the inflected form for: κενός ADJ;VOC(PL;MASC)	 κενός ADJ;VOC(PL;MASC)
+
+Generate the inflected form for: κενός ADJ;VOC(PL;NEUT)	κενός ADJ;VOC(PL;NEUT)
+κ
+Generate the inflected form for: κενός ADJ;VOC(SG;FEM)	κενός ADJ;VOC(SG;FEM);VOC
+Generate the inflected form for: κενός ADJ;VOC(SG;MASC)	κενός ADJ;VOC(SG;MASC)
+κ
+Generate the inflected form for: κωλόβαθρον N;ACC(DU)	αθρον N;ACC(DU) N;ACC(DU)
+Generate the inflected form for: κωλόβαθρον N;ACC(PL)	αθρον N;ACC(PL) N;ACC(PL)
+Generate the inflected form for: κωλόβαθρον N;ACC(SG)	βαθρον N;ACC(SG) N;ACC(S
+Generate the inflected form for: κωλόβαθρον N;DAT(DU)	ν N;DAT(DU)
+κωλόβαθρ
+Generate the inflected form for: κωλόβαθρον N;DAT(PL)	κωλόβαθρον N;DAT(PL)
+Generate the inflected form for: κωλόβαθρον N;DAT(SG)	ν N;DAT(SG) N;DAT(SG) N;DAT(S
+Generate the inflected form for: κωλόβαθρον N;GEN(DU)	κωλόβαθρον N;GEN(DU)
+Generate the inflected form for: κωλόβαθρον N;GEN(PL)	κωλόβαθρον N;GEN(PL)
+Generate the inflected form for: κωλόβαθρον N;GEN(SG)	κωλόβαθρον N;GEN(SG)
+Generate the inflected form for: κωλόβαθρον N;NOM(DU)	ν N;NOM(DU) κωλόβαθρ
+Generate the inflected form for: κωλόβαθρον N;NOM(PL)	κωλόβαθρον N;NOM(PL)
+Generate the inflected form for: κωλόβαθρον N;NOM(SG)	κωλόβαθρον N;NOM(SG)
+Generate the inflected form for: κωλόβαθρον N;VOC(DU)	κωλόβαθρον N;VOC(DU)
+Generate the inflected form for: κωλόβαθρον N;VOC(PL)	λόβαθρον N;VOC(PL)
+κ
+Generate the inflected form for: κωλόβαθρον N;VOC(SG)	κωλόβαθρον N;VOC(SG)
+Generate the inflected form for: λειμώνιον N;ACC(DU)	λειμώνιον N;ACC(DU) N
+Generate the inflected form for: λειμώνιον N;ACC(PL)	λειμώνιον N;ACC(PL) N
+Generate the inflected form for: λειμώνιον N;ACC(SG)	ν N;ACC(SG) N;ACC(SG) N;ACC(S
+Generate the inflected form for: λειμώνιον N;DAT(DU)	λειμώνιον N;DAT(DU)
+
+Generate the inflected form for: λειμώνιον N;DAT(PL)	λειμώνιον N;DAT(PL)
+
+Generate the inflected form for: λειμώνιον N;DAT(SG)	νιμώνιον N;DAT(SG) N;D
+Generate the inflected form for: λειμώνιον N;GEN(DU)	λειμώνιον N;GEN(DU)
+
+Generate the inflected form for: λειμώνιον N;GEN(PL)	λειμώνιον N;GEN(PL)
+
+Generate the inflected form for: λειμώνιον N;GEN(SG)	λειμώνιον N;GEN(SG)
+
+Generate the inflected form for: λειμώνιον N;NOM(DU)	λειμώνιον N;NOM(DU)
+
+Generate the inflected form for: λειμώνιον N;NOM(PL)	λειμώνιον N;NOM(PL)
+
+Generate the inflected form for: λειμώνιον N;NOM(SG)	λειμώνιον N;NOM(SG)
+
+Generate the inflected form for: λειμώνιον N;VOC(DU)	λειμώνιον N;VOC(DU);V
+Generate the inflected form for: λειμώνιον N;VOC(PL)	λειμώνιον N;VOC(PL)
+
+Generate the inflected form for: λειμώνιον N;VOC(SG)	λειμώνιον N;VOC(SG)
+
+Generate the inflected form for: μελῳδία N;ACC(DU)	δία N;ACC(DU) N;ACC(DU) N;A
+Generate the inflected form for: μελῳδία N;ACC(PL)	δία N;ACC(PL);ACC(PL);ACC(P
+Generate the inflected form for: μελῳδία N;ACC(SG)	δία N;ACC(SG) N;ACC(SG) N;A
+Generate the inflected form for: μελῳδία N;DAT(DU)	δία N;DAT(DU)
+μελῳδί
+Generate the inflected form for: μελῳδία N;DAT(PL)	δία N;DAT(PL)
+μελῳδί
+Generate the inflected form for: μελῳδία N;DAT(SG)	δία N;DAT(SG);DAT(SG);DAT(S
+Generate the inflected form for: μελῳδία N;GEN(DU)	δία N;GEN(DU) μελῳδί
+Generate the inflected form for: μελῳδία N;GEN(PL)	δία N;GEN(PL)
+μελῳδί
+Generate the inflected form for: μελῳδία N;GEN(SG)	δία N;GEN(SG)
+μελῳδί
+Generate the inflected form for: μελῳδία N;NOM(DU)	δία N;NOM(DU) μελῳδί
+Generate the inflected form for: μελῳδία N;NOM(PL)	δία N;NOM(PL) μελῳδί
+Generate the inflected form for: μελῳδία N;NOM(SG)	δία N;NOM(SG)
+μελῳδί
+Generate the inflected form for: μελῳδία N;VOC(DU)	δία N;VOC(DU) N;VOC(DU) N;V
+Generate the inflected form for: μελῳδία N;VOC(PL)	δία N;VOC(PL);VOC(PL);VOC(P
+Generate the inflected form for: μελῳδία N;VOC(SG)	δία N;VOC(SG);VOC(SG);VOC(S
+Generate the inflected form for: οἶνος N;ACC(DU)	ονος N;ACC(DU);ACC(DU);ACC
+Generate the inflected form for: οἶνος N;ACC(PL)	ονος N;ACC(PL);ACC(PL);ACC
+Generate the inflected form for: οἶνος N;ACC(SG)	νος N;ACC(SG);ACC(SG);ACC(S
+Generate the inflected form for: οἶνος N;DAT(DU)	ν N;DAT(DU) N;DAT(DU) N;DAT(D
+Generate the inflected form for: οἶνος N;DAT(PL)	νος N;DAT(PL)
+οἶνος N
+Generate the inflected form for: οἶνος N;DAT(SG)	νος N;DAT(SG) οἶνος N
+Generate the inflected form for: οἶνος N;GEN(DU)	ονος N;GEN(DU) οἶνος
+Generate the inflected form for: οἶνος N;GEN(PL)	ονος N;GEN(PL)
+οἶνος
+Generate the inflected form for: οἶνος N;GEN(SG)	ονος N;GEN(SG)
+οἶνος
+Generate the inflected form for: οἶνος N;NOM(DU)	νος N;NOM(DU) οἶνος N
+Generate the inflected form for: οἶνος N;NOM(PL)	νος N;NOM(PL) οἶνος N
+Generate the inflected form for: οἶνος N;NOM(SG)	νος N;NOM(SG)
+οἶνος N
+Generate the inflected form for: οἶνος N;VOC(DU)	ονονονονονονονο
+Generate the inflected form for: οἶνος N;VOC(PL)	ονος N;VOC(PL);VOC(PL);VOC
+Generate the inflected form for: οἶνος N;VOC(SG)	νος N;VOC(SG);VOC(SG);VOC(S
+Generate the inflected form for: παλίμψηστος ADJ;ACC(DU;FEM)	αλίμψηστος ADJ;ACC(D
+Generate the inflected form for: παλίμψηστος ADJ;ACC(DU;NEUT)	αλίμψηστος ADJ;ACC(D
+Generate the inflected form for: παλίμψηστος ADJ;ACC(PL;MASC)	μψηστος ADJ;ACC(PL;MASC
+Generate the inflected form for: παλίμψηστος ADJ;ACC(SG;FEM)	αλίμψηστος ADJ;ACC(S
+Generate the inflected form for: παλίμψηστος ADJ;ACC(SG;MASC)	μψηστος ADJ;ACC(SG;MASC
+Generate the inflected form for: παλίμψηστος ADJ;ACC(SG;NEUT)	αλίμψηστος ADJ;ACC(S
+Generate the inflected form for: παλίμψηστος ADJ;DAT(DU;FEM)	στος ADJ;DAT(DU;FEM)
+πα
+Generate the inflected form for: παλίμψηστος ADJ;DAT(DU;MASC)	αλίμψηστος ADJ;DAT(D
+Generate the inflected form for: παλίμψηστος ADJ;DAT(DU;NEUT)	στος ADJ;DAT(DU;NEUT)
+πα
+Generate the inflected form for: παλίμψηστος ADJ;DAT(PL;MASC)	αλίμψηστος ADJ;DAT(P
+Generate the inflected form for: παλίμψηστος ADJ;DAT(PL;NEUT)	στος ADJ;DAT(PL;NEUT)
+πα
+Generate the inflected form for: παλίμψηστος ADJ;DAT(SG;MASC)	αλίμψηστος ADJ;DAT(S
+Generate the inflected form for: παλίμψηστος ADJ;GEN(DU;FEM)	αλίμψηστος ADJ;GEN(D
+Generate the inflected form for: παλίμψηστος ADJ;GEN(DU;MASC)	αλίμψηστος ADJ;GEN(D
+Generate the inflected form for: παλίμψηστος ADJ;GEN(DU;NEUT)	αλίμψηστος ADJ;GEN(D
+Generate the inflected form for: παλίμψηστος ADJ;GEN(PL;FEM)	αλίμψηστος ADJ;GEN(P
+Generate the inflected form for: παλίμψηστος ADJ;GEN(PL;MASC)	αλίμψηστος ADJ;GEN(P
+Generate the inflected form for: παλίμψηστος ADJ;GEN(PL;NEUT)	αλίμψηστος ADJ;GEN(P
+Generate the inflected form for: παλίμψηστος ADJ;GEN(SG;FEM)	αλίμψηστος ADJ;GEN(S
+Generate the inflected form for: παλίμψηστος ADJ;GEN(SG;MASC)	αλίμψηστος ADJ;GEN(S
+Generate the inflected form for: παλίμψηστος ADJ;GEN(SG;NEUT)	αλίμψηστος ADJ;GEN(S
+Generate the inflected form for: παλίμψηστος ADJ;NOM(DU;NEUT)	αλίμψηστος ADJ;NOM(D
+Generate the inflected form for: παλίμψηστος ADJ;NOM(PL;FEM)	αλίμψηστος ADJ;NOM(P
+Generate the inflected form for: παλίμψηστος ADJ;NOM(PL;MASC)	στος ADJ;NOM(PL;MASC)
+πα
+Generate the inflected form for: παλίμψηστος ADJ;NOM(PL;NEUT)	αλίμψηστος ADJ;NOM(P
+Generate the inflected form for: παλίμψηστος ADJ;VOC(DU;FEM)	αλίμψηστος ADJ;VOC(D
+Generate the inflected form for: παλίμψηστος ADJ;VOC(DU;MASC)	στος ADJ;VOC(DU;MASC)
+απ
+Generate the inflected form for: παλίμψηστος ADJ;VOC(DU;NEUT)	στος ADJ;VOC(DU;NEUT) ADJ;
+Generate the inflected form for: παλίμψηστος ADJ;VOC(PL;MASC)	αλίμψηστος ADJ;VOC(P
+Generate the inflected form for: παλίμψηστος ADJ;VOC(PL;NEUT)	αλίμψηστος ADJ;VOC(P
+Generate the inflected form for: παλίμψηστος ADJ;VOC(SG;FEM)	αλίμψηστος ADJ;VOC(S
+Generate the inflected form for: παλίμψηστος ADJ;VOC(SG;MASC)	αλίμψηστος ADJ;VOC(S
+Generate the inflected form for: παλίμψηστος ADJ;VOC(SG;NEUT)	αλίμψηστος ADJ;VOC(S
+Generate the inflected form for: παραλυτικός ADJ;ACC(DU;FEM)	αλυτικός ADJ;ACC(DU;FE
+Generate the inflected form for: παραλυτικός ADJ;ACC(DU;MASC)	λυτικός ADJ;ACC(DU;MASC
+Generate the inflected form for: παραλυτικός ADJ;ACC(DU;NEUT)	αλυτικός ADJ;ACC(DU;NE
+Generate the inflected form for: παραλυτικός ADJ;ACC(PL;FEM)	αλυτικός ADJ;ACC(PL;FE
+Generate the inflected form for: παραλυτικός ADJ;ACC(PL;MASC)	λυτικός ADJ;ACC(PL;MASC
+Generate the inflected form for: παραλυτικός ADJ;ACC(PL;NEUT)	αλυτικός ADJ;ACC(PL;NE
+Generate the inflected form for: παραλυτικός ADJ;ACC(SG;FEM)	αλυτικός ADJ;ACC(SG;FE
+Generate the inflected form for: παραλυτικός ADJ;ACC(SG;MASC)	λυτικός ADJ;ACC(SG;MASC
+Generate the inflected form for: παραλυτικός ADJ;ACC(SG;NEUT)	αλυτικός ADJ;ACC(SG;NE
+Generate the inflected form for: παραλυτικός ADJ;DAT(DU;FEM)	αλυτικός ADJ;DAT(DU;FE
+Generate the inflected form for: παραλυτικός ADJ;DAT(DU;MASC)	αλυτικός ADJ;DAT(DU;MA
+Generate the inflected form for: παραλυτικός ADJ;DAT(DU;NEUT)	αλυτικός ADJ;DAT(DU;NE
+Generate the inflected form for: παραλυτικός ADJ;DAT(PL;FEM)	αλυτικός ADJ;DAT(PL;FE
+Generate the inflected form for: παραλυτικός ADJ;DAT(PL;MASC)	αλυτικός ADJ;DAT(PL;MA
+Generate the inflected form for: παραλυτικός ADJ;DAT(PL;NEUT)	αλυτικός ADJ;DAT(PL;NE
+Generate the inflected form for: παραλυτικός ADJ;DAT(SG;FEM)	αλυτικός ADJ;DAT(SG;FE
+Generate the inflected form for: παραλυτικός ADJ;DAT(SG;MASC)	αλυτικός ADJ;DAT(SG;MA
+Generate the inflected form for: παραλυτικός ADJ;GEN(DU;FEM)	αλυτικός ADJ;GEN(DU;FE
+Generate the inflected form for: παραλυτικός ADJ;GEN(PL;MASC)	λυτικός ADJ;GEN(PL;MASC
+Generate the inflected form for: παραλυτικός ADJ;GEN(PL;NEUT)	λυτικός ADJ;GEN(PL;NEUT
+Generate the inflected form for: παραλυτικός ADJ;GEN(SG;FEM)	αλυτικός ADJ;GEN(SG;FE
+Generate the inflected form for: παραλυτικός ADJ;GEN(SG;MASC)	αλυτικός ADJ;GEN(SG;MA
+Generate the inflected form for: παραλυτικός ADJ;GEN(SG;NEUT)	λυτικός ADJ;GEN(SG;NEUT
+Generate the inflected form for: παραλυτικός ADJ;NOM(DU;FEM)	αλυτικός ADJ;NOM(DU;FE
+Generate the inflected form for: παραλυτικός ADJ;NOM(DU;MASC)	αλυτικός ADJ;NOM(DU;MA
+Generate the inflected form for: παραλυτικός ADJ;NOM(DU;NEUT)	αλυτικός ADJ;NOM(DU;NE
+Generate the inflected form for: παραλυτικός ADJ;NOM(PL;FEM)	αλυτικός ADJ;NOM(PL;FE
+Generate the inflected form for: παραλυτικός ADJ;NOM(SG;FEM)	αλυτικός ADJ;NOM(SG;FE
+Generate the inflected form for: παραλυτικός ADJ;VOC(PL;FEM)	αλυτικός ADJ;VOC(PL;FE
+Generate the inflected form for: παραλυτικός ADJ;VOC(PL;MASC)	λυτικός ADJ;VOC(PL;MASC
+Generate the inflected form for: παραλυτικός ADJ;VOC(PL;NEUT)	αλυτικός ADJ;VOC(PL;NE
+Generate the inflected form for: παραλυτικός ADJ;VOC(SG;FEM)	αλυτικός ADJ;VOC(SG;FE
+Generate the inflected form for: παραλυτικός ADJ;VOC(SG;MASC)	λυτικός ADJ;VOC(SG;MASC
+Generate the inflected form for: ποτήριον N;ACC(DU)	ν N;ACC(DU);ACC(DU);ACC(DU);A
+Generate the inflected form for: ποτήριον N;ACC(PL)	ν N;ACC(PL);ACC(PL);ACC(PL;AC
+Generate the inflected form for: ποτήριον N;ACC(SG)	ν N;ACC(SG) N;ACC(SG) N;ACC(S
+Generate the inflected form for: ποτήριον N;DAT(DU)	νοιον N;DAT(DU)
+ποτή
+Generate the inflected form for: ποτήριον N;DAT(PL)	ν N;DAT(PL)
+ποτήριον 
+Generate the inflected form for: ποτήριον N;DAT(SG)	 ανακαλύψεις ανα
+Generate the inflected form for: ποτήριον N;GEN(DU)	ν να να να να να ν
+Generate the inflected form for: ποτήριον N;GEN(PL)	ν να να να να να ν
+Generate the inflected form for: ποτήριον N;GEN(SG)	ν N;GEN(SG) ποτήριον 
+Generate the inflected form for: ποτήριον N;NOM(DU)	 αναλογικά αναλο
+Generate the inflected form for: ποτήριον N;NOM(PL)	ν N;NOM(PL) ποτήριον 
+Generate the inflected form for: ποτήριον N;NOM(SG)	ν N;NOM(SG) και N;NOM(SG) 
+Generate the inflected form for: ποτήριον N;VOC(DU)	 ανακαλύψεις ανα
+Generate the inflected form for: ποτήριον N;VOC(PL)	ν N;VOC(PL)
+ποτήριον 
+Generate the inflected form for: ποτήριον N;VOC(SG)	λότήριον N;VOC(SG);VOC
+Generate the inflected form for: πτέρνη N;ACC(DU)	λληνική και αναλ
+Generate the inflected form for: πτέρνη N;ACC(PL)	νη N;ACC(PL) N;ACC(PL) N;ACC
+Generate the inflected form for: πτέρνη N;ACC(SG)	νη N;ACC(SG) N;ACC(SG) N;ACC
+Generate the inflected form for: πτέρνη N;DAT(DU)	νακαλία N;DAT(DU)
+πτ
+Generate the inflected form for: πτέρνη N;DAT(PL)	νη N;DAT(PL)
+πτέρνη N;
+Generate the inflected form for: πτέρνη N;DAT(SG)	νη N;DAT(SG) N;DAT(SG) N;DAT
+Generate the inflected form for: πτέρνη N;GEN(DU)	λέρνη N;GEN(DU) πτέρ
+Generate the inflected form for: πτέρνη N;GEN(PL)	λληνη N;GEN(PL) for: πτ
+Generate the inflected form for: πτέρνη N;GEN(SG)	λληνη N;GEN(SG) for: πτ
+Generate the inflected form for: πτέρνη N;NOM(DU)	λληνη N;NOM(DU) πτέρ
+Generate the inflected form for: πτέρνη N;NOM(PL)	νη N;NOM(PL) πτέρνη N;
+Generate the inflected form for: πτέρνη N;NOM(SG)	νη N;NOM(SG) και πτέρ
+Generate the inflected form for: πτέρνη N;VOC(DU)	λληνη N;VOC(DU) for: πτ
+Generate the inflected form for: πτέρνη N;VOC(PL)	λλη N;VOC(PL)
+πτέρνη 
+Generate the inflected form for: πτέρνη N;VOC(SG)	 N;VOC(SG) N;VOC(SG) N;VOC(SG)
+Generate the inflected form for: πῆγμα N;ACC(DU)	 N;ACC(DU);ACC(DU);ACC(DU);ACC
+Generate the inflected form for: πῆγμα N;ACC(PL)	γμα N;ACC(PL);ACC(PL);ACC(P
+Generate the inflected form for: πῆγμα N;ACC(SG)	γμα N;ACC(SG);ACC(SG);ACC(S
+Generate the inflected form for: πῆγμα N;DAT(DU)	γμα N;DAT(DU)
+πῆγμα N
+Generate the inflected form for: πῆγμα N;DAT(PL)	γμα N;DAT(PL) for: πῆγ
+Generate the inflected form for: πῆγμα N;DAT(SG)	γμα N;DAT(SG);DAT(SG);DAT(S
+Generate the inflected form for: πῆγμα N;GEN(DU)	γμα N;GEN(DU) for: πῆγ
+Generate the inflected form for: πῆγμα N;GEN(PL)	γμα N;GEN(PL) for: πῆγ
+Generate the inflected form for: πῆγμα N;GEN(SG)	γμα N;GEN(SG) for: πῆγ
+Generate the inflected form for: πῆγμα N;NOM(DU)	γμα N;NOM(DU) for: πῆγ
+Generate the inflected form for: πῆγμα N;NOM(PL)	γμα N;NOM(PL) N;NOM(PL) N;N
+Generate the inflected form for: πῆγμα N;NOM(SG)	γμα N;NOM(SG) for: πῆγ
+Generate the inflected form for: πῆγμα N;VOC(DU)	γμα N;VOC(DU);VOC(DU);VOC(D
+Generate the inflected form for: πῆγμα N;VOC(PL)	γμα N;VOC(PL) N;VOC(PL) N;V
+Generate the inflected form for: πῆγμα N;VOC(SG)	γμα N;VOC(SG);VOC(SG);VOC(S
+Generate the inflected form for: σίραιον N;ACC(DU)	ισίραιον N;ACC(DU);ACC
+Generate the inflected form for: σίραιον N;ACC(PL)	ιραιον N;ACC(PL);ACC(PL)
+Generate the inflected form for: σίραιον N;ACC(SG)	ιραιον N;ACC(SG) N;ACC(S
+Generate the inflected form for: σίραιον N;DAT(DU)	ν N;DAT(DU)
+σίραιον N;
+Generate the inflected form for: σίραιον N;DAT(PL)	ν N;DAT(PL) σίραιον N;
+Generate the inflected form for: σίραιον N;DAT(SG)	ιραιον N;DAT(SG);DAT(SG)
+Generate the inflected form for: σίραιον N;GEN(DU)	αιον N;GEN(DU) σίραι
+Generate the inflected form for: σίραιον N;GEN(PL)	αιον N;GEN(PL)
+σίραι
+Generate the inflected form for: σίραιον N;GEN(SG)	ιραιον N;GEN(SG) for: σ
+Generate the inflected form for: σίραιον N;NOM(DU)	ισίραιον N;NOM(DU) σ
+Generate the inflected form for: σίραιον N;NOM(PL)	αιον N;NOM(PL) σίραι
+Generate the inflected form for: σίραιον N;NOM(SG)	ιραιον N;NOM(SG)
+σίρ
+Generate the inflected form for: σίραιον N;VOC(DU)	ιραιον N;VOC(DU);VOC(DU)
+Generate the inflected form for: σίραιον N;VOC(PL)	αισιον N;VOC(PL)
+σίρ
+Generate the inflected form for: σίραιον N;VOC(SG)	ίραιον N;VOC(SG);VOC(SG)
+Generate the inflected form for: σκέπη N;ACC(DU)	λλην ανακαλύψει
+Generate the inflected form for: σκέπη N;ACC(PL)	κέπη N;ACC(PL);ACC(PL);ACC
+Generate the inflected form for: σκέπη N;ACC(SG)	κέπη N;ACC(SG) N;ACC(SG) N
+Generate the inflected form for: σκέπη N;DAT(DU)	κέπη N;DAT(DU)(DU)(DU)(DU)
+Generate the inflected form for: σκέπη N;DAT(PL)	λλάγματος N;DAT(PL) 
+Generate the inflected form for: σκέπη N;DAT(SG)	κέπη N;DAT(SG);DAT(SG);DAT
+Generate the inflected form for: σκέπη N;GEN(DU)	λέπη N;GEN(DU) for: σκέ
+Generate the inflected form for: σκέπη N;GEN(PL)	κέπη N;GEN(PL) for: σκέ
+Generate the inflected form for: σκέπη N;GEN(SG)	κέπη N;GEN(SG) for: σκέ
+Generate the inflected form for: σκέπη N;NOM(DU)	κέπη N;NOM(DU) for: σκέ
+Generate the inflected form for: σκέπη N;NOM(PL)	κέπη N;NOM(PL) σκέπη 
+Generate the inflected form for: σκέπη N;NOM(SG)	κέπη N;NOM(SG) for: σκέ
+Generate the inflected form for: σκέπη N;VOC(DU)	κέπη N;VOC(DU) N;VOC(DU) N
+Generate the inflected form for: σκέπη N;VOC(PL)	λουρούπη N;VOC(PL)
+σ
+Generate the inflected form for: σκέπη N;VOC(SG)	λέπη N;VOC(SG)
+σκέπη 
+Generate the inflected form for: σχόλιον N;ACC(DU)	 ανακαλύπτες ανα
+Generate the inflected form for: σχόλιον N;ACC(PL)	ν N;ACC(PL) N;ACC(PL) N;ACC(P
+Generate the inflected form for: σχόλιον N;ACC(SG)	λιον N;ACC(SG) N;ACC(SG) N
+Generate the inflected form for: σχόλιον N;DAT(DU)	νταπολεμική εντ
+Generate the inflected form for: σχόλιον N;DAT(PL)	ν N;DAT(PL)(PL)(PL)(PL)(PL)(P
+Generate the inflected form for: σχόλιον N;DAT(SG)	ν N;DAT(SG) N;DAT(SG) N;DAT(S
+Generate the inflected form for: σχόλιον N;GEN(DU)	λιον N;GEN(DU) σχόλι
+Generate the inflected form for: σχόλιον N;GEN(PL)	λιον N;GEN(PL) σχόλι
+Generate the inflected form for: σχόλιον N;GEN(SG)	λιον N;GEN(SG) σχόλι
+Generate the inflected form for: σχόλιον N;NOM(DU)	 N;NOM(DU) σχόλιον N;NO
+Generate the inflected form for: σχόλιον N;NOM(PL)	ν N;NOM(PL) σχόλιον N;
+Generate the inflected form for: σχόλιον N;NOM(SG)	ν N;NOM(SG) Σχόλιον N;
+Generate the inflected form for: σχόλιον N;VOC(DU)	λιον N;VOC(DU) for σχό
+Generate the inflected form for: σχόλιον N;VOC(PL)	σχόλιον N;VOC(PL)
+σχ
+Generate the inflected form for: σχόλιον N;VOC(SG)	 σχόλιον N;VOC(SG)
+σχ
+Generate the inflected form for: τακτικός ADJ;ACC(DU;FEM)	 αναλογία αναλογ
+Generate the inflected form for: τακτικός ADJ;ACC(DU;NEUT)	ακτικός ADJ;ACC(DU;NEUT
+Generate the inflected form for: τακτικός ADJ;ACC(PL;FEM)	 αναλογία αναλογ
+Generate the inflected form for: τακτικός ADJ;ACC(SG;FEM)	ακτικός ADJ;ACC(SG;FEM)
+Generate the inflected form for: τακτικός ADJ;ACC(SG;MASC)	λοιοί και και κα
+Generate the inflected form for: τακτικός ADJ;ACC(SG;NEUT)	ακτικός ADJ;ACC(SG;NEUT
+Generate the inflected form for: τακτικός ADJ;DAT(DU;FEM)	ακτικός ADJ;DAT(DU;FEM)
+Generate the inflected form for: τακτικός ADJ;DAT(DU;MASC)	ανταπολεμικός ADJ
+Generate the inflected form for: τακτικός ADJ;DAT(DU;NEUT)	στους και οι καν
+Generate the inflected form for: τακτικός ADJ;DAT(PL;FEM)	ακτικός ADJ;DAT(PL;FEM)
+Generate the inflected form for: τακτικός ADJ;DAT(PL;MASC)	αναγκαστικός ADJ;D
+Generate the inflected form for: τακτικός ADJ;DAT(PL;NEUT)	τακτικός ADJ;DAT(PL;NE
+Generate the inflected form for: τακτικός ADJ;DAT(SG;FEM)	ακτικός ADJ;DAT(SG;FEM)
+Generate the inflected form for: τακτικός ADJ;DAT(SG;MASC)	αναγκαστικός ADJ;D
+Generate the inflected form for: τακτικός ADJ;GEN(DU;FEM)	ακτικός ADJ;GEN(DU;FEM)
+Generate the inflected form for: τακτικός ADJ;GEN(PL;MASC)	λοιοί και και κα
+Generate the inflected form for: τακτικός ADJ;GEN(PL;NEUT)	λοιοί και και κα
+Generate the inflected form for: τακτικός ADJ;GEN(SG;FEM)	λληνικός ADJ;GEN(SG;FE
+Generate the inflected form for: τακτικός ADJ;GEN(SG;MASC)	ακτικός ADJ;GEN(SG;MASC
+Generate the inflected form for: τακτικός ADJ;GEN(SG;NEUT)	λοιοί λοιποί λοι
+Generate the inflected form for: τακτικός ADJ;NOM(DU;FEM)	ακτικός ADJ;NOM(DU;FEM)
+Generate the inflected form for: τακτικός ADJ;NOM(DU;NEUT)	ακτικός ADJ;NOM(DU;NEUT
+Generate the inflected form for: τακτικός ADJ;NOM(PL;NEUT)	ακτικός ADJ;NOM(PL;NEUT
+Generate the inflected form for: τακτικός ADJ;NOM(SG;NEUT)	λληνικός ADJ;NOM(SG;NE
+Generate the inflected form for: τακτικός ADJ;VOC(DU;FEM)	 αναλογία αναλογ
+Generate the inflected form for: τακτικός ADJ;VOC(DU;MASC)	ακτικός ADJ;VOC(DU;MASC
+Generate the inflected form for: τακτικός ADJ;VOC(DU;NEUT)	ακτικός ADJ;VOC(DU;NEUT
+Generate the inflected form for: τακτικός ADJ;VOC(PL;FEM)	ακτικός ADJ;VOC(PL;FEM)
+Generate the inflected form for: τακτικός ADJ;VOC(PL;MASC)	 αναλογικός ADJ;VOC(
+Generate the inflected form for: τακτικός ADJ;VOC(PL;NEUT)	ακτικός ADJ;VOC(PL;NEUT
+Generate the inflected form for: τακτικός ADJ;VOC(SG;FEM)	ακτικός ADJ;VOC(SG;FEM)
+Generate the inflected form for: τακτικός ADJ;VOC(SG;MASC)	 αναλογικός ADJ;VOC(
+Generate the inflected form for: τακτικός ADJ;VOC(SG;NEUT)	ακτικός ADJ;VOC(SG;NEUT
+Generate the inflected form for: ταπεινός ADJ;ACC(DU;FEM)	ταπεινός ADJ;ACC(DU;FE
+Generate the inflected form for: ταπεινός ADJ;ACC(DU;MASC)	ς ταπεινός ADJ;ACC(DU
+Generate the inflected form for: ταπεινός ADJ;ACC(PL;MASC)	ταπεινός ADJ;ACC(PL;MA
+Generate the inflected form for: ταπεινός ADJ;ACC(PL;NEUT)	πεινός ADJ;ACC(PL;NEUT) 
+Generate the inflected form for: ταπεινός ADJ;ACC(SG;MASC)	πεινός ADJ;ACC(SG;MASC) 
+Generate the inflected form for: ταπεινός ADJ;DAT(DU;FEM)	πεινός ADJ;DAT(DU;FEM)
+
+Generate the inflected form for: ταπεινός ADJ;DAT(DU;NEUT)	ταπεινός ADJ;DAT(DU;NE
+Generate the inflected form for: ταπεινός ADJ;DAT(PL;FEM)	πεινός ADJ;DAT(PL;FEM)
+
+Generate the inflected form for: ταπεινός ADJ;DAT(PL;MASC)	απεινός ADJ;DAT(PL;MASC
+Generate the inflected form for: ταπεινός ADJ;DAT(SG;MASC)	απεινός ADJ;DAT(SG;MASC
+Generate the inflected form for: ταπεινός ADJ;DAT(SG;NEUT)	ταπεινός ADJ;DAT(SG;NE
+Generate the inflected form for: ταπεινός ADJ;GEN(DU;FEM)	ταπεινός ADJ;GEN(DU;FE
+Generate the inflected form for: ταπεινός ADJ;GEN(DU;MASC)	ς ταπεινός ADJ;GEN(DU
+Generate the inflected form for: ταπεινός ADJ;GEN(PL;FEM)	πεινός ADJ;GEN(PL;FEM)
+G
+Generate the inflected form for: ταπεινός ADJ;GEN(SG;MASC)	νός ADJ;GEN(SG;MASC)
+ανα
+Generate the inflected form for: ταπεινός ADJ;GEN(SG;NEUT)	απεινός ADJ;GEN(SG;NEUT
+Generate the inflected form for: ταπεινός ADJ;NOM(DU;FEM)	πεινός ADJ;NOM(DU;FEM) A
+Generate the inflected form for: ταπεινός ADJ;NOM(DU;MASC)	σεινός ADJ;NOM(DU;MASC)
+
+Generate the inflected form for: ταπεινός ADJ;NOM(DU;NEUT)	σεινός ADJ;NOM(DU;NEUT)
+
+Generate the inflected form for: ταπεινός ADJ;NOM(PL;FEM)	πεινός ADJ;NOM(PL;FEM) A
+Generate the inflected form for: ταπεινός ADJ;NOM(PL;MASC)	πεινός ADJ;NOM(PL;MASC)
+
+Generate the inflected form for: ταπεινός ADJ;NOM(PL;NEUT)	σεινός ADJ;NOM(PL;NEUT)
+
+Generate the inflected form for: ταπεινός ADJ;NOM(SG;FEM)	απεινός ADJ;NOM(SG;FEM)
+Generate the inflected form for: ταπεινός ADJ;NOM(SG;MASC)	ς αναγκαστικής α
+Generate the inflected form for: ταπεινός ADJ;NOM(SG;NEUT)	απεινός ADJ;NOM(SG;NEUT
+Generate the inflected form for: ταπεινός ADJ;VOC(DU;FEM)	ς ανακαλύπτου ADJ;
+Generate the inflected form for: ταπεινός ADJ;VOC(DU;NEUT)	ταπεινός ADJ;VOC(DU;NE
+Generate the inflected form for: ταπεινός ADJ;VOC(PL;FEM)	ς αναλογισμός ADJ;
+Generate the inflected form for: ταπεινός ADJ;VOC(PL;MASC)	ταπεινός ADJ;VOC(PL;MA
+Generate the inflected form for: ταπεινός ADJ;VOC(PL;NEUT)	ταπεινός ADJ;VOC(PL;NE
+Generate the inflected form for: ταπεινός ADJ;VOC(SG;FEM)	ανθοί ADJ;VOC(SG;FEM);VOC
+Generate the inflected form for: ταπεινός ADJ;VOC(SG;MASC)	νός ADJ;VOC(SG;MASC)
+νόσ
+Generate the inflected form for: ταπεινός ADJ;VOC(SG;NEUT)	πεινός ADJ;VOC(SG;NEUT)
+
+Generate the inflected form for: ἀμέλεια N;ACC(DU)	 N N N N N N N N N N N N N N N
+Generate the inflected form for: ἀμέλεια N;ACC(PL)	αμέλεια N;ACC(PL)
+Gener
+Generate the inflected form for: ἀμέλεια N;ACC(SG)	λεια N;ACC(SG);ACC(SG);ACC
+Generate the inflected form for: ἀμέλεια N;DAT(DU)	λέλεια N;DAT(DU)
+ἀμέ
+Generate the inflected form for: ἀμέλεια N;DAT(PL)	λεια N;DAT(PL) for: ἀμ
+Generate the inflected form for: ἀμέλεια N;DAT(SG)	λειεια N;DAT(SG) for: 
+Generate the inflected form for: ἀμέλεια N;GEN(DU)	λεια N;GEN(DU) for: ἀμ
+Generate the inflected form for: ἀμέλεια N;GEN(PL)	λεια N;GEN(PL)
+ἀμέλε
+Generate the inflected form for: ἀμέλεια N;GEN(SG)	λεια N;GEN(SG)
+ἀμέλε
+Generate the inflected form for: ἀμέλεια N;NOM(DU)	λέλλονα N;NOM(DU) ἀμ
+Generate the inflected form for: ἀμέλεια N;NOM(PL)	λέλλεια N;NOM(PL)
+ἀμ
+Generate the inflected form for: ἀμέλεια N;NOM(SG)	λέλλοντας το μεγ
+Generate the inflected form for: ἀμέλεια N;VOC(DU)	 N;VOC(DU) N;VOC(DU) N;VOC(DU)
+Generate the inflected form for: ἀμέλεια N;VOC(PL)	λέλεια N;VOC(PL) for: 
+Generate the inflected form for: ἀμέλεια N;VOC(SG)	λέλεια N;VOC(SG)
+ἀμέ
+Generate the inflected form for: ἀμβλυωπία N;ACC(DU)	αμβλυωπία N;ACC(DU) N
+Generate the inflected form for: ἀμβλυωπία N;ACC(PL)	αμβλυωπία N;ACC(PL)
+
+Generate the inflected form for: ἀμβλυωπία N;ACC(SG)	αμβλυωπία N;ACC(SG)
+
+Generate the inflected form for: ἀμβλυωπία N;DAT(DU)	αμβλυωπία N;DAT(DU)
+
+Generate the inflected form for: ἀμβλυωπία N;DAT(PL)	αμβλυωπία N;DAT(PL)
+
+Generate the inflected form for: ἀμβλυωπία N;DAT(SG)	αμβλυωπία N;DAT(SG) N
+Generate the inflected form for: ἀμβλυωπία N;GEN(DU)	λυωπία N;GEN(DU)
+ἀμβ
+Generate the inflected form for: ἀμβλυωπία N;GEN(PL)	λυωπία N;GEN(PL)
+ἀμβ
+Generate the inflected form for: ἀμβλυωπία N;GEN(SG)	λυωπία N;GEN(SG) for: 
+Generate the inflected form for: ἀμβλυωπία N;NOM(DU)	λυωπία N;NOM(DU)
+ἀμβ
+Generate the inflected form for: ἀμβλυωπία N;NOM(PL)	μβλυωπία N;NOM(PL)
+ἀ
+Generate the inflected form for: ἀμβλυωπία N;NOM(SG)	λυωπία N;NOM(SG)
+ἀμβ
+Generate the inflected form for: ἀμβλυωπία N;VOC(DU)	αβλυωπία N;VOC(DU) N;V
+Generate the inflected form for: ἀμβλυωπία N;VOC(PL)	αβλυωπία N;VOC(PL)
+ἀ
+Generate the inflected form for: ἀμβλυωπία N;VOC(SG)	αβλυωπία N;VOC(SG) N;V
+Generate the inflected form for: ἀναστροφή N;ACC(DU)	λαστροφή N;ACC(DU) N;A
+Generate the inflected form for: ἀναστροφή N;ACC(PL)	λαστροφή N;ACC(PL)
+Gen
+Generate the inflected form for: ἀναστροφή N;ACC(SG)	λαστροφή N;ACC(SG);ACC
+Generate the inflected form for: ἀναστροφή N;DAT(DU)	λαστική N;DAT(DU) for: 
+Generate the inflected form for: ἀναστροφή N;DAT(PL)	λαστροφή N;DAT(PL) for
+Generate the inflected form for: ἀναστροφή N;DAT(SG)	αναστροφή N;DAT(SG) N
+Generate the inflected form for: ἀναστροφή N;GEN(DU)	ναστροφή N;GEN(DU) for
+Generate the inflected form for: ἀναστροφή N;GEN(PL)	ναστροφή N;GEN(PL) for
+Generate the inflected form for: ἀναστροφή N;GEN(SG)	λαστροφή N;GEN(SG) for
+Generate the inflected form for: ἀναστροφή N;NOM(DU)	λαβή N;NOM(DU) ἀναστ
+Generate the inflected form for: ἀναστροφή N;NOM(PL)	λαστροφή N;NOM(PL)
+ἀ
+Generate the inflected form for: ἀναστροφή N;NOM(SG)	λαστροφή N;NOM(SG)
+λ
+Generate the inflected form for: ἀναστροφή N;VOC(DU)	 N;VOC(DU) N;VOC(DU) N;VOC(DU)
+Generate the inflected form for: ἀναστροφή N;VOC(PL)	αναστροφή N;VOC(PL)
+
+Generate the inflected form for: ἀναστροφή N;VOC(SG)	λαστροφή N;VOC(SG);VOC
+Generate the inflected form for: ἀντιστοιχία N;ACC(DU)	λιστική βάση βάσ
+Generate the inflected form for: ἀντιστοιχία N;ACC(PL)	αντιστοιχία N;ACC(P
+Generate the inflected form for: ἀντιστοιχία N;ACC(SG)	λόγος N;ACC(SG)
+ἀντι
+Generate the inflected form for: ἀντιστοιχία N;DAT(DU)	λιστοιχία N;DAT(DU)
+
+Generate the inflected form for: ἀντιστοιχία N;DAT(PL)	αντιστιστιστιστ
+Generate the inflected form for: ἀντιστοιχία N;DAT(SG)	 αντιστοιχία N;DAT(
+Generate the inflected form for: ἀντιστοιχία N;GEN(DU)	ντιστοιχία N;GEN(DU)
+Generate the inflected form for: ἀντιστοιχία N;GEN(PL)	λιστοιχία N;GEN(PL)
+
+Generate the inflected form for: ἀντιστοιχία N;GEN(SG)	λοιπία N;GEN(SG)
+ἀντ
+Generate the inflected form for: ἀντιστοιχία N;NOM(DU)	λιπολασσολασσολ
+Generate the inflected form for: ἀντιστοιχία N;NOM(PL)	λιονία N;NOM(PL) - λι
+Generate the inflected form for: ἀντιστοιχία N;NOM(SG)	αντιστοιχία N;NOM(S
+Generate the inflected form for: ἀντιστοιχία N;VOC(DU)	λιστοιχία N;VOC(DU)
+
+Generate the inflected form for: ἀντιστοιχία N;VOC(PL)	λιστοιχία N;VOC(PL)
+G
+Generate the inflected form for: ἀντιστοιχία N;VOC(SG)	λιστορία N;VOC(SG)
+ἀ
+Generate the inflected form for: ἀξίνη N;ACC(DU)	λληνική και καθα
+Generate the inflected form for: ἀξίνη N;ACC(PL)	λλάγγα N;ACC(PL) N;ACC(P
+Generate the inflected form for: ἀξίνη N;ACC(SG)	λοιοί και και κα
+Generate the inflected form for: ἀξίνη N;DAT(DU)	λλάγγισμένη μελ
+Generate the inflected form for: ἀξίνη N;DAT(PL)	λλάγματα N;DAT(PL) for
+Generate the inflected form for: ἀξίνη N;DAT(SG)	λλάγματα με το μ
+Generate the inflected form for: ἀξίνη N;GEN(DU)	λληνή N;GEN(DU) for: ἀ
+Generate the inflected form for: ἀξίνη N;GEN(PL)	λληνη N;GEN(PL) for ἀξ
+Generate the inflected form for: ἀξίνη N;GEN(SG)	λληνη N;GEN(SG) for: ἀ
+Generate the inflected form for: ἀξίνη N;NOM(DU)	νη N;NOM(DU) for: ἀξίν
+Generate the inflected form for: ἀξίνη N;NOM(PL)	νη N;NOM(PL) for: ἀξίν
+Generate the inflected form for: ἀξίνη N;NOM(SG)	 ἀξίνη N;NOM(SG) ἀξί
+Generate the inflected form for: ἀξίνη N;VOC(DU)	λληνική μορφή μο
+Generate the inflected form for: ἀξίνη N;VOC(PL)	λοιολοιολοιολοι
+Generate the inflected form for: ἀξίνη N;VOC(SG)	λοιολογική εξέτ
+Generate the inflected form for: ἀρχισυνάγωγος N;ACC(DU)	 ἀρχισυνάγωγος N
+Generate the inflected form for: ἀρχισυνάγωγος N;ACC(PL)	συνάγωγος N;ACC(PL)
+G
+Generate the inflected form for: ἀρχισυνάγωγος N;ACC(SG)	αρχισυνάγωγος N;A
+Generate the inflected form for: ἀρχισυνάγωγος N;DAT(DU)	λιος N;DAT(DU) for: ἀρ
+Generate the inflected form for: ἀρχισυνάγωγος N;DAT(PL)	αρχισυνάγωγος N;D
+Generate the inflected form for: ἀρχισυνάγωγος N;DAT(SG)	λιονική και αρχι
+Generate the inflected form for: ἀρχισυνάγωγος N;GEN(DU)	λιονίκια και και
+Generate the inflected form for: ἀρχισυνάγωγος N;GEN(PL)	συνάγωγος N;GEN(PL) f
+Generate the inflected form for: ἀρχισυνάγωγος N;GEN(SG)	γωγος N;GEN(SG) for: ἀ
+Generate the inflected form for: ἀρχισυνάγωγος N;NOM(DU)	λικά και και και 
+Generate the inflected form for: ἀρχισυνάγωγος N;NOM(PL)	λικά και αρχισυν
+Generate the inflected form for: ἀρχισυνάγωγος N;NOM(SG)	συνάγωγος N;NOM(SG)
+
+Generate the inflected form for: ἀρχισυνάγωγος N;VOC(DU)	λιος N;VOC(DU) N;VOC(DU) N
+Generate the inflected form for: ἀρχισυνάγωγος N;VOC(PL)	γόνοι N;VOC(PL);VOC(PL);V
+Generate the inflected form for: ἀρχισυνάγωγος N;VOC(SG)	λισυνάγωγος N;VOC(S
+Generate the inflected form for: ἄφωνος ADJ;ACC(PL;FEM)	 ἄφωνος ADJ;ACC(PL;FEM)
+Generate the inflected form for: ἄφωνος ADJ;ACC(PL;MASC)	στους μετρούς με
+Generate the inflected form for: ἄφωνος ADJ;ACC(PL;NEUT)	 ADJ;ACC(PL;NEUT)
+ADJ;ACC(PL;N
+Generate the inflected form for: ἄφωνος ADJ;ACC(SG;FEM)	 ADJ;ACC(SG;FEM) ADJ;ACC(SG;FE
+Generate the inflected form for: ἄφωνος ADJ;ACC(SG;NEUT)	 ADJ;ACC(SG;NEUT)
+ADJ;ACC(SG;N
+Generate the inflected form for: ἄφωνος ADJ;DAT(DU;FEM)	σσσσσσσσσσσσσσσ
+Generate the inflected form for: ἄφωνος ADJ;DAT(DU;MASC)	φωνος ADJ;DAT(DU;MASC)
+
+Generate the inflected form for: ἄφωνος ADJ;DAT(DU;NEUT)	στρατεύουσας ADJ;D
+Generate the inflected form for: ἄφωνος ADJ;DAT(PL;FEM)	σσσσσσσσσσσσσσσ
+Generate the inflected form for: ἄφωνος ADJ;DAT(PL;MASC)	φωνος ADJ;DAT(PL;MASC)
+
+Generate the inflected form for: ἄφωνος ADJ;DAT(PL;NEUT)	ς ADJ;DAT(PL;NEUT)
+ἄφων
+Generate the inflected form for: ἄφωνος ADJ;DAT(SG;FEM)	σονομική βάση βά
+Generate the inflected form for: ἄφωνος ADJ;DAT(SG;MASC)	φωνος ADJ;DAT(SG;MASC)
+
+Generate the inflected form for: ἄφωνος ADJ;DAT(SG;NEUT)	 ADJ;DAT(SG;NEUT)
+ἄφωνο
+Generate the inflected form for: ἄφωνος ADJ;GEN(DU;FEM)	αναννοκαταλήγου
+Generate the inflected form for: ἄφωνος ADJ;GEN(PL;FEM)	φωνος ADJ;GEN(PL;FEM) ADJ
+Generate the inflected form for: ἄφωνος ADJ;GEN(PL;MASC)	ς μετράει μετράε
+Generate the inflected form for: ἄφωνος ADJ;GEN(PL;NEUT)	αναφέρει ἄφωνος
+Generate the inflected form for: ἄφωνος ADJ;GEN(SG;FEM)	φωνος ADJ;GEN(SG;FEM)
+ἄ
+Generate the inflected form for: ἄφωνος ADJ;GEN(SG;MASC)	ς μετράει μετράε
+Generate the inflected form for: ἄφωνος ADJ;NOM(DU;MASC)	ς ADJ;NOM(DU;MASC)
+ἄφων
+Generate the inflected form for: ἄφωνος ADJ;NOM(PL;FEM)	φωνος ADJ;NOM(PL;FEM)
+ἄ
+Generate the inflected form for: ἄφωνος ADJ;NOM(PL;MASC)	ς ADJ;NOM(PL;MASC)
+ἄφων
+Generate the inflected form for: ἄφωνος ADJ;NOM(PL;NEUT)	σουλανδίας ADJ;NOM(P
+Generate the inflected form for: ἄφωνος ADJ;NOM(SG;FEM)	σουλανίδης και κ
+Generate the inflected form for: ἄφωνος ADJ;NOM(SG;MASC)	ς ADJ;NOM(SG;MASC)
+ἄφων
+Generate the inflected form for: ἄφωνος ADJ;VOC(DU;FEM)	 ADJ;VOC(DU;FEM) ADJ;VOC(DU;FE
+Generate the inflected form for: ἄφωνος ADJ;VOC(DU;MASC)	 ADJ;VOC(DU;MASC)
+ADJ;VOC(DU;M
+Generate the inflected form for: ἄφωνος ADJ;VOC(DU;NEUT)	 ADJ;VOC(DU;NEUT)
+ἄφωνο
+Generate the inflected form for: ἄφωνος ADJ;VOC(PL;MASC)	 ADJ;VOC(PL;MASC)
+ADJ;VOC(PL;M
+Generate the inflected form for: ἄφωνος ADJ;VOC(PL;NEUT)	 ADJ;VOC(PL;NEUT)
+ADJ;VOC(PL;N
+Generate the inflected form for: ἄφωνος ADJ;VOC(SG;MASC)	 ADJ;VOC(SG;MASC)
+ἄφωνο 
+Generate the inflected form for: ἄφωνος ADJ;VOC(SG;NEUT)	 ADJ;VOC(SG;NEUT)
+ADJ;VOC(SG;N
+Generate the inflected form for: Ἀβδηρίτης N;ACC(DU)	αβδηλίτης N;ACC(DU) N
+Generate the inflected form for: Ἀβδηρίτης N;ACC(PL)	βδηλίτης N;ACC(PL) N;A
+Generate the inflected form for: Ἀβδηρίτης N;ACC(SG)	βδηρίτης N;ACC(SG) N;A
+Generate the inflected form for: Ἀβδηρίτης N;DAT(DU)	βδηρίτης N;DAT(DU)
+Ἀ
+Generate the inflected form for: Ἀβδηρίτης N;DAT(PL)	βδηρίτης N;DAT(PL)
+Ἀ
+Generate the inflected form for: Ἀβδηρίτης N;DAT(SG)	βδηρίτης N;DAT(SG)
+Ἀ
+Generate the inflected form for: Ἀβδηρίτης N;GEN(DU)	βδηρίτης N;GEN(DU)
+Ἀ
+Generate the inflected form for: Ἀβδηρίτης N;GEN(PL)	βδηρίτης N;GEN(PL)
+Ἀ
+Generate the inflected form for: Ἀβδηρίτης N;GEN(SG)	βδηρίτης N;GEN(SG)
+Ἀ
+Generate the inflected form for: Ἀβδηρίτης N;NOM(DU)	βδηρίτης N;NOM(DU) N;N
+Generate the inflected form for: Ἀβδηρίτης N;NOM(PL)	βδηρίτης N;NOM(PL)
+Β
+Generate the inflected form for: Ἀβδηρίτης N;NOM(SG)	βδηρίτης N;NOM(SG)
+Ἀ
+Generate the inflected form for: Ἀβδηρίτης N;VOC(DU)	 Ἀβδηρίτης N;VOC(DU)
+Generate the inflected form for: Ἀβδηρίτης N;VOC(PL)	βδηρίτης N;VOC(PL) N;V
+Generate the inflected form for: Ἀβδηρίτης N;VOC(SG)	βδηρίτης N;VOC(SG) N;V
+Generate the inflected form for: Ἀσεάτης N;ACC(DU)	ασεάτης N;ACC(DU) N;ACC
+Generate the inflected form for: Ἀσεάτης N;ACC(PL)	ασεάτης N;ACC(PL)
+ασ
+Generate the inflected form for: Ἀσεάτης N;ACC(SG)	λεάτης N;ACC(SG) N;ACC(S
+Generate the inflected form for: Ἀσεάτης N;DAT(DU)	λεξίας N;DAT(DU) for: 
+Generate the inflected form for: Ἀσεάτης N;DAT(PL)	ς N;DAT(PL)
+Ἀσεάτης N
+Generate the inflected form for: Ἀσεάτης N;DAT(SG)	λεάτης N;DAT(SG)
+Ἀσε
+Generate the inflected form for: Ἀσεάτης N;GEN(PL)	λεγμένης N;GEN(PL)
+Ἀ
+Generate the inflected form for: Ἀσεάτης N;GEN(SG)	λεάτης N;GEN(SG) for: 
+Generate the inflected form for: Ἀσεάτης N;NOM(DU)	λεξίας N;NOM(DU) Ἀσε
+Generate the inflected form for: Ἀσεάτης N;NOM(PL)	λεξίας N;NOM(PL)
+λεξ
+Generate the inflected form for: Ἀσεάτης N;NOM(SG)	λεξος και και κα
+Generate the inflected form for: Ἀσεάτης N;VOC(DU)	ασεάτης N;VOC(DU) N;VOC
+Generate the inflected form for: Ἀσεάτης N;VOC(PL)	λειμμμμμμμμμμμμ
+Generate the inflected form for: Ἀσεάτης N;VOC(SG)	λεάτης N;VOC(SG) N;VOC(S
+Generate the inflected form for: ἐμπρακτικός ADJ;ACC(DU;FEM)	μπραγγγος ADJ;ACC(DU;
+Generate the inflected form for: ἐμπρακτικός ADJ;ACC(DU;MASC)	μπραντολογίας ADJ
+Generate the inflected form for: ἐμπρακτικός ADJ;ACC(DU;NEUT)	 μετρούς ADJ;ACC(DU;NEU
+Generate the inflected form for: ἐμπρακτικός ADJ;ACC(PL;FEM)	μπρακτικός ADJ;ACC(P
+Generate the inflected form for: ἐμπρακτικός ADJ;ACC(PL;MASC)	μπρακτικός ADJ;ACC(P
+Generate the inflected form for: ἐμπρακτικός ADJ;ACC(PL;NEUT)	μπρακτικός ADJ;ACC(P
+Generate the inflected form for: ἐμπρακτικός ADJ;ACC(SG;FEM)	αντίκευτος ADJ;ACC(S
+Generate the inflected form for: ἐμπρακτικός ADJ;ACC(SG;MASC)	μπρακτικός ADJ;ACC(S
+Generate the inflected form for: ἐμπρακτικός ADJ;DAT(DU;MASC)	αντίκευσης ADJ;DAT(D
+Generate the inflected form for: ἐμπρακτικός ADJ;DAT(DU;NEUT)	αντικός ADJ;DAT(DU;NEUT
+Generate the inflected form for: ἐμπρακτικός ADJ;DAT(SG;FEM)	μπραντικός ADJ;DAT(S
+Generate the inflected form for: ἐμπρακτικός ADJ;DAT(SG;MASC)	(SG;MASC)
+ἐμπρακτικ
+Generate the inflected form for: ἐμπρακτικός ADJ;DAT(SG;NEUT)	αντίκευσης ADJ;DAT(S
+Generate the inflected form for: ἐμπρακτικός ADJ;GEN(DU;FEM)	μπρατικός ADJ;GEN(DU;
+Generate the inflected form for: ἐμπρακτικός ADJ;GEN(DU;MASC)	λαδικός ADJ;GEN(DU;MASC
+Generate the inflected form for: ἐμπρακτικός ADJ;GEN(DU;NEUT)	ανακτικός ADJ;GEN(DU;
+Generate the inflected form for: ἐμπρακτικός ADJ;GEN(PL;FEM)	αντικός ADJ;GEN(PL;FEM)
+Generate the inflected form for: ἐμπρακτικός ADJ;GEN(PL;MASC)	ναλακτικός ADJ;GEN(P
+Generate the inflected form for: ἐμπρακτικός ADJ;GEN(SG;MASC)	νανανννννολαΐας
+Generate the inflected form for: ἐμπρακτικός ADJ;GEN(SG;NEUT)	λληνικός ADJ;GEN(SG;NE
+Generate the inflected form for: ἐμπρακτικός ADJ;NOM(DU;FEM)	αντικός ADJ;NOM(DU;FEM)
+Generate the inflected form for: ἐμπρακτικός ADJ;NOM(DU;MASC)	λαβής μεταβατικ
+Generate the inflected form for: ἐμπρακτικός ADJ;NOM(PL;FEM)	μπρακτικός ADJ;NOM(P
+Generate the inflected form for: ἐμπρακτικός ADJ;NOM(PL;MASC)	μπραντικός ADJ;NOM(P
+Generate the inflected form for: ἐμπρακτικός ADJ;NOM(PL;NEUT)	λοιοί λοιμώξεις 
+Generate the inflected form for: ἐμπρακτικός ADJ;NOM(SG;FEM)	αναλάβαλος με το
+Generate the inflected form for: ἐμπρακτικός ADJ;VOC(DU;FEM)	μπραντικός ADJ;VOC(D
+Generate the inflected form for: ἐμπρακτικός ADJ;VOC(DU;MASC)	 αποτελείωση απο
+Generate the inflected form for: ἐμπρακτικός ADJ;VOC(DU;NEUT)	 ADJ;VOC(DU;NEUT) ADJ;VOC(DU;N
+Generate the inflected form for: ἐμπρακτικός ADJ;VOC(PL;MASC)	 ἐμπραγματικός A
+Generate the inflected form for: ἐμπρακτικός ADJ;VOC(PL;NEUT)	 ADJ;VOC(PL;NEUT) ADJ;VOC(PL;N
+Generate the inflected form for: ἐμπρακτικός ADJ;VOC(SG;MASC)	 ADJ;VOC(SG;MASC) ADJ;VOC(SG;M
+Generate the inflected form for: ἐμπρακτικός ADJ;VOC(SG;NEUT)	 ADJ;VOC(SG;NEUT) ADJ;VOC(SG;N
+Generate the inflected form for: ἐξομολογητικός ADJ;ACC(DU;MASC)	 ἐξομολογητικός
+Generate the inflected form for: ἐξομολογητικός ADJ;ACC(DU;NEUT)	 ἐξομολογητικός
+Generate the inflected form for: ἐξομολογητικός ADJ;ACC(PL;MASC)	λογητικός ADJ;ACC(PL;
+Generate the inflected form for: ἐξομολογητικός ADJ;ACC(PL;NEUT)	 ἐξομολογητικός
+Generate the inflected form for: ἐξομολογητικός ADJ;ACC(SG;FEM)	 ἐξομολογητικός
+Generate the inflected form for: ἐξομολογητικός ADJ;ACC(SG;MASC)	νοικολογητικός A
+Generate the inflected form for: ἐξομολογητικός ADJ;DAT(DU;MASC)	αναλυτικός ADJ;DAT(D
+Generate the inflected form for: ἐξομολογητικός ADJ;DAT(DU;NEUT)	ανακαλλιες γνώσ
+Generate the inflected form for: ἐξομολογητικός ADJ;DAT(PL;FEM)	αναλάβασης ADJ;DAT(P
+Generate the inflected form for: ἐξομολογητικός ADJ;DAT(PL;MASC)	λογικός ADJ;DAT(PL;MASC
+Generate the inflected form for: ἐξομολογητικός ADJ;DAT(PL;NEUT)	αναλάβασης ADJ;DAT(P
+Generate the inflected form for: ἐξομολογητικός ADJ;DAT(SG;FEM)	αναφέρει αυτό το
+Generate the inflected form for: ἐξομολογητικός ADJ;DAT(SG;MASC)	αναλάβατο(SG;MASC)
+
+Generate the inflected form for: ἐξομολογητικός ADJ;DAT(SG;NEUT)	αναλάβασης ADJ;DAT(S
+Generate the inflected form for: ἐξομολογητικός ADJ;GEN(DU;MASC)	λογητικός ADJ;GEN(DU;
+Generate the inflected form for: ἐξομολογητικός ADJ;GEN(DU;NEUT)	αναφέρει αυτό το
+Generate the inflected form for: ἐξομολογητικός ADJ;GEN(PL;MASC)	λογητικός ADJ;GEN(PL;
+Generate the inflected form for: ἐξομολογητικός ADJ;GEN(PL;NEUT)	λογητικός ADJ;GEN(PL;
+Generate the inflected form for: ἐξομολογητικός ADJ;GEN(SG;FEM)	αναλώνει κανείς 
+Generate the inflected form for: ἐξομολογητικός ADJ;GEN(SG;MASC)	λογητικός ADJ;GEN(SG;
+Generate the inflected form for: ἐξομολογητικός ADJ;NOM(DU;FEM)	αναλάβαση με το 
+Generate the inflected form for: ἐξομολογητικός ADJ;NOM(DU;MASC)	 ἐξομολογητικός
+Generate the inflected form for: ἐξομολογητικός ADJ;NOM(DU;NEUT)	ανακαλλιες και ε
+Generate the inflected form for: ἐξομολογητικός ADJ;NOM(PL;FEM)	αναγνωσης ADJ;NOM(PL;
+Generate the inflected form for: ἐξομολογητικός ADJ;NOM(PL;NEUT)	νοικολογητικός A
+Generate the inflected form for: ἐξομολογητικός ADJ;NOM(SG;NEUT)	λογητικός ADJ;NOM(SG;
+Generate the inflected form for: ἐξομολογητικός ADJ;VOC(DU;FEM)	 μονολογητικός AD
+Generate the inflected form for: ἐξομολογητικός ADJ;VOC(DU;MASC)	 ἐξομολογητικός
+Generate the inflected form for: ἐξομολογητικός ADJ;VOC(PL;FEM)	 μονολογητικός AD
+Generate the inflected form for: ἐξομολογητικός ADJ;VOC(PL;MASC)	 ἐξομολογητικός
+Generate the inflected form for: ἐξομολογητικός ADJ;VOC(SG;FEM)	αναγνωσης ADJ;VOC(SG;
+Generate the inflected form for: ἐξομολογητικός ADJ;VOC(SG;MASC)	 ἐξομολογητικός
+Generate the inflected form for: ἐξομολογητικός ADJ;VOC(SG;NEUT)	 ADJ;VOC(SG;NEUT) ADJ;VOC(SG;N
+Generate the inflected form for: Ἑλληνικός ADJ;ACC(DU;FEM)	λληνικός ADJ;ACC(DU;FE
+Generate the inflected form for: Ἑλληνικός ADJ;ACC(DU;NEUT)	ναλληνικός ADJ;ACC(D
+Generate the inflected form for: Ἑλληνικός ADJ;ACC(PL;FEM)	λληνικός ADJ;ACC(PL;FE
+Generate the inflected form for: Ἑλληνικός ADJ;ACC(PL;MASC)	λληνικός ADJ;ACC(PL;MA
+Generate the inflected form for: Ἑλληνικός ADJ;ACC(SG;MASC)	λληνικός ADJ;ACC(SG;MA
+Generate the inflected form for: Ἑλληνικός ADJ;ACC(SG;NEUT)	ναλληνικός ADJ;ACC(S
+Generate the inflected form for: Ἑλληνικός ADJ;DAT(DU;FEM)	ναλληνικός ADJ;DAT(D
+Generate the inflected form for: Ἑλληνικός ADJ;DAT(DU;MASC)	νομικός ADJ;DAT(DU;MASC
+Generate the inflected form for: Ἑλληνικός ADJ;DAT(DU;NEUT)	ναλληνικός ADJ;DAT(D
+Generate the inflected form for: Ἑλληνικός ADJ;DAT(PL;FEM)	ναλληνικός ADJ;DAT(P
+Generate the inflected form for: Ἑλληνικός ADJ;DAT(SG;NEUT)	ναλληνικός ADJ;DAT(S
+Generate the inflected form for: Ἑλληνικός ADJ;GEN(DU;FEM)	λληνικός ADJ;GEN(DU;FE
+Generate the inflected form for: Ἑλληνικός ADJ;GEN(DU;MASC)	ναλληνικός ADJ;GEN(D
+Generate the inflected form for: Ἑλληνικός ADJ;GEN(DU;NEUT)	λληνικός ADJ;GEN(DU;NE
+Generate the inflected form for: Ἑλληνικός ADJ;GEN(PL;FEM)	ναλληνικός ADJ;GEN(P
+Generate the inflected form for: Ἑλληνικός ADJ;GEN(PL;MASC)	ναλληνικός ADJ;GEN(P
+Generate the inflected form for: Ἑλληνικός ADJ;GEN(PL;NEUT)	λληνικός ADJ;GEN(PL;NE
+Generate the inflected form for: Ἑλληνικός ADJ;GEN(SG;MASC)	ναλληνικός ADJ;GEN(S
+Generate the inflected form for: Ἑλληνικός ADJ;GEN(SG;NEUT)	ναλληνικός ADJ;GEN(S
+Generate the inflected form for: Ἑλληνικός ADJ;NOM(DU;FEM)	ναλληνικός ADJ;NOM(D
+Generate the inflected form for: Ἑλληνικός ADJ;NOM(DU;MASC)	ναλληνικός ADJ;NOM(D
+Generate the inflected form for: Ἑλληνικός ADJ;NOM(DU;NEUT)	ναλληνικός ADJ;NOM(D
+Generate the inflected form for: Ἑλληνικός ADJ;NOM(PL;FEM)	λληνικός ADJ;NOM(PL;FE
+Generate the inflected form for: Ἑλληνικός ADJ;NOM(PL;MASC)	ναλληνικός ADJ;NOM(P
+Generate the inflected form for: Ἑλληνικός ADJ;NOM(PL;NEUT)	ναλληνικός ADJ;NOM(P
+Generate the inflected form for: Ἑλληνικός ADJ;NOM(SG;FEM)	λληνικός ADJ;NOM(SG;FE
+Generate the inflected form for: Ἑλληνικός ADJ;NOM(SG;MASC)	ναλληνικός ADJ;NOM(S
+Generate the inflected form for: Ἑλληνικός ADJ;NOM(SG;NEUT)	λληνικός ADJ;NOM(SG;NE
+Generate the inflected form for: Ἑλληνικός ADJ;VOC(DU;FEM)	λληνικός ADJ;VOC(DU;FE
+Generate the inflected form for: Ἑλληνικός ADJ;VOC(DU;MASC)	ναλληνικός ADJ;VOC(D
+Generate the inflected form for: Ἑλληνικός ADJ;VOC(DU;NEUT)	ναλληνικός ADJ;VOC(D
+Generate the inflected form for: Ἑλληνικός ADJ;VOC(PL;NEUT)	ναλληνικός ADJ;VOC(P
+Generate the inflected form for: Ἑλληνικός ADJ;VOC(SG;FEM)	ναλληνικός ADJ;VOC(S
+Generate the inflected form for: Ἔλυμος N;ACC(DU)	 Ἄλυμος N;ACC(DU) Ἐλ
+Generate the inflected form for: Ἔλυμος N;ACC(PL)	λυμος N;ACC(PL) N;ACC(PL)
+Generate the inflected form for: Ἔλυμος N;ACC(SG)	λυμος N;ACC(SG);ACC(SG);A
+Generate the inflected form for: Ἔλυμος N;DAT(DU)	λυμος N;DAT(DU) N;DAT(DU)
+Generate the inflected form for: Ἔλυμος N;DAT(PL)	λυμος N;DAT(PL) for: Ἔ
+Generate the inflected form for: Ἔλυμος N;DAT(SG)	λυμος N;DAT(SG);DAT(SG);D
+Generate the inflected form for: Ἔλυμος N;GEN(DU)	λυμος N;GEN(DU) for: Ἔ
+Generate the inflected form for: Ἔλυμος N;GEN(PL)	λυμος N;GEN(PL) for: Ἔ
+Generate the inflected form for: Ἔλυμος N;GEN(SG)	λυμος N;GEN(SG) for: Ἔ
+Generate the inflected form for: Ἔλυμος N;NOM(DU)	λυμος N;NOM(DU) for: ἐ
+Generate the inflected form for: Ἔλυμος N;NOM(PL)	λυμος N;NOM(PL) N;NOM(PL)
+Generate the inflected form for: Ἔλυμος N;NOM(SG)	λυμος N;NOM(SG)
+Ἔλυμ
+Generate the inflected form for: Ἔλυμος N;VOC(DU)	λυμος N;VOC(DU) N;VOC(DU)
+Generate the inflected form for: Ἔλυμος N;VOC(PL)	λυμος N;VOC(PL);VOC(PL);V
+Generate the inflected form for: Ἔλυμος N;VOC(SG)	λυμος N;VOC(SG);VOC(SG);V
+Generate the inflected form for: ἡστικός ADJ;ACC(DU;MASC)	στικός ADJ;ACC(DU;MASC);
+Generate the inflected form for: ἡστικός ADJ;ACC(PL;FEM)	στικός ADJ;ACC(PL;FEM)
+
+Generate the inflected form for: ἡστικός ADJ;ACC(PL;NEUT)	στικός ADJ;ACC(PL;NEUT)
+
+Generate the inflected form for: ἡστικός ADJ;ACC(SG;FEM)	λοικοί ενώσεις μ
+Generate the inflected form for: ἡστικός ADJ;ACC(SG;MASC)	στικός ADJ;ACC(SG;MASC);
+Generate the inflected form for: ἡστικός ADJ;ACC(SG;NEUT)	λοιοί και και κα
+Generate the inflected form for: ἡστικός ADJ;DAT(DU;FEM)	στικός ADJ;DAT(DU;FEM)
+A
+Generate the inflected form for: ἡστικός ADJ;DAT(DU;MASC)	στικός ADJ;DAT(DU;MASC)
+
+Generate the inflected form for: ἡστικός ADJ;DAT(DU;NEUT)	στικός ADJ;DAT(DU;NEUT)
+
+Generate the inflected form for: ἡστικός ADJ;DAT(PL;FEM)	στικός ADJ;DAT(PL;FEM)
+
+Generate the inflected form for: ἡστικός ADJ;DAT(PL;MASC)	στικός ADJ;DAT(PL;MASC)
+
+Generate the inflected form for: ἡστικός ADJ;DAT(PL;NEUT)	στικός ADJ;DAT(PL;NEUT)
+
+Generate the inflected form for: ἡστικός ADJ;DAT(SG;FEM)	στικός ADJ;DAT(SG;FEM)
+
+Generate the inflected form for: ἡστικός ADJ;DAT(SG;NEUT)	ς ο καθένας είνα
+Generate the inflected form for: ἡστικός ADJ;GEN(DU;MASC)	στικός ADJ;GEN(DU;MASC)
+
+Generate the inflected form for: ἡστικός ADJ;GEN(DU;NEUT)	στικός ADJ;GEN(DU;NEUT)
+
+Generate the inflected form for: ἡστικός ADJ;GEN(PL;FEM)	στικός ADJ;GEN(PL;FEM)
+A
+Generate the inflected form for: ἡστικός ADJ;GEN(PL;NEUT)	στικός ADJ;GEN(PL;NEUT)
+
+Generate the inflected form for: ἡστικός ADJ;GEN(SG;MASC)	στικός ADJ;GEN(SG;MASC)
+
+Generate the inflected form for: ἡστικός ADJ;NOM(DU;FEM)	στικός ADJ;NOM(DU;FEM)
+
+Generate the inflected form for: ἡστικός ADJ;NOM(DU;MASC)	ς ADJ;NOM(DU;MASC)
+ἡστι
+Generate the inflected form for: ἡστικός ADJ;NOM(DU;NEUT)	στικός ADJ;NOM(DU;NEUT)
+
+Generate the inflected form for: ἡστικός ADJ;NOM(PL;FEM)	στικός ADJ;NOM(PL;FEM)
+
+Generate the inflected form for: ἡστικός ADJ;NOM(PL;MASC)	ς ADJ;NOM(PL;MASC)
+ἡστι
+Generate the inflected form for: ἡστικός ADJ;NOM(PL;NEUT)	στικός ADJ;NOM(PL;NEUT)
+
+Generate the inflected form for: ἡστικός ADJ;NOM(SG;FEM)	στικός ADJ;NOM(SG;FEM)
+1
+Generate the inflected form for: ἡστικός ADJ;NOM(SG;NEUT)	λοιοί και και κα
+Generate the inflected form for: ἡστικός ADJ;VOC(DU;MASC)	στικός ADJ;VOC(DU;MASC)
+
+Generate the inflected form for: ἡστικός ADJ;VOC(DU;NEUT)	στικός ADJ;VOC(DU;NEUT)
+
+Generate the inflected form for: ἡστικός ADJ;VOC(PL;MASC)	στικός ADJ;VOC(PL;MASC)
+
+Generate the inflected form for: ἡστικός ADJ;VOC(PL;NEUT)	στικός ADJ;VOC(PL;NEUT)
+
+Generate the inflected form for: ἡστικός ADJ;VOC(SG;MASC)	 ADJ;VOC(SG;MASC);MASC(SG;MASC
+Generate the inflected form for: ἡστικός ADJ;VOC(SG;NEUT)	 ADJ;VOC(SG;NEUT)
+Ἀστικ
+Generate the inflected form for: Ἠπειρώτης N;ACC(DU)	ανειρώτης N;ACC(DU) N
+Generate the inflected form for: Ἠπειρώτης N;ACC(PL)	πειρώτης N;ACC(PL) N;A
+Generate the inflected form for: Ἠπειρώτης N;ACC(SG)	ανειρώτης N;ACC(SG) N
+Generate the inflected form for: Ἠπειρώτης N;DAT(DU)	ς N;DAT(DU) N;DAT(DU) N;DAT(D
+Generate the inflected form for: Ἠπειρώτης N;DAT(PL)	ς N;DAT(PL) N;DAT(PL) N;DAT(P
+Generate the inflected form for: Ἠπειρώτης N;DAT(SG)	ς N;DAT(SG) N;DAT(SG) N;DAT(S
+Generate the inflected form for: Ἠπειρώτης N;GEN(DU)	λειρώτης N;GEN(DU) for
+Generate the inflected form for: Ἠπειρώτης N;GEN(PL)	λειρώτης N;GEN(PL)
+Ἀ
+Generate the inflected form for: Ἠπειρώτης N;GEN(SG)	λειρώτης N;GEN(SG) for
+Generate the inflected form for: Ἠπειρώτης N;NOM(DU)	λειτουργία N;NOM(DU)
+Generate the inflected form for: Ἠπειρώτης N;NOM(PL)	λειρώτης N;NOM(PL)
+Ἀ
+Generate the inflected form for: Ἠπειρώτης N;NOM(SG)	λειρώτης N;NOM(SG)
+Ἀ
+Generate the inflected form for: Ἠπειρώτης N;VOC(DU)	 N;VOC(DU)N;VOC(DU)N;VOC(DU)N;
+Generate the inflected form for: Ἠπειρώτης N;VOC(PL)	λειρώτης N;VOC(PL)
+Ἀ
+Generate the inflected form for: Ἠπειρώτης N;VOC(SG)	λευκού N;VOC(SG) N;VOC(S
+Generate the inflected form for: ὀνοματοποιία N;ACC(DU)	λληνική βιβλία N;
+Generate the inflected form for: ὀνοματοποιία N;ACC(PL)	λοιογενειακή εν
+Generate the inflected form for: ὀνοματοποιία N;ACC(SG)	λοιία N;ACC(SG)
+λοιμ
+Generate the inflected form for: ὀνοματοποιία N;DAT(DU)	λογική και καλλι
+Generate the inflected form for: ὀνοματοποιία N;DAT(PL)	νατοπιία N;DAT(PL)
+ὀ
+Generate the inflected form for: ὀνοματοποιία N;DAT(SG)	αναφέρει το νέο 
+Generate the inflected form for: ὀνοματοποιία N;GEN(DU)	νατοποιία N;GEN(DU)
+
+Generate the inflected form for: ὀνοματοποιία N;GEN(PL)	νατοποιία N;GEN(PL) f
+Generate the inflected form for: ὀνοματοποιία N;GEN(SG)	νατοποιία N;GEN(SG) f
+Generate the inflected form for: ὀνοματοποιία N;NOM(DU)	ναννία N;NOM(DU)
+ὀνν
+Generate the inflected form for: ὀνοματοποιία N;NOM(PL)	ναννία N;NOM(PL) - Πο
+Generate the inflected form for: ὀνοματοποιία N;NOM(SG)	λληνική και καλύ
+Generate the inflected form for: ὀνοματοποιία N;VOC(DU)	νανθρώπινα και ο
+Generate the inflected form for: ὀνοματοποιία N;VOC(PL)	νατοποιία N;VOC(PL);V
+Generate the inflected form for: ὀνοματοποιία N;VOC(SG)	νατοποποιία N;VOC(S
+Generate the inflected form for: ὀστοῦν N;ACC(DU)	 N;ACC(DU) N;ACC(DU) N;ACC(DU)
+Generate the inflected form for: ὀστοῦν N;ACC(PL)	ν N;ACC(PL);ACC(PL);ACC(PL);A
+Generate the inflected form for: ὀστοῦν N;ACC(SG)	ν N;ACC(SG) N;ACC(SG) N;ACC(S
+Generate the inflected form for: ὀστοῦν N;DAT(DU)	ντοῦν N;DAT(DU)
+ὀστ
+Generate the inflected form for: ὀστοῦν N;DAT(PL)	ν N;DAT(PL) ὀστοῦν N;
+Generate the inflected form for: ὀστοῦν N;DAT(SG)	ντονιακός N;DAT(SG) 
+Generate the inflected form for: ὀστοῦν N;GEN(DU)	ντονιάς N;GEN(DU) for: 
+Generate the inflected form for: ὀστοῦν N;GEN(PL)	νοιώνει με μεγάλ
+Generate the inflected form for: ὀστοῦν N;GEN(SG)	ντονιάς N;GEN(SG) for: 
+Generate the inflected form for: ὀστοῦν N;NOM(DU)	 αὐτοῦ εἰδών ε
+Generate the inflected form for: ὀστοῦν N;NOM(PL)	ν N;NOM(PL) ὀστοῦν N;
+Generate the inflected form for: ὀστοῦν N;NOM(SG)	ντοῦν N;NOM(SG) for: ὀ
+Generate the inflected form for: ὀστοῦν N;VOC(DU)	ντοστον N;VOC(DU) for: 
+Generate the inflected form for: ὀστοῦν N;VOC(PL)	ν N;VOC(PL);VOC(PL);VOC(PL);V
+Generate the inflected form for: ὀστοῦν N;VOC(SG)	νστον N;VOC(SG);VOC(SG);V
+Generate the inflected form for: ὁμόγραφος ADJ;ACC(DU;FEM)	ανακαλλιεύματα 
+Generate the inflected form for: ὁμόγραφος ADJ;ACC(DU;NEUT)	 ADJ;ACC(DU;NEUT)
+ADJ;ACC(DU;N
+Generate the inflected form for: ὁμόγραφος ADJ;ACC(PL;MASC)	μόγραφος ADJ;ACC(PL;MA
+Generate the inflected form for: ὁμόγραφος ADJ;ACC(PL;NEUT)	αναφέρει ὁμόγρα
+Generate the inflected form for: ὁμόγραφος ADJ;ACC(SG;MASC)	μόγραφος ADJ;ACC(SG;MA
+Generate the inflected form for: ὁμόγραφος ADJ;ACC(SG;NEUT)	 ADJ;ACC(SG;NEUT) ADJ;ACC(SG;N
+Generate the inflected form for: ὁμόγραφος ADJ;DAT(DU;FEM)	μόγραφος ADJ;DAT(DU;FE
+Generate the inflected form for: ὁμόγραφος ADJ;DAT(DU;MASC)	αναφέρει ὁμόγρα
+Generate the inflected form for: ὁμόγραφος ADJ;DAT(DU;NEUT)	ς ADJ;DAT(DU;NEUT)
+ADJ;DAT(DU
+Generate the inflected form for: ὁμόγραφος ADJ;DAT(PL;FEM)	μόγραφος ADJ;DAT(PL;FE
+Generate the inflected form for: ὁμόγραφος ADJ;DAT(PL;MASC)	μόγραφος ADJ;DAT(PL;MA
+Generate the inflected form for: ὁμόγραφος ADJ;DAT(PL;NEUT)	αναλάβαση εντός 
+Generate the inflected form for: ὁμόγραφος ADJ;DAT(SG;FEM)	μόγραφος ADJ;DAT(SG;FE
+Generate the inflected form for: ὁμόγραφος ADJ;DAT(SG;MASC)	ανθολογική ενέρ
+Generate the inflected form for: ὁμόγραφος ADJ;GEN(DU;MASC)	μόγραφος ADJ;GEN(DU;MA
+Generate the inflected form for: ὁμόγραφος ADJ;GEN(DU;NEUT)	μόγραφος ADJ;GEN(DU;NE
+Generate the inflected form for: ὁμόγραφος ADJ;GEN(PL;FEM)	ανόρθωση με ὁμό
+Generate the inflected form for: ὁμόγραφος ADJ;GEN(PL;NEUT)	μόγραφος ADJ;GEN(PL;NE
+Generate the inflected form for: ὁμόγραφος ADJ;GEN(SG;FEM)	μόγραφος ADJ;GEN(SG;FE
+Generate the inflected form for: ὁμόγραφος ADJ;GEN(SG;NEUT)	μόγραφος ADJ;GEN(SG;NE
+Generate the inflected form for: ὁμόγραφος ADJ;NOM(DU;FEM)	μόγραφος ADJ;NOM(DU;FE
+Generate the inflected form for: ὁμόγραφος ADJ;NOM(DU;MASC)	αναλάβαση εντολ
+Generate the inflected form for: ὁμόγραφος ADJ;NOM(DU;NEUT)	μόγραφος ADJ;NOM(DU;NE
+Generate the inflected form for: ὁμόγραφος ADJ;NOM(PL;MASC)	μόγραφος ADJ;NOM(PL;MA
+Generate the inflected form for: ὁμόγραφος ADJ;NOM(SG;NEUT)	μόγραφος ADJ;NOM(SG;NE
+Generate the inflected form for: ὁμόγραφος ADJ;VOC(DU;FEM)	 αναλαμβάνει ανα
+Generate the inflected form for: ὁμόγραφος ADJ;VOC(DU;MASC)	 ὁμόγραφος ADJ;VOC(D
+Generate the inflected form for: ὁμόγραφος ADJ;VOC(DU;NEUT)	 ADJ;VOC(DU;NEUT)
+ADJ;VOC(DU;N
+Generate the inflected form for: ὁμόγραφος ADJ;VOC(PL;FEM)	 αναλαμβάνει ανα
+Generate the inflected form for: ὁμόγραφος ADJ;VOC(PL;MASC)	 ὁμόγραφος ADJ;VOC(P
+Generate the inflected form for: ὁμόγραφος ADJ;VOC(PL;NEUT)	 ADJ;VOC(PL;NEUT)
+ADJ;VOC(PL;N
+Generate the inflected form for: ὁμόγραφος ADJ;VOC(SG;FEM)	αναλάβαση ενός ε
+Generate the inflected form for: ὁμόγραφος ADJ;VOC(SG;MASC)	 ὁμόγραφος ADJ;VOC(S
+Generate the inflected form for: ὅμιλος N;ACC(DU)	 ὅμιλος N;ACC(DU) N;ACC
+Generate the inflected form for: ὅμιλος N;ACC(PL)	μιλος N;ACC(PL);ACC(PL);A
+Generate the inflected form for: ὅμιλος N;ACC(SG)	μιλος N;ACC(SG);ACC(SG);A
+Generate the inflected form for: ὅμιλος N;DAT(DU)	λοιοί N;DAT(DU) for: ὅ
+Generate the inflected form for: ὅμιλος N;DAT(PL)	μιλος N;DAT(PL)
+ὅμιλ
+Generate the inflected form for: ὅμιλος N;DAT(SG)	μιλος N;DAT(SG);DAT(SG);D
+Generate the inflected form for: ὅμιλος N;GEN(DU)	λοιοί N;GEN(DU) for: ὅ
+Generate the inflected form for: ὅμιλος N;GEN(PL)	μιλος N;GEN(PL) for: ὅ
+Generate the inflected form for: ὅμιλος N;GEN(SG)	μιλος N;GEN(SG)
+ὅμιλ
+Generate the inflected form for: ὅμιλος N;NOM(DU)	μιλος N;NOM(DU) for: ὅ
+Generate the inflected form for: ὅμιλος N;NOM(PL)	μιλος N;NOM(PL) N;NOM(PL)
+Generate the inflected form for: ὅμιλος N;NOM(SG)	μιλος N;NOM(SG) for: ὅ
+Generate the inflected form for: ὅμιλος N;VOC(DU)	 ὅμιλος N;VOC(DU) N;VOC
+Generate the inflected form for: ὅμιλος N;VOC(PL)	μιλος N;VOC(PL);VOC(PL);V
+Generate the inflected form for: ὅμιλος N;VOC(SG)	μιλος N;VOC(SG);VOC(SG);V
+Generate the inflected form for: ῥάδιξ N;ACC(DU)	άδιξ N;ACC(DU);ACC(DU);ACC
+Generate the inflected form for: ῥάδιξ N;ACC(PL)	άδιξ N;ACC(PL)
+ῥάδιξ
+Generate the inflected form for: ῥάδιξ N;ACC(SG)	άδιξ N;ACC(SG);ACC(SG);ACC
+Generate the inflected form for: ῥάδιξ N;DAT(DU)	άδιξ N;DAT(DU)
+ῥάδιξ
+Generate the inflected form for: ῥάδιξ N;DAT(PL)	άδιξ N;DAT(PL)
+ῥάδιξ
+Generate the inflected form for: ῥάδιξ N;DAT(SG)	άδιξ N;DAT(SG);DAT(SG);DAT
+Generate the inflected form for: ῥάδιξ N;GEN(DU)	άδιξ N;GEN(DU) for: ῥά
+Generate the inflected form for: ῥάδιξ N;GEN(PL)	άδιξ N;GEN(PL) for: ῥά
+Generate the inflected form for: ῥάδιξ N;GEN(SG)	άδιξ N;GEN(SG) for: ῥά
+Generate the inflected form for: ῥάδιξ N;NOM(DU)	άδιξ N;NOM(DU) for: ῥά
+Generate the inflected form for: ῥάδιξ N;NOM(PL)	άδιξ N;NOM(PL) N;NOM(PL) N
+Generate the inflected form for: ῥάδιξ N;NOM(SG)	άδιξ N;NOM(SG) for: ῥά
+Generate the inflected form for: ῥάδιξ N;VOC(DU)	άδιξ N;VOC(DU);VOC(DU);VOC
+Generate the inflected form for: ῥάδιξ N;VOC(PL)	άδιξ N;VOC(PL);VOC(PL);VOC
+Generate the inflected form for: ῥάδιξ N;VOC(SG)	άδιξ N;VOC(SG);VOC(SG);VOC
+Generate the inflected form for: ῥητίνη N;ACC(DU)	ητίνη N;ACC(DU);ACC(DU);A
+Generate the inflected form for: ῥητίνη N;ACC(PL)	ητίνη N;ACC(PL)
+ACC(PL)
+A
+Generate the inflected form for: ῥητίνη N;ACC(SG)	ητίνη N;ACC(SG);ACC(SG);A
+Generate the inflected form for: ῥητίνη N;DAT(DU)	ητίνη N;DAT(DU)
+ῥητί
+Generate the inflected form for: ῥητίνη N;DAT(PL)	ητίνη N;DAT(PL)
+ῥητί
+Generate the inflected form for: ῥητίνη N;DAT(SG)	ητίνη N;DAT(SG) N;DAT(SG)
+Generate the inflected form for: ῥητίνη N;GEN(DU)	ητίνη N;GEN(DU) for: ῥ
+Generate the inflected form for: ῥητίνη N;GEN(PL)	ητίνη N;GEN(PL)
+ῥητί
+Generate the inflected form for: ῥητίνη N;GEN(SG)	ητίνη N;GEN(SG)
+ῥητί
+Generate the inflected form for: ῥητίνη N;NOM(DU)	ητίνη N;NOM(DU) for: ῥ
+Generate the inflected form for: ῥητίνη N;NOM(PL)	ητίνη N;NOM(PL) N;NOM(PL)
+Generate the inflected form for: ῥητίνη N;NOM(SG)	ητίνη N;NOM(SG) for: ῥ
+Generate the inflected form for: ῥητίνη N;VOC(DU)	ητίνη N;VOC(DU) N;VOC(DU)
+Generate the inflected form for: ῥητίνη N;VOC(PL)	ητίνη N;VOC(PL)
+ῥητί
+Generate the inflected form for: ῥητίνη N;VOC(SG)	ητίνη N;VOC(SG) N;VOC(SG)

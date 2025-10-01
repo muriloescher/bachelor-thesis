@@ -1,0 +1,1000 @@
+Generate the inflected form for: indiciar V;2;PL;IND;PST;IPFV	 V indiciar V indiciar V indic
+Generate the inflected form for: adequar V.PTCP;MASC;SG;PST	 adequar V.PTCP;MASC;SG;PST;PS
+Generate the inflected form for: desdizer V;2;SG;IND;PST;IPFV	er V;2;SG;IND;PST;IPFV;2;SG;IN
+Generate the inflected form for: refogar V.PTCP;PRS	ar V.PTCP;PRSb V.PTCP;PRSb V.P
+Generate the inflected form for: frequentar V;1;PL;IMP;POS	ar V;1;PL;IMP;POS;POS;POS;POS;
+Generate the inflected form for: condimentar V;1;SG;IND;PST;PFV	er V;1;SG;IND;PST;PFV;1;SG;IND
+Generate the inflected form for: içar V;3;PL;SBJV;FUT	 V;3;PL;SBJV;FUTf V;3;PL;SBJV;
+Generate the inflected form for: designar V;3;SG;IND;PST;IPFV	 V;3;SG;IND;PST;IPFV;3;SG;IND;
+Generate the inflected form for: ziguezaguear V;3;PL;IND;PST;PFV	ar V;3;PL;IND;PST;PFV;3;PL;IND
+Generate the inflected form for: acortinar V;3;PL;NFIN	ar V;3;PL;NFIN acortinar V;3;P
+Generate the inflected form for: estocar V;2;PL;COND	ar V;2;PL;COND;COND;COND;COND;
+Generate the inflected form for: estimular V;1;PL;IND;PST;PFV	 V V V V V V V V V V V V V V V
+Generate the inflected form for: harmonizar V;1;PL;IMP;NEG	ar V;1;PL;IMP;NEG;NEG;NEG;NEG;
+Generate the inflected form for: sublinhar V;1;PL;IND;PST;IPFV	ar V;1;PL;IND;PST;IPFV;1;PL;IN
+Generate the inflected form for: contra-atacar V;2;PL;NFIN	ar V;2;PL;NFIN;NFIN contra-ata
+Generate the inflected form for: pedalar V;1;PL;SBJV;PRS	ar V;1;PL;SBJV;PRSbj V;1;PL;SB
+Generate the inflected form for: vitimar V;1;PL;COND	 vitimar V;1;PL;COND;COND;COND
+Generate the inflected form for: brincar V;NFIN	ar V;NFIN brincar V;NFIN brinc
+Generate the inflected form for: latinar V;3;SG;IND;PST;PRF	 latinar latinar latinar latin
+Generate the inflected form for: desdizer V;3;PL;IMP;NEG	er V;3;PL;IMP;NEG;NEG;NEG;NEG;
+Generate the inflected form for: estipular V;3;PL;SBJV;PRS	ar V;3;PL;SBJV;3;PL;SBJV;3;PL;
+Generate the inflected form for: arquejar V;3;PL;COND	ar V;3;PL;COND;COND;COND;COND;
+Generate the inflected form for: pregar V;2;PL;IND;PST;IPFV	 V V V V V V V V V V V V V V V
+Generate the inflected form for: redimir V;1;PL;SBJV;FUT	 V;1;PL;SBJV;FUT;1;PL;SBJV;FUT
+Generate the inflected form for: borrar V;3;PL;SBJV;PST;IPFV	 V;3;PL;SBJV;PST;IPFV;3;PL;SBJ
+Generate the inflected form for: surtar V;1;PL;SBJV;FUT	ar V;1;PL;SBJV;FUT V;1;PL;SBJV
+Generate the inflected form for: impregnar V.PTCP;PRS	 V.PTCP;PRSe V.PTCP;PRSe V.PTC
+Generate the inflected form for: entrar V;2;PL;IND;PRS	 Set the inflected form for: e
+Generate the inflected form for: cagar V;1;SG;COND	ar V;1;SG;COND;COND;COND;COND;
+Generate the inflected form for: apedrejar V;3;SG;IMP;POS	ar V;3;SG;IMP;POS;POS;POS;POS;
+Generate the inflected form for: enfileirar V;2;SG;SBJV;FUT	 enfileirar V;2;SG;SBJV;FUT V;
+Generate the inflected form for: registar V;1;SG;SBJV;FUT	 V;1;SG;SBJV;FUT;1;SG;SBJV;FUT
+Generate the inflected form for: mutilar V;3;PL;SBJV;FUT	ar V;3;PL;SBJV;FUT V;3;PL;SBJV
+Generate the inflected form for: indiciar V;3;SG;SBJV;FUT	 V;3;SG;SBJV;FUT;3;SG;SBJV;FUT
+Generate the inflected form for: limar V;2;SG;SBJV;PST;IPFV	 V;2;SG;SBJV;PST;IPFV;2;SG;SBJ
+Generate the inflected form for: apatetar V;3;SG;SBJV;PST;IPFV	ar V;3;SG;SBJV;PST;IPFV;3;SG;S
+Generate the inflected form for: guardar V;3;PL;IMP;POS	 V;3;PL;IMP;POS;POS;POS;POS;PO
+Generate the inflected form for: pagar V;1;SG;IND;PRS	 pagar pagar pagar pagar pagar
+Generate the inflected form for: optar V;2;SG;IMP;NEG	 V;2;SG;IMP;NEG;IMP;NEG;IMP;NE
+Generate the inflected form for: voltar V;1;SG;NFIN	 voltar V;1;SG;NFINs;1;SG;NFIN
+Generate the inflected form for: coevoluir V;2;SG;IND;PST;PFV	 coevoluir V;2;SG;IND;PST;PFV;
+Generate the inflected form for: olear V;2;SG;COND	ar V;2;SG;COND;COND;COND;COND;
+Generate the inflected form for: conjecturar V;2;PL;IMP;POS	ar V;2;PL;IMP;POS;POS;POS;POS;
+Generate the inflected form for: raciocinar V;2;PL;IMP;POS	ar V;2;PL;IMP;POS;POS;POS;POS;
+Generate the inflected form for: secundar V;2;PL;NFIN	 PL NFIN PL NFIN PL NFIN PL NF
+Generate the inflected form for: aluviar V;3;PL;IND;FUT	 V;3;PL;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: aventar V;2;PL;IND;FUT	 V;2;PL;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: vesguear V;1;PL;SBJV;FUT	ar V;1;PL;SBJV;FUT V;1;PL;SBJV
+Generate the inflected form for: relacionar V;1;SG;IND;PRS	er V;1;SG;IND;PRSer V;1;SG;IND
+Generate the inflected form for: realçar V;2;PL;IMP;POS	 realçar realçar realçar re
+Generate the inflected form for: confraternizar V;1;SG;IND;FUT	izar confraternizar confratern
+Generate the inflected form for: olear V;3;SG;IMP;POS	ar V;3;SG;IMP;POS;POS;POS;POS;
+Generate the inflected form for: sangrar V;1;SG;IND;FUT	a V;1;SG;IND;FUT;FUT;FUT;FUT;F
+Generate the inflected form for: polimerizar V;3;SG;NFIN	 V;3;SG;NFINs V;3;SG;NFINs V;3
+Generate the inflected form for: anteceder V;1;SG;IND;FUT	 V;1;SG;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: delimitar V;1;PL;IMP;POS	 V;1;PL;IMP;POS;POS;POS;POS;PO
+Generate the inflected form for: contrabalançar V;2;SG;IMP;POS	ar V;2;SG;IMP;POS;POS;POS;POS;
+Generate the inflected form for: desarrazoar V;1;PL;SBJV;FUT	ar V;1;PL;SBJV;FUT V;1;PL;SBJV
+Generate the inflected form for: fallecer V;2;SG;SBJV;FUT	 fallecer V;2;SG;SBJV;FUT V;2;
+Generate the inflected form for: aventar V;2;PL;IND;PST;IPFV	 V;2;PL;IND;PST;IPFV;2;PL;IND;
+Generate the inflected form for: analisar V;1;PL;SBJV;FUT	 V;1;PL;SBJV;FUT;1;PL;SBJV;FUT
+Generate the inflected form for: adoecer V.PTCP;PRS	ar V.PTCP;PRSer V.PTCP;PRSer V
+Generate the inflected form for: arrebentar V;1;PL;NFIN	ar arrebentar arrebentar arreb
+Generate the inflected form for: extinguir V;3;PL;IND;PST;IPFV	 V;3;PL;IND;PST;IPFV;3;PL;IND;
+Generate the inflected form for: mastigar V;3;PL;IMP;POS	 mastigar mastigar mastigar ma
+Generate the inflected form for: constatar V;3;PL;IND;PST;IPFV	 V;3;PL;IND;PST;IPFV;3;PL;IND;
+Generate the inflected form for: filtrar V;3;PL;SBJV;FUT	 V;3;PL;SBJV;FUT;3;PL;SBJV;FUT
+Generate the inflected form for: tosar V;1;PL;IND;FUT	a V;1;PL;IND;FUT;FUT;FUT;FUT;F
+Generate the inflected form for: proliferar V;1;PL;SBJV;PRS	 V;1;PL;SBJV;PRSbj V;1;PL;SBJV
+Generate the inflected form for: cumprimentar V;1;SG;NFIN	emplar cumprimentar cumpriment
+Generate the inflected form for: comendar V;3;SG;IND;FUT	 V;3;SG;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: desarrazoar V;1;SG;IND;PST;PFV	ar desarrazoar desarrazoar des
+Generate the inflected form for: sonambular V.PTCP;MASC;SG;PST	ar V.PTCP;MASC;SG;PSTv.PTCP;MA
+Generate the inflected form for: sangrar V;3;PL;IND;PRS	ar sangrar sangrar sangrar san
+Generate the inflected form for: adivinhar V;3;PL;IMP;NEG	a V;3;PL;IMP;NEG;NEG;NEG;NEG;N
+Generate the inflected form for: lambujar V.PTCP;FEM;SG;PST	ar V.PTCP;FEM;SG;PSTby Sarah S
+Generate the inflected form for: registrar V;2;SG;SBJV;FUT	;SG;SBJV;FUT;SG;SBJV;FUT;SG;SB
+Generate the inflected form for: desembalar V;3;SG;IND;PST;IPFV	er V;3;SG;IND;PST;IPFV;3;SG;IN
+Generate the inflected form for: liquefazer V;2;PL;IMP;NEG	 V;2;PL;IMP;NEG;2;PL;IMP;NEG;2
+Generate the inflected form for: sobressair V;1;SG;IND;FUT	 sobressair sobressair sobress
+Generate the inflected form for: incorporar V;1;PL;IMP;POS	 Generate the inflected form f
+Generate the inflected form for: absceder V;3;SG;NFIN	er V;3;SG;NFIN; absceder V;3;S
+Generate the inflected form for: escassear V;1;SG;SBJV;PRS	ear escassear escassear escass
+Generate the inflected form for: registrar V;1;PL;IND;PST;IPFV	 inflected for: registrar V;1;
+Generate the inflected form for: retaliar V.PTCP;MASC;SG;PST	ar V.PTCP;MASC;SG;PSTv retalia
+Generate the inflected form for: vomitar V;2;PL;IND;PST;PRF	 V;2;PL;IND;PST;PRF;PRF;PRF;PR
+Generate the inflected form for: realçar V;1;PL;SBJV;FUT	 realçar realçar realçar re
+Generate the inflected form for: derrapar V;1;PL;IND;PRS	ar derrapar derrapar derrapar 
+Generate the inflected form for: denotar V;2;PL;IMP;NEG	 V;2;PL;IMP;NEG;2;PL;IMP;NEG;2
+Generate the inflected form for: encomendar V;1;SG;SBJV;FUT	 V;1;SG;SBJV;FUT;1;SG;SBJV;FUT
+Generate the inflected form for: escalfar V;3;PL;IMP;NEG	ar V;3;PL;IMP;NEG;2;PL;IMP;NEG
+Generate the inflected form for: desentranhar V;3;PL;IND;PST;IPFV	ar V;3;PL;IND;PST;IPFV;3;PL;IN
+Generate the inflected form for: amarrar V;2;SG;SBJV;FUT	ar V;2;SG;SBJV;FUT;2;SG;SBJV;F
+Generate the inflected form for: discar V;3;SG;SBJV;PRS	 V;3;SG;SBJV;PRSgenerate the i
+Generate the inflected form for: teclar V;3;PL;SBJV;PRS	 V;3;PL;SBJV;3;PL;SBJV;3;PL;SB
+Generate the inflected form for: alfabetizar V;1;PL;SBJV;PST;IPFV	er V;1;PL;SBJV;1;PL;SBJV;1;PL;
+Generate the inflected form for: ruir V;1;SG;SBJV;PST;IPFV	 ruir ruir ruir ruir ruir ruir
+Generate the inflected form for: arquivar V;1;SG;SBJV;FUT	 V;1;SG;SBJV;FUT;1;SG;SBJV;FUT
+Generate the inflected form for: terminar V;1;PL;IND;PST;IPFV	 terminar V;1;PL;IND;PST;IPFV;
+Generate the inflected form for: sublinhar V;3;PL;IND;PST;IPFV	ar V;3;PL;IND;PST;IPFV;3;PL;IN
+Generate the inflected form for: resplandecer V;2;PL;IND;PST;PFV	 V;2;PL;IND;PST;PFV;2;PL;IND;P
+Generate the inflected form for: talhar V;3;PL;NFIN	ar V;3;PL;NFIN talhar V;3;PL;N
+Generate the inflected form for: ondular V;3;SG;SBJV;PRS	ar V;3;SG;SBJV;PRSbjv;PRSbjv;P
+Generate the inflected form for: ensaiar V;2;SG;SBJV;FUT	 ensaiar V;2;SG;SBJV;FUT;2;SG;
+Generate the inflected form for: prover V;3;SG;COND	 V;3;SG;COND;COND;COND;COND;CO
+Generate the inflected form for: tagarelar V.PTCP;MASC;PL;PST	arelar V.PTCP;MASC;PL;PSTb V.P
+Generate the inflected form for: fallecer V;2;SG;SBJV;PRS	 fallecer fallecer fallecer fa
+Generate the inflected form for: relacionar V;3;PL;IMP;NEG	er V;3;PL;IMP;NEG;NEG;NEG;NEG;
+Generate the inflected form for: concordar V;3;PL;IND;PST;IPFV	 V;3;PL;IND;PST;IPFV;3;PL;IND;
+Generate the inflected form for: assemelhar V;3;PL;COND	 V;3;PL;COND V;3;PL;COND V;3;P
+Generate the inflected form for: filtrar V;2;PL;SBJV;FUT	 V;2;PL;SBJV;FUT;2;PL;SBJV;FUT
+Generate the inflected form for: engendrar V;1;SG;IND;PRS	endrar Generate the inflected 
+Generate the inflected form for: proliferar V;3;SG;SBJV;PRS	 V;3;SG;SBJV;PRSbjv;PRSbjv;PRS
+Generate the inflected form for: silenciar V;2;PL;IMP;NEG	ar V;2;PL;IMP;NEG;2;PL;IMP;NEG
+Generate the inflected form for: denominar V;1;PL;IND;PRS	 V;1;PL;IND;PRSb V;1;PL;IND;PR
+Generate the inflected form for: mumificar V;2;PL;IMP;POS	 mumificar mumificar mumificar
+Generate the inflected form for: complicar V;2;PL;IND;PST;PFV	 V V V V V V V V V V V V V V V
+Generate the inflected form for: terminar V;1;PL;IND;PST;PRF	 Generate the inflected form f
+Generate the inflected form for: bombardear V.PTCP;FEM;PL;PST	er V.PTCP;FEM;PL;PSTbomber V.P
+Generate the inflected form for: desossar V;1;SG;SBJV;PST;IPFV	a a a a a a a a a a a a a a a 
+Generate the inflected form for: remunerar V;3;SG;IND;PST;PFV	erar V;3;SG;IND;PST;PFV;3;SG;I
+Generate the inflected form for: recriar V;2;PL;IND;PST;PRF	r V;2;PL;IND;PST;PRF;2;PL;IND;
+Generate the inflected form for: enraivecer V;2;PL;COND	er V;2;PL;COND;COND;COND;COND;
+Generate the inflected form for: designar V;2;PL;IND;PST;PFV	 V V V V V V V V V V V V V V V
+Generate the inflected form for: damnar V;1;PL;IND;PRS	a V;1;PL;IND;PRSb V;1;PL;IND;P
+Generate the inflected form for: adequar V;3;SG;IND;PST;IPFV	 V;3;SG;IND;PST;IPFVerb V;3;SG
+Generate the inflected form for: complicar V;1;PL;SBJV;FUT	 V;1;PL;SBJV;FUT;1;PL;SBJV;FUT
+Generate the inflected form for: blasonar V;1;PL;IND;FUT	 blasonar blasonar blasonar bl
+Generate the inflected form for: interpelar V;2;SG;IND;PST;PRF	ar interpelar interpelar inter
+Generate the inflected form for: gatunar V;3;SG;IND;PRS	ar V;3;SG;IND;PRS;PRS;PRS;PRS;
+Generate the inflected form for: contrair V;3;PL;IMP;NEG	 V;3;PL;IMP;NEG;2;PL;IMP;NEG;2
+Generate the inflected form for: engastar V;1;SG;SBJV;PRS	 engastar engastar engastar en
+Generate the inflected form for: acreditar V;1;PL;IND;PST;PRF	;1;PL;IND;PST;PRF;1;PL;IND;PST
+Generate the inflected form for: compensar V;1;PL;IND;FUT	 V;1;PL;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: achatar V;NFIN	ar V;NFIN;NFIN;NFIN;NFIN;NFIN;
+Generate the inflected form for: olhar V;2;PL;IND;PST;PFV	 olhar V;2;PL;IND;PST;PFV;2;PL
+Generate the inflected form for: talhar V;1;SG;NFIN	ar V;1;SG;NFINs talhar V;1;SG;
+Generate the inflected form for: redimir V.PTCP;MASC;PL;PST	ir V.PTCP;MASC;PL;PST;PST;PST;
+Generate the inflected form for: lapidar V;NFIN	 V;NFIN V;NFIN V;NFIN V;NFIN V
+Generate the inflected form for: indiciar V;2;SG;IND;PST;PFV	 V;2;SG;IND;PST;PFV;2;SG;IND;P
+Generate the inflected form for: arquivar V;3;PL;IND;PST;PFV	 V;3;PL;IND;PST;PFV;3;PL;IND;P
+Generate the inflected form for: arquejar V;2;PL;COND	ar V;2;PL;COND;COND;COND;COND;
+Generate the inflected form for: cumprir V;1;PL;NFIN	 V;1;PL;NFIN;NFIN;NFIN;NFIN;NF
+Generate the inflected form for: estipular V;1;PL;SBJV;PRS	ar V;1;PL;SBJV;1;PL;SBJV;1;PL;
+Generate the inflected form for: encetar V.PTCP;MASC;SG;PST	ar V.PTCP;MASC;SG;PSTby enceta
+Generate the inflected form for: abscindir V;2;SG;SBJV;PRS	 abscindir V;2;SG;SBJV;PRSbjv;
+Generate the inflected form for: supurar V;2;SG;SBJV;PST;IPFV	ar V;2;SG;SBJV;PST;IPFV;2;SG;S
+Generate the inflected form for: ablegar V;1;PL;SBJV;FUT	ar V;1;PL;SBJV;FUT V;1;PL;SBJV
+Generate the inflected form for: resplendecer V.PTCP;FEM;SG;PST	er V.PTCP;FEM;SG;PSTby resplen
+Generate the inflected form for: charquear V;2;PL;IND;PST;PRF	 charquear charquear charquear
+Generate the inflected form for: enrubescer V;1;SG;IND;PST;PFV	er enrubescer enrubescer enrub
+Generate the inflected form for: aclamar V;1;PL;SBJV;FUT	ar V;1;PL;SBJV;FUT V;1;PL;SBJV
+Generate the inflected form for: anteceder V;3;SG;SBJV;FUT	 V;3;SG;SBJV;FUT;3;SG;SBJV;FUT
+Generate the inflected form for: criticar V;3;SG;IND;FUT	ar V;3;SG;IND;FUT;FUT;FUT;FUT;
+Generate the inflected form for: expectorar V;3;SG;IND;PRS	ar expectorar expectorar expec
+Generate the inflected form for: comprehender V;1;SG;IND;FUT	 comprehender V;1;SG;IND;FUT;F
+Generate the inflected form for: inquirir V;2;PL;SBJV;PST;IPFV	r V;2;PL;SBJV;PST;IPFV;2;PL;SB
+Generate the inflected form for: incorporar V;3;SG;IND;PRS	 inflected form for: incorpora
+Generate the inflected form for: sufocar V;2;PL;IND;PST;IPFV	 V;2;PL;IND;PST;IPFV;2;PL;IND;
+Generate the inflected form for: estimar V;2;SG;IND;PRS	 estimar estimar estimar estim
+Generate the inflected form for: desentranhar V;3;SG;COND	ar V;3;SG;COND;COND;COND;COND;
+Generate the inflected form for: achatar V;3;SG;IMP;NEG	ar V;3;SG;IMP;NEG;2;3;3;3;3;3;
+Generate the inflected form for: anteceder V;1;PL;IND;PST;PFV	 anteceder V;1;PL;IND;PST;PFVe
+Generate the inflected form for: adoecer V.PTCP;FEM;SG;PST	 adoecer V.PTCP;FEM;SG;PSTv ad
+Generate the inflected form for: interferir V;3;SG;SBJV;PST;IPFV	 V;3;SG;SBJV;PST;IPFV;3;SG;SBJ
+Generate the inflected form for: protrair V.PTCP;FEM;PL;PST	r I.PTCP;FEM;PL;PST protrair I
+Generate the inflected form for: charquear V;1;PL;IND;PST;PFV	ar charquear charquear charque
+Generate the inflected form for: ousar V;1;SG;NFIN	ar V;1;SG;NFIN;SG;NFIN ousar V
+Generate the inflected form for: adequar V.PTCP;FEM;SG;PST	 adequar V.PTCP;FEM;SG;PST;PST
+Generate the inflected form for: denominar V;1;PL;IND;PST;PRF	 V;1;PL;IND;PST;PRF;1;PL;IND;P
+Generate the inflected form for: estercar V;3;PL;IND;FUT	 V;3;PL;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: economizar V.PTCP;MASC;PL;PST	onomizar V.PTCP;MASC;PL;PST;PS
+Generate the inflected form for: afundir V;3;SG;IND;PST;PFV	 afundir afundir afundir afund
+Generate the inflected form for: visitar V;1;SG;IND;PST;IPFV	ar V;1;SG;IND;PST;IPFVerb visi
+Generate the inflected form for: condecorar V;2;PL;COND	er V;2;PL;condecorar V;2;PL;co
+Generate the inflected form for: adoecer V.PTCP;MASC;PL;PST	 adoecer V.PTCP;MASC;PL;PST ad
+Generate the inflected form for: cumprimentar V;1;PL;IND;FUT	er V;1;PL;IND;FUT;FUT;FUT;FUT;
+Generate the inflected form for: agradar V;2;PL;SBJV;FUT	 V;2;PL;SBJV;FUT;2;PL;SBJV;FUT
+Generate the inflected form for: prevalecer V;1;PL;IND;PRS	er V;1;PL;IND;PRSet the form f
+Generate the inflected form for: abafar V.PTCP;MASC;SG;PST	ar V.PTCP;MASC;SG;PSTv abafar 
+Generate the inflected form for: flutuar V;3;SG;IND;FUT	ar V;3;SG;IND;FUT;FUT;FUT;FUT;
+Generate the inflected form for: objetar V;1;PL;IND;PST;PFV	 V 1;PL;IND;PST;PFV 1;PL;IND;P
+Generate the inflected form for: escassear V.PTCP;FEM;SG;PST	ar escassear escassear escasse
+Generate the inflected form for: alojar V;2;PL;IND;FUT	 alojar V;2;PL;IND;FUT;FUT;FUT
+Generate the inflected form for: pagar V;2;PL;IND;PST;IPFV	ar V;2;PL;IND;PST;IPFV;2;PL;IN
+Generate the inflected form for: cintar V;1;PL;IND;PST;IPFV	 cintar V;1;PL;IND;PST;IPFV;1;
+Generate the inflected form for: tanger V;1;PL;IMP;NEG	 Generate the inflected for: t
+Generate the inflected form for: consolidar V;3;SG;IND;PST;IPFV	 V;3;SG;IND;PST;IPFV;3;SG;IND;
+Generate the inflected form for: amaynar V;1;SG;IND;PRS	ar amaynar amaynar amaynar ama
+Generate the inflected form for: condenar V;3;SG;IND;FUT	 V;3;SG;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: desistir V;2;SG;SBJV;PRS	 desistir V;2;SG;SBJV;PRSbjv;P
+Generate the inflected form for: frequentar V;3;PL;SBJV;FUT	 V;3;PL;SBJV;FUT;3;PL;SBJV;FUT
+Generate the inflected form for: brincar V;1;PL;SBJV;PRS	ar V;1;PL;SBJV;PRSbj V;1;PL;SB
+Generate the inflected form for: visitar V;1;PL;SBJV;FUT	ar V;1;PL;SBJV;FUT V;1;PL;SBJV
+Generate the inflected form for: vocalizar V;1;SG;IND;PRS	ar vocalizar vocalizar vocaliz
+Generate the inflected form for: safar V;3;PL;IND;PST;PRF	 safar safar safar safar safar
+Generate the inflected form for: pregar V;3;SG;IND;PST;IPFV	ar V;3;SG;IND;PST;IPFV;3;SG;IN
+Generate the inflected form for: encarcerar V;1;SG;SBJV;FUT	ar V;1;SG;SBJV;FUT;1;SG;SBJV;F
+Generate the inflected form for: talhar V;3;SG;IMP;NEG	ar V;3;SG;IMP;NEG;IMP;NEG;IMP;
+Generate the inflected form for: saturar V;3;PL;IND;PST;PFV	ar V;3;PL;IND;PST;PFV;3;PL;IND
+Generate the inflected form for: remunerar V;2;PL;IND;PRS	ar V;2;PL;IND;PRSb V;2;PL;IND;
+Generate the inflected form for: anotar V;2;SG;IND;PST;PFV	 V;2;SG;IND;PST;PFV;2;SG;IND;P
+Generate the inflected form for: apregoar V;1;SG;COND	ar V;1;SG;COND;COND;COND;COND;
+Generate the inflected form for: sonambular V;2;SG;IMP;NEG	ar V;2;SG;IMP;NEG;IMP;NEG;IMP;
+Generate the inflected form for: marchar V;1;SG;IND;FUT	 V;1;SG;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: seguir V;3;SG;IND;FUT	 V;3;SG;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: inquirir V;1;PL;SBJV;FUT	 V;1;PL;SBJV;FUT;1;PL;SBJV;FUT
+Generate the inflected form for: proliferar V;1;PL;IMP;NEG	 Generate the inflected form f
+Generate the inflected form for: desentranhar V;3;PL;IND;FUT	 desentranhar V;3;PL;IND;FUT;F
+Generate the inflected form for: escavar V;1;PL;SBJV;FUT	 V;1;PL;SBJV;FUT;1;PL;SBJV;FUT
+Generate the inflected form for: ascender V;3;PL;IND;PST;PFV	 ascender V;3;PL;IND;PST;PFV;3
+Generate the inflected form for: segmentar V;2;SG;IND;PST;IPFV	 V;2;SG;IND;PST;IPFV;2;SG;IND;
+Generate the inflected form for: desvairar V;3;PL;SBJV;PST;IPFV	ar V;3;PL;SBJV;PST;IPFV;3;PL;S
+Generate the inflected form for: ascender V;2;SG;SBJV;PST;IPFV	 V;2;SG;SBJV;PST;IPFV;PST;IPFV
+Generate the inflected form for: condecorar V;3;PL;IND;PRS	ar V;3;PL;IND;PRSb V;3;PL;IND;
+Generate the inflected form for: afundir V;2;SG;COND	 V;2;SG;COND;COND;COND;COND;CO
+Generate the inflected form for: escravizar V;1;SG;IND;PRS	ravizar escravizar escravizar 
+Generate the inflected form for: regularizar V;3;SG;IND;PST;PRF	er V;3;SG;IND;PST;PRF;PRF;PRF;
+Generate the inflected form for: revelar V;1;PL;IND;PST;PFV	ar V;1;PL;IND;PST;PFV;1;PL;IND
+Generate the inflected form for: entrar V.PTCP;PRS	 entrar V.PTCP;PRSb entrar V.P
+Generate the inflected form for: vir V;1;PL;SBJV;PST;IPFV	 V;1;PL;SBJV;1;PL;SBJV;1;PL;SB
+Generate the inflected form for: pescar V;2;SG;NFIN	e pescar pescar pescar pescar 
+Generate the inflected form for: bombardear V;1;SG;NFIN	ear V;1;SG;NFIN;NFIN;NFIN;NFIN
+Generate the inflected form for: colorar V;2;PL;SBJV;PRS	 V;2;PL;SBJV;PRSbj V;2;PL;SBJV
+Generate the inflected form for: surtar V;2;SG;SBJV;PRS	 surtar surtar surtar surtar s
+Generate the inflected form for: arrebentar V;3;PL;IND;PST;PFV	ar ebentar ar ebentar ar ebent
+Generate the inflected form for: mastigar V;2;PL;SBJV;PRS	 mastigar mastigar mastigar ma
+Generate the inflected form for: enrubescer V;1;PL;IND;PRS	er enrubescer enrubescer enrub
+Generate the inflected form for: privilegiar V;2;SG;SBJV;PST;IPFV	iar V;2;SG;SBJV;PST;IPFV;2;SG;
+Generate the inflected form for: desossar V;NFIN	ar V;NFIN;NFIN;NFIN;NFIN;NFIN;
+Generate the inflected form for: deificar V;3;SG;SBJV;FUT	 V;3;SG;SBJV;FUT;3;SG;SBJV;FUT
+Generate the inflected form for: vesguear V;3;PL;SBJV;PRS	ar V;3;PL;SBJV;PRSbjv;prsbjv;p
+Generate the inflected form for: alucinar V;2;PL;IMP;NEG	 V;2;PL;IMP;NEG;2;PL;IMP;NEG;2
+Generate the inflected form for: printar V;3;PL;IND;PST;IPFV	 V;3;PL;IND;PST;IPFV;3;PL;IND;
+Generate the inflected form for: simpatizar V;1;SG;IND;FUT	i simpatizar simpatizar simpat
+Generate the inflected form for: ondular V;2;SG;SBJV;FUT	 V;2;SG;SBJV;FUT;2;SG;SBJV;FUT
+Generate the inflected form for: sobressair V;1;SG;SBJV;PRS	 sobressair sobressair sobress
+Generate the inflected form for: escassear V;2;SG;SBJV;PST;IPFV	 V;2;SG;SBJV;PST;IPFV;2;SG;SBJ
+Generate the inflected form for: maltar V;2;SG;IMP;NEG	 maltar V;2;SG;IMP;NEG;IMP;NEG
+Generate the inflected form for: delinear V;1;PL;SBJV;PRS	ear V;1;PL;SBJV;1;PL;SBJV;1;PL
+Generate the inflected form for: desistir V;2;PL;SBJV;PRS	 V;2;PL;SBJV;PRSbj V;2;PL;SBJV
+Generate the inflected form for: secundar V;2;PL;SBJV;PRS	 secundar V;2;PL;SBJV;2;PL;SBJ
+Generate the inflected form for: ensaiar V;2;PL;IND;PST;PRF	 ensaiar ensaiar ensaiar ensai
+Generate the inflected form for: analisar V;2;SG;IND;PRS	a V;2;SG;IND;PRSet the inflect
+Generate the inflected form for: sonambular V;2;PL;COND	ar V;2;PL;COND;COND;COND;COND;
+Generate the inflected form for: alucinar V;1;PL;IND;PRS	 alucinar alucinar alucinar al
+Generate the inflected form for: comprehender V;2;PL;SBJV;PRS	 V;2;PL;SBJV;2;PL;SBJV;2;PL;SB
+Generate the inflected form for: molestar V;1;PL;NFIN	 molestar molestar molestar mo
+Generate the inflected form for: biotransformar V;1;PL;IMP;POS	 V;1;PL;IMP;POS;POS;POS;POS;PO
+Generate the inflected form for: pagar V;1;PL;COND	 pagar V;1;PL;COND;COND;COND;C
+Generate the inflected form for: designar V;1;PL;IND;PST;PFV	 V 1;PL;IND;PST;PFV 1;PL;IND;P
+Generate the inflected form for: engendrar V;2;SG;IMP;POS	er V;2;SG;IMP;POS;POS;POS;POS;
+Generate the inflected form for: jazer V;3;PL;IND;PRS	 V;3;PL;IND;PRSb V;3;PL;IND;PR
+Generate the inflected form for: tratar V;1;PL;SBJV;PRS	ar V;1;PL;SBJV;1;PL;SBJV;1;PL;
+Generate the inflected form for: instigar V.PTCP;MASC;PL;PST	igar instigar instigar instiga
+Generate the inflected form for: leiloar V;3;PL;SBJV;FUT	 leiloar V;3;PL;SBJV;FUT;3;PL;
+Generate the inflected form for: uivar V;2;PL;IND;PST;PRF	 V;2;PL;IND;PST;PRF;PRF;PRF;PR
+Generate the inflected form for: ludibriar V;2;SG;IMP;NEG	ar V;2;SG;IMP;NEG;IMP;NEG;IMP;
+Generate the inflected form for: complicar V;1;PL;IMP;NEG	 V;1;PL;IMP;NEG;NEG;NEG;NEG;NE
+Generate the inflected form for: açacalar V.PTCP;FEM;SG;PST	alar açacalar açacalar açac
+Generate the inflected form for: escravizar V;1;SG;COND	izar V;1;SG;COND;COND;COND;CON
+Generate the inflected form for: colorar V;1;PL;SBJV;PST;IPFV	 V;1;PL;SBJV;1;PL;SBJV;1;PL;SB
+Generate the inflected form for: cagar V;NFIN	ar V;NFIN cagar V;NFIN cagar V
+Generate the inflected form for: alucinar V.PTCP;FEM;SG;PST	 V.PTCP;FEM;SG;PSTby alucinar 
+Generate the inflected form for: blogar V;2;PL;COND	;COND;COND;COND;COND;COND;COND
+Generate the inflected form for: enrubescer V;2;PL;SBJV;FUT	er V;2;PL;SBJV;FUT V;2;PL;SBJV
+Generate the inflected form for: cagar V;2;SG;SBJV;PST;IPFV	 cagar V;2;SG;SBJV;PST;IPFV;2;
+Generate the inflected form for: conjecturar V;3;SG;COND	;3;SG;COND;COND;COND;COND;COND
+Generate the inflected form for: assoprar V;3;PL;IMP;POS	ar assoprar assoprar assoprar 
+Generate the inflected form for: destratar V;3;SG;IMP;NEG	ar destratar destratar destrat
+Generate the inflected form for: crochetar V;2;SG;IND;PST;IPFV	 for: crochetar V;2;SG;IND;PST
+Generate the inflected form for: aquaplanar V;3;PL;IND;PST;IPFV	ar V;3;PL;IND;PST;IPFV;3;PL;IN
+Generate the inflected form for: surtar V;1;SG;COND	 surtar V;1;SG;COND;COND;COND;
+Generate the inflected form for: silenciar V;3;PL;SBJV;PRS	ar V;3;PL;SBJV;PRSbj V;3;PL;SB
+Generate the inflected form for: latir V;3;SG;SBJV;PRS	 V;3;SG;SBJV;PRSbjv;PRSbjv;PRS
+Generate the inflected form for: frequentar V;NFIN	 frequentar V;NFINg frequentar
+Generate the inflected form for: içar V;1;PL;IND;FUT	 içar içar içar içar içar
+Generate the inflected form for: sinterizar V;3;SG;IND;PRS	izar sinterizar sinterizar sin
+Generate the inflected form for: flutuar V;2;SG;SBJV;FUT	ar V;2;SG;SBJV;FUT V;2;SG;SBJV
+Generate the inflected form for: leiloar V;1;SG;IND;PST;IPFV	ar leiloar leiloar leiloar lei
+Generate the inflected form for: blogar V;3;PL;IND;PST;PFV	 blogar V;3;PL;IND;PST;PFVersi
+Generate the inflected form for: lambujar V;2;SG;NFIN	ar lambujar lambujar lambujar 
+Generate the inflected form for: printar V;2;PL;IND;FUT	 V;2;PL;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: impregnar V;2;PL;IMP;POS	 impregnar V;2;PL;IMP;POS;POS;
+Generate the inflected form for: attentar V;1;SG;IND;PST;PRF	 attentar attentar attentar at
+Generate the inflected form for: arianizar V;2;PL;IMP;NEG	 V;2;PL;IMP;NEG;2;PL;IMP;NEG;2
+Generate the inflected form for: marchar V;3;PL;IND;FUT	 V;3;PL;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: arquejar V;1;PL;IMP;POS	 V;1;PL;IMP;POS;POS;POS;POS;PO
+Generate the inflected form for: encriptar V;2;SG;SBJV;PST;IPFV	 V;2;SG;SBJV;PST;IPFV;2;SG;SBJ
+Generate the inflected form for: manjar V;2;PL;IND;PST;PRF	 manjar manjar manjar manjar m
+Generate the inflected form for: alocar V;2;SG;IND;PST;PFV	 alocar V;2;SG;IND;PST;PFV;PFV
+Generate the inflected form for: vesguear V;3;PL;SBJV;FUT	ar V;3;PL;SBJV;FUT V;3;PL;SBJV
+Generate the inflected form for: encetar V;3;PL;SBJV;PST;IPFV	ar V;3;PL;SBJV;PST;IPFV;3;PL;S
+Generate the inflected form for: eliminar V;2;SG;IMP;NEG	 eliminar V;2;SG;IMP;NEG;IMP;N
+Generate the inflected form for: ziguezaguear V;1;PL;SBJV;FUT	 V;1;PL;SBJV;FUT V;1;PL;SBJV;F
+Generate the inflected form for: bombardear V;3;SG;SBJV;PST;IPFV	ear V;3;SG;SBJV;PST;IPFV;PST;I
+Generate the inflected form for: ladrar V;1;SG;IND;PST;PRF	ar ladrar ladrar ladrar ladrar
+Generate the inflected form for: amamentar V.PTCP;MASC;PL;PST	ar V.PTCP;MASC;PL;PSTb amament
+Generate the inflected form for: protrair V;3;PL;IMP;POS	r protrair protrair protrair p
+Generate the inflected form for: menosprezar V;2;SG;IND;FUT	ar V;2;SG;IND;FUT;FUT;FUT;FUT;
+Generate the inflected form for: botar V;3;SG;IMP;POS	 botar V;3;SG;IMP;POS;POS;POS;
+Generate the inflected form for: ascender V;1;PL;IND;FUT	 V;1;PL;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: ruir V;3;PL;NFIN	 ruir V;3;PL;NFIN V;3;PL;NFIN 
+Generate the inflected form for: munir V;1;PL;NFIN	 munir munir munir munir munir
+Generate the inflected form for: estimular V;3;PL;SBJV;PRS	 V;3;PL;SBJV;3;PL;SBJV;3;PL;SB
+Generate the inflected form for: bombardear V;1;SG;IND;FUT	er bombardear bombardear bomba
+Generate the inflected form for: escassear V;3;PL;IND;FUT	er V;3;PL;IND;FUT;FUT;FUT;FUT;
+Generate the inflected form for: registrar V;2;PL;NFIN	 registrar V;2;PL;NFINgenerate
+Generate the inflected form for: maquinar V;2;SG;SBJV;PRS	 maquinar V;2;SG;SBJV;PRSbjv;P
+Generate the inflected form for: embasar V;3;SG;IMP;NEG	ar V;3;SG;IMP;NEG;NEG;NEG;NEG;
+Generate the inflected form for: sonambular V;2;PL;IMP;POS	ar V;2;PL;IMP;POS;POS;POS;POS;
+Generate the inflected form for: frequentar V;2;SG;SBJV;FUT	 V;2;SG;SBJV;FUT;2;SG;SBJV;FUT
+Generate the inflected form for: comprehender V;2;SG;NFIN	;2;SG;NFINs;2;SG;NFINs;2;SG;NF
+Generate the inflected form for: lambujar V;1;PL;SBJV;PRS	a lambujar lambujar lambujar l
+Generate the inflected form for: crescer V;1;PL;IND;PST;PFV	 V;1;PL;IND;PST;PFV;1;PL;IND;P
+Generate the inflected form for: leiloar V;3;SG;IND;FUT	ar V;3;SG;IND;FUT;FUT;FUT;FUT;
+Generate the inflected form for: antidotar V;NFIN	 V;NFINg V;NFINg V;NFINg V;NFI
+Generate the inflected form for: sufocar V;1;SG;COND	 sufocar V;1;SG;COND;COND;COND
+Generate the inflected form for: rufar V;2;PL;IND;PST;PFV	 rufar rufar rufar rufar rufar
+Generate the inflected form for: estrumar V.PTCP;MASC;SG;PST	ar V.PTCP;MASC;SG;PSTb estruma
+Generate the inflected form for: registar V;2;SG;IND;PST;PRF	 V;2;SG;IND;PST;PRF;PRF;PRF;PR
+Generate the inflected form for: postular V.PTCP;FEM;SG;PST	 V.PTCP;FEM;SG;PSTwo V.PTCP;FE
+Generate the inflected form for: anabolizar V;2;PL;SBJV;PRS	 V;2;PL;SBJV;PRSbj V;2;PL;SBJV
+Generate the inflected form for: printar V;2;SG;COND	 V;2;SG;COND;COND;COND;COND;CO
+Generate the inflected form for: desvairar V;NFIN	 desvairar V;NFINg desvairar V
+Generate the inflected form for: desrespeitar V.PTCP;MASC;SG;PST	er V.PTCP;MASC;SG;PSTv.PTCP;MA
+Generate the inflected form for: prover V;2;SG;SBJV;PST;IPFV	 V;2;SG;SBJV;2;SG;SBJV;2;SG;SB
+Generate the inflected form for: comichar V;1;PL;IND;PST;IPFV	 V;1;PL;IND;PST;IPFV;1;PL;IND;
+Generate the inflected form for: telhar V;1;PL;IMP;NEG	 telhar V;1;PL;IMP;NEG;NEG;NEG
+Generate the inflected form for: assemelhar V;3;SG;IMP;POS	 assemelhar V;3;SG;IMP;POS;POS
+Generate the inflected form for: simpatizar V;1;SG;SBJV;PST;IPFV	ar simpatizar simpatizar simpa
+Generate the inflected form for: deliciar V;3;PL;COND	er V;3;PL;COND;COND;COND;COND;
+Generate the inflected form for: flutuar V;1;SG;SBJV;PST;IPFV	 flutuar V;1;SG;SBJV;PST;IPFV;
+Generate the inflected form for: ladrar V;3;PL;IND;PST;PFV	ar ladrar ladrar ladrar ladrar
+Generate the inflected form for: expectorar V;1;SG;NFIN	 expectorar expectorar expecto
+Generate the inflected form for: munir V;2;SG;NFIN	 munir munir munir munir munir
+Generate the inflected form for: destratar V;3;PL;IND;PST;PFV	ar destratar destratar destrat
+Generate the inflected form for: estocar V;3;SG;IND;PST;PRF	 estocar estocar estocar estoc
+Generate the inflected form for: kickar V;1;PL;SBJV;PST;IPFV	 kickar V;1;PL;SBJV;1;PL;SBJV;
+Generate the inflected form for: ponderar V;3;PL;SBJV;FUT	ar V;3;PL;SBJV;FUT;3;PL;SBJV;F
+Generate the inflected form for: desarmar V;1;SG;IND;PRS	ar desarmar desarmar desarmar 
+Generate the inflected form for: terminar V.PTCP;FEM;PL;PST	 II II II II II II II II II II
+Generate the inflected form for: antidotar V;3;SG;IMP;NEG	 V;3;SG;IMP;NEG;2;SG;IMP;NEG;2
+Generate the inflected form for: remunerar V;1;PL;IND;PST;IPFV	 V remunerar V remunerar V rem
+Generate the inflected form for: vomitar V;1;SG;NFIN	 V;1;SG;NFIN;1;SG;NFIN V;1;SG;
+Generate the inflected form for: ponderar V;2;SG;IMP;NEG	ar V;2;SG;IMP;NEG;IMP;NEG;IMP;
+Generate the inflected form for: vesguear V.PTCP;MASC;PL;PST	ar V.PTCP;MASC;PL;PSTgenerate 
+Generate the inflected form for: analisar V;2;SG;COND	 V;2;SG;COND;COND;COND;COND;CO
+Generate the inflected form for: realçar V.PTCP;MASC;PL;PST	ar realçar realçar realçar 
+Generate the inflected form for: arquivar V;1;SG;IND;PST;PFV	 arquivar V;1;SG;IND;PST;PFV;P
+Generate the inflected form for: secundar V;3;SG;IND;PST;PFV	 V;3;SG;IND;PST;PFV;3;SG;IND;P
+Generate the inflected form for: adjudicar V;2;PL;IND;PST;PFV	ar V;2;PL;IND;PST;PFV;2;PL;IND
+Generate the inflected form for: arianizar V;1;SG;COND	ar V;1;SG;COND;COND;COND;COND;
+Generate the inflected form for: açacalar V;2;SG;IMP;NEG	ar açacalar açacalar açacal
+Generate the inflected form for: marchar V;2;SG;NFIN	 SG;NFINs Generate the inflect
+Generate the inflected form for: desrespeitar V;2;PL;IND;PST;PRF	er desrespeitar desrespeitar d
+Generate the inflected form for: estimular V;2;PL;SBJV;PST;IPFV	 V;2;PL;SBJV;2;PL;SBJV;2;PL;SB
+Generate the inflected form for: abafar V;2;SG;NFIN	ar V;2;SG;NFIN;SG;NFIN abafar 
+Generate the inflected form for: sobressair V;3;PL;COND	air V;3;PL;COND;COND;COND;COND
+Generate the inflected form for: desentranhar V;1;PL;IND;FUT	 desentranhar desentranhar des
+Generate the inflected form for: blasonar V;1;PL;IMP;NEG	ar blasonar blasonar blasonar 
+Generate the inflected form for: arrebentar V;3;SG;SBJV;PRS	ar V;3;SG;SBJV;PRSbjv;PRSbjv;P
+Generate the inflected form for: simbolizar V;3;SG;NFIN	i simbolizar V;3;SG;NFIN;SG;NF
+Generate the inflected form for: acortinar V;3;SG;IND;FUT	ar V;3;SG;IND;FUT;FUT;FUT;FUT;
+Generate the inflected form for: crochetar V;3;SG;IND;PST;PFV	 V;3;SG;IND;PST;PFV;PFV;PFV;PF
+Generate the inflected form for: açacalar V;2;SG;IND;PRS	acalar V;2;SG;IND;PRS;IND;PRS;
+Generate the inflected form for: cumprimentar V;1;SG;IND;FUT	ector V;1;SG;IND;FUT;FUT;FUT;F
+Generate the inflected form for: vincular V;1;PL;IND;PRS	ar V;1;PL;IND;PRSb vincular V;
+Generate the inflected form for: latir V;1;SG;SBJV;PST;IPFV	 V;1;SG;SBJV;PST;IPFV;1;SG;SBJ
+Generate the inflected form for: agradar V;2;SG;SBJV;PRS	 agradar agradar agradar agrad
+Generate the inflected form for: silenciar V.PTCP;FEM;SG;PST	ar V.PTCP;FEM;SG;PSTb silencia
+Generate the inflected form for: derrapar V;2;SG;COND	ar V;2;SG;COND;COND;COND;COND;
+Generate the inflected form for: desentranhar V;2;SG;IND;PST;PFV	ar desentranhar desentranhar d
+Generate the inflected form for: botar V;3;SG;IND;PST;PRF	 botar botar botar botar botar
+Generate the inflected form for: escavar V;1;SG;IND;PRS	 escavar V;1;SG;IND;PRS;PRS;PR
+Generate the inflected form for: sobressair V;3;SG;COND	air V;3;SG;COND;COND;COND;COND
+Generate the inflected form for: zumbificar V;1;SG;SBJV;PST;IPFV	ificar V;1;SG;SBJV;1;SG;SBJV;1
+Generate the inflected form for: confraternizar V;2;SG;SBJV;PST;IPFV	izar V;2;SG;SBJV;PST;IPFV;2;SG
+Generate the inflected form for: parcelar V;3;SG;SBJV;PST;IPFV	 V;3;SG;SBJV;PST;IPFV;3;SG;SBJ
+Generate the inflected form for: prender V;2;SG;COND	er V;2;SG;COND;COND;COND;COND;
+Generate the inflected form for: sociabilizar V;2;PL;SBJV;PST;IPFV	izar V;2;PL;SBJV;2;PL;SBJV;2;P
+Generate the inflected form for: alocar V;1;PL;COND	 alocar V;1;PL;COND;COND;COND;
+Generate the inflected form for: comprehender V;1;SG;SBJV;PRS	 V;1;SG;SBJV;PRSeq V;1;SG;SBJV
+Generate the inflected form for: fatorar V;3;PL;NFIN	ar fatorar fatorar fatorar fat
+Generate the inflected form for: terminar V;3;SG;IMP;POS	 V;3;SG;IMP;POS;POS;POS;POS;PO
+Generate the inflected form for: adoecer V;2;SG;COND	 adoecer V;2;SG;COND;COND;COND
+Generate the inflected form for: agradar V;1;PL;IND;PRS	ar V;1;PL;IND;PRSearch for a n
+Generate the inflected form for: retaliar V;3;SG;NFIN	ar V;3;SG;NFINs V;3;SG;NFINs V
+Generate the inflected form for: vomitar V;3;SG;IND;PST;PFV	ar V;3;SG;IND;PST;PFVomitar V;
+Generate the inflected form for: resplandecer V;1;PL;COND	 for: resplandecer V;1;PL;COND
+Generate the inflected form for: designar V;3;SG;SBJV;FUT	 V;3;SG;SBJV;FUT;3;SG;SBJV;FUT
+Generate the inflected form for: adjudicar V;1;SG;SBJV;PRS	ar V;1;SG;SBJV;PRSbjv;PRSbjv;P
+Generate the inflected form for: adivinhar V;2;PL;IND;FUT	a V;2;PL;IND;FUT;FUT;FUT;FUT;F
+Generate the inflected form for: instigar V;2;SG;SBJV;PRS	 instigar V;2;SG;SBJV;PRSbjv;P
+Generate the inflected form for: inquirir V;3;PL;IMP;POS	 V;3;PL;IMP;POS;POS;POS;POS;PO
+Generate the inflected form for: mutilar V;3;PL;IND;PST;IPFV	ar V;3;PL;IND;PST;IPFV;3;PL;IN
+Generate the inflected form for: entrar V;1;SG;COND	 entrar V;1;SG;COND;COND;COND;
+Generate the inflected form for: denominar V;1;SG;IND;FUT	 V;1;SG;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: guarnecer V;2;SG;IND;PST;PFV	er guarnecer guarnecer guarnec
+Generate the inflected form for: desentranhar V;2;PL;IND;PST;PRF	 desentranhar desentranhar des
+Generate the inflected form for: desdizer V;1;SG;NFIN	er desdizer desdizer desdizer 
+Generate the inflected form for: arquivar V;1;PL;IND;PST;PRF	 arquivar V;1;PL;IND;PST;PRF;1
+Generate the inflected form for: seguir V;1;SG;SBJV;PRS	 V;1;SG;SBJV;PRSbjv;PRSbjv;PRS
+Generate the inflected form for: redimir V;3;SG;IND;PST;PFV	ir V;3;SG;IND;PST;PFV;PFV;PFV;
+Generate the inflected form for: tretar V;2;SG;SBJV;FUT	 V;2;SG;SBJV;FUT;2;SG;SBJV;FUT
+Generate the inflected form for: teorizar V;2;PL;IND;PST;IPFV	 V V V V V V V V V V V V V V V
+Generate the inflected form for: escassear V;3;SG;IND;PST;PFV	ar escassear escassear escasse
+Generate the inflected form for: impregnar V;3;SG;IND;PST;PRF	 V;3;SG;IND;PST;PRF;PRF;PRF;PR
+Generate the inflected form for: açacalar V;1;SG;IND;PST;IPFV	acalar açacalar açacalar aç
+Generate the inflected form for: encomendar V;2;PL;IND;PST;IPFV	 V;2;PL;IND;PST;IPFV;2;PL;IND;
+Generate the inflected form for: festar V;3;SG;IND;PST;IPFV	 V;3;SG;IND;PST;IPFV;3;SG;IND;
+Generate the inflected form for: encetar V;3;SG;IND;FUT	ar V;3;SG;IND;FUT;FUT;FUT;FUT;
+Generate the inflected form for: tanger V;2;PL;SBJV;PST;IPFV	 V;2;PL;SBJV;2;PL;SBJV;2;PL;SB
+Generate the inflected form for: encetar V;2;PL;IMP;NEG	ar V;2;PL;IMP;NEG;2;PL;IMP;NEG
+Generate the inflected form for: instigar V;3;PL;SBJV;PST;IPFV	 V;3;PL;SBJV;PST;IPFV;3;PL;SBJ
+Generate the inflected form for: maltar V;1;SG;SBJV;PST;IPFV	 maltar maltar maltar maltar m
+Generate the inflected form for: entrar V;3;PL;NFIN	 V;3;PL;NFIN;NFIN V;3;PL;NFIN 
+Generate the inflected form for: visar V;3;PL;IND;PST;PRF	 visar V;3;PL;IND;PST;PRF;PRF;
+Generate the inflected form for: consolidar V;3;SG;SBJV;PST;IPFV	 V;3;SG;SBJV;PST;IPFV;3;SG;SBJ
+Generate the inflected form for: cumprir V;2;SG;NFIN	 cumprir V;2;SG;NFIN cumprir V
+Generate the inflected form for: afundir V;3;SG;NFIN	 afundir V;3;SG;NFIN;SG;NFIN;S
+Generate the inflected form for: expectorar V.PTCP;MASC;SG;PST	orar V.PTCP;MASC;SG;PSTby J. S
+Generate the inflected form for: criticar V;2;SG;IMP;POS	ar V;2;SG;IMP;POS;POS;POS;POS;
+Generate the inflected form for: desarranjar V.PTCP;FEM;PL;PST	ranjar V.PTCP;FEM;PL;PSTen the
+Generate the inflected form for: refogar V;2;SG;SBJV;PST;IPFV	 refogar V;2;SG;SBJV;PST;IPFV;
+Generate the inflected form for: ziguezaguear V;1;SG;IND;PRS	ar V;1;SG;IND;PRS;PRS;PRS;PRS;
+Generate the inflected form for: bebericar V;2;SG;SBJV;PRS	 bebericar V;2;SG;SBJV;PRSbebe
+Generate the inflected form for: publicitar V;3;SG;IND;PST;IPFV	 V;3;SG;IND;PST;IPFVerb V;3;SG
+Generate the inflected form for: blasonar V;2;PL;COND	ar blasonar blasonar blasonar 
+Generate the inflected form for: inquirir V.PTCP;FEM;PL;PST	r V.PTCP;FEM;PL;PST;PST;PST;PS
+Generate the inflected form for: estimar V;2;SG;IND;FUT	 estimar V;2;SG;IND;FUT;FUT;FU
+Generate the inflected form for: uivar V;2;SG;SBJV;FUT	 V;2;SG;SBJV;FUT;2;SG;SBJV;FUT
+Generate the inflected form for: cuidar V;2;SG;IND;FUT	 V;2;SG;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: absceder V;2;PL;IND;PST;IPFV	 V;2;PL;IND;PST;IPFV;2;PL;IND;
+Generate the inflected form for: alucinar V;1;SG;IND;FUT	 V;1;SG;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: designar V;3;PL;IND;PRS	 V;3;PL;IND;PRSb V;3;PL;IND;PR
+Generate the inflected form for: aquaplanar V;3;PL;IND;PRS	ar V;3;PL;IND;PRSb V;3;PL;IND;
+Generate the inflected form for: deixar V;2;PL;IND;PST;PFV	er V;2;PL;IND;PST;PFV;2;PL;IND
+Generate the inflected form for: agachar V;1;SG;IND;PST;PFV	ar agachar agachar agachar aga
+Generate the inflected form for: simpatizar V;1;PL;IND;PST;IPFV	i simpatizar simpatizar simpat
+Generate the inflected form for: pegar V;2;PL;IND;PST;PFV	 pegar pegar pegar pegar pegar
+Generate the inflected form for: rufar V;2;PL;IND;PST;PRF	 rufar rufar rufar rufar rufar
+Generate the inflected form for: estercar V.PTCP;PRS	ar V.PTCP;PRSb V.PTCP;PRSb V.P
+Generate the inflected form for: instigar V;3;PL;NFIN	 instigar instigar instigar in
+Generate the inflected form for: citar V.PTCP;MASC;PL;PST	 V.PTCP;MASC;PL;PST;PST;PST;PS
+Generate the inflected form for: mumificar V;3;SG;SBJV;PRS	 mumificar mumificar mumificar
+Generate the inflected form for: antidotar V;3;PL;IND;PST;PRF	 antidotar V;3;PL;IND;PST;PRF;
+Generate the inflected form for: bombardear V;2;PL;SBJV;FUT	er V;2;PL;SBJV;FUT V;2;PL;SBJV
+Generate the inflected form for: predominar V.PTCP;MASC;SG;PST	ominar V.PTCP;MASC;SG;PST;PST;
+Generate the inflected form for: concordar V;3;PL;NFIN	 V;3;PL;NFIN;NFIN V;3;PL;NFIN 
+Generate the inflected form for: estocar V;1;SG;IND;FUT	 V;1;SG;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: visitar V;2;SG;IMP;POS	ar V;2;SG;IMP;POS;POS;POS;POS;
+Generate the inflected form for: designar V;3;PL;SBJV;PRS	 V;3;PL;SBJV;3;PL;SBJV;3;PL;SB
+Generate the inflected form for: proceder V;3;SG;IMP;NEG	 SG;IMP;NEG;IMP;NEG;IMP;NEG;IM
+Generate the inflected form for: safar V;1;SG;COND	ar V;1;SG;COND;COND;COND;COND;
+Generate the inflected form for: enramalhetar V;2;PL;COND	ar enramalhetar enramalhetar e
+Generate the inflected form for: confraternizar V;2;PL;IMP;POS	izar V;2;PL;IMP;POS;POS;POS;PO
+Generate the inflected form for: impregnar V;2;PL;NFIN	 V;2;PL;NFIN;NFIN V;2;PL;NFIN 
+Generate the inflected form for: abafar V;2;PL;IND;PST;PFV	ar abafar abafar abafar abafar
+Generate the inflected form for: deixar V;3;SG;IND;PST;PRF	 deixar deixar deixar deixar d
+Generate the inflected form for: abafar V;2;SG;IMP;POS	ar V;2;SG;IMP;POS;POS;POS;POS;
+Generate the inflected form for: existir V;2;PL;COND	 esta esta esta esta esta esta
+Generate the inflected form for: vir V;3;PL;IND;PST;PRF	 V;3;PL;IND;PST;PRF;3;PL;IND;P
+Generate the inflected form for: deliciar V;1;PL;SBJV;PRS	 deliciar V;1;PL;SBJV;1;PL;SBJ
+Generate the inflected form for: saturar V;2;PL;IMP;POS	ar saturar saturar saturar sat
+Generate the inflected form for: auferir V;3;SG;IND;PRS	 auferir auferir auferir aufer
+Generate the inflected form for: regularizar V.PTCP;MASC;SG;PST	er V.PTCP;MASC;SG;PST;PST;PST;
+Generate the inflected form for: corroborar V;3;SG;IMP;POS	ar V;3;SG;IMP;POS;POS;POS;POS;
+Generate the inflected form for: harmonizar V;1;SG;SBJV;PRS	 V;1;SG;SBJV;PRSbjv;PRSbjv;PRS
+Generate the inflected form for: auguriar V;2;PL;IND;FUT	ar V;2;PL;IND;FUT;FUT;FUT;FUT;
+Generate the inflected form for: vir V;2;PL;SBJV;PRS	 vir V;2;PL;SBJV;2;PL;SBJV;2;P
+Generate the inflected form for: reiterar V;3;PL;IMP;NEG	 V;3;PL;IMP;NEG;NEG;NEG;NEG;NE
+Generate the inflected form for: alfabetizar V;3;PL;COND	ar V;3;PL;COND;COND;COND;COND;
+Generate the inflected form for: pisotear V;1;PL;NFIN	ar pisotear pisotear pisotear 
+Generate the inflected form for: estipular V;2;SG;SBJV;FUT	ar V;2;SG;SBJV;FUT V;2;SG;SBJV
+Generate the inflected form for: ensaboar V;2;SG;IND;FUT	ar V;2;SG;IND;FUT;FUT;FUT;FUT;
+Generate the inflected form for: talhar V;2;SG;SBJV;FUT	ar V;2;SG;SBJV;FUT;2;SG;SBJV;F
+Generate the inflected form for: criticar V;2;PL;SBJV;PST;IPFV	 car V;2;PL;SBJV;2;PL;SBJV;2;P
+Generate the inflected form for: terminar V;2;SG;COND	 V;2;SG;COND;COND;COND;COND;CO
+Generate the inflected form for: derrapar V;2;PL;IND;PRS	ar derrapar derrapar derrapar 
+Generate the inflected form for: brincar V;1;PL;IND;PRS	ar brincar brincar brincar bri
+Generate the inflected form for: retinir V;2;SG;SBJV;PRS	 retinir V;2;SG;SBJV;PRSbjv;PR
+Generate the inflected form for: enramalhetar V;2;SG;SBJV;PST;IPFV	ar V;2;SG;SBJV;PST;IPFV;2;SG;S
+Generate the inflected form for: estercar V;1;PL;SBJV;PST;IPFV	 V;1;PL;SBJV;1;PL;SBJV;1;PL;SB
+Generate the inflected form for: maltar V;2;PL;IND;FUT	 V;2;PL;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: commandar V;NFIN	 V;NFINgenerate the inflected 
+Generate the inflected form for: gatunar V;2;SG;SBJV;PST;IPFV	ar V;2;SG;SBJV;PST;IPFV;2;SG;S
+Generate the inflected form for: amancebar V;3;PL;NFIN	 amancebar V;3;PL;NFIN;NFIN am
+Generate the inflected form for: deixar V;1;PL;SBJV;PRS	er V;1;PL;SBJV;PRSer V;1;PL;SB
+Generate the inflected form for: bombardear V;2;SG;IMP;NEG	er bomber bomber bomber bomber
+Generate the inflected form for: escravizar V;1;SG;SBJV;FUT	 escravizar escravizar escravi
+Generate the inflected form for: amaynar V;2;PL;SBJV;PST;IPFV	ar V;2;PL;SBJV;2;PL;SBJV;2;PL;
+Generate the inflected form for: delimitar V;3;SG;NFIN	 V;3;SG;NFIN; delimitar V;3;SG
+Generate the inflected form for: sociabilizar V;2;PL;IMP;POS	idar V;2;PL;IMP;POS;POS;POS;PO
+Generate the inflected form for: blasonar V;2;PL;SBJV;PST;IPFV	 V;2;PL;SBJV;2;PL;SBJV;2;PL;SB
+Generate the inflected form for: tosar V;2;PL;IND;FUT	a V;2;PL;IND;FUT;FUT;FUT;FUT;F
+Generate the inflected form for: encriptar V;2;PL;SBJV;PRS	 V;2;PL;SBJV;2;PL;SBJV;2;PL;SB
+Generate the inflected form for: administrar V;1;PL;IND;FUT	 administrar V;1;PL;IND;FUT;FU
+Generate the inflected form for: ousar V;2;PL;IND;FUT	ar V;2;PL;IND;FUT;FUT;FUT;FUT;
+Generate the inflected form for: escassear V;2;PL;SBJV;FUT	er V;2;PL;SBJV;FUT V;2;PL;SBJV
+Generate the inflected form for: adoecer V;3;SG;IND;PST;PRF	 adoecer adoecer adoecer adoec
+Generate the inflected form for: existir V;2;PL;SBJV;PST;IPFV	 V;2;PL;SBJV;2;PL;SBJV;2;PL;SB
+Generate the inflected form for: escassear V.PTCP;PRS	ar V.PTCP;PRSescassear V.PTCP;
+Generate the inflected form for: estipular V;3;SG;IMP;POS	ar V;3;SG;IMP;POS;POS;POS;POS;
+Generate the inflected form for: estrumar V;3;PL;IND;PRS	ar estrumar estrumar estrumar 
+Generate the inflected form for: incorporar V;2;SG;IND;PST;PRF	 incorporar V;2;SG;IND;PST;PRF
+Generate the inflected form for: contrabalançar V;1;PL;NFIN	ançar contrabalançar contrab
+Generate the inflected form for: aparafusar V;3;PL;NFIN	ar V;3;PL;NFINg V;3;PL;NFINg V
+Generate the inflected form for: contra-atacar V;2;PL;IND;PST;IPFV	ar V;2;PL;IND;PST;IPFV;2;PL;IN
+Generate the inflected form for: ablegar V;1;PL;NFIN	ar V;1;PL;NFIN;NFIN ablegar V;
+Generate the inflected form for: patentear V;3;SG;IND;PST;IPFV	 V;3;SG;IND;PST;IPFV;3;SG;IND;
+Generate the inflected form for: lesmar V;1;SG;IND;PRS	 V;1;SG;IND;PRS;PRS;PRS;PRS;PR
+Generate the inflected form for: adoecer V;1;PL;SBJV;FUT	 adoecer V;1;PL;SBJV;FUT V;1;P
+Generate the inflected form for: tilintar V;3;PL;IND;PRS	 tilintar tilintar tilintar ti
+Generate the inflected form for: condenar V;2;PL;IND;PRS	 condenar V;2;PL;IND;PRSearch 
+Generate the inflected form for: ensaboar V;2;PL;IND;FUT	 ensaboar V;2;PL;IND;FUT;FUT;F
+Generate the inflected form for: commandar V;3;SG;COND	 V;3;SG;COND;COND;COND;COND;CO
+Generate the inflected form for: delinear V;1;PL;IND;PST;PFV	ear V;1;PL;IND;PST;PFV;1;PL;IN
+Generate the inflected form for: ziguezaguear V;3;PL;SBJV;PRS	ar V;3;PL;SBJV;PRSearch for th
+Generate the inflected form for: colorar V;3;PL;SBJV;FUT	 V;3;PL;SBJV;FUT V;3;PL;SBJV;F
+Generate the inflected form for: impregnar V;2;SG;SBJV;PST;IPFV	 V;2;SG;SBJV;PST;IPFV;2;SG;SBJ
+Generate the inflected form for: sinterizar V;1;PL;SBJV;PST;IPFV	izar V;1;PL;SBJV;1;PL;SBJV;1;P
+Generate the inflected form for: atenazar V;2;PL;NFIN	azar V;2;PL;NFINg V;2;PL;NFINg
+Generate the inflected form for: teorizar V;3;SG;IND;FUT	 V;3;SG;IND;FUT;FUT V;3;SG;IND
+Generate the inflected form for: alocar V;2;PL;IMP;POS	 alocar V;2;PL;IMP;POS;POS;POS
+Generate the inflected form for: sociabilizar V;3;PL;SBJV;FUT	izar V;3;PL;SBJV;FUT;3;PL;SBJV
+Generate the inflected form for: antidotar V;1;SG;IND;PST;PFV	 antidotar V;1;SG;IND;PST;PFV;
+Generate the inflected form for: conjecturar V;3;SG;IND;PRS	ecturar V;3;SG;IND;PRS;PRS;PRS
+Generate the inflected form for: tilintar V;3;PL;COND	 tilintar V;3;PL;COND;COND;CON
+Generate the inflected form for: ascender V;3;SG;NFIN	 ascender V;3;SG;NFIN; descend
+Generate the inflected form for: aquaplanar V;2;PL;IND;PRS	ar V;2;PL;IND;PRSb V;2;PL;IND;
+Generate the inflected form for: incorporar V;2;PL;IMP;NEG	 Generate the inflected form f
+Generate the inflected form for: talhar V;2;SG;IND;PST;PRF	 talhar talhar talhar talhar t
+Generate the inflected form for: silenciar V;2;PL;IND;PST;PFV	ar V;2;PL;IND;PST;PFV;2;PL;IND
+Generate the inflected form for: reiterar V;1;PL;SBJV;FUT	 V;1;PL;SBJV;FUT V;1;PL;SBJV;F
+Generate the inflected form for: contrair V;1;SG;IND;PST;PRF	 contrair contrair contrair co
+Generate the inflected form for: privilegiar V;1;PL;SBJV;FUT	 V;1;PL;SBJV;FUT;1;PL;SBJV;FUT
+Generate the inflected form for: expectorar V;1;SG;COND	ar V;1;SG;COND;COND;COND;COND;
+Generate the inflected form for: attentar V;1;PL;SBJV;FUT	 V;1;PL;SBJV;FUT V;1;PL;SBJV;F
+Generate the inflected form for: expectorar V;3;PL;IND;PST;PFV	 expectorar V;3;PL;IND;PST;PFV
+Generate the inflected form for: sinterizar V;3;PL;IND;PST;PRF	izar sinterizar sinterizar sin
+Generate the inflected form for: desdizer V;1;PL;IND;PRS	er desdizer desdizer desdizer 
+Generate the inflected form for: estimular V;1;SG;COND	 V;1;SG;COND;COND;COND;COND;CO
+Generate the inflected form for: saturar V;3;PL;NFIN	 saturar V;3;PL;NFINg saturar 
+Generate the inflected form for: protrair V;3;PL;IND;PST;PFV	 protrair V;3;PL;IND;PST;PFV;3
+Generate the inflected form for: registar V;3;PL;IND;FUT	 V;3;PL;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: ousar V;3;PL;IND;PST;PRF	ar ousar ousar ousar ousar ous
+Generate the inflected form for: barbear V;1;PL;IND;PRS	 barbear barbear barbear barbe
+Generate the inflected form for: torrar V;3;PL;IND;PRS	ar torrar torrar torrar torrar
+Generate the inflected form for: kickar V;3;PL;NFIN	 kickar V;3;PL;NFIN;NFIN kicka
+Generate the inflected form for: liquefazer V;1;SG;IND;PST;PRF	 Generate the inflected for: l
+Generate the inflected form for: munir V;1;SG;NFIN	 munir munir munir munir munir
+Generate the inflected form for: attentar V;1;SG;IND;FUT	 V;1;SG;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: liderar V.PTCP;FEM;PL;PST	 V.PTCP;FEM;PL;PST;PST;PST;PST
+Generate the inflected form for: grudar V;2;SG;IND;PRS	 V;2;SG;IND;PRS;PRS;PRS;PRS;PR
+Generate the inflected form for: vesguear V;3;SG;SBJV;PRS	ar V;3;SG;SBJV;PRSbjv;PRSbjv;P
+Generate the inflected form for: sortear V;1;SG;IND;PST;IPFV	 sortear V 1;SG;IND;PST;IPFV 1
+Generate the inflected form for: arquejar V;2;SG;IND;PST;IPFV	ar V;2;SG;IND;PST;IPFV;2;SG;IN
+Generate the inflected form for: arseniar V;3;PL;SBJV;PRS	ar V;3;PL;SBJV;PRSbjv;PRSbjv;P
+Generate the inflected form for: entrar V;1;SG;SBJV;FUT	 V;1;SG;SBJV;FUT;1;SG;SBJV;FUT
+Generate the inflected form for: kickar V;1;PL;COND	 kickar kickar kickar kickar k
+Generate the inflected form for: recompensar V;1;PL;IND;FUT	 recomposition recomposition r
+Generate the inflected form for: vir V;2;SG;SBJV;PST;IPFV	 V;2;SG;SBJV;PST;IPFV;2;SG;SBJ
+Generate the inflected form for: implicar V;3;SG;COND	 V;3;SG;COND;COND;COND;COND;CO
+Generate the inflected form for: apreciar V;2;PL;IND;PST;PRF	 a a a a a a a a a a a a a a a
+Generate the inflected form for: enramalhetar V;1;SG;SBJV;FUT	 enramalhetar V;1;SG;SBJV;FUT;
+Generate the inflected form for: festar V;1;SG;SBJV;PST;IPFV	 festar V;1;SG;SBJV;PST;IPFV;1
+Generate the inflected form for: pescar V;3;SG;IND;PRS	e pescar pescar pescar pescar 
+Generate the inflected form for: enfileirar V;2;SG;IND;PST;IPFV	er V;2;SG;IND;PST;IPFV;2;SG;IN
+Generate the inflected form for: aclamar V;1;PL;IMP;NEG	ar V;1;PL;IMP;NEG;1;PL;IMP;NEG
+Generate the inflected form for: teclar V;2;PL;IND;PST;PRF	 V;2;PL;IND;PST;PRF;PRF V;2;PL
+Generate the inflected form for: derrapar V;2;SG;IMP;POS	ar derrapar derrapar derrapar 
+Generate the inflected form for: sortear V;3;SG;COND	ar V;3;SG;COND;COND;COND;COND;
+Generate the inflected form for: saltear V;3;PL;IND;PST;PFV	ar saltear saltear saltear sal
+Generate the inflected form for: sufocar V;3;SG;IND;PST;PFV	 sufocar V;3;SG;IND;PST;PFV;PF
+Generate the inflected form for: agachar V;2;PL;IMP;NEG	ar V;2;PL;IMP;NEG;2;agachar V;
+Generate the inflected form for: arianizar V;3;PL;NFIN	ar V;3;PL;NFIN;NFIN V;3;PL;NFI
+Generate the inflected form for: registrar V;3;PL;IND;PRS	 influencer V;3;PL;IND;PRSb re
+Generate the inflected form for: aparafusar V.PTCP;FEM;SG;PST	ar V.PTCP;FEM;SG;PSTb V.PTCP;F
+Generate the inflected form for: cuidar V;3;SG;COND	 V;3;SG;COND;COND;COND;COND;CO
+Generate the inflected form for: arquejar V;3;SG;IND;PST;PRF	ar ar ar ar ar ar ar ar ar ar 
+Generate the inflected form for: vesguear V;1;SG;NFIN	ar V;1;SG;NFINSG;NFINSG;NFINSG
+Generate the inflected form for: estimar V;2;PL;COND	er V;2;PL;COND;COND;COND;COND;
+Generate the inflected form for: cotejar V;1;PL;SBJV;PST;IPFV	ar V;1;PL;SBJV;1;PL;SBJV;1;PL;
+Generate the inflected form for: denominar V;2;SG;SBJV;FUT	 V;2;SG;SBJV;FUT;2;SG;SBJV;FUT
+Generate the inflected form for: desentranhar V;3;SG;IND;PST;IPFV	ar V;3;SG;IND;PST;IPFV;IPFV;IP
+Generate the inflected form for: inflamar V;1;SG;SBJV;PRS	 inflamar V;1;SG;SBJV;PRSbjv;P
+Generate the inflected form for: condecorar V;1;PL;IMP;POS	ar V;1;PL;IMP;POS;POS;POS;POS;
+Generate the inflected form for: ascender V;2;SG;NFIN	 V;2;SG;NFIN; descender V;2;SG
+Generate the inflected form for: acreditar V;2;SG;SBJV;PRS	 a r V;2;SG;SBJV;PRSbjv;PRSbjv
+Generate the inflected form for: compensar V;2;PL;IMP;POS	 compensar V;2;PL;IMP;POS;POS;
+Generate the inflected form for: prender V;3;SG;IND;PRS	 V;3;SG;IND;PRS;PRE;PRE;PRE;PR
+Generate the inflected form for: tanger V;2;SG;IMP;NEG	 V;2;SG;IMP;NEG;IMP;NEG;IMP;NE
+Generate the inflected form for: desiludir V;3;SG;SBJV;PRS	 desiludir V;3;SG;SBJV;PRSbjv;
+Generate the inflected form for: discar V;2;SG;IMP;POS	 discar V;2;SG;IMP;POS;POS;POS
+Generate the inflected form for: entabuar V;1;SG;IND;PST;PFV	ar entabuar entabuar entabuar 
+Generate the inflected form for: recompensar V.PTCP;FEM;PL;PST	 V.PTCP;FEM;PL;PSTb V.PTCP;FEM
+Generate the inflected form for: rimar V;2;PL;IND;PST;PFV	 V;2;PL;IND;PST;PFV;2;PL;IND;P
+Generate the inflected form for: crescer V;3;SG;SBJV;PST;IPFV	 V;3;SG;SBJV;PST;IPFV;3;SG;SBJ
+Generate the inflected form for: menstruar V;2;PL;IND;PST;IPFV	 V;2;PL;IND;PST;IPFV;2;PL;IND;
+Generate the inflected form for: manjar V;1;PL;IND;PRS	 V;1;PL;IND;PRSb V;1;PL;IND;PR
+Generate the inflected form for: comendar V;1;PL;IND;PST;PFV	 V;1;PL;IND;PST;PFV;1;PL;IND;P
+Generate the inflected form for: sobresair V;3;SG;IND;FUT	 sobresair V;3;SG;IND;FUT;FUT;
+Generate the inflected form for: menosprezar V;1;SG;IND;PST;PRF	er menosprezar menosprezar men
+Generate the inflected form for: alegar V;3;PL;IMP;NEG	ar V;3;PL;IMP;NEG;2;2;2;2;2;2;
+Generate the inflected form for: alojar V;2;SG;NFIN	 alojar V;2;SG;NFIN;SG;NFIN;SG
+Generate the inflected form for: estipular V;2;SG;SBJV;PRS	ar V;2;SG;SBJV;PRSbjv;PRSbjv;P
+Generate the inflected form for: copular V.PTCP;FEM;SG;PST	ar V.PTCP;FEM;SG;PSTby Sam Sha
+Generate the inflected form for: adivinhar V;2;PL;SBJV;PRS	a V;2;PL;SBJV;PRSbj V;2;PL;SBJ
+Generate the inflected form for: arianizar V;1;PL;IMP;NEG	 V;1;PL;IMP;NEG;NEG;NEG;NEG;NE
+Generate the inflected form for: munir V;3;SG;IND;PST;IPFV	a V;3;SG;IND;PST;IPFV;3;SG;IND
+Generate the inflected form for: aclamar V;3;PL;IND;FUT	 V;3;PL;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: sortear V;1;PL;SBJV;FUT	 V;1;PL;SBJV;FUT;1;PL;SBJV;FUT
+Generate the inflected form for: fluorar V;1;SG;IND;PST;PFV	ar V;1;SG;IND;PST;PFV;1;SG;IND
+Generate the inflected form for: papar V;3;PL;SBJV;FUT	 V;3;PL;SBJV;FUT;3;PL;SBJV;FUT
+Generate the inflected form for: attentar V;1;SG;SBJV;PST;IPFV	 attentar V;1;SG;SBJV;PST;IPFV
+Generate the inflected form for: compensar V;2;PL;SBJV;PST;IPFV	 V;2;PL;SBJV;2;PL;SBJV;2;PL;SB
+Generate the inflected form for: derrapar V.PTCP;PRS	ar V.PTCP;PRSb V.PTCP;PRSb V.P
+Generate the inflected form for: delimitar V;1;SG;IND;FUT	 V;1;SG;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: doar V;1;SG;NFIN	 doar doar doar doar doar doar
+Generate the inflected form for: privilegiar V;2;SG;IMP;POS	ir V;2;SG;IMP;POS;POS;POS;POS;
+Generate the inflected form for: achatar V;1;PL;SBJV;PRS	ar V;1;PL;SBJV;1;PL;SBJV;1;PL;
+Generate the inflected form for: rimar V;3;SG;IND;PST;PRF	 Generate the inflected for: r
+Generate the inflected form for: abarcar V;2;SG;IND;PST;PFV	ar abarcar abarcar abarcar aba
+Generate the inflected form for: deliciar V;3;SG;IND;PST;PFV	 deliciar deliciar deliciar de
+Generate the inflected form for: simbolizar V;2;SG;IMP;POS	ir V;2;SG;IMP;POS;POS;POS;POS;
+Generate the inflected form for: registrar V;3;PL;SBJV;PST;IPFV	;SBJV;3;PL;SBJV;3;PL;SBJV;3;PL
+Generate the inflected form for: amancebar V;2;PL;IMP;NEG	 amancebar V;2;PL;IMP;NEG;2;PL
+Generate the inflected form for: formigar V;3;SG;IND;PST;PFV	 V;3;SG;IND;PST;PFV;PFV;PFV;PF
+Generate the inflected form for: guardar V;3;PL;COND	 V;3;PL;COND;COND;COND;COND;CO
+Generate the inflected form for: safar V;1;PL;IND;FUT	 V;1;PL;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: depenar V;3;PL;NFIN	 depenar V;3;PL;NFIN depenar V
+Generate the inflected form for: talhar V;3;PL;SBJV;FUT	ar V;3;PL;SBJV;FUT;3;PL;SBJV;F
+Generate the inflected form for: expectorar V;3;SG;IND;PST;IPFV	 V;3;SG;IND;PST;IPFV;3;SG;IND;
+Generate the inflected form for: vomitar V;1;SG;IND;PST;PFV	ar V;1;SG;IND;PST;PFVomitar V;
+Generate the inflected form for: algemar V;3;SG;IMP;POS	ar V;3;SG;IMP;POS;POS;POS;POS;
+Generate the inflected form for: resplandecer V;1;PL;IND;PST;IPFV	 V;1;PL;IND;PST;IPFV;1;PL;IND;
+Generate the inflected form for: talhar V.PTCP;MASC;PL;PST	ar V.PTCP;MASC;PL;PSTv.PTCP;MA
+Generate the inflected form for: raciocinar V;2;SG;IND;PRS	 V;2;SG;IND;PRS;IND;PRS;PRS;PR
+Generate the inflected form for: estocar V;2;SG;SBJV;PRS	 estocar V;2;SG;SBJV;PRSbjv;PR
+Generate the inflected form for: tretar V;3;PL;NFIN	 tretar V;3;PL;NFIN tretar V;3
+Generate the inflected form for: atenazar V;2;SG;IMP;POS	ar V;2;SG;IMP;POS;POS;POS;POS;
+Generate the inflected form for: formigar V;3;PL;IND;PRS	 V;3;PL;IND;PRSb V;3;PL;IND;PR
+Generate the inflected form for: fluorar V;2;PL;SBJV;PRS	ar V;2;PL;SBJV;2;PL;SBJV;2;PL;
+Generate the inflected form for: gatunar V;1;SG;IND;PRS	ar gatunar gatunar gatunar gat
+Generate the inflected form for: arrebentar V;1;SG;IND;PRS	ar arrebentar arrebentar arreb
+Generate the inflected form for: postular V;1;SG;SBJV;PST;IPFV	 V;1;SG;SBJV;1;SG;SBJV;1;SG;SB
+Generate the inflected form for: indiciar V;3;SG;NFIN	 indiciar indiciar indiciar in
+Generate the inflected form for: saturar V;2;PL;IND;PRS	ar saturar saturar saturar sat
+Generate the inflected form for: aclamar V;1;SG;COND	ar V;1;SG;COND;COND;COND;COND;
+Generate the inflected form for: tratar V;3;SG;IND;PST;PFV	ar V;3;SG;IND;PST;PFV;PFV;PFV;
+Generate the inflected form for: encabular V.PTCP;PRS	ar V.PTCP;PRSb V.PTCP;PRSb V.P
+Generate the inflected form for: latinar V;1;SG;IND;PST;PRF	 latinar latinar latinar latin
+Generate the inflected form for: comichar V;1;PL;NFIN	ar V;1;PL;NFINg V;1;PL;NFINg V
+Generate the inflected form for: apedrejar V;3;PL;IND;PST;IPFV	ar V;3;PL;IND;PST;IPFV;3;PL;IN
+Generate the inflected form for: contrabalançar V;2;PL;IMP;NEG	ançar V;2;PL;IMP;NEG;NEG;NEG;
+Generate the inflected form for: ruir V;1;SG;IND;PST;PRF	 Generate the inflected form f
+Generate the inflected form for: rimar V;NFIN	 V;NFINSINSINSINSINSINSINSINSI
+Generate the inflected form for: pagar V;3;PL;NFIN	 pagar V;3;PL;NFIN pagar V;3;P
+Generate the inflected form for: contactar V;3;SG;IND;PST;PFV	 contactar V;3;SG;IND;PST;PFV;
+Generate the inflected form for: depenar V;3;PL;IMP;POS	 depenar V;3;PL;IMP;POS;POS;PO
+Generate the inflected form for: retardar V;2;SG;IND;PRS	er V;2;SG;IND;PRSb V;2;SG;IND;
+Generate the inflected form for: copular V;3;SG;SBJV;PST;IPFV	ar V;3;SG;SBJV;3;SG;SBJV;3;SG;
+Generate the inflected form for: prevalecer V;2;SG;NFIN	er V;2;SG;NFIN; prevalecer V;2
+Generate the inflected form for: commandar V.PTCP;PRS	 V.PTCP;PRSb V.PTCP;PRSb V.PTC
+Generate the inflected form for: encabular V;1;SG;SBJV;FUT	ar V;1;SG;SBJV;FUT V;1;SG;SBJV
+Generate the inflected form for: condenar V;3;PL;SBJV;FUT	 V;3;PL;SBJV;FUT;3;PL;SBJV;FUT
+Generate the inflected form for: simpatizar V;NFIN	i simpatizar V;NFINgenerate th
+Generate the inflected form for: instigar V;1;PL;IMP;POS	 instigar instigar instigar in
+Generate the inflected form for: aplainar V;2;SG;IND;FUT	a V;2;SG;IND;FUT;FUT;FUT;FUT;F
+Generate the inflected form for: vesguear V.PTCP;PRS	ar V.PTCP;PRSb V.PTCP;PRSb V.P
+Generate the inflected form for: deixar V;1;PL;IND;FUT	 deixar V;1;PL;IND;FUT;FUT;FUT
+Generate the inflected form for: pegar V;3;SG;SBJV;FUT	 V;3;SG;SBJV;FUT;3;SG;SBJV;FUT
+Generate the inflected form for: molestar V;1;SG;IND;PST;PRF	 molestar molestar molestar mo
+Generate the inflected form for: antidotar V;2;PL;SBJV;PRS	 V;2;PL;SBJV;2;PL;SBJV;2;PL;SB
+Generate the inflected form for: desiludir V;2;PL;COND	ir V;2;PL;COND;COND;COND;COND;
+Generate the inflected form for: inflamar V;2;SG;SBJV;FUT	 for: inflamar V;2;SG;SBJV;FUT
+Generate the inflected form for: lambujar V;1;PL;COND	ar lambujar lambujar lambujar 
+Generate the inflected form for: proliferar V;2;PL;IND;PRS	ar V;2;PL;IND;PRSbecome the in
+Generate the inflected form for: tosar V;2;PL;IMP;NEG	a V;2;PL;IMP;NEG;2;PL;IMP;NEG;
+Generate the inflected form for: confraternizar V;2;PL;IND;FUT	izar confraternizar confratern
+Generate the inflected form for: torpedear V;2;PL;SBJV;PRS	ar torpedear torpedear torpede
+Generate the inflected form for: revelar V;2;SG;IND;PRS	ar V;2;SG;IND;PRS;PRS;PRS;PRS;
+Generate the inflected form for: papar V;1;SG;IND;FUT	 V;1;SG;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: olear V;2;PL;NFIN	 PL;NFIN olear V;2;PL;NFIN ole
+Generate the inflected form for: publicitar V;3;SG;IND;PRS	 V;3;SG;IND;PRSearch for publi
+Generate the inflected form for: tretar V;1;SG;COND	ar V;1;SG;COND;COND;COND;COND;
+Generate the inflected form for: proliferar V.PTCP;FEM;PL;PST	erar I.PTCP;FEM;PL;PSTby the f
+Generate the inflected form for: condenar V;2;PL;IND;PST;IPFV	 V;2;PL;IND;PST;IPFV;2;PL;IND;
+Generate the inflected form for: estocar V;3;PL;SBJV;FUT	 V;3;PL;SBJV;FUT V;3;PL;SBJV;F
+Generate the inflected form for: cagar V;3;SG;IMP;NEG	a cagar V;3;SG;IMP;NEG;NEG;NEG
+Generate the inflected form for: derrapar V;2;SG;IND;PST;IPFV	ar derrapar derrapar derrapar 
+Generate the inflected form for: açacalar V;2;PL;SBJV;PRS	acalar açacalar açacalar aç
+Generate the inflected form for: desvairar V;1;SG;SBJV;PST;IPFV	ar desvairar desvairar desvair
+Generate the inflected form for: sangrar V;2;PL;IND;FUT	ar V;2;PL;IND;FUT;FUT;FUT;FUT;
+Generate the inflected form for: volver V.PTCP;MASC;SG;PST	er V.PTCP;MASC;SG;PST;PST;PST;
+Generate the inflected form for: papar V;2;PL;IND;PRS	 papar papar papar papar papar
+Generate the inflected form for: corroborar V;3;SG;SBJV;FUT	ar V;3;SG;SBJV;FUT;3;SG;SBJV;F
+Generate the inflected form for: pisotear V;1;PL;SBJV;PRS	ar pisotear pisotear pisotear 
+Generate the inflected form for: attentar V;3;SG;COND	ar V;3;SG;COND;COND;COND;COND;
+Generate the inflected form for: teorizar V;3;PL;SBJV;PST;IPFV	 V;3;PL;SBJV;PST;IPFV;PST;IPFV
+Generate the inflected form for: extinguir V;1;SG;IND;PST;IPFV	 V;1;SG;IND;PST;IPFV;1;SG;IND;
+Generate the inflected form for: proliferar V;3;PL;IND;PRS	ar V;3;PL;IND;PRSbecome the in
+Generate the inflected form for: derrapar V;3;PL;COND	ar V;3;PL;COND;COND;COND;COND;
+Generate the inflected form for: reiterar V;3;SG;IND;PST;IPFV	 V;3;SG;IND;PST;IPFVersion 1.0
+Generate the inflected form for: tosar V;1;SG;IND;PST;IPFV	ar V;1;SG;IND;PST;IPFV;1;SG;IN
+Generate the inflected form for: remunerar V;2;SG;IND;PST;PFV	erar V;2;SG;IND;PST;PFV;2;SG;I
+Generate the inflected form for: eliminar V;3;PL;SBJV;PRS	 V;3;PL;SBJV;3;PL;SBJV;3;PL;SB
+Generate the inflected form for: rastrejar V;2;SG;NFIN	ar V;2;SG;NFINflected for: ras
+Generate the inflected form for: supurar V;1;PL;SBJV;PRS	ar supurar supurar supurar sup
+Generate the inflected form for: estocar V;2;PL;IND;PST;PFV	 V;2;PL;IND;PST;PFV;2;PL;IND;P
+Generate the inflected form for: indiciar V;2;PL;IMP;POS	 indiciar indiciar indiciar in
+Generate the inflected form for: ensaboar V;2;SG;IMP;POS	ar V;2;SG;IMP;POS;POS;POS;POS;
+Generate the inflected form for: pegar V;3;PL;IMP;POS	 pegar pegar pegar pegar pegar
+Generate the inflected form for: alojar V;1;PL;IND;PST;IPFV	 V V V V V V V V V V V V V V V
+Generate the inflected form for: sonambular V;3;PL;SBJV;PRS	ar V;3;PL;SBJV;3;PL;SBJV;3;PL;
+Generate the inflected form for: formigar V;3;SG;SBJV;FUT	 V;3;SG;SBJV;FUT;3;SG;SBJV;FUT
+Generate the inflected form for: engendrar V;3;SG;IND;PST;PFV	endrar Generate the inflected 
+Generate the inflected form for: latinar V;2;PL;IND;FUT	 latinar latinar latinar latin
+Generate the inflected form for: vomitar V;3;PL;SBJV;PRS	 V;3;PL;SBJV;3;PL;SBJV;3;PL;SB
+Generate the inflected form for: conjecturar V;1;SG;IND;PRS	ecturar V;1;SG;IND;PRS;PRS;PRS
+Generate the inflected form for: excetuar V;2;PL;IMP;NEG	 V;2;PL;IMP;NEG;2;PL;IMP;NEG;2
+Generate the inflected form for: desafogar V;2;SG;IMP;POS	ar desafogar desafogar desafog
+Generate the inflected form for: kickar V;3;PL;SBJV;FUT	 V;3;PL;SBJV;FUT;3;PL;SBJV;FUT
+Generate the inflected form for: existir V;1;PL;IMP;NEG	 esta esta esta esta esta esta
+Generate the inflected form for: indiciar V;3;PL;COND	 V;3;PL;COND;COND;COND;COND;CO
+Generate the inflected form for: aquaplanar V;2;PL;SBJV;PRS	ar V;2;PL;SBJV;PRSbj V;2;PL;SB
+Generate the inflected form for: postular V;2;PL;IND;PRS	 V;2;PL;IND;PRSb V;2;PL;IND;PR
+Generate the inflected form for: pregar V;2;SG;IMP;NEG	 pregar V;2;SG;IMP;NEG;NEG;NEG
+Generate the inflected form for: guarnecer V;2;PL;IND;PRS	er guarnecer guarnecer guarnec
+Generate the inflected form for: designar V;1;SG;SBJV;PRS	 designar V;1;SG;SBJV;PRSbjv;P
+Generate the inflected form for: desafogar V;3;PL;NFIN	 desafogar V;3;PL;NFIN desafog
+Generate the inflected form for: latinar V;3;SG;SBJV;PRS	ar latinar latinar latinar lat
+Generate the inflected form for: pagar V;2;PL;IND;PST;PRF	ar pagar pagar pagar pagar pag
+Generate the inflected form for: alocar V;1;SG;IND;PRS	 alocar V;1;SG;IND;PRS;PRS;PRS
+Generate the inflected form for: ostracizar V;1;PL;SBJV;PST;IPFV	izar ostracizar ostracizar ost
+Generate the inflected form for: finalizar V.PTCP;PRS	ar V.PTCP;PRSby the following 
+Generate the inflected form for: expectorar V;1;SG;IND;PST;PRF	 expectorar V;1;SG;IND;PST;PRF
+Generate the inflected form for: rufar V;1;PL;IND;PST;PRF	 rufar rufar rufar rufar rufar
+Generate the inflected form for: extinguir V.PTCP;FEM;PL;PST	 V.PTCP;FEM;PL;PST; extinguir 
+Generate the inflected form for: proceder V;2;SG;SBJV;PRS	 SBJV;PRSbjv;PRSbjv;PRSbjv;PRS
+Generate the inflected form for: brunir V;2;SG;SBJV;PRS	 brunir V;2;SG;SBJV;PRSbrunir 
+Generate the inflected form for: bombardear V;1;PL;NFIN	ear bomber bomber bomber bombe
+Generate the inflected form for: redimir V;3;SG;IND;PRS	 V;3;SG;IND;PRS;PRS;PRS;PRS;PR
+Generate the inflected form for: recompensar V;1;PL;COND	 recompensar V;1;PL;COND;COND;
+Generate the inflected form for: assemelhar V;1;SG;IND;PST;IPFV	out 2010 - Select the form for
+Generate the inflected form for: lesmar V;3;PL;SBJV;PST;IPFV	 V;3;PL;SBJV;PST;IPFV;PST;IPFV
+Generate the inflected form for: arseniar V;3;SG;SBJV;PRS	ar V;3;SG;SBJV;PRSbjv;PRSbjv;P
+Generate the inflected form for: recompensar V;2;PL;IND;PST;PRF	 recomposar V;2;PL;IND;PST;PRF
+Generate the inflected form for: visar V;1;PL;IND;PST;PRF	 visar V;1;PL;IND;PST;PRF;PRF;
+Generate the inflected form for: adoecer V;3;SG;SBJV;PST;IPFV	 adoecer V;3;SG;SBJV;PST;IPFV;
+Generate the inflected form for: entabuar V;1;PL;IND;PST;PRF	 entabuar entabuar entabuar en
+Generate the inflected form for: arseniar V;1;PL;IND;PST;PRF	;1;PL;IND;PST;PRF;1;PL;IND;PST
+Generate the inflected form for: arquivar V;1;SG;SBJV;PST;IPFV	 V;1;SG;SBJV;1;SG;SBJV;1;SG;SB
+Generate the inflected form for: remunerar V;NFIN	erar V;NFINgenerate the inflec
+Generate the inflected form for: tilintar V;2;PL;IND;FUT	ar V;2;PL;IND;FUT;FUT;FUT;FUT;
+Generate the inflected form for: arquejar V;1;PL;IND;PST;PRF	ar ar ar ar ar ar ar ar ar ar 
+Generate the inflected form for: estimar V;3;PL;IND;PST;PRF	 estimar V;3;PL;IND;PST;PRF;PR
+Generate the inflected form for: amarrar V;3;PL;SBJV;FUT	ar V;3;PL;SBJV;FUT;3;PL;SBJV;F
+Generate the inflected form for: entrar V;NFIN	rar V;NFINgenerate the inflect
+Generate the inflected form for: lambujar V;2;PL;COND	 lambujar V;2;PL;COND;COND;CON
+Generate the inflected form for: jazer V;2;SG;IND;PST;PFV	 jazer V;2;SG;IND;PST;PFV;PFV;
+Generate the inflected form for: contrabalançar V;1;SG;SBJV;PRS	ar V;1;SG;SBJV;PRSng V;1;SG;SB
+Generate the inflected form for: commandar V;1;SG;COND	 V;1;SG;COND;COND;COND;COND;CO
+Generate the inflected form for: barbear V;2;PL;IMP;NEG	 barbear barbear barbear barbe
+Generate the inflected form for: cumprimentar V;2;PL;COND	establecer V;2;PL;COND;COND;CO
+Generate the inflected form for: engastar V;1;SG;NFIN	ar engastar engastar engastar 
+Generate the inflected form for: rufar V;3;PL;SBJV;FUT	 V;3;PL;SBJV;FUT;3;PL;SBJV;FUT
+Generate the inflected form for: estercar V;3;SG;IND;PST;PFV	 estercar estercar estercar es
+Generate the inflected form for: luctar V;3;SG;IND;PST;PFV	ar luctar luctar luctar luctar
+Generate the inflected form for: expectorar V;3;SG;IND;FUT	 expectorar V;3;SG;IND;FUT;FUT
+Generate the inflected form for: remunerar V;1;PL;IND;FUT	erar V;1;PL;IND;FUT;FUT;FUT;FU
+Generate the inflected form for: abocanhar V.PTCP;FEM;SG;PST	anhar V.PTCP;FEM;SG;PST;PST;PS
+Generate the inflected form for: abscindir V;2;PL;SBJV;PST;IPFV	 V;2;PL;SBJV;PST;IPFV;2;PL;SBJ
+Generate the inflected form for: revelar V;2;PL;IMP;POS	ar V;2;PL;IMP;POS;POS;POS;POS;
+Generate the inflected form for: escavar V;1;SG;IND;PST;PFV	 V;1;SG;IND;PST;PFV;1;SG;IND;P
+Generate the inflected form for: conjecturar V;2;SG;IND;PST;PRF	;2;SG;IND;PST;PRF;PRF;PRF;PRF;
+Generate the inflected form for: agachar V;1;PL;IND;PST;PFV	ar agachar agachar agachar aga
+Generate the inflected form for: maltar V;3;SG;SBJV;PST;IPFV	 maltar maltar maltar maltar m
+Generate the inflected form for: ruir V;1;PL;NFIN	 ruir V;1;PL;NFIN ruir V;1;PL;
+Generate the inflected form for: tosar V;1;SG;COND	ar V;1;SG;COND;COND;COND;COND;
+Generate the inflected form for: aventar V;2;SG;IND;PST;PRF	 aventar V;2;SG;IND;PST;PRF;PR
+Generate the inflected form for: abarcar V.PTCP;FEM;SG;PST	ar V.PTCP;FEM;SG;PSTbarcar V.P
+Generate the inflected form for: simpatizar V;2;SG;IND;PST;PFV	ar simpatizar simpatizar simpa
+Generate the inflected form for: deixar V;3;PL;COND	 deixar V;3;PL;COND;COND;COND;
+Generate the inflected form for: desiludir V;3;SG;SBJV;PST;IPFV	ir V;3;SG;SBJV;PST;IPFV;3;SG;S
+Generate the inflected form for: tratar V;2;PL;IND;PST;IPFV	 tratar V;2;PL;IND;PST;IPFVerb
+Generate the inflected form for: respirar V;3;PL;SBJV;PST;IPFV	 V;3;PL;SBJV;PST;IPFV;3;PL;SBJ
+Generate the inflected form for: vomitar V;3;PL;IND;PST;PRF	 V;3;PL;IND;PST;PRF;PRF;PRF;PR
+Generate the inflected form for: registar V;1;PL;SBJV;PST;IPFV	 inflected for: registar V;1;P
+Generate the inflected form for: assoprar V;2;SG;IND;FUT	 V;2;SG;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: içar V;3;PL;IND;FUT	 V;3;PL;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: inquirir V;1;PL;COND	 V;1;PL;COND;COND;COND;COND;CO
+Generate the inflected form for: aclamar V;1;PL;SBJV;PST;IPFV	 aclamar V;1;PL;SBJV;1;PL;SBJV
+Generate the inflected form for: aplainar V;3;PL;SBJV;FUT	ar V;3;PL;SBJV;FUT V;3;PL;SBJV
+Generate the inflected form for: apoteosar V;2;SG;IND;PST;PFV	ar V;2;SG;IND;PST;PFV;PFV;PFV;
+Generate the inflected form for: saltear V;2;SG;IND;PRS	 saltear saltear saltear salte
+Generate the inflected form for: concordar V;1;PL;IND;PRS	ar V;1;PL;IND;PRSearch for a f
+Generate the inflected form for: reiterar V;1;SG;COND	er V;1;SG;COND;COND;COND;COND;
+Generate the inflected form for: confraternizar V;3;PL;SBJV;PST;IPFV	ernizar V;3;PL;SBJV;PST;IPFV;3
+Generate the inflected form for: afundir V;3;SG;IMP;POS	a V;3;SG;IMP;POS;POS;POS;POS;P
+Generate the inflected form for: apreciar V;3;SG;NFIN	 apreciar V;3;SG;NFIN; aprecia
+Generate the inflected form for: vomitar V;2;SG;IND;FUT	 V;2;SG;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: arrebentar V;2;SG;IND;PST;PFV	ar V;2;SG;IND;PST;PFV;2;SG;IND
+Generate the inflected form for: incorporar V;3;PL;IND;FUT	;3;PL;IND;FUT;FUT;FUT;FUT;FUT;
+Generate the inflected form for: ligar V;2;PL;SBJV;PST;IPFV	 V;2;PL;SBJV;2;PL;SBJV;2;PL;SB
+Generate the inflected form for: desdizer V;3;PL;SBJV;PRS	er V;3;PL;SBJV;PRSbj V;3;PL;SB
+Generate the inflected form for: objetar V;1;SG;SBJV;PST;IPFV	 V;1;SG;SBJV;1;SG;SBJV;1;SG;SB
+Generate the inflected form for: mastigar V;2;PL;IND;PRS	 mastigar mastigar mastigar ma
+Generate the inflected form for: desistir V;1;PL;IND;PRS	ar V;1;PL;IND;PRSb desistir V;
+Generate the inflected form for: charquear V.PTCP;MASC;PL;PST	ar charquear charquear charque
+Generate the inflected form for: crescer V;2;SG;IMP;NEG	a V;2;SG;IMP;NEG;IMP;NEG;IMP;I
+Generate the inflected form for: alucinar V;2;PL;IMP;POS	 alucinar V;2;PL;IMP;POS;POS;P
+Generate the inflected form for: blogar V;3;SG;SBJV;FUT	 V;3;SG;SBJV;FUT;3;SG;SBJV;FUT
+Generate the inflected form for: pegar V;2;SG;IND;FUT	 pegar pegar pegar pegar pegar
+Generate the inflected form for: talhar V.PTCP;FEM;PL;PST	ar V.PTCP;FEM;PL;PSTv talhar V
+Generate the inflected form for: comichar V;1;PL;SBJV;FUT	 V;1;PL;SBJV;FUT;1;PL;SBJV;FUT
+Generate the inflected form for: destratar V;2;PL;IND;FUT	ar destratar destratar destrat
+Generate the inflected form for: contrabalançar V;NFIN	ar V;NFINe contrabalançar V;N
+Generate the inflected form for: auguriar V;2;PL;IND;PST;PFV	ar V;2;PL;IND;PST;PFV;2;PL;IND
+Generate the inflected form for: desarrazoar V;1;SG;IND;FUT	ar desarrazoar desarrazoar des
+Generate the inflected form for: concordar V;2;PL;NFIN	 V;2;PL;NFIN;NFIN V;2;PL;NFIN 
+Generate the inflected form for: objetar V;1;PL;NFIN	 objetar V;1;PL;NFIN;NFIN;NFIN
+Generate the inflected form for: antidotar V.PTCP;FEM;PL;PST	 V.PTCP;FEM;PL;PSTantidotar V.
+Generate the inflected form for: desarmar V;3;SG;NFIN	ar desarmar desarmar desarmar 
+Generate the inflected form for: indiciar V;3;PL;IND;PST;PFV	 indiciar V;3;PL;IND;PST;PFVer
+Generate the inflected form for: delinear V;1;PL;IMP;POS	ar V;1;PL;IMP;POS;POS;POS;POS;
+Generate the inflected form for: sociabilizar V;3;PL;IMP;POS	er sociabilizar V;3;PL;IMP;POS
+Generate the inflected form for: copular V;1;SG;SBJV;PRS	ar V;1;SG;SBJV;PRSbjv;PRSbjv;P
+Generate the inflected form for: resplandecer V;3;PL;IND;PST;PRF	 V;3;PL;IND;PST;PRF;PRF;PRF;PR
+Generate the inflected form for: criticar V;2;SG;IND;PST;PRF	ar V;2;SG;IND;PST;PRF;PRF;PRF;
+Generate the inflected form for: direcionar V;1;SG;SBJV;FUT	 V;1;SG;SBJV;FUT;1;SG;SBJV;FUT
+Generate the inflected form for: teclar V;3;PL;IMP;POS	 V;3;PL;IMP;POS;POS;POS;POS;PO
+Generate the inflected form for: desarranjar V;1;SG;IND;PST;PRF	ar desarranjar desarranjar des
+Generate the inflected form for: transitar V;2;SG;IND;FUT	 V;2;SG;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: protrair V;1;PL;IND;PST;PRF	 protrair protrair protrair pr
+Generate the inflected form for: commandar V;1;PL;SBJV;PST;IPFV	 V;1;PL;SBJV;1;PL;SBJV;1;PL;SB
+Generate the inflected form for: decrescer V;1;PL;IND;PST;PFV	er V;1;PL;IND;PST;PFV;1;PL;IND
+Generate the inflected form for: vincular V;2;SG;SBJV;PST;IPFV	ar V;2;SG;SBJV;2;SG;SBJV;2;SG;
+Generate the inflected form for: liquefazer V;1;SG;SBJV;FUT	 V;1;SG;SBJV;FUT;1;SG;SBJV;FUT
+Generate the inflected form for: acreditar V;1;PL;IND;PST;IPFV	 V V V V V V V V V V V V V V V
+Generate the inflected form for: munir V;NFIN	 V;NFINs V;NFINs V;NFINs V;NFI
+Generate the inflected form for: punguear V;1;PL;COND	ar punguear punguear punguear 
+Generate the inflected form for: desafogar V;3;SG;IND;PRS	er desafogar desafogar desafog
+Generate the inflected form for: telar V;3;PL;IND;PST;IPFV	 V;3;PL;IND;PST;IPFV;3;PL;IND;
+Generate the inflected form for: interferir V;2;SG;SBJV;FUT	 V;2;SG;SBJV;FUT V;2;SG;SBJV;F
+Generate the inflected form for: consternar V;3;PL;IMP;NEG	 V;3;PL;IMP;NEG;2;PL;IMP;NEG;2
+Generate the inflected form for: polimerizar V;2;SG;SBJV;PST;IPFV	 V;2;SG;SBJV;PST;IPFV;2;SG;SBJ
+Generate the inflected form for: visitar V;1;SG;IND;PST;PRF	ar visitar visitar visitar vis
+Generate the inflected form for: assemelhar V;1;SG;SBJV;PRS	er V;1;SG;SBJV;PRSer V;1;SG;SB
+Generate the inflected form for: saturar V;1;PL;IMP;POS	ar saturar saturar saturar sat
+Generate the inflected form for: revelar V;1;SG;IND;PRS	ar revelar revelar revelar rev
+Generate the inflected form for: amancebar V;3;PL;IND;FUT	 V;3;PL;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: ablegar V;3;PL;IND;PST;PRF	ar V;3;PL;IND;PST;PRF;PRF;PRF;
+Generate the inflected form for: agradar V;3;SG;SBJV;PRS	 a r a r a r a r a r a r a r a
+Generate the inflected form for: entabuar V;2;SG;SBJV;PST;IPFV	 entabuar V;2;SG;SBJV;PST;IPFV
+Generate the inflected form for: deixar V;1;SG;SBJV;PRS	 deixar V;1;SG;SBJV;PRSeixar V
+Generate the inflected form for: eliminar V;3;SG;IND;PST;IPFV	 V;3;SG;IND;PST;IPFV;3;SG;IND;
+Generate the inflected form for: encarcerar V;2;PL;COND	ar V;2;PL;COND;COND;COND;COND;
+Generate the inflected form for: expedir V.PTCP;FEM;PL;PST	 V.PTCP;FEM;PL;PST; expedir V.
+Generate the inflected form for: surtar V;3;PL;COND	;COND;COND;COND;COND;COND;COND
+Generate the inflected form for: barbear V;2;SG;SBJV;FUT	 barbear V;2;SG;SBJV;FUT;2;SG;
+Generate the inflected form for: ousar V;2;SG;IND;PST;PFV	ar ousar ousar ousar ousar ous
+Generate the inflected form for: saturar V;3;PL;IND;PST;PRF	ar V;3;PL;IND;PST;PRF;PRF;PRF;
+Generate the inflected form for: ensaiar V;1;SG;SBJV;PST;IPFV	 ensaiar V;1;SG;SBJV;PST;IPFV;
+Generate the inflected form for: analisar V;2;SG;SBJV;PRS	 analisar V;2;SG;SBJV;PRSbjv;P
+Generate the inflected form for: convencer V;2;SG;COND	 V;2;SG;COND;COND V;2;SG;COND 
+Generate the inflected form for: reconsiderar V;NFIN	 reconsiderar V;NFINg reconsid
+Generate the inflected form for: aventar V;2;PL;SBJV;PRS	 V;2;PL;SBJV;PRSbj V;2;PL;SBJV
+Generate the inflected form for: comendar V;2;PL;SBJV;FUT	 V;2;PL;SBJV;FUT;2;PL;SBJV;FUT
+Generate the inflected form for: zumbificar V.PTCP;MASC;SG;PST	ificar V.PTCP;MASC;SG;PST;PST;
+Generate the inflected form for: papar V;3;SG;IND;PST;IPFV	 V;3;SG;IND;PST;IPFV;3;SG;IND;
+Generate the inflected form for: engendrar V;3;PL;IMP;POS	er V;3;PL;IMP;POS;POS;POS;POS;
+Generate the inflected form for: escavar V;1;SG;SBJV;FUT	 V;1;SG;SBJV;FUT;1;SG;SBJV;FUT
+Generate the inflected form for: escravizar V;3;PL;IND;PRS	izar escravizar escravizar esc
+Generate the inflected form for: tagarelar V;3;SG;SBJV;FUT	arelar V;3;SG;SBJV;FUT;3;SG;SB
+Generate the inflected form for: desarranjar V;3;PL;IND;PST;PFV	ar V;3;PL;IND;PST;PFV;3;PL;IND
+Generate the inflected form for: desarranjar V;1;PL;NFIN	resarrendar V;1;PL;NFIN;NFIN;N
+Generate the inflected form for: papar V;3;PL;SBJV;PRS	 V;3;PL;SBJV;PRSbj V;3;PL;SBJV
+Generate the inflected form for: mastigar V;1;PL;IND;PRS	 mastigar mastigar mastigar ma
+Generate the inflected form for: ziguezaguear V;2;SG;IND;PST;PFV	ar V;2;SG;IND;PST;PFV;PFV;PFV;
+Generate the inflected form for: pisotear V;1;PL;SBJV;FUT	ar pisotear pisotear pisotear 
+Generate the inflected form for: eliminar V;2;SG;IND;PST;IPFV	 V;2;SG;IND;PST;IPFV;2;SG;IND;
+Generate the inflected form for: registar V;1;SG;NFIN	 V;1;SG;NFIN;1;SG;NFIN;1;SG;NF
+Generate the inflected form for: aquaplanar V;3;PL;NFIN	 V;3;PL;NFIN V;3;PL;NFIN V;3;P
+Generate the inflected form for: menstruar V;3;PL;IND;PST;PFV	 V;3;PL;IND;PST;PFV;3;PL;IND;P
+Generate the inflected form for: pretender V;1;PL;IND;PST;PRF	 V;1;PL;IND;PST;PRF; pretender
+Generate the inflected form for: volver V;NFIN	 V V V V V V V V V V V V V V V
+Generate the inflected form for: terminar V;3;PL;SBJV;PRS	 V;3;PL;SBJV;3;PL;SBJV;3;PL;SB
+Generate the inflected form for: teclar V;2;SG;IND;PRS	 V;2;SG;IND;PRS;PRS;PRS;PRS;PR
+Generate the inflected form for: bombardear V;2;SG;IND;FUT	er V;2;SG;IND;FUT;FUT;FUT;FUT;
+Generate the inflected form for: enramalhetar V;1;PL;IND;PST;IPFV	ar enramalhetar enramalhetar e
+Generate the inflected form for: talhar V;1;SG;SBJV;FUT	ar V;1;SG;SBJV;FUT;1;SG;SBJV;F
+Generate the inflected form for: tilintar V;2;SG;IND;PST;PFV	ar tilintar tilintar tilintar 
+Generate the inflected form for: menstruar V;3;PL;COND	 V;3;PL;COND;COND;COND;COND;CO
+Generate the inflected form for: recompensar V;3;SG;IND;PST;IPFV	 V;3;SG;IND;PST;IPFVerb V;3;SG
+Generate the inflected form for: expectorar V;2;SG;IMP;POS	ar V;2;SG;IMP;POS;POS;POS;POS;
+Generate the inflected form for: vincular V.PTCP;MASC;SG;PST	ar V.PTCP;MASC;SG;PST;PST;PST;
+Generate the inflected form for: grudar V;1;PL;SBJV;FUT	 V;1;PL;SBJV;FUT V;1;PL;SBJV;F
+Generate the inflected form for: içar V;3;SG;IND;FUT	 V;3;SG;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: fatorar V;1;SG;NFIN	ar fatorar fatorar fatorar fat
+Generate the inflected form for: alocar V;3;SG;SBJV;PST;IPFV	 V;3;SG;SBJV;PST;IPFV;3;SG;SBJ
+Generate the inflected form for: inquirir V;3;PL;IMP;NEG	 V;3;PL;IMP;NEG;NEG;NEG;NEG;NE
+Generate the inflected form for: amancebar V;1;SG;SBJV;PRS	 amancebar V;1;SG;SBJV;PRSbjv;
+Generate the inflected form for: pescar V;1;PL;IMP;NEG	er pescar pescar pescar pescar
+Generate the inflected form for: miscrar V;3;SG;IND;PST;PRF	 miscrar V;3;SG;IND;PST;PRF;PR
+Generate the inflected form for: alegar V;3;PL;SBJV;FUT	 V;3;PL;SBJV;FUT;3;PL;SBJV;FUT
+Generate the inflected form for: proceder V;2;PL;NFIN	 V;2;PL;NFIN;NFIN V;2;PL;NFIN 
+Generate the inflected form for: festar V.PTCP;PRS	r V.PTCP;PRSb V.PTCP;PRSb V.PT
+Generate the inflected form for: vesguear V;2;PL;IND;PST;PRF	ar V;2;PL;IND;PST;PRF;2;PL;IND
+Generate the inflected form for: desossar V;3;SG;IMP;NEG	ar V;3;SG;IMP;NEG;2;SG;IMP;NEG
+Generate the inflected form for: retinir V;NFIN	ir V;NFIN V;NFIN V;NFIN V;NFIN
+Generate the inflected form for: abocanhar V;2;PL;NFIN	anhar V;2;PL;NFIN;NFIN abocanh
+Generate the inflected form for: ondular V;1;SG;SBJV;PRS	ar ondular ondular ondular ond
+Generate the inflected form for: administrar V;3;SG;IND;PRS	er Generate the inflected form
+Generate the inflected form for: abarcar V;2;SG;SBJV;FUT	ar V;2;SG;SBJV;FUT;2;SG;SBJV;F
+Generate the inflected form for: decrescer V;3;PL;SBJV;PRS	er V;3;PL;SBJV;3;PL;SBJV;3;PL;
+Generate the inflected form for: sociabilizar V;1;PL;NFIN	izar sociabilizar sociabilizar
+Generate the inflected form for: indiciar V;1;PL;NFIN	 indiciar indiciar indiciar in
+Generate the inflected form for: maquinar V;3;SG;COND	 V;3;SG;COND; maquinar V;3;SG;
+Generate the inflected form for: entabuar V;2;SG;SBJV;FUT	ar V;2;SG;SBJV;FUT;2;SG;SBJV;F
+Generate the inflected form for: analisar V;2;SG;IND;PST;PFV	 analisar V;2;SG;IND;PST;PFV;P
+Generate the inflected form for: ruir V;2;PL;SBJV;PRS	 V;2;PL;SBJV;PRSbj V;2;PL;SBJV
+Generate the inflected form for: sufocar V;3;SG;NFIN	 sufocar V;3;SG;NFINg V;3;SG;N
+Generate the inflected form for: attentar V;1;SG;SBJV;FUT	 V;1;SG;SBJV;FUT V;1;SG;SBJV;F
+Generate the inflected form for: cumprimentar V;2;PL;NFIN	em cumprimentar V;2;PL;NFIN;NF
+Generate the inflected form for: complicar V;1;PL;SBJV;PST;IPFV	 V;1;PL;SBJV;1;PL;SBJV;1;PL;SB
+Generate the inflected form for: registar V;2;PL;IND;PRS	 V;2;PL;IND;PRSb V;2;PL;IND;PR
+Generate the inflected form for: torrar V;2;PL;SBJV;FUT	rar V;2;PL;SBJV;FUT V;2;PL;SBJ
+Generate the inflected form for: reiterar V.PTCP;FEM;PL;PST	 V.PTCP;FEM;PL;PST;PST;PST;PST
+Generate the inflected form for: miscrar V;2;SG;IMP;POS	 V;2;SG;IMP;POS;POS;POS;POS;PO
+Generate the inflected form for: inquirir V;1;SG;IND;PRS	 inquirir V;1;SG;IND;PRS;PRS;P
+Generate the inflected form for: cuidar V;2;PL;SBJV;PST;IPFV	ar V;2;PL;SBJV;2;PL;SBJV;2;PL;
+Generate the inflected form for: estrumar V;2;PL;NFIN	ar estrumar estrumar estrumar 
+Generate the inflected form for: sobressair V;3;PL;IND;PST;PRF	air sobressair sobressair sobr
+Generate the inflected form for: apatetar V;2;PL;IMP;POS	ar V;2;PL;IMP;POS;POS;POS;POS;
+Generate the inflected form for: contrair V;3;SG;COND	 V;3;SG;COND V;3;SG;COND V;3;S
+Generate the inflected form for: apoteosar V;3;SG;IMP;NEG	ar V;3;SG;IMP;NEG;2;SG;IMP;NEG
+Generate the inflected form for: escravizar V;2;SG;NFIN	izar V;2;SG;NFIN;SG;NFIN V;2;S
+Generate the inflected form for: flutuar V;3;PL;IND;PST;IPFV	 V;3;PL;IND;PST;IPFV;3;PL;IND;
+Generate the inflected form for: assignalar V;1;SG;SBJV;PST;IPFV	 V;1;SG;SBJV;PST;IPFV;1;SG;SBJ
+Generate the inflected form for: munir V;2;SG;IND;PST;IPFV	 V;2;SG;IND;PST;IPFV;2;SG;IND;
+Generate the inflected form for: zumbificar V;3;SG;SBJV;FUT	ificar V;3;SG;SBJV;FUT;3;SG;SB
+Generate the inflected form for: munir V;2;SG;IND;PST;PRF	 munir munir munir munir munir
+Generate the inflected form for: talhar V;3;PL;IND;PST;IPFV	ar V;3;PL;IND;PST;IPFV;3;PL;IN
+Generate the inflected form for: telhar V;3;PL;IND;FUT	 V;3;PL;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: designar V;1;PL;IMP;NEG	 Generate the inflected form f
+Generate the inflected form for: predominar V;2;PL;SBJV;PST;IPFV	 V;2;PL;SBJV;2;PL;SBJV;2;PL;SB
+Generate the inflected form for: copular V;2;SG;NFIN	ar V;2;SG;NFIN;2;SG;NFIN V;2;S
+Generate the inflected form for: predominar V;3;PL;IND;FUT	 V;3;PL;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: abscindir V;NFIN	 V;NFIN;NFIN;NFIN;NFIN;NFIN;NF
+Generate the inflected form for: contrabalançar V;3;SG;IND;FUT	ar contrabalançar contrabalan
+Generate the inflected form for: simpatizar V;2;SG;COND	ar V;2;SG;COND;COND;COND;COND;
+Generate the inflected form for: fluorar V;3;PL;IMP;NEG	;IMP;NEG;IMP;NEG;IMP;NEG;IMP;N
+Generate the inflected form for: ocorrer V;1;PL;NFIN	 ocorrer ocorrer ocorrer ocorr
+Generate the inflected form for: liquefazer V;2;SG;IND;PRS	 V;2;SG;IND;PRS;PRS;PRS;PRS;PR
+Generate the inflected form for: ligar V;3;SG;SBJV;PRS	 ligar V;3;SG;SBJV;PRSbjv;PRSb
+Generate the inflected form for: comprehender V;2;PL;IND;PST;PRF	 V;2;PL;IND;PST;PRF;PRF;PRF;PR
+Generate the inflected form for: desarranjar V;2;PL;IND;PST;PRF	ar desarranjar desarranjar des
+Generate the inflected form for: mutilar V;2;PL;SBJV;PST;IPFV	ar V;2;PL;SBJV;2;PL;SBJV;2;PL;
+Generate the inflected form for: visitar V;2;SG;SBJV;FUT	 V;2;SG;SBJV;FUT;2;SG;SBJV;FUT
+Generate the inflected form for: encomendar V.PTCP;MASC;PL;PST	omino encominar encominar enco
+Generate the inflected form for: alegar V;1;SG;IND;PST;IPFV	 V;1;SG;IND;PST;IPFV;1;SG;IND;
+Generate the inflected form for: jazer V.PTCP;FEM;SG;PST	 V.PTCP;FEM;SG;PSTv.PTCP;FEM;S
+Generate the inflected form for: convencer V;2;PL;IND;PST;PFV	 V;2;PL;IND;PST;PFV;2;PL;IND;P
+Generate the inflected form for: escavar V;2;SG;IMP;POS	 escavar V;2;SG;IMP;POS;POS;PO
+Generate the inflected form for: vesguear V;1;PL;NFIN	ar vesguear vesguear vesguear 
+Generate the inflected form for: encharcar V.PTCP;PRS	ar V.PTCP;PRSb V.PTCP;PRSb V.P
+Generate the inflected form for: copular V;2;PL;IND;FUT	ar V;2;PL;IND;FUT;FUT;FUT;FUT;
+Generate the inflected form for: achatar V;3;SG;IND;PST;PRF	 achatar achatar achatar achat
+Generate the inflected form for: remunerar V;3;PL;IMP;POS	ar V;3;PL;IMP;POS;POS;POS;POS;
+Generate the inflected form for: estipular V;1;SG;SBJV;PST;IPFV	ar V;1;SG;SBJV;PST;IPFV;1;SG;S
+Generate the inflected form for: resplendecer V;3;SG;IND;FUT	 V;3;SG;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: papar V;3;SG;IND;FUT	 V;3;SG;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: engastar V;3;PL;IND;PST;PFV	ar engastar engastar engastar 
+Generate the inflected form for: mutilar V;1;PL;IND;PRS	ar mutilar mutilar mutilar mut
+Generate the inflected form for: nublar V;3;PL;SBJV;FUT	 V;3;PL;SBJV;FUT V;3;PL;SBJV;F
+Generate the inflected form for: capotar V;2;SG;IND;PST;IPFV	ar V;2;SG;IND;PST;IPFV;2;SG;IN
+Generate the inflected form for: damnar V;2;PL;NFIN	ar V;2;PL;NFINs V;2;PL;NFINs V
+Generate the inflected form for: afundir V;3;PL;SBJV;PRS	 V;3;PL;SBJV;PRSbj V;3;PL;SBJV
+Generate the inflected form for: simbolizar V;3;SG;IMP;POS	ir V;3;SG;IMP;POS;POS;POS;POS;
+Generate the inflected form for: resplandecer V;3;SG;COND	 V;3;SG;COND;COND;COND;COND;CO
+Generate the inflected form for: desenrolar V;2;SG;IMP;POS	er V;2;SG;IMP;POS;POS;POS;POS;
+Generate the inflected form for: fluorar V;2;SG;IMP;NEG	 SG;IMP;NEG;IMP;NEG;IMP;NEG;IM
+Generate the inflected form for: denominar V;2;SG;COND	 V;2;SG;COND;COND;COND;COND;CO
+Generate the inflected form for: anotar V;3;SG;IND;PST;IPFV	 V;3;SG;IND;PST;IPFV;3;SG;IND;
+Generate the inflected form for: crescer V;2;PL;IND;PST;IPFV	 V;2;PL;IND;PST;IPFV;2;PL;IND;
+Generate the inflected form for: olhar V;NFIN	 V;NFINs V;NFINs V;NFINs V;NFI
+Generate the inflected form for: apedrejar V;2;SG;IMP;NEG	 apedrejar V;2;SG;IMP;NEG;IMP;
+Generate the inflected form for: escravizar V;2;SG;IND;PST;PFV	izar V;2;SG;IND;PST;PFV;PFV;PF
+Generate the inflected form for: pôr V;2;PL;IND;PST;PRF	 V;2;PL;IND;PST;PRF;PRF;PRF;PR
+Generate the inflected form for: pescar V;3;PL;IND;PST;PFV	ar pescar pescar pescar pescar
+Generate the inflected form for: surtar V;NFIN	ar V;NFINg V;NFINg V;NFINg V;N
+Generate the inflected form for: pisotear V;3;SG;COND	ar V;3;SG;COND;COND;COND;COND;
+Generate the inflected form for: agachar V;1;PL;COND	a agachar V;1;PL;COND;COND;CON
+Generate the inflected form for: estimular V;2;PL;SBJV;FUT	 V;2;PL;SBJV;FUT V;2;PL;SBJV;F
+Generate the inflected form for: optar V;3;PL;IMP;NEG	 V;3;PL;IMP;NEGENERATE the inf
+Generate the inflected form for: polimerizar V;3;PL;IND;FUT	 V;3;PL;IND;FUT;FUT;FUT;FUT;FU
+Generate the inflected form for: escalfar V.PTCP;FEM;SG;PST	ar V.PTCP;FEM;SG;PSTv.PTCP;FEM
+Generate the inflected form for: instigar V;3;SG;IND;PST;IPFV	ar V;3;SG;IND;PST;IPFVerb inst

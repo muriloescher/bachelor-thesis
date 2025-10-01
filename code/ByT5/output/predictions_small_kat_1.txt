@@ -1,0 +1,1082 @@
+Generate the inflected form for: აბსტრაქტული ADJ;DAT(PL)	აბსტრაქტულ
+Generate the inflected form for: აბსტრაქტული ADJ;DAT(PL;LGSPEC2)	აბსტრაქტულ
+Generate the inflected form for: აბსტრაქტული ADJ;DAT(SG)	აბსტრაქტულ
+Generate the inflected form for: აბსტრაქტული ADJ;ERG(PL)	აბსტრაქტულ
+Generate the inflected form for: აბსტრაქტული ADJ;ERG(PL;LGSPEC2)	აბსტრაქტულ
+Generate the inflected form for: აბსტრაქტული ADJ;ERG(SG)	აბსტრაქტულ
+Generate the inflected form for: აბსტრაქტული ADJ;FRML(PL)	აბსტრაქტულ
+Generate the inflected form for: აბსტრაქტული ADJ;FRML(SG)	აბსტრაქტულ
+Generate the inflected form for: აბსტრაქტული ADJ;GEN(PL)	აბსტრაქტულ
+Generate the inflected form for: აბსტრაქტული ADJ;GEN(PL;LGSPEC2)	აბსტრაქტულ
+Generate the inflected form for: აბსტრაქტული ADJ;GEN(SG)	აბსტრაქტულ
+Generate the inflected form for: აბსტრაქტული ADJ;INS(PL)	აბსტრაქტულ
+Generate the inflected form for: აბსტრაქტული ADJ;INS(SG)	აბსტრაქტულ
+Generate the inflected form for: აბსტრაქტული ADJ;NOM(PL)	აბსტრაქტულ
+Generate the inflected form for: აბსტრაქტული ADJ;NOM(PL;LGSPEC2)	აბსტრაქტულ
+Generate the inflected form for: აბსტრაქტული ADJ;NOM(SG)	აბსტრაქტულ
+Generate the inflected form for: აბსტრაქტული ADJ;VOC(PL)	აბსტრაქტულ
+Generate the inflected form for: აბსტრაქტული ADJ;VOC(PL;LGSPEC2)	აბსტრაქტულ
+Generate the inflected form for: აბსტრაქტული ADJ;VOC(SG)	აბსტრაქტულ
+Generate the inflected form for: აგენტი N;DAT(PL)	აგენტი N;DAT(PL) 
+Generate the inflected form for: აგენტი N;DAT(PL;LGSPEC2)	აგენტი N;DAT(PL;LG
+Generate the inflected form for: აგენტი N;DAT(SG)	აგენტი N;DAT(SG) 
+Generate the inflected form for: აგენტი N;ERG(PL)	აგენტი N;ERG(PL) 
+Generate the inflected form for: აგენტი N;ERG(PL;LGSPEC2)	აგენტი N;ERG(PL;LG
+Generate the inflected form for: აგენტი N;ERG(SG)	აგენტი N;ERG(SG) 
+Generate the inflected form for: აგენტი N;FRML(PL)	აგენტი N;FRML(PL) 
+Generate the inflected form for: აგენტი N;FRML(SG)	აგენტი N;FRML(SG)
+
+Generate the inflected form for: აგენტი N;GEN(PL)	აგენტი N;GEN(PL) 
+Generate the inflected form for: აგენტი N;GEN(PL;LGSPEC2)	აგენტი N;GEN(PL;LG
+Generate the inflected form for: აგენტი N;GEN(SG)	აგენტი N;GEN(SG) 
+Generate the inflected form for: აგენტი N;INS(PL)	აგენტი N;INS(PL) 
+Generate the inflected form for: აგენტი N;INS(SG)	აგენტი N;INS(SG) 
+Generate the inflected form for: აგენტი N;NOM(PL)	აგენტი N;NOM(PL) 
+Generate the inflected form for: აგენტი N;NOM(PL;LGSPEC2)	აგენტი N;NOM(PL;LG
+Generate the inflected form for: აგენტი N;NOM(SG)	აგენტი N;NOM(SG) f
+Generate the inflected form for: აგენტი N;VOC(PL)	აგენტი N;VOC(PL)
+
+Generate the inflected form for: აგენტი N;VOC(PL;LGSPEC2)	აგენტი N;VOC(PL;LG
+Generate the inflected form for: აგენტი N;VOC(SG)	აგენტი N;VOC(SG)
+
+Generate the inflected form for: ათეთრებს V;IMP;NOM(2,PL);ACC(1,SG)	ათᔔთრებს V;IMP
+Generate the inflected form for: ათეთრებს V;IND;FUT;NOM(3,PL);ACC(2,PL)	ათეთებს V;IND;
+Generate the inflected form for: ათეთრებს V;IND;IPFV;NOM(2,PL);ACC(1,SG)	ს ათეთრებს V
+Generate the inflected form for: ათეთრებს V;IND;IPFV;NOM(2,SG);ACC(1,PL)	ს ათეთრებს V
+Generate the inflected form for: ათეთრებს V;IND;IPFV;NOM(2,SG);ACC(3,PL)	ს ათეთრებს V
+Generate the inflected form for: ათეთრებს V;IND;PRS;NOM(1,PL);ACC(2,SG)	ათეთრებს V;IND
+Generate the inflected form for: ათეთრებს V;IND;PRS;NOM(2,SG);ACC(1,SG)	ათᔔთრებს V;IND
+Generate the inflected form for: ათეთრებს V;IND;PRS;NOM(3,PL);ACC(1,PL)	ებს V;IND;PRS;NOM(3,PL);
+Generate the inflected form for: ათეთრებს V;IND;PRS;NOM(3,PL);ACC(2,PL)	ებს V;IND;PRS;NOM(3,PL);
+Generate the inflected form for: ათეთრებს V;IND;PRS;NOM(3,PL);ACC(3,SG)	ათეთრებს V;IND
+Generate the inflected form for: ათეთრებს V;IND;PRS;NOM(3,SG);ACC(2,PL)	ათეთებს V;IND;
+Generate the inflected form for: ათეთრებს V;IND;PST;PFV;NOM(3,SG);ACC(2,SG)	ს ათეთრებს V
+Generate the inflected form for: ათეთრებს V;IND;PST;PRF;NOM(1,PL);ACC(2,SG)	ათეთრებს V;IND
+Generate the inflected form for: ათეთრებს V;IND;PST;PRF;NOM(1,PL);ACC(3,SG)	ათეთრებს V;IND
+Generate the inflected form for: ათეთრებს V;IND;PST;PRF;NOM(1,SG);ACC(2,SG)	ს ათეთრებს V
+Generate the inflected form for: ათეთრებს V;IND;PST;PRF;NOM(2,PL);ACC(3,PL)	ებს V;IND;PST;PRF;NOM(2,
+Generate the inflected form for: ათეთრებს V;IND;PST;PRF;NOM(3,PL);ACC(2,PL)	ებს V;IND;PST;PRF;NOM(3,
+Generate the inflected form for: ათეთრებს V;IND;PST;PRF;NOM(3,PL);ACC(3,SG)	ათეთრებს V;IND
+Generate the inflected form for: ათეთრებს V;OPT;NOM(3,PL);ACC(1,PL)	ათეთებს V;OPT;
+Generate the inflected form for: ათეთრებს V;OPT;NOM(3,PL);ACC(2,PL)	ათეთებს V;OPT;
+Generate the inflected form for: ათეთრებს V;SBJV;FUT;NOM(2,PL);ACC(1,PL)	ათეთრებს V;SBJ
+Generate the inflected form for: ათეთრებს V;SBJV;FUT;NOM(2,SG);ACC(3,PL)	ათეთრებს V;SBJ
+Generate the inflected form for: ათეთრებს V;SBJV;FUT;NOM(3,PL);ACC(2,SG)	ათეთრებს V;SBJ
+Generate the inflected form for: ათეთრებს V;SBJV;PRF;NOM(3,PL);ACC(3,PL)	ათეთრებს V;SBJ
+Generate the inflected form for: ათეთრებს V;SBJV;PRS;NOM(2,SG);ACC(1,PL)	ათეთრებს V;SBJ
+Generate the inflected form for: აკვამარინი N;DAT(PL)	აკვამარინი
+Generate the inflected form for: აკვამარინი N;DAT(PL;LGSPEC2)	აკვამარინი
+Generate the inflected form for: აკვამარინი N;DAT(SG)	აკვამარინი
+Generate the inflected form for: აკვამარინი N;ERG(PL)	აკვამარინი
+Generate the inflected form for: აკვამარინი N;ERG(PL;LGSPEC2)	აკვამარინი
+Generate the inflected form for: აკვამარინი N;ERG(SG)	ინინინინინ
+Generate the inflected form for: აკვამარინი N;FRML(PL)	აკვამარინი
+Generate the inflected form for: აკვამარინი N;FRML(SG)	აკვამარინი
+Generate the inflected form for: აკვამარინი N;GEN(PL)	აკვამარინი
+Generate the inflected form for: აკვამარინი N;GEN(PL;LGSPEC2)	აკვამარინი
+Generate the inflected form for: აკვამარინი N;GEN(SG)	აკვამარინი
+Generate the inflected form for: აკვამარინი N;INS(PL)	აკვამარინი
+Generate the inflected form for: აკვამარინი N;INS(SG)	ამარინი N;INS(SG
+Generate the inflected form for: აკვამარინი N;NOM(PL)	აკვამაဘნი N;
+Generate the inflected form for: აკვამარინი N;NOM(PL;LGSPEC2)	აკვამარინი
+Generate the inflected form for: აკვამარინი N;NOM(SG)	აკვამაတმაတ
+Generate the inflected form for: აკვამარინი N;VOC(PL)	აკვამარინი
+Generate the inflected form for: აკვამარინი N;VOC(PL;LGSPEC2)	აკვამარინი
+Generate the inflected form for: აკვამარინი N;VOC(SG)	აკვამარინი
+Generate the inflected form for: ართმევს V;COND;NOM(2,PL);ACC(3,PL)	 ართმეს V;COND;N
+Generate the inflected form for: ართმევს V;COND;NOM(2,SG);ACC(1,SG)	 ართმეს V;COND;N
+Generate the inflected form for: ართმევს V;COND;NOM(3,PL);ACC(3,PL)	ართმეს V;COND;NO
+Generate the inflected form for: ართმევს V;IMP;NOM(3,PL);ACC(1,PL)	 ართმეს V;IMP;AC
+Generate the inflected form for: ართმევს V;IMP;NOM(3,SG);ACC(1,SG)	 ართმეს V;IMP;NO
+Generate the inflected form for: ართმევს V;IND;FUT;NOM(1,PL);ACC(3,SG)	 ართმეს V;IND;FU
+Generate the inflected form for: ართმევს V;IND;FUT;NOM(2,SG);ACC(1,SG)	 ართმეს V;IND;FU
+Generate the inflected form for: ართმევს V;IND;FUT;NOM(3,PL);ACC(3,PL)	ართმეს V;IND;FUT
+Generate the inflected form for: ართმევს V;IND;FUT;NOM(3,SG);ACC(1,SG)	 ართმეს V;IND;FU
+Generate the inflected form for: ართმევს V;IND;IPFV;NOM(1,PL);ACC(3,SG)	 ართმეს V;IND;IP
+Generate the inflected form for: ართმევს V;IND;PRF;NOM(1,SG);ACC(2,PL)	 ართმეს V;IND;PR
+Generate the inflected form for: ართმევს V;IND;PRF;NOM(3,PL);ACC(3,PL)	 ართმეს V;IND;PR
+Generate the inflected form for: ართმევს V;IND;PRF;NOM(3,PL);ACC(3,SG)	 ართმეს V;IND;PR
+Generate the inflected form for: ართმევს V;IND;PRS;NOM(2,SG);ACC(3,PL)	 ართმეს V;IND;PR
+Generate the inflected form for: ართმევს V;IND;PRS;NOM(3,PL);ACC(3,SG)	 ართმეს V;IND;PR
+Generate the inflected form for: ართმევს V;IND;PRS;NOM(3,SG);ACC(1,SG)	 ართმეს V;IND;PR
+Generate the inflected form for: ართმევს V;IND;PST;PFV;NOM(2,PL);ACC(1,SG)	 ართმეს V;IND;PS
+Generate the inflected form for: ართმევს V;IND;PST;PFV;NOM(3,SG);ACC(3,SG)	 ართმეს V;IND;PS
+Generate the inflected form for: ართმევს V;OPT;NOM(2,PL);ACC(3,PL)	 ართმეს V;OPT;AC
+Generate the inflected form for: ართმევს V;OPT;NOM(3,PL);ACC(2,PL)	 ართმეს V;OPT;AC
+Generate the inflected form for: ართმევს V;SBJV;PRF;NOM(1,SG);ACC(3,PL)	 ართმეს V;SBJV;P
+Generate the inflected form for: ართმევს V;SBJV;PRF;NOM(2,SG);ACC(3,SG)	 ართმეს V;SBJV;P
+Generate the inflected form for: ართმევს V;SBJV;PRF;NOM(3,PL);ACC(2,SG)	 ართმეს V;SBJV;P
+Generate the inflected form for: ართმევს V;SBJV;PRS;NOM(2,PL);ACC(1,PL)	 ართმეს V;SBJV;P
+Generate the inflected form for: ართმევს V;SBJV;PRS;NOM(2,SG);ACC(1,PL)	 ართმეს V;SBJV;P
+Generate the inflected form for: ართმევს V;SBJV;PRS;NOM(3,SG);ACC(3,SG)	 ართმეს V;SBJV;P
+Generate the inflected form for: ასისტენტი N;DAT(PL)	ისტენტი N;DAT(PL
+Generate the inflected form for: ასისტენტი N;DAT(PL;LGSPEC2)	ასისႢენტი N;
+Generate the inflected form for: ასისტენტი N;DAT(SG)	ისტენტი N;DAT(SG
+Generate the inflected form for: ასისტენტი N;ERG(PL)	ასისႢენტი N;
+Generate the inflected form for: ასისტენტი N;ERG(PL;LGSPEC2)	ასისႢენტი N;
+Generate the inflected form for: ასისტენტი N;ERG(SG)	ასისႢენტი N;
+Generate the inflected form for: ასისტენტი N;FRML(PL)	ასისႢენტი N;
+Generate the inflected form for: ასისტენტი N;FRML(SG)	ასისႢენტი N;
+Generate the inflected form for: ასისტენტი N;GEN(PL)	ასისႢენტი N;
+Generate the inflected form for: ასისტენტი N;GEN(PL;LGSPEC2)	ასისႢენტი N;
+Generate the inflected form for: ასისტენტი N;GEN(SG)	ასისႢენტი N;
+Generate the inflected form for: ასისტენტი N;INS(PL)	ასისᢔნტი N;INS
+Generate the inflected form for: ასისტენტი N;INS(SG)	ასისᢔნტი N;INS
+Generate the inflected form for: ასისტენტი N;NOM(PL)	ასისႢენტი N;
+Generate the inflected form for: ასისტენტი N;NOM(PL;LGSPEC2)	ასისტენტი N;
+Generate the inflected form for: ასისტენტი N;NOM(SG)	ასისႢენტი N;
+Generate the inflected form for: ასისტენტი N;VOC(PL)	ასისႢენტი N;
+Generate the inflected form for: ასისტენტი N;VOC(PL;LGSPEC2)	ასისტენტი N;
+Generate the inflected form for: ასისტენტი N;VOC(SG)	ასისႢენტი N;
+Generate the inflected form for: ატიპური ADJ;DAT(PL)	ატიპური ADJ;DAT(
+Generate the inflected form for: ატიპური ADJ;DAT(PL;LGSPEC2)	ი ატიპური ADJ;
+Generate the inflected form for: ატიპური ADJ;DAT(SG)	ატიპური ADJ;DAT(
+Generate the inflected form for: ატიპური ADJ;ERG(PL)	ი ADJ;ERG(PL);ERG(PL);ERG(PL
+Generate the inflected form for: ატიპური ADJ;ERG(PL;LGSPEC2)	ი ატიპური ADJ;
+Generate the inflected form for: ატიპური ADJ;ERG(SG)	ი ADJ;ERG(SG);ERG(SG);ERG(SG
+Generate the inflected form for: ატიპური ADJ;FRML(PL)	ატიპური ADJ;FRML
+Generate the inflected form for: ატიპური ADJ;FRML(SG)	ატიპური ADJ;FRML
+Generate the inflected form for: ატიპური ADJ;GEN(PL)	ატიპური ADJ;GEN(
+Generate the inflected form for: ატიპური ADJ;GEN(PL;LGSPEC2)	ი ADJ;GEN(PL;LGSPEC2) ADJ;GE
+Generate the inflected form for: ატიპური ADJ;GEN(SG)	ატიპური ADJ;GEN(
+Generate the inflected form for: ატიპური ADJ;INS(PL)	ატიპური ADJ;INS(
+Generate the inflected form for: ატიპური ADJ;INS(SG)	ატიპური ADJ;INS(
+Generate the inflected form for: ატიპური ADJ;NOM(PL)	იპური ADJ;NOM(PL) AD
+Generate the inflected form for: ატიპური ADJ;NOM(PL;LGSPEC2)	ი ატიპური ADJ;
+Generate the inflected form for: ატიპური ADJ;NOM(SG)	ატიპური ADJ;NOM(
+Generate the inflected form for: ატიპური ADJ;VOC(PL)	ატიპური ADJ;VOC(
+Generate the inflected form for: ატიპური ADJ;VOC(PL;LGSPEC2)	ატიპური ADJ;VOC(
+Generate the inflected form for: ატიპური ADJ;VOC(SG)	ატიპური ADJ;VOC(
+Generate the inflected form for: ბიოლოგი N;DAT(PL)	ანალოგი N;DAT(PL
+Generate the inflected form for: ბიოლოგი N;DAT(PL;LGSPEC2)	იოლოგი N;DAT(PL;LG
+Generate the inflected form for: ბიოლოგი N;DAT(SG)	ბიოლოგი N;DAT(SG
+Generate the inflected form for: ბიოლოგი N;ERG(PL)	ბიოლოგი N;ERG(PL
+Generate the inflected form for: ბიოლოგი N;ERG(PL;LGSPEC2)	ავიკის ბიო
+Generate the inflected form for: ბიოლოგი N;ERG(SG)	ალათი ბიოლ
+Generate the inflected form for: ბიოლოგი N;FRML(PL)	ალოგი N;FRML(PL) for
+Generate the inflected form for: ბიოლოგი N;FRML(SG)	აკაკის ბიო
+Generate the inflected form for: ბიოლოგი N;GEN(PL)	ანალი N;GEN(PL)
+ბ
+Generate the inflected form for: ბიოლოგი N;GEN(PL;LGSPEC2)	იოლოგი N;GEN(PL;LG
+Generate the inflected form for: ბიოლოგი N;GEN(SG)	აკაკის ბილ
+Generate the inflected form for: ბიოლოგი N;INS(PL)	იოლოგი N;INS(PL) 
+Generate the inflected form for: ბიოლოგი N;INS(SG)	ალათი ბიოლ
+Generate the inflected form for: ბიოლოგი N;NOM(PL)	ავიანი N;NOM(PL) 
+Generate the inflected form for: ბიოლოგი N;NOM(PL;LGSPEC2)	იოლოგი N;NOM(PL;LG
+Generate the inflected form for: ბიოლოგი N;NOM(SG)	აზეც ბილოგ
+Generate the inflected form for: ბიოლოგი N;VOC(PL)	ავიკი N;VOC(PL)
+ბ
+Generate the inflected form for: ბიოლოგი N;VOC(PL;LGSPEC2)	ალათი N;VOC(PL;LGSPE
+Generate the inflected form for: ბიოლოგი N;VOC(SG)	იოლოგი N;VOC(SG)
+
+Generate the inflected form for: გარანტი N;DAT(PL)	არანტი N;DAT(PL) 
+Generate the inflected form for: გარანტი N;DAT(PL;LGSPEC2)	ანტი N;DAT(PL;LGSPEC2)
+Generate the inflected form for: გარანტი N;DAT(SG)	არანტი N;DAT(SG) N
+Generate the inflected form for: გარანტი N;ERG(PL)	არანტი N;ERG(PL)
+
+Generate the inflected form for: გარანტი N;ERG(PL;LGSPEC2)	არანტი N;ERG(PL;LG
+Generate the inflected form for: გარანტი N;ERG(SG)	არანტი N;ERG(SG)
+
+Generate the inflected form for: გარანტი N;FRML(PL)	ანტი N;FRML(PL) for: 
+Generate the inflected form for: გარანტი N;FRML(SG)	ანტი N;FRML(SG)
+გა
+Generate the inflected form for: გარანტი N;GEN(PL)	ანტი N;GEN(PL) გა
+Generate the inflected form for: გარანტი N;GEN(PL;LGSPEC2)	არანტი N;GEN(PL;LG
+Generate the inflected form for: გარანტი N;GEN(SG)	ანალი N;GEN(SG) გ
+Generate the inflected form for: გარანტი N;INS(PL)	ანტი N;INS(PL) გა
+Generate the inflected form for: გარანტი N;INS(SG)	ანტი N;INS(SG) გა
+Generate the inflected form for: გარანტი N;NOM(PL)	არანტი N;NOM(PL) 
+Generate the inflected form for: გარანტი N;NOM(PL;LGSPEC2)	არანტი NOM(PL;LGSP
+Generate the inflected form for: გარანტი N;NOM(SG)	არანტი N;NOM(SG)
+
+Generate the inflected form for: გარანტი N;VOC(PL)	ანალი N
+გარა
+Generate the inflected form for: გარანტი N;VOC(PL;LGSPEC2)	ანტი N;VOC(PL;LGSPEC2)
+Generate the inflected form for: გარანტი N;VOC(SG)	ანალი N;VOC(SG)
+გ
+Generate the inflected form for: გუთანი N;DAT(PL)	თანი N;DAT(PL) გუ
+Generate the inflected form for: გუთანი N;DAT(PL;LGSPEC2)	ანი N;DAT(PL;LGSPEC2) 
+Generate the inflected form for: გუთანი N;DAT(SG)	თანი N;DAT(SG) N;DAT(S
+Generate the inflected form for: გუთანი N;ERG(PL)	გუთანი N;ERG(PL) N
+Generate the inflected form for: გუთანი N;ERG(PL;LGSPEC2)	ანი N;ERG(PL;LGSPEC2) 
+Generate the inflected form for: გუთანი N;ERG(SG)	ი გუთანი N;ERG(S
+Generate the inflected form for: გუთანი N;FRML(PL)	თანი N;FRML(PL) for: 
+Generate the inflected form for: გუთანი N;FRML(SG)	ანათი N;FRML(SG) for
+Generate the inflected form for: გუთანი N;GEN(PL)	თანი N;GEN(PL) for: 
+Generate the inflected form for: გუთანი N;GEN(PL;LGSPEC2)	გუთანი N;GEN(PL;LG
+Generate the inflected form for: გუთანი N;GEN(SG)	თანი N;GEN(SG) for: 
+Generate the inflected form for: გუთანი N;INS(PL)	გუთანი N;INS(PL) 
+Generate the inflected form for: გუთანი N;INS(SG)	გუთანი N;INS(SG) 
+Generate the inflected form for: გუთანი N;NOM(PL)	ანი N;NOM(PL) for: გ
+Generate the inflected form for: გუთანი N;NOM(PL;LGSPEC2)	ანი N;NOM(PL;LGSPEC2) 
+Generate the inflected form for: გუთანი N;NOM(SG)	ანი N;NOM(SG) for: გ
+Generate the inflected form for: გუთანი N;VOC(PL)	გუთანი N;VOC(PL)
+
+Generate the inflected form for: გუთანი N;VOC(PL;LGSPEC2)	გუთანი N;VOC(PL;LG
+Generate the inflected form for: გუთანი N;VOC(SG)	ანი N;VOC(SG) გუთ
+Generate the inflected form for: დოლარი N;DAT(PL)	არი N;DAT(PL) დოლ
+Generate the inflected form for: დოლარი N;DAT(PL;LGSPEC2)	არი N;DAT(PL;LGSPEC2) 
+Generate the inflected form for: დოლარი N;DAT(SG)	ოლარი N;DAT(SG) N;DA
+Generate the inflected form for: დოლარი N;ERG(PL)	ი N;ERG(PL) N;ERG(PL) N;ERG(
+Generate the inflected form for: დოლარი N;ERG(PL;LGSPEC2)	არი N;ERG(PL;LGSPEC2) 
+Generate the inflected form for: დოლარი N;ERG(SG)	არის დოლარ
+Generate the inflected form for: დოლარი N;FRML(PL)	არი N;FRML(PL) for: დ
+Generate the inflected form for: დოლარი N;FRML(SG)	არის დოლარ
+Generate the inflected form for: დოლარი N;GEN(PL)	ოლარი N;GEN(PL)
+დ
+Generate the inflected form for: დოლარი N;GEN(PL;LGSPEC2)	არი N;GEN(PL;LGSPEC2) 
+Generate the inflected form for: დოლარი N;GEN(SG)	ოლარი N;GEN(SG) for:
+Generate the inflected form for: დოლარი N;INS(PL)	არი N;INS(PL) დოლ
+Generate the inflected form for: დოლარი N;INS(SG)	არი N;INS(SG) N;INS(SG) 
+Generate the inflected form for: დოლარი N;NOM(PL)	არი N;NOM(PL) დოლ
+Generate the inflected form for: დოლარი N;NOM(PL;LGSPEC2)	არი NOM(PL;LGSPEC2) დ
+Generate the inflected form for: დოლარი N;NOM(SG)	არი N;NOM(SG) for: დ
+Generate the inflected form for: დოლარი N;VOC(PL)	ოლარი N;VOC(PL)
+დ
+Generate the inflected form for: დოლარი N;VOC(PL;LGSPEC2)	არი N;VOC(PL;LGSPEC2) 
+Generate the inflected form for: დოლარი N;VOC(SG)	ოლარი N;VOC(SG)
+დ
+Generate the inflected form for: ებონიტი N;DAT(PL)	ი N;DAT(PL) N;DAT(PL) N;DAT(
+Generate the inflected form for: ებონიტი N;DAT(PL;LGSPEC2)	ი ებონიტი N;DA
+Generate the inflected form for: ებონიტი N;DAT(SG)	ი N;DAT(SG) N;DAT(SG) N;DAT(
+Generate the inflected form for: ებონიტი N;ERG(PL)	იტი N;ERG(PL) N;ERG(PL) 
+Generate the inflected form for: ებონიტი N;ERG(PL;LGSPEC2)	ი N;ERG(PL;LGSPEC2) ებ
+Generate the inflected form for: ებონიტი N;ERG(SG)	ი N;ERG(SG) N;ERG(SG) N;ERG(
+Generate the inflected form for: ებონიტი N;FRML(PL)	ანიტი N;FRML(PL) for
+Generate the inflected form for: ებონიტი N;FRML(SG)	ანალი N;FRML(SG) for
+Generate the inflected form for: ებონიტი N;GEN(PL)	იტი N;GEN(PL) ებო
+Generate the inflected form for: ებონიტი N;GEN(PL;LGSPEC2)	ი ებონიტი N;GE
+Generate the inflected form for: ებონიტი N;GEN(SG)	ანასახალი 
+Generate the inflected form for: ებონიტი N;INS(PL)	ი N;INS(PL) N;INS(PL) N;INS(
+Generate the inflected form for: ებონიტი N;INS(SG)	ი N;INS(SG) N;INS(SG) N;INS(
+Generate the inflected form for: ებონიტი N;NOM(PL)	იტიტი N;NOM(PL) N;NO
+Generate the inflected form for: ებონიტი N;NOM(PL;LGSPEC2)	იტი N;NOM(PL;LGSPEC2) 
+Generate the inflected form for: ებონიტი N;NOM(SG)	იტი N;NOM(SG) for: ე
+Generate the inflected form for: ებონიტი N;VOC(PL)	ანათი N;VOC(PL)
+ე
+Generate the inflected form for: ებონიტი N;VOC(PL;LGSPEC2)	ანალიზი N;VOC(PL
+Generate the inflected form for: ებონიტი N;VOC(SG)	იტიტი N;VOC(SG) N;VO
+Generate the inflected form for: ეზო N;DAT(PL)	ო N;DAT(PL)
+ეზო N;DAT(
+Generate the inflected form for: ეზო N;DAT(PL;LGSPEC2)	ო N;DAT(PL;LGSPEC2) ეზ
+Generate the inflected form for: ეზო N;DAT(SG)	ო N;DAT(SG) ეზო N;DAT(
+Generate the inflected form for: ეზო N;ERG(PL)	ო N;ERG(PL) N;ERG(PL) N;ERG(
+Generate the inflected form for: ეზო N;ERG(PL;LGSPEC2)	ო N;ERG(PL;LGSPEC2);ERG(PL;L
+Generate the inflected form for: ეზო N;ERG(SG)	ო N;ERG(SG)(SG)(SG)(SG)(SG)(
+Generate the inflected form for: ეზო N;FRML(PL)	ოდოს ეზო N;FRML(
+Generate the inflected form for: ეზო N;FRML(SG)	აზო N;FRML(SG)
+ეზო
+Generate the inflected form for: ეზო N;GEN(PL)	ო N;GEN(PL)
+ეზო N;GEN(
+Generate the inflected form for: ეზო N;GEN(PL;LGSPEC2)	ო N;GEN(PL;LGSPEC2);GEN(PL;L
+Generate the inflected form for: ეზო N;GEN(SG)	ო N;GEN(SG) - ეზო N;GE
+Generate the inflected form for: ეზო N;INS(PL)	ო N;INS(PL) N;INS(PL) N;INS(
+Generate the inflected form for: ეზო N;INS(SG)	ო N;INS(SG) N;INS(SG) N;INS(
+Generate the inflected form for: ეზო N;NOM(PL)	ო N;NOM(PL) ეზო N;NOM(
+Generate the inflected form for: ეზო N;NOM(PL;LGSPEC2)	ო N;NOM(PL;LGSPEC2) ეზ
+Generate the inflected form for: ეზო N;NOM(SG)	ოდო N;NOM(SG) ეზო 
+Generate the inflected form for: ეზო N;VOC(PL)	ო N;VOC(PL)
+ეზო N;VOC(
+Generate the inflected form for: ეზო N;VOC(PL;LGSPEC2)	ო N;VOC(PL;LGSPEC2) ეზ
+Generate the inflected form for: ეზო N;VOC(SG)	აზო N;VOC(SG)
+ეზო 
+Generate the inflected form for: ეპიდემიოლოგი N;DAT(PL)	იდემიოლოგი
+Generate the inflected form for: ეპიდემიოლოგი N;DAT(PL;LGSPEC2)	იდემიოლოგი
+Generate the inflected form for: ეპიდემიოლოგი N;DAT(SG)	 ეპიდემიოლ
+Generate the inflected form for: ეპიდემიოლოგი N;ERG(PL)	იდემიოლოგი
+Generate the inflected form for: ეპიდემიოლოგი N;ERG(PL;LGSPEC2)	იდემიოლოგი
+Generate the inflected form for: ეპიდემიოლოგი N;ERG(SG)	იდემიოლოგი
+Generate the inflected form for: ეპიდემიოლოგი N;FRML(PL)	ათასიათასი
+Generate the inflected form for: ეპიდემიოლოგი N;FRML(SG)	ალიზაცია N;FRM
+Generate the inflected form for: ეპიდემიოლოგი N;GEN(PL)	ეპიდემიოლო
+Generate the inflected form for: ეპიდემიოლოგი N;GEN(PL;LGSPEC2)	იდემიოლოგი
+Generate the inflected form for: ეპიდემიოლოგი N;GEN(SG)	ეპიდემიოლო
+Generate the inflected form for: ეპიდემიოლოგი N;INS(PL)	ამათა ეპიდ
+Generate the inflected form for: ეპიდემიოლოგი N;INS(SG)	ალათი ეპიდ
+Generate the inflected form for: ეპიდემიოლოგი N;NOM(PL)	ეპიდემიოლო
+Generate the inflected form for: ეპიდემიოლოგი N;NOM(PL;LGSPEC2)	იდემიოლოგი
+Generate the inflected form for: ეპიდემიოლოგი N;NOM(SG)	იდემიოლოგი
+Generate the inflected form for: ეპიდემიოლოგი N;VOC(PL)	ეპიდემიოლო
+Generate the inflected form for: ეპიდემიოლოგი N;VOC(PL;LGSPEC2)	იდემიოლოგი
+Generate the inflected form for: ეპიდემიოლოგი N;VOC(SG)	იდემიოლოგი
+Generate the inflected form for: ვაჟი N;DAT(PL)	აჟი N;DAT(PL)
+ვაჟ
+Generate the inflected form for: ვაჟი N;DAT(PL;LGSPEC2)	აჟი N;DAT(PL;LGSPEC2) 
+Generate the inflected form for: ვაჟი N;DAT(SG)	აჟი N;DAT(SG) ვაჟ
+Generate the inflected form for: ვაჟი N;ERG(PL)	ი N;ERG(PL) N;ERG(PL) N;ERG(
+Generate the inflected form for: ვაჟი N;ERG(PL;LGSPEC2)	ი N;ERG(PL;LGSPEC2) ვა
+Generate the inflected form for: ვაჟი N;ERG(SG)	ი N;ERG(SG) N;ERG(SG) N;ERG(
+Generate the inflected form for: ვაჟი N;FRML(PL)	აჟი N;FRML(PL) for: ვ
+Generate the inflected form for: ვაჟი N;FRML(SG)	აჟი N;FRML(SG)
+ვაჟ
+Generate the inflected form for: ვაჟი N;GEN(PL)	ი N;GEN(PL)
+ვაჟი N;G
+Generate the inflected form for: ვაჟი N;GEN(PL;LGSPEC2)	აჟი N;GEN(PL;LGSPEC2) 
+Generate the inflected form for: ვაჟი N;GEN(SG)	ი N;GEN(SG)
+ვაჟი N;G
+Generate the inflected form for: ვაჟი N;INS(PL)	ი N;INS(PL) ვაჟი N;I
+Generate the inflected form for: ვაჟი N;INS(SG)	ი N;INS(SG) ვაჟი N;I
+Generate the inflected form for: ვაჟი N;NOM(PL)	ი N;NOM(PL) ვაჟი N;N
+Generate the inflected form for: ვაჟი N;NOM(PL;LGSPEC2)	აჟი N;NOM(PL;LGSPEC2) 
+Generate the inflected form for: ვაჟი N;NOM(SG)	ი N;NOM(SG) ვაჟი N;N
+Generate the inflected form for: ვაჟი N;VOC(PL)	ი N;VOC(PL) N;VOC(PL) N;VOC(
+Generate the inflected form for: ვაჟი N;VOC(PL;LGSPEC2)	აჟი N;VOC(PL;LGSPEC2) 
+Generate the inflected form for: ვაჟი N;VOC(SG)	ი N;VOC(SG) N;VOC(SG) N;VOC(
+Generate the inflected form for: ზამბახიანი ADJ;DAT(PL)	ანი ADJ;DAT(PL)
+ზა
+Generate the inflected form for: ზამბახიანი ADJ;DAT(PL;LGSPEC2)	ანიანი ADJ;DAT(PL;
+Generate the inflected form for: ზამბახიანი ADJ;DAT(SG)	ზამბხიანი AD
+Generate the inflected form for: ზამბახიანი ADJ;ERG(PL)	ანი ADJ;ERG(PL);ERG(PL);
+Generate the inflected form for: ზამბახიანი ADJ;ERG(PL;LGSPEC2)	ანათიანი ADJ;E
+Generate the inflected form for: ზამბახიანი ADJ;ERG(SG)	ანი ADJ;ERG(SG);ERG(SG);
+Generate the inflected form for: ზამბახიანი ADJ;FRML(PL)	ანიანი ADJ;FRML(PL
+Generate the inflected form for: ზამბახიანი ADJ;FRML(SG)	ანიანი ADJ;FRML(SG
+Generate the inflected form for: ზამბახიანი ADJ;GEN(PL)	ანი ADJ;GEN(PL) ADJ;GEN(
+Generate the inflected form for: ზამბახიანი ADJ;GEN(PL;LGSPEC2)	ანიანი ADJ;GEN(PL;
+Generate the inflected form for: ზამბახიანი ADJ;GEN(SG)	ანი ADJ;GEN(SG);GEN(SG);
+Generate the inflected form for: ზამბახიანი ADJ;INS(PL)	ანი ADJ;INS(PL) for: ზ
+Generate the inflected form for: ზამბახიანი ADJ;INS(SG)	ანი ADJ;INS(SG) for: ზ
+Generate the inflected form for: ზამბახიანი ADJ;NOM(PL)	ანი ADJ;NOM(PL);NOM(PL);
+Generate the inflected form for: ზამბახიანი ADJ;NOM(PL;LGSPEC2)	ანათიანი ADJ;N
+Generate the inflected form for: ზამბახიანი ADJ;NOM(SG)	ანი ADJ;NOM(SG) ზა
+Generate the inflected form for: ზამბახიანი ADJ;VOC(PL)	ანათიანი ADJ;V
+Generate the inflected form for: ზამბახიანი ADJ;VOC(PL;LGSPEC2)	ანათიანი ADJ;V
+Generate the inflected form for: ზამბახიანი ADJ;VOC(SG)	ანგარიში ADJ;V
+Generate the inflected form for: თარაზო N;DAT(PL)	ო N;DAT(PL) თარაზ
+Generate the inflected form for: თარაზო N;DAT(PL;LGSPEC2)	აზო N;DAT(PL;LGSPEC2) 
+Generate the inflected form for: თარაზო N;DAT(SG)	აზო N;DAT(SG) N;DAT(SG) 
+Generate the inflected form for: თარაზო N;ERG(PL)	აზოს თარაზ
+Generate the inflected form for: თარაზო N;ERG(PL;LGSPEC2)	 თარაზო N;ERG(PL;L
+Generate the inflected form for: თარაზო N;ERG(SG)	აზოს თარაზ
+Generate the inflected form for: თარაზო N;FRML(PL)	აზო N;FRML(PL) for: თ
+Generate the inflected form for: თარაზო N;FRML(SG)	აზო N;FRML(SG)
+თარ
+Generate the inflected form for: თარაზო N;GEN(PL)	 N;GEN(PL) თარაზო 
+Generate the inflected form for: თარაზო N;GEN(PL;LGSPEC2)	 თარაზო N;GEN(PL;L
+Generate the inflected form for: თარაზო N;GEN(SG)	აზო N;GEN(SG) თარ
+Generate the inflected form for: თარაზო N;INS(PL)	აზო N;INS(PL) თარ
+Generate the inflected form for: თარაზო N;INS(SG)	აზო N;INS(SG) თარ
+Generate the inflected form for: თარაზო N;NOM(PL)	ო N;NOM(PL) თარაზ
+Generate the inflected form for: თარაზო N;NOM(PL;LGSPEC2)	აზო N;NOM(PL;LGSPEC2) 
+Generate the inflected form for: თარაზო N;NOM(SG)	აზო N;NOM(SG) თარ
+Generate the inflected form for: თარაზო N;VOC(PL)	აზეთი N;VOC(PL)
+თ
+Generate the inflected form for: თარაზო N;VOC(PL;LGSPEC2)	 თარაზო N;VOC(PL;L
+Generate the inflected form for: თარაზო N;VOC(SG)	აზრო N;VOC(SG);VOC(SG)
+Generate the inflected form for: თეთრდება V;COND;NOM(1,PL)	თეთრდება V;CON
+Generate the inflected form for: თეთრდება V;COND;NOM(1,SG)	თეთრდება V;CON
+Generate the inflected form for: თეთრდება V;COND;NOM(2,PL)	არისტება V;CON
+Generate the inflected form for: თეთრდება V;COND;NOM(3,PL)	თეთრდება V;CON
+Generate the inflected form for: თეთრდება V;COND;NOM(3,SG)	თეთრდება V;CON
+Generate the inflected form for: თეთრდება V;IMP;NOM(1,PL)	 თეთრდება V;IM
+Generate the inflected form for: თეთრდება V;IND;FUT;NOM(3,SG)	არის თეთრდ
+Generate the inflected form for: თეთრდება V;IND;IPFV;NOM(1,PL)	თეთრდება V;IND
+Generate the inflected form for: თეთრდება V;IND;IPFV;NOM(3,SG)	 თეთრდᔔᑑა V;IN
+Generate the inflected form for: თეთრდება V;IND;PRS;NOM(2,PL)	ათრდება V;IND;PR
+Generate the inflected form for: თეთრდება V;IND;PRS;NOM(2,SG)	არდება V;IND;PRS;N
+Generate the inflected form for: თეთრდება V;IND;PRS;NOM(3,PL)	ათრდება V;IND;PR
+Generate the inflected form for: თეთრდება V;IND;PRS;NOM(3,SG)	არდება V;IND;PRS;N
+Generate the inflected form for: თეთრდება V;IND;PST;PFV;NOM(2,SG)	თეთრდᔔᑑა V;IND
+Generate the inflected form for: თეთრდება V;IND;PST;PFV;NOM(3,PL)	 თეთრდება V;IN
+Generate the inflected form for: თეთრდება V;IND;PST;PFV;NOM(3,SG)	თეთრდᔔᑑა V;IND
+Generate the inflected form for: თეთრდება V;IND;PST;PRF;NOM(2,PL)	თეთრდება V;IND
+Generate the inflected form for: თეთრდება V;IND;PST;PRF;NOM(2,SG)	არდება V;IND;PST;P
+Generate the inflected form for: თეთრდება V;OPT;NOM(1,SG)	არის თეთრდ
+Generate the inflected form for: თეთრდება V;SBJV;FUT;NOM(1,PL)	თეთრდᔔბა V;SBJ
+Generate the inflected form for: თეთრდება V;SBJV;FUT;NOM(2,PL)	თეთრდᔔბა V;SBJ
+Generate the inflected form for: თეთრდება V;SBJV;FUT;NOM(2,SG)	თეთრდᔔბა V;SBJ
+Generate the inflected form for: თეთრდება V;SBJV;FUT;NOM(3,PL)	თეთრდᔔბა V;SBJ
+Generate the inflected form for: თეთრდება V;SBJV;PRF;NOM(1,SG)	 თეთრდება V;SB
+Generate the inflected form for: თეთრდება V;SBJV;PRS;NOM(1,PL)	თეთრდება V;SBJ
+Generate the inflected form for: თეთრდება V;V.MSDR;PRF	არის თეთრდ
+Generate the inflected form for: ილი N;DAT(PL)	ი N;DAT(PL)
+ილი N;DAT(
+Generate the inflected form for: ილი N;DAT(PL;LGSPEC2)	ილი N;DAT(PL;LGSPEC2) 
+Generate the inflected form for: ილი N;DAT(SG)	ი N;DAT(SG) ილი N;DAT(
+Generate the inflected form for: ილი N;ERG(PL)	ი N;ERG(PL) N;ERG(PL) N;ERG(
+Generate the inflected form for: ილი N;ERG(PL;LGSPEC2)	ი N;ERG(PL;LGSPEC2) ილ
+Generate the inflected form for: ილი N;ERG(SG)	ი N;ERG(SG) N;ERG(SG) N;ERG(
+Generate the inflected form for: ილი N;FRML(PL)	ილი N;FRML(PL)
+ილი
+Generate the inflected form for: ილი N;FRML(SG)	ილი N;FRML(SG)
+ილი
+Generate the inflected form for: ილი N;GEN(PL)	ილი N;GEN(PL)
+ილი 
+Generate the inflected form for: ილი N;GEN(PL;LGSPEC2)	ი N;GEN(PL;LGSPEC2) ილ
+Generate the inflected form for: ილი N;GEN(SG)	ილი N;GEN(SG)
+ილი 
+Generate the inflected form for: ილი N;INS(PL)	ი N;INS(PL) ილი N;INS(
+Generate the inflected form for: ილი N;INS(SG)	ი N;INS(SG) N;INS(SG) N;INS(
+Generate the inflected form for: ილი N;NOM(PL)	ილი N;NOM(PL) ილი 
+Generate the inflected form for: ილი N;NOM(PL;LGSPEC2)	ი N;NOM(PL;LGSPEC2) ილ
+Generate the inflected form for: ილი N;NOM(SG)	ილი N;NOM(SG) - ილ
+Generate the inflected form for: ილი N;VOC(PL)	ილი N;VOC(PL)
+ილი 
+Generate the inflected form for: ილი N;VOC(PL;LGSPEC2)	ი N;VOC(PL;LGSPEC2) ილ
+Generate the inflected form for: ილი N;VOC(SG)	ილი N;VOC(SG)
+ილი 
+Generate the inflected form for: იმპერიალისტი N;DAT(PL)	 N N N N N N N N N N N N N N N
+Generate the inflected form for: იმპერიალისტი N;DAT(PL;LGSPEC2)	ისტი N;DAT(PL;LGSPEC2)
+Generate the inflected form for: იმპერიალისტი N;DAT(SG)	 N;DAT(SG) N;DAT(SG) N;DAT(SG)
+Generate the inflected form for: იმპერიალისტი N;ERG(PL)	ისტი N;ERG(PL) N;ERG(P
+Generate the inflected form for: იმპერიალისტი N;ERG(PL;LGSPEC2)	ალისტი N;ERG(PL;LG
+Generate the inflected form for: იმპერიალისტი N;ERG(SG)	ისტი N;ERG(SG) for the
+Generate the inflected form for: იმპერიალისტი N;FRML(PL)	ალისტი N;FRML(PL) 
+Generate the inflected form for: იმპერიალისტი N;FRML(SG)	ალისტი N;FRML(SG)
+
+Generate the inflected form for: იმპერიალისტი N;GEN(PL)	ალისტი N;GEN(PL) f
+Generate the inflected form for: იმპერიალისტი N;GEN(PL;LGSPEC2)	ალისტი N;GEN(PL;LG
+Generate the inflected form for: იმპერიალისტი N;GEN(SG)	ალისტი N;GEN(SG) f
+Generate the inflected form for: იმპერიალისტი N;INS(PL)	ალისტი N;INS(PL) f
+Generate the inflected form for: იმპერიალისტი N;INS(SG)	ალისტი N;INS(SG) f
+Generate the inflected form for: იმპერიალისტი N;NOM(PL)	ერთალი N;NOM(PL) f
+Generate the inflected form for: იმპერიალისტი N;NOM(PL;LGSPEC2)	ისტი N;NOM(PL;LGSPEC2)
+Generate the inflected form for: იმპერიალისტი N;NOM(SG)	ალისტი N;NOM(SG)
+
+Generate the inflected form for: იმპერიალისტი N;VOC(PL)	იმპრიალის
+Generate the inflected form for: იმპერიალისტი N;VOC(PL;LGSPEC2)	 N;VOC(PL;LGSPEC2) for the inf
+Generate the inflected form for: იმპერიალისტი N;VOC(SG)	იმპრიალის
+Generate the inflected form for: იმპორტი N;DAT(PL)	ი N;DAT(PL) N;DAT(PL) N;DAT(
+Generate the inflected form for: იმპორტი N;DAT(PL;LGSPEC2)	ი იმპორტი N;DA
+Generate the inflected form for: იმპორტი N;DAT(SG)	ი N;DAT(SG) N;DAT(SG) N;DAT(
+Generate the inflected form for: იმპორტი N;ERG(PL)	ი N;ERG(PL) N;ERG(PL) N;ERG(
+Generate the inflected form for: იმპორტი N;ERG(PL;LGSPEC2)	ი იმპორტი N;ER
+Generate the inflected form for: იმპორტი N;ERG(SG)	იმპორტი N;ERG(SG
+Generate the inflected form for: იმპორტი N;FRML(PL)	აზრი N;FRML(PL) for: 
+Generate the inflected form for: იმპორტი N;FRML(SG)	აზერული N;FRML(S
+Generate the inflected form for: იმპორტი N;GEN(PL)	იმპორტი N;GEN(PL
+Generate the inflected form for: იმპორტი N;GEN(PL;LGSPEC2)	ი იმპორტი N;GE
+Generate the inflected form for: იმპორტი N;GEN(SG)	იმპორტი N;GEN(SG
+Generate the inflected form for: იმპორტი N;INS(PL)	ი N;INS(PL) N;INS(PL) N;INS(
+Generate the inflected form for: იმპორტი N;INS(SG)	ი იმპორტი N;IN
+Generate the inflected form for: იმპორტი N;NOM(PL)	ი N;NOM(PL) იმპორ
+Generate the inflected form for: იმპორტი N;NOM(PL;LGSPEC2)	იმპორტი N;NOM(PL
+Generate the inflected form for: იმპორტი N;NOM(SG)	იმპორტი N;NOM(SG
+Generate the inflected form for: იმპორტი N;VOC(PL)	იმპორტი N;VOC(PL
+Generate the inflected form for: იმპორტი N;VOC(PL;LGSPEC2)	არიანი იმპ
+Generate the inflected form for: იმპორტი N;VOC(SG)	იმპორტი N;VOC(SG
+Generate the inflected form for: იღება V;COND;NOM(1,PL)	არება V;COND;NOM(1,P
+Generate the inflected form for: იღება V;COND;NOM(3,SG)	არეკილობა
+
+Generate the inflected form for: იღება V;IMP;NOM(1,PL)	ანალიზაცია
+Generate the inflected form for: იღება V;IMP;NOM(2,PL)	ანალიზაცია
+Generate the inflected form for: იღება V;IND;FUT;NOM(1,SG)	იღება V;IND;FUT;NOM(
+Generate the inflected form for: იღება V;IND;FUT;NOM(2,SG)	არება V;IND;FUT;NOM(
+Generate the inflected form for: იღება V;IND;FUT;NOM(3,PL)	ამათა ანგა
+Generate the inflected form for: იღება V;IND;IPFV;NOM(2,PL)	იღება V;IND;IPFV;NOM
+Generate the inflected form for: იღება V;IND;PRF;NOM(1,PL)	იღება V;IND;PRF;NOM(
+Generate the inflected form for: იღება V;IND;PRF;NOM(1,SG)	იღება V;IND;PRF;NOM(
+Generate the inflected form for: იღება V;IND;PRF;NOM(2,SG)	იღება V;IND;PRF;NOM(
+Generate the inflected form for: იღება V;IND;PRF;NOM(3,PL)	იღება V;IND;PRF;NOM(
+Generate the inflected form for: იღება V;IND;PRF;NOM(3,SG)	იღება V;IND;PRF;NOM(
+Generate the inflected form for: იღება V;IND;PRS;NOM(1,PL)	იღება V;IND;PRS;NOM(
+Generate the inflected form for: იღება V;IND;PRS;NOM(1,SG)	იღება V;IND;PRS;NOM(
+Generate the inflected form for: იღება V;IND;PRS;NOM(2,SG)	არება V;IND;PRS;NOM(
+Generate the inflected form for: იღება V;IND;PST;PFV;NOM(1,PL)	იღება V;IND;PST;PFV;
+Generate the inflected form for: იღება V;IND;PST;PFV;NOM(2,PL)	იღება V;IND;PST;PFV;
+Generate the inflected form for: იღება V;IND;PST;PFV;NOM(3,PL)	იღება V;IND;PST;PFV;
+Generate the inflected form for: იღება V;IND;PST;PRF;NOM(1,PL)	იღება V;IND;PST;PRF;
+Generate the inflected form for: იღება V;IND;PST;PRF;NOM(3,PL)	იღება V;IND;PST;PRF;
+Generate the inflected form for: იღება V;OPT;NOM(3,SG)	არება V;OPT;NOM(3,SG
+Generate the inflected form for: იღება V;SBJV;PRF;NOM(2,PL)	იღება V;SBJV;PRF;NOM
+Generate the inflected form for: იღება V;SBJV;PRF;NOM(2,SG)	იღება V;SBJV;PRF;NOM
+Generate the inflected form for: იღება V;SBJV;PRS;NOM(2,PL)	იღება V;SBJV;PRS;NOM
+Generate the inflected form for: იღება V;SBJV;PRS;NOM(3,SG)	იღება V;SBJV;PRS;NOM
+Generate the inflected form for: კანდიდატი N;DAT(PL)	ანდიდატი N;DAT
+Generate the inflected form for: კანდიდატი N;DAT(PL;LGSPEC2)	ანდიდატი N;DAT
+Generate the inflected form for: კანდიდატი N;DAT(SG)	მიტაციაზე 
+Generate the inflected form for: კანდიდატი N;ERG(PL)	ანდიდატი N;ERG
+Generate the inflected form for: კანდიდატი N;ERG(PL;LGSPEC2)	ანდიდატი N;ERG
+Generate the inflected form for: კანდიდატი N;ERG(SG)	ანდიდატი N;ERG
+Generate the inflected form for: კანდიდატი N;FRML(PL)	ანდიდატი N;FRM
+Generate the inflected form for: კანდიდატი N;FRML(SG)	ანდიდატი N;FRM
+Generate the inflected form for: კანდიდატი N;GEN(PL)	ანდიდატი N;GEN
+Generate the inflected form for: კანდიდატი N;GEN(PL;LGSPEC2)	ანდიდატი N;GEN
+Generate the inflected form for: კანდიდატი N;GEN(SG)	ანდიდატი N;GEN
+Generate the inflected form for: კანდიდატი N;INS(PL)	ანდიდატი N;INS
+Generate the inflected form for: კანდიდატი N;INS(SG)	ანდიდატი N;INS
+Generate the inflected form for: კანდიდატი N;NOM(PL)	ẽẽẽẽẽẽẽẽẽẽ
+Generate the inflected form for: კანდიდატი N;NOM(PL;LGSPEC2)	ანდიდატი N;NOM
+Generate the inflected form for: კანდიდატი N;NOM(SG)	 N;NOM(SG) N;NOM(SG) N;NOM(SG)
+Generate the inflected form for: კანდიდატი N;VOC(PL)	ანდიდატი N;VOC
+Generate the inflected form for: კანდიდატი N;VOC(PL;LGSPEC2)	ანდიდატი N;VOC
+Generate the inflected form for: კანდიდატი N;VOC(SG)	ანდიდატი N;VOC
+Generate the inflected form for: კონტური N;DAT(PL)	არიანი N;DAT(PL) 
+Generate the inflected form for: კონტური N;DAT(PL;LGSPEC2)	არის კონტუ
+Generate the inflected form for: კონტური N;DAT(SG)	არარარაი N;DAT
+Generate the inflected form for: კონტური N;ERG(PL)	ი N;ERG(PL) N;ERG(PL) N;ERG(
+Generate the inflected form for: კონტური N;ERG(PL;LGSPEC2)	არის კონტუ
+Generate the inflected form for: კონტური N;ERG(SG)	ის კონტური N
+Generate the inflected form for: კონტური N;FRML(PL)	არიკაშვილი
+Generate the inflected form for: კონტური N;FRML(SG)	არიკაშვილი
+Generate the inflected form for: კონტური N;GEN(PL)	არი N;GEN(PL) კონ
+Generate the inflected form for: კონტური N;GEN(PL;LGSPEC2)	არიკი კონტ
+Generate the inflected form for: კონტური N;GEN(SG)	ური N;GEN(SG) კონ
+Generate the inflected form for: კონტური N;INS(PL)	ური N;INS(PL) კონ
+Generate the inflected form for: კონტური N;INS(SG)	ური N;INS(SG) კონ
+Generate the inflected form for: კონტური N;NOM(PL)	არის კონტუ
+Generate the inflected form for: კონტური N;NOM(PL;LGSPEC2)	არის კონტუ
+Generate the inflected form for: კონტური N;NOM(SG)	არის კონტუ
+Generate the inflected form for: კონტური N;VOC(PL)	არიკაშვილი
+Generate the inflected form for: კონტური N;VOC(PL;LGSPEC2)	არის კონტუ
+Generate the inflected form for: კონტური N;VOC(SG)	არისი N;VOC(SG) for:
+Generate the inflected form for: კორიდორი N;DAT(PL)	ორი N;DAT(PL) კორ
+Generate the inflected form for: კორიდორი N;DAT(PL;LGSPEC2)	იდო᠀ი N;DAT(PL;LGSPE
+Generate the inflected form for: კორიდორი N;ERG(PL)	ორი N;ERG(PL) N;ERG(PL) 
+Generate the inflected form for: კორიდორი N;ERG(PL;LGSPEC2)	კორიდოᠠი N;ERG
+Generate the inflected form for: კორიდორი N;ERG(SG)	იდორი N;ERG(SG) N;ER
+Generate the inflected form for: კორიდორი N;FRML(SG)	არიდორი N;FRML(S
+Generate the inflected form for: კორიდორი N;GEN(PL)	ორიდორი N;GEN(PL
+Generate the inflected form for: კორიდორი N;GEN(PL;LGSPEC2)	არიდოᠠი N;GEN(PL
+Generate the inflected form for: კორიდორი N;GEN(SG)	ორიდორი N;GEN(SG
+Generate the inflected form for: კორიდორი N;INS(PL)	ორიდორი N;INS(PL
+Generate the inflected form for: კორიდორი N;INS(SG)	ორიდორი N;INS(SG
+Generate the inflected form for: კორიდორი N;NOM(PL)	ორიდოကი N;NOM(PL
+Generate the inflected form for: კორიდორი N;NOM(PL;LGSPEC2)	იდორი N;NOM(PL;LGSPE
+Generate the inflected form for: კორიდორი N;NOM(SG)	არიდოဠი N;NOM(SG
+Generate the inflected form for: კორიდორი N;VOC(PL)	არიდორი N;VOC(PL
+Generate the inflected form for: კორიდორი N;VOC(PL;LGSPEC2)	კორიდოᠠი N;VOC
+Generate the inflected form for: კორიდორი N;VOC(SG)	არიდორი N;VOC(SG
+Generate the inflected form for: მთისწინეთი N;DAT(PL)	თისწინეთი N;
+Generate the inflected form for: მთისწინეთი N;DAT(PL;LGSPEC2)	ისწინეთი N;DAT
+Generate the inflected form for: მთისწინეთი N;DAT(SG)	წინეთი N;DAT(SG)
+
+Generate the inflected form for: მთისწინეთი N;ERG(PL)	თათვის მთი
+Generate the inflected form for: მთისწინეთი N;ERG(PL;LGSPEC2)	ი N;ERG(PL;LGSPEC2) N;ERG(PL
+Generate the inflected form for: მთისწინეთი N;ERG(SG)	ისწინეთი N;ERG
+Generate the inflected form for: მთისწინეთი N;FRML(PL)	თისწინეთი N;
+Generate the inflected form for: მთისწინეთი N;FRML(SG)	თანამშრული
+Generate the inflected form for: მთისწინეთი N;GEN(PL)	თისწინეთი N;
+Generate the inflected form for: მთისწინეთი N;GEN(PL;LGSPEC2)	ისწინეთი N;GEN
+Generate the inflected form for: მთისწინეთი N;GEN(SG)	თავისწინეთ
+Generate the inflected form for: მთისწინეთი N;INS(PL)	თათვის მთი
+Generate the inflected form for: მთისწინეთი N;INS(SG)	თანამშრ... მ
+Generate the inflected form for: მთისწინეთი N;NOM(PL)	თანამშრომე
+Generate the inflected form for: მთისწინეთი N;NOM(PL;LGSPEC2)	არედაქტორი
+Generate the inflected form for: მთისწინეთი N;NOM(SG)	ათისწინეთი
+Generate the inflected form for: მთისწინეთი N;VOC(PL)	ათისწინეთი
+Generate the inflected form for: მთისწინეთი N;VOC(PL;LGSPEC2)	წინეთი N;VOC(PL;LG
+Generate the inflected form for: მთისწინეთი N;VOC(SG)	თანამშრული
+Generate the inflected form for: მშვიდი ADJ;DAT(PL)	მშვიდი ADJ;DAT(PL)
+Generate the inflected form for: მშვიდი ADJ;DAT(PL;LGSPEC2)	ი მშვიდი ADJ;DAT
+Generate the inflected form for: მშვიდი ADJ;DAT(SG)	ი ADJ;DAT(SG) ADJ;DAT(SG) AD
+Generate the inflected form for: მშვიდი ADJ;ERG(PL)	იდი ADJ;ERG(PL);ERG(PL);
+Generate the inflected form for: მშვიდი ADJ;ERG(PL;LGSPEC2)	ი მშვიდი ADJ;ERG
+Generate the inflected form for: მშვიდი ADJ;ERG(SG)	ი ADJ;ERG(SG);ERG(SG);ERG(SG
+Generate the inflected form for: მშვიდი ADJ;FRML(PL)	იდი ADJ;FRML(PL);FRML(PL
+Generate the inflected form for: მშვიდი ADJ;FRML(SG)	ი ADJ;FRML(SG);FRML(SG);FRML
+Generate the inflected form for: მშვიდი ADJ;GEN(PL)	იდი ADJ;GEN(PL) ADJ;GEN(
+Generate the inflected form for: მშვიდი ADJ;GEN(PL;LGSPEC2)	ი ADJ;GEN(PL;LGSPEC2) ADJ;GE
+Generate the inflected form for: მშვიდი ADJ;GEN(SG)	იდი ADJ;GEN(SG) ADJ;GEN(
+Generate the inflected form for: მშვიდი ADJ;INS(PL)	მშვიდი ADJ;INS(PL)
+Generate the inflected form for: მშვიდი ADJ;INS(SG)	მშვიდი ADJ;INS(SG)
+Generate the inflected form for: მშვიდი ADJ;NOM(PL)	მშვიდი ADJ;NOM(PL)
+Generate the inflected form for: მშვიდი ADJ;NOM(PL;LGSPEC2)	ი ADJ;NOM(PL;LGSPEC2) ADJ;NO
+Generate the inflected form for: მშვიდი ADJ;NOM(SG)	იდი ADJ;NOM(SG);NOM(SG);
+Generate the inflected form for: მშვიდი ADJ;VOC(PL)	მშვიდი ADJ;VOC(PL)
+Generate the inflected form for: მშვიდი ADJ;VOC(PL;LGSPEC2)	ალი მშვედი A
+Generate the inflected form for: მშვიდი ADJ;VOC(SG)	მშვიდი ADJ;VOC(SG)
+Generate the inflected form for: მძინარე ADJ;DAT(PL)	მძინარე ADJ;DAT(
+Generate the inflected form for: მძინარე ADJ;DAT(PL;LGSPEC2)	არეკლამის 
+Generate the inflected form for: მძინარე ADJ;DAT(SG)	არეკლამისი
+Generate the inflected form for: მძინარე ADJ;ERG(PL)	მძინარე ADJ;ERG(
+Generate the inflected form for: მძინარე ADJ;ERG(PL;LGSPEC2)	არეკლამის 
+Generate the inflected form for: მძინარე ADJ;ERG(SG)	არე ADJ;ERG(SG);ERG(SG);
+Generate the inflected form for: მძინარე ADJ;FRML(PL)	არე ADJ;FRML(PL);FRML(PL
+Generate the inflected form for: მძინარე ADJ;FRML(SG)	არეკილობა AD
+Generate the inflected form for: მძინარე ADJ;GEN(PL)	ესინარე ADJ;GEN(
+Generate the inflected form for: მძინარე ADJ;GEN(PL;LGSPEC2)	არე ADJ;GEN(PL;LGSPEC2) 
+Generate the inflected form for: მძინარე ADJ;GEN(SG)	ესინარე ADJ;GEN(
+Generate the inflected form for: მძინარე ADJ;INS(PL)	არეკლამის 
+Generate the inflected form for: მძინარე ADJ;INS(SG)	არეკილობა AD
+Generate the inflected form for: მძინარე ADJ;NOM(PL)	მძინარე ADJ;NOM(
+Generate the inflected form for: მძინარე ADJ;NOM(PL;LGSPEC2)	არედაქტორე
+Generate the inflected form for: მძინარე ADJ;NOM(SG)	არეკილობა AD
+Generate the inflected form for: მძინარე ADJ;VOC(PL)	მძინარე ADJ;VOC(
+Generate the inflected form for: მძინარე ADJ;VOC(PL;LGSPEC2)	არეკლამის 
+Generate the inflected form for: მძინარე ADJ;VOC(SG)	მძინარე ADJ;VOC(
+Generate the inflected form for: ნამდვილი ADJ;DAT(PL)	მდვილი ADJ;DAT(PL)
+Generate the inflected form for: ნამდვილი ADJ;DAT(PL;LGSPEC2)	მდვილი ADJ;DAT(PL;
+Generate the inflected form for: ნამდვილი ADJ;DAT(SG)	მდვილი ADJ;DAT(SG)
+Generate the inflected form for: ნამდვილი ADJ;ERG(PL)	ამდვილი ADJ;ERG(
+Generate the inflected form for: ნამდვილი ADJ;ERG(PL;LGSPEC2)	მდვილი ADJ;ERG(PL;
+Generate the inflected form for: ნამდვილი ADJ;ERG(SG)	ამდელი ADJ;ERG(SG)
+Generate the inflected form for: ნამდვილი ADJ;FRML(PL)	მდᕘლი ADJ;FRML(PL);F
+Generate the inflected form for: ნამდვილი ADJ;FRML(SG)	მდᕘლი ADJ;FRML(SG);F
+Generate the inflected form for: ნამდვილი ADJ;GEN(PL)	მდვილი ADJ;GEN(PL)
+Generate the inflected form for: ნამდვილი ADJ;GEN(PL;LGSPEC2)	მდვილი ADJ;GEN(PL;
+Generate the inflected form for: ნამდვილი ADJ;GEN(SG)	ამდვილი ADJ;GEN(
+Generate the inflected form for: ნამდვილი ADJ;INS(PL)	მდᕘლი ADJ;INS(PL);IN
+Generate the inflected form for: ნამდვილი ADJ;INS(SG)	მდᕘლი ADJ;INS(SG);IN
+Generate the inflected form for: ნამდვილი ADJ;NOM(PL)	ამდვილი ADJ;NOM(
+Generate the inflected form for: ნამდვილი ADJ;NOM(PL;LGSPEC2)	მდვილი ADJ;NOM(PL;
+Generate the inflected form for: ნამდვილი ADJ;NOM(SG)	ანამდვილი AD
+Generate the inflected form for: ნამდვილი ADJ;VOC(PL)	მდევლი ADJ;VOC(PL)
+Generate the inflected form for: ნამდვილი ADJ;VOC(PL;LGSPEC2)	მდვილი ADJ;VOC(PL;
+Generate the inflected form for: ნამდვილი ADJ;VOC(SG)	მდვილი ADJ;VOC(SG)
+Generate the inflected form for: ოლქი N;DAT(PL)	ი N;DAT(PL) ოლქი N;D
+Generate the inflected form for: ოლქი N;DAT(PL;LGSPEC2)	ი N;DAT(PL;LGSPEC2) ოლ
+Generate the inflected form for: ოლქი N;DAT(SG)	ი N;DAT(SG) ოლქი N;D
+Generate the inflected form for: ოლქი N;ERG(PL)	ი N;ERG(PL) N;ERG(PL) N;ERG(
+Generate the inflected form for: ოლქი N;ERG(PL;LGSPEC2)	ი N;ERG(PL;LGSPEC2) ოლ
+Generate the inflected form for: ოლქი N;ERG(SG)	ი N;ERG(SG) N;ERG(SG) N;ERG(
+Generate the inflected form for: ოლქი N;FRML(PL)	ი N;FRML(PL) - ოლქი 
+Generate the inflected form for: ოლქი N;FRML(SG)	ი ოლქი N;FRML(SG)
+
+Generate the inflected form for: ოლქი N;GEN(PL)	ი N;GEN(PL)
+ოლქი N;G
+Generate the inflected form for: ოლქი N;GEN(PL;LGSPEC2)	ი N;GEN(PL;LGSPEC2) ოლ
+Generate the inflected form for: ოლქი N;GEN(SG)	ოლქი N;GEN(SG)
+ოლ
+Generate the inflected form for: ოლქი N;INS(PL)	ი N;INS(PL) N;INS(PL) N;INS(
+Generate the inflected form for: ოლქი N;INS(SG)	ი N;INS(SG) ოლქი N;I
+Generate the inflected form for: ოლქი N;NOM(PL)	ი N;NOM(PL) ოლქი N;N
+Generate the inflected form for: ოლქი N;NOM(PL;LGSPEC2)	ი NOM(PL;LGSPEC2) ოლქ
+Generate the inflected form for: ოლქი N;NOM(SG)	ი N;NOM(SG) ოლქი N;N
+Generate the inflected form for: ოლქი N;VOC(PL)	ი N;VOC(PL)
+ოლქი N;V
+Generate the inflected form for: ოლქი N;VOC(PL;LGSPEC2)	ი ოლქი N;VOC(PL;LGSP
+Generate the inflected form for: ოლქი N;VOC(SG)	ი N;VOC(SG) for ოლქი
+Generate the inflected form for: სამერცხული N;DAT(PL)	ული N;DAT(PL) N;DAT(PL) 
+Generate the inflected form for: სამერცხული N;DAT(PL;LGSPEC2)	არიანი სამ
+Generate the inflected form for: სამერცხული N;DAT(SG)	ული N;DAT(SG)
+სამ
+Generate the inflected form for: სამერცხული N;ERG(PL)	ავარი N;ERG(PL) N;ER
+Generate the inflected form for: სამერცხული N;ERG(PL;LGSPEC2)	არაკეცხული
+Generate the inflected form for: სამერცხული N;ERG(SG)	ავარიანი N;ERG
+Generate the inflected form for: სამერცხული N;FRML(PL)	არაკური N;FRML(P
+Generate the inflected form for: სამერცხული N;FRML(SG)	არაკეთი სა
+Generate the inflected form for: სამერცხული N;GEN(PL)	არაკეთი N;GEN(PL
+Generate the inflected form for: სამერცხული N;GEN(PL;LGSPEC2)	არაკი N;GEN(PL;LGSPE
+Generate the inflected form for: სამერცხული N;GEN(SG)	ალათი N;GEN(SG) for 
+Generate the inflected form for: სამერცხული N;INS(PL)	ასამერცხულ
+Generate the inflected form for: სამერცხული N;INS(SG)	ანალი N;INS(SG) for 
+Generate the inflected form for: სამერცხული N;NOM(PL)	ათი სამერც
+Generate the inflected form for: სამერცხული N;NOM(PL;LGSPEC2)	არიანი სამ
+Generate the inflected form for: სამერცხული N;NOM(SG)	ანგარი სამ
+Generate the inflected form for: სამერცხული N;VOC(PL)	ანალი N;VOC(PL) for 
+Generate the inflected form for: სამერცხული N;VOC(PL;LGSPEC2)	არიანი სამ
+Generate the inflected form for: სამერცხული N;VOC(SG)	ანალი N;VOC(SG)
+ს
+Generate the inflected form for: სარჩელი N;DAT(PL)	ალი N;DAT(PL) N;DAT(PL) 
+Generate the inflected form for: სარჩელი N;DAT(PL;LGSPEC2)	არჩელი N;DAT(PL;LG
+Generate the inflected form for: სარჩელი N;DAT(SG)	ალი N;DAT(SG) N;DAT(SG) 
+Generate the inflected form for: სარჩელი N;ERG(PL)	არჩელი N;ERG(PL) 
+Generate the inflected form for: სარჩელი N;ERG(PL;LGSPEC2)	არჩელი N;ERG(PL;LG
+Generate the inflected form for: სარჩელი N;ERG(SG)	არჩელი N;ERG(SG)
+
+Generate the inflected form for: სარჩელი N;FRML(PL)	არჩელი N;FRML(PL) 
+Generate the inflected form for: სარჩელი N;FRML(SG)	არჩელი N;FRML(SG) 
+Generate the inflected form for: სარჩელი N;GEN(PL)	არჩელი N;GEN(PL) 
+Generate the inflected form for: სარჩელი N;GEN(PL;LGSPEC2)	არჩელი N;GEN(PL;LG
+Generate the inflected form for: სარჩელი N;GEN(SG)	არჩელი N;GEN(SG) 
+Generate the inflected form for: სარჩელი N;INS(PL)	არჩელი N;INS(PL) 
+Generate the inflected form for: სარჩელი N;INS(SG)	არჩელი N;INS(SG) 
+Generate the inflected form for: სარჩელი N;NOM(PL)	არჩელი N;NOM(PL) f
+Generate the inflected form for: სარჩელი N;NOM(PL;LGSPEC2)	არჩელი N;NOM(PL;LG
+Generate the inflected form for: სარჩელი N;NOM(SG)	არჩელი N;NOM(SG) f
+Generate the inflected form for: სარჩელი N;VOC(PL)	არჩელი N;VOC(PL)
+
+Generate the inflected form for: სარჩელი N;VOC(PL;LGSPEC2)	არჩელი N;VOC(PL;LG
+Generate the inflected form for: სარჩელი N;VOC(SG)	არჩელი N;VOC(SG)
+
+Generate the inflected form for: საწყალი ADJ;DAT(PL)	ალათი ADJ;DAT(PL);DA
+Generate the inflected form for: საწყალი ADJ;DAT(PL;LGSPEC2)	ალი ADJ;DAT(PL;LGSPEC2) 
+Generate the inflected form for: საწყალი ADJ;DAT(SG)	ალი ADJ;DAT(SG);DAT(SG);
+Generate the inflected form for: საწყალი ADJ;ERG(PL)	ალი ADJ;ERG(PL);ERG(PL);
+Generate the inflected form for: საწყალი ADJ;ERG(PL;LGSPEC2)	ალი ADJ;ERG(PL;LGSPEC2) 
+Generate the inflected form for: საწყალი ADJ;ERG(SG)	ალი ADJ;ERG(SG);ERG(SG);
+Generate the inflected form for: საწყალი ADJ;FRML(PL)	ალი ADJ;FRML(PL);FRML(PL
+Generate the inflected form for: საწყალი ADJ;FRML(SG)	ალი ADJ;FRML(SG);FRML(SG
+Generate the inflected form for: საწყალი ADJ;GEN(PL)	ალი ADJ;GEN(PL) ADJ;GEN(
+Generate the inflected form for: საწყალი ADJ;GEN(PL;LGSPEC2)	ალი ADJ;GEN(PL;LGSPEC2) 
+Generate the inflected form for: საწყალი ADJ;GEN(SG)	ალი ADJ;GEN(SG) ADJ;GEN(
+Generate the inflected form for: საწყალი ADJ;INS(PL)	ალი ADJ;INS(PL) სა
+Generate the inflected form for: საწყალი ADJ;INS(SG)	ალი ADJ;INS(SG) ADJ;INS(
+Generate the inflected form for: საწყალი ADJ;NOM(PL)	ალი ADJ;NOM(PL) ADJ;NOM(
+Generate the inflected form for: საწყალი ADJ;NOM(PL;LGSPEC2)	ალი ADJ;NOM(PL;LGSPEC2) 
+Generate the inflected form for: საწყალი ADJ;NOM(SG)	ალი ADJ;NOM(SG);NOM(SG);
+Generate the inflected form for: საწყალი ADJ;VOC(PL)	ახალი საწყ
+Generate the inflected form for: საწყალი ADJ;VOC(PL;LGSPEC2)	ალი საწყალ
+Generate the inflected form for: საწყალი ADJ;VOC(SG)	არსაწყალი AD
+Generate the inflected form for: სკანერი N;DAT(PL)	ანერი N;DAT(PL) ს
+Generate the inflected form for: სკანერი N;DAT(PL;LGSPEC2)	ი სკანერი N;DA
+Generate the inflected form for: სკანერი N;DAT(SG)	ი N;DAT(SG) N;DAT(SG) N;DAT(
+Generate the inflected form for: სკანერი N;ERG(PL)	ი N;ERG(PL) N;ERG(PL) N;ERG(
+Generate the inflected form for: სკანერი N;ERG(PL;LGSPEC2)	ი სკანერი N;ER
+Generate the inflected form for: სკანერი N;ERG(SG)	ის სკანერი N
+Generate the inflected form for: სკანერი N;FRML(PL)	ანერი N;FRML(PL) for
+Generate the inflected form for: სკანერი N;FRML(SG)	ანერი N;FRML(SG)
+ს
+Generate the inflected form for: სკანერი N;GEN(PL)	ანერი N;GEN(PL) ს
+Generate the inflected form for: სკანერი N;GEN(PL;LGSPEC2)	ი სკანერი N;GE
+Generate the inflected form for: სკანერი N;GEN(SG)	ანერი N;GEN(SG) ს
+Generate the inflected form for: სკანერი N;INS(PL)	ი N;INS(PL) N;INS(PL) N;INS(
+Generate the inflected form for: სკანერი N;INS(SG)	ი სკანერი N;IN
+Generate the inflected form for: სკანერი N;NOM(PL)	ანერი N;NOM(PL) for:
+Generate the inflected form for: სკანერი N;NOM(PL;LGSPEC2)	ი NOM(PL;LGSPEC2) სკა
+Generate the inflected form for: სკანერი N;NOM(SG)	აზები N;NOM(SG) for:
+Generate the inflected form for: სკანერი N;VOC(PL)	ანერი N
+სკან
+Generate the inflected form for: სკანერი N;VOC(PL;LGSPEC2)	ანერი N;VOC(PL;LGSPE
+Generate the inflected form for: სკანერი N;VOC(SG)	ანერი N;VOC(SG)
+ს
+Generate the inflected form for: ტექტონა N;DAT(PL)	ანათია N;DAT(PL) N
+Generate the inflected form for: ტექტონა N;DAT(PL;LGSPEC2)	აზრებაში ტ
+Generate the inflected form for: ტექტონა N;ERG(PL)	ანალისტები
+Generate the inflected form for: ტექტონა N;ERG(PL;LGSPEC2)	ანალისტები
+Generate the inflected form for: ტექტონა N;ERG(SG)	ანალიზაცია
+Generate the inflected form for: ტექტონა N;FRML(PL)	ანალიზა ტე
+Generate the inflected form for: ტექტონა N;FRML(SG)	ანალიზა ტე
+Generate the inflected form for: ტექტონა N;GEN(PL)	ანალიზა ტე
+Generate the inflected form for: ტექტონა N;GEN(PL;LGSPEC2)	ანალიზაცია
+Generate the inflected form for: ტექტონა N;GEN(SG)	ანალიზანალ
+Generate the inflected form for: ტექტონა N;INS(PL)	ა ტექტონა N;IN
+Generate the inflected form for: ტექტონა N;INS(SG)	ა ტექტონა N;IN
+Generate the inflected form for: ტექტონა N;NOM(PL)	ანათია N;NOM(PL)
+
+Generate the inflected form for: ტექტონა N;NOM(PL;LGSPEC2)	არაკები ტე
+Generate the inflected form for: ტექტონა N;NOM(SG)	ანალიზაცია
+Generate the inflected form for: ტექტონა N;VOC(PL)	ანალიზა ტე
+Generate the inflected form for: ტექტონა N;VOC(PL;LGSPEC2)	ანალისტიკა
+Generate the inflected form for: უტყვი ADJ;DAT(PL)	უტყვი ADJ;DAT(PL)
+
+Generate the inflected form for: უტყვი ADJ;DAT(PL;LGSPEC2)	ი უტყვი ADJ;DAT(PL
+Generate the inflected form for: უტყვი ADJ;DAT(SG)	ი ADJ;DAT(SG);DAT(SG);DAT(SG
+Generate the inflected form for: უტყვი ADJ;ERG(PL)	ი ADJ;ERG(PL);ERG(PL);ERG(PL
+Generate the inflected form for: უტყვი ADJ;ERG(PL;LGSPEC2)	ი ADJ;ERG(PL;LGSPEC2) ADJ;ER
+Generate the inflected form for: უტყვი ADJ;ERG(SG)	ი ADJ;ERG(SG);ERG(SG);ERG(SG
+Generate the inflected form for: უტყვი ADJ;FRML(PL)	უტყვი ADJ;FRML(PL);F
+Generate the inflected form for: უტყვი ADJ;FRML(SG)	ი ADJ;FRML(SG);FRML(SG);FRML
+Generate the inflected form for: უტყვი ADJ;GEN(PL)	ი ADJ;GEN(PL)
+უტყვ
+Generate the inflected form for: უტყვი ADJ;GEN(PL;LGSPEC2)	ი უტყვი ADJ;GEN(PL
+Generate the inflected form for: უტყვი ADJ;GEN(SG)	ი ADJ;GEN(SG) ADJ;GEN(SG) AD
+Generate the inflected form for: უტყვი ADJ;INS(PL)	უტყვი ADJ;INS(PL) 
+Generate the inflected form for: უტყვი ADJ;INS(SG)	უტყვი ADJ;INS(SG);IN
+Generate the inflected form for: უტყვი ADJ;NOM(PL)	ი ADJ;NOM(PL) ADJ;NOM(PL) AD
+Generate the inflected form for: უტყვი ADJ;NOM(PL;LGSPEC2)	ი უტყვი ADJ;NOM(PL
+Generate the inflected form for: უტყვი ADJ;NOM(SG)	ი ADJ;NOM(SG);NOM(SG);NOM(SG
+Generate the inflected form for: უტყვი ADJ;VOC(PL)	აზიანი ADJ;VOC(PL)
+Generate the inflected form for: უტყვი ADJ;VOC(PL;LGSPEC2)	ი უტყვი ADJ;VOC(PL
+Generate the inflected form for: უტყვი ADJ;VOC(SG)	ი უტყვი ADJ;VOC(SG
+Generate the inflected form for: ფრაზა N;DAT(PL)	აზაზა N;DAT(PL)
+ფ
+Generate the inflected form for: ფრაზა N;DAT(PL;LGSPEC2)	აზრეები ფრ
+Generate the inflected form for: ფრაზა N;DAT(SG)	აზა N;DAT(SG) ფრა
+Generate the inflected form for: ფრაზა N;ERG(PL)	აზია N;ERG(PL) ფრ
+Generate the inflected form for: ფრაზა N;ERG(PL;LGSPEC2)	აზრებად ფრ
+Generate the inflected form for: ფრაზა N;ERG(SG)	ასახავად ფ
+Generate the inflected form for: ფრაზა N;FRML(PL)	აზა N;FRML(PL) - ფრ
+Generate the inflected form for: ფრაზა N;FRML(SG)	აზესიანი ფ
+Generate the inflected form for: ფრაზა N;GEN(PL)	აზარი N;GEN(PL) ფ
+Generate the inflected form for: ფრაზა N;GEN(PL;LGSPEC2)	აზრეები ფრ
+Generate the inflected form for: ფრაზა N;GEN(SG)	აზარი N;GEN(SG) ფ
+Generate the inflected form for: ფრაზა N;INS(PL)	ა ფრაზა N;INS(PL) 
+Generate the inflected form for: ფრაზა N;INS(SG)	აზარი ფრაზ
+Generate the inflected form for: ფრაზა N;NOM(PL)	აზა N;NOM(PL) ფრა
+Generate the inflected form for: ფრაზა N;NOM(PL;LGSPEC2)	აზარი N;NOM(PL;LGSPE
+Generate the inflected form for: ფრაზა N;NOM(SG)	აზარიანი ფ
+Generate the inflected form for: ფრაზა N;VOC(PL)	აზია N;VOC(PL);VOC(PL)
+Generate the inflected form for: ფრაზა N;VOC(PL;LGSPEC2)	აზრებაში ფ
+Generate the inflected form for: ფრაზა N;VOC(SG)	აზია N;VOC(SG);VOC(SG)
+Generate the inflected form for: ღერო N;DAT(PL)	რო N;DAT(PL) ღერო 
+Generate the inflected form for: ღერო N;DAT(PL;LGSPEC2)	ოროსოსოსოს
+Generate the inflected form for: ღერო N;DAT(SG)	რო N;DAT(SG) ღერო 
+Generate the inflected form for: ღერო N;ERG(PL)	რო N;ERG(PL) N;ERG(PL) N;E
+Generate the inflected form for: ღერო N;ERG(PL;LGSPEC2)	არო N;ERG(PL;LGSPEC2) 
+Generate the inflected form for: ღერო N;ERG(SG)	რომოსოსოსო
+Generate the inflected form for: ღერო N;FRML(PL)	ერო N;FRML(PL) for: ღ
+Generate the inflected form for: ღერო N;FRML(SG)	ერო N;FRML(SG)
+ღერ
+Generate the inflected form for: ღერო N;GEN(PL)	არო N;GEN(PL) ღერ
+Generate the inflected form for: ღერო N;GEN(PL;LGSPEC2)	ოდიოსი ღერ
+Generate the inflected form for: ღერო N;GEN(SG)	არო N;GEN(SG) ღერ
+Generate the inflected form for: ღერო N;INS(PL)	ო N;INS(PL) ღერო N;I
+Generate the inflected form for: ღერო N;INS(SG)	არო N;INS(SG) N;INS(SG) 
+Generate the inflected form for: ღერო N;NOM(PL)	არო N;NOM(PL) ღერ
+Generate the inflected form for: ღერო N;NOM(PL;LGSPEC2)	აროოოოოოოო
+Generate the inflected form for: ღერო N;NOM(SG)	არო N;NOM(SG) ღერ
+Generate the inflected form for: ღერო N;VOC(PL)	არო N;VOC(PL)
+ღერ
+Generate the inflected form for: ღერო N;VOC(PL;LGSPEC2)	აროოოოოოოო
+Generate the inflected form for: ღერო N;VOC(SG)	არო N;VOC(SG);VOC(SG);VO
+Generate the inflected form for: ყვერული N;DAT(PL)	არისხალი N;DAT
+Generate the inflected form for: ყვერული N;DAT(PL;LGSPEC2)	არაკი N;DAT(PL;LGSPE
+Generate the inflected form for: ყვერული N;DAT(SG)	არისხისთავ
+Generate the inflected form for: ყვერული N;ERG(PL)	ურალი N;ERG(PL) N;ER
+Generate the inflected form for: ყვერული N;ERG(PL;LGSPEC2)	არისი N;ERG(PL;LGSPE
+Generate the inflected form for: ყვერული N;ERG(SG)	ურალი N;ERG(SG) N;ER
+Generate the inflected form for: ყვერული N;FRML(PL)	ალი N;FRML(PL) for: ყ
+Generate the inflected form for: ყვერული N;FRML(SG)	არისხის ყვ
+Generate the inflected form for: ყვერული N;GEN(PL)	ალი N;GEN(PL) ყვე
+Generate the inflected form for: ყვერული N;GEN(PL;LGSPEC2)	არაკი N;GEN(PL;LGSPE
+Generate the inflected form for: ყვერული N;GEN(SG)	ალათი N;GEN(SG) ყ
+Generate the inflected form for: ყვერული N;INS(PL)	ალი N;INS(PL) N;INS(PL) 
+Generate the inflected form for: ყვერული N;INS(SG)	ალი N;INS(SG) N;INS(SG) 
+Generate the inflected form for: ყვერული N;NOM(PL)	ალი N;NOM(PL) for: ყ
+Generate the inflected form for: ყვერული N;NOM(PL;LGSPEC2)	ი NOM(PL;LGSPEC2) ყვე
+Generate the inflected form for: ყვერული N;NOM(SG)	არისადმი ყ
+Generate the inflected form for: ყვერული N;VOC(PL)	არისხი N;VOC(PL)
+
+Generate the inflected form for: ყვერული N;VOC(PL;LGSPEC2)	არისი ყვერ
+Generate the inflected form for: ყვერული N;VOC(SG)	არისხი N;VOC(SG)
+
+Generate the inflected form for: შხაპი N;DAT(PL)	არი N;DAT(PL) N;DAT(PL) 
+Generate the inflected form for: შხაპი N;DAT(PL;LGSPEC2)	არის შხაპი N
+Generate the inflected form for: შხაპი N;DAT(SG)	არი N;DAT(SG) N;DAT(SG) 
+Generate the inflected form for: შხაპი N;ERG(PL)	ი N;ERG(PL) N;ERG(PL) N;ERG(
+Generate the inflected form for: შხაპი N;ERG(PL;LGSPEC2)	არის შხაპი N
+Generate the inflected form for: შხაპი N;ERG(SG)	ი შხაპი N;ERG(SG) 
+Generate the inflected form for: შხაპი N;FRML(PL)	აზი N;FRML(PL)
+შხა
+Generate the inflected form for: შხაპი N;FRML(SG)	არისი შხაპ
+Generate the inflected form for: შხაპი N;GEN(PL)	ახაპი N;GEN(PL) შ
+Generate the inflected form for: შხაპი N;GEN(PL;LGSPEC2)	არის შხაპი N
+Generate the inflected form for: შხაპი N;GEN(SG)	აზესი შხაპ
+Generate the inflected form for: შხაპი N;INS(PL)	ი N;INS(PL) შხაპი 
+Generate the inflected form for: შხაპი N;INS(SG)	 შხაპი N;INS(SG) შ
+Generate the inflected form for: შხაპი N;NOM(PL)	ანალი N;NOM(PL) შ
+Generate the inflected form for: შხაპი N;NOM(PL;LGSPEC2)	ი NOM(PL;LGSPEC2) შხა
+Generate the inflected form for: შხაპი N;NOM(SG)	არის შხაპი N
+Generate the inflected form for: შხაპი N;VOC(PL)	ი N;VOC(PL)
+შხაპი 
+Generate the inflected form for: შხაპი N;VOC(PL;LGSPEC2)	არის შხაპი N
+Generate the inflected form for: შხაპი N;VOC(SG)	ი N;VOC(SG)
+შხაპი 
+Generate the inflected form for: ჩქარობს V;COND;NOM(3,PL)	არისხავად 
+Generate the inflected form for: ჩქარობს V;COND;NOM(3,SG)	არის მიზან
+Generate the inflected form for: ჩქარობს V;IND;FUT;NOM(2,SG)	არის ჩქარო
+Generate the inflected form for: ჩქარობს V;IND;FUT;NOM(3,PL)	არის ჩქრობ
+Generate the inflected form for: ჩქარობს V;IND;FUT;NOM(3,SG)	არის ჩქარო
+Generate the inflected form for: ჩქარობს V;IND;IPFV;NOM(1,PL)	არის ჩქარო
+Generate the inflected form for: ჩქარობს V;IND;IPFV;NOM(3,PL)	არის ჩქარო
+Generate the inflected form for: ჩქარობს V;IND;IPFV;NOM(3,SG)	არის ჩქარო
+Generate the inflected form for: ჩქარობს V;IND;PRF;NOM(2,PL)	არის ჩქარო
+Generate the inflected form for: ჩქარობს V;IND;PRF;NOM(2,SG)	არის ჩქარო
+Generate the inflected form for: ჩქარობს V;IND;PRS;NOM(3,PL)	არობს V;IND;PRS;NOM(
+Generate the inflected form for: ჩქარობს V;IND;PST;PFV;NOM(1,PL)	არისხავი ჩ
+Generate the inflected form for: ჩქარობს V;IND;PST;PFV;NOM(1,SG)	არისხავად 
+Generate the inflected form for: ჩქარობს V;IND;PST;PFV;NOM(3,PL)	არისხავი ჩ
+Generate the inflected form for: ჩქარობს V;IND;PST;PRF;NOM(1,PL)	არის ჩქარო
+Generate the inflected form for: ჩქარობს V;IND;PST;PRF;NOM(3,SG)	არის ჩქარო
+Generate the inflected form for: ჩქარობს V;OPT;NOM(1,PL)	არის ჩქარო
+Generate the inflected form for: ჩქარობს V;SBJV;FUT;NOM(1,SG)	არის ჩქარო
+Generate the inflected form for: ჩქარობს V;SBJV;FUT;NOM(2,PL)	არიანის ჩქ
+Generate the inflected form for: ჩქარობს V;SBJV;FUT;NOM(3,PL)	არიანის ჩქ
+Generate the inflected form for: ჩქარობს V;SBJV;FUT;NOM(3,SG)	არის ჩქარო
+Generate the inflected form for: ჩქარობს V;SBJV;PRF;NOM(2,SG)	არის ჩქარო
+Generate the inflected form for: ჩქარობს V;SBJV;PRF;NOM(3,PL)	არიანის ჩქ
+Generate the inflected form for: ჩქარობს V;SBJV;PRS;NOM(2,PL)	არიანის ჩქ
+Generate the inflected form for: ჩქარობს V;SBJV;PRS;NOM(2,SG)	არის ჩქარო
+Generate the inflected form for: ჩქარობს V;SBJV;PRS;NOM(3,PL)	არიანის ჩქ
+Generate the inflected form for: ცერობი N;DAT(PL)	არისხი N;DAT(PL) N
+Generate the inflected form for: ცერობი N;DAT(PL;LGSPEC2)	აბერი ცერო
+Generate the inflected form for: ცერობი N;DAT(SG)	ი N;DAT(SG) N;DAT(SG) N;DAT(
+Generate the inflected form for: ცერობი N;ERG(PL)	ი N;ERG(PL) N;ERG(PL) N;ERG(
+Generate the inflected form for: ცერობი N;ERG(PL;LGSPEC2)	არობი N;ERG(PL;LGSPE
+Generate the inflected form for: ცერობი N;ERG(SG)	ი ცერობი N;ERG(S
+Generate the inflected form for: ცერობი N;FRML(PL)	აბი N;FRML(PL) for: ც
+Generate the inflected form for: ცერობი N;FRML(SG)	აბეჭდავი ც
+Generate the inflected form for: ცერობი N;GEN(PL)	აზიანი N;GEN(PL) 
+Generate the inflected form for: ცერობი N;GEN(PL;LGSPEC2)	არიდის ცერ
+Generate the inflected form for: ცერობი N;GEN(SG)	აზერბი N;GEN(SG) f
+Generate the inflected form for: ცერობი N;INS(PL)	ი N;INS(PL) ცერობ
+Generate the inflected form for: ცერობი N;INS(SG)	ი N;INS(SG) N;INS(SG) N;INS(
+Generate the inflected form for: ცერობი N;NOM(PL)	არის ცერობ
+Generate the inflected form for: ცერობი N;NOM(PL;LGSPEC2)	ი NOM(PL;LGSPEC2) ცერ
+Generate the inflected form for: ცერობი N;NOM(SG)	ანათლები N;NOM
+Generate the inflected form for: ცერობი N;VOC(PL)	არიკობი N;VOC(PL
+Generate the inflected form for: ცერობი N;VOC(PL;LGSPEC2)	არიდის ცერ
+Generate the inflected form for: ცერობი N;VOC(SG)	ი N;VOC(SG)
+ცეᠠობ
+Generate the inflected form for: ცური N;DAT(PL)	ური N;DAT(PL) ცურ
+Generate the inflected form for: ცური N;DAT(PL;LGSPEC2)	ური N;DAT(PL;LGSPEC2) 
+Generate the inflected form for: ცური N;DAT(SG)	ური N;DAT(SG) ცურ
+Generate the inflected form for: ცური N;ERG(PL)	ური N;ERG(PL) N;ERG(PL) 
+Generate the inflected form for: ცური N;ERG(PL;LGSPEC2)	ი N;ERG(PL;LGSPEC2) ცუ
+Generate the inflected form for: ცური N;ERG(SG)	ური N;ERG(SG) N;ERG(SG) 
+Generate the inflected form for: ცური N;FRML(PL)	ური N;FRML(PL)
+ცურ
+Generate the inflected form for: ცური N;FRML(SG)	ური N;FRML(SG)
+ცურ
+Generate the inflected form for: ცური N;GEN(PL)	ური N;GEN(PL)
+ცურ
+Generate the inflected form for: ცური N;GEN(PL;LGSPEC2)	ური N;GEN(PL;LGSPEC2) 
+Generate the inflected form for: ცური N;GEN(SG)	ური N;GEN(SG)
+ცურ
+Generate the inflected form for: ცური N;INS(PL)	ური N;INS(PL) for ცუ
+Generate the inflected form for: ცური N;INS(SG)	ური N;INS(SG) N;INS(SG) 
+Generate the inflected form for: ცური N;NOM(PL)	ური N;NOM(PL) ცურ
+Generate the inflected form for: ცური N;NOM(PL;LGSPEC2)	ი NOM(PL;LGSPEC2) ცურ
+Generate the inflected form for: ცური N;VOC(PL)	ური N;VOC(PL)
+ცურ
+Generate the inflected form for: ცური N;VOC(PL;LGSPEC2)	ური N;VOC(PL;LGSPEC2) 
+Generate the inflected form for: ცური N;VOC(SG)	ური N;VOC(SG);VOC(SG);VO
+Generate the inflected form for: წონის V;COND;NOM(1,PL);ACC(2,PL)	არის V;COND;NOM(1,PL);
+Generate the inflected form for: წონის V;COND;NOM(1,PL);ACC(3,SG)	არის V;COND;NOM(1,PL);
+Generate the inflected form for: წონის V;IND;IPFV;NOM(1,PL);ACC(2,PL)	აზრის წოის
+Generate the inflected form for: წონის V;IND;IPFV;NOM(1,PL);ACC(3,SG)	აზრის წოის
+Generate the inflected form for: წონის V;IND;IPFV;NOM(1,SG);ACC(3,PL)	აზრის წოის
+Generate the inflected form for: წონის V;IND;IPFV;NOM(2,PL);ACC(3,PL)	აზრის წოის
+Generate the inflected form for: წონის V;IND;PRS;NOM(3,SG);ACC(2,SG)	აზრის წოის
+Generate the inflected form for: წონის V;IND;PRS;NOM(3,SG);ACC(3,PL)	აზრის წოის
+Generate the inflected form for: წონის V;IND;PST;PFV;NOM(1,PL);ACC(3,SG)	აზრის წოის
+Generate the inflected form for: წონის V;IND;PST;PFV;NOM(1,SG);ACC(2,PL)	აზრის წოის
+Generate the inflected form for: წონის V;IND;PST;PFV;NOM(1,SG);ACC(3,PL)	აზრის წოის
+Generate the inflected form for: წონის V;IND;PST;PFV;NOM(2,PL);ACC(1,PL)	აზრის წოის
+Generate the inflected form for: წონის V;IND;PST;PFV;NOM(2,SG);ACC(1,PL)	აზრის წოის
+Generate the inflected form for: წონის V;IND;PST;PFV;NOM(3,SG);ACC(3,SG)	აზრის წოის
+Generate the inflected form for: წონის V;IND;PST;PRF;NOM(1,PL);ACC(2,SG)	აზრის V;IND;PST;PRF;
+Generate the inflected form for: წონის V;OPT;NOM(2,SG);ACC(1,PL)	არის V;OPT;NOM(2,SG);A
+Generate the inflected form for: წონის V;OPT;NOM(3,PL);ACC(1,PL)	არის V;OPT;ACC(1,PL);A
+Generate the inflected form for: წონის V;OPT;NOM(3,PL);ACC(2,SG)	არის V;OPT;NOM(3,PL);A
+Generate the inflected form for: წონის V;OPT;NOM(3,SG);ACC(2,PL)	არის V;OPT;NOM(3,SG);A
+Generate the inflected form for: წონის V;SBJV;FUT;NOM(1,SG);ACC(3,PL)	ათის V;SBJV;NOM(1,SG);
+Generate the inflected form for: წონის V;SBJV;FUT;NOM(3,PL);ACC(1,SG)	აზრის V;SBJV;FUT;NOM
+Generate the inflected form for: წონის V;SBJV;FUT;NOM(3,SG);ACC(1,SG)	აზრის წოის
+Generate the inflected form for: წონის V;SBJV;PRF;NOM(1,PL);ACC(3,SG)	აზრის V;SBJV;PRF;NOM
+Generate the inflected form for: წონის V;SBJV;PRF;NOM(2,PL);ACC(3,SG)	აზრის V;SBJV;PRF;NOM
+Generate the inflected form for: წონის V;SBJV;PRF;NOM(3,PL);ACC(2,SG)	აზრის V;SBJV;PRF;NOM
+Generate the inflected form for: წონის V;SBJV;PRS;NOM(2,PL);ACC(1,PL)	აზრის V;SBJV;PRS;NOM
+Generate the inflected form for: ჭილიბი N;DAT(PL)	ი N;DAT(PL)(PL)(PL)(PL)(PL)(
+Generate the inflected form for: ჭილიბი N;DAT(PL;LGSPEC2)	იბი N;DAT(PL;LGSPEC2) 
+Generate the inflected form for: ჭილიბი N;DAT(SG)	ი N;DAT(SG) N;DAT(SG) N;DAT(
+Generate the inflected form for: ჭილიბი N;ERG(PL)	ილიბი N;ERG(PL) N;ER
+Generate the inflected form for: ჭილიბი N;ERG(PL;LGSPEC2)	ი N;ERG(PL;LGSPEC2) ჭი
+Generate the inflected form for: ჭილიბი N;ERG(SG)	ილიბი N;ERG(SG) N;ER
+Generate the inflected form for: ჭილიბი N;FRML(PL)	იბი N;FRML(PL) for: ჭ
+Generate the inflected form for: ჭილიბი N;FRML(SG)	იბი N;FRML(SG)
+ჭილ
+Generate the inflected form for: ჭილიბი N;GEN(PL)	იბი N;GEN(PL) for: ჭ
+Generate the inflected form for: ჭილიბი N;GEN(PL;LGSPEC2)	ი N;GEN(PL;LGSPEC2) ჭი
+Generate the inflected form for: ჭილიბი N;GEN(SG)	იბი N;GEN(SG) for: ჭ
+Generate the inflected form for: ჭილიბი N;INS(PL)	იბი N;INS(PL) N;INS(PL) 
+Generate the inflected form for: ჭილიბი N;INS(SG)	ბი N;INS(SG) N;INS(SG) N;I
+Generate the inflected form for: ჭილიბი N;NOM(PL)	ილიბი N;NOM(PL) ჭ
+Generate the inflected form for: ჭილიბი N;NOM(PL;LGSPEC2)	ილიბი N;NOM(PL;LGSPE
+Generate the inflected form for: ჭილიბი N;NOM(SG)	იბი N;NOM(SG) for: ჭ
+Generate the inflected form for: ჭილიბი N;VOC(PL)	ილიბი N;VOC(PL)
+ჭ
+Generate the inflected form for: ჭილიბი N;VOC(PL;LGSPEC2)	ი N;VOC(PL;LGSPEC2) N;VOC(PL
+Generate the inflected form for: ჭილიბი N;VOC(SG)	ილიბი N;VOC(SG)
+ჭ
+Generate the inflected form for: ჭრის V;COND;NOM(2,PL);ACC(1,PL)	ს ჭრის V;COND;NOM(2,
+Generate the inflected form for: ჭრის V;IMP;NOM(2,PL);ACC(3,PL)	ს ჭრის V;IMP;NOM(2,P
+Generate the inflected form for: ჭრის V;IMP;NOM(3,SG);ACC(3,PL)	ს ჭრის V;IMP;NOM(3,S
+Generate the inflected form for: ჭრის V;IND;FUT;NOM(1,PL);ACC(3,PL)	ის V;IND;FUT;NOM(1,PL);ACC
+Generate the inflected form for: ჭრის V;IND;FUT;NOM(1,PL);ACC(3,SG)	ს ჭრის V;IND;FUT;NOM
+Generate the inflected form for: ჭრის V;IND;FUT;NOM(1,SG);ACC(2,SG)	ს ჭრის V;IND;FUT;NOM
+Generate the inflected form for: ჭრის V;IND;FUT;NOM(2,PL);ACC(3,SG)	ს ჭრის V;IND;FUT;NOM
+Generate the inflected form for: ჭრის V;IND;FUT;NOM(3,SG);ACC(1,SG)	ს ჭრის V;IND;FUT;NOM
+Generate the inflected form for: ჭრის V;IND;PRF;NOM(1,PL);ACC(2,PL)	ს ჭრის V;IND;PRF;NOM
+Generate the inflected form for: ჭრის V;IND;PRF;NOM(1,PL);ACC(2,SG)	ს ჭრის V;IND;PRF;NOM
+Generate the inflected form for: ჭრის V;IND;PRF;NOM(2,SG);ACC(1,SG)	ს ჭრის V;IND;PRF;NOM
+Generate the inflected form for: ჭრის V;IND;PRF;NOM(3,PL);ACC(1,PL)	ს ჭრის V;IND;PRF;NOM
+Generate the inflected form for: ჭრის V;IND;PRF;NOM(3,PL);ACC(3,SG)	ს ჭრის V;IND;PRF;NOM
+Generate the inflected form for: ჭრის V;IND;PRS;NOM(1,PL);ACC(3,PL)	ს ჭრის V;IND;PRS;NOM
+Generate the inflected form for: ჭრის V;IND;PRS;NOM(3,SG);ACC(1,SG)	ს ჭრის V;IND;PRS;NOM
+Generate the inflected form for: ჭრის V;IND;PST;PFV;NOM(3,PL);ACC(1,SG)	ის ჭრის V;IND;PST;
+Generate the inflected form for: ჭრის V;IND;PST;PFV;NOM(3,PL);ACC(2,SG)	ის V;IND;PST;PFV;NOM(3,PL)
+Generate the inflected form for: ჭრის V;IND;PST;PFV;NOM(3,SG);ACC(2,SG)	ის ჭრის V;IND;PST;
+Generate the inflected form for: ჭრის V;IND;PST;PRF;NOM(1,PL);ACC(2,PL)	ს ჭრის V;IND;PST;PRF
+Generate the inflected form for: ჭრის V;IND;PST;PRF;NOM(2,PL);ACC(3,PL)	ს ჭრის V;IND;PST;PRF
+Generate the inflected form for: ჭრის V;OPT;NOM(3,PL);ACC(3,PL)	ს ჭრის V;OPT;NOM(3,P
+Generate the inflected form for: ჭრის V;OPT;NOM(3,SG);ACC(1,SG)	ს ჭრის V;OPT;NOM(3,S
+Generate the inflected form for: ჭრის V;SBJV;FUT;NOM(1,PL);ACC(2,PL)	ს ჭრის V;SBJV;FUT;NO
+Generate the inflected form for: ჭრის V;SBJV;FUT;NOM(1,SG);ACC(2,PL)	ს ჭრის V;SBJV;NOM(1,
+Generate the inflected form for: ჭრის V;SBJV;FUT;NOM(3,SG);ACC(3,SG)	ის V;SBJV;FUT;NOM(3,SG);AC
+Generate the inflected form for: ჭრის V;SBJV;PRS;NOM(3,SG);ACC(1,PL)	ს ჭრის V;SBJV;PRS;NO
+Generate the inflected form for: ხვართქლა N;DAT(PL)	ართქლა N;DAT(PL) N
+Generate the inflected form for: ხვართქლა N;DAT(PL;LGSPEC2)	ართქლა N;DAT(PL;LG
+Generate the inflected form for: ხვართქლა N;DAT(SG)	ართქლა N;DAT(SG)
+
+Generate the inflected form for: ხვართქლა N;ERG(PL)	ართქლა N;ERG(PL)
+
+Generate the inflected form for: ხვართქლა N;ERG(PL;LGSPEC2)	ართქლა N;ERG(PL;LG
+Generate the inflected form for: ხვართქლა N;ERG(SG)	ართქლა N;ERG(SG) N
+Generate the inflected form for: ხვართქლა N;FRML(PL)	ართქლა N;FRML(PL) 
+Generate the inflected form for: ხვართქლა N;FRML(SG)	ართქლა N;FRML(SG) 
+Generate the inflected form for: ხვართქლა N;GEN(PL)	ართქლა N;GEN(PL) 
+Generate the inflected form for: ხვართქლა N;GEN(PL;LGSPEC2)	ართქლა N;GEN(PL;LG
+Generate the inflected form for: ხვართქლა N;GEN(SG)	ართქლა N;GEN(SG)
+
+Generate the inflected form for: ხვართქლა N;INS(PL)	ართქლა N;INS(PL) f
+Generate the inflected form for: ხვართქლა N;INS(SG)	ართქლა N;INS(SG) N
+Generate the inflected form for: ხვართქლა N;NOM(PL)	ართქლა N;NOM(PL) 
+Generate the inflected form for: ხვართქლა N;NOM(PL;LGSPEC2)	ართქლა N;NOM(PL;LG
+Generate the inflected form for: ხვართქლა N;NOM(SG)	ართქლა N;NOM(SG)
+
+Generate the inflected form for: ხვართქლა N;VOC(PL)	არიანი N;VOC(PL) f
+Generate the inflected form for: ხვართქლა N;VOC(PL;LGSPEC2)	ართქლა N;VOC(PL;LG
+Generate the inflected form for: ხვართქლა N;VOC(SG)	ართქლა N;VOC(SG)
+
+Generate the inflected form for: ხვია N;DAT(PL)	ახვია N;DAT(PL)
+ხ
+Generate the inflected form for: ხვია N;DAT(PL;LGSPEC2)	ია N;DAT(PL;LGSPEC2) ხ
+Generate the inflected form for: ხვია N;DAT(SG)	ა N;DAT(SG) N;DAT(SG) N;DAT(
+Generate the inflected form for: ხვია N;ERG(PL)	ა N;ERG(PL)(PL)(PL)(PL)(PL)(
+Generate the inflected form for: ხვია N;ERG(PL;LGSPEC2)	ია N;ERG(PL;LGSPEC2) ხ
+Generate the inflected form for: ხვია N;ERG(SG)	აააააააააა
+Generate the inflected form for: ხვია N;FRML(PL)	ა N;FRML(PL) N;FRML(PL) N;FR
+Generate the inflected form for: ხვია N;FRML(SG)	ა N;FRML(SG)
+ხვია N;
+Generate the inflected form for: ხვია N;GEN(PL)	ა N;GEN(PL) N;GEN(PL) N;GEN(
+Generate the inflected form for: ხვია N;GEN(PL;LGSPEC2)	ა N;GEN(PL;LGSPEC2) ხვ
+Generate the inflected form for: ხვია N;GEN(SG)	აააააააააა
+Generate the inflected form for: ხვია N;INS(PL)	ა N;INS(PL) N;INS(PL) N;INS(
+Generate the inflected form for: ხვია N;INS(SG)	ა N;INS(SG) N;INS(SG) N;INS(
+Generate the inflected form for: ხვია N;NOM(PL)	ა N;NOM(PL) N;NOM(PL) N;NOM(
+Generate the inflected form for: ხვია N;NOM(PL;LGSPEC2)	ია NOM(PL;LGSPEC2) ხვ
+Generate the inflected form for: ხვია N;NOM(SG)	ა N;NOM(SG) ხᕕია N;N
+Generate the inflected form for: ხვია N;VOC(PL)	ანათია N;VOC(PL)
+C
+Generate the inflected form for: ხვია N;VOC(PL;LGSPEC2)	ია N;VOC(PL;LGSPEC2) ხ
+Generate the inflected form for: ხვია N;VOC(SG)	ა N;VOC(SG) N;VOC(SG) N;VOC(
+Generate the inflected form for: ხუმარა N;DAT(PL)	არა N;DAT(PL) N;DAT(PL) 
+Generate the inflected form for: ხუმარა N;DAT(PL;LGSPEC2)	არა N;DAT(PL;LGSPEC2) 
+Generate the inflected form for: ხუმარა N;DAT(SG)	არა N;DAT(SG) N;DAT(SG) 
+Generate the inflected form for: ხუმარა N;ERG(PL)	არაა N;ERG(PL) N;ERG(P
+Generate the inflected form for: ხუმარა N;ERG(PL;LGSPEC2)	არა N;ERG(PL;LGSPEC2) 
+Generate the inflected form for: ხუმარა N;ERG(SG)	არაა N;ERG(SG) N;ERG(S
+Generate the inflected form for: ხუმარა N;FRML(PL)	ა N;FRML(PL) N;FRML(PL) N;FR
+Generate the inflected form for: ხუმარა N;FRML(SG)	არა N;FRML(SG) for: ხ
+Generate the inflected form for: ხუმარა N;GEN(PL)	ა N;GEN(PL) ხუᛛဠ
+Generate the inflected form for: ხუმარა N;GEN(PL;LGSPEC2)	არა N;GEN(PL;LGSPEC2) 
+Generate the inflected form for: ხუმარა N;GEN(SG)	არა N;GEN(SG) for: ხ
+Generate the inflected form for: ხუმარა N;INS(PL)	ა N;INS(PL) N;INS(PL) N;INS(
+Generate the inflected form for: ხუმარა N;INS(SG)	ა ხუარა N;INS(SG
+Generate the inflected form for: ხუმარა N;NOM(PL)	ა N;NOM(PL) N;NOM(PL) N;NOM(
+Generate the inflected form for: ხუმარა N;NOM(PL;LGSPEC2)	არა NOM(PL;LGSPEC2) ხ
+Generate the inflected form for: ხუმარა N;NOM(SG)	არა N;NOM(SG) N;NOM(SG) 
+Generate the inflected form for: ხუმარა N;VOC(PL)	არა N;VOC(PL)
+ხუᛛ
+Generate the inflected form for: ხუმარა N;VOC(PL;LGSPEC2)	არა N;VOC(PL;LGSPEC2) 
+Generate the inflected form for: ხუმარა N;VOC(SG)	არა N;VOC(SG)
+ხუᛛ
+Generate the inflected form for: ჰქვია V;IND;FUT;NOM(1,PL)	ამაყი ჰქᕕი
+Generate the inflected form for: ჰქვია V;IND;FUT;NOM(1,SG)	არია V;IND;FUT;NOM(1,S
+Generate the inflected form for: ჰქვია V;IND;FUT;NOM(2,PL)	 ჰქᕕ ჰქᕕ ჰქᕕ
+Generate the inflected form for: ჰქვია V;IND;FUT;NOM(2,SG)	არია V;IND;FUT;NOM(2,S
+Generate the inflected form for: ჰქვია V;IND;FUT;NOM(3,PL)	 ჰქᕕ ჰქᕕ ჰქᕕ
+Generate the inflected form for: ჰქვია V;IND;FUT;NOM(3,SG)	არია V;IND;FUT;NOM(3,S
+Generate the inflected form for: ჰქვია V;IND;PRF;NOM(2,PL)	ასახავია V;IND
+Generate the inflected form for: ჰქვია V;IND;PRF;NOM(2,SG)	არიანი ჰქᕕ
+Generate the inflected form for: ჰქვია V;IND;PRF;NOM(3,PL)	ასახავია V;IND
+Generate the inflected form for: ჰქვია V;IND;PRF;NOM(3,SG)	არიანი ჰქᕘ
+Generate the inflected form for: ჰქვია V;IND;PRS;NOM(1,PL)	ასახავია V;IND
+Generate the inflected form for: ჰქვია V;IND;PRS;NOM(1,SG)	არიანის ჰქ
+Generate the inflected form for: ჰქვია V;IND;PRS;NOM(2,SG)	არიანი ჰქᕘ
+Generate the inflected form for: ჰქვია V;IND;PRS;NOM(3,PL)	არია V;IND;PRS;NOM(3,P
+Generate the inflected form for: ჰქვია V;IND;PRS;NOM(3,SG)	არიანი ჰქᕘ
+Generate the inflected form for: ჰქვია V;IND;PST;PFV;NOM(1,PL)	ასახავია V;IND
+Generate the inflected form for: ჰქვია V;IND;PST;PFV;NOM(1,SG)	არია V;IND;PST;PFV;NOM
+Generate the inflected form for: ჰქვია V;IND;PST;PFV;NOM(2,PL)	ასახავია V;IND
+Generate the inflected form for: ჰქვია V;IND;PST;PFV;NOM(3,PL)	ასახავია V;IND
+Generate the inflected form for: ჰქვია V;IND;PST;PRF;NOM(2,SG)	არია V;IND;PST;PRF;NOM
+Generate the inflected form for: ჰქვია V;IND;PST;PRF;NOM(3,PL)	ასახავია V;IND
+Generate the inflected form for: ჰქვია V;IND;PST;PRF;NOM(3,SG)	არია V;IND;PST;PRF;NOM
+Generate the inflected form for: ჰქვია V;OPT;NOM(1,PL)	ა V;OPT;NOM(1,PL);NOM(1,PL);
+Generate the inflected form for: ჰქვია V;OPT;NOM(2,PL)	ა V;OPT;NOM(2,PL);NOM(2,PL);
+Generate the inflected form for: ჰქვია V;OPT;NOM(2,SG)	ალი ჰქᕕია V;OP
+Generate the inflected form for: ჰქვია V;OPT;NOM(3,SG)	არია V;OPT;NOM(3,SG);N

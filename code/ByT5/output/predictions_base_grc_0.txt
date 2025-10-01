@@ -1,0 +1,1004 @@
+Βισάλτης N;ACC(DU)	είος N;ACC(DU)ACC(DU)ACC(D
+Βισάλτης N;ACC(PL)	λαβίνα N;ACC(PL)f(PL)f(P
+Βισάλτης N;ACC(SG)	είδες και Σχέδια
+Βισάλτης N;DAT(DU)	οικονόμος Βισάλ
+Βισάλτης N;DAT(PL)	λης Ν;DAT(PL)at(PL)at(PL)a
+Βισάλτης N;DAT(SG)	είδες Καραμανλή
+Βισάλτης N;GEN(DU)	είος Αθηναίος Βι
+Βισάλτης N;GEN(PL)	λλης N;GEN(PL)f;GEN(PL)f;G
+Βισάλτης N;GEN(SG)	λης Ν;Καραμανδρί
+Βισάλτης N;NOM(DU)	είος Αιγαίος Αιγ
+Βισάλτης N;NOM(PL)	είδος Βισάλτης N;
+Βισάλτης N;NOM(SG)	είος Αθήνα Αθήνα
+Βισάλτης N;VOC(DU)	;VOC(DU)al(1)al(2)al(3)al(4)al
+Βισάλτης N;VOC(PL)	λης Ν;VOC(PL)f(PL)f(PL)f(P
+Βισάλτης N;VOC(SG)	(SG)f(SG)f(SG)f(SG)f(SG)f(SG)f
+Μασσαλιώτης N;ACC(DU)	λιαρένης N;ACC(DU)f;AC
+Μασσαλιώτης N;ACC(PL)	ιμούτσικας N;ACC(PL)
+Μασσαλιώτης N;ACC(SG)	λιος N;ACC(SG)f;ACC(SG)f;A
+Μασσαλιώτης N;DAT(DU)	είδος Μαρινάκης 
+Μασσαλιώτης N;DAT(PL)	οικονόμος N;DAT(PL)gr
+Μασσαλιώτης N;DAT(SG)	είδος Μαρίνου Μ;D
+Μασσαλιώτης N;GEN(DU)	είδος Μασσαλιώτ
+Μασσαλιώτης N;GEN(PL)	λληνας Μαρία Μαρ
+Μασσαλιώτης N;GEN(SG)	λληνα Μαρία Μαρί
+Μασσαλιώτης N;NOM(DU)	είδος Μαραγκούλ
+Μασσαλιώτης N;NOM(PL)	λλειπτής N;NOM(PL)assa
+Μασσαλιώτης N;NOM(SG)	λληνα Μαρίδης N;Μ
+Μασσαλιώτης N;VOC(DU)	(DU)f(DU)f(DU)f(DU)f(DU)f(DU)f
+Μασσαλιώτης N;VOC(PL)	εις μέρες το πει
+Μασσαλιώτης N;VOC(SG)	(PG)2-3;Prod;101(1),111(1),112
+Μιθριακός ADJ;ACC(DU;MASC)	ιθριακός ADJ;ACC(DU;MA
+Μιθριακός ADJ;ACC(DU;NEUT)	ιθριακός ADJ;ACC(DU;NE
+Μιθριακός ADJ;ACC(PL;FEM)	λατινιακός ADJ;ACC(P
+Μιθριακός ADJ;ACC(PL;MASC)	ιθριακός ADJ;ACC(PL;MA
+Μιθριακός ADJ;ACC(PL;NEUT)	ος Μιθριακός ADJ;AC
+Μιθριακός ADJ;ACC(SG;FEM)	λαβής Μιθριακός 
+Μιθριακός ADJ;DAT(DU;FEM)	λατινικός ADJ;DAT(DU;
+Μιθριακός ADJ;DAT(DU;MASC)	ιθριακός ADJ;DAT(DU;MA
+Μιθριακός ADJ;DAT(PL;MASC)	ιθριακός ADJ;DAT(PL;MA
+Μιθριακός ADJ;DAT(SG;FEM)	ιθριακός ADJ;DAT(SG;FE
+Μιθριακός ADJ;DAT(SG;MASC)	ιθριακός ADJ;DAT(SG;MA
+Μιθριακός ADJ;DAT(SG;NEUT)	ιθριακός ADJ;DAT(SG;NE
+Μιθριακός ADJ;GEN(DU;FEM)	ιθριακός ADJ;GEN(DU;FE
+Μιθριακός ADJ;GEN(DU;MASC)	ιθριακός ADJ;GEN(DU;MA
+Μιθριακός ADJ;GEN(DU;NEUT)	ιθριακός ADJ;GEN(DU;NE
+Μιθριακός ADJ;GEN(PL;MASC)	ιθριακός ADJ;GEN(PL;MA
+Μιθριακός ADJ;GEN(PL;NEUT)	ιθριακός ADJ;GEN(PL;NE
+Μιθριακός ADJ;GEN(SG;FEM)	ιθριακός ADJ;GEN(SG;FE
+Μιθριακός ADJ;GEN(SG;MASC)	ιθριακός ADJ;GEN(SG;MA
+Μιθριακός ADJ;GEN(SG;NEUT)	ιθαγενής ADJ;GEN(SG;NE
+Μιθριακός ADJ;NOM(DU;FEM)	λατινικός ADJ;NOM(DU;
+Μιθριακός ADJ;NOM(DU;MASC)	ιθριακός ADJ;NOM(DU;MA
+Μιθριακός ADJ;NOM(DU;NEUT)	ιθριακός ADJ;NOM(DU;NE
+Μιθριακός ADJ;NOM(PL;FEM)	ιθριακός ADJ;NOM(PL;FE
+Μιθριακός ADJ;NOM(PL;MASC)	ιθριακός ADJ;NOM(PL;MA
+Μιθριακός ADJ;NOM(PL;NEUT)	λατινικός ADJ;NOM(PL;
+Μιθριακός ADJ;NOM(SG;FEM)	ιθριακός ADJ;NOM(SG;FE
+Μιθριακός ADJ;VOC(DU;MASC)	ιθριακός ADJ;VOC(DU;MA
+Μιθριακός ADJ;VOC(PL;FEM)	λατινιακός ADJ;VOC(P
+Μιθριακός ADJ;VOC(PL;NEUT)	ιθαγενής ADJ;VOC(PL;NE
+Μιθριακός ADJ;VOC(SG;FEM)	ιθριακός ADJ;VOC(SG;FE
+Μιθριακός ADJ;VOC(SG;MASC)	ιθριακός ADJ;VOC(SG;MA
+Μιθριακός ADJ;VOC(SG;NEUT)	ιθιακός ADJ;VOC(SG;NEUT
+αἴγιλος N;ACC(DU)	 καὶ καὶ καὶ κα
+αἴγιλος N;ACC(PL)	γιλος PL;ACC(PL)F(PL)F(PL
+αἴγιλος N;ACC(SG)	γιλος N;ACC(SG)K;ACC(SG)K
+αἴγιλος N;DAT(DU)	 Ἰδιος οἱ καὶ ἡ
+αἴγιλος N;DAT(PL)	οἰκοὶν αἰγιλος
+αἴγιλος N;DAT(SG)	εῖς αἰγιλος N;DAT(
+αἴγιλος N;GEN(DU)	 οἱ γέννεσθαι ο
+αἴγιλος N;GEN(PL)	οἱ μὲν αἰγιλος 
+αἴγιλος N;GEN(SG)	ος αἰγιλος N;GEN(SG)
+αἴγιλος N;NOM(DU)	 Ἰδουρος Ν;Εκπα
+αἴγιλος N;NOM(PL)	αὶ αἰγιλος N;αἰ
+αἴγιλος N;NOM(SG)	 καὶ καὶ καὶ κα
+αἴγιλος N;VOC(DU)	ὸν Ἰνν Ἰν Ἰν Ἰ
+αἴγιλος N;VOC(PL)	είδος Α΄ καὶ αἰ
+αἴγιλος N;VOC(SG)	οίκοι Ν;Παρατρίο
+αὔρα N;ACC(DU)	αὔρα N;ACC(DU)FACC(DU)FAC
+αὔρα N;ACC(PL)	 αὔρα N;ACC(PL)acc(PL)acc
+αὔρα N;ACC(SG)	 αὔρα N;ACC(SG)f;ACC(SG)f
+αὔρα N;DAT(DU)	 καὔρα καὔρα κα
+αὔρα N;DAT(PL)	 αὔρα αὔρα αὔρα
+αὔρα N;DAT(SG)	 Μ;ΜΑΚΡΟΝ Μ;ΜΑΚΡΟ
+αὔρα N;GEN(DU)	 αὐρα αὐρα αὐρα
+αὔρα N;GEN(PL)	αὔρα N;GEN(PL)fi(PL)fi(PL
+αὔρα N;GEN(SG)	 αὐρα N;GEN(SG)fo αὐρ
+αὔρα N;NOM(DU)	 αὐτουρα αὐτουρ
+αὔρα N;NOM(PL)	 αὔρα N;Τοῦρα αὔ
+αὔρα N;NOM(SG)	 Μ;Τζανέτ Μ;ΤΕΜ Μ;
+αὔρα N;VOC(DU)	 αὔρα N;VOC(DU)a αὔρ
+αὔρα N;VOC(PL)	 αὔρα N;VOC(PL)article(V)
+αὔρα N;VOC(SG)	 αὔρα αὔρα αὔρα
+βραχύτης N;ACC(DU)	ος βραχύτης N;ACC(DU
+βραχύτης N;ACC(PL)	ος βραχύτης N;ACC(PL
+βραχύτης N;ACC(SG)	ος βραχύτης N;ACC(SG
+βραχύτης N;DAT(DU)	ος βραχύτης N;DAT(DU
+βραχύτης N;DAT(PL)	ος βραχύτης N;DAT(PL
+βραχύτης N;DAT(SG)	ος ο βραχύτης N;DAT
+βραχύτης N;GEN(DU)	ος βραχύτης N;GEN(DU
+βραχύτης N;GEN(PL)	βραχύτης N;GEN(PL)hexa
+βραχύτης N;GEN(SG)	οντας βραχύτης N;
+βραχύτης N;NOM(DU)	οι ο βραχύτης N;NOM
+βραχύτης N;NOM(PL)	ομιλητής N;βραχύ
+βραχύτης N;NOM(SG)	ομιλητής ο βραχύ
+βραχύτης N;VOC(DU)	βραχύτης N;VOC(DU) β
+βραχύτης N;VOC(PL)	βραχύτης N;VOC(PL)βρ
+βραχύτης N;VOC(SG)	οι βραχύτης N;VOC(SG
+γοεδνός ADJ;ACC(DU;FEM)	εδνός ADJ;ACC(DU;FEM)femf
+γοεδνός ADJ;ACC(DU;NEUT)	γοεδνός ADJ;ACCγοεδ
+γοεδνός ADJ;ACC(PL;FEM)	γοεδνός ADJ;ACC(PL;FEM)
+γοεδνός ADJ;ACC(PL;NEUT)	 Αναλυτικός Λόγο
+γοεδνός ADJ;ACC(SG;FEM)	γοεδνός ADJ;ACC(SG;FEM)
+γοεδνός ADJ;ACC(SG;NEUT)	γοεδνός ADJ;ACC(SG;NEUT
+γοεδνός ADJ;DAT(DU;MASC)	γοεδνός ADJ;DAT(DU;MASC
+γοεδνός ADJ;DAT(DU;NEUT)	γοεδνός ADJ;DAT(DU;NEUT
+γοεδνός ADJ;DAT(PL;MASC)	 Ελληνικός Ελλην
+γοεδνός ADJ;DAT(SG;FEM)	γοεδνός ADJ;DAT(SG;FEM)
+γοεδνός ADJ;DAT(SG;MASC)	γοεδνός ADJ;DAT(SG;MASC
+γοεδνός ADJ;DAT(SG;NEUT)	γοεδνός ADJ;DAT(SG;NEUT
+γοεδνός ADJ;GEN(DU;MASC)	γοεδνός ADJ;GEN(DU;MASC
+γοεδνός ADJ;GEN(DU;NEUT)	γοεδνός ADJ;GEN(DU;NEUT
+γοεδνός ADJ;GEN(PL;FEM)	γοεδνός ADJ;GEN(PL;FEM)
+γοεδνός ADJ;GEN(PL;MASC)	γοεδνός ADJ;GEN(PL;MASC
+γοεδνός ADJ;GEN(SG;FEM)	γοεδνός ADJ;GEN(SG;FEM)
+γοεδνός ADJ;GEN(SG;MASC)	γοεδνός ADJ;GEN(SG;MASC
+γοεδνός ADJ;GEN(SG;NEUT)	γοεδνός ADJ;GEN(SG;NEUT
+γοεδνός ADJ;NOM(DU;FEM)	εδνός ADJ;NOM(DU;FEM)FEM 
+γοεδνός ADJ;NOM(DU;NEUT)	εδνός ΑΔΑΔΑΝΟΜΟ
+γοεδνός ADJ;NOM(PL;FEM)	εδνός ΑΡΙΣΤΕΡΟΣ 
+γοεδνός ADJ;NOM(PL;NEUT)	εδνός Αδιάδοτος 
+γοεδνός ADJ;NOM(SG;FEM)	γοεδνός ADJ;NOM(SG;FEM)
+γοεδνός ADJ;NOM(SG;MASC)	εδνός Αναγνώστη
+γοεδνός ADJ;VOC(DU;FEM)	γοεδνός ADJ;VOC(DU;FEM)
+γοεδνός ADJ;VOC(DU;NEUT)	ος ΑΡΓοεδνός ADJ;VO
+γοεδνός ADJ;VOC(PL;FEM)	γοεδνός ADJ;VOC(PL;FEM)
+γοεδνός ADJ;VOC(PL;MASC)	γοεδνός ADJ;VOC(PL;MASC
+γοεδνός ADJ;VOC(PL;NEUT)	εδνος Αίγοεδνος 
+γοεδνός ADJ;VOC(SG;FEM)	γοεδνός ADJ;VOC(SG;FEM)
+γοεδνός ADJ;VOC(SG;MASC)	εδνός ADJ;VOC(SG;MASC)ind
+γοεδνός ADJ;VOC(SG;NEUT)	γοεδνός ADJ; Βογοε
+διθυμία N;ACC(DU)	διθυμία N;ACC(DU) ACC(D
+διθυμία N;ACC(PL)	α διθυμία N;ACC(PL)f(P
+διθυμία N;ACC(SG)	αναδιθυμία N;ACC(SG)
+διθυμία N;DAT(DU)	διθυμία N;DAT(DU) δι
+διθυμία N;DAT(PL)	αγγεια Ν;DAT(PL);αγγ
+διθυμία N;DAT(SG)	αναδιθυμία N;DAT(SG)
+διθυμία N;GEN(DU)	διθυμία N;GEN(DU) δι
+διθυμία N;GEN(PL)	διθυμία N;GEN(PL)f;GEN(
+διθυμία N;GEN(SG)	θυμία N;GEN(SG)F(SG)F(SG)
+διθυμία N;NOM(DU)	διθυμία N;NOM(DU)aνα
+διθυμία N;NOM(PL)	διθυμία N;Διθυμί
+διθυμία N;NOM(SG)	ιθυμία ;Διθυμία ;
+διθυμία N;VOC(DU)	;VOC(DU) FA;VOC(DU) FA;VOC(DU)
+διθυμία N;VOC(PL)	 εν εν εν εν εν εν
+διθυμία N;VOC(SG)	α διθυμία N;VOC(SG)α 
+δορκάς N;ACC(DU)	 ACC(DU)acc(DU)acc(DU)acc(DU)a
+δορκάς N;ACC(PL)	(100);ACC(PL)acc(PL)acc(PL)acc
+δορκάς N;ACC(SG)	δορκάς N;ACC(SG)acc(SG)a
+δορκάς N;DAT(DU)	δορκάς N;DAT(DU)at(DU)at
+δορκάς N;DAT(PL)	δορκάς N;DAT(PL)at(PL)at
+δορκάς N;DAT(SG)	δορκάς N;DAT(SG)gional 
+δορκάς N;GEN(DU)	(DU) DU DU DU DU DU DU DU DU D
+δορκάς N;GEN(PL)	EMB(PL)f;SEM(PL)f MB(PL)f MB(P
+δορκάς N;GEN(SG)	δορκάς N;GEN(SG)δορκ
+δορκάς N;NOM(DU)	 Δορκάς Δορκάς Δ
+δορκάς N;NOM(PL)	δορκάς N;δορκάς N;
+δορκάς N;NOM(SG)	δορκάς N;δορκάς N;
+δορκάς N;VOC(DU)	ναδορκάς N;VOC(DU)a δ
+δορκάς N;VOC(PL)	ADV(PL)adV(PL)adV(PL)adV(PL)ad
+δορκάς N;VOC(SG)	δορκάς N;VOC(SG)anal(SG)
+θήρα N;ACC(DU)	 και στο καιρούς 
+θήρα N;ACC(PL)	α N;ACC(ACC(ACC(CL)acc(PL)acc
+θήρα N;ACC(SG)	α Ν;θήρα N;αθήρα N;
+θήρα N;DAT(DU)	θήρα N;DAT(DU)A(BU)A(TU)A(
+θήρα N;DAT(PL)	θήρα N;N;DAT(PL)g;θήρα
+θήρα N;DAT(SG)	θήρα N;DAT((G)(G)(AG)((G)(
+θήρα N;GEN(DU)	A ;GEΙα Ν;GEΙα Ν;GEΙα 
+θήρα N;GEN(PL)	θήρα N;GEN(PL)ftθήρα N
+θήρα N;GEN(SG)	(TT)tTTTTTTTTTTTTTTTTTTTTTTTTT
+θήρα N;NOM(DU)	;NOM(DU)έτα N;NOM(DU)έτα
+θήρα N;NOM(PL)	;ΕΜΕΜΑΙΑ N;NOM(PL)aa N;
+θήρα N;NOM(SG)	;NOM(SG)aθήρα N;NOM(SG)aθ
+θήρα N;VOC(DU)	(ΠΟ)ΛΕΙΟ;VOCκλητορ
+θήρα N;VOC(PL)	;VOC(PL)aiθηρα N;VOC(PL)a;
+θήρα N;VOC(SG)	;VOC(SG)i(SG)(CG)(PG)(CG)(CG)(
+θρεπτικός ADJ;ACC(DU;FEM)	θρεπτικός ADJ;ACC(DU;
+θρεπτικός ADJ;ACC(DU;MASC)	θρεπτικός ADJ;ACC(DU;
+θρεπτικός ADJ;ACC(DU;NEUT)	θρεπτικός ADJ;ACC(DU;
+θρεπτικός ADJ;ACC(PL;MASC)	θρεπτικός ADJ;ACC(PL;
+θρεπτικός ADJ;ACC(PL;NEUT)	θρεπτικός ADJ;ACC(PL;
+θρεπτικός ADJ;ACC(SG;FEM)	θρεπτικός αντιθ
+θρεπτικός ADJ;ACC(SG;MASC)	θρεπτικός αντιθ
+θρεπτικός ADJ;ACC(SG;NEUT)	θρεπτικός ADJ;ACC(SG;
+θρεπτικός ADJ;DAT(DU;FEM)	θρεπτικός ADJ;DAT(DU;
+θρεπτικός ADJ;DAT(DU;NEUT)	θρεπτικός ADJ;DAT(DU;
+θρεπτικός ADJ;DAT(PL;FEM)	θρεπτικός ADJ;DAT(PL;
+θρεπτικός ADJ;DAT(PL;NEUT)	θρεπτικός ADJ;DAT(PL;
+θρεπτικός ADJ;DAT(SG;FEM)	θρεπτικός ADJ;DAT(SG;
+θρεπτικός ADJ;DAT(SG;MASC)	θρεπτικός αντιθ
+θρεπτικός ADJ;GEN(DU;NEUT)	θρεπτικός ADJ;GEN(DU;
+θρεπτικός ADJ;GEN(PL;MASC)	θρεπτικός ADJ;GEN(PL;
+θρεπτικός ADJ;GEN(PL;NEUT)	θρεπτικός ADJ;GEN(PL;
+θρεπτικός ADJ;GEN(SG;MASC)	θρεπτικός ADJ;GEN(SG;
+θρεπτικός ADJ;GEN(SG;NEUT)	θρεπτικός ADJ;GEN(SG;
+θρεπτικός ADJ;NOM(DU;MASC)	θρεπτικός ADJ;NOM(DU;
+θρεπτικός ADJ;NOM(DU;NEUT)	εκδοτικός ADJ;NOM(DU;
+θρεπτικός ADJ;NOM(PL;MASC)	θρεπτικός ADJ;NOM(PL;
+θρεπτικός ADJ;NOM(SG;NEUT)	θρεπτικός αναθρ
+θρεπτικός ADJ;VOC(DU;FEM)	θρεπτικός ADJ;VOC(DU;
+θρεπτικός ADJ;VOC(DU;MASC)	θρεπτικός ADJ;VOC(DU;
+θρεπτικός ADJ;VOC(DU;NEUT)	θρεπτικός ADJ;VOC(DU;
+θρεπτικός ADJ;VOC(PL;FEM)	θρεπτικός ADJ;VOC(PL;
+θρεπτικός ADJ;VOC(PL;MASC)	θρεπτικός ADJ;VOC(PL;
+θρεπτικός ADJ;VOC(PL;NEUT)	θρεπτικός ADJ;VOC(PL;
+θρεπτικός ADJ;VOC(SG;FEM)	θρεπτικός ADJ;VOC(SG;
+θρεπτικός ADJ;VOC(SG;MASC)	θρεπτικός αναθρ
+θρεπτικός ADJ;VOC(SG;NEUT)	θρεπτικός ADJ;VOC(SG;
+θυγάτηρ N;ACC(DU)	θυγάτηρ N;ACC(DU)f((*)*
+θυγάτηρ N;ACC(PL)	θυγάτηρ N;ACC(PL)iPL)io
+θυγάτηρ N;ACC(SG)	θυγάτηρ N;ACC(SG)i;ACC(
+θυγάτηρ N;DAT(DU)	θυγάτηρ N;DAT(DU)at((*)
+θυγάτηρ N;DAT(PL)	θυγάτηρ N;DAT(PL)gDAT(P
+θυγάτηρ N;DAT(SG)	θυγάτηρ N;DAT(SG)lg θ
+θυγάτηρ N;GEN(DU)	θυγάτηρ N;GEN(DU) θυ
+θυγάτηρ N;GEN(PL)	ED(R)DB;SEQ(R)SQ(R)SQ(R)SQ(R)S
+θυγάτηρ N;GEN(SG)	ρ Ν Ν Ν Ν Ν Ν Ν Ν Ν 
+θυγάτηρ N;NOM(DU)	θυγάτηρ N;NOM(DU)θυγ
+θυγάτηρ N;NOM(PL)	θυγάτηρ N;NOM(PL)i(PL)i
+θυγάτηρ N;NOM(SG)	θυγάτηρ Ν;ΝΟΜΙΚΗ
+θυγάτηρ N;VOC(DU)	θυγάτηρ N;VOC(DU) N;VOC
+θυγάτηρ N;VOC(PL)	θυγάτηρ N;VOI(PL);(PL);
+θυγάτηρ N;VOC(SG)	ρ Ν;VOC(SG)i(MM)i(MM)i(MM)i(
+καδμία N;ACC(DU)	 και καδμία N;ACC(DU)
+καδμία N;ACC(PL)	καδμία N;ACC(PL)acc(PL)a
+καδμία N;ACC(SG)	καδμία N;ACC(SG)fκαδ
+καδμία N;DAT(DU)	καδμία N;DAT(DU) καδ
+καδμία N;DAT(PL)	καδμία N;DAT(PL)y(PL)y(P
+καδμία N;DAT(SG)	καδμία N;DAT(SG)$19;κα
+καδμία N;GEN(DU)	καδμία N;GEN(DU)aκαδ
+καδμία N;GEN(PL)	καδμία N;GEN(PL)fe(PL)fe
+καδμία N;GEN(SG)	καδμία N;GEN(SG)fκαδ
+καδμία N;NOM(DU)	καδμία N;NOM(DU)aκαδ
+καδμία N;NOM(PL)	καδμία N;Καδμία N;
+καδμία N;NOM(SG)	καδμία Ν;Καδμία 
+καδμία N;VOC(DU)	καδμία N;VOC(DU)...
+Εκ
+καδμία N;VOC(PL)	NNN και καδμία ΝNN 
+καδμία N;VOC(SG)	καδμία N;VOC(SG)καδμ
+κενταύριον N;ACC(DU)	ιον N;ACC(DU)f(A)f(A)f(A)f(
+κενταύριον N;ACC(PL)	ιον Ν;Ελληνικόν 
+κενταύριον N;ACC(SG)	ν N;ACC(SG)f(SG)f(SG)f(SG)f(S
+κενταύριον N;DAT(DU)	ον Ν;ΟΝ Ν;ΟΝ Ν;ΟΝ 
+κενταύριον N;DAT(PL)	ιον Ελληνιον Ελλ
+κενταύριον N;DAT(SG)	ειδον ΝΑΚΕΝΤΑΥΡ
+κενταύριον N;GEN(DU)	ον Ν;Ον Ν;Ον Ν;Ον 
+κενταύριον N;GEN(PL)	ιον Ν;GEN(PL)formame N;GEN
+κενταύριον N;GEN(SG)	 Ν;ΟΠ(SG)ελληνικήν
+κενταύριον N;NOM(DU)	ν N;NOM(DU)a(DU)a(DU)a(DU)a(D
+κενταύριον N;NOM(PL)	εν Ελληνικόν Ελλ
+κενταύριον N;NOM(SG)	ον εν ελλασίω εν 
+κενταύριον N;VOC(DU)	ιον Ν;VOC(DU)F(MORP)ARCHOR
+κενταύριον N;VOC(PL)	ιον Ν;VOC(PL)κενταύ
+κενταύριον N;VOC(SG)	ν N;VOC(SG)far PC(SP)far PC(S
+κενός ADJ;ACC(DU;FEM)	κενός Διακενός Δ
+κενός ADJ;ACC(DU;MASC)	 κενός κενός κεν
+κενός ADJ;ACC(DU;NEUT)	κενός ADJ;ACC(DU;NEUT)F(D
+κενός ADJ;ACC(PL;FEM)	λογικός κενός Αν
+κενός ADJ;ACC(PL;MASC)	 κενός Αναλυτικό
+κενός ADJ;ACC(PL;NEUT)	κενός Αναλυτικό
+κενός ADJ;ACC(SG;FEM)	λεκτικός κενός AD
+κενός ADJ;ACC(SG;MASC)	λοιπόδουλος κεν
+κενός ADJ;ACC(SG;NEUT)	κενός Αναλυτικά 
+κενός ADJ;DAT(DU;FEM)	κενός ADJ;DAT(DU;FEM)femf
+κενός ADJ;DAT(DU;MASC)	κενός Αναγνωρίσ
+κενός ADJ;DAT(PL;FEM)	κενός Αναλυτής κ
+κενός ADJ;DAT(PL;MASC)	κενός Ανακενός Α
+κενός ADJ;DAT(PL;NEUT)	κενός ADJ;DAT(PL;NEUT)F;N
+κενός ADJ;DAT(SG;MASC)	κενός Ανακενός Α
+κενός ADJ;DAT(SG;NEUT)	κενός Αναλυτικά 
+κενός ADJ;GEN(DU;FEM)	κενός ADJ;GEN(DU;FEM)FEM 
+κενός ADJ;GEN(PL;FEM)	κενός ADJ;GEN(PL;FEM)fem 
+κενός ADJ;GEN(PL;MASC)	κενός ADJ;GEN(PL;MASC)
+Ε
+κενός ADJ;GEN(SG;NEUT)	ενός Αναγνωστός 
+κενός ADJ;NOM(DU;FEM)	κενός ADJ;NOM(DU;FEM)FEM 
+κενός ADJ;NOM(DU;MASC)	ενενενός ΑΡΙΘΜΟ
+κενός ADJ;NOM(PL;NEUT)	λος αναγνωρίσκο
+κενός ADJ;NOM(SG;FEM)	κενός ADJ;NOM(SG;FEM)fem 
+κενός ADJ;NOM(SG;MASC)	κενός Αναλυτικά 
+κενός ADJ;NOM(SG;NEUT)	ενός Αναγνωρίσκ
+κενός ADJ;VOC(DU;FEM)	κενός ADJ;VOC(DU;FEM)femf
+κενός ADJ;VOC(DU;MASC)	κενός ΑΡΙΘΜΟΣ ΕΡ
+κενός ADJ;VOC(DU;NEUT)	ακενός ADJ;VOC(DU;NEUT)R
+κενός ADJ;VOC(PL;MASC)	κενός ADJ;VOC(PL;MASC)κ
+κενός ADJ;VOC(PL;NEUT)	κενός ADJ;VOC(PL;NEUT)fκ
+κενός ADJ;VOC(SG;FEM)	κενός ADJ;VOC(SG;FEM)fem 
+κενός ADJ;VOC(SG;MASC)	κενός ADJ;VOC(SG;MASC)ind
+κωλόβαθρον N;ACC(DU)	εν N;ACC(DU)ft(DU)ft(DU)ft(D
+κωλόβαθρον N;ACC(PL)	εις εις εις εις ε
+κωλόβαθρον N;ACC(SG)	ον και καλλιεργή
+κωλόβαθρον N;DAT(DU)	εις εις εις εις ε
+κωλόβαθρον N;DAT(PL)	 και καλοκαίρι κ
+κωλόβαθρον N;DAT(SG)	είον κωλόβαθρον 
+κωλόβαθρον N;GEN(DU)	ον και καλον και 
+κωλόβαθρον N;GEN(PL)	είον κωλόβαθρον 
+κωλόβαθρον N;GEN(SG)	ον κωλόβαθρον N;GE
+κωλόβαθρον N;NOM(DU)	ον N;NOM(DU)affairs N;NOM(DU
+κωλόβαθρον N;NOM(PL)	εις εις εις εις ε
+κωλόβαθρον N;NOM(SG)	ον και καλον και 
+κωλόβαθρον N;VOC(DU)	(DU) αναλογική ανα
+κωλόβαθρον N;VOC(PL)	 εις το καλόβαθρ
+κωλόβαθρον N;VOC(SG)	 εις τον κόσμον ε
+λειμώνιον N;ACC(DU)	λειμώνιον N;ACC(DU)ac
+λειμώνιον N;ACC(PL)	λειμώνιον N;ACC(PL)ac
+λειμώνιον N;ACC(SG)	λειμώνιον N;ACC(SG)ff
+λειμώνιον N;DAT(DU)	 και λειμώνιον N;D
+λειμώνιον N;DAT(PL)	 αλειμώνιον N;DAT(PL
+λειμώνιον N;DAT(SG)	λειμώνιον N;DAT(SG)f
+λειμώνιον N;GEN(DU)	ιον και λειμώνιο
+λειμώνιον N;GEN(PL)	λειμώνιον N;GEN(PL)a 
+λειμώνιον N;GEN(SG)	λειμώνιον N;GEN(SG)f(
+λειμώνιον N;NOM(DU)	λειμώνιον N;NOM(DU)al
+λειμώνιον N;NOM(PL)	λειμώνιον N;Λειμ
+λειμώνιον N;NOM(SG)	λειμώνιον N;Λειμ
+λειμώνιον N;VOC(DU)	λειμώνιον N;VOC(DU)an
+λειμώνιον N;VOC(PL)	(PL)θεον Π;VOC(PL)θεο
+λειμώνιον N;VOC(SG)	λειμώνιον N;VOC(SG)fa
+μελῳδία N;ACC(DU)	ελῳδία N;ACC(DU)f;ACC(
+μελῳδία N;ACC(PL)	μελῳδία N;ACC(PL)f;ACC
+μελῳδία N;ACC(SG)	ελῳδία N;ACC(SG)f;ACC(
+μελῳδία N;DAT(DU)	ελῳδία N;DAT(DU)f(DU)f
+μελῳδία N;DAT(PL)	 μελῳδία N;DAT(PL)y μ
+μελῳδία N;DAT(SG)	μελῳδία N;DAT(SG)fault
+μελῳδία N;GEN(DU)	ὴ μὴ μὴ μὴ μὴ 
+μελῳδία N;GEN(PL)	ῳδία N;GEN(PL)folio με
+μελῳδία N;GEN(SG)	 με τὸ τὸ τὸ τὸ 
+μελῳδία N;NOM(DU)	ελῳδία N;NOM(DU)μελ
+μελῳδία N;NOM(PL)	ελῳδία N;NOM(PL)a με
+μελῳδία N;NOM(SG)	ὸν μελῳδία N;NOM(S
+μελῳδία N;VOC(DU)	ελῳδία N;VOC(DU)fort
+μελῳδία N;VOC(PL)	 μελῳδία N;VOC(PL)f;VO
+μελῳδία N;VOC(SG)	 μελῳδία N;VOC(SG)f μ
+οἶνος N;ACC(DU)	ἶνος N;ACC(DU)FA;ACC(DU)F
+οἶνος N;ACC(PL)	ὸς μετά μετοὶ μ
+οἶνος N;ACC(SG)	ὸς μάνας Ν;ACC(SG)ο
+οἶνος N;DAT(DU)	ἶνος N;DAT(DU) AT(DU) AT(
+οἶνος N;DAT(PL)	ἶνος N;DAT(PL)3AT(PL)3AT(
+οἶνος N;DAT(SG)	ἶνος N;DAT(SG)foreseen N;
+οἶνος N;GEN(DU)	ἶνος N;GEN(DU)FEN(DU)FEN(
+οἶνος N;GEN(PL)	ὸς μεταμφιβῶν N;
+οἶνος N;GEN(SG)	ἶνος N;GEN(SG)οἶνος
+οἶνος N;NOM(DU)	 οἶνος N;οἶνος N;
+οἶνος N;NOM(PL)	ἶνος N;οἶνος N;ο
+οἶνος N;NOM(SG)	ὸς διακούρου Ν;
+οἶνος N;VOC(DU)	ἶνος N;VOC(DU)STR(IN)GR(I
+οἶνος N;VOC(PL)	ἶνος N;VOC(PL)int(PL)int(
+οἶνος N;VOC(SG)	ἶνος N;VOC(SG)false false
+παλίμψηστος ADJ;ACC(DU;FEM)	ος αλίμψηστος ADJ;
+παλίμψηστος ADJ;ACC(DU;NEUT)	αλίμψηστος ADJ;ACC(D
+παλίμψηστος ADJ;ACC(PL;MASC)	αλίμψηστος NEG 1 π
+παλίμψηστος ADJ;ACC(SG;FEM)	αλίμψηστος ADJ;ACC(S
+παλίμψηστος ADJ;ACC(SG;MASC)	αλίμψηστος NEG;ACC(S
+παλίμψηστος ADJ;ACC(SG;NEUT)	αλίμψηστος ADJ;ACC(S
+παλίμψηστος ADJ;DAT(DU;FEM)	οικονομικός αλί
+παλίμψηστος ADJ;DAT(DU;MASC)	ος αλίμψηστος ADJ;
+παλίμψηστος ADJ;DAT(DU;NEUT)	ος αλίμψηστος ADJ;
+παλίμψηστος ADJ;DAT(PL;MASC)	αλίμψηστος NEG;DAT(P
+παλίμψηστος ADJ;DAT(PL;NEUT)	αλίμψηστος ADJ;DAT(P
+παλίμψηστος ADJ;DAT(SG;MASC)	αλίμψηστος ADJ;DAT(S
+παλίμψηστος ADJ;GEN(DU;FEM)	αλίμψηστος ADJ;GEN(D
+παλίμψηστος ADJ;GEN(DU;MASC)	αλίμψηστος ADJ;GEN(D
+παλίμψηστος ADJ;GEN(DU;NEUT)	αλίμψηστος ADJ;GEN(D
+παλίμψηστος ADJ;GEN(PL;FEM)	αλίμψηστος ADJ;GEN(P
+παλίμψηστος ADJ;GEN(PL;MASC)	αλίμψηστος ADJ;GEN(P
+παλίμψηστος ADJ;GEN(PL;NEUT)	αλίμψηστος ADJ;GEN(P
+παλίμψηστος ADJ;GEN(SG;FEM)	αλίμψηστος ADJ;GEN(S
+παλίμψηστος ADJ;GEN(SG;MASC)	αλίμψηστος ADJ;GEN(S
+παλίμψηστος ADJ;GEN(SG;NEUT)	αλίμψηστος ADJ;GEN(S
+παλίμψηστος ADJ;NOM(DU;NEUT)	αλίμψηστος ADJ;NOM(D
+παλίμψηστος ADJ;NOM(PL;FEM)	αλίμψηστος ADJ;NOM(P
+παλίμψηστος ADJ;NOM(PL;MASC)	αλίμψηστος ADJ;NOM(P
+παλίμψηστος ADJ;NOM(PL;NEUT)	αλίμψηστος ADJ;NOM(P
+παλίμψηστος ADJ;VOC(DU;FEM)	ος αλίμψηστος ADJ;
+παλίμψηστος ADJ;VOC(DU;MASC)	αλίμψηστος ADJ;VOC(D
+παλίμψηστος ADJ;VOC(DU;NEUT)	ος αλίμψηστος ADJ;
+παλίμψηστος ADJ;VOC(PL;MASC)	αλίμψηστος ADJ;VOC(P
+παλίμψηστος ADJ;VOC(PL;NEUT)	αλίμψηστος ADJ;VOC(P
+παλίμψηστος ADJ;VOC(SG;FEM)	αλίμψηστος ADJ;VOC(S
+παλίμψηστος ADJ;VOC(SG;MASC)	παλίμψηστος ADJ;VOC
+παλίμψηστος ADJ;VOC(SG;NEUT)	αλίμψηστος ADJ;VOC(S
+παραλυτικός ADJ;ACC(DU;FEM)	λογικός ADJ;ACC(DU;FEM)
+παραλυτικός ADJ;ACC(DU;MASC)	λυτικός ADJ;ACC(DU;MASC
+παραλυτικός ADJ;ACC(DU;NEUT)	λυτικός ADJ;ACC(DU;NEUT
+παραλυτικός ADJ;ACC(PL;FEM)	λογισμός ADJ;ACC(PL;FE
+παραλυτικός ADJ;ACC(PL;MASC)	λυτικός ADJ;ACC(PL;MASC
+παραλυτικός ADJ;ACC(PL;NEUT)	λυτικός ADJ;ACC(PL;NEUT
+παραλυτικός ADJ;ACC(SG;FEM)	λογισμός ADJ;ACC(SG;FE
+παραλυτικός ADJ;ACC(SG;MASC)	λέον αναλυτικός 
+παραλυτικός ADJ;ACC(SG;NEUT)	λογίου Παραλυτι
+παραλυτικός ADJ;DAT(DU;FEM)	λογικός ADJ;DAT(DU;FEM)
+παραλυτικός ADJ;DAT(DU;MASC)	λεκτικός ADJ;DAT(DU;MA
+παραλυτικός ADJ;DAT(DU;NEUT)	λυτικός ADJ;DAT(DU;NEUT
+παραλυτικός ADJ;DAT(PL;FEM)	λεκτικός ADJ;DAT(PL;FE
+παραλυτικός ADJ;DAT(PL;MASC)	λεκτικός ADJ;DAT(PL;MA
+παραλυτικός ADJ;DAT(PL;NEUT)	λυτικός ADJ;DAT(PL;NEUT
+παραλυτικός ADJ;DAT(SG;FEM)	λεκτικός ADJ;DAT(SG;FE
+παραλυτικός ADJ;DAT(SG;MASC)	λογικός ADJ;DAT(SG;MASC
+παραλυτικός ADJ;GEN(DU;FEM)	λεκτικός ADJ;GEN(DU;FE
+παραλυτικός ADJ;GEN(PL;MASC)	λεκτικός ADJ;GEN(PL;MA
+παραλυτικός ADJ;GEN(PL;NEUT)	λεκτικός ADJ;GEN(PL;NE
+παραλυτικός ADJ;GEN(SG;FEM)	ληνικός ADJ;GEN(SG;FEM)
+παραλυτικός ADJ;GEN(SG;MASC)	λεκτικός ADJ;GEN(SG;MA
+παραλυτικός ADJ;GEN(SG;NEUT)	λεγόμενος αναλυ
+παραλυτικός ADJ;NOM(DU;FEM)	λεκτικός ADJ;NOM(DU;FE
+παραλυτικός ADJ;NOM(DU;MASC)	λεκτικός ADJ;NOM(DU;MA
+παραλυτικός ADJ;NOM(DU;NEUT)	λυτικός ADJ;NOM(DU;NEUT
+παραλυτικός ADJ;NOM(PL;FEM)	λεγόμενος και αν
+παραλυτικός ADJ;NOM(SG;FEM)	λογία αναλυτικό
+παραλυτικός ADJ;VOC(PL;FEM)	λογικός ADJ;VOC(PL;FEM)
+παραλυτικός ADJ;VOC(PL;MASC)	λεκτικός ADJ;VOC(PL;MA
+παραλυτικός ADJ;VOC(PL;NEUT)	λεκτικός ADJ;VOC(PL;NE
+παραλυτικός ADJ;VOC(SG;FEM)	λησμονικός ADJ;VOC(S
+παραλυτικός ADJ;VOC(SG;MASC)	λεγόμενος παραλ
+ποτήριον N;ACC(DU)	 εκτροπήν εκτροπ
+ποτήριον N;ACC(PL)	 εις περιστέρεαν
+ποτήριον N;ACC(SG)	 εκ του αιμουμέν
+ποτήριον N;DAT(DU)	 από τον κρατικό
+ποτήριον N;DAT(PL)	 εκ τόν και εκ τό
+ποτήριον N;DAT(SG)	 Παραδοσιακός Αγ
+ποτήριον N;GEN(DU)	 αποτέλεσθαίον ε
+ποτήριον N;GEN(PL)	 εις παραδοσιακό
+ποτήριον N;GEN(SG)	 εις παραδοσιακό
+ποτήριον N;NOM(DU)	 αποτήριον N;Διαβ
+ποτήριον N;NOM(PL)	 αποτέλεσθήσεως 
+ποτήριον N;NOM(SG)	 εκ τοις εκ τοις 
+ποτήριον N;VOC(DU)	 αποτέλητον αποτ
+ποτήριον N;VOC(PL)	 κατά ποτήριον ε
+ποτήριον N;VOC(SG)	 εκ του αρχείον κ
+πτέρνη N;ACC(DU)	(Ι)ο Παρασκευή N;AC
+πτέρνη N;ACC(PL)	 Η Η Η Η Η Η Η Η Η Η
+πτέρνη N;ACC(SG)	 Παρασκευή Παρασ
+πτέρνη N;DAT(DU)	η Πεπτέρνη N;DAT(DU)a
+πτέρνη N;DAT(PL)	η Πτέρνη N;DAT(PL)age 
+πτέρνη N;DAT(SG)	η Πτέρνη N;DAT(SG)gg Π
+πτέρνη N;GEN(DU)	Ανατολική Ανατο
+πτέρνη N;GEN(PL)	 Πεπτέρνη Πεπτέρ
+πτέρνη N;GEN(SG)	(SG)f;S(SG)f;S(SG)f;S(SG)f;S(S
+πτέρνη N;NOM(DU)	 Περιστέρι N;Ελευ
+πτέρνη N;NOM(PL)	ν Μαρουσειάν Μαρ
+πτέρνη N;NOM(SG)	η Π;NOM(SG)an Π;NOM(SG)an 
+πτέρνη N;VOC(DU)	κατάρ Ν;VOCΠεριπτ
+πτέρνη N;VOC(PL)	ELEC(PL)ec)ο Μαρία Μα
+πτέρνη N;VOC(SG)	 Πτέρνη N;VOC(SG)i Πτ
+πῆγμα N;ACC(DU)	 Παρίσι Παρίσι Π
+πῆγμα N;ACC(PL)	 Πολιτική Περί π
+πῆγμα N;ACC(SG)	 για το πῆγμα N;ACC
+πῆγμα N;DAT(DU)	 κ κ κ κ κ κ κ κ κ κ
+πῆγμα N;DAT(PL)	 Παραλλήλος Παρα
+πῆγμα N;DAT(SG)	 Πολιτική Πολιτι
+πῆγμα N;GEN(DU)	 Παραπολιτική Πα
+πῆγμα N;GEN(PL)	 Πατριάρια Πατρι
+πῆγμα N;GEN(SG)	 Πολιτική Πολιτι
+πῆγμα N;NOM(DU)	 Παραπολιτική Πα
+πῆγμα N;NOM(PL)	 Παραλλήλος ΠΑΡΑ
+πῆγμα N;NOM(SG)	 Παραπάνω παραπά
+πῆγμα N;VOC(DU)	ῆγμα N;VOC(DU)aL)f;VOC(DU
+πῆγμα N;VOC(PL)	 Πολλά πῆγμα Πολ
+πῆγμα N;VOC(SG)	 Π;VOC(SG)f;VOC(SG)f;VOC(SG)f
+σίραιον N;ACC(DU)	 ασίραιον N;ACC(DU)a 
+σίραιον N;ACC(PL)	 N;ACC(PL)f PL f N;ACC(PL)f f 
+σίραιον N;ACC(SG)	 Αιρετικον N;ACC(SG)a
+σίραιον N;DAT(DU)	 Πατρική και Ελλ
+σίραιον N;DAT(PL)	(Ι)ον Πασίραιον N;
+σίραιον N;DAT(SG)	είον Αθηναίων Αθ
+σίραιον N;GEN(DU)	 και ελληνικόν κ
+σίραιον N;GEN(PL)	ιν N;Εθνική Πρωτο
+σίραιον N;GEN(SG)	ιμαθήτρης Ν;Ελλά
+σίραιον N;NOM(DU)	ιμαθής ασίραιον 
+σίραιον N;NOM(PL)	ον Πατριάρχον Πα
+σίραιον N;NOM(SG)	ον Πατριάρχον Πα
+σίραιον N;VOC(DU)	ασίραιον N;VOCασίρ
+σίραιον N;VOC(PL)	ιν N;VOC(PL)ασίραιον
+σίραιον N;VOC(SG)	 Αιτιολογία Αιτι
+σκέπη N;ACC(DU)	 με τη σκέπη N;ACC(DU
+σκέπη N;ACC(PL)	 Παρασκέπτη Παρα
+σκέπη N;ACC(SG)	 μέρος μέρος μέρ
+σκέπη N;DAT(DU)	 από τη σκέπη από
+σκέπη N;DAT(PL)	 Πρόσκέπτη N;DAT(PL)g
+σκέπη N;DAT(SG)	 Πρόσκέψη N;DAT(SG)η 
+σκέπη N;GEN(DU)	κέπη Ν;GEN(DU)FE(DU)FE(DU
+σκέπη N;GEN(PL)	 η  η  η  η  η  η 
+σκέπη N;GEN(SG)	 η  η  η  η  η  η 
+σκέπη N;NOM(DU)	μένεκπεκτή με τη
+σκέπη N;NOM(PL)	 Πρόσκληση N;Πρόσ
+σκέπη N;NOM(SG)	 Προσκέπη N;Διασκ
+σκέπη N;VOC(DU)	κεπη N;VOC(DU) σκέπη 
+σκέπη N;VOC(PL)	επισκέπτη N;VOC(PL)ar
+σκέπη N;VOC(SG)	 Παραγωγή Παραγω
+σχόλιον N;ACC(DU)	εν είναις εκείνο
+σχόλιον N;ACC(PL)	ανδρέαν Ν;ACC(PL)forma
+σχόλιον N;ACC(SG)	εν αναγνώστη Ν;Ε
+σχόλιον N;DAT(DU)	εις εις το σχόιο
+σχόλιον N;DAT(PL)	αναγνώστειον N;DAT
+σχόλιον N;DAT(SG)	ανδρέαν Νεκτάρι
+σχόλιον N;GEN(DU)	αίον αίμα και ει
+σχόλιον N;GEN(PL)	αναγγελίαν N;ΕΛΛ
+σχόλιον N;GEN(SG)	ανανανανανανανα
+σχόλιον N;NOM(DU)	σχόιον N;NOM(DU)archive 
+σχόλιον N;NOM(PL)	ακριβώτιον N;NOM(PL)
+σχόλιον N;NOM(SG)	εις εις το σχόλι
+σχόλιον N;VOC(DU)	ανδρέαν Ν;VOC(DU)F(DU)
+σχόλιον N;VOC(PL)	ανδρέαν και εις 
+σχόλιον N;VOC(SG)	ειδήμονον Ν;VOC(SG)
+τακτικός ADJ;ACC(DU;FEM)	και ανακατακτικ
+τακτικός ADJ;ACC(DU;NEUT)	ακτικός ADJ;ACC(DU;NEUT
+τακτικός ADJ;ACC(PL;FEM)	κτικός ADJ;ACC(PL;FEM)fe
+τακτικός ADJ;ACC(SG;FEM)	κτικός ADJ;ACC(SG;FEM)ht
+τακτικός ADJ;ACC(SG;MASC)	κτικός ADJ;ACC(SG;MASC)h
+τακτικός ADJ;ACC(SG;NEUT)	κτικός ADJ;ACC(SG;NEUT)H
+τακτικός ADJ;DAT(DU;FEM)	κτικός ADJ;DAT(DU;FEM)fe
+τακτικός ADJ;DAT(DU;MASC)	κατάκτιστος ADJ;DAT
+τακτικός ADJ;DAT(DU;NEUT)	ακτικός ADJ;DAT(DU;NEUT
+τακτικός ADJ;DAT(PL;FEM)	κατακτικός ADJ;DAT(P
+τακτικός ADJ;DAT(PL;MASC)	κατάκτιστος ADJ;DAT
+τακτικός ADJ;DAT(PL;NEUT)	κατακτικός ADJ;DAT(P
+τακτικός ADJ;DAT(SG;FEM)	κανοτός ADJ;DAT(SG;FEM)
+τακτικός ADJ;DAT(SG;MASC)	κός ADJ;DAT(SG;MASC)i ADJ;D
+τακτικός ADJ;GEN(DU;FEM)	κτικός ADJ;GEN(DU;FEM)fe
+τακτικός ADJ;GEN(PL;MASC)	ακτικός ADJ;GEN(PL;MASC
+τακτικός ADJ;GEN(PL;NEUT)	ακτικός ADJ;GEN(PL;NEUT
+τακτικός ADJ;GEN(SG;FEM)	κός ADJ;GEN(SG;FEM) αντ
+τακτικός ADJ;GEN(SG;MASC)	κός ADJ;GEN(SG;MASC)interst
+τακτικός ADJ;GEN(SG;NEUT)	κτικός ADJ;GEN(SG;NEUT)f
+τακτικός ADJ;NOM(DU;FEM)	εκτικός ADJ;NOM(DU;FEM)
+τακτικός ADJ;NOM(DU;NEUT)	ακτικός ADJ;NOM(DU;NEUT
+τακτικός ADJ;NOM(PL;NEUT)	εκτελέστερος κα
+τακτικός ADJ;NOM(SG;NEUT)	κτικός ADJ;NOM(SG;NEUT)f
+τακτικός ADJ;VOC(DU;FEM)	εκτικός ADJ;VOC(DU;FEM)
+τακτικός ADJ;VOC(DU;MASC)	κτικός ADJ;VOC(DU;MASC)G
+τακτικός ADJ;VOC(DU;NEUT)	ακτικός ADJ;VOC(DU;NEUT
+τακτικός ADJ;VOC(PL;FEM)	ακτικός ADJ;VOC(PL;FEM)
+τακτικός ADJ;VOC(PL;MASC)	κτικός ADJ;VOC(PL;MASC)h
+τακτικός ADJ;VOC(PL;NEUT)	ακτικός ADJ;VOC(PL;NEUT
+τακτικός ADJ;VOC(SG;FEM)	κτικός ADJ;VOC(SG;FEM)
+
+τακτικός ADJ;VOC(SG;MASC)	κτικός ADJ;VOC(SG;MASC)h
+τακτικός ADJ;VOC(SG;NEUT)	κτικός ADJ;VOC(SG;NEUT)H
+ταπεινός ADJ;ACC(DU;FEM)	ενικός αναταπει
+ταπεινός ADJ;ACC(DU;MASC)	ενικός και ανατα
+ταπεινός ADJ;ACC(PL;MASC)	ειδος αναταπειν
+ταπεινός ADJ;ACC(PL;NEUT)	εις αναιτιός ADJ;AC
+ταπεινός ADJ;ACC(SG;MASC)	εις αναταπεινός 
+ταπεινός ADJ;DAT(DU;FEM)	ενταπεινός ADJ;DAT(D
+ταπεινός ADJ;DAT(DU;NEUT)	απεινός ADJ;DAT(DU;NEUT
+ταπεινός ADJ;DAT(PL;FEM)	είος ADJ;DAT(PL;FEM)fem α
+ταπεινός ADJ;DAT(PL;MASC)	εις αναταπεινός 
+ταπεινός ADJ;DAT(SG;MASC)	εις απεινός 1 παρ
+ταπεινός ADJ;DAT(SG;NEUT)	απεινός ADJ;DAT(SG;NEUT
+ταπεινός ADJ;GEN(DU;FEM)	ενενενενενενενε
+ταπεινός ADJ;GEN(DU;MASC)	είος ADJ;GEN(DU;MASC)inf(D
+ταπεινός ADJ;GEN(PL;FEM)	ενενενήνταπεινό
+ταπεινός ADJ;GEN(SG;MASC)	ιος ADJ;GEN(SG;MASC)hαπε
+ταπεινός ADJ;GEN(SG;NEUT)	εις ανακριβής ADJ;
+ταπεινός ADJ;NOM(DU;FEM)	εινός ADJ;NOM(DU;FEM)FEM(
+ταπεινός ADJ;NOM(DU;MASC)	εις αναταπεινός 
+ταπεινός ADJ;NOM(DU;NEUT)	απεινός ADJ;NOM(DU;NEUT
+ταπεινός ADJ;NOM(PL;FEM)	λαταπεινός ADJ;NOM(P
+ταπεινός ADJ;NOM(PL;MASC)	ινός ADJ;NOM(PL;MASC)given
+ταπεινός ADJ;NOM(PL;NEUT)	ενταπεινός ADJ;NOM(P
+ταπεινός ADJ;NOM(SG;FEM)	ινός ADJ;NOM(SG;FEM)fem α
+ταπεινός ADJ;NOM(SG;MASC)	εις απεινός ADJ;NOM(
+ταπεινός ADJ;NOM(SG;NEUT)	απεινός ADJ;NOM(SG;NEUT
+ταπεινός ADJ;VOC(DU;FEM)	είος ADJ;VOC(DU;FEM)FEM α
+ταπεινός ADJ;VOC(DU;NEUT)	απεινός ADJ;VOC(DU;NEUT
+ταπεινός ADJ;VOC(PL;FEM)	είος ADJ;VOC(PL;FEM)FEM;FE
+ταπεινός ADJ;VOC(PL;MASC)	είος αναταπεινό
+ταπεινός ADJ;VOC(PL;NEUT)	εις αναταπεινός 
+ταπεινός ADJ;VOC(SG;FEM)	εις αναταπεινός 
+ταπεινός ADJ;VOC(SG;MASC)	εις αναταπεινός 
+ταπεινός ADJ;VOC(SG;NEUT)	εις ADJ;VOC(SG;NEUT)F;VOC(S
+ἀμέλεια N;ACC(DU)	άὶ ὀὶ ὀὶ ὀὶ 
+ἀμέλεια N;ACC(PL)	αποδέκτης Ν;Αποδ
+ἀμέλεια N;ACC(SG)	αθλητές N;ACC(SG)f(SG)f
+ἀμέλεια N;DAT(DU)	άὶ ὁίίί ἀ ἀ 
+ἀμέλεια N;DAT(PL)	ό ἀμέλλεὶ N;DATA(PL
+ἀμέλεια N;DAT(SG)	ουλκουλκουλιουλ
+ἀμέλεια N;GEN(DU)	ό ὁ δὲ δὲ δὲ δ
+ἀμέλεια N;GEN(PL)	όπλα Ν;Αντιπλαι
+ἀμέλεια N;GEN(SG)	ὀμὀμὀμὀμὀμὀμ
+ἀμέλεια N;NOM(DU)	ὀὀὀὀὀὀὀὀὀὀ
+ἀμέλεια N;NOM(PL)	ὀμὀμὀμὀμὀμὀμ
+ἀμέλεια N;NOM(SG)	ὀμέλεια Ν;Τὀμὀ
+ἀμέλεια N;VOC(DU)	αθλητές και εκκλ
+ἀμέλεια N;VOC(PL)	ό ἀμέλεια N;VOC(PL)f
+ἀμέλεια N;VOC(SG)	ανατομή N;VOC(SG)f(SG)f
+ἀμβλυωπία N;ACC(DU)	μβλυωπία N;ACC(DU)F;AC
+ἀμβλυωπία N;ACC(PL)	μβλυωπία N;ACC(PL)f;AC
+ἀμβλυωπία N;ACC(SG)	μβλυωπία N;ACC(SG)fα
+ἀμβλυωπία N;DAT(DU)	μβλυωπία N;DAT(DU)AT(D
+ἀμβλυωπία N;DAT(PL)	μβλυωπία N;DAT(PL)age(
+ἀμβλυωπία N;DAT(SG)	μβλυωπία N;DAT(SG)F(SG
+ἀμβλυωπία N;GEN(DU)	μβλυωπία N;GEN(DU) μ
+ἀμβλυωπία N;GEN(PL)	μβλυωπία N;GEN(PL)f;GE
+ἀμβλυωπία N;GEN(SG)	μβλυωπία N;GEN(SG)F;GE
+ἀμβλυωπία N;NOM(DU)	μβλυωπία N;NOM(DU)aμ
+ἀμβλυωπία N;NOM(PL)	μβλυωπία N;NOM(PL)age 
+ἀμβλυωπία N;NOM(SG)	μβλυωπία N;NOM(SG)μβ
+ἀμβλυωπία N;VOC(DU)	μβλυωπία N;VOC(DU)ft;V
+ἀμβλυωπία N;VOC(PL)	μβλυωπία N;VOC(PL)f;VO
+ἀμβλυωπία N;VOC(SG)	μβλυωπία N;VOC(SG)f;VO
+ἀναστροφή N;ACC(DU)	λεκτρική με ανασ
+ἀναστροφή N;ACC(PL)	αιμονομαδική Ν;AC
+ἀναστροφή N;ACC(SG)	λεκτική με αναστ
+ἀναστροφή N;DAT(DU)	λογική Πολιτισμ
+ἀναστροφή N;DAT(PL)	λογικά με τα μάθ
+ἀναστροφή N;DAT(SG)	λας Πολιτεία Πολ
+ἀναστροφή N;GEN(DU)	αναστολή N;GEN(DU)FAN(
+ἀναστροφή N;GEN(PL)	λας Παρατηρήσει
+ἀναστροφή N;GEN(SG)	λας Πολιτισμός Π
+ἀναστροφή N;NOM(DU)	λέξεις με λέξεις
+ἀναστροφή N;NOM(PL)	ορια Πολιτισμού 
+ἀναστροφή N;NOM(SG)	λογισμός Πολιτι
+ἀναστροφή N;VOC(DU)	λογιστής για την
+ἀναστροφή N;VOC(PL)	αναστρώνοντας μ
+ἀναστροφή N;VOC(SG)	αναστρώνοντας ε
+ἀντιστοιχία N;ACC(DU)	μεταξύ των κυβερ
+ἀντιστοιχία N;ACC(PL)	μεταλλεύμα N;ACC(PL)
+ἀντιστοιχία N;ACC(SG)	μεταξύ των κυκλώ
+ἀντιστοιχία N;DAT(DU)	μεταξύ των κυβερ
+ἀντιστοιχία N;DAT(PL)	μένα Ν;DAT(PL)f(PL)f(PL)f
+ἀντιστοιχία N;DAT(SG)	μένη με την αντι
+ἀντιστοιχία N;GEN(DU)	μεταξύ των κρατώ
+ἀντιστοιχία N;GEN(PL)	ντελικάτα N;GEN(PL)f
+ἀντιστοιχία N;GEN(SG)	μεταλλική γενετ
+ἀντιστοιχία N;NOM(DU)	ντεπιστήμη N;NOM(DU)
+ἀντιστοιχία N;NOM(PL)	ντελικάτα Ν;Νεοφ
+ἀντιστοιχία N;NOM(SG)	ντιστοιχία N;NOM(SG)
+ἀντιστοιχία N;VOC(DU)	ντεπιστήμη N;VOC(DU)
+ἀντιστοιχία N;VOC(PL)	νανθράκων N;VOC(PL)f(
+ἀντιστοιχία N;VOC(SG)	μεταλλική Ν;VOC(SG)f
+ἀξίνη N;ACC(DU)	ἀξίνη N;ACC(DU)F(ἀἀ
+ἀξίνη N;ACC(PL)	ἀἀξίνη N;ACC(PL)acc(PL
+ἀξίνη N;ACC(SG)	ἀἀἀἀἀἀἀἀἀἀ
+ἀξίνη N;DAT(DU)	η N;DAT(DU)μεἀξίνη N;
+ἀξίνη N;DAT(PL)	ενζουλίνη ΝΟΟΟΟ
+ἀξίνη N;DAT(SG)	λινολεννάλινη Ν
+ἀξίνη N;GEN(DU)	η N;GEN(DU)fἀξίνη N;GEN
+ἀξίνη N;GEN(PL)	ί Ν;GEN(PL)fί ἀξίνη
+ἀξίνη N;GEN(SG)	ἀξίνη Ν;GEN(SG)fἀἀ
+ἀξίνη N;NOM(DU)	η N;NOM(ξίνη N;NOM(ξίν
+ἀξίνη N;NOM(PL)	ενη Ν;ΟΜΕΝΗ Ο;ΟΜΕ
+ἀξίνη N;NOM(SG)	η για η για για γ
+ἀξίνη N;VOC(DU)	ἀξίνη N;VOC(DU)DU(ἀξ
+ἀξίνη N;VOC(PL)	(PL)aB(PL)aB(PL)aB(PL)aB(PL)aB
+ἀξίνη N;VOC(SG)	ἀξίνη Νοἀξίνη Ν
+ἀρχισυνάγωγος N;ACC(DU)	συνάγωγος N;ACC(DU)fo
+ἀρχισυνάγωγος N;ACC(PL)	συνάγωγος N;ACC(PL)fo
+ἀρχισυνάγωγος N;ACC(SG)	συνάγωγος N;ACC(SG)fo
+ἀρχισυνάγωγος N;DAT(DU)	συνάγωγος N;DAT(DU)fo
+ἀρχισυνάγωγος N;DAT(PL)	ισυνάγωγος N;DAT(PL)
+ἀρχισυνάγωγος N;DAT(SG)	συνάγωγος N;DAT(SG)fo
+ἀρχισυνάγωγος N;GEN(DU)	αρχισυνάγωγος N;G
+ἀρχισυνάγωγος N;GEN(PL)	συνάγωγος N;GEN(PL)fo
+ἀρχισυνάγωγος N;GEN(SG)	συνάγωγος N;GEN(SG)α
+ἀρχισυνάγωγος N;NOM(DU)	συνάγωγος N;NOM(DU)fo
+ἀρχισυνάγωγος N;NOM(PL)	συνάγωγος N;Συνά
+ἀρχισυνάγωγος N;NOM(SG)	ισυνάγωγος N;NOM(SG)
+ἀρχισυνάγωγος N;VOC(DU)	συνάγωγος N;VOC(DU)fo
+ἀρχισυνάγωγος N;VOC(PL)	συνάγωγος N;VOC(PL)y 
+ἀρχισυνάγωγος N;VOC(SG)	συνάγωγος N;VOC(SG)f;
+ἄφωνος ADJ;ACC(PL;FEM)	μένος μένος μένο
+ἄφωνος ADJ;ACC(PL;MASC)	μένος ADJ;ACC(PL;MASC)inf
+ἄφωνος ADJ;ACC(PL;NEUT)	μένος ADJ;ACC(PL;NEUT)F(P
+ἄφωνος ADJ;ACC(SG;FEM)	μένος ADJ;ACC(SG;FEM)fem 
+ἄφωνος ADJ;ACC(SG;NEUT)	νομικός και νομί
+ἄφωνος ADJ;DAT(DU;FEM)	νύμφος ADJ;DAT(DU;FEM)FE
+ἄφωνος ADJ;DAT(DU;MASC)	ν εντελώς εντελώ
+ἄφωνος ADJ;DAT(DU;NEUT)	ν εν εν εν εν εν ε
+ἄφωνος ADJ;DAT(PL;FEM)	νός και με μεταγ
+ἄφωνος ADJ;DAT(PL;MASC)	φωνήσεις ADJ;DAT(PL;MA
+ἄφωνος ADJ;DAT(PL;NEUT)	νοείδος ADJ;DAT(PL;NEUT
+ἄφωνος ADJ;DAT(SG;FEM)	νοείδος ADJ;DAT(SG;FEM)
+ἄφωνος ADJ;DAT(SG;MASC)	μένος 1ος και μέν
+ἄφωνος ADJ;DAT(SG;NEUT)	νοείτων ADJ;DAT(SG;NEUT
+ἄφωνος ADJ;GEN(DU;FEM)	ν εν εν εν εν εν ε
+ἄφωνος ADJ;GEN(PL;FEM)	του απλού απλού 
+ἄφωνος ADJ;GEN(PL;MASC)	φωνήσεις ADJ;GEN(PL;MA
+ἄφωνος ADJ;GEN(PL;NEUT)	νοείδουσα ADJ;GEN(PL;
+ἄφωνος ADJ;GEN(SG;FEM)	μένος ADJ;GEN(SG;FEM)fem 
+ἄφωνος ADJ;GEN(SG;MASC)	φωνήσεις ADJ;GEN(SG;MA
+ἄφωνος ADJ;NOM(DU;MASC)	ν εν εν εν εν εν ε
+ἄφωνος ADJ;NOM(PL;FEM)	μένος ή μένος μέ
+ἄφωνος ADJ;NOM(PL;MASC)	νοείδος ADJ;NOM(PL;MASC
+ἄφωνος ADJ;NOM(PL;NEUT)	νοείδουσα ενδοε
+ἄφωνος ADJ;NOM(SG;FEM)	μένος μένος μένο
+ἄφωνος ADJ;NOM(SG;MASC)	οι μέσοι και μεσ
+ἄφωνος ADJ;VOC(DU;FEM)	νόμος ADJ;VOC(DU;FEM)FEM 
+ἄφωνος ADJ;VOC(DU;MASC)	οι εν εν εν εν εν 
+ἄφωνος ADJ;VOC(DU;NEUT)	ν είναι εν είναι 
+ἄφωνος ADJ;VOC(PL;MASC)	νύμφος ADJ;VOC(PL;MASC)F
+ἄφωνος ADJ;VOC(PL;NEUT)	νοείδουσα ADJ;VOC(PL;
+ἄφωνος ADJ;VOC(SG;MASC)	νοημένος ADJ;VOC(SG;MA
+ἄφωνος ADJ;VOC(SG;NEUT)	νοείδος ADJ;VOC(SG;NEUT
+Ἀβδηρίτης N;ACC(DU)	οικιώτης Ν;ACC(DU)FAC
+Ἀβδηρίτης N;ACC(PL)	οικονόμος N;ACC(PL)fa
+Ἀβδηρίτης N;ACC(SG)	οικιώτης και μετ
+Ἀβδηρίτης N;DAT(DU)	ομηρικός N;DAT(DU)AT(D
+Ἀβδηρίτης N;DAT(PL)	οικονόμος N;DAT(PL)y 
+Ἀβδηρίτης N;DAT(SG)	ομηρίτης N;DAT(SG)Αβ
+Ἀβδηρίτης N;GEN(DU)	νομικός N;GEN(DU)FA(DU)
+Ἀβδηρίτης N;GEN(PL)	οικονόμος N;GEN(PL)fo
+Ἀβδηρίτης N;GEN(SG)	οικονομικός N;GEN(S
+Ἀβδηρίτης N;NOM(DU)	 Παπαδόπουλος N;NO
+Ἀβδηρίτης N;NOM(PL)	ομηρικός N;NOM(PL)y;NO
+Ἀβδηρίτης N;NOM(SG)	εκδοτικός και εκ
+Ἀβδηρίτης N;VOC(DU)	ν εν εν εν εν εν ε
+Ἀβδηρίτης N;VOC(PL)	ομηρικός N;VOC(PL)fami
+Ἀβδηρίτης N;VOC(SG)	οικιώτης N;VOC(SG)FE(S
+Ἀσεάτης N;ACC(DU)	εάτης N;ACC(DU)FACC(DU)FA
+Ἀσεάτης N;ACC(PL)	εάτης N;ACC(PL)f;ACC(PL)f
+Ἀσεάτης N;ACC(SG)	εάτης N;ACC(SG)ffffffffff
+Ἀσεάτης N;DAT(DU)	εάτης N;DAT(DU)AT(DU)AT(D
+Ἀσεάτης N;DAT(PL)	εάτης N;DAT(PL)y εάτη
+Ἀσεάτης N;DAT(SG)	εάτης N;DAT(SG)εάτης
+Ἀσεάτης N;GEN(PL)	είδος N;GEN(PL)flower N;G
+Ἀσεάτης N;GEN(SG)	εάτης N;GEN(SG)fac(s)fac(
+Ἀσεάτης N;NOM(DU)	εάτης N;NOM(DU) εεάτ
+Ἀσεάτης N;NOM(PL)	εάτης N;NOM(PL)and(PL)and
+Ἀσεάτης N;NOM(SG)	εάτης N;Νεκτάριο
+Ἀσεάτης N;VOC(DU)	εάτης N;VOC(DU)...
+Μελ
+Ἀσεάτης N;VOC(PL)	;VOC(PL)j;VOC(PL)j;VOC(PL)j;VO
+Ἀσεάτης N;VOC(SG)	εάτης N;VOC(SG)false acti
+ἐμπρακτικός ADJ;ACC(DU;FEM)	 Εμπρακτικός ADJ;AC
+ἐμπρακτικός ADJ;ACC(DU;MASC)	μπρακτικός ADJ;ACC(D
+ἐμπρακτικός ADJ;ACC(DU;NEUT)	μπρακτικός ADJ;ACC(D
+ἐμπρακτικός ADJ;ACC(PL;FEM)	 εμπρακτικός ADJ;AC
+ἐμπρακτικός ADJ;ACC(PL;MASC)	μπρακτικός ADJ;ACC(P
+ἐμπρακτικός ADJ;ACC(PL;NEUT)	εμπρακτικός ADJ;ACC
+ἐμπρακτικός ADJ;ACC(SG;FEM)	μπρακτικός ADJ;ACC(S
+ἐμπρακτικός ADJ;ACC(SG;MASC)	μπρακτικός ADJ;ACC(S
+ἐμπρακτικός ADJ;DAT(DU;MASC)	μπρακτικός ADJ;DAT(D
+ἐμπρακτικός ADJ;DAT(DU;NEUT)	μπρακτικός ADJ;DAT(D
+ἐμπρακτικός ADJ;DAT(SG;FEM)	μπρακτικός ADJ;DAT(S
+ἐμπρακτικός ADJ;DAT(SG;MASC)	μπρακτικός ADJ;DAT(S
+ἐμπρακτικός ADJ;DAT(SG;NEUT)	μπρακτικός ADJ;DAT(S
+ἐμπρακτικός ADJ;GEN(DU;FEM)	μπρακτικός ADJ;GEN(D
+ἐμπρακτικός ADJ;GEN(DU;MASC)	μπρακτικός ADJ;GEN(D
+ἐμπρακτικός ADJ;GEN(DU;NEUT)	μπρακτικός ADJ;GEN(D
+ἐμπρακτικός ADJ;GEN(PL;FEM)	μπρακτικός ADJ;GEN(P
+ἐμπρακτικός ADJ;GEN(PL;MASC)	μπρακτικός ADJ;GEN(P
+ἐμπρακτικός ADJ;GEN(SG;MASC)	μπρακτικός ADJ;GEN(S
+ἐμπρακτικός ADJ;GEN(SG;NEUT)	μπρακτικός ADJ;GEN(S
+ἐμπρακτικός ADJ;NOM(DU;FEM)	μπρακτικός ADJ;NOM(D
+ἐμπρακτικός ADJ;NOM(DU;MASC)	μπρακτικός ADJ;NOM(D
+ἐμπρακτικός ADJ;NOM(PL;FEM)	λέξεις (1) Εμπρακ
+ἐμπρακτικός ADJ;NOM(PL;MASC)	μπρακτικός ADJ;NOM(P
+ἐμπρακτικός ADJ;NOM(PL;NEUT)	μπρακτικός ADJ;NOM(P
+ἐμπρακτικός ADJ;NOM(SG;FEM)	λέξεις εμπρακτι
+ἐμπρακτικός ADJ;VOC(DU;FEM)	μπρακτικός ADJ;VOC(D
+ἐμπρακτικός ADJ;VOC(DU;MASC)	μπρακτικός ADJ;VOC(D
+ἐμπρακτικός ADJ;VOC(DU;NEUT)	μπρακτικός ADJ;VOC(D
+ἐμπρακτικός ADJ;VOC(PL;MASC)	μπρακτικός ADJ;VOC(P
+ἐμπρακτικός ADJ;VOC(PL;NEUT)	μπρακτικός ADJ;VOC(P
+ἐμπρακτικός ADJ;VOC(SG;MASC)	μπρακτικός ADJ;VOC(S
+ἐμπρακτικός ADJ;VOC(SG;NEUT)	λέξεις εμπρακτι
+ἐξομολογητικός ADJ;ACC(DU;MASC)	ομολογητικός ADJ;A
+ἐξομολογητικός ADJ;ACC(DU;NEUT)	ικός ADJ;ACC(DU;NEUT)F;ACC
+ἐξομολογητικός ADJ;ACC(PL;MASC)	ομολογητικός ADJ;A
+ἐξομολογητικός ADJ;ACC(PL;NEUT)	ομολογητικός ADJ;A
+ἐξομολογητικός ADJ;ACC(SG;FEM)	λογής ADJ;ACC(SG;FEM)fem 
+ἐξομολογητικός ADJ;ACC(SG;MASC)	ομολογητικός ADJ;A
+ἐξομολογητικός ADJ;DAT(DU;MASC)	ομολογητικός ADJ;D
+ἐξομολογητικός ADJ;DAT(DU;NEUT)	ος ADJ;DAT(DU;NEUT)F(DU;NEUT
+ἐξομολογητικός ADJ;DAT(PL;FEM)	λησμονησίος ADJ;DAT
+ἐξομολογητικός ADJ;DAT(PL;MASC)	λησμονησίος ADJ;DAT
+ἐξομολογητικός ADJ;DAT(PL;NEUT)	λησμονησία ADJ;DAT(P
+ἐξομολογητικός ADJ;DAT(SG;FEM)	λημνής ADJ;DAT(SG;FEM)fe
+ἐξομολογητικός ADJ;DAT(SG;MASC)	λησμονησησησηση
+ἐξομολογητικός ADJ;DAT(SG;NEUT)	λησμονηση ADJ;DAT(SG;
+ἐξομολογητικός ADJ;GEN(DU;MASC)	ομολογητικός ADJ;G
+ἐξομολογητικός ADJ;GEN(DU;NEUT)	λησμονηση ADJ;GEN(DU;
+ἐξομολογητικός ADJ;GEN(PL;MASC)	ομολογητικός ADJ;G
+ἐξομολογητικός ADJ;GEN(PL;NEUT)	λησμονησίος ADJ;GEN
+ἐξομολογητικός ADJ;GEN(SG;FEM)	ομολογητικός ADJ;G
+ἐξομολογητικός ADJ;GEN(SG;MASC)	ομολογητικός ADJ;G
+ἐξομολογητικός ADJ;NOM(DU;FEM)	λησμονητικός ADJ;N
+ἐξομολογητικός ADJ;NOM(DU;MASC)	ομολογητικός ADJ;N
+ἐξομολογητικός ADJ;NOM(DU;NEUT)	ομολογητικός ADJ;N
+ἐξομολογητικός ADJ;NOM(PL;FEM)	ομολογητικός ADJ;N
+ἐξομολογητικός ADJ;NOM(PL;NEUT)	ομολογητικός ADJ;N
+ἐξομολογητικός ADJ;NOM(SG;NEUT)	λησμονησίος ADJ;NOM
+ἐξομολογητικός ADJ;VOC(DU;FEM)	λησμονηση ADJ;VOC(DU;
+ἐξομολογητικός ADJ;VOC(DU;MASC)	ομολογητικός ADJ;V
+ἐξομολογητικός ADJ;VOC(PL;FEM)	ομολογητικός ADJ;V
+ἐξομολογητικός ADJ;VOC(PL;MASC)	ομολογητικός ADJ;V
+ἐξομολογητικός ADJ;VOC(SG;FEM)	ομολογητικός ADJ;V
+ἐξομολογητικός ADJ;VOC(SG;MASC)	λησμονησίος ADJ;VOC
+ἐξομολογητικός ADJ;VOC(SG;NEUT)	ομολογητικός ADJ;V
+Ἑλληνικός ADJ;ACC(DU;FEM)	λληνικός ADJ;ACC(DU;FE
+Ἑλληνικός ADJ;ACC(DU;NEUT)	ληνικός ADJ;ACC(DU;NEUT
+Ἑλληνικός ADJ;ACC(PL;FEM)	λησιμοποιημένος
+Ἑλληνικός ADJ;ACC(PL;MASC)	λληνικός ADJ;ACC(PL;MA
+Ἑλληνικός ADJ;ACC(SG;MASC)	λληνικός ADJ;ACC(SG;MA
+Ἑλληνικός ADJ;ACC(SG;NEUT)	λληνικός ADJ;ACC(SG;NE
+Ἑλληνικός ADJ;DAT(DU;FEM)	ληνικός ADJ;DAT(DU;FEM)
+Ἑλληνικός ADJ;DAT(DU;MASC)	ληνικός ADJ;DAT(DU;MASC
+Ἑλληνικός ADJ;DAT(DU;NEUT)	ληνικός ADJ;DAT(DU;NEUT
+Ἑλληνικός ADJ;DAT(PL;FEM)	ληνικός ADJ;DAT(PL;FEM)
+Ἑλληνικός ADJ;DAT(SG;NEUT)	λληνικός ADJ;DAT(SG;NE
+Ἑλληνικός ADJ;GEN(DU;FEM)	ληνικός ADJ;GEN(DU;FEM)
+Ἑλληνικός ADJ;GEN(DU;MASC)	λληνικός ADJ;GEN(DU;MA
+Ἑλληνικός ADJ;GEN(DU;NEUT)	ληνικός ADJ;GEN(DU;NEUT
+Ἑλληνικός ADJ;GEN(PL;FEM)	λησιμικός ADJ;GEN(PL;
+Ἑλληνικός ADJ;GEN(PL;MASC)	λληνικός ADJ;GEN(PL;MA
+Ἑλληνικός ADJ;GEN(PL;NEUT)	λληνικός ADJ;GEN(PL;NE
+Ἑλληνικός ADJ;GEN(SG;MASC)	λληνικός ADJ;GEN(SG;MA
+Ἑλληνικός ADJ;GEN(SG;NEUT)	ληνικός ADJ;GEN(SG;NEUT
+Ἑλληνικός ADJ;NOM(DU;FEM)	λησιμοποιός ADJ;NOM
+Ἑλληνικός ADJ;NOM(DU;MASC)	ληνικός ADJ;NOM(DU;MASC
+Ἑλληνικός ADJ;NOM(DU;NEUT)	λησιμος ADJ;NOM(DU;NEUT
+Ἑλληνικός ADJ;NOM(PL;FEM)	ληνικός ADJ;NOM(PL;FEM)
+Ἑλληνικός ADJ;NOM(PL;MASC)	ληνικός ADJ;NOM(PL;MASC
+Ἑλληνικός ADJ;NOM(PL;NEUT)	ληνικός ADJ;NOM(PL;NEUT
+Ἑλληνικός ADJ;NOM(SG;FEM)	ληνικός ADJ;NOM(SG;FEM)
+Ἑλληνικός ADJ;NOM(SG;MASC)	ληνικός ADJ;NOM(SG;MASC
+Ἑλληνικός ADJ;NOM(SG;NEUT)	ληνικός ADJ;NOM(SG;NEUT
+Ἑλληνικός ADJ;VOC(DU;FEM)	λληνικός ADJ;VOC(DU;FE
+Ἑλληνικός ADJ;VOC(DU;MASC)	ληνικός ADJ;VOC(DU;MASC
+Ἑλληνικός ADJ;VOC(DU;NEUT)	ληνικός ADJ;VOC(DU;NEUT
+Ἑλληνικός ADJ;VOC(PL;NEUT)	ληνικός ADJ;VOC(PL;NEUT
+Ἑλληνικός ADJ;VOC(SG;FEM)	ληνικός ADJ;VOC(SG;FEM)
+Ἔλυμος N;ACC(DU)	λυμος N;ACC(DU)F(RU)F(RU)
+Ἔλυμος N;ACC(PL)	λυμος N;ACC(PL)f;ACC(PL)f
+Ἔλυμος N;ACC(SG)	λυμος N;ACC(SG)F;ACC(SG)F
+Ἔλυμος N;DAT(DU)	λύμος N;DAT(DU)AT(DU)AT(D
+Ἔλυμος N;DAT(PL)	ιδίοι Ν;DAT(PL)ιδίο
+Ἔλυμος N;DAT(SG)	λυμος N;DAT(SG)λυμος
+Ἔλυμος N;GEN(DU)	λυμος N;GEN(DU)FU;ΛΥΜ
+Ἔλυμος N;GEN(PL)	λυμος N;GEN(PL)f;GEN(PL)f
+Ἔλυμος N;GEN(SG)	λυμος N;GEN(SG)Λυμος
+Ἔλυμος N;NOM(DU)	λυμος N;NOM(DU)F(DU)F(DU)
+Ἔλυμος N;NOM(PL)	λυμος N;Μεταλυμέ
+Ἔλυμος N;NOM(SG)	λυμος N;Διαβόλος 
+Ἔλυμος N;VOC(DU)	νουμένουμενος N;V
+Ἔλυμος N;VOC(PL)	;VOC(PL)y(PL)y(PL)y(PL)y(PL)y(
+Ἔλυμος N;VOC(SG)	λυμος N;VOC(SG)VOC(SG)VOC
+ἡστικός ADJ;ACC(DU;MASC)	λατικός ADJ;ACC(DU;MASC
+ἡστικός ADJ;ACC(PL;FEM)	λέξη Διαθήκη Δια
+ἡστικός ADJ;ACC(PL;NEUT)	λέγμα ADJ;ACC(PL;NEUT)F;N
+ἡστικός ADJ;ACC(SG;FEM)	λεκτικός ADJ;ACC(SG;FE
+ἡστικός ADJ;ACC(SG;MASC)	θετικός ADJ;ACC(SG;MASC
+ἡστικός ADJ;ACC(SG;NEUT)	ικός ADJ;ACC(SG;NEUT)Fικ
+ἡστικός ADJ;DAT(DU;FEM)	λατικός ADJ;DAT(DU;FEM)
+ἡστικός ADJ;DAT(DU;MASC)	στικός ADJ;DAT(DU;MASC)f
+ἡστικός ADJ;DAT(DU;NEUT)	ικός ADJ;DAT(DU;NEUT)F;NEU
+ἡστικός ADJ;DAT(PL;FEM)	λατικός ADJ;DAT(PL;FEM)
+ἡστικός ADJ;DAT(PL;MASC)	στικός ADJ;DAT(PL;MASC)f
+ἡστικός ADJ;DAT(PL;NEUT)	λατικός ADJ;DAT(PL;NEUT
+ἡστικός ADJ;DAT(SG;FEM)	λιγος ADJ;DAT(SG;FEM)fem 
+ἡστικός ADJ;DAT(SG;NEUT)	ικός ADJ;DAT(SG;NEUT)F;NEU
+ἡστικός ADJ;GEN(DU;MASC)	ικός ADJ;GEN(DU;MASC)forι
+ἡστικός ADJ;GEN(DU;NEUT)	ικός ADJ;GEN(DU;NEUT)F ADJ
+ἡστικός ADJ;GEN(PL;FEM)	λατικός ADJ;GEN(PL;FEM)
+ἡστικός ADJ;GEN(PL;NEUT)	λατικός ADJ;GEN(PL;NEUT
+ἡστικός ADJ;GEN(SG;MASC)	ικός ADJ;GEN(SG;MASC)forι
+ἡστικός ADJ;NOM(DU;FEM)	λείψιμος ADJ;NOM(DU;FE
+ἡστικός ADJ;NOM(DU;MASC)	στικός ADJ;NOM(DU;MASC)F
+ἡστικός ADJ;NOM(DU;NEUT)	ικός ADJ;NOM(DU;NEUT)FALL 
+ἡστικός ADJ;NOM(PL;FEM)	λείψιμος ADJ;NOM(PL;FE
+ἡστικός ADJ;NOM(PL;MASC)	στικός ADJ;NOM(PL;MASC)f
+ἡστικός ADJ;NOM(PL;NEUT)	ικός ADJ;NOM(PL;NEUT)F;NEU
+ἡστικός ADJ;NOM(SG;FEM)	λατικός ADJ;NOM(SG;FEM)
+ἡστικός ADJ;NOM(SG;NEUT)	ικός ADJ;NOM(SG;NEUT)F;NEU
+ἡστικός ADJ;VOC(DU;MASC)	λατικός ADJ;VOC(DU;MASC
+ἡστικός ADJ;VOC(DU;NEUT)	ικός ADJ;VOC(DU;NEUT)F ADJ
+ἡστικός ADJ;VOC(PL;MASC)	στικός ADJ;VOC(PL;MASC)f
+ἡστικός ADJ;VOC(PL;NEUT)	λατικός ADJ;VOC(PL;NEUT
+ἡστικός ADJ;VOC(SG;MASC)	λατικός ADJ;VOC(SG;MASC
+ἡστικός ADJ;VOC(SG;NEUT)	ουσία ADJ;VOC(SG;NEUT)F(S
+Ἠπειρώτης N;ACC(DU)	ειρώτης N;ACC(DU)F;ACC(
+Ἠπειρώτης N;ACC(PL)	ειρώτης N;ACC(PL)y;ACC(
+Ἠπειρώτης N;ACC(SG)	ειρώτης N;ACC(SG)formal
+Ἠπειρώτης N;DAT(DU)	ειρώτης N;DAT(DU)ειρ
+Ἠπειρώτης N;DAT(PL)	ειρώτης N;DAT(PL)y;DAT(
+Ἠπειρώτης N;DAT(SG)	ειρώτης N;DAT(SG)ειρ
+Ἠπειρώτης N;GEN(DU)	ειρώτης N;GEN(DU)Fει
+Ἠπειρώτης N;GEN(PL)	ειρώτης N;GEN(PL)y ει
+Ἠπειρώτης N;GEN(SG)	ειρώτης N;GEN(SG)ειρ
+Ἠπειρώτης N;NOM(DU)	ειρώτης N;NOM(DU)yει
+Ἠπειρώτης N;NOM(PL)	ειρώτης N;Μελετο
+Ἠπειρώτης N;NOM(SG)	ειρώτης N;NOM(SG)J;NOM(
+Ἠπειρώτης N;VOC(DU)	ειρώτης N;VOC(DU)ID 100
+Ἠπειρώτης N;VOC(PL)	ειρώτης N;VOC(PL)yyyyyy
+Ἠπειρώτης N;VOC(SG)	οίμος Α΄ Λαμπρικ
+ὀνοματοποιία N;ACC(DU)	λησμόνηση Ν;ACC(DU)f
+ὀνοματοποιία N;ACC(PL)	λη Ν;ACC(PL)f(PL)f(PL)f(PL)
+ὀνοματοποιία N;ACC(SG)	είδη Ν;Πολιτική 
+ὀνοματοποιία N;DAT(DU)	ημέρα Παρασκευή 
+ὀνοματοποιία N;DAT(PL)	ομαδα Γερμανία Γ
+ὀνοματοποιία N;DAT(SG)	οματοποιία Νομα
+ὀνοματοποιία N;GEN(DU)	λημνή Ν;GEN(DU)forma Ν;
+ὀνοματοποιία N;GEN(PL)	λησμόνηση Ν;GEN(PL)f
+ὀνοματοποιία N;GEN(SG)	λια Ν N N N N N N N N N N 
+ὀνοματοποιία N;NOM(DU)	ημέρου Νοέμβριο
+ὀνοματοποιία N;NOM(PL)	ημέρα Νοεμβρίου 
+ὀνοματοποιία N;NOM(SG)	ομαλοποιία N;NOM(SG)
+ὀνοματοποιία N;VOC(DU)	ημέρα Παρασκευή 
+ὀνοματοποιία N;VOC(PL)	λογική γλώσσα γλ
+ὀνοματοποιία N;VOC(SG)	λογική Εντολογί
+ὀστοῦν N;ACC(DU)	 ἐν γαρ γαρ γαρ γ
+ὀστοῦν N;ACC(PL)	 ἡμῖοι γεννήσεω
+ὀστοῦν N;ACC(SG)	 ἡμῖν γεννήσεως
+ὀστοῦν N;DAT(DU)	 μέρους τῶν μέσα
+ὀστοῦν N;DAT(PL)	 ἐν παρὸς μέρου
+ὀστοῦν N;DAT(SG)	 ἐν γεννήσιον γε
+ὀστοῦν N;GEN(DU)	 ἐν βασίλιστιν β
+ὀστοῦν N;GEN(PL)	 ἐν καὶ ἐν καὶ 
+ὀστοῦν N;GEN(SG)	 ἐν παρὸς μετά 
+ὀστοῦν N;NOM(DU)	 ἐν καὶ ἐν καὶ 
+ὀστοῦν N;NOM(PL)	 ἐν εὐαγμένη γα
+ὀστοῦν N;NOM(SG)	 ἐν εὐσεΐν γε γε
+ὀστοῦν N;VOC(DU)	 ἐν καὶ εὐθύμιο
+ὀστοῦν N;VOC(PL)	 ἐν καὶ ἐν καὶ 
+ὀστοῦν N;VOC(SG)	 ἡμῖον καὶ ἡμῖ
+ὁμόγραφος ADJ;ACC(DU;FEM)	ομόγραφος ADJ;ACC(DU;
+ὁμόγραφος ADJ;ACC(DU;NEUT)	λας Αναγνώστη κα
+ὁμόγραφος ADJ;ACC(PL;MASC)	λατική γραμματε
+ὁμόγραφος ADJ;ACC(PL;NEUT)	λαβία Αναγνώστη 
+ὁμόγραφος ADJ;ACC(SG;MASC)	λαβος Αναλυτής Α
+ὁμόγραφος ADJ;ACC(SG;NEUT)	λαβία και ελληνι
+ὁμόγραφος ADJ;DAT(DU;FEM)	λαργός ADJ;DAT(DU;FEM)fe
+ὁμόγραφος ADJ;DAT(DU;MASC)	λαρισμός ADJ;DAT(DU;MA
+ὁμόγραφος ADJ;DAT(DU;NEUT)	λας Γλώσσα Γλώσσ
+ὁμόγραφος ADJ;DAT(PL;FEM)	λας ADJ;DAT(PL;FEM)fem γρ
+ὁμόγραφος ADJ;DAT(PL;MASC)	λας ADJ;DAT(PL;MASC)form(PL
+ὁμόγραφος ADJ;DAT(PL;NEUT)	λατινικά γλώσσα 
+ὁμόγραφος ADJ;DAT(SG;FEM)	λαβού Αναλυτικό 
+ὁμόγραφος ADJ;DAT(SG;MASC)	λατικού γλώσσας 
+ὁμόγραφος ADJ;GEN(DU;MASC)	λαράκι ADJ;GEN(DU;MASC)f
+ὁμόγραφος ADJ;GEN(DU;NEUT)	λαρισμένος λατι
+ὁμόγραφος ADJ;GEN(PL;FEM)	λατινομάθεια ADJ;G
+ὁμόγραφος ADJ;GEN(PL;NEUT)	λαρίων ADJ;GEN(PL;NEUT)f
+ὁμόγραφος ADJ;GEN(SG;FEM)	μόγρυπος ADJ;GEN(SG;FE
+ὁμόγραφος ADJ;GEN(SG;NEUT)	λας Αναλυτικό γλ
+ὁμόγραφος ADJ;NOM(DU;FEM)	λαβίτης Α΄ Α΄ Β΄ 
+ὁμόγραφος ADJ;NOM(DU;MASC)	λησμόνηση Γλώσσ
+ὁμόγραφος ADJ;NOM(DU;NEUT)	λας Αναγνώστης Α
+ὁμόγραφος ADJ;NOM(PL;MASC)	λησμόνηση γλώσσ
+ὁμόγραφος ADJ;NOM(SG;NEUT)	λης Αναγνώστριε
+ὁμόγραφος ADJ;VOC(DU;FEM)	ομόγραφος ADJ;VOC(DU;
+ὁμόγραφος ADJ;VOC(DU;MASC)	λας ΔΙΑΦΟΡΟΣ ΔΙΑ
+ὁμόγραφος ADJ;VOC(DU;NEUT)	ΡΟΗ ΤΕΛΕΙΟΤΗΤΑΣ 
+ὁμόγραφος ADJ;VOC(PL;FEM)	λατινομάγειος ADJ
+ὁμόγραφος ADJ;VOC(PL;MASC)	λατινομάγρα ADJ;VOC
+ὁμόγραφος ADJ;VOC(PL;NEUT)	λας Αναγνώστη Το
+ὁμόγραφος ADJ;VOC(SG;FEM)	λαβιάς νεολαίας 
+ὁμόγραφος ADJ;VOC(SG;MASC)	λας Αναλυτικό Λα
+ὅμιλος N;ACC(DU)	είος ΜΕΙΟΝ ΜΕΙΟΝ
+ὅμιλος N;ACC(PL)	είος Ν;Αναλυτής 
+ὅμιλος N;ACC(SG)	είδος Μείδος Μεί
+ὅμιλος N;DAT(DU)	μιλίος N;DAT(DU)AT(DU)AT
+ὅμιλος N;DAT(PL)	ος Ν;Ομάδα Ν;Ομάδ
+ὅμιλος N;DAT(SG)	είος N;DAT(SG)fαίοι N;
+ὅμιλος N;GEN(DU)	λος N;GEN(DU)FI(DU)FI(DU)FI
+ὅμιλος N;GEN(PL)	ιλος N;GEN(PL)f;GEN(PL)f;G
+ὅμιλος N;GEN(SG)	ιλος N;GEN(SG)ιλος N;G
+ὅμιλος N;NOM(DU)	λος N;Νόμιλος N;Νό
+ὅμιλος N;NOM(PL)	λος N;Νόμιλος N;Νό
+ὅμιλος N;NOM(SG)	λος N;Παραλίμνιο
+ὅμιλος N;VOC(DU)	είδος N;VOC(DU)ft(DU)ft(D
+ὅμιλος N;VOC(PL)	είδος Ν;VOC(PL)yομίλ
+ὅμιλος N;VOC(SG)	εκδοτικός Μετάλ
+ῥάδιξ N;ACC(DU)	ξ γεγείξ ε;εγείξ 
+ῥάδιξ N;ACC(PL)	ειξ Ν;ACC(PL)f;ACC(PL)f;AC
+ῥάδιξ N;ACC(SG)	ξ ε;εῥάδιξ ε;εῥά
+ῥάδιξ N;DAT(DU)	 Ν;DAT(DU)f;DAT(DU)f;DAT(DU)f
+ῥάδιξ N;DAT(PL)	ῥάδιξ Ν;DAT(PL)εῥά
+ῥάδιξ N;DAT(SG)	εῥάδιξ Ν;ΕΙΔΙΞ Ν
+ῥάδιξ N;GEN(DU)	ειξ Ν;ΕΣΕΙΞ ΓΕΝΑ
+ῥάδιξ N;GEN(PL)	;GEN(PL)f;GEN(PL)f;GEN(PL)f;GE
+ῥάδιξ N;GEN(SG)	 εγιξ εγιξ εγιξ ε
+ῥάδιξ N;NOM(DU)	εξ ε;οξ ε;οξ ε;οξ 
+ῥάδιξ N;NOM(PL)	;ΚΕΙΣΑΔΙΞ ε;ΚΕΙΣ
+ῥάδιξ N;NOM(SG)	ειξ ε;εγείον είο
+ῥάδιξ N;VOC(DU)	;VOC(DU)VOC(DU(VOCDU)VOCDU(VOC
+ῥάδιξ N;VOC(PL)	ῥάδιξ Ν;VOC(PL)f;VOC(PL
+ῥάδιξ N;VOC(SG)	;VOC(SG)VOC(SG)VOC(SG)VOC(SG)V
+ῥητίνη N;ACC(DU)	λακίνη N;ACC(DU)fλακ
+ῥητίνη N;ACC(PL)	λαβίνη N;ACC(PL)acc(PL)a
+ῥητίνη N;ACC(SG)	λακουλίνη N;ACC(SG)f;
+ῥητίνη N;DAT(DU)	ινη Ν;DAT(DU)νη Ν;DAT(D
+ῥητίνη N;DAT(PL)	λακουλίνη N;DAT(PL)ag
+ῥητίνη N;DAT(SG)	λαβίνη N;DAT(SG)f;λαβ
+ῥητίνη N;GEN(DU)	ητίνη N;GEN(DU)f;GEN(DU)f
+ῥητίνη N;GEN(PL)	α είδος είδους ε
+ῥητίνη N;GEN(SG)	ανθράκωση Παραγ
+ῥητίνη N;NOM(DU)	ητίνη N;NOM(DU)angelicali
+ῥητίνη N;NOM(PL)	ινη N;ΝΗΤΙΝΗ N;ΝΗΤ
+ῥητίνη N;NOM(SG)	ινη N;NOM(SG)ferment N;NOM(
+ῥητίνη N;VOC(DU)	λακούητίνη N;VOCλα
+ῥητίνη N;VOC(PL)	λακούλη Ν;VOC(PL)jλα
+ῥητίνη N;VOC(SG)	 Ν; 1 - 10 από 10 από 1
