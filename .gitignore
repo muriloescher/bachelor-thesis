@@ -24,3 +24,4 @@ code/.venv/
 *.pyd
 __pycache__/
 .vscode
+code/ByT5/*/checkpoint-3750/model.safetensors
