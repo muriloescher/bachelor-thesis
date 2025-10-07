@@ -998,4 +998,5 @@ Generate the inflected form for the lemma: 'yellow', according to the following 
 Generate the inflected form for the lemma: 'yellow', according to the following morphological descriptions: 'V;PST'		yellowed
 Generate the inflected form for the lemma: 'yellow', according to the following morphological descriptions: 'V;V.PTCP;PRS'		yellowing
 Generate the inflected form for the lemma: 'yellow', according to the following morphological descriptions: 'V;V.PTCP;PST'		yellowed
+
 Accuracy: 1.0000 (1000/1000)

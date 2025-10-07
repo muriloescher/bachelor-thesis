@@ -998,4 +998,5 @@ Generate the inflected form for the lemma: 'ჰქვია', according to the f
 Generate the inflected form for the lemma: 'ჰქვია', according to the following morphological descriptions: 'V;OPT;NOM(2,PL)'		გერქვათ
 Generate the inflected form for the lemma: 'ჰქვია', according to the following morphological descriptions: 'V;OPT;NOM(2,SG)'		გერქვას
 Generate the inflected form for the lemma: 'ჰქვია', according to the following morphological descriptions: 'V;OPT;NOM(3,SG)'		ერქვას
+
 Accuracy: 1.0000 (1000/1000)

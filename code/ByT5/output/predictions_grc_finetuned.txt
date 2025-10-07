@@ -998,4 +998,5 @@ Generate the inflected form for the lemma: 'ῥητίνη', according to the fol
 Generate the inflected form for the lemma: 'ῥητίνη', according to the following morphological descriptions: 'N;VOC(DU)'		ῥητῑ́νᾱ
 Generate the inflected form for the lemma: 'ῥητίνη', according to the following morphological descriptions: 'N;VOC(PL)'		ῥητῖναι
 Generate the inflected form for the lemma: 'ῥητίνη', according to the following morphological descriptions: 'N;VOC(SG)'		ῥητῑ́νη
+
 Accuracy: 1.0000 (1000/1000)

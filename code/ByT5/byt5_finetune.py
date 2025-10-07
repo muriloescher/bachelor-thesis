@@ -119,9 +119,17 @@ def preprocess(example, tokenizer):
 
 def train_and_predict_all():
     import torch
+    import random
+    import numpy as np
     from tqdm import tqdm
     from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, Seq2SeqTrainer, Seq2SeqTrainingArguments
     from datasets import Dataset
+    # Set fixed random seed for reproducibility
+    seed = 42
+    random.seed(seed)
+    np.random.seed(seed)
+    torch.manual_seed(seed)
+    torch.cuda.manual_seed_all(seed)
     # GPU check
     if not torch.cuda.is_available():
         print("CUDA is not available. Exiting.")
@@ -130,8 +138,6 @@ def train_and_predict_all():
     languages = [f.split('.')[0] for f in os.listdir(data_path) if f.endswith('.trn')]
     for lang in languages:
         print(f"\nProcessing language: {lang}")
-        if lang == "eng":
-            continue
         train_file = os.path.join(data_path, f"{lang}.trn")
         dev_file = os.path.join(data_path, f"{lang}.dev")
         test_file = os.path.join(data_path, f"{lang}.tst")
@@ -161,6 +167,7 @@ def train_and_predict_all():
             eval_steps=50,
             fp16=True,
             report_to=[],
+            seed=seed,
         )
 
         trainer = Seq2SeqTrainer(

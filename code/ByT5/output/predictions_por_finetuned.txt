@@ -998,4 +998,5 @@ Generate the inflected form for the lemma: 'optar', according to the following m
 Generate the inflected form for the lemma: 'polimerizar', according to the following morphological descriptions: 'V;3;PL;IND;FUT'		polimerizarão
 Generate the inflected form for the lemma: 'escalfar', according to the following morphological descriptions: 'V.PTCP;FEM;SG;PST'		escalfada
 Generate the inflected form for the lemma: 'instigar', according to the following morphological descriptions: 'V;3;SG;IND;PST;IPFV'		instigava
+
 Accuracy: 1.0000 (1000/1000)

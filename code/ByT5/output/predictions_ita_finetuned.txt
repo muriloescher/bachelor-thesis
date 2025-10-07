@@ -998,4 +998,5 @@ Generate the inflected form for the lemma: 'urtacchiare', according to the follo
 Generate the inflected form for the lemma: 'urtacchiare', according to the following morphological descriptions: 'V;SBJV;PRS;NOM(3,SG)'		urtacchi
 Generate the inflected form for the lemma: 'urtacchiare', according to the following morphological descriptions: 'V;SBJV;PST;NOM(2,PL)'		urtacchiaste
 Generate the inflected form for the lemma: 'urtacchiare', according to the following morphological descriptions: 'V;SBJV;PST;NOM(2,SG)'		urtacchiassi
+
 Accuracy: 1.0000 (1000/1000)
