@@ -1,0 +1,1001 @@
+prediction	target	loss	dist
+h n d o ³ n k o ³ h a ³	t o ³ n k ɔ ⁵ ³	1.8078482151031494	7
+h n d o ³ n k o ³ ʔ u ³	t o ³ n k o ʔ ³	1.1562047004699707	5
+h n d o ³ n k o ³ é n ⁵	t o ³ n k o ³	1.1350393295288086	6
+t o ³ n k o ³ h á ⁵ á ⁵	t o ³ n k ɔ ¹ ²	2.550840139389038	7
+t o ³ n k o ³ h â ³ ¹	t o ³ n k ô ³ ¹	0.8709321618080139	4
+t o ³ n k o ³ ʔ o ³	t o ³ n k ò ¹ o ʔ ³	1.8340750932693481	4
+m a ³ n d ɛ ³ h a ³	m a ³ n k ɔ ⁵ ³	2.2629475593566895	5
+m a ³ n d o ³ n k o ³ ʔ u ³	m a ³ n k o ʔ ³	1.5632489919662476	6
+ʔ ⁵ n d o ³ n k o ³ é n ⁵	ʔ ⁵ n k o ³	1.5774904489517212	7
+k o ³ n d ɛ ³ ⁴ h á ⁵ á ⁵	k o ³ n k ɔ ¹ ²	2.6239657402038574	9
+n k o ³ n d y o ³ h â ³ ¹	k o ³ n k ô ³ ¹	1.9035897254943848	7
+n k o ³ n d o ³ o ʔ ³	k o ³ n k ò ¹ o ʔ ³	2.2239997386932373	4
+k i ³ n d o ³ n k o ³ h a ³	n ³ n k ɔ ⁵ ³	3.765502452850342	9
+k i ³ n d o ³ n k o ³ ʔ u ³	n ³ n k o ʔ ³	3.135298728942871	7
+k i ³ n d o n ³ é n ⁵	n ³ n k o ³	3.196403741836548	7
+k i ³ n d o ³ n k o ³ h á ⁵ á ⁵	n ³ n k ɔ ¹ ²	4.1528801918029785	12
+k i ³ n d o ³ n k o ³ h â ³ ¹	n ³ n k ô ³ ¹	2.261577606201172	9
+k i ³ n d o ³ n k o ³ ʔ o ³	n ³ n k ò ¹ o ʔ ³	2.6435294151306152	9
+n ⁵ n d o ³ n k o ³ h a ³	n ⁵ n d o ³ n k ɔ ⁵ ³	1.4889405965805054	4
+n ⁵ n d o ³ n k o ³ ʔ u ³	n ⁵ n d o ³ n k o ʔ ³	0.6516600847244263	2
+n ⁵ n d o n ³ é n ⁵	n ⁵ n d o ³ n k o ³	0.9320245385169983	5
+n ⁵ n d o ³ n k o ³ h á ⁵ á ⁵	n ⁵ n d o ³ n k ɔ ¹ ²	1.7353039979934692	7
+n ⁵ n d o ³ n k o ³ h â ³ ¹	n ⁵ n d o ³ n k ô ³ ¹	0.6486442685127258	4
+n ⁵ n d o ³ n k o ³ ʔ o ³	n ⁵ n d o ³ n k ò ¹ o ʔ ³	1.1949142217636108	4
+t o ³ n d o ³ n k o ³ h a ³	t o ³ n k ɔ ⁵ ³	2.3658132553100586	8
+t o ³ n d o ³ n k o ³ ʔ u ³	t o ³ n k o ʔ ³	1.7250211238861084	6
+t o ³ n d o ³ n k o ³ é n ⁵	t o ³ n k o ³	1.6814459562301636	7
+t o ³ n d o ³ n k o ³ h á ⁵ á ⁵	t o ³ n k ɔ ¹ ²	2.852809429168701	11
+t o ³ n d o ³ n k o ³ h â ³ ¹	t o ³ n k ô ³ ¹	1.2525054216384888	8
+t o ³ n d o ³ n k o ³ ʔ o ³	t o ³ n k ò ¹ o ʔ ³	2.0313973426818848	7
+n ⁵ n g o ³ n d o ³ n k o ³ h a ³	n ⁵ n g o ³ n k ɔ ⁵ ³	1.8079038858413696	8
+n ⁵ n g o ³ n d o ³ n k o ³ ʔ u ³	n ⁵ n g o ³ n k o ʔ ³	1.7045644521713257	6
+n ⁵ n g o ³ n d o ³ n k o ³ é n ⁵	n ⁵ n g o ³ n k o ³	1.3048549890518188	7
+n ⁵ n g o ³ n d o ³ n k o ³ h á ⁵ á ⁵	n ⁵ n g o ³ n k ɔ ¹ ²	2.3331363201141357	11
+n ⁵ n g o ³ n d o ³ n k o ³ h â ³ ¹	n ⁵ n g o ³ n k ô ³ ¹	1.2320363521575928	8
+n ⁵ n g o ³ n d o ³ n k o ³ ʔ o ³	n ⁵ n g o ³ n k ò ¹ o ʔ ³	2.0434975624084473	7
+h n d ê ³ ¹ a ³	t o à n ¹ h a ³	0.9666058421134949	6
+h n d ʔ o à ʔ ¹	t o à n ¹ ʔ u ³	1.5420067310333252	8
+h n d ʔ o à ¹ h ú ⁵	t o à n ¹ é n ⁵	0.8468411564826965	7
+h n d ʔ o a ³ ⁴ á ⁵	t o à n ¹ h á ⁵ á ⁵	0.4440065324306488	8
+h n d ʔ o â ³ ¹	t o à n ¹ h â ³ ¹	0.6484643220901489	6
+h n d ʔ o a ³ o ʔ ³	t o à n ¹ ʔ o ³	0.6171209216117859	8
+m a ³ n d ʔ o â ³ ¹ a ³	k o ³ t o à n ¹ h a ³	0.8068572878837585	8
+m a ³ n d ʔ o à ʔ ¹	k o ³ t o à n ¹ ʔ u ³	1.3550602197647095	9
+ʔ ⁵ n d ʔ o à ¹ h ú ⁵	k o ³ t o à n ¹ é n ⁵	0.7899406552314758	8
+k o ³ n d ʔ o a ³ ⁴ á ⁵	k o ³ t o à n ¹ h á ⁵ á ⁵	0.5417741537094116	8
+k o ³ n d ʔ o â ³ ¹	k o ³ t o à n ¹ h â ³ ¹	0.6461547017097473	6
+k o ³ n d ʔ o a ³ o ʔ ³	k o ³ t o à n ¹ ʔ o ³	0.23354767262935638	7
+k i ³ n d ʔ o â ³ ¹ a ³	k i ³ t o à n ¹ h a ³	0.23723678290843964	6
+k i ³ n d ʔ o à ʔ ¹	k i ³ t o à n ¹ ʔ u ³	0.737793505191803	7
+k i ³ n d ʔ o à ¹ h ú ⁵	k i ³ t o à n ¹ é n ⁵	0.19969980418682098	6
+k i ³ n d ʔ o a ³ ⁴ á ⁵	k i ³ t o à n ¹ h á ⁵ á ⁵	0.6070305705070496	8
+k i ³ n d ʔ o â ³ ¹	k i ³ t o à n ¹ h â ³ ¹	0.6430769562721252	6
+k i ³ n d ʔ o a ³ o ʔ ³	k i ³ t o à n ¹ ʔ o ³	0.1642817109823227	7
+n ⁵ n d ʔ o â ³ ¹ a ³	n ⁵ n d o à n ¹ h a ³	1.1328054666519165	4
+n ⁵ n d ʔ o à ʔ ¹	n ⁵ n d o à n ¹ ʔ u ³	1.5551929473876953	5
+n ⁵ n d ʔ o à ¹ é n ⁵	n ⁵ n d o à n ¹ é n ⁵	0.7552943825721741	2
+n ⁵ n d ʔ o a ³ ⁴ á ⁵	n ⁵ n d o à n ¹ h á ⁵ á ⁵	1.0428446531295776	7
+n ⁵ n d ʔ o â ³ ¹	n ⁵ n d o à n ¹ h â ³ ¹	0.8747349977493286	5
+n ⁵ n d ʔ o a ³ o ʔ ³	n ⁵ n d o à n ¹ ʔ o ³	0.9592916965484619	5
+t o ³ n d ʔ o â ³ ¹ a ³	t o ³ t o à n ¹ h a ³	0.3379683792591095	6
+t o ³ n d ʔ o à ʔ ¹	t o ³ t o à n ¹ ʔ u ³	0.7427508234977722	7
+t o ³ n d ʔ o à ¹ h ú ⁵	t o ³ t o à n ¹ é n ⁵	0.2880125939846039	6
+t o ³ n d ʔ o a ³ ⁴ á ⁵	t o ³ t o à n ¹ h á ⁵ á ⁵	0.6151583790779114	8
+t o ³ n d ʔ o â ³ ¹	t o ³ t o à n ¹ h â ³ ¹	0.7161248922348022	6
+t o ³ n d ʔ o a ³ o ʔ ³	t o ³ t o à n ¹ ʔ o ³	0.2662872076034546	7
+n ⁵ n g o ³ n d ʔ o â ³ ¹ a ³	n ⁵ n g o ³ t o à n ¹ h a ³	0.3116533160209656	6
+n ⁵ n g o ³ n d ʔ o à ʔ ¹	n ⁵ n g o ³ t o à n ¹ ʔ u ³	0.6657687425613403	7
+n ⁵ n g o ³ n d ʔ o à ¹	n ⁵ n g o ³ t o à n ¹ é n ⁵	0.25193899869918823	7
+n ⁵ n g o ³ n d ʔ o a ³ ⁴ á ⁵	n ⁵ n g o ³ t o à n ¹ h á ⁵ á ⁵	0.2521032392978668	8
+n ⁵ n g o ³ n d ʔ o â ³ ¹	n ⁵ n g o ³ t o à n ¹ h â ³ ¹	0.30103105306625366	6
+n ⁵ n g o ³ n d ʔ o a ³ o ʔ ³	n ⁵ n g o ³ t o à n ¹ ʔ o ³	0.31977471709251404	7
+h n d a ¹ ²	h n d ɔ ʔ ⁵ ³ ɔ ³	2.1375584602355957	6
+h n d à ʔ ¹	h n d ô ʔ ³ ¹	0.9160847067832947	2
+h n d o ³ n d ɛ ʔ ³	h n d o ʔ ³	0.28343817591667175	4
+h n d ʔ ɛ ³ ⁴	h n d ɔ ʔ ¹ ² ɔ ⁵	2.636251926422119	5
+h n d ʔ ê ³ ¹	h n d ô ʔ ³ ¹ ɔ ³	1.906691551208496	4
+h n d ʔ o ¹ ² o ʔ ³	h n d o ʔ ¹ ² o ʔ ³	1.0541175603866577	2
+m a ³ n ⁵ n d a ¹ ²	m a ³ n d ɔ ʔ ⁵ ³ ɔ ³	2.285804510116577	7
+m a ³ n ⁵ n d à ʔ ¹	m a ³ n d ô ʔ ³ ¹	1.4464038610458374	4
+ʔ ⁵ n d o ʔ ³	ʔ ⁵ n d o ʔ ³	0.046586714684963226	0
+k o ³ n d ʔ ɛ ³ ⁴	k o ³ h n d ɔ ʔ ¹ ² ɔ ⁵	2.546050548553467	6
+k o ³ n d ʔ ê ³ ¹	k o ³ h n d ô ʔ ³ ¹ ɔ ³	2.1491925716400146	5
+k o ³ n d ʔ o ¹ ² o ʔ ³	k o ³ h n d o ʔ ¹ ² o ʔ ³	1.8118383884429932	3
+k i ³ n ⁵ n d a ¹ ²	k i ³ n d ɔ ʔ ⁵ ³ ɔ ³	1.9786909818649292	7
+k i ³ n ⁵ n d à ʔ ¹	k i ³ n d ô ʔ ³ ¹	1.3714706897735596	4
+k i ³ n d o ʔ ³	k i ³ n d o ʔ ³	0.08131501078605652	0
+k i ³ n d ʔ ɛ ³ ⁴	k i ³ h n d ɔ ʔ ¹ ² ɔ ⁵	2.5314290523529053	6
+k i ³ n d ʔ ê ³ ¹	k i ³ h n d ô ʔ ³ ¹ ɔ ³	2.126883029937744	5
+k i ³ n d ʔ o ¹ ² o ʔ ³	k i ³ h n d o ʔ ¹ ² o ʔ ³	1.6985225677490234	3
+n ⁵ n d a ¹ ²	n ⁵ n d ɔ ʔ ⁵ ³ ɔ ³	1.982517957687378	6
+n ⁵ n d à ʔ ¹	n ⁵ n d ô ʔ ³ ¹	0.634962797164917	2
+n ⁵ n d o ʔ ³	n ⁵ n d o ʔ ³	0.051456138491630554	0
+n ⁵ n d ʔ ɔ ³ ⁴	n ⁵ h n d ɔ ʔ ¹ ² ɔ ⁵	2.7211179733276367	6
+n ⁵ n d ʔ ô ³ ¹	n ⁵ h n d ô ʔ ³ ¹ ɔ ³	2.231529951095581	5
+n ⁵ n d ʔ o ¹ ² o ʔ ³	n ⁵ h n d o ʔ ¹ ² o ʔ ³	1.5781046152114868	3
+t o ³ n ⁵ n d a ¹ ²	t o ³ n d ɔ ʔ ⁵ ³ ɔ ³	1.990421175956726	7
+t o ³ n ⁵ n d à ʔ ¹	t o ³ n d ô ʔ ³ ¹	1.169672966003418	4
+t o ³ n d o ʔ ³ ⁵	t o ³ n d o ʔ ³	0.17617498338222504	1
+t o ³ n d ʔ ɛ ³ ⁴	t o ³ h n d ɔ ʔ ¹ ² ɔ ⁵	2.5974841117858887	6
+t o ³ n d ʔ ê ³ ¹	t o ³ h n d ô ʔ ³ ¹ ɔ ³	2.13899827003479	5
+t o ³ n d ʔ o ¹ ² o ʔ ³	t o ³ h n d o ʔ ¹ ² o ʔ ³	1.6879671812057495	3
+n ⁵ n g o ³ n ⁵ n d a ¹ ²	n ⁵ n g o ³ n d ɔ ʔ ⁵ ³ ɔ ³	1.6461924314498901	7
+n ⁵ n g o ³ n ⁵ n d à ʔ ¹	n ⁵ n g o ³ n d ô ʔ ³ ¹	0.9500747323036194	4
+n ⁵ n g o ³ n d o ʔ ³	n ⁵ n g o ³ n d o ʔ ³	0.08809349685907364	0
+n ⁵ n g o ³ n d ʔ ɛ ³ ⁴	n ⁵ n g o ³ h n d ɔ ʔ ¹ ² ɔ ⁵	2.424760341644287	6
+n ⁵ n g o ³ n d ʔ ê ³ ¹	n ⁵ n g o ³ h n d ô ʔ ³ ¹ ɔ ³	1.7953506708145142	5
+n ⁵ n g o ³ n d ʔ o ¹ ² o ʔ ³	n ⁵ n g o ³ h n d o ʔ ¹ ² o ʔ ³	1.5368590354919434	3
+h n d ʔ ⁵ b ì ʔ ¹	h n d ɔ ʔ ⁵ ³ b ʔ i ¹ ²	2.847271203994751	5
+h n d o ³ b ì ʔ ¹	h n d ô ʔ ³ ¹ b ì ʔ ¹	0.2283526062965393	3
+h n d o ³ b ì ʔ ¹ é n ⁵	h n d o ʔ ³ b ì ʔ ¹	0.8596340417861938	4
+h n d ʔ ì ʔ ¹ b ì ʔ ¹	h n d ɔ ʔ ¹ ² b ʔ i ¹ ²	2.3078577518463135	6
+h n d ʔ ì ʔ ¹ h â ³ ¹	h n d ô ʔ ³ ¹ b ʔ î ³ ¹	1.4973361492156982	6
+h n d ʔ ì ʔ ¹ x e ʔ ³ o ʔ ³	h n d o ʔ ¹ ² b ì ʔ ¹ o ʔ ³	1.238391637802124	6
+m a ³ n d ʔ o ì ʔ ¹	m a ³ n d ɔ ʔ ⁵ ³ b ʔ i ¹ ²	2.2784438133239746	6
+m a ³ n d ʔ o ì ʔ ¹	m a ³ n d ô ʔ ³ ¹ b ì ʔ ¹	0.28444525599479675	4
+ʔ ⁵ n d o ³ b ì ʔ ¹	ʔ ⁵ n d ò ʔ ³ b ì ʔ ¹	1.1422170400619507	2
+k o ³ n d ʔ ì ʔ ¹ b ì ʔ ¹	k o ³ h n d ɔ ʔ ¹ ² b ʔ i ¹ ²	2.2325520515441895	7
+k o ³ t ʔ ì ʔ ¹ h â ³ ¹	k o ³ n d ô ʔ ³ ¹ b ʔ î ³ ¹	1.3295822143554688	7
+k o ³ t ʔ ì ʔ ¹ b ì ʔ ¹ o ʔ ³	k o ³ h n d o ʔ ¹ ² b ì ʔ ¹ o ʔ ³	1.263047218322754	5
+k i ³ n d ʔ o ì ʔ ¹	k i ³ n d ɔ ʔ ⁵ ³ b ʔ i ¹ ²	2.36578106880188	6
+k i ³ n d ʔ o ʔ ⁵ ³	k i ³ n d ô ʔ ³ ¹ b ì ʔ ¹	0.5781913995742798	7
+k i ³ n d o ³ b ì ʔ ¹	k i ³ n d o ʔ ³ b ì ʔ ¹	0.6383534669876099	1
+k i ³ n d ʔ o ì ʔ ¹	k i ³ h n d ɔ ʔ ¹ ² b ʔ i ¹ ²	2.162069320678711	7
+k i ³ n d ʔ ì ʔ ¹	k i ³ h n d ô ʔ ³ ¹ b ʔ î ³ ¹	1.773871660232544	7
+k i ³ n d ʔ o ¹ ² o ʔ ³	k i ³ h n d o ʔ ¹ ² b ì ʔ ¹ o ʔ ³	1.2510266304016113	7
+n ⁵ n d ʔ ì ʔ ¹ x ʔ a ⁵ ³	n ⁵ n d ɔ ʔ ⁵ ³ b ʔ i ¹ ²	2.2589447498321533	8
+n ⁵ n d ó ⁵ b ì ʔ ¹	n ⁵ n d ô ʔ ³ ¹ b ì ʔ ¹	0.7874411940574646	4
+n ⁵ n d o ³ b ì ʔ ¹	n ⁵ n d o ʔ ³ b ì ʔ ¹	0.8872658610343933	1
+n ⁵ n d ʔ ì ʔ ¹ b ì ʔ ¹	n ⁵ h n d ɔ ʔ ¹ ² b ʔ i ¹ ²	2.3250749111175537	7
+n ⁵ n d ʔ ì ʔ ¹ h â ³ ¹	n ⁵ n d ô ʔ ³ ¹ b ʔ î ³ ¹	1.1088935136795044	6
+n ⁵ n d ʔ ì ¹ ʔ o ³	n ⁵ h n d o ʔ ¹ ² b ì ʔ ¹ o ʔ ³	1.256974697113037	8
+t o ³ n d ʔ ⁵ b ì ʔ ¹	t o ³ n d ɔ ʔ ⁵ ³ b ʔ i ¹ ²	1.9983991384506226	5
+t o ³ n d ʔ ⁵ b ì ʔ ¹	t o ³ n d ô ʔ ³ ¹ b ì ʔ ¹	0.3575298488140106	3
+t o ³ n d ʔ o ³ b ì ʔ ¹	t o ³ n d o ʔ ³ b ì ʔ ¹	0.8691040873527527	2
+t o ³ n d ʔ ɛ ³ ⁴	t o ³ h n d ɔ ʔ ¹ ² b ʔ i ¹ ²	2.145864963531494	9
+t o ³ n d ʔ ì ʔ ¹	t o ³ h n d ô ʔ ³ ¹ b ʔ î ³ ¹	1.7763128280639648	7
+t o ³ n d ʔ o ³ b ì ʔ ¹	t o ³ h n d o ʔ ¹ ² b ì ʔ ¹ o ʔ ³	1.1697618961334229	7
+n ⁵ n g o ³ n d ʔ ⁵ b ì ʔ ¹	n ⁵ n g o ³ n d ɔ ʔ ⁵ ³ b ʔ i ¹ ²	2.007513999938965	5
+n ⁵ n g o ³ n d ʔ ⁵ b ì ʔ ¹	n ⁵ n g o ³ n d ô ʔ ³ ¹ b ì ʔ ¹	0.5299901962280273	3
+n ⁵ n g o ³ n d o ³ b ì ʔ ¹	n ⁵ n g o ³ n d o ʔ ³ b ì ʔ ¹	0.7862032651901245	1
+n ⁵ n g o ³ n d ʔ ì ʔ ¹ b ì ʔ ¹	n ⁵ n g o ³ h n d ɔ ʔ ¹ ² b ʔ i ¹ ²	1.8166735172271729	7
+n ⁵ n g o ³ n d ʔ ¹ b ì ʔ ¹	n ⁵ n g o ³ h n d ô ʔ ³ ¹ b ʔ î ³ ¹	1.4882036447525024	6
+n ⁵ n g o ³ n d ʔ ɛ ¹ ² o ʔ ³	n ⁵ n g o ³ h n d o ʔ ¹ ² b ì ʔ ¹ o ʔ ³	1.0656697750091553	7
+h n d ʔ u i ⁵ ³	h n d u i ³ ⁴ h a ³	0.6293056011199951	5
+h n d u î ʔ ³ ¹	h n d u i ³ ⁴ ʔ u ³	0.8961306214332581	5
+h n d u i ³ ⁴	h n d u i ³ ⁴ é n ⁵	0.26195648312568665	3
+h n d ʔ u i ³ ⁴ h á ⁵ á ⁵	h n d u i ³ ⁴ h á ⁵ á ⁵	0.5583285689353943	1
+h n d ʔ u î ³ ¹	h n d u i ³ ⁴ h â ³ ¹	0.7418849468231201	6
+h n d ʔ u i ³ ⁴ ʔ o ³	h n d u i ³ ⁴ ʔ o ³	0.7652135491371155	1
+k o ³ n d ʔ u i ⁵ ³	k o ³ n d u i ³ ⁴ h a ³	0.681601881980896	5
+k o ³ n d u i ʔ ⁵ ³	k o ³ n d u i ³ ⁴ ʔ u ³	1.0132453441619873	3
+k o ³ n d u i ³ ⁴	k o ³ n d u i ³ ⁴ é n ⁵	0.23327530920505524	3
+k o ³ n d ʔ u i ³ ⁴ h á ⁵ á ⁵	k o ³ n d u i ³ ⁴ h á ⁵ á ⁵	0.4453609883785248	1
+k o ³ n d ʔ u î ³ ¹	k o ³ n d u i ³ ⁴ h â ³ ¹	0.6221532821655273	6
+k o ³ n d ʔ u i ³ ⁴ ʔ o ³	k o ³ n d u i ³ ⁴ ʔ o ³	0.5127170085906982	1
+k í ⁵ n d ʔ u i ⁵ ³	k i ³ n d u i ³ ⁴ h a ³	0.9884061217308044	7
+k í ⁵ n d u i ʔ ⁵ ³	k i ³ n d u i ³ ⁴ ʔ u ³	1.163923740386963	5
+k i ³ n d u i ³ ⁴	k i ³ n d u i ³ ⁴ é n ⁵	0.24304130673408508	3
+k i ³ n d y u i ³ ⁴ h á ⁵ á ⁵	k i ³ n d u i ³ ⁴ h á ⁵ á ⁵	0.368354469537735	1
+k í ⁵ n d ʔ u ê ³ ¹	k i ³ n d u i ³ ⁴ h â ³ ¹	0.7156785726547241	8
+k i ³ n d ʔ u i ³ ⁴ ʔ o ³	k i ³ n d u i ³ ⁴ ʔ o ³	0.44583433866500854	1
+n ⁵ n d ʔ u i ⁵ ³	n ⁵ n d u i ³ ⁴ h a ³	0.7562901973724365	5
+n ⁵ n d u i ʔ ⁵ ³	n ⁵ n d u i ³ ⁴ ʔ u ³	0.6666920185089111	3
+n ⁵ n d u i ³ ⁴	n ⁵ n d u i ³ ⁴ é n ⁵	0.16184933483600616	3
+n ⁵ n d ʔ u i ³ ⁴ h á ⁵ á ⁵	n ⁵ n d u i ³ ⁴ h á ⁵ á ⁵	0.5993915796279907	1
+n ⁵ n g i ³ n d y u ê ³ ¹	n ⁵ n d u i ³ ⁴ h â ³ ¹	1.007783055305481	7
+n ⁵ n g i ³ n d ʔ u i ³ ⁴ ʔ o ³	n ⁵ n d u i ³ ⁴ ʔ o ³	1.0160627365112305	5
+t o ³ k í ⁵ n d y ʔ u ⁵ ³	t o ³ n d u i ³ ⁴ h a ³	1.3916923999786377	9
+t o ³ k í ⁵ n d u î ʔ ³ ¹	t o ³ n d u i ³ ⁴ ʔ u ³	1.2143718004226685	8
+t o ³ k i ³ n d u i ³ ⁴	t o ³ n d u i ³ ⁴ é n ⁵	0.612379789352417	6
+t o ³ k í ⁵ t ó ʔ ⁵ h á ⁵ á ⁵	t o ³ n d u i ³ ⁴ h á ⁵ á ⁵	0.7920733690261841	7
+t o ³ k í ⁵ t ó ʔ ⁵ h â ³ ¹	t o ³ n d u i ³ ⁴ h â ³ ¹	1.099055528640747	7
+t o ³ k í ⁵ t ó ʔ ⁵ ʔ o ³	t o ³ n d u i ³ ⁴ ʔ o ³	0.969711184501648	7
+n ⁵ n g o ³ k í ⁵ n d ʔ u i ⁵ ³	n ⁵ n g o ³ n d u i ³ ⁴ h a ³	1.134900689125061	8
+n ⁵ n g o ³ k í ⁵ n d u î ʔ ³ ¹	n ⁵ n g o ³ n d u i ³ ⁴ ʔ u ³	1.2242934703826904	8
+n ⁵ n g o ³ k i ³ n d u i ³ ⁴	n ⁵ n g o ³ n d u i ³ ⁴ é n ⁵	0.5832099914550781	6
+n ⁵ n g o ³ k í ⁵ t ó ʔ ⁵ h á ⁵ á ⁵	n ⁵ n g o ³ n d u i ³ ⁴ h á ⁵ á ⁵	0.763282299041748	7
+n ⁵ n g o ³ k í ⁵ t ó ʔ ⁵ h â ³ ¹	n ⁵ n g o ³ n d u i ³ ⁴ h â ³ ¹	1.0737733840942383	7
+n ⁵ n g o ³ k í ⁵ t ó ʔ ⁵ ʔ o ³	n ⁵ n g o ³ n d u i ³ ⁴ ʔ o ³	0.9958794116973877	7
+h n d y u i ⁵ ³	t u i ⁵ ³	1.122014045715332	4
+h n d u i ʔ ⁵ ³	t u i ʔ ⁵ ³	0.9774729013442993	3
+h n d u i ³ ⁵	t u i ³ ⁵	1.2120007276535034	3
+h n d ʔ u ɛ ¹ ²	t u ɛ ¹ ² ɛ ⁵	2.1135592460632324	6
+h n d ʔ u ê ³ ¹	t u ê ³ ¹	1.4197999238967896	4
+h n d ʔ u è ¹ o ʔ ³	t u è ¹ o ʔ ³	1.2551167011260986	4
+m a ³ n d y u i ⁵ ³	m a ³ t u i ⁵ ³	0.7434920072555542	3
+m a ³ n d u i ʔ ⁵ ³	m a ³ t u i ʔ ⁵ ³	0.7403296232223511	2
+ʔ ⁵ n d u i ³ ⁵	ʔ ⁵ t u i ³ ⁵	0.7839459180831909	2
+k o ³ n d ʔ u ɛ ¹ ²	k o ³ t u ɛ ¹ ² ɛ ⁵	1.3413646221160889	5
+k o ³ n d ʔ u ê ³ ¹	k o ³ t u ê ³ ¹	0.8368825912475586	3
+k o ³ n d u è ¹ o ʔ ³	k o ³ t u è ¹ o ʔ ³	0.7144657373428345	2
+k í ⁵ n d y u i ⁵ ³	k í ⁵ t u i ⁵ ³	0.8107278347015381	3
+k í ⁵ n d u i ʔ ⁵ ³	k í ⁵ t u i ʔ ⁵ ³	0.7158762812614441	2
+k i ³ n d u i ³ ⁵	k i ³ t u i ³ ⁵	0.6048868894577026	2
+k i ³ n d ʔ u ɛ ¹ ²	k i ³ t u ɛ ¹ ² ɛ ⁵	1.3820708990097046	5
+k i ³ n d ʔ u ê ³ ¹	k i ³ t u ê ³ ¹	0.890284538269043	3
+k i ³ n d ʔ u è ¹ o ʔ ³	k i ³ t u è ¹ o ʔ ³	0.7566502094268799	3
+n ⁵ n d y u i ⁵ ³	n ⁵ n d u i ⁵ ³	0.29506298899650574	1
+n ⁵ n d u i ʔ ⁵ ³	n ⁵ n d u i ʔ ⁵ ³	0.04395810142159462	0
+n ⁵ n d u i ³ ⁵	n ⁵ n d u i ³ ⁵	0.047312937676906586	0
+n ⁵ n d ʔ u ɛ ¹ ²	n ⁵ n d u ɛ ¹ ² ɛ ⁵	1.1257550716400146	3
+n ⁵ n d ʔ u ê ³ ¹	n ⁵ n d u ê ³ ¹	0.5954487919807434	1
+n ⁵ n d ʔ u è ¹ o ʔ ³	n ⁵ n d u è ¹ o ʔ ³	0.38778722286224365	1
+t o ³ n d y u i ⁵ ³	t o ³ t u i ⁵ ³	0.6215229034423828	3
+t o ³ n d u i ʔ ⁵ ³	t o ³ t u i ʔ ⁵ ³	0.6186211109161377	2
+t o ³ n d u i ³ ⁵	t o ³ t u i ³ ⁵	0.5358708500862122	2
+t o ³ n d ʔ u ɛ ¹ ²	t o ³ t u ɛ ¹ ² ɛ ⁵	1.3187252283096313	5
+t o ³ n d ʔ u ê ³ ¹	t o ³ t u ê ³ ¹	0.8232675194740295	3
+t o ³ n d ʔ u è ¹ o ʔ ³	t o ³ t u è ¹ o ʔ ³	0.6914858818054199	3
+n ⁵ n g o ³ n d ʔ u i ⁵ ³	n ⁵ n g o ³ t u i ⁵ ³	0.5181791186332703	3
+n ⁵ n g o ³ n d u i ʔ ⁵ ³	n ⁵ n g o ³ t u i ʔ ⁵ ³	0.5067826509475708	2
+n ⁵ n g o ³ n d u i ³ ⁵	n ⁵ n g o ³ t u i ³ ⁵	0.47738170623779297	2
+n ⁵ n g o ³ n d ʔ u ɛ ¹ ²	n ⁵ n g o ³ t u ɛ ¹ ² ɛ ⁵	1.0492013692855835	5
+n ⁵ n g o ³ n d ʔ u ê ³ ¹	n ⁵ n g o ³ t u ê ³ ¹	0.6156243681907654	3
+n ⁵ n g o ³ n d ʔ u è ¹ o ʔ ³	n ⁵ n g o ³ t u è ¹ o ʔ ³	0.5291016697883606	3
+h n d ʔ u i ¹ ² x k ɛ n ⁵ ³	t u i ¹ ² s ó ⁵ x k ɛ n ⁵ ³	0.8954357504844666	7
+h n d ʔ u i ¹ ² x k è n ʔ ¹	t u i ¹ ² s ó ⁵ x k è n ʔ ¹	0.8472518920898438	7
+h n d ʔ u i ¹ ² x k e n ³	t u i ¹ ² s ó ⁵ x k e n ³	0.6238926649093628	7
+h n d ʔ u i ¹ ² n k ɛ n ¹ ²	t u i ¹ ² s ó ⁵ n k ɛ n ¹ ²	0.5205880999565125	7
+h n d ʔ u i ¹ ² n k ê n ³ ¹	t u i ¹ ² s ó ⁵ n k ê n ³ ¹	1.015126347541809	7
+h n d ʔ u i ¹ ² n k è n ¹ o ʔ ³	t u i ¹ ² s ó ⁵ n k è n ¹ o ʔ ³	0.6434555649757385	7
+k o ³ n d ʔ u i ¹ ² x k ɛ n ⁵ ³	k o ³ t u i ¹ ² s ó ⁵ x k ɛ n ⁵ ³	1.1118789911270142	6
+k o ³ n d ʔ u i ¹ ² x k è n ʔ ¹	k o ³ t u i ¹ ² s ó ⁵ x k è n ʔ ¹	1.256130337715149	6
+k o ³ t ʔ u i ¹ ² x k e n ³	k o ³ t u i ¹ ² s ó ⁵ x k e n ³	1.0834578275680542	4
+k o ³ n d ʔ u i ¹ ² n k ɛ n ¹ ²	k o ³ t u i ¹ ² s ó ⁵ n k ɛ n ¹ ²	1.0955166816711426	6
+k o ³ n d ʔ u i ¹ ² n k ê n ³ ¹	k o ³ t u i ¹ ² s ó ⁵ n k ê n ³ ¹	1.4286457300186157	6
+k o ³ n d ʔ u i ¹ ² n k è n ¹ o ʔ ³	k o ³ t u i ¹ ² s ó ⁵ n k è n ¹ o ʔ ³	1.0929107666015625	6
+k i ³ n d ʔ u i ¹ ² x k ɛ n ⁵ ³	k i ³ t u i ¹ ² s ó ⁵ x k ɛ n ⁵ ³	1.0909563302993774	6
+k í ⁵ n d ʔ u i ¹ ² x k è n ʔ ¹	k i ³ t u i ¹ ² s ó ⁵ x k è n ʔ ¹	1.2559305429458618	8
+k i ³ t ʔ u i ¹ ² x k e n ³	k i ³ t u i ¹ ² s ó ⁵ x k e n ³	1.0117919445037842	4
+k i ³ n d ʔ u i ¹ ² n k ɛ n ¹ ²	k i ³ t u i ¹ ² s ó ⁵ n k ɛ n ¹ ²	0.9126406908035278	6
+k i ³ n d ʔ u i ¹ ² n k ê n ³ ¹	k i ³ t u i ¹ ² s ó ⁵ n k ê n ³ ¹	1.0651626586914062	6
+k i ³ t u i ¹ ² n k è n ¹ o ʔ ³	k i ³ t u i ¹ ² s ó ⁵ n k è n ¹ o ʔ ³	0.7793424129486084	3
+n ⁵ n d ʔ u i ¹ ² x k ɛ n ⁵ ³	n ⁵ n d u i ¹ ² s ó ⁵ x k ɛ n ⁵ ³	0.8661966919898987	4
+n ⁵ n d ʔ u i ¹ ² x k è n ʔ ¹	n ⁵ n d u i ¹ ² s ó ⁵ x k è n ʔ ¹	0.9614987969398499	4
+n ⁵ n d ʔ u i ¹ ² x k e n ³	n ⁵ n d u i ¹ ² s ó ⁵ x k e n ³	0.9510229825973511	4
+n ⁵ n d ʔ u i ¹ ² n k ɛ n ¹ ²	n ⁵ n d u i ¹ ² s ó ⁵ n k ɛ n ¹ ²	0.7388667464256287	4
+n ⁵ n d ʔ u i ¹ ² n k ê n ³ ¹	n ⁵ n d u i ¹ ² s ó ⁵ n k ê n ³ ¹	0.9066318869590759	4
+n ⁵ n d ʔ u i ¹ ² n k è n ¹ o ʔ ³	n ⁵ n d u i ¹ ² s ó ⁵ n k è n ¹ o ʔ ³	0.7958488464355469	4
+t o ³ n d ʔ u i ¹ ² x k ɛ n ⁵ ³	t o ³ t u i ¹ ² s ó ⁵ x k ɛ n ⁵ ³	1.0239874124526978	6
+t o ³ n d ʔ u i ¹ ² x k è n ʔ ¹	t o ³ t u i ¹ ² s ó ⁵ x k è n ʔ ¹	1.1030547618865967	6
+t o ³ t ʔ u i ¹ ² x k e n ³	t o ³ t u i ¹ ² s ó ⁵ x k e n ³	1.1490695476531982	4
+t o ³ n d ʔ u i ¹ ² n k ɛ n ¹ ²	t o ³ t u i ¹ ² s ó ⁵ n k ɛ n ¹ ²	1.1396132707595825	6
+t o ³ n d ʔ u i ¹ ² n k ê n ³ ¹	t o ³ t u i ¹ ² s ó ⁵ n k ê n ³ ¹	1.270744800567627	6
+t o ³ t u i ¹ ² n k è n ¹ o ʔ ³	t o ³ t u i ¹ ² s ó ⁵ n k è n ¹ o ʔ ³	1.0709526538848877	3
+n ⁵ n g o ³ n d ʔ u i ¹ ² x k ɛ n ⁵ ³	n ⁵ n g o ³ t u i ¹ ² s ó ⁵ x k ɛ n ⁵ ³	0.4360993802547455	6
+n ⁵ n g o ³ n d ʔ u i ¹ ² x k è n ʔ ¹	n ⁵ n g o ³ t u i ¹ ² s ó ⁵ x k è n ʔ ¹	0.5690662264823914	6
+n ⁵ n g o ³ t ʔ u i ¹ ² x k e n ³	n ⁵ n g o ³ t u i ¹ ² s ó ⁵ x k e n ³	0.7415646910667419	4
+n ⁵ n g o ³ n d ʔ u i ¹ ² n k ɛ n ¹ ²	n ⁵ n g o ³ t u i ¹ ² s ó ⁵ n k ɛ n ¹ ²	0.5051463842391968	6
+n ⁵ n g o ³ n d ʔ u i ¹ ² n k ê n ³ ¹	n ⁵ n g o ³ t u i ¹ ² s ó ⁵ n k ê n ³ ¹	0.7406514286994934	6
+n ⁵ n g o ³ n d ʔ u i ¹ ² n k è n ¹ o ʔ ³	n ⁵ n g o ³ t u i ¹ ² s ó ⁵ n k è n ¹ o ʔ ³	0.599520742893219	6
+t ʔ u i ʔ ³ n d á ʔ ⁵ h n è ¹	h n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ h a ³	1.7240402698516846	11
+t ʔ u i ʔ ⁵ ³ n d á ʔ ⁵ h n è ʔ ¹	h n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ ʔ u ³	1.8071014881134033	11
+h n d ʔ u i ʔ ³ n d á ʔ ⁵ h n è ¹	h n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ é n ⁵	1.3423024415969849	9
+t ʔ u i ʔ ³ n d á ʔ ⁵ h n è ¹	h n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ h á ⁵ á ⁵	1.5901927947998047	13
+h n d ʔ u ê ³ ¹ n d á ⁵ n è ¹	h n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ h â ³ ¹	1.4678599834442139	13
+h n d ʔ u i ³ o ʔ ³ n d á ⁵ n è ¹ o ʔ ³	h n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ ʔ o ³	1.4389548301696777	10
+m a ³ t ʔ u i ʔ ³ n d á ʔ ⁵ h n è ¹	k o ³ n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ h a ³	2.0071909427642822	12
+m a ³ t ʔ u i ʔ ⁵ ³ n d á ʔ ⁵ h n è ʔ ¹	k o ³ n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ ʔ u ³	2.107342481613159	12
+ʔ ⁵ t ʔ u i ʔ ³ n d á ʔ ⁵ h n è ¹	k o ³ n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ é n ⁵	1.8417476415634155	13
+k o ³ t ʔ u i ʔ ³ n d á ʔ ⁵ h n è ¹	k o ³ n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ h á ⁵ á ⁵	1.5517088174819946	12
+k o ³ t ʔ u i ʔ ³ n d á ʔ ⁵ n è ¹	k o ³ n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ h â ³ ¹	1.5491148233413696	12
+k o ³ t ʔ u i ʔ ³ n d á ʔ ⁵ n è ¹ n ʔ è ¹ o ʔ ³	k o ³ n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ ʔ o ³	1.8359328508377075	10
+k í ⁵ t ʔ u i ⁵ ³ n d á ʔ ⁵ h n è ¹	k i ³ n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ h a ³	1.9880870580673218	13
+k í ⁵ t ʔ u i ʔ ⁵ ³ n d á ʔ ⁵ h n è ʔ ¹	k i ³ n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ ʔ u ³	2.0740742683410645	12
+k i ³ t ʔ u i ʔ ³ n d á ʔ ⁵ h n è ¹	k i ³ n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ é n ⁵	1.4832104444503784	10
+k i ³ t ʔ u i ʔ ³ n d á ʔ ⁵ h n è ¹	k i ³ n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ h á ⁵ á ⁵	1.5478730201721191	12
+k i ³ t ʔ u i ʔ ³ n d á ʔ ⁵ n è ¹	k i ³ n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ h â ³ ¹	1.527189016342163	12
+k i ³ t ʔ u i ʔ ³ n d á ʔ ⁵ n è ¹ n t h w è ¹ o ʔ ³	k i ³ n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ ʔ o ³	1.7208274602890015	11
+n ⁵ n d ʔ u i ⁵ ³ n d á ʔ ⁵ h n è ¹	n ⁵ n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ h a ³	1.68035888671875	10
+n ⁵ n d ʔ u i ʔ ⁵ ³ n d á ʔ ⁵ h n è ʔ ¹	n ⁵ n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ ʔ u ³	1.6996573209762573	9
+n ⁵ n d ʔ u i ʔ ³ n d á ⁵ h n è ¹	n ⁵ n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ é n ⁵	1.1272954940795898	8
+n ⁵ n d ʔ u i ³ ⁴ n d á ⁵ n è ¹ n t h ɛ ¹ ²	n ⁵ n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ h á ⁵ á ⁵	1.403859257698059	13
+n ⁵ n d ʔ u i ʔ ³ n d á ⁵ n è ¹	n ⁵ n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ h â ³ ¹	1.2758384943008423	10
+n ⁵ n d ʔ u i ʔ ³ n d á ʔ ⁵ n è ¹ o ʔ ³	n ⁵ n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ ʔ o ³	1.4426493644714355	9
+t o ³ t ʔ u i ʔ ³ n d á ʔ ⁵ h n è ¹	t o ³ n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ h a ³	1.5454635620117188	10
+t o ³ t ʔ u i ʔ ⁵ ³ n d á ʔ ⁵ h n è ʔ ¹	t o ³ n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ ʔ u ³	1.8406968116760254	10
+t o ³ t ʔ u i ʔ ³ n d á ʔ ⁵ h n è ¹	t o ³ n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ é n ⁵	1.5484412908554077	10
+t o ³ t ʔ u i ʔ ³ n d á ʔ ⁵ h n è ¹	t o ³ n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ h á ⁵ á ⁵	1.4823378324508667	12
+t o ³ t ʔ u i ʔ ³ n d á ʔ ⁵ h n è ¹	t o ³ n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ h â ³ ¹	1.5568289756774902	11
+t o ³ t ʔ u i ʔ ³ n d á ʔ ⁵ h n è ¹	t o ³ n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ ʔ o ³	1.7477902173995972	10
+n ⁵ n g o ³ t ʔ u i ⁵ ³ n d á ʔ ⁵ h n è ¹	n ⁵ n g o ³ n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ h a ³	1.6080901622772217	11
+n ⁵ n g o ³ t ʔ u i ʔ ⁵ ³ n d á ʔ ⁵ h n è ʔ ¹	n ⁵ n g o ³ n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ ʔ u ³	1.7269647121429443	10
+n ⁵ n g o ³ t ʔ u i ʔ ³ n d á ʔ ⁵ h n è ¹	n ⁵ n g o ³ n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ é n ⁵	1.4931676387786865	10
+n ⁵ n g o ³ t ʔ u i ³ ⁴ n d á ʔ ⁵ n è ¹	n ⁵ n g o ³ n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ h á ⁵ á ⁵	1.3979331254959106	15
+n ⁵ n g o ³ t ʔ u i ʔ ³ n d á ʔ ⁵ n è ¹	n ⁵ n g o ³ n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ h â ³ ¹	1.4855026006698608	12
+n ⁵ n g o ³ t ʔ u i ʔ ³ n d á ʔ ⁵ n è ¹ o ʔ ³	n ⁵ n g o ³ n d u i ʔ ³ n d á ⁵ t h w è n ʔ ¹ ʔ o ³	1.4913880825042725	10
+t ʔ u i ʔ ³ n t z k w i ⁵ ³	h n d u i ʔ ³ n t z k w i ⁵ ³	0.8188380002975464	3
+t ʔ u i ʔ ⁵ ³ n t z k w ì ʔ ¹	h n d u i ʔ ³ n t z k w ì ʔ ¹	1.0063183307647705	4
+h n d ʔ u i ʔ ³ n t z k w í ⁵	h n d u i ʔ ³ n t z k w í ⁵	0.34027963876724243	1
+t ʔ u i ʔ ³ n t k w í ⁵ í ⁵	h n d u i ʔ ³ n t k w í ⁵ í ⁵	0.7454671263694763	3
+h n d ʔ u ê ³ ¹ n t k w î ³ ¹	h n d u i ʔ ³ n t k w î ³ ¹	0.9142645597457886	4
+h n d ʔ u i ³ n t k w í ⁵ o ʔ ³	h n d u i ʔ ³ n t k w í ⁵ o ʔ ³	0.48374107480049133	2
+m a ³ t ʔ u i ʔ ³ n t z k w i ⁵ ³	k o ³ n d u i ʔ ³ n t z k w i ⁵ ³	1.2279120683670044	4
+m a ³ t ʔ u i ʔ ⁵ ³ n t z k w ì ʔ ¹	k o ³ n d u i ʔ ³ n t z k w ì ʔ ¹	1.4587366580963135	5
+ʔ ⁵ t u i ʔ ³ n t z k w í ⁵	k o ³ n d u i ʔ ³ n t z k w í ⁵	1.0205154418945312	5
+k o ³ t ʔ u i ʔ ³ n t k w í ⁵ í ⁵	k o ³ n d u i ʔ ³ n t k w í ⁵ í ⁵	0.8843078017234802	2
+k o ³ t ʔ u i ʔ ³ n t k w î ³ ¹	k o ³ n d u i ʔ ³ n t k w î ³ ¹	1.1201200485229492	2
+k o ³ t ʔ u i ʔ ³ n t k w í ⁵ o ʔ ³	k o ³ n d u i ʔ ³ n t k w í ⁵ o ʔ ³	0.7817379236221313	2
+k í ⁵ t ʔ u i ʔ ³ n t z k w i ⁵ ³	k i ³ n d u i ʔ ³ n t z k w i ⁵ ³	1.163617491722107	4
+k í ⁵ t z u i ʔ ⁵ ³ n t z k w ì ʔ ¹	k i ³ n d u i ʔ ³ n t z k w ì ʔ ¹	1.3230561017990112	5
+k i ³ t ʔ u i ʔ ³ n t z k w í ⁵	k i ³ n d u i ʔ ³ n t z k w í ⁵	0.5799994468688965	2
+k i ³ t ʔ u i ʔ ³ n t k w í ⁵ í ⁵	k i ³ n d u i ʔ ³ n t k w í ⁵ í ⁵	0.8634040355682373	2
+k i ³ t ʔ u i ʔ ³ n t k w î ³ ¹	k i ³ n d u i ʔ ³ n t k w î ³ ¹	1.0806876420974731	2
+k i ³ t ʔ u i ʔ ³ n t k w í ⁵ o ʔ ³	k i ³ n d u i ʔ ³ n t k w í ⁵ o ʔ ³	0.779707133769989	2
+n ⁵ n d ʔ u i ⁵ ³ n t z k w i ⁵ ³	n ⁵ n d u i ʔ ³ n t z k w i ⁵ ³	0.4695693850517273	2
+n ⁵ n d ʔ u i ʔ ⁵ ³ n t z k w ì ʔ ¹	n ⁵ n d u i ʔ ³ n t z k w ì ʔ ¹	0.7585188746452332	2
+n ⁵ n d ʔ u i ʔ ³ n t z k w í ⁵	n ⁵ n d u i ʔ ³ n t z k w í ⁵	0.11495745182037354	1
+n ⁵ n d ʔ u ɛ ¹ ² n ⁵ n t k w í ⁵ í ⁵	n ⁵ n d u i ʔ ³ n t k w í ⁵ í ⁵	0.48819905519485474	6
+n ⁵ n d ʔ u ê ³ ¹ n t k w î ³ ¹	n ⁵ n d u i ʔ ³ n t k w î ³ ¹	0.6908508539199829	4
+n ⁵ n d ʔ u i ʔ ³ n t k w í ⁵ o ʔ ³	n ⁵ n d u i ʔ ³ n t k w í ⁵ o ʔ ³	0.5016741156578064	1
+t o ³ t ʔ u i ʔ ³ n t z k w i ⁵ ³	t o ³ n d u i ʔ ³ n t z k w i ⁵ ³	0.7757750153541565	2
+t o ³ t ʔ u i ʔ ⁵ ³ n t z k w ì ʔ ¹	t o ³ n d u i ʔ ³ n t z k w ì ʔ ¹	1.009948968887329	3
+t o ³ t ʔ u i ʔ ³ n t z k w í ⁵	t o ³ n d u i ʔ ³ n t z k w í ⁵	0.7044417262077332	2
+t o ³ t ʔ u i ʔ ³ n t k w í ⁵ í ⁵	t o ³ n d u i ʔ ³ n t k w í ⁵ í ⁵	0.8409408926963806	2
+t o ³ t ʔ u i ʔ ³ n t k w î ³ ¹	t o ³ n d u i ʔ ³ n t k w î ³ ¹	1.0251922607421875	2
+t o ³ t ʔ u i ʔ ³ n t k w í ⁵ o ʔ ³	t o ³ n d u i ʔ ³ n t k w í ⁵ o ʔ ³	0.7277501821517944	2
+n ⁵ n g o ³ t ʔ u i ʔ ⁵ ³ n t z k w i ⁵ ³	n ⁵ n g o ³ n d u i ʔ ³ n t z k w i ⁵ ³	0.7702701091766357	3
+n ⁵ n g o ³ t ʔ u i ʔ ⁵ ³ n t z k w ì ʔ ¹	n ⁵ n g o ³ n d u i ʔ ³ n t z k w ì ʔ ¹	0.9504387378692627	3
+n ⁵ n g o ³ t ʔ u i ʔ ³ n t z k w í ⁵	n ⁵ n g o ³ n d u i ʔ ³ n t z k w í ⁵	0.6453122496604919	2
+n ⁵ n g o ³ t ʔ u i ʔ ³ n t k w í ⁵ í ⁵	n ⁵ n g o ³ n d u i ʔ ³ n t k w í ⁵ í ⁵	0.8262575268745422	2
+n ⁵ n g o ³ t ʔ u i ʔ ³ n t k w î ³ ¹	n ⁵ n g o ³ n d u i ʔ ³ n t k w î ³ ¹	0.9210867881774902	2
+n ⁵ n g o ³ t ʔ u i ʔ ³ n t k w í ⁵ o ʔ ³	n ⁵ n g o ³ n d u i ʔ ³ n t k w í ⁵ o ʔ ³	0.6265497207641602	2
+h n d y ʔ u i ³ s ʔ o n ⁵ ³	h n d u i ʔ ³ s ó ⁵ ʔ n d y ɔ ⁵ ³	0.8499758839607239	9
+h n d y u i ʔ ⁵ ³ s ʔ n d y o ʔ ⁵ ³	h n d u i ʔ ³ s ó ⁵ ʔ n d y ó ʔ ⁵ ³	2.0389130115509033	5
+h n d y u i ³ s ʔ ó ⁵ ʔ n d y ó ⁵	h n d u i ʔ ³ s ó ⁵ ʔ n d y ó ⁵	0.6954289078712463	3
+h n d y ʔ u i ³ ⁵ h n d y u ɛ ⁵ é ⁵	h n d u i ʔ ³ s ó ⁵ h n d y u ɛ ⁵ ɛ ⁵	1.2501716613769531	6
+h n d y ʔ u i ³ s h n d y u ê ³ ¹	h n d u i ʔ ³ s ó ⁵ h n d y u ê ³ ¹	0.7988123893737793	5
+h n d y ʔ u i ³ ⁵ h n d y u é ⁵ o ʔ ³	h n d u i ʔ ³ s ó ⁵ h n d y u é ⁵ o ʔ ³	0.6813110113143921	5
+m a ³ t y ʔ u i ʔ ³ s ʔ n d y ɔ ⁵ ³	k o ³ n d u i ʔ ³ s ó ⁵ ʔ n d y ɔ ⁵ ³	1.3686890602111816	7
+m a ³ t y ʔ u i ó ⁵ ʔ n d y o ʔ ⁵ ³	k o ³ n d u i ³ ʔ s ó ⁵ ʔ n d y ó ʔ ⁵ ³	2.8993828296661377	9
+ʔ ⁵ t y u i ³ s ʔ ó ⁵ ʔ n d y ó ⁵	k o ³ n d u i ʔ ³ s ó ⁵ ʔ n d y ó ⁵	1.3463743925094604	7
+k o ³ t y ʔ u i ³ ⁴ h n d y u ɛ ⁵ é ⁵	k o ³ n d u i ʔ ³ s ó ⁵ h n d y u ɛ ⁵ ɛ ⁵	1.240573525428772	8
+k o ³ t y ʔ u i ʔ ³ s h n d y u ê ³ ¹	k o ³ n d u i ʔ ³ s ó ⁵ h n d y u ê ³ ¹	0.9363557696342468	5
+k o ³ t y ʔ u i ʔ ³ ⁵ h n d y u é ⁵ o ʔ ³	k o ³ n d u i ʔ ³ s ó ⁵ h n d y u é ⁵ o ʔ ³	0.9025822281837463	5
+k i ³ t y ʔ u i ʔ ³ s ʔ n d y ɔ ⁵ ³	k i ³ n d u i ʔ ³ s ó ⁵ ʔ n d y ɔ ⁵ ³	1.060938835144043	5
+k í ⁵ t y ʔ u i ó ⁵ ʔ n d y o ʔ ⁵ ³	k i ³ n d u i ʔ ³ s ó ⁵ ʔ n d y o ʔ ⁵ ³	1.4125334024429321	8
+k i ³ t y u i ³ s ʔ ó ⁵ ʔ n d y ó ⁵	k i ³ n d u i ʔ ³ s ó ⁵ ʔ n d y ó ⁵	1.1360026597976685	4
+k i ³ t y ʔ u i ʔ ³ ⁵ h n d y u ɛ ⁵ é ⁵	k i ³ n d u i ʔ ³ s ó ⁵ h n d y u ɛ ⁵ ɛ ⁵	1.1992965936660767	6
+k i ³ t y ʔ u i ³ s h n d y u ê ³ ¹	k i ³ n d u i ʔ ³ s ó ⁵ h n d y u ê ³ ¹	0.9370221495628357	6
+k i ³ t y ʔ u i ʔ ³ ⁵ h n d y u é ⁵ o ʔ ³	k i ³ n d u i ʔ ³ s ó ⁵ h n d y u é ⁵ o ʔ ³	0.9170632362365723	5
+n ⁵ n d y ʔ u i ⁵ ³ s ʔ n d y ɔ ⁵ ³	n ⁵ n d u i ʔ ³ s ó ⁵ ʔ n d y ɔ ⁵ ³	0.7487809658050537	5
+n ⁵ n d y u i ʔ ⁵ ³ s ʔ n d y o ʔ ⁵ ³	n ⁵ n d u i ʔ ³ s ó ⁵ ʔ n d y o ⁵ ³ ʔ	2.1034464836120605	6
+n ⁵ n d ʔ u i ³ s ʔ ó ⁵ ʔ n d y ó ⁵	n ⁵ n d u i ʔ ³ s ó ⁵ ʔ n d y ó ⁵	0.730553150177002	3
+n ⁵ n d y ʔ u i ³ ⁴ h n d y u ɛ ⁵ é ⁵	n ⁵ n d u i ʔ ³ s ó ⁵ h n d y u ɛ ⁵ ɛ ⁵	1.0155999660491943	7
+n ⁵ n d y ʔ u i ³ s h n d y u ê ³ ¹	n ⁵ n d u i ʔ ³ s ó ⁵ h n d y u ê ³ ¹	0.6553205847740173	5
+n ⁵ n d y ʔ u i ³ ⁵ h n d y u é ⁵ o ʔ ³	n ⁵ n d u i ʔ ³ s ó ⁵ h n d y u é ⁵ o ʔ ³	0.6047354340553284	5
+t o ³ t y ʔ u i ʔ ³ ⁵ ʔ n d y ɔ ⁵ ³	t o ³ n d u i ʔ ³ s ó ⁵ ʔ n d y ɔ ⁵ ³	0.900848388671875	5
+t o ³ t y ʔ u i ʔ ⁵ ³ s ʔ n d y o ʔ ⁵ ³	t o ³ n d u i ʔ ³ s ó ⁵ ʔ n d y o ʔ ⁵ ³	1.0774283409118652	6
+t o ³ t y û ʔ ³ ¹ s ʔ n d y ó ⁵	t o ³ n d u i ʔ ³ s ó ⁵ ʔ n d y ó ⁵	0.8689842224121094	7
+t o ³ t y ʔ u i ʔ ³ ⁵ h n d y u ɛ ⁵ é ⁵	t o ³ n d u i ʔ ³ s ó ⁵ h n d y u ɛ ⁵ ɛ ⁵	1.1553493738174438	6
+t o ³ t y ʔ u i ³ s h n d y u ê ³ ¹	t o ³ n d u i ʔ ³ s ó ⁵ h n d y u ê ³ ¹	0.9286960363388062	6
+t o ³ t y ʔ u i ʔ ³ ⁵ h n d y u é ⁵ o ʔ ³	t o ³ n d u i ʔ ³ s ó ⁵ h n d y u é ⁵ o ʔ ³	0.8725308775901794	5
+n ⁵ n g o ³ t y ʔ u i ʔ ³ s ʔ n d y ɔ ⁵ ³	n ⁵ n g o ³ n d u i ʔ ³ s ó ⁵ ʔ n d y ɔ ⁵ ³	0.7608482241630554	5
+n ⁵ n g o ³ t y ʔ u i ʔ ⁵ ³ s ʔ n d y o ʔ ⁵ ³	n ⁵ n g o ³ n d u i ʔ ³ s ó ⁵ ʔ n d y o ʔ ⁵ ³	0.9963247776031494	6
+n ⁵ n g o ³ t y i o ³ s ʔ ó ⁵ ʔ n d y ó ⁵	n ⁵ n g o ³ n d u i ʔ ³ s ó ⁵ ʔ n d y ó ⁵	0.7794089913368225	5
+n ⁵ n g o ³ t y ʔ u i á ³ ⁵ h n d y u ɛ ⁵ é ⁵	n ⁵ n g o ³ n d u i ʔ ³ s ó ⁵ h n d y u ɛ ⁵ ɛ ⁵	0.8819639086723328	7
+n ⁵ n g o ³ t y ʔ u i ô ³ ¹ s h n d y u ê ³ ¹	n ⁵ n g o ³ n d u i ʔ ³ s ó ⁵ h n d y u ê ³ ¹	0.7635264992713928	7
+n ⁵ n g o ³ t y ʔ u i ³ s h n d y u é ⁵ o ʔ ³	n ⁵ n g o ³ n d u i ʔ ³ s ó ⁵ h n d y u é ⁵ o ʔ ³	0.6975109577178955	6
+t ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ ɔ ³	h n d u i ʔ ³ n d ì ʔ ¹ n ʔ ɔ ⁵ ³	1.015031337738037	4
+t ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ o ʔ ³	h n d u i ʔ ³ n d ì ʔ ¹ n ʔ ò ʔ ¹	0.8525826930999756	5
+t ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ o ³	h n d u i ʔ ³ n d ì ʔ ¹ n ʔ o ³	0.6591624021530151	3
+t ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ ɔ ³ ⁴	h n d u i ʔ ³ n d ì ʔ ¹ n ʔ ɔ ¹ ²	0.8651678562164307	5
+t ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ ô ³ ¹	h n d u i ʔ ³ n d ì ʔ ¹ n ʔ ô ³ ¹	0.6942221522331238	3
+t ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ o ³ o ʔ ³	h n d u i ʔ ³ n d ì ʔ ¹ n ʔ ò ¹ o ʔ ³	0.8992284536361694	5
+m a ³ t ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ ɔ ³	k o ³ n d u i ʔ ³ n d ì ʔ ¹ n ʔ ɔ ⁵ ³	1.3772668838500977	5
+m a ³ t ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ o ʔ ³	k o ³ n d u i ʔ ³ n d ì ʔ ¹ n ʔ ò ʔ ¹	1.2971184253692627	6
+ʔ ⁵ t ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ o ³	k o ³ n d u i ʔ ³ n d ì ʔ ¹ n ʔ o ³	1.0922574996948242	5
+k o ³ t ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ ɔ ³ ⁴	k o ³ n d u i ʔ ³ n d ì ʔ ¹ n ʔ ɔ ¹ ²	0.8503826856613159	4
+k o ³ t ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ ô ³ ¹	k o ³ n d u i ʔ ³ n d ì ʔ ¹ n ʔ ô ³ ¹	0.7573989629745483	2
+k o ³ t ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ o ³ o ʔ ³	k o ³ n d u i ʔ ³ n d ì ʔ ¹ n ʔ ò ¹ o ʔ ³	0.9611582159996033	4
+k í ⁵ t ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ ɔ ³	k i ³ n d u i ʔ ³ n d ì ʔ ¹ n ʔ ɔ ⁵ ³	1.1345676183700562	5
+k í ⁵ t ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ o ʔ ³	k i ³ n d u i ʔ ³ n d ì ʔ ¹ n ʔ ò ʔ ¹	1.21902596950531	6
+k i ³ t ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ o ³	k i ³ n d u i ʔ ³ n d ì ʔ ¹ n ʔ o ³	0.759713351726532	2
+k i ³ t ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ ɔ ³ ⁴	k i ³ n d u i ʔ ³ n d ì ʔ ¹ n ʔ ɔ ¹ ²	0.8244390487670898	4
+k i ³ t ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ ô ³ ¹	k i ³ n d u i ʔ ³ n d ì ʔ ¹ n ʔ ô ³ ¹	0.7689242959022522	2
+k i ³ t ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ o ³ o ʔ ³	k i ³ n d u i ʔ ³ n d ì ʔ ¹ n ʔ ò ¹ o ʔ ³	0.9632353186607361	4
+n ⁵ n d ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ ɔ ³	n ⁵ n d u i ʔ ³ n d ì ʔ ¹ n ʔ ɔ ⁵ ³	0.6703283190727234	2
+n ⁵ n d ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ o ʔ ³	n ⁵ n d u i ʔ ³ n d ì ʔ ¹ n ʔ ò ʔ ¹	0.6863640546798706	3
+n ⁵ n d ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ o ³	n ⁵ n d u i ʔ ³ n d ì ʔ ¹ n ʔ o ³	0.3584902882575989	1
+n ⁵ n d ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ ɔ ³ ⁴	n ⁵ n d u i ʔ ³ n d ì ʔ ¹ n ʔ ɔ ¹ ²	0.5118129849433899	3
+n ⁵ n d ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ ô ³ ¹	n ⁵ n d u i ʔ ³ n d ì ʔ ¹ n ʔ ô ³ ¹	0.42099976539611816	1
+n ⁵ n d ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ o ³ o ʔ ³	n ⁵ n d u i ʔ ³ n d ì ʔ ¹ n ʔ ò ¹ o ʔ ³	0.6649224758148193	3
+t o ³ t ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ ɔ ³	t o ³ n d u i ʔ ³ n d ì ʔ ¹ n ʔ ɔ ⁵ ³	1.0113499164581299	3
+t o ³ t ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ o ʔ ³	t o ³ n d u i ʔ ³ n d ì ʔ ¹ n ʔ ò ʔ ¹	0.9980469942092896	4
+t o ³ t ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ o ³	t o ³ n d u i ʔ ³ n d ì ʔ ¹ n ʔ o ³	0.7567887902259827	2
+t o ³ t ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ ɔ ³ ⁴	t o ³ n d u i ʔ ³ n d ì ʔ ¹ n ʔ ɔ ¹ ²	0.8394162058830261	4
+t o ³ t ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ ô ³ ¹	t o ³ n d u i ʔ ³ n d ì ʔ ¹ n ʔ ô ³ ¹	0.7428241968154907	2
+t o ³ t ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ o ³ o ʔ ³	t o ³ n d u i ʔ ³ n d ì ʔ ¹ n ʔ ò ¹ o ʔ ³	0.9396030306816101	4
+n ⁵ n g o ³ t ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ ɔ ³	n ⁵ n g o ³ n d u i ʔ ³ n d i ʔ ¹ n ʔ ɔ ⁵ ³	1.4913016557693481	4
+n ⁵ n g o ³ t ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ o ¹	n ⁵ n g o ³ n d u i ʔ ³ n d ì ʔ ¹ n ʔ ò ʔ ¹	0.8868283033370972	4
+n ⁵ n g o ³ t ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ o ³	n ⁵ n g o ³ n d u i ʔ ³ n d ì ʔ ¹ n ʔ o ³	0.6634856462478638	2
+n ⁵ n g o ³ t ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ ɔ ³ ⁴	n ⁵ n g o ³ n d u i ʔ ³ n d ì ʔ ¹ n ʔ ɔ ¹ ²	0.7031197547912598	4
+n ⁵ n g o ³ t ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ ô ³ ¹	n ⁵ n g o ³ n d u i ʔ ³ n d i ʔ ¹ n ʔ ô ³ ¹	1.3615096807479858	3
+n ⁵ n g o ³ t ʔ u i ʔ ³ n d ì ʔ ¹ n ʔ o ³ o ʔ ³	n ⁵ n g o ³ n d u i ʔ ³ n d ì ʔ ¹ n ʔ ò ¹ o ʔ ³	0.824004054069519	4
+t ʔ u è ¹ h a ³	t u è ʔ ¹ h a ³	0.8797983527183533	2
+t ʔ u è ¹ ʔ u ³	t u è ʔ ¹ ʔ u ³	0.8753482103347778	2
+t ʔ u è ¹ é n ⁵	t u è ʔ ¹ é n ⁵	0.9417277574539185	2
+t ʔ u è ¹ h á ⁵ á ⁵	t u è ʔ ¹ h á ⁵ á ⁵	0.7082388401031494	2
+t ʔ u è ¹ h â ³ ¹	t u è ʔ ¹ h â ³ ¹	0.7910258173942566	2
+t ʔ u è ¹ ʔ o ³	t u è ʔ ¹ ʔ o ³	0.8462260961532593	2
+k o ³ t ʔ u è ¹ h a ³	k o ³ t u è ʔ ¹ h a ³	0.7281942367553711	2
+k o ³ t ʔ u è ¹ ʔ ⁵ u ³	k o ³ t u è ʔ ¹ ʔ u ³	0.9616538882255554	3
+k o ³ t ʔ u è ¹ é n ⁵	k o ³ t u è ʔ ¹ é n ⁵	0.7689152359962463	2
+k o ³ t ʔ u è ¹ h á ⁵ á ⁵	k o ³ t u è ʔ ¹ h á ⁵ á ⁵	0.5856437087059021	2
+k o ³ t ʔ u è ¹ h â ³ ¹	k o ³ t u è ʔ ¹ h â ³ ¹	0.7453084588050842	2
+k o ³ t ʔ u è ¹ ʔ o ³	k o ³ t u è ʔ ¹ ʔ o ³	0.681864321231842	2
+k i ³ t ʔ u è ¹ h a ³	k i ³ t u è ʔ ¹ h a ³	0.6702421307563782	2
+k i ³ t ʔ u è ¹ ʔ u ³	k i ³ t u è ʔ ¹ ʔ u ³	0.74245285987854	2
+k i ³ t ʔ u è ¹ é n ⁵	k i ³ t u è ʔ ¹ é n ⁵	0.7105020880699158	2
+k i ³ t ʔ u è ¹ h á ⁵ á ⁵	k i ³ t u è ʔ ¹ h á ⁵ á ⁵	0.5618389248847961	2
+k i ³ t ʔ u è ¹ h â ³ ¹	k i ³ t u è ʔ ¹ h â ³ ¹	0.684947669506073	2
+k i ³ t ʔ u è ¹ ʔ o ³	k i ³ t u è ʔ ¹ ʔ o ³	0.6459653973579407	2
+n ⁵ n d ʔ u è ¹ h a ³	n ⁵ n d u è ʔ ¹ h a ³	0.6619433760643005	2
+n ⁵ n d ʔ u è ¹ ʔ u ³	n ⁵ n d u è ʔ ¹ ʔ u ³	0.7332589030265808	2
+n ⁵ n d ʔ u è ¹ é n ⁵	n ⁵ n d u è ʔ ¹ é n ⁵	0.6438787579536438	2
+n ⁵ n d ʔ u è ¹ h á ⁵ á ⁵	n ⁵ n d u è ʔ ¹ h á ⁵ á ⁵	0.5689891576766968	2
+n ⁵ n d ʔ u è ¹ h â ³ ¹	n ⁵ n d u è ʔ ¹ h â ³ ¹	0.6344991326332092	2
+n ⁵ n d ʔ u è ¹ ʔ o ³	n ⁵ n d u è ʔ ¹ ʔ o ³	0.6580588221549988	2
+t o ³ t ʔ u è ¹ h a ³	t o ³ t u è ʔ ¹ h a ³	0.6918692588806152	2
+t o ³ t ʔ u è ¹ ʔ u ³	t o ³ t u è ʔ ¹ ʔ u ³	0.7205415368080139	2
+t o ³ t ʔ u è ¹ é n ⁵	t o ³ t u è ʔ ¹ é n ⁵	0.6853358149528503	2
+t o ³ t ʔ u è ¹ h á ⁵ á ⁵	t o ³ t u è ʔ ¹ h á ⁵ á ⁵	0.5225785970687866	2
+t o ³ t ʔ u è ¹ h â ³ ¹	t o ³ t u è ʔ ¹ h â ³ ¹	0.6935365200042725	2
+t o ³ t ʔ u è ¹ ʔ o ³	t o ³ t u è ʔ ¹ ʔ o ³	0.6475132703781128	2
+n ⁵ n g o ³ t ʔ u è ¹ h a ³	n ⁵ n g o ³ t u è ʔ ¹ h a ³	0.6435121893882751	2
+n ⁵ n g o ³ t ʔ u è ¹ ʔ u ³	n ⁵ n g o ³ t u è ʔ ¹ ʔ u ³	0.7201633453369141	2
+n ⁵ n g o ³ t ʔ u è ¹ é n ⁵	n ⁵ n g o ³ t u è ʔ ¹ é n ⁵	0.7783253192901611	2
+n ⁵ n g o ³ t ʔ u è ¹ h á ⁵ á ⁵	n ⁵ n g o ³ t u è ʔ ¹ h á ⁵ á ⁵	0.5087172985076904	2
+n ⁵ n g o ³ t ʔ u è ¹ h â ³ ¹	n ⁵ n g o ³ t u è ʔ ¹ h â ³ ¹	0.6697564125061035	2
+n ⁵ n g o ³ t ʔ u è ¹ ʔ o ³	n ⁵ n g o ³ t u è ʔ ¹ ʔ o ³	0.5768858790397644	2
+t ʔ u ì ¹ h a ³	h n d ʔ u î ³ ¹	1.8165953159332275	8
+t ʔ u ì ¹ ʔ u ³	h n d u î ʔ ³ ¹	1.8566330671310425	7
+t ʔ u ì ¹ é n ⁵	h n d u ì ʔ ¹	2.4069089889526367	7
+t ʔ u ì ¹ h á ⁵ á ⁵	h n d ʔ u i ³ ⁴	2.286630630493164	10
+t ʔ u ì ¹ h â ³ ¹	h n d ʔ u î ³ ¹	1.053279161453247	7
+t ʔ u ì ¹ ʔ o ³	h n d u i ʔ ³ o ʔ ³	1.8508315086364746	7
+k o ³ t ʔ u ì ¹ h a ³	m a ³ n d ʔ u î ³ ¹	1.6168875694274902	9
+k o ³ t ʔ u ì ¹ ʔ u ³	m a ³ n d u î ʔ ³ ¹	1.699764609336853	8
+k o ³ t ʔ u ì ¹ é n ⁵	ʔ ⁵ n d u ì ʔ ¹	1.9731169939041138	9
+k o ³ t ʔ u ì ¹ h á ⁵ á ⁵	k o ³ n d ʔ u i ³ ⁴	2.0985312461853027	9
+k o ³ t ʔ u ì ¹ h â ³ ¹	k o ³ n d ʔ u î ³ ¹	0.9527319073677063	6
+k o ³ t ʔ u ì ¹ ʔ o ³	k o ³ n d u i ʔ ³ o ʔ ³	1.6734814643859863	6
+k i ³ t ʔ u à ¹ h a ³	k í ⁵ n d ʔ u î ³ ¹	1.7023593187332153	9
+k i ³ t ʔ u à ¹ ʔ u ³	k í ⁵ n d u î ³ ¹	2.856685161590576	9
+k i ³ t ʔ u ì ¹ é n ⁵	k i ³ n d u ì ʔ ¹	1.6054763793945312	6
+k i ³ t ʔ u ì ¹ h á ⁵ á ⁵	k i ³ n d ʔ u i ³ ⁴	2.127096652984619	9
+k i ³ t ʔ u à ¹ h â ³ ¹	k í ⁵ n d ʔ u î ³ ¹	1.3290873765945435	8
+k i ³ t ʔ u ì ¹ ʔ o ³	k i ³ n d u i ʔ ³ o ʔ ³	1.7745152711868286	6
+n ⁵ n d ʔ u â ³ ¹ a ³	n ⁵ n d ʔ u î ³ ¹	1.3618593215942383	3
+n ⁵ n d ʔ u à ʔ ¹	n ⁵ n d u î ʔ ³ ¹	1.4309943914413452	3
+n ⁵ n d ì ⁵ ʔ u à ¹ é n ⁵	n ⁵ n d u ì ʔ ¹	1.4644688367843628	7
+n ⁵ n d ʔ u a ³ ⁴ á ⁵	n ⁵ n d ʔ u i ³ ⁴	1.9236971139907837	3
+n ⁵ n d ʔ u à ¹ h â ³ ¹	n ⁵ n d ʔ u î ³ ¹	0.6564536690711975	4
+n ⁵ n d ʔ u à ¹ ʔ o ³	n ⁵ n d u i ʔ ³ o ʔ ³	1.451128363609314	5
+t o ³ t ʔ u à ¹ h a ³	t o ³ n d ʔ u î ³ ¹	1.4822293519973755	7
+t o ³ t ʔ u à ¹ ʔ u ³	t o ³ n d u î ʔ ³ ¹	1.5096737146377563	6
+t o ³ t ʔ u à ¹ é n ⁵	t o ³ n d u ì ʔ ¹	1.6359723806381226	7
+t o ³ t ʔ u ì ¹ h á ⁵ á ⁵	t o ³ n d ʔ u i ³ ⁴	1.9018138647079468	9
+t o ³ t ʔ u ì ¹ h â ³ ¹	t o ³ n d ʔ u î ³ ¹	0.8758803009986877	6
+t o ³ t ʔ u i ʔ ³ ʔ o ³	t o ³ n d u i ʔ ³ o ʔ ³	1.502447247505188	4
+n ⁵ n g o ³ t ʔ u à ¹ h a ³	n ⁵ n g o ³ n d ʔ u î ³ ¹	1.1694306135177612	7
+n ⁵ n g o ³ t ʔ u à ¹ ʔ u ³	n ⁵ n g o ³ n d u î ʔ ³ ¹	1.2071657180786133	6
+n ⁵ n g o ³ t ʔ u à ¹ é n ⁵	n ⁵ n g o ³ n d u ì ʔ ¹	1.266204595565796	7
+n ⁵ n g o ³ t ʔ u à ¹ h á ⁵ á ⁵	n ⁵ n g o ³ n d ʔ u i ³ ⁴	1.5446277856826782	9
+n ⁵ n g o ³ t ʔ u à ¹ h â ³ ¹	n ⁵ n g o ³ n d ʔ u î ³ ¹	0.7244252562522888	6
+n ⁵ n g o ³ t ʔ u à ¹ ʔ o ³	n ⁵ n g o ³ n d u i ʔ ³ o ʔ ³	1.342993974685669	6
+t ʔ u ì ʔ ¹ n ʔ i ɔ ³	h n d u ì ʔ ¹ n ʔ i ɔ ³	1.1024264097213745	3
+t ʔ u ì ʔ ¹ n i ô ʔ ³ ¹	h n d u ì ʔ ¹ n i ô ʔ ³ ¹	1.1739455461502075	3
+t í ⁵ ʔ u ì ʔ ¹ n i o ʔ ³ ⁴	h n d u ì ʔ ¹ n i o ʔ ³ ⁴	0.6968671083450317	4
+t ʔ u ì ʔ ¹ n ʔ i ɔ ³ ⁴ ó n ⁵	h n d u ì ʔ ¹ n ʔ i ɔ ³ ⁴	1.5942494869232178	6
+t ʔ u ì ʔ ¹ n ʔ i ô ³ ¹	h n d u ì ʔ ¹ n ʔ i ô ³ ¹	1.2278518676757812	3
+t ʔ u ì ʔ ¹ n ʔ i o ³ ⁴ o ʔ ³	h n d u ì ʔ ¹ n ʔ i o ³ ⁴ o ʔ ³	0.9034051299095154	3
+k o ³ t ʔ u ì ʔ ¹ n ʔ i ɔ ³	k o ³ n d u ì ʔ ¹ n ʔ i ɔ ³	1.0194565057754517	2
+k o ³ t ʔ u ì ʔ ¹ n i ô ʔ ³ ¹	k o ³ n d u ì ʔ ¹ n i ô ʔ ³ ¹	0.997914731502533	2
+k o ³ t ʔ u ì ʔ ¹ n i o ʔ ³ ⁴	k o ³ n d u ì ʔ ¹ n i o ʔ ³ ⁴	0.8591070175170898	2
+k o ³ t ʔ u ì ʔ ¹ n ʔ i ɔ ³ ⁴ ó n ⁵	k o ³ n d u ì ʔ ¹ n ʔ i ɔ ³ ⁴	1.3768706321716309	5
+k o ³ t ʔ u ì ʔ ¹ n ʔ i ô ³ ¹	k o ³ n d u ì ʔ ¹ n ʔ i ô ³ ¹	1.073482871055603	2
+k o ³ t ʔ u ì ʔ ¹ n ʔ i o ³ ⁴ o ʔ ³	k o ³ n d u ì ʔ ¹ n ʔ i o ³ ⁴ o ʔ ³	0.8258723020553589	2
+k i ³ t ʔ u ì ʔ ¹ n ʔ i ɔ ³	k i ³ n d u ì ʔ ¹ n ʔ i ɔ ³	1.0902116298675537	2
+k i ³ t ʔ u ì ʔ ¹ n i ô ʔ ³ ¹	k i ³ n d u ì ʔ ¹ n i ô ʔ ³ ¹	1.1047654151916504	2
+k i ³ t ò ʔ ¹ n i o ʔ ³ ⁴	k i ³ n d u ì ʔ ¹ n i o ʔ ³ ⁴	0.8320990800857544	4
+k i ³ t ʔ u ì ʔ ¹ n ʔ i ɔ ³ ⁴ ó n ⁵	k i ³ n d u ì ʔ ¹ n ʔ i ɔ ³ ⁴	1.568467378616333	5
+k i ³ t ʔ u ì ʔ ¹ n ʔ i ô ³ ¹	k i ³ n d u ì ʔ ¹ n ʔ i ô ³ ¹	1.1297125816345215	2
+k i ³ t ʔ u ì ʔ ¹ n ʔ i o ³ ⁴ o ʔ ³	k i ³ n d u ì ʔ ¹ n ʔ i o ³ ⁴ o ʔ ³	0.9472548961639404	2
+n ⁵ n d ʔ u ì ʔ ¹ n ʔ i ɔ ³	n ⁵ n d u ì ʔ ¹ n ʔ i ɔ ³	0.5078491568565369	1
+n ⁵ n d ì ⁵ ʔ ¹ n i ô ʔ ³ ¹	n ⁵ n d u ì ʔ ¹ n i ô ʔ ³ ¹	0.41706350445747375	2
+n ⁵ n d ì ⁵ ʔ ¹ n i o ʔ ³ ⁴	n ⁵ n d u ì ʔ ¹ n i o ʔ ³ ⁴	0.4727800786495209	2
+n ⁵ n d ʔ u ì ʔ ¹ n ʔ i ɔ ³ ⁴ ó n ⁵	n ⁵ n d u ì ʔ ¹ n ʔ i ɔ ³ ⁴	1.0075267553329468	4
+n ⁵ n d ʔ u ì ʔ ¹ n ʔ i ô ³ ¹	n ⁵ n d u ì ʔ ¹ n ʔ i ô ³ ¹	0.5048585534095764	1
+n ⁵ n d ʔ u ì ¹ n ʔ i o ³ ⁴ o ʔ ³	n ⁵ n d u ì ʔ ¹ n ʔ i o ³ ⁴ o ʔ ³	0.4446505308151245	2
+t o ³ t ʔ u ì ʔ ¹ n ʔ i ɔ ³	t o ³ n d u ì ʔ ¹ n ʔ i ɔ ³	1.0410727262496948	2
+t o ³ t ʔ u ì ʔ ¹ n i ô ʔ ³ ¹	t o ³ n d u ì ʔ ¹ n i ô ʔ ³ ¹	1.0372275114059448	2
+t o ³ t ʔ u ì ʔ ¹ n i o ʔ ³ ⁴	t o ³ n d u ì ʔ ¹ n i o ʔ ³ ⁴	0.6180185079574585	2
+t o ³ t ʔ u ì ʔ ¹ n ʔ i ɔ ³ ⁴ ó n ⁵	t o ³ n d u ì ʔ ¹ n ʔ i ɔ ³ ⁴	1.4085214138031006	5
+t o ³ t ʔ u ì ʔ ¹ n ʔ i ô ³ ¹	t o ³ n d u ì ʔ ¹ n ʔ i ô ³ ¹	1.1645938158035278	2
+t o ³ t ʔ u ì ʔ ¹ n ʔ i o ³ ⁴ o ʔ ³	t o ³ n d u ì ʔ ¹ n ʔ i o ³ ⁴ o ʔ ³	0.8871647715568542	2
+n ⁵ n g o ³ t ʔ u ì ʔ ¹ n ʔ i ɔ ³	n ⁵ n g o ³ n d u ì ʔ ¹ n ʔ i ɔ ³	0.8933734893798828	2
+n ⁵ n g o ³ t ʔ u ì ʔ ¹ n i ô ʔ ³ ¹	n ⁵ n g o ³ n d u ì ʔ ¹ n i ô ʔ ³ ¹	0.9374094605445862	2
+n ⁵ n g o ³ t ʔ u ì ʔ ¹ n i o ʔ ³ ⁴	n ⁵ n g o ³ n d u ì ʔ ¹ n i o ʔ ³ ⁴	0.6821199655532837	2
+n ⁵ n g o ³ t ʔ u ì ʔ ¹ n ʔ i ɔ ³ ⁴ ó n ⁵	n ⁵ n g o ³ n d u ì ʔ ¹ n ʔ i ɔ ³ ⁴	1.1789681911468506	5
+n ⁵ n g o ³ t ʔ u ì ʔ ¹ n ʔ i ô ³ ¹	n ⁵ n g o ³ n d u ì ʔ ¹ n ʔ i ô ³ ¹	0.9683480262756348	2
+n ⁵ n g o ³ t ʔ u ì ʔ ¹ n ʔ i o ³ ⁴ o ʔ ³	n ⁵ n g o ³ n d u ì ʔ ¹ n ʔ i o ³ ⁴ o ʔ ³	0.7844064831733704	2
+t í ⁵ ʔ u ì ¹ ʔ ɔ ⁵ ³	h n d u ì ʔ ¹ t k ó ʔ ⁵ h a ³	1.4529740810394287	11
+t í ⁵ ʔ u ì ¹ t k ó ʔ ⁵ ʔ u ³	h n d u ì ʔ ¹ t k ó ʔ ⁵ ʔ u ³	0.9109137654304504	5
+t í ⁵ ʔ u ì ¹ t k ó ʔ ⁵ é n ⁵	h n d u ì ʔ ¹ t k ó ʔ ⁵ é n ⁵	0.7400522828102112	5
+t ʔ u ì ¹ n ʔ ɔ ⁵ ó ⁵	h n d u i ʔ ³ n t k ó ʔ ⁵ h á ⁵ á ⁵	1.882721185684204	13
+t ʔ u ì ¹ n ʔ ô ³ ¹	h n d u i ʔ ³ n t k ó ʔ ⁵ h â ³ ¹	1.973867654800415	12
+t ʔ u ì ¹ n ʔ ó ⁵ ʔ o ³	h n d u i ʔ ³ n t k ó ʔ ⁵ ʔ o ³	1.9053754806518555	9
+k o ³ t ʔ u ì ¹ ʔ ó ⁵ h a ³	b á ⁵ n d u ì ʔ ¹ t k ó ʔ ⁵ h a ³	1.716461181640625	9
+k o ³ t ʔ u ì ¹ ʔ ó ⁵ ʔ u ³	b á ⁵ n d u ì ʔ ¹ t k ó ʔ ⁵ ʔ u ³	1.1217066049575806	9
+k o ³ t ʔ u ì ¹ t k ó ʔ ⁵ é n ⁵	b á ⁵ n d u ì ʔ ¹ t k ó ʔ ⁵ é n ⁵	1.120429515838623	6
+k o ³ t ʔ u ì ¹ n ʔ ɔ ⁵ ó ⁵	k o ³ n d u i ʔ ³ n t k ó ʔ ⁵ h á ⁵ á ⁵	1.5869230031967163	12
+k o ³ t ʔ u ì ¹ n ʔ ô ³ ¹	k o ³ n d u i ʔ ³ n t k ó ʔ ⁵ h â ³ ¹	1.5699889659881592	11
+k o ³ t ʔ u ì ¹ n ʔ ó ⁵ ʔ o ³	k o ³ n d u i ʔ ³ n t k ó ʔ ⁵ ʔ o ³	1.5124951601028442	8
+k i ³ t ʔ u ì ¹ ʔ ó ⁵ h a ³	k i ³ n d u ì ʔ ¹ t k ó ʔ ⁵ h a ³	1.1611295938491821	6
+k i ³ t ʔ u ì ¹ ʔ ó ⁵ ʔ u ³	k i ³ n d u ì ʔ ¹ t k ó ʔ ⁵ ʔ u ³	0.7039542198181152	6
+k i ³ t ò ʔ ¹ t k ó ʔ ⁵ é n ⁵	k i ³ n d u ì ʔ ¹ t k ó ʔ ⁵ é n ⁵	0.5727740526199341	4
+k i ³ t ʔ u ì ¹ n ʔ ɔ ⁵ ó ⁵	k i ³ n d u i ʔ ³ n t k ó ʔ ⁵ h á ⁵ á ⁵	2.004664421081543	12
+k i ³ t ʔ u ì ¹ n ʔ ô ³ ¹	k i ³ n d u ì ʔ ³ n t k ó ʔ ⁵ h â ³ ¹	1.9334388971328735	10
+k i ³ t ʔ u ì ¹ n ʔ ó ⁵ ʔ o ³	k i ³ n d u i ʔ ³ n t k ó ⁵ ʔ o ³	2.2178030014038086	7
+n ⁵ n d ì ⁵ ʔ u ì ¹ ʔ ɔ ⁵ ³	n ⁵ n d u ì ʔ ¹ t k ó ʔ ⁵ h a ³	0.8878675699234009	9
+n ⁵ n d ʔ u ì ¹ t k ó ʔ ⁵ ʔ u ³	n ⁵ n d u ì ʔ ¹ t k ó ʔ ⁵ ʔ u ³	0.382649689912796	2
+n ⁵ n d ì ⁵ ʔ ¹ t k ó ʔ ⁵ é n ⁵	n ⁵ n d u ì ʔ ¹ t k ó ʔ ⁵ é n ⁵	0.4679579436779022	2
+n ⁵ n d ʔ u ì ¹ n ʔ ɔ ⁵ ó ⁵	n ⁵ n d u i ʔ ³ t k ó ʔ ⁵ h á ⁵ á ⁵	1.2670594453811646	10
+n ⁵ n d ʔ u ì ¹ n ʔ ô ³ ¹	n ⁵ n d u i ʔ ³ n t k ó ʔ ⁵ h â ³ ¹	1.538790225982666	10
+n ⁵ n d ʔ u ì ¹ n ʔ ó ⁵ ʔ o ³	n ⁵ n d u i ʔ ³ n t k ó ʔ ⁵ ʔ o ³	1.834760069847107	7
+t o ³ t ʔ u ì ¹ ʔ ó ⁵ h a ³	t o ³ n d u ì ʔ ¹ t k ó ʔ ⁵ h a ³	1.1841228008270264	6
+t o ³ t ʔ u ì ¹ t k ó ʔ ⁵ ʔ u ³	t o ³ n d u ì ʔ ¹ t k ó ʔ ⁵ ʔ u ³	0.7709227800369263	3
+t o ³ t ò ʔ ¹ t k ó ʔ ⁵ é n ⁵	t o ³ n d u ì ʔ ¹ t k ó ʔ ⁵ é n ⁵	0.46655452251434326	4
+t o ³ t ʔ u ì ¹ n ʔ ɔ ⁵ ó ⁵	t o ³ n d u i ʔ ³ n t k ó ʔ ⁵ h á ⁵ á ⁵	1.561559796333313	12
+t o ³ t ʔ u ì ¹ n ʔ ô ³ ¹	t o ³ n d u i ʔ ³ n t k ó ʔ ⁵ h â ³ ¹	1.493685007095337	11
+t o ³ t ʔ u ì ¹ n ʔ ó ⁵ ʔ o ³	t o ³ n d u i ʔ ³ n t k ó ʔ ⁵ ʔ o ³	1.4758832454681396	8
+n ⁵ n g o ³ t ʔ u ì ¹ ʔ ó ⁵ h a ³	n ⁵ n g o ³ n d u ì ʔ ¹ t k ó ʔ ⁵ h a ³	0.9708127379417419	6
+n ⁵ n g o ³ t ʔ u ì ¹ t k ó ʔ ⁵ ʔ u ³	n ⁵ n g o ³ n d u ì ʔ ¹ t k ó ʔ ⁵ ʔ u ³	0.6760415434837341	3
+n ⁵ n g o ³ t ò ʔ ¹ t k ó ʔ ⁵ é n ⁵	n ⁵ n g o ³ n d u ì ¹ t k ó ʔ ⁵ é n ⁵	0.8743746876716614	4
+n ⁵ n g o ³ t ʔ u ì ¹ n ʔ ɔ ⁵ ó ⁵	n ⁵ n g o ³ n d u ì ʔ ³ n t k o ʔ ⁵ h á ⁵ á ⁵	1.6773711442947388	11
+n ⁵ n g o ³ t ʔ u ì ¹ n ʔ ô ³ ¹	n ⁵ n g o ³ n d u ì ʔ ³ n t k ó ʔ ⁵ h â ³ ¹	1.504703164100647	10
+n ⁵ n g o ³ t ʔ u ì ¹ n ʔ ó ⁵ ʔ o ³	n ⁵ n g o ³ n d u ì ʔ ³ n t k ó ʔ ⁵ ʔ o ³	1.5698238611221313	7
+t ʔ u è ¹ h a ³	h n d u ì ʔ ¹ x h è n ¹ h a ³	1.7985258102416992	9
+t ʔ u è ¹ ʔ u ³	h n d u ì ʔ ¹ x h è n ¹ ʔ u ³	2.3356544971466064	9
+t ʔ u è ¹ é n ⁵	h n d u ì ʔ ¹ x h è n ¹ é n ⁵	1.7713923454284668	9
+t ʔ u è ¹ h á ⁵ á ⁵	h n d u ì ʔ ¹ x h è n ¹ h á ⁵ á ⁵	1.857441782951355	9
+t ʔ u è ¹ h â ³ ¹	h n d u ì ʔ ¹ x h è n ¹ h â ³ ¹	1.694960355758667	9
+t ʔ u è ¹ ʔ o ³	h n d u ì ʔ ¹ x h è n ¹ ʔ o ³	1.6936438083648682	9
+k o ³ t ʔ u è ¹ x h a n ³	k o ³ n d u ì ʔ ¹ x h è n ¹ h a ³	1.6197504997253418	8
+k o ³ t ʔ u è ¹ x h è n ʔ ¹	k o ³ n d u ì ʔ ¹ x h è n ¹ ʔ u ³	2.144730567932129	7
+k o ³ t ʔ u è ¹ x h è ¹	k o ³ n d u ì ʔ ¹ x h è n ¹ é n ⁵	1.7372256517410278	8
+k o ³ t ʔ u è ¹ h á ⁵ á ⁵ x h á ⁵	k o ³ n d u ì ʔ ¹ x h è n ¹ h á ⁵ á ⁵	1.5943495035171509	11
+k o ³ t ʔ u è ¹ h â ³ ¹	k o ³ n d u ì ʔ ¹ x h è n ¹ h â ³ ¹	1.48603355884552	8
+k o ³ t ʔ u è ¹ ʔ o ³	k o ³ n d u ì ʔ ¹ x h è n ¹ ʔ o ³	1.464482069015503	8
+k i ³ t ʔ u è ¹ x h a n ³	k i ³ n d u ì ʔ ¹ x h è n ¹ h a ³	1.5996994972229004	8
+k i ³ t ʔ u è ¹ x h è n ʔ ¹	k i ³ n d u ì ʔ ¹ x h è n ¹ ʔ u ³	2.0757479667663574	7
+k i ³ t ʔ u è ¹ x h è ¹	k i ³ n d u ì ʔ ¹ x h è n ¹ é n ⁵	1.64628005027771	8
+k i ³ t ʔ u è ¹ h á ⁵ á ⁵ x h á ⁵	k i ³ n d u ì ʔ ¹ x h è n h á ⁵ á ⁵	2.1338162422180176	10
+k i ³ t ʔ u è ¹ h â ³ ¹	k i ³ n d u ì ʔ ¹ x h è n ¹ h â ³ ¹	1.517047643661499	8
+k i ³ t ʔ u è ¹ ʔ o ³	k i ³ n d u ì ʔ ¹ x h è n ¹ ʔ o ³	1.558207631111145	8
+n ⁵ n d ʔ u è ¹ x h a n ³	n ⁵ n d u ì ¹ ʔ x h è n ¹ h a ³	2.3654356002807617	7
+n ⁵ n d ʔ u è ¹ x h è n ʔ ¹	n ⁵ n d u ì ʔ ¹ x h è n ¹ ʔ u ³	1.404378056526184	6
+n ⁵ n d ʔ u è ¹ x h è ¹	n ⁵ n d u ì ʔ ¹ x h è n ¹ é n ⁵	1.1832281351089478	7
+n ⁵ n d ʔ u è ¹ h á ⁵ á ⁵	n ⁵ n d u ì ʔ ¹ x h è n ¹ h á ⁵ á ⁵	1.1688528060913086	6
+n ⁵ n d ʔ u è ¹ h â ³ ¹	n ⁵ n d u ì ʔ ¹ x h è n ¹ h â ³ ¹	1.0875788927078247	6
+n ⁵ n d ʔ u è ¹ h n è ¹ ʔ o ³	n ⁵ n d u ì ʔ ¹ x h è n ¹ ʔ o ³	0.9299237728118896	6
+t o ³ t ʔ u è ¹ x h a n ³	t o ³ n d u ì ʔ ¹ x h è n ¹ h a ³	1.5580921173095703	8
+t o ³ t ʔ u è ¹ x h è n ʔ ¹	t o ³ n d u ì ʔ ¹ x è n ¹ ʔ u ³	2.3470351696014404	8
+t o ³ t ʔ u è ¹ x h è ¹	t o ³ n d u ì ʔ ¹ x h è n ¹ é n ⁵	1.6640470027923584	8
+t o ³ t ʔ u è ¹ h á ⁵ á ⁵	t o ³ n d u ì ʔ ¹ x h è n ¹ h á ⁵ á ⁵	1.6255607604980469	8
+t o ³ t ʔ u è ¹ h â ³ ¹	t o ³ n d u ì ʔ ¹ x h è n ¹ h â ³ ¹	1.4702973365783691	8
+t o ³ t ʔ u è ¹ ʔ o ³	t o ³ n d u ì ʔ ¹ x h è n ¹ ʔ o ³	1.4253993034362793	8
+n ⁵ n g o ³ t ʔ u è ¹ x h è ¹ h a ³	n ⁵ n g o ³ n d u ì ʔ ¹ x h è n ¹ h a ³	1.2999197244644165	5
+n ⁵ n g o ³ t ʔ u è ¹ x h è ¹ ʔ u ³	n ⁵ n g o ³ n d u ì ʔ ¹ x h è n ¹ ʔ u ³	1.6199805736541748	5
+n ⁵ n g o ³ t ʔ u è ¹ x h è ¹	n ⁵ n g o ³ n d u ì ʔ ¹ x h è n ¹ é n ⁵	1.2938915491104126	8
+n ⁵ n g o ³ t ʔ u è ¹ n k ʔ u è ¹ h á ⁵ á ⁵	n ⁵ n g o ³ n d u i ʔ ¹ x h è n ¹ h á ⁵ á ⁵	1.1980865001678467	9
+n ⁵ n g o ³ t ʔ u è ¹ n k h â ³ ¹	n ⁵ n g o ³ n d u ì ʔ ¹ x h è n ¹ h â ³ ¹	1.2495273351669312	8
+n ⁵ n g o ³ t ʔ u è ¹ n k h n è ¹ ʔ o ³	n ⁵ n g o ³ n d u ì ʔ ¹ x h è n ¹ ʔ o ³	1.1126700639724731	8
+t í ⁵ x ʔ u ì ʔ ¹ n ɔ ⁵ ³	h n d u ì ʔ ¹ x ʔ o n ⁵ ³ h a ³	1.3976025581359863	12
+t í ⁵ x ʔ u ì ʔ ¹ x ʔ o n ʔ ⁵ ³	h n d u ì ʔ ¹ x ʔ o n ⁵ ³ ʔ u ³	1.4360111951828003	8
+t ò ʔ ¹ x ʔ o n ³ ⁵ é n ⁵	h n d u ì ʔ ¹ x ʔ o n ⁵ ³ é n ⁵	1.253782033920288	7
+t ò ʔ ¹ x ʔ ɔ n ¹ ² ó n ⁵	h n d u i ʔ ³ n g ʔ o n ⁵ ³ h á ⁵ á ⁵	3.130458116531372	15
+t í ⁵ x ʔ o ì ʔ ¹ n d ê ³ ¹	h n d u i ³ n g ʔ o n ⁵ ³ h â ³ ¹	3.4905452728271484	13
+t ò ʔ ¹ x ʔ o n ¹ ² o ʔ ³	h n d u i ʔ ³ n g ʔ o n ⁵ ³ ʔ o ³	3.4175310134887695	12
+k o ³ t ʔ u ì ʔ ¹ x ʔ ɔ n ⁵ ³	k o ³ n d u ì ʔ ¹ x ʔ o n ⁵ ³ h a ³	1.2980772256851196	6
+k o ³ t ò ʔ ¹ x ʔ o n ʔ ⁵ ³	k o ³ n d u ì ʔ ¹ x ʔ o n ⁵ ³ ʔ u ³	1.4276087284088135	7
+k o ³ t ò ʔ ¹ x ʔ o n ³ ⁵	k o ³ n d u ì ʔ ¹ x ʔ o n ⁵ ³ é n ⁵	1.25798761844635	7
+k o ³ t ʔ u ì ʔ ¹ n ʔ ɔ ¹ ²	k o ³ n d u i ʔ ³ n g ʔ o n ⁵ ³ h á ⁵ á ⁵	2.9708173274993896	14
+k o ³ t ʔ u ì ʔ ¹ n d ê ³ ¹	k o ³ n d u i ʔ ³ n g ʔ o n ⁵ ³ h â ³ ¹	3.0904645919799805	12
+k o ³ t ʔ u ì ʔ ¹ n d ɛ ¹ ² o ʔ ³	k o ³ n d u i ʔ ³ n g ʔ o n ⁵ ³ ʔ o ³	3.1462936401367188	11
+k i ³ t ò ʔ ¹ x ʔ ɔ n ⁵ ³	k i ³ n d u ì ʔ ¹ x ʔ o n ⁵ ³ h a ³	1.0561082363128662	8
+k i ³ t ò ʔ ¹ x ʔ o n ʔ ⁵ ³	k i ³ n d u ì ʔ ¹ x ʔ o n ⁵ ³ ʔ u ³	1.1032629013061523	7
+k i ³ t ò ʔ ¹ x ʔ o n ³ ⁵	k i ³ n d u ì ʔ ¹ x ʔ o n ⁵ ³ é n ⁵	1.09375	7
+k i ³ t ò ʔ ¹ x ʔ ɔ n ¹ ²	k i ³ n d u i ʔ ³ n g ʔ o n ⁵ ³ h á ⁵ á ⁵	2.90035080909729	15
+k i ³ t ò ʔ ¹ x ʔ ô n ³ ¹	k i ³ n d u i ʔ ³ n g ʔ o n ⁵ ³ h â ³ ¹	3.0548787117004395	12
+k i ³ t ò ʔ ¹ x ʔ o n ¹ ² o ʔ ³	k i ³ n d u i ʔ ³ n g ʔ o n ⁵ ³ ʔ o ³	3.1753134727478027	11
+n ⁵ n d ì ⁵ x ʔ u ì ʔ ¹ n ɔ ⁵ ³	n ⁵ n d u ì ʔ ¹ x ʔ o n ⁵ ³ h a ³	0.8964806795120239	10
+n ⁵ n d ì ⁵ x ʔ u o n ʔ ⁵ ³	n ⁵ n d u ì ʔ ¹ x ʔ o n ⁵ ³ ʔ u ³	1.0298130512237549	7
+n ⁵ n d ì ⁵ x ʔ o n ³ ⁵ é n ⁵	n ⁵ n d u ì ʔ ¹ x ʔ o n ⁵ ³ é n ⁵	0.8948476314544678	5
+n ⁵ n d ʔ u ì ʔ ¹ n d ɛ ¹ ²	n ⁵ n d u i ʔ ³ n g ʔ o n ⁵ ³ h á ⁵ á ⁵	2.789280414581299	13
+n ⁵ n d ì ⁵ x ʔ o n ʔ ⁵ ³ h â ³ ¹	n ⁵ n d u i ʔ ³ n g ʔ o n ⁵ ³ h â ³ ¹	3.0096659660339355	7
+n ⁵ n d ʔ u ì ʔ ¹ n d ɛ ¹ ² o ʔ ³	n ⁵ n d u i ʔ ³ n g ʔ o n ⁵ ³ ʔ o ³	3.034501791000366	10
+t o ³ t ò ʔ ¹ x ʔ ɔ n ⁵ ³	t o ³ n d u ì ʔ ¹ x ʔ o n ⁵ ³ h a ³	1.2360875606536865	8
+t o ³ t ò ʔ ¹ x ʔ o n ʔ ⁵ ³	t o ³ n d u ì ʔ ¹ x ʔ o n ⁵ ³ ʔ u ³	1.2711671590805054	7
+t o ³ t ò ʔ ¹ x ʔ o n ³ ⁵	t o ³ n d u ì ʔ ¹ x ʔ o n ⁵ ³ é n ⁵	1.1459566354751587	7
+t o ³ t ò ʔ ¹ x ʔ ɔ n ¹ ²	t o ³ n d u i ʔ ³ n g ʔ o n ⁵ ³ h á ⁵ á ⁵	2.9332399368286133	15
+t o ³ t ò ʔ ¹ x ʔ ô n ³ ¹	t o ³ n d u i ʔ ³ n g ʔ o n ⁵ ³ h â ³ ¹	3.0796093940734863	12
+t o ³ t ò ʔ ¹ x ʔ o n ¹ ² o ʔ ³	t o ³ n d u i ʔ ³ n g ʔ o n ⁵ ³ ʔ o ³	3.1521294116973877	11
+n ⁵ n g o ³ t ò ʔ ¹ x ʔ ɔ n ⁵ ³	n ⁵ n g o ³ n d u ì ʔ ¹ x ʔ o n ⁵ ³ h a ³	0.9240878820419312	8
+n ⁵ n g o ³ t ò ʔ ¹ x ʔ o n ʔ ⁵ ³	n ⁵ n g o ³ n d u ì ʔ ¹ x ʔ o n ⁵ ³ ʔ u ³	1.0113060474395752	7
+n ⁵ n g o ³ t ò ʔ ¹ x ʔ o n ³ ⁵	n ⁵ n g o ³ n d u ì ʔ ¹ x ʔ o n ⁵ ³ é n ⁵	0.8891082406044006	7
+n ⁵ n g o ³ t ò ʔ ¹ x ʔ ɔ n ¹ ² ó n ⁵	n ⁵ n g o ³ n d u i ʔ ³ n g ʔ o n ⁵ ³ h á ⁵ á ⁵	2.6557822227478027	14
+n ⁵ n g o ³ t ò ʔ ¹ x ʔ ô n ³ ¹	n ⁵ n g o ³ n d u i ʔ ³ n g ʔ o n ⁵ ³ h â ³ ¹	2.775376558303833	12
+n ⁵ n g o ³ t ò ʔ ¹ x ʔ o n ¹ ² o ʔ ³	n ⁵ n g o ³ n d u i ʔ ³ n g ʔ o n ⁵ ³ ʔ o ³	2.9426252841949463	11
+t ʔ u à ¹ h a ³	h n d ʔ u î ³ ¹ y a ¹ ²	2.5674657821655273	8
+t ʔ u à ¹ ʔ u ³	h n d u î ʔ ³ ¹ y à ʔ ¹	1.74667227268219	10
+t ʔ u à ¹ é n ⁵	h n d u ì ʔ ¹ y à ¹	1.9507755041122437	8
+t ʔ u à ¹ h á ⁵ á ⁵	h n d ʔ u i ³ ⁴ y a ¹ ² á ⁵	1.2351181507110596	10
+h n d y ʔ u à ¹ h â ³ ¹	h n d ʔ u î ³ ¹ y â ³ ¹	1.5533562898635864	4
+t ʔ u à ¹ ʔ o ³	h n d u i ʔ ³ y à ¹ o ʔ ³	1.5947723388671875	9
+m a ³ n d ʔ u à ¹ h a ³	m a ³ n d ʔ u î ³ ¹ y a ¹ ²	1.845023512840271	5
+m a ³ n d ʔ u à ʔ ¹	m a ³ n d u î ʔ ³ ¹ y à ʔ ¹	1.3824814558029175	5
+k o ³ t y ʔ u à ¹ é n ⁵	ʔ ⁵ n d u ì ʔ ¹ y à ¹	2.302323818206787	11
+k o ³ n d ʔ u à ¹ h á ⁵ á ⁵	k o ³ n d ʔ u i ³ ⁴ y a ¹ ² á ⁵	0.7302774786949158	7
+k o ³ n d ʔ u à ¹ h â ³ ¹	k o ³ n d ʔ u î ³ ¹ y â ³ ¹	1.019742488861084	3
+k o ³ n d ʔ u à ¹ ʔ o ³	k o ³ n d u i ʔ ³ y à ¹ o ʔ ³	1.3284430503845215	6
+k i ³ t y ì ʔ ¹ y a ¹ ² h a ³	k í ⁵ n d ʔ u î ³ ¹ y a ¹ ²	2.524963617324829	11
+k i ³ n d y ʔ u à ¹ ʔ u ³	k í ⁵ n d u î ʔ ³ ¹ y à ʔ ¹	2.1215929985046387	10
+k i ³ n d y ʔ u à ¹ é n ⁵	k i ³ n d u ì ʔ ¹ y à ¹	1.5838563442230225	7
+k i ³ t y ì ʔ ¹ y ʔ à ¹ h á ⁵ á ⁵	k i ³ n d ʔ u i ³ ⁴ y a ¹ ² á ⁵	1.0960720777511597	11
+k i ³ t y ì ʔ ¹ y ʔ â ³ ¹	k i ³ n d ʔ u î ³ ¹ y â ³ ¹	1.4922806024551392	7
+k i ³ t y ì ʔ ¹ y à ¹ ʔ o ³	k i ³ n d u i ʔ ³ y à ¹ o ʔ ³	1.3595905303955078	7
+n ⁵ n d ʔ u à ¹ h a ³	n ⁵ n d ʔ u î ³ ¹ y a ¹ ²	2.0127596855163574	5
+n ⁵ n d ʔ u à ¹ ʔ u ³	n ⁵ n d u î ʔ ³ ¹ y à ʔ ¹	2.091169834136963	8
+n ⁵ n d y u à ¹ é n ⁵	n ⁵ n d u ì ʔ ¹ y à ¹	1.601746678352356	6
+n ⁵ n d ʔ u à ¹ h á ⁵ á ⁵	n ⁵ n d ʔ u i ³ ⁴ y a ¹ ² á ⁵	0.9659478068351746	7
+n ⁵ n d í ⁵ ʔ u à ¹ h â ³ ¹	n ⁵ n d ʔ u î ³ ¹ y â ³ ¹	1.2209844589233398	5
+n ⁵ n d ʔ u à ¹ ʔ o ³	n ⁵ n d u i ʔ ³ y à ¹ o ʔ ³	1.4423154592514038	6
+t o ³ n d y ʔ u à ¹ h a ³	t o ³ n d ʔ u î ³ ¹ y a ¹ ²	1.9985320568084717	6
+t o ³ n d y ʔ u à ¹ ʔ u ³	t o ³ n d y u î ʔ ³ ¹ y à ʔ ¹	1.5163215398788452	8
+t o ³ n d y û ʔ à ¹ é n ⁵	t o ³ n d u ì ʔ ¹ y à ¹	1.3093842267990112	6
+t o ³ n d ʔ u à ¹ h á ⁵ á ⁵	t o ³ n d ʔ u i ³ ⁴ y a ¹ ² á ⁵	0.5756114721298218	7
+t o ³ n d y ʔ u à ¹ h â ³ ¹	t o ³ n d ʔ u î ³ ¹ y â ³ ¹	1.171251893043518	4
+t o ³ n d y ʔ u à ¹ ʔ o ³	t o ³ n d u i ʔ ³ y à ¹ o ʔ ³	1.2614758014678955	6
+n ⁵ n g o ³ n d ʔ u à ¹ h a ³	n ⁵ n g o ³ n d ʔ u î ³ ¹ y a ¹ ²	1.3887299299240112	5
+n ⁵ n g o ³ n d ʔ u à ʔ ¹	n ⁵ n g o ³ n d u î ʔ ³ ¹ y à ʔ ¹	1.431573510169983	5
+n ⁵ n g o ³ n d ʔ u à ¹ é n ⁵	n ⁵ n g o ³ n d u ì ʔ ¹ y à ¹	1.3263417482376099	6
+n ⁵ n g o ³ t y ì ʔ ¹ y ʔ à ¹ h á ⁵ á ⁵	n ⁵ n g o ³ n d ʔ u i ³ ⁴ y a ¹ ² á ⁵	0.7581625580787659	11
+n ⁵ n g o ³ t y ʔ u à ¹ h â ³ ¹	n ⁵ n g o ³ n d ʔ u î ³ ¹ y â ³ ¹	0.8755350112915039	5
+n ⁵ n g o ³ t y ì ʔ ¹ y à ¹ ʔ o ³	n ⁵ n g o ³ n d u i ʔ ³ y à ¹ o ʔ ³	1.159651517868042	7
+t í ⁵ ʔ u ⁵ h a ³	t u i ⁵ ³	3.633967638015747	6
+t í ⁵ ʔ u ³	t u î ʔ ³ ¹	1.7144962549209595	4
+t í ⁵ ʔ u a ʔ ³	t u í ʔ ⁵	3.6781508922576904	5
+t í ⁵ n ⁵ n k ʔ ɔ ⁵ ó ⁵	t u í ⁵ í ⁵	3.4033291339874268	9
+t í ⁵ n k ʔ u ê ³ ¹	t u î ³ ¹	2.451300621032715	6
+t í ⁵ ʔ u é ⁵ ʔ o ³	t u í ⁵ o ʔ ³	1.8860759735107422	6
+m a ³ n d í ⁵ ʔ u ⁵ ³ h a ³	b à ʔ ¹ n d u i ⁵ ³	2.419891595840454	11
+b á ⁵ n d í ⁵ ʔ u è ʔ ¹	b a ³ n d u î ʔ ³ ¹	1.9840160608291626	7
+ʔ ⁵ n d u í ⁵	b á ⁵ n d u í ʔ ⁵	2.7679245471954346	3
+k o ³ n d ʔ u ɛ ⁵ é ⁵	b á ⁵ n d u í ⁵ í ⁵	2.5053389072418213	6
+k o ³ n d ʔ u ê ³ ¹	b á ⁵ n d u î ³ ¹	2.044631242752075	5
+k o ³ n d ʔ u é ⁵ ʔ o ³	b á ⁵ n d u í ⁵ o ʔ ³	1.4910368919372559	7
+k w í ⁵ ʔ u ⁵ h a ³	k í ⁵ n d u i ⁵ ³	2.3754098415374756	6
+k w í ⁵ ʔ u ³	k í ⁵ n d u î ʔ ³ ¹	1.253822684288025	6
+k w í ⁵ ʔ u é ⁵ é n ⁵	k í ⁵ n d u í ʔ ⁵	2.867825746536255	7
+k w í ⁵ ʔ u ɛ ⁵ é ⁵	k í ⁵ n d u í ⁵ í ⁵	2.550222158432007	5
+k w í ⁵ ʔ u â ³ ¹	k í ⁵ n d u î ³ ¹	2.13787579536438	4
+k w í ⁵ ʔ u é ⁵ ʔ o ³	k í ⁵ n d u í ⁵ o ʔ ³	2.38573956489563	6
+n ⁵ n d í ⁵ ʔ u ⁵ ³	n ⁵ n d u i ⁵ ³	1.796894907951355	4
+n ⁵ n d u à ʔ ¹	n ⁵ n d u î ʔ ³ ¹	0.7908903360366821	2
+n ⁵ n d í ⁵ ʔ u a ʔ ⁵ é n ⁵	n ⁵ n d u í ʔ ⁵	2.228904962539673	7
+n ⁵ n d í ⁵ ʔ u ɛ ⁵ é ⁵	n ⁵ n d u í ⁵ í ⁵	1.9554879665374756	5
+n ⁵ n d ʔ u ê ³ ¹	n ⁵ n d u î ³ ¹	1.5419145822525024	2
+n ⁵ n d ʔ u é ⁵ o ʔ ³	n ⁵ n d u í ⁵ o ʔ ³	1.1641312837600708	2
+t o ³ n d í ⁵ ʔ u ⁵ ³ h a ³	t o ³ n d u í ⁵ ³	1.728928565979004	7
+t o ³ n d í ⁵ ʔ u à ʔ ¹	t o ³ n d u î ʔ ³ ¹	1.1038470268249512	5
+t o ³ n d í ⁵ ʔ u ⁵ é n ⁵	t o ³ n d u í ʔ ⁵	2.3749561309814453	6
+t o ³ n d ʔ u ɛ ⁵ é ⁵	t o ³ n d u í ⁵ í ⁵	1.810337781906128	3
+t o ³ n d ʔ u ê ³ ¹	t o ³ n d u î ³ ¹	1.3230350017547607	2
+t o ³ n d í ⁵ ʔ u é ⁵ ʔ o ³	t o ³ n d u í ⁵ o ʔ ³	1.0396357774734497	6
+n ⁵ n g o ³ n d í ⁵ ʔ u ⁵ ³ h a ³	n ⁵ n g o ³ n d u í ⁵ ³	1.1885555982589722	7
+n ⁵ n g o ³ n d í ⁵ ʔ u à ʔ ¹	n ⁵ n g o ³ n d u î ʔ ³ ¹	0.853800892829895	5
+n ⁵ n g o ³ n d í ⁵ ʔ u í ⁵ é n ⁵	n ⁵ n g o ³ n d u í ʔ ⁵	1.9869284629821777	6
+n ⁵ n g o ³ n d í ⁵ ʔ u ɛ ⁵ é ⁵	n ⁵ n g o ³ n d u í ⁵ í ⁵	1.629651665687561	5
+n ⁵ n g o ³ n d í ⁵ n h â ³ ¹	n ⁵ n g o ³ n d u î ³ ¹	1.0328731536865234	5
+n ⁵ n g o ³ n d í ⁵ ʔ u é ⁵ ʔ o ³	n ⁵ n g o ³ n d u í ⁵ o ʔ ³	0.9252764582633972	6
+t í ⁵ m a ³ h a ³	t u í ⁵ h a ³	1.558555006980896	4
+t i ⁵ k í ⁵ ʔ u ³	t u í ⁵ ʔ u ³	1.0009491443634033	3
+t í ⁵ u ì ¹ é n ⁵	t u í ⁵ é n ⁵	1.5194993019104004	4
+t í ⁵ h n d ɛ ⁵ é ⁵	t u í ⁵ h á ⁵ á ⁵	1.148356318473816	5
+t í ⁵ h n d ê ³ ¹	t u í ⁵ h â ³ ¹	1.6991839408874512	4
+t í ⁵ n k é ⁵ ʔ o ³	t u í ⁵ ʔ o ³	1.6067198514938354	5
+k o ³ n d í ⁵ u ⁵ ³	k o ³ n d u í ⁵ h a ³	1.684707760810852	3
+b á ⁵ n d í ⁵ u í ⁵ ʔ u ³	k o ³ n d u í ⁵ ʔ u ³	1.0288416147232056	5
+b á ⁵ n d í ⁵ u í ⁵	k o ³ n d u í ⁵ é n ⁵	1.2240898609161377	6
+k o ³ n d í ⁵ u ɛ ⁵ é ⁵	k o ³ n d u í ⁵ h á ⁵ á ⁵	1.2768138647079468	4
+k o ³ n d í ⁵ u ê ³ ¹	k o ³ n d u í ⁵ h â ³ ¹	0.7339931130409241	3
+k o ³ n d í ⁵ n d u é ⁵ ʔ o ³	k o ³ n d u í ⁵ ʔ o ³	1.4899333715438843	5
+k w í ⁵ k í ⁵ h a ³	k í ⁵ n d u í ⁵ h a ³	1.6885203123092651	4
+k w í ⁵ k í ⁵ ʔ u ³	k í ⁵ n d u í ʔ ⁵ ʔ u ³	3.0500166416168213	5
+k w í ⁵ k í ⁵ é n ⁵	k í ⁵ n d u í ⁵ é n ⁵	1.4799169301986694	4
+k w í ⁵ h n d ɛ ⁵ é ⁵	k í ⁵ n d u í ⁵ h á ⁵ á ⁵	1.5608882904052734	8
+k w í ⁵ k í ⁵ n d u ê ³ ¹	k í ⁵ n d u í ⁵ h â ³ ¹	1.854086995124817	8
+k w í ⁵ k í ⁵ ʔ u ³	k í ⁵ n d u í ⁵ ʔ o ³	1.4667854309082031	5
+n ⁵ n d í ⁵ u ⁵ ³	n ⁵ n d u í ⁵ h a ⁵	2.8062210083007812	4
+n ⁵ n d u ì ʔ ¹	n ⁵ n d u í ⁵ ʔ u ⁵	2.32645320892334	4
+n ⁵ n d u í ⁵	n ⁵ n d u í ⁵ é n ⁵	0.686627984046936	3
+n ⁵ n d í ⁵ u ɛ ⁵ é ⁵	n ⁵ n d u í ⁵ h á ⁵ á ⁵	1.4485574960708618	4
+n ⁵ n d u ê ³ ¹	n ⁵ n d u í ⁵ h â ³ ¹	0.7202902436256409	4
+n ⁵ n d í ⁵ n d u é ⁵ o ʔ ³	n ⁵ n d u í ⁵ ʔ o ³	1.3956646919250488	7
+t o ³ n d í ⁵ u ⁵ ³	t o ³ n d u í ⁵ h a ³	1.535927414894104	3
+t o ³ k í ⁵ n d u ʔ ³	t o ³ n d u í ⁵ ʔ u ³	1.3625694513320923	6
+t o ³ n d u í ⁵ ³	t o ³ n d u í ⁵ é n ⁵	0.5792973637580872	3
+t o ³ n d í ⁵ u ɛ ⁵ é ⁵	t o ³ n d u í ⁵ h á ⁵ á ⁵	1.4367401599884033	4
+t o ³ k í ⁵ n d u ê ³ ¹	t o ³ n d u í ⁵ h â ³ ¹	1.3469393253326416	7
+t o ³ k í ⁵ n d u é ⁵ o ʔ ³	t o ³ n d u í ⁵ ʔ o ³	1.7609018087387085	6
+n ⁵ n g o ³ n d í ⁵ k í ⁵ h a ³	n ⁵ n g o ³ n d u í ⁵ h a ³	1.2723846435546875	3
+n ⁵ n g o ³ n d u ʔ ³	n ⁵ n g o ³ n d u í ⁵ ʔ u ³	0.9361265897750854	3
+n ⁵ n g o ³ n d í ⁵ u í ⁵	n ⁵ n g o ³ n d u í ⁵ é n ⁵	0.590837299823761	3
+n ⁵ n g o ³ n d í ⁵ u ɛ ⁵ é ⁵	n ⁵ n g o ³ n d u í ⁵ h á ⁵ á ⁵	1.1777677536010742	4
+n ⁵ n g o ³ n d í ⁵ u ê ³ ¹	n ⁵ n g o ³ n d u í ⁵ h â ³ ¹	0.792675793170929	3
+n ⁵ n g o ³ n d í ⁵ h n d u é ⁵ o ʔ ³	n ⁵ n g o ³ n d u í ⁵ ʔ o ³	1.395795226097107	8
+t í ⁵ s í ⁵ h a ³	t u í ⁵ s i ³ h a ³	1.1709038019180298	3
+t í ⁵ s í ⁵ x u ³	t u í ⁵ s i ³ ʔ u ³	1.9636237621307373	4
+t í ⁵ s u i ³	t u í ⁵ s i ³ é n ⁵	2.138718605041504	5
+t í ⁵ n t u i ³ ⁴ h á ⁵ á ⁵	t u í ⁵ s i ³ h á ⁵ á ⁵	1.0729889869689941	5
+t í ⁵ n t u i ³ h â ³ ¹	t u í ⁵ s i ³ h â ³ ¹	1.1035969257354736	4
+t í ⁵ n t u i ³ ʔ o ³	t u í ⁵ s i ³ ʔ o ³	1.2122774124145508	4
+b á ⁵ n d í ⁵ s u i ³ h a ³	k o ³ n d u í ⁵ s i ³ h a ³	2.7320337295532227	5
+b á ⁵ n d í ⁵ s u i ʔ ³	k o ³ n d u í ⁵ s i ³ ʔ u ³	2.967862606048584	7
+b á ⁵ n d í ⁵ s u i ³	k o ³ n d u í ⁵ s i ³ é n ⁵	1.9925167560577393	8
+b á ⁵ n d í ⁵ n t u i ³ ⁴ í ⁵	k o ³ n d u í ⁵ s i ³ h á ⁵ á ⁵	1.6520107984542847	11
+b á ⁵ n d í ⁵ n t u i ³ h â ³ ¹	k o ³ n d u í ⁵ s i ³ h â ³ ¹	1.7946805953979492	7
+b á ⁵ n d í ⁵ n t u i ³ ʔ o ³	k o ³ n d u í ⁵ s i ³ ʔ o ³	2.0312130451202393	7
+k w í ⁵ s u i ³ h a ³	k í ⁵ n d u í ⁵ s i ³ h a ³	2.7968506813049316	6
+k w í ⁵ s u i ʔ ⁵ ³	k í ⁵ n d u í ⁵ s i ³ ʔ u ³	2.8481035232543945	8
+k w í ⁵ s u i ³	k í ⁵ n d u í ⁵ s i ³ é n ⁵	2.365539073944092	9
+k w í ⁵ n t u i ³ ⁴ h á ⁵ á ⁵	k í ⁵ n d u í ⁵ s i ³ h á ⁵ á ⁵	1.599081039428711	6
+k w í ⁵ n t y u i ³ h â ³ ¹	k í ⁵ n d u í ⁵ s i ³ h â ³ ¹	1.3482900857925415	6
+k w í ⁵ n t u i ³ ʔ o ³	k í ⁵ n d u í ⁵ s i ³ ʔ o ³	1.886396884918213	5
+n ⁵ n d í ⁵ s u i ³ h a ³	n ⁵ n d u í ⁵ s i ³ h a ³	1.277732014656067	2
+n ⁵ n d í ⁵ s u i ʔ ⁵ ³	n ⁵ n d u í ⁵ s i ³ ʔ u ³	1.6536165475845337	4
+n ⁵ n d í ⁵ s u i ³	n ⁵ n d u í ⁵ s i ³ é n ⁵	1.001255989074707	5
+n ⁵ n d í ⁵ n t u i ³ ⁴ h á ⁵ á ⁵	n ⁵ n d u í ⁵ s i ³ h á ⁵ á ⁵	0.816592812538147	5
+n ⁵ n d í ⁵ n t u i ³ h â ³ ¹	n ⁵ n d u í ⁵ s i ³ h â ³ ¹	0.8913529515266418	4
+n ⁵ n d í ⁵ n t u i ³ ʔ o ³	n ⁵ n d u í ⁵ s i ³ ʔ o ³	1.1038259267807007	4
+t o ³ n d í ⁵ s u i ³	t o ³ n d u í ⁵ s i ³ h a ³	1.7898615598678589	5
+t o ³ n d í ⁵ s u i ³	t o ³ n d u í ⁵ s i ³ ʔ u ³	2.063703775405884	5
+t o ³ n d í ⁵ s u i ³	t o ³ n d u í ⁵ s i ³ é n ⁵	1.1988003253936768	5
+t o ³ n d í ⁵ n t u i ³ ⁴ h á ⁵ á ⁵	t o ³ n d u í ⁵ s i ³ h á ⁵ á ⁵	1.1296586990356445	5
+t o ³ n d í ⁵ n t u i ³ h â ³ ¹	t o ³ n d u í ⁵ s i ³ h â ³ ¹	1.096145510673523	4
+t o ³ n d í ⁵ n t u i ³ ʔ o ³	t o ³ n d u í ⁵ s i ³ ʔ o ³	1.3033127784729004	4
+n ⁵ n g o ³ n d í ⁵ s u i ³ h a ³	n ⁵ n g o ³ n d u í ⁵ s i ³ h a ³	0.943593442440033	2
+n ⁵ n g o ³ n d í ⁵ s u i ³	n ⁵ n g o ³ n d u í ⁵ s i ³ ʔ u ³	1.317868709564209	5
+n ⁵ n g o ³ n d í ⁵ s u i ³	n ⁵ n g o ³ n d u í ⁵ s i ³ é n ⁵	0.9917739033699036	5
+n ⁵ n g o ³ n d í ⁵ n t u i ³ ⁴ h á ⁵ á ⁵	n ⁵ n g o ³ n d u í ⁵ s i ³ h á ⁵ á ⁵	0.7699923515319824	5
+n ⁵ n g o ³ n d í ⁵ n t u i ³ h â ³ ¹	n ⁵ n g o ³ n d u í ⁵ s i ³ h â ³ ¹	0.7975223660469055	4
+n ⁵ n g o ³ n d í ⁵ n t u i ³ ʔ o ³	n ⁵ n g o ³ n d u í ⁵ s i ³ ʔ o ³	1.0011287927627563	4
+t í ⁵ n a ³ h n ɔ ⁵ ³	t u í ⁵ n a ³ n h o ⁵ ³ h a ³	2.444065570831299	7
+t í ⁵ n a ³ h n o ʔ ⁵ ³	t u í ⁵ n a ³ n h o ⁵ ³ ʔ u ³	2.6820149421691895	6
+t í ⁵ n a ³ h o ³ ⁵	t u í ⁵ n a ³ n h o ⁵ ³ é n ⁵	2.5072550773620605	5
+t í ⁵ n a ³ n d ɛ ¹ ² é ⁵	t u í ⁵ n a ³ n h o ⁵ ³ h á ⁵ á ⁵	2.7144968509674072	9
+t í ⁵ n a ³ n d ê ³ ¹	t u í ⁵ n a ³ n h o ⁵ ³ h â ³ ¹	1.8064234256744385	7
+t í ⁵ n a ³ n d ɛ ¹ ² o ʔ ³	t u í ⁵ n a ³ n h o ⁵ ³ ʔ o ³	2.2240817546844482	7
+h n a ³ n ɔ ⁵ ³	k o ³ n d u í ⁵ n a ³ n h o ⁵ ³ h a ³	2.7395412921905518	13
+h n a ³ n o ʔ ⁵ ³	k o ³ n d u í ⁵ n a ³ n h o ⁵ ³ ʔ u ³	2.7788174152374268	12
+b á ⁵ n d i ⁵ n a ³ h o ³ ⁵	k o ³ n d u í ⁵ n a ³ n h o ⁵ ³ é n ⁵	2.4783711433410645	9
+h n a ³ n d ɛ ¹ ² é ⁵	k o ³ n d u í ⁵ n a ³ n h o ⁵ ³ h á ⁵ á ⁵	3.1646101474761963	16
+h n a ³ n d ê ³ ¹	k o ³ n d u í ⁵ n a ³ n h o ⁵ ³ h â ³ ¹	2.6478288173675537	14
+h n a ³ n d ɛ ¹ ² o ʔ ³	k o ³ n d u í ⁵ n a ³ n h o ⁵ ³ ʔ o ³	3.799884080886841	14
+k w í ⁵ h n a ³ n ɔ ⁵ ³	k í ⁵ n d u í ⁵ n a ³ n h o ⁵ ³ h a ³	2.9586422443389893	11
+k w í ⁵ h a ³ n o ʔ ⁵ ³	k í ⁵ n d u í ⁵ n a ³ n h o ⁵ ³ ʔ u ³	3.245408535003662	10
+k w í ⁵ h a ³ n ⁵ n o ³	k í ⁵ n d u í ⁵ n a ³ n h o ⁵ ³ é n ⁵	2.86887526512146	12
+k w í ⁵ n a ³ h n d ɛ ¹ ² é ⁵	k í ⁵ n d u í ⁵ n a ³ n h o ⁵ ³ h á ⁵ á ⁵	3.539722442626953	13
+k w í ⁵ n a ³ n d ê ³ ¹	k í ⁵ n d u í ⁵ n a ³ n h o ⁵ ³ h â ³ ¹	3.060598850250244	11
+k w í ⁵ n a ³ n d ɛ ¹ ² o ʔ ³	k í ⁵ n d u í ⁵ n a ³ n h o ⁵ ³ ʔ o ³	3.942441940307617	11
+n ⁵ n d í ⁵ n a ³ n ɔ ⁵ ³	n ⁵ n d u í ⁵ n a ³ n h o ⁵ ³ h a ³	2.2798912525177	6
+n ⁵ n d í ⁵ n a ³ h o ʔ ⁵ ³	n ⁵ n d u í ⁵ n a ³ n h o ⁵ ³ ʔ u ³	2.5805580615997314	5
+n ⁵ n d í ⁵ n a ³ n c h o ³ ⁵	n ⁵ n d u í ⁵ n a ³ n h o ⁵ ³ é n ⁵	2.3047075271606445	5
+n ⁵ n d í ⁵ n a ³ h n d ɛ ¹ ² é ⁵	n ⁵ n d u í ⁵ n a ³ n h o ⁵ ³ h á ⁵ á ⁵	2.4995760917663574	9
+n ⁵ n d í ⁵ n a ³ n d ê ³ ¹	n ⁵ n d u í ⁵ n a ³ n h o ⁵ ³ h â ³ ¹	2.0330657958984375	7
+n ⁵ n d í ⁵ n a ³ n d ɛ ¹ ² o ʔ ³	n ⁵ n d u í ⁵ n a ³ n h o ⁵ ³ ʔ o ³	2.80378794670105	7
+t o ³ n d í ⁵ h a ³ n ɔ ⁵ ³	t o ³ n d u í ⁵ n a ³ n h o ⁵ ³ h a ³	2.243407726287842	7
+t o ³ n d í ⁵ n a ³ n o ʔ ⁵ ³	t o ³ n d u í ⁵ n a ³ n h o ⁵ ³ ʔ u ³	2.593129873275757	5
+t o ³ n d í ⁵ n a ³ n c h o ³ ⁵	t o ³ n d u í ⁵ n a ³ n h o ⁵ ³ é n ⁵	2.292661190032959	5
+t o ³ n d í ⁵ n a ³ n d ɛ ¹ ² é ⁵	t o ³ n d u í ⁵ n a ³ n h o ⁵ ³ h á ⁵ á ⁵	2.5805017948150635	9
+t o ³ n d í ⁵ n a ³ n d ê ³ ¹	t o ³ n d u í ⁵ n a ³ n h o ⁵ ³ h â ³ ¹	1.933484435081482	7
+t o ³ n d í ⁵ n a ³ n d ɛ ¹ ² o ʔ ³	t o ³ n d u í ⁵ n a ³ n h o ⁵ ³ ʔ o ³	2.6841845512390137	7
+n ⁵ n g o ³ n d í ⁵ n a ³ n ɔ ⁵ ³	n ⁵ n g o ³ n d u í ⁵ n a ³ n h o ⁵ ³ h a ³	1.9360016584396362	6
+n ⁵ n g o ³ n d í ⁵ n a ³ n o ʔ ⁵ ³ h n o ʔ ⁵ ³	n ⁵ n g o ³ n d u í ⁵ n a ³ n h o ⁵ ³ ʔ u ³	2.1110267639160156	7
+n ⁵ n g o ³ n d í ⁵ n a ³ n o ³ ⁵ h o ³	n ⁵ n g o ³ n d u í ⁵ n a ³ n h o ⁵ ³ é n ⁵	2.0938594341278076	7
+n ⁵ n g o ³ n d í ⁵ n a ³ n d ɛ ¹ ² é ⁵	n ⁵ n g o ³ n d u í ⁵ n a ³ n h o ⁵ ³ h á ⁵ á ⁵	2.2070248126983643	9
+n ⁵ n g o ³ n d í ⁵ n a ³ n d ê ³ ¹	n ⁵ n g o ³ n d u í ⁵ n a ³ n h o ⁵ ³ h â ³ ¹	1.7916184663772583	7
+n ⁵ n g o ³ n d í ⁵ n a ³ n d ɛ ¹ ² o ʔ ³	n ⁵ n g o ³ n d u í ⁵ n a ³ n h o ⁵ ³ ʔ o ³	2.481353998184204	7
+t í ⁵ n a ³ n t y ì ʔ ¹ n ɔ ⁵ ³	t u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ h a ³	1.819192886352539	10
+t í ⁵ n a ³ n t y ì ʔ ¹ n o ʔ ⁵ ³	t u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ ʔ u ³	2.0287249088287354	9
+t í ⁵ n a ³ n t y ì ʔ ¹ n o ³	t u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ é n ⁵	1.5600107908248901	10
+t í ⁵ n a ³ n k ì ʔ ¹ h n ɔ ¹ ²	t u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ h á ⁵ á ⁵	2.6967661380767822	15
+t í ⁵ n a ³ n t y ì ʔ ¹ n k ô ³ ¹	t u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ h â ³ ¹	2.2833316326141357	11
+t í ⁵ n a ³ n t y ì ʔ ¹ n g i ò ¹ o ʔ ³	t u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ ʔ o ³	2.63498854637146	10
+n a ³ n k ì ʔ ¹ h n ɔ ⁵ ³	k o ³ n d u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ h a ³	2.926283359527588	18
+n a ³ n k ì ʔ ¹ n t h o ʔ ⁵ ³	k o ³ n d u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ ʔ u ³	3.298264741897583	17
+n a ³ n k ì ʔ ¹ n ʔ o ³	k o ³ n d u i ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ é n ⁵	2.6477911472320557	18
+n a ³ n k ì ʔ ¹ h n d y ì ʔ ¹ n ʔ ɔ ¹ ²	k o ³ n d u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ h á ⁵ á ⁵	3.0050148963928223	22
+n a ³ n k ì ʔ ¹ n ʔ ô ³ ¹	k o ³ n d u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ h â ³ ¹	2.918388605117798	19
+n a ³ n k ì ʔ ¹ h n d y u é ⁵ o ʔ ³	k o ³ n d u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ ʔ o ³	3.3565123081207275	18
+k w í ⁵ n a ³ t y ì ʔ ¹ n ɔ ⁵ ³	k í ⁵ n d u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ h a ³	3.119403123855591	13
+k w í ⁵ n a ³ t y ì ʔ ¹ n o ʔ ⁵ ³	k í ⁵ n d u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ ʔ u ³	3.3338541984558105	12
+k w í ⁵ n a ³ t y ì ʔ ¹ n o ³	k í ⁵ n d u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ é n ⁵	2.6292245388031006	13
+k w í ⁵ n a ³ n t y ì ʔ ¹ n ɔ ¹ ²	k í ⁵ n d u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ h á ⁵ á ⁵	3.470348596572876	18
+k w í ⁵ n a ³ n t y ì ʔ ¹ n k ô ³ ¹	k í ⁵ n d u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ h â ³ ¹	3.3977932929992676	15
+k w í ⁵ n a ³ n t y ì ʔ ¹ n k ò ¹ o ʔ ³	k í ⁵ n d u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ ʔ o ³	3.631298542022705	14
+n ⁵ n d í ⁵ n a ³ t y ì ʔ ¹ n ɔ ⁵ ³	n ⁵ n d u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ h a ³	1.7553918361663818	9
+n ⁵ n d í ⁵ n a ³ t y ì ʔ ¹ n o ʔ ⁵ ³	n ⁵ n d u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ ʔ u ³	1.763323426246643	8
+n ⁵ n d í ⁵ n a ³ t y ì ʔ ¹ n o ³	n ⁵ n d u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ é n ⁵	1.2822431325912476	9
+n ⁵ n d í ⁵ n a ³ n k ì ʔ ¹ h n ɔ ¹ ²	n ⁵ n d u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ h á ⁵ á ⁵	2.257108449935913	15
+n ⁵ n d í ⁵ n a ³ n k ì ʔ ¹ n ʔ ô ³ ¹	n ⁵ n d u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ h â ³ ¹	2.0656063556671143	12
+n ⁵ n d í ⁵ n a ³ n k ì ʔ ¹ n ʔ ò ¹ o ʔ ³	n ⁵ n d u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ ʔ o ³	2.345672130584717	11
+t o ³ n d í ⁵ n a ³ n k ì ʔ ¹ n ʔ ɔ ⁵ ³	t o ³ n d u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ h a ³	1.771763801574707	11
+t o ³ n d í ⁵ n a ³ t y ì ʔ ¹ n k o ʔ ⁵ ³	t o ³ n d u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ ʔ u ³	1.9536336660385132	8
+t o ³ n d í ⁵ n a ³ n k ì ʔ ¹ n ʔ o ³	t o ³ n d u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ é n ⁵	1.4685332775115967	11
+t o ³ n d í ⁵ n a ³ n k ì ʔ ¹ n ʔ ɔ ¹ ²	t o ³ n d u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ h á ⁵ á ⁵	2.2068986892700195	15
+t o ³ n d í ⁵ n a ³ n k ì ʔ ¹ n ʔ ô ³ ¹	t o ³ n d u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ h â ³ ¹	2.1365818977355957	12
+t o ³ n d í ⁵ n a ³ n k i ³ n ʔ ⁵ h n d y u é ⁵ o ʔ ³	t o ³ n d u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ ʔ o ³	2.4646363258361816	15
+n ⁵ n g o ³ n d í ⁵ n a ³ n k ì ʔ ¹ n ɔ ⁵ ³	n ⁵ n g o ³ n d u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ h a ³	1.54474937915802	11
+n ⁵ n g o ³ n d í ⁵ n a ³ n k ì ʔ ¹ n o ʔ ⁵ ³	n ⁵ n g o ³ n d u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ ʔ u ³	1.8399022817611694	10
+n ⁵ n g o ³ n d í ⁵ n a ³ n k ì ʔ ¹ n h o ³ ⁵	n ⁵ n g o ³ n d u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ é n ⁵	1.4800329208374023	9
+n ⁵ n g o ³ n d í ⁵ n a ³ n k ì ʔ ¹ n h ɔ ¹ ² ó n ⁵	n ⁵ n g o ³ n d u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ h á ⁵ á ⁵	1.9895578622817993	13
+n ⁵ n g o ³ n d í ⁵ n a ³ n k ì ʔ ¹ n ʔ ô ³ ¹	n ⁵ n g o ³ n d u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ h â ³ ¹	2.013693332672119	12
+n ⁵ n g o ³ n d í ⁵ n a ³ n k ì ʔ ¹ n h ò ¹ o ʔ ³	n ⁵ n g o ³ n d u í ⁵ n a ³ t y ì ʔ ¹ k í ⁵ n h o ⁵ ³ ʔ o ³	2.343593120574951	10
+t í ⁵ t y ʔ ɔ ⁵ ³	t u í ⁵ t y ʔ o ³ ⁵ h a ³	1.5662462711334229	5
+t í ⁵ t y û ʔ ³ ⁵ ʔ u ³	t u í ⁵ t y ʔ o ³ ⁵ ʔ u ³	1.6047943830490112	3
+t í ⁵ t y u ʔ ³ ⁵ é n ⁵	t u í ⁵ t y ʔ o ³ ⁵ é n ⁵	1.2211881875991821	3
+t í ⁵ t y ʔ ɔ ³ ⁵ ó ⁵	t u í ⁵ t y ʔ o ³ ⁵ h á ⁵ á ⁵	1.0477347373962402	6
+t í ⁵ t y ʔ ô ³ ¹	t u í ⁵ t y ʔ o ³ ⁵ h â ³ ¹	1.0068327188491821	6
+t í ⁵ t y u o ³ ⁵ o ʔ ³	t u í ⁵ t y ʔ o ³ ⁵ ʔ o ³	1.4229122400283813	4
+t y ʔ ɔ ⁵ ³	k o ³ n d u í ⁵ t y ʔ o ³ ⁵ h a ³	2.852123975753784	12
+t y û ʔ ³ ⁵ ʔ u ³	k o ³ n d u í ⁵ t y ʔ o ³ ⁵ ʔ u ³	2.654438018798828	10
+t y u ʔ ³ ⁵	k o ³ n d u í ⁵ t y ʔ o ³ ⁵ é n ⁵	1.6441898345947266	13
+t y ʔ ɔ ³ ⁵ ó ⁵	k o ³ n d u í ⁵ t y ʔ o ³ ⁵ h á ⁵ á ⁵	1.6262056827545166	13
+t y ʔ ô ³ ¹	k o ³ n d u í ⁵ t y ʔ o ³ ⁵ h â ³ ¹	1.8802651166915894	13
+t y ʔ o ³ ⁵ o ʔ ³	k o ³ n d u í ⁵ t y ʔ o ³ ⁵ ʔ o ³	2.338144540786743	10
+k w í ⁵ t y ʔ ɔ ⁵ ³	k í ⁵ n d u í ⁵ t y ʔ o ³ ⁵ h a ³	3.351935386657715	9
+k w í ⁵ t y ʔ ô ʔ ³ ¹	k í ⁵ n d u í ⁵ t y ʔ o ³ ⁵ ʔ u ³	2.7934885025024414	10
+k w í ⁵ t y u ʔ ³ ⁵ é n ⁵	k í ⁵ n d u í ⁵ t y ʔ o ³ ⁵ é n ⁵	2.1308066844940186	7
+k w í ⁵ t y ʔ ɔ ³ ⁵ ó ⁵	k í ⁵ n d u í ⁵ t y ʔ o ³ ⁵ h á ⁵ á ⁵	2.126910448074341	10
+k w í ⁵ t y ʔ ô ³ ¹	k í ⁵ n d u í ⁵ t y ʔ o ³ ⁵ h â ³ ¹	2.437706470489502	10
+k w í ⁵ t y ʔ o ³ ⁵ o ʔ ³	k í ⁵ n d u í ⁵ t y ʔ o ³ ⁵ ʔ o ³	2.990952730178833	7
+n ⁵ n d í ⁵ t y ʔ ɔ ⁵ ³	n ⁵ n d u í ⁵ t y ʔ o ³ ⁵ h a ³	1.3435406684875488	5
+n ⁵ n d í ⁵ t y ʔ ô ʔ ³ ¹	n ⁵ n d u í ⁵ t y ʔ o ³ ⁵ ʔ u ³	0.9517531394958496	6
+n ⁵ n d í ⁵ t y u ʔ ³ ⁵ é n ⁵	n ⁵ n d u í ⁵ t y ʔ o ³ ⁵ é n ⁵	0.7512991428375244	3
+n ⁵ n d í ⁵ t y ʔ ɔ ³ ⁵ ó ⁵	n ⁵ n d u í ⁵ t y ʔ o ³ ⁵ h á ⁵ á ⁵	0.8643150329589844	6
+n ⁵ n d í ⁵ t y ʔ ô ³ ¹	n ⁵ n d u í ⁵ t y ʔ o ³ ⁵ h â ³ ¹	0.8380465507507324	6
+n ⁵ n d í ⁵ t y ʔ o ³ ⁵ o ʔ ³	n ⁵ n d u í ⁵ t y ʔ o ³ ⁵ ʔ o ³	0.7945777773857117	3
+t o ³ n d í ⁵ t y ʔ ɔ ⁵ ³	t o ³ n d u í ⁵ t y ʔ o ³ ⁵ h a ³	1.2511916160583496	5
+t o ³ n d í ⁵ t y û ʔ ⁵ ³	t o ³ n d u í ⁵ t y ʔ o ³ ⁵ ʔ u ³	1.2958542108535767	6
+t o ³ n d í ⁵ t y u ʔ ³ ⁵	t o ³ n d u í ⁵ t y ʔ o ³ ⁵ é n ⁵	0.7975661754608154	6
+t o ³ n d í ⁵ t y ʔ ɔ ³ ⁵ ó ⁵	t o ³ n d u í ⁵ t y ʔ o ³ ⁵ h á ⁵ á ⁵	0.9475172758102417	6
+t o ³ n d í ⁵ t y ʔ ô ³ ¹	t o ³ n d u í ⁵ t y ʔ o ³ ⁵ h â ³ ¹	0.8294410109519958	6
+t o ³ n d í ⁵ t y ʔ o ³ ⁵ o ʔ ³	t o ³ n d u í ⁵ t y ʔ o ³ ⁵ ʔ o ³	0.850803017616272	3
+n ⁵ n g o ³ n d í ⁵ t y ʔ ɔ ⁵ ³	n ⁵ n g o ³ n d u í ⁵ t y ʔ o ³ ⁵ h a ³	1.0738599300384521	5
+n ⁵ n g o ³ n d í ⁵ t y û ʔ ⁵ ³	n ⁵ n g o ³ n d u í ⁵ t y ʔ o ³ ⁵ ʔ u ³	0.938218355178833	6
+n ⁵ n g o ³ n d í ⁵ t y u ʔ ³ ⁵ é n ⁵	n ⁵ n g o ³ n d u í ⁵ t y ʔ o ³ ⁵ é n ⁵	0.7067363858222961	3
+n ⁵ n g o ³ n d í ⁵ t y ʔ ɔ ³ ⁵ ó ⁵	n ⁵ n g o ³ n d u í ⁵ t y ʔ o ³ ⁵ h á ⁵ á ⁵	0.8134567141532898	6
+n ⁵ n g o ³ n d í ⁵ t y ʔ ô ³ ¹	n ⁵ n g o ³ n d u í ⁵ t y ʔ o ³ ⁵ h â ³ ¹	0.7485281229019165	6
+n ⁵ n g o ³ n d í ⁵ t y ʔ o ³ ⁵ o ʔ ³	n ⁵ n g o ³ n d u í ⁵ t y ʔ o ³ ⁵ ʔ o ³	0.7024789452552795	3
+t í ⁵ y u à ¹ h a ³	t u í ⁵ y à ¹ h a ³	1.286161184310913	2
+t í ⁵ y u à ¹ ʔ u ³	t u í ⁵ y à ¹ ʔ u ³	1.2990801334381104	2
+t í ⁵ y u à ¹ é n ⁵	t u í ⁵ y à ¹ é n ⁵	1.2866253852844238	2
+t í ⁵ y u à ¹ h á ⁵ á ⁵	t u í ⁵ y à ¹ h á ⁵ á ⁵	1.0615378618240356	2
+t í ⁵ y u à ¹ h â ³ ¹	t u í ⁵ y à ¹ h â ³ ¹	1.061307668685913	2
+t í ⁵ y u à ¹ ʔ o ³	t u í ⁵ y à ¹ ʔ o ³	1.1711981296539307	2
+m a ³ n d í ⁵ y u à ¹ h a ³	k o ³ n d u í ⁵ y à ¹ h a ³	1.6312401294708252	4
+y u à ¹ ʔ u ³	k o ³ n d u í ⁵ y à ¹ ʔ u ³	1.5157641172409058	8
+y u à ¹ é n ⁵	k o ³ n d u í ⁵ y à ¹ é n ⁵	1.3071304559707642	8
+y u à ¹ h á ⁵ á ⁵	k o ³ n d u í ⁵ y à ¹ h á ⁵ á ⁵	1.1497808694839478	8
+y u à ¹ h â ³ ¹	k o ³ n d u í ⁵ y à ¹ h â ³ ¹	1.345385193824768	8
+y u à ¹ ʔ o ³	k o ³ n d u í ⁵ y à ¹ ʔ o ³	1.3607745170593262	8
+k w í ⁵ y u à ¹ h a ³	k í ⁵ n d u í ⁵ y à ¹ h a ³	1.9716299772262573	6
+k w í ⁵ y u à ¹ ʔ u ³	k í ⁵ n d u í ⁵ y à ¹ ʔ u ³	2.1756253242492676	6
+k w í ⁵ y u à ¹ é n ⁵	k í ⁵ n d u í ⁵ y à ¹ é n ⁵	2.1718575954437256	6
+k w í ⁵ y u à ¹ h á ⁵ á ⁵	k í ⁵ n d u í ⁵ y à ¹ h á ⁵ á ⁵	2.0877366065979004	6
+k w í ⁵ y u à ¹ h â ³ ¹	k í ⁵ n d u í ⁵ y à ¹ h â ³ ¹	2.0938613414764404	6
+k w í ⁵ y u à ¹ ʔ o ³	k í ⁵ n d u í ⁵ y à ¹ ʔ o ³	2.194995880126953	6
+n ⁵ n d í ⁵ y à ¹ h a ³	n ⁵ n d u í ⁵ y à ¹ h a ³	1.360756278038025	1
+n ⁵ n d í ⁵ y u à ¹ ʔ u ³	n ⁵ n d u í ⁵ y à ¹ ʔ u ³	1.1531883478164673	2
+n ⁵ n d í ⁵ y u à ¹ é n ⁵	n ⁵ n d u í ⁵ y à ¹ é n ⁵	1.0098072290420532	2
+n ⁵ n d í ⁵ y à ¹ h á ⁵ á ⁵	n ⁵ n d u í ⁵ y à ¹ h á ⁵ á ⁵	0.8429584503173828	1
+n ⁵ n d í ⁵ y à ¹ h â ³ ¹	n ⁵ n d u í ⁵ y à ¹ h â ³ ¹	0.9172842502593994	1
+n ⁵ n d í ⁵ y u à ¹ ʔ o ³	n ⁵ n d u í ⁵ y à ¹ ʔ o ³	0.9561200737953186	2
+t o ³ n d í ⁵ y u à ¹ h a ³	t o ³ n d u í ⁵ y à ¹ h a ³	1.3867201805114746	2
+t o ³ n d í ⁵ y u à ¹ ʔ u ³	t o ³ n d u í ⁵ y à ¹ ʔ u ³	1.0361664295196533	2
+t o ³ n d í ⁵ y u à ¹ é n ⁵	t o ³ n d u í ⁵ y à ¹ é n ⁵	0.9708160161972046	2
+t o ³ n d í ⁵ y u à ¹ h á ⁵ á ⁵	t o ³ n d u í ⁵ y à ¹ h á ⁵ á ⁵	0.8754138350486755	2
+t o ³ n d í ⁵ y u à ¹ h â ³ ¹	t o ³ n d u í ⁵ y à ¹ h â ³ ¹	0.9120575189590454	2
+t o ³ n d í ⁵ y u à ¹ ʔ o ³	t o ³ n d u í ⁵ y à ¹ ʔ o ³	0.9877899289131165	2
+n ⁵ n g o ³ n d í ⁵ y u à ¹ h a ³	n ⁵ n g o ³ n d u í ⁵ y à ¹ h a ³	0.8453899025917053	2
+n ⁵ n g o ³ n d í ⁵ y u à ¹ ʔ u ³	n ⁵ n g o ³ n d u í ⁵ y à ¹ ʔ u ³	0.8193739652633667	2
+n ⁵ n g o ³ n d í ⁵ y u à ¹ é n ⁵	n ⁵ n g o ³ n d u í ⁵ y à ¹ é n ⁵	0.8133034706115723	2
+n ⁵ n g o ³ n d í ⁵ y u à ¹ h á ⁵ á ⁵	n ⁵ n g o ³ n d u í ⁵ y à ¹ h á ⁵ á ⁵	0.7372719049453735	2
+n ⁵ n g o ³ n d í ⁵ y u à ¹ h â ³ ¹	n ⁵ n g o ³ n d u í ⁵ y à ¹ h â ³ ¹	0.7554135322570801	2
+n ⁵ n g o ³ n d í ⁵ y u à ¹ ʔ o ³	n ⁵ n g o ³ n d u í ⁵ y à ¹ ʔ o ³	0.8176138401031494	2
+h n d y e ¹ ² h a ³	h n d y e ¹ ² h a ³	0.047927990555763245	0
+h n d y e ¹ ² ʔ u ³	h n d y e ¹ ² ʔ u ³	0.04705609008669853	0
+h n d y e ¹ ² é n ⁵	h n d y e ¹ ² é n ⁵	0.04675915092229843	0
+h n d y e ¹ ² h á ⁵ á ⁵	h n d y e ¹ ² h á ⁵ á ⁵	0.046579744666814804	0
+h n d y e ¹ ² h â ³ ¹	h n d y e ¹ ² h â ³ ¹	0.04658440873026848	0
+h n d y e ¹ ² ʔ o ³	h n d y e ¹ ² ʔ o ³	0.045238301157951355	0
+k o ³ n d y e ¹ ² h a ³	k o ³ n d y e ¹ ² h a ³	0.05903682857751846	0
+k o ³ n d y e ¹ ² ʔ u ³	k o ³ n d y e ¹ ² ʔ u ³	0.04930049553513527	0
+k o ³ n d y e ¹ ² é n ⁵	k o ³ n d y e ¹ ² é n ⁵	0.04750332981348038	0
+k o ³ n d y e ¹ ² h á ⁵ á ⁵	k o ³ n d y e ¹ ² h á ⁵ á ⁵	0.04828936234116554	0
+k o ³ n d y e ¹ ² h â ³ ¹	k o ³ n d y e ¹ ² h â ³ ¹	0.04694947600364685	0
+k o ³ n d y e ¹ ² ʔ o ³	k o ³ n d y e ¹ ² ʔ o ³	0.045650482177734375	0
+k i ³ n d y e ¹ ² h a ³	k i ³ n d y e ¹ ² h a ³	0.05606597661972046	0
+k i ³ n d y e ¹ ² ʔ u ³	k i ³ n d y e ¹ ² ʔ u ³	0.04779478535056114	0
+k i ³ n d y e ¹ ² é n ⁵	k i ³ n d y e ¹ ² é n ⁵	0.0475151501595974	0
+k i ³ n d y e ¹ ² h á ⁵ á ⁵	k i ³ n d y e ¹ ² h á ⁵ á ⁵	0.04834306240081787	0
+k i ³ n d y e ¹ ² h â ³ ¹	k i ³ n d y e ¹ ² h â ³ ¹	0.04692975804209709	0
+k i ³ n d y e ¹ ² ʔ o ³	k i ³ n d y e ¹ ² ʔ o ³	0.04539385810494423	0
+n ⁵ n d y e ¹ ² h a ³	n ⁵ n d y e ¹ ² h a ³	0.05741582810878754	0
+n ⁵ n d y e ¹ ² ʔ u ³	n ⁵ n d y e ¹ ² ʔ u ³	0.05016118288040161	0
+n ⁵ n d y e ¹ ² é n ⁵	n ⁵ n d y e ¹ ² é n ⁵	0.04802084341645241	0
+n ⁵ n d y e ¹ ² h á ⁵ á ⁵	n ⁵ n d y e ¹ ² h á ⁵ á ⁵	0.0497855506837368	0
+n ⁵ n d y e ¹ ² h â ³ ¹	n ⁵ n d y e ¹ ² h â ³ ¹	0.04922585189342499	0
+n ⁵ n d y e ¹ ² ʔ o ³	n ⁵ n d y e ¹ ² ʔ o ³	0.04727652668952942	0
+t o ³ n d y e ¹ ² h a ³	t o ³ n d y e ¹ ² h a ³	0.06246465817093849	0
+t o ³ n d y e ¹ ² ʔ u ³	t o ³ n d y e ¹ ² ʔ u ³	0.049458302557468414	0
+t o ³ n d y e ¹ ² é n ⁵	t o ³ n d y e ¹ ² é n ⁵	0.04766286164522171	0
+t o ³ n d y e ¹ ² h á ⁵ á ⁵	t o ³ n d y e ¹ ² h á ⁵ á ⁵	0.04951026290655136	0
+t o ³ n d y e ¹ ² h â ³ ¹	t o ³ n d y e ¹ ² h â ³ ¹	0.0489744208753109	0
+t o ³ n d y e ¹ ² ʔ o ³	t o ³ n d y e ¹ ² ʔ o ³	0.04640902951359749	0
+n ⁵ n g o ³ n d y e ¹ ² h a ³	n ⁵ n g o ³ n d y e ¹ ² h a ³	0.07001838833093643	0
+n ⁵ n g o ³ n d y e ¹ ² ʔ u ³	n ⁵ n g o ³ n d y e ¹ ² ʔ u ³	0.04980127513408661	0
+n ⁵ n g o ³ n d y e ¹ ² é n ⁵	n ⁵ n g o ³ n d y e ¹ ² é n ⁵	0.04843641072511673	0
+n ⁵ n g o ³ n d y e ¹ ² h á ⁵ á ⁵	n ⁵ n g o ³ n d y e ¹ ² h á ⁵ á ⁵	0.05046111345291138	0
+n ⁵ n g o ³ n d y e ¹ ² h â ³ ¹	n ⁵ n g o ³ n d y e ¹ ² h â ³ ¹	0.05051664263010025	0
+n ⁵ n g o ³ n d y e ¹ ² ʔ o ³	n ⁵ n g o ³ n d y e ¹ ² ʔ o ³	0.04759088158607483	0
+h n d y e ¹ ² t z ʔ ɔ n ⁵ ³	h n d y e ¹ ² t z ì ʔ ¹ n ʔ ɔ ⁵ ³	0.6051427125930786	4
+h n d y e ¹ ² t z ộ n ʔ ³ ¹	h n d y e ¹ ² t z ì ʔ ¹ n ʔ ò ʔ ¹	0.795488715171814	5
+h n d y e ¹ ² t z ʔ o n ³	h n d y e ¹ ² t z ì ʔ ¹ n ʔ o ³	0.8083288669586182	4
+h n d y e ¹ ² n ʔ ɔ ³ ⁴	h n d y e ¹ ² n d ì ʔ ¹ n ʔ ɔ ¹ ²	1.1470052003860474	7
+h n d y e ¹ ² n ʔ ô ³ ¹	h n d y e ¹ ² n d ì ʔ ¹ n ʔ ô ³ ¹	0.8754916787147522	5
+h n d y e ¹ ² n ʔ o ³ o ʔ ³	h n d y e ¹ ² n d ì ʔ ¹ n ʔ ò ¹ o ʔ ³	1.053096890449524	7
+m a ³ n d y e ¹ ² t z ʔ ɔ n ⁵ ³	k o ³ n d y e ¹ ² t z ì ʔ ¹ n ʔ ɔ ⁵ ³	0.6990432143211365	6
+m a ³ n d y e ¹ ² t z ô n ʔ ³ ¹	k o ³ n d y e ¹ ² t z ì ʔ ¹ n ʔ ò ʔ ¹	0.945762038230896	7
+ʔ ⁵ n d y e ³ ² t z ʔ o n ³	k o ³ n d y e ¹ ² t z ì ʔ ¹ n ʔ o ³	0.9209743142127991	8
+k o ³ n d y e ¹ ² n ʔ ɔ ³ ⁴	k o ³ n d y e ¹ ² n d ì ʔ ¹ n ʔ ɔ ¹ ²	1.0693199634552002	7
+k o ³ n d y e ¹ ² n ʔ ô ³ ¹	k o ³ n d y e ¹ ² n d ì ʔ ¹ n ʔ ô ³ ¹	0.8084945678710938	5
+k o ³ n d y e ¹ ² n ʔ o ³ o ʔ ³	k o ³ n d y e ¹ ² n d ì ʔ ¹ n ʔ ò ¹ o ʔ ³	0.693602979183197	7
+k i ³ n d y e ¹ ² t z ʔ ɔ n ⁵ ³	k i ³ n d y e ¹ ² t z ì ʔ ¹ n ʔ ɔ ⁵ ³	0.4284438490867615	4
+k i ³ n d y e ¹ ² t z ộ n ʔ ³ ¹	k i ³ n d y e ¹ ² t z ì ʔ ¹ n ʔ ò ʔ ¹	0.6999141573905945	5
+k i ³ n d y e ¹ ² t z ʔ o n ³	k i ³ n d y e ¹ ² t z ì ʔ ¹ n ʔ o ³	0.569514811038971	4
+k i ³ n d y e ¹ ² n ʔ ɔ ³ ⁴	k i ³ n d y e ¹ ² n d ì ʔ ¹ n ʔ ɔ ¹ ²	1.0146894454956055	7
+k i ³ n d y e ¹ ² n ʔ ô ³ ¹	k i ³ n d y e ¹ ² n d ì ʔ ¹ n ʔ ô ³ ¹	0.76894211769104	5
+k i ³ n d y e ¹ ² n ʔ o ³ o ʔ ³	k i ³ n d y e ¹ ² n d ì ʔ ¹ n ʔ ò ¹ o ʔ ³	0.6851264238357544	7
+n ⁵ n d y e ¹ ² t z ʔ ɔ n ⁵ ³	n ⁵ n d y e ¹ ² t z ì ʔ ¹ n ʔ ɔ ⁵ ³	0.4920927882194519	4
+n ⁵ n d y e ¹ ² t z ộ n ʔ ³ ¹	n ⁵ n d y e ¹ ² t z ì ʔ ¹ n ʔ ò ʔ ¹	0.7039889097213745	5
+n ⁵ n d y e ¹ ² t z ʔ o n ³	n ⁵ n d y e ¹ ² t z ì ʔ ¹ n ʔ o ³	0.7588191628456116	4
+n ⁵ n d y e ¹ ² n ʔ ɔ ³ ⁴	n ⁵ n d y e ¹ ² n d ì ʔ ¹ n ʔ ɔ ¹ ²	1.0832982063293457	7
+n ⁵ n d y e ¹ ² n ʔ ô ³ ¹	n ⁵ n d y e ¹ ² n d ì ʔ ¹ n ʔ ô ³ ¹	0.8761370778083801	5
+n ⁵ n d y e ¹ ² n ʔ o ³ o ʔ ³	n ⁵ n d y e ¹ ² n d ì ʔ ¹ n ʔ ò ¹ o ʔ ³	0.9724016785621643	7
+t o ³ n d y e ¹ ² t z ʔ ɔ n ⁵ ³	t o ³ n d y e ¹ ² t z ì ʔ ¹ n ʔ ɔ ⁵ ³	0.42514246702194214	4
+t o ³ n d y e ¹ ² t z ô n ʔ ³ ¹	t o ³ n d y e ¹ ² t z ì ʔ ¹ n ʔ ò ʔ ¹	0.697041392326355	5
+t o ³ n d y e ¹ ² t z ʔ o n ³	t o ³ n d y e ¹ ² t z ì ʔ ¹ n ʔ o ³	0.6035144925117493	4
+t o ³ n d y e ¹ ² n ʔ ɔ ³ ⁴	t o ³ n d y e ¹ ² n d ì ʔ ¹ n ʔ ɔ ¹ ²	1.0221446752548218	7
+t o ³ n d y e ¹ ² n ʔ ô ³ ¹	t o ³ n d y e ¹ ² n d ì ʔ ¹ n ʔ ô ³ ¹	0.773116409778595	5
+t o ³ n d y e ¹ ² n ʔ o ³ o ʔ ³	t o ³ n d y e ¹ ² n d ì ʔ ¹ n ʔ ò ¹ o ʔ ³	0.6875249147415161	7
+n ⁵ n g o ³ n d y e ¹ ² t z ʔ ɔ n ⁵ ³	n ⁵ n g o ³ n d y e ¹ ² t z ì ʔ ¹ n ʔ ɔ ⁵ ³	0.4099368751049042	4
+n ⁵ n g o ³ n d y e ¹ ² t z ô n ʔ ³ ¹	n ⁵ n g o ³ n d y e ¹ ² t z ì ʔ ¹ n ʔ ò ʔ ¹	0.6085989475250244	5
+n ⁵ n g o ³ n d y e ¹ ² t z ʔ o n ³	n ⁵ n g o ³ n d y e ¹ ² t z ì ʔ ¹ n ʔ o ³	0.657109797000885	4
+n ⁵ n g o ³ n d y e ¹ ² n ʔ ɔ ³ ⁴	n ⁵ n g o ³ n d y e ¹ ² n d ì ʔ ¹ n ʔ ɔ ¹ ²	0.693673312664032	7
+n ⁵ n g o ³ n d y e ¹ ² n ʔ ô ³ ¹	n ⁵ n g o ³ n d y e ¹ ² n d ì ʔ ¹ n ʔ ô ³ ¹	0.7034096717834473	5
+n ⁵ n g o ³ n d y e ¹ ² n ʔ o ³ o ʔ ³	n ⁵ n g o ³ n d y e ¹ ² n d ì ʔ ¹ n ʔ ò ¹ o ʔ ³	0.6050879955291748	7
+h n d y ʔ e ʔ ¹ ² t z ʔ ɔ n ⁵ ³	h n d y e ʔ ¹ ² t z ʔ ɔ n ⁵ ³	0.14231465756893158	1
+h n d y e ʔ ¹ ² t z ô n ʔ ³ ¹	h n d y e ʔ ¹ ² t z ô n ʔ ³ ¹	0.08111599087715149	0
+h n d y e ʔ ¹ ² t z ʔ o n ³	h n d y e ʔ ¹ ² t z ʔ o n ³	0.04529053345322609	0
+h n d y e ʔ ¹ ² n ʔ ɔ ³ ⁴	h n d y e ʔ ¹ ² n ʔ ɔ ³ ⁴	0.08622519671916962	0
+h n d y e ʔ ¹ ² n ʔ ô ³ ¹	h n d y e ʔ ¹ ² n ʔ ô ³ ¹	0.0918041318655014	0
+h n d y ʔ e ʔ ¹ ² n ʔ o ³ o ʔ ³	h n d y e ʔ ¹ ² n ʔ o ³ o ʔ ³	0.09097087383270264	1
+m a ³ n d y ʔ e ʔ ¹ ² t z ʔ ɔ n ⁵ ³	k o ³ n d y e ʔ ¹ ² t z ʔ ɔ n ⁵ ³	0.5805649161338806	3
+m a ³ n d y e ʔ ¹ ² t z ô n ʔ ³ ¹	k o ³ n d y e ʔ ¹ ² t z ô n ʔ ³ ¹	0.41117140650749207	2
+ʔ ⁵ n d y e ʔ ¹ ² t z ʔ o n ³	k o ³ n d y e ʔ ¹ ² t z ʔ o n ³	0.4017859101295471	3
+k o ³ n d y ʔ e ʔ ¹ ² n ʔ ɔ ³ ⁴	k o ³ n d y e ʔ ¹ ² n ʔ ɔ ³ ⁴	0.13783755898475647	1
+k o ³ n d y ʔ e ʔ ¹ ² n ʔ ô ³ ¹	k o ³ n d y e ʔ ¹ ² n ʔ ô ³ ¹	0.136212557554245	1
+k o ³ n d y ʔ e ʔ ¹ ² n ʔ o ³ o ʔ ³	k o ³ n d y e ʔ ¹ ² n ʔ o ³ o ʔ ³	0.1451200395822525	1
+k i ³ n d y ʔ e ʔ ¹ ² t z ʔ ɔ n ⁵ ³	k i ³ n d y e ʔ ¹ ² t z ʔ ɔ n ⁵ ³	0.2880350649356842	1
+k i ³ n d y e ʔ ¹ ² t z ô n ʔ ³ ¹	k i ³ n d y e ʔ ¹ ² t z ô n ʔ ³ ¹	0.06439469754695892	0
+k i ³ n d y e ʔ ¹ ² t z ʔ o n ³	k i ³ n d y e ʔ ¹ ² t z ʔ o n ³	0.0451698936522007	0
+k i ³ n d y ʔ e ʔ ¹ ² n ʔ ɔ ³ ⁴	k i ³ n d y e ʔ ¹ ² n ʔ ɔ ³ ⁴	0.1860443651676178	1
+k i ³ n d y ʔ e ʔ ¹ ² n ʔ ô ³ ¹	k i ³ n d y e ʔ ¹ ² n ʔ ô ³ ¹	0.20517273247241974	1
+k i ³ n d y ʔ e ʔ ¹ ² n ʔ o ³ o ʔ ³	k i ³ n d y e ʔ ¹ ² n ʔ o ³ o ʔ ³	0.19039204716682434	1
+n ⁵ n d y ʔ e ʔ ¹ ² t z ʔ ɔ n ⁵ ³	n ⁵ n d y e ʔ ¹ ² t z ʔ ɔ n ⁵ ³	0.24500691890716553	1
+n ⁵ n d y e ʔ ¹ ² t z ô n ʔ ³ ¹	n ⁵ n d y e ʔ ¹ ² t z ô n ʔ ³ ¹	0.07784032076597214	0
+n ⁵ n d y e ʔ ¹ ² t z ʔ o n ³	n ⁵ n d y e ʔ ¹ ² t z ʔ o n ³	0.04612208902835846	0
+n ⁵ n d y ʔ e ʔ ¹ ² n ʔ ɔ ³ ⁴	n ⁵ n d y e ʔ ¹ ² n ʔ ɔ ³ ⁴	0.12290747463703156	1
+n ⁵ n d y ʔ e ʔ ¹ ² n ʔ ô ³ ¹	n ⁵ n d y e ʔ ¹ ² n ʔ ô ³ ¹	0.14782388508319855	1
+n ⁵ n d y ʔ e ʔ ¹ ² n ʔ o ³ o ʔ ³	n ⁵ n d y e ʔ ¹ ² n ʔ o ³ o ʔ ³	0.12359944730997086	1
+t o ³ n d y ʔ e ʔ ¹ ² t z ʔ ɔ n ⁵ ³	t o ³ n d y e ʔ ¹ ² t z ʔ ɔ n ⁵ ³	0.1771753877401352	1
+t o ³ n d y e ʔ ¹ ² t z ô n ʔ ³ ¹	t o ³ n d y e ʔ ¹ ² t z ô n ʔ ³ ¹	0.050281718373298645	0
+t o ³ n d y e ʔ ¹ ² t z ʔ o n ³	t o ³ n d y e ʔ ¹ ² t z ʔ o n ³	0.04561672359704971	0
+t o ³ n d y ʔ e ʔ ¹ ² n ʔ ɔ ³ ⁴	t o ³ n d y e ʔ ¹ ² n ʔ ɔ ³ ⁴	0.13121800124645233	1

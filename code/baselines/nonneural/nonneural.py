@@ -184,7 +184,8 @@ def main(argv):
             quit()
 
     totalavg, numlang = 0.0, 0
-    for lang in [os.path.splitext(d)[0] for d in os.listdir(path) if '.trn' in d]:
+    #for lang in [os.path.splitext(d)[0] for d in os.listdir(path) if '.trn' in d]:
+    for lang in ["azg", "dsb"]:
         allprules, allsrules = {}, {}
         if not os.path.isfile(path + lang +  ".trn"):
             continue

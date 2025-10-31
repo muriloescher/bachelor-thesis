@@ -1,0 +1,1008 @@
+Generate the inflected form for: n⁵ndo³nko³ V;PFV;SG;1;PST	to³nkɛ⁵³	to³nkɔ⁵³
+Generate the inflected form for: n⁵ndo³nko³ V;PFV;SG;2;PST	to³nkoʔ⁵³	to³nkoʔ³
+Generate the inflected form for: n⁵ndo³nko³ V;PFV;SG;3;PST	to³nko³én⁵	to³nko³
+Generate the inflected form for: n⁵ndo³nko³ V;PFV;PL;1+INCL;PST	to³nko³há⁵á⁵	to³nkɔ¹²
+Generate the inflected form for: n⁵ndo³nko³ V;PFV;PL;1+EXCL;PST	to³nkô³¹	to³nkô³¹
+Generate the inflected form for: n⁵ndo³nko³ V;PFV;PL;3;PST	to³nko³oʔ³	to³nkò¹oʔ³
+Generate the inflected form for: n⁵ndo³nko³ V;IPFV;SG;1;PRS	ko³ndo³nkɛ⁵³	ma³nkɔ⁵³
+Generate the inflected form for: n⁵ndo³nko³ V;IPFV;SG;2;PRS	ma³ndo³nkoʔ⁵³	ma³nkoʔ³
+Generate the inflected form for: n⁵ndo³nko³ V;IPFV;SG;3;PRS	ko³ndo³nko³én⁵	ʔ⁵nko³
+Generate the inflected form for: n⁵ndo³nko³ V;IPFV;PL;1+INCL;PRS	ko³nko³há⁵á⁵	ko³nkɔ¹²
+Generate the inflected form for: n⁵ndo³nko³ V;IPFV;PL;1+EXCL;PRS	ko³nkô³¹	ko³nkô³¹
+Generate the inflected form for: n⁵ndo³nko³ V;IPFV;PL;3;PRS	ko³nko³oʔ³	ko³nkò¹oʔ³
+Generate the inflected form for: n⁵ndo³nko³ V;SBJV;SG;1	ki³ndo³nkɛ⁵³	n³nkɔ⁵³
+Generate the inflected form for: n⁵ndo³nko³ V;SBJV;SG;2	ki³ndo³nkoʔ⁵³	n³nkoʔ³
+Generate the inflected form for: n⁵ndo³nko³ V;SBJV;SG;3	ki³ndo³nko³én⁵	n³nko³
+Generate the inflected form for: n⁵ndo³nko³ V;SBJV;PL;1+INCL	ki³ndí⁵nkɛ³⁴ɛn⁵	n³nkɔ¹²
+Generate the inflected form for: n⁵ndo³nko³ V;SBJV;PL;1+EXCL	ki³ndí⁵nkô³¹	n³nkô³¹
+Generate the inflected form for: n⁵ndo³nko³ V;SBJV;PL;3	ki³ndo³nko³oʔ³	n³nkò¹oʔ³
+Generate the inflected form for: n⁵ndo³nko³ V;IRR;SG;1;FUT	n⁵ndo³nkɛ⁵³	n⁵ndo³nkɔ⁵³
+Generate the inflected form for: n⁵ndo³nko³ V;IRR;SG;2;FUT	n⁵ndo³nkoʔ⁵³	n⁵ndo³nkoʔ³
+Generate the inflected form for: n⁵ndo³nko³ V;IRR;SG;3;FUT	n⁵ndo³nko³én⁵	n⁵ndo³nko³
+Generate the inflected form for: n⁵ndo³nko³ V;IRR;PL;1+INCL;FUT	n⁵ndí⁵nko³há⁵á⁵	n⁵ndo³nkɔ¹²
+Generate the inflected form for: n⁵ndo³nko³ V;IRR;PL;1+EXCL;FUT	n⁵ndí⁵nkô³¹	n⁵ndo³nkô³¹
+Generate the inflected form for: n⁵ndo³nko³ V;IRR;PL;3;FUT	n⁵ndo³nko³oʔ³	n⁵ndo³nkò¹oʔ³
+Generate the inflected form for: n⁵ndo³nko³ V;PROG;SG;1;PST	to³nkɛ⁵³	to³nkɔ⁵³
+Generate the inflected form for: n⁵ndo³nko³ V;PROG;SG;2;PST	to³nkoʔ⁵³	to³nkoʔ³
+Generate the inflected form for: n⁵ndo³nko³ V;PROG;SG;3;PST	to³nko³én⁵	to³nko³
+Generate the inflected form for: n⁵ndo³nko³ V;PROG;PL;1+INCL;PST	to³nko³há⁵á⁵	to³nkɔ¹²
+Generate the inflected form for: n⁵ndo³nko³ V;PROG;PL;1+EXCL;PST	to³nkô³¹	to³nkô³¹
+Generate the inflected form for: n⁵ndo³nko³ V;PROG;PL;3;PST	to³nko³oʔ³	to³nkò¹oʔ³
+Generate the inflected form for: n⁵ndo³nko³ V;PROG;SG;1;FUT	n⁵ngo³ndo³nkɛ⁵³	n⁵ngo³nkɔ⁵³
+Generate the inflected form for: n⁵ndo³nko³ V;PROG;SG;2;FUT	n⁵ngo³ndo³nkoʔ⁵³	n⁵ngo³nkoʔ³
+Generate the inflected form for: n⁵ndo³nko³ V;PROG;SG;3;FUT	n⁵ngo³ndo³nko³én⁵	n⁵ngo³nko³
+Generate the inflected form for: n⁵ndo³nko³ V;PROG;PL;1+INCL;FUT	n⁵ngo³ndí⁵nkɛ³⁴	n⁵ngo³nkɔ¹²
+Generate the inflected form for: n⁵ndo³nko³ V;PROG;PL;1+EXCL;FUT	n⁵ngo³ndô³¹nkô³¹	n⁵ngo³nkô³¹
+Generate the inflected form for: n⁵ndo³nko³ V;PROG;PL;3;FUT	n⁵ngo³ndo³nko³oʔ³	n⁵ngo³nkò¹oʔ³
+Generate the inflected form for: n⁵ndoàn¹ V;PFV;SG;1;PST	toàn¹ha³	toàn¹ha³
+Generate the inflected form for: n⁵ndoàn¹ V;PFV;SG;2;PST	toàn¹ʔu³	toàn¹ʔu³
+Generate the inflected form for: n⁵ndoàn¹ V;PFV;SG;3;PST	toàn¹én⁵	toàn¹én⁵
+Generate the inflected form for: n⁵ndoàn¹ V;PFV;PL;1+INCL;PST	toàn¹há⁵á⁵	toàn¹há⁵á⁵
+Generate the inflected form for: n⁵ndoàn¹ V;PFV;PL;1+EXCL;PST	toàn¹hâ³¹	toàn¹hâ³¹
+Generate the inflected form for: n⁵ndoàn¹ V;PFV;PL;3;PST	toàn¹ʔo³	toàn¹ʔo³
+Generate the inflected form for: n⁵ndoàn¹ V;IPFV;SG;1;PRS	ma³ndoàn¹ha³	ko³toàn¹ha³
+Generate the inflected form for: n⁵ndoàn¹ V;IPFV;SG;2;PRS	ma³ndoàn¹ʔu³	ko³toàn¹ʔu³
+Generate the inflected form for: n⁵ndoàn¹ V;IPFV;SG;3;PRS	ma³ndoàn¹én⁵	ko³toàn¹én⁵
+Generate the inflected form for: n⁵ndoàn¹ V;IPFV;PL;1+INCL;PRS	ko³ndoàn¹há⁵á⁵	ko³toàn¹há⁵á⁵
+Generate the inflected form for: n⁵ndoàn¹ V;IPFV;PL;1+EXCL;PRS	ko³ndân³¹	ko³toàn¹hâ³¹
+Generate the inflected form for: n⁵ndoàn¹ V;IPFV;PL;3;PRS	ko³ndoàn¹ʔo³	ko³toàn¹ʔo³
+Generate the inflected form for: n⁵ndoàn¹ V;SBJV;SG;1	ki³ndoàn¹ha³	ki³toàn¹ha³
+Generate the inflected form for: n⁵ndoàn¹ V;SBJV;SG;2	ki³ndoàn¹ʔu³	ki³toàn¹ʔu³
+Generate the inflected form for: n⁵ndoàn¹ V;SBJV;SG;3	ki³ndoàn¹én⁵	ki³toàn¹én⁵
+Generate the inflected form for: n⁵ndoàn¹ V;SBJV;PL;1+INCL	ki³ndoàn¹há⁵á⁵	ki³toàn¹há⁵á⁵
+Generate the inflected form for: n⁵ndoàn¹ V;SBJV;PL;1+EXCL	ki³ndoàn¹hâ³¹	ki³toàn¹hâ³¹
+Generate the inflected form for: n⁵ndoàn¹ V;SBJV;PL;3	ki³ndoàn¹ʔo³	ki³toàn¹ʔo³
+Generate the inflected form for: n⁵ndoàn¹ V;IRR;SG;1;FUT	n⁵ndoàn¹ha³	n⁵ndoàn¹ha³
+Generate the inflected form for: n⁵ndoàn¹ V;IRR;SG;2;FUT	n⁵ndoàn¹ʔu³	n⁵ndoàn¹ʔu³
+Generate the inflected form for: n⁵ndoàn¹ V;IRR;SG;3;FUT	n⁵ndoàn¹én⁵	n⁵ndoàn¹én⁵
+Generate the inflected form for: n⁵ndoàn¹ V;IRR;PL;1+INCL;FUT	n⁵ndoàn¹há⁵á⁵	n⁵ndoàn¹há⁵á⁵
+Generate the inflected form for: n⁵ndoàn¹ V;IRR;PL;1+EXCL;FUT	n⁵ndôàn¹hâ³¹	n⁵ndoàn¹hâ³¹
+Generate the inflected form for: n⁵ndoàn¹ V;IRR;PL;3;FUT	n⁵ndoàn¹ʔo³	n⁵ndoàn¹ʔo³
+Generate the inflected form for: n⁵ndoàn¹ V;PROG;SG;1;PST	to³ndoàn¹ha³	to³toàn¹ha³
+Generate the inflected form for: n⁵ndoàn¹ V;PROG;SG;2;PST	to³ndoàn¹ʔu³	to³toàn¹ʔu³
+Generate the inflected form for: n⁵ndoàn¹ V;PROG;SG;3;PST	to³ndoàn¹én⁵	to³toàn¹én⁵
+Generate the inflected form for: n⁵ndoàn¹ V;PROG;PL;1+INCL;PST	to³ndàn¹há⁵á⁵	to³toàn¹há⁵á⁵
+Generate the inflected form for: n⁵ndoàn¹ V;PROG;PL;1+EXCL;PST	to³ndàn¹hâ³¹	to³toàn¹hâ³¹
+Generate the inflected form for: n⁵ndoàn¹ V;PROG;PL;3;PST	to³ndoàn¹ʔo³	to³toàn¹ʔo³
+Generate the inflected form for: n⁵ndoàn¹ V;PROG;SG;1;FUT	n⁵ngo³ndoàn¹ha³	n⁵ngo³toàn¹ha³
+Generate the inflected form for: n⁵ndoàn¹ V;PROG;SG;2;FUT	n⁵ngo³ndoàn¹ʔu³	n⁵ngo³toàn¹ʔu³
+Generate the inflected form for: n⁵ndoàn¹ V;PROG;SG;3;FUT	n⁵ngo³ndoàn¹én⁵	n⁵ngo³toàn¹én⁵
+Generate the inflected form for: n⁵ndoàn¹ V;PROG;PL;1+INCL;FUT	n⁵ngo³ndàn¹há⁵á⁵	n⁵ngo³toàn¹há⁵á⁵
+Generate the inflected form for: n⁵ndoàn¹ V;PROG;PL;1+EXCL;FUT	n⁵ngo³ndân³¹	n⁵ngo³toàn¹hâ³¹
+Generate the inflected form for: n⁵ndoàn¹ V;PROG;PL;3;FUT	n⁵ngo³ndoàn¹ʔo³	n⁵ngo³toàn¹ʔo³
+Generate the inflected form for: n⁵ndoʔ³ V;PFV;SG;1;PST	to³ndɔ³	hndɔʔ⁵³ɔ³
+Generate the inflected form for: n⁵ndoʔ³ V;PFV;SG;2;PST	to³ndoʔ³ʔu³	hndôʔ³¹
+Generate the inflected form for: n⁵ndoʔ³ V;PFV;SG;3;PST	hndoʔ³	hndoʔ³
+Generate the inflected form for: n⁵ndoʔ³ V;PFV;PL;1+INCL;PST	to³ndɔ³⁴	hndɔʔ¹²ɔ⁵
+Generate the inflected form for: n⁵ndoʔ³ V;PFV;PL;1+EXCL;PST	to³ndô³¹	hndôʔ³¹ɔ³
+Generate the inflected form for: n⁵ndoʔ³ V;PFV;PL;3;PST	hndo³oʔ³oʔ³	hndoʔ¹²oʔ³
+Generate the inflected form for: n⁵ndoʔ³ V;IPFV;SG;1;PRS	ʔ⁵ndɔ³	ma³ndɔʔ⁵³ɔ³
+Generate the inflected form for: n⁵ndoʔ³ V;IPFV;SG;2;PRS	ma³ndoʔ³ʔu³	ma³ndôʔ³¹
+Generate the inflected form for: n⁵ndoʔ³ V;IPFV;SG;3;PRS	ʔ⁵ndoʔ³	ʔ⁵ndoʔ³
+Generate the inflected form for: n⁵ndoʔ³ V;IPFV;PL;1+INCL;PRS	ko³ndɔ³⁴á⁵	ko³hndɔʔ¹²ɔ⁵
+Generate the inflected form for: n⁵ndoʔ³ V;IPFV;PL;1+EXCL;PRS	ko³ndô³¹	ko³hndôʔ³¹ɔ³
+Generate the inflected form for: n⁵ndoʔ³ V;IPFV;PL;3;PRS	ko³ndoʔ³oʔ³	ko³hndoʔ¹²oʔ³
+Generate the inflected form for: n⁵ndoʔ³ V;SBJV;SG;1	ki³ndɔ³	ki³ndɔʔ⁵³ɔ³
+Generate the inflected form for: n⁵ndoʔ³ V;SBJV;SG;2	ki³ndoʔ³ʔu³	ki³ndôʔ³¹
+Generate the inflected form for: n⁵ndoʔ³ V;SBJV;SG;3	ki³ndoʔ³	ki³ndoʔ³
+Generate the inflected form for: n⁵ndoʔ³ V;SBJV;PL;1+INCL	ki³ndɔ³⁴	ki³hndɔʔ¹²ɔ⁵
+Generate the inflected form for: n⁵ndoʔ³ V;SBJV;PL;1+EXCL	ki³ndô³¹	ki³hndôʔ³¹ɔ³
+Generate the inflected form for: n⁵ndoʔ³ V;SBJV;PL;3	ki³ndoʔ³oʔ³	ki³hndoʔ¹²oʔ³
+Generate the inflected form for: n⁵ndoʔ³ V;IRR;SG;1;FUT	n⁵ndɔ³	n⁵ndɔʔ⁵³ɔ³
+Generate the inflected form for: n⁵ndoʔ³ V;IRR;SG;2;FUT	n⁵ndoʔ³ʔu³	n⁵ndôʔ³¹
+Generate the inflected form for: n⁵ndoʔ³ V;IRR;SG;3;FUT	n⁵ndoʔ³én⁵	n⁵ndoʔ³
+Generate the inflected form for: n⁵ndoʔ³ V;IRR;PL;1+INCL;FUT	n⁵ndɛ³⁴ɛn⁵	n⁵hndɔʔ¹²ɔ⁵
+Generate the inflected form for: n⁵ndoʔ³ V;IRR;PL;1+EXCL;FUT	n⁵ndô³¹	n⁵hndôʔ³¹ɔ³
+Generate the inflected form for: n⁵ndoʔ³ V;IRR;PL;3;FUT	n⁵ndoʔ³oʔ³	n⁵hndoʔ¹²oʔ³
+Generate the inflected form for: n⁵ndoʔ³ V;PROG;SG;1;PST	to³ndɔ³	to³ndɔʔ⁵³ɔ³
+Generate the inflected form for: n⁵ndoʔ³ V;PROG;SG;2;PST	to³ndoʔ³ʔu³	to³ndôʔ³¹
+Generate the inflected form for: n⁵ndoʔ³ V;PROG;SG;3;PST	to³ndoʔ³	to³ndoʔ³
+Generate the inflected form for: n⁵ndoʔ³ V;PROG;PL;1+INCL;PST	to³ndɛ¹²	to³hndɔʔ¹²ɔ⁵
+Generate the inflected form for: n⁵ndoʔ³ V;PROG;PL;1+EXCL;PST	to³ndô³¹	to³hndôʔ³¹ɔ³
+Generate the inflected form for: n⁵ndoʔ³ V;PROG;PL;3;PST	to³ndoʔ³oʔ³	to³hndoʔ¹²oʔ³
+Generate the inflected form for: n⁵ndoʔ³ V;PROG;SG;1;FUT	n⁵ngo³ndɔ³	n⁵ngo³ndɔʔ⁵³ɔ³
+Generate the inflected form for: n⁵ndoʔ³ V;PROG;SG;2;FUT	n⁵ngo³ndoʔ³ʔu³	n⁵ngo³ndôʔ³¹
+Generate the inflected form for: n⁵ndoʔ³ V;PROG;SG;3;FUT	n⁵ngo³ndoʔ³	n⁵ngo³ndoʔ³
+Generate the inflected form for: n⁵ndoʔ³ V;PROG;PL;1+INCL;FUT	n⁵ngo³ndɛ¹²	n⁵ngo³hndɔʔ¹²ɔ⁵
+Generate the inflected form for: n⁵ndoʔ³ V;PROG;PL;1+EXCL;FUT	n⁵ngo³ndô³¹	n⁵ngo³hndôʔ³¹ɔ³
+Generate the inflected form for: n⁵ndoʔ³ V;PROG;PL;3;FUT	n⁵ngo³ndoʔ³oʔ³	n⁵ngo³hndoʔ¹²oʔ³
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;PFV;SG;1;PST	to³ndoʔ³bìʔ¹ha³	hndɔʔ⁵³bʔi¹²
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;PFV;SG;2;PST	to³ndoʔ³bìʔ¹ʔu³	hndôʔ³¹bìʔ¹
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;PFV;SG;3;PST	hndoʔ³bìʔ¹én⁵	hndoʔ³bìʔ¹
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;PFV;PL;1+INCL;PST	to³ndí⁵bìʔ¹há⁵á⁵	hndɔʔ¹²bʔi¹²
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;PFV;PL;1+EXCL;PST	to³ndí⁵bìʔ¹hâ³¹	hndôʔ³¹bʔî³¹
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;PFV;PL;3;PST	to³ndoʔ³bìʔ¹ʔo³	hndoʔ¹²bìʔ¹oʔ³
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;IPFV;SG;1;PRS	ma³ndoʔ³bìʔ¹ha³	ma³ndɔʔ⁵³bʔi¹²
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;IPFV;SG;2;PRS	ma³ndoʔ³bìʔ¹ʔu³	ma³ndôʔ³¹bìʔ¹
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;IPFV;SG;3;PRS	ma³ndoʔ³bìʔ¹én⁵	ʔ⁵ndòʔ³bìʔ¹
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;IPFV;PL;1+INCL;PRS	ko³ndoʔ³bìʔ¹há⁵á⁵	ko³hndɔʔ¹²bʔi¹²
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;IPFV;PL;1+EXCL;PRS	ko³ndôʔ³¹bìʔ¹hâ³¹	ko³ndôʔ³¹bʔî³¹
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;IPFV;PL;3;PRS	ko³ndoʔ³bìʔ¹ʔo³	ko³hndoʔ¹²bìʔ¹oʔ³
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;SBJV;SG;1	ki³ndoʔ³bìʔ¹ha³	ki³ndɔʔ⁵³bʔi¹²
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;SBJV;SG;2	ki³ndoʔ³bìʔ¹ʔu³	ki³ndôʔ³¹bìʔ¹
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;SBJV;SG;3	ki³ndoʔ³bìʔ¹én⁵	ki³ndoʔ³bìʔ¹
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;SBJV;PL;1+INCL	ki³ndoʔ³bìʔ¹há⁵á⁵	ki³hndɔʔ¹²bʔi¹²
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;SBJV;PL;1+EXCL	ki³ndôʔ³¹bìʔ¹hâ³¹	ki³hndôʔ³¹bʔî³¹
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;SBJV;PL;3	ki³ndoʔ³bìʔ¹ʔo³	ki³hndoʔ¹²bìʔ¹oʔ³
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;IRR;SG;1;FUT	n⁵ndɔ³bìʔ¹ha³	n⁵ndɔʔ⁵³bʔi¹²
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;IRR;SG;2;FUT	n⁵ndoʔ³bìʔ¹ʔu³	n⁵ndôʔ³¹bìʔ¹
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;IRR;SG;3;FUT	n⁵ndoʔ³bìʔ¹én⁵	n⁵ndoʔ³bìʔ¹
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;IRR;PL;1+INCL;FUT	n⁵ndôʔ³¹bìʔ¹há⁵á	n⁵hndɔʔ¹²bʔi¹²
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;IRR;PL;1+EXCL;FUT	n⁵ndôʔ³¹bìʔ¹hâ³¹	n⁵ndôʔ³¹bʔî³¹
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;IRR;PL;3;FUT	n⁵ndoʔ³bìʔ¹ʔo³	n⁵hndoʔ¹²bìʔ¹oʔ³
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;PROG;SG;1;PST	to³ndoʔ³bìʔ¹ha³	to³ndɔʔ⁵³bʔi¹²
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;PROG;SG;2;PST	to³ndoʔ³bìʔ¹ʔu³	to³ndôʔ³¹bìʔ¹
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;PROG;SG;3;PST	to³ndoʔ³bìʔ¹én⁵	to³ndoʔ³bìʔ¹
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;PROG;PL;1+INCL;PST	to³ndí⁵bìʔ¹há⁵á⁵	to³hndɔʔ¹²bʔi¹²
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;PROG;PL;1+EXCL;PST	to³ndôʔ³¹bìʔ¹hâ³¹	to³hndôʔ³¹bʔî³¹
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;PROG;PL;3;PST	to³ndoʔ³bìʔ¹ʔo³	to³hndoʔ¹²bìʔ¹oʔ³
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;PROG;SG;1;FUT	n⁵ngo³ndɔ³bìʔ¹ha³	n⁵ngo³ndɔʔ⁵³bʔi¹²
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;PROG;SG;2;FUT	n⁵ngo³ndoʔ³bìʔ¹ʔu³	n⁵ngo³ndôʔ³¹bìʔ¹
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;PROG;SG;3;FUT	n⁵ngo³ndoʔ³bìʔ¹én⁵	n⁵ngo³ndoʔ³bìʔ¹
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;PROG;PL;1+INCL;FUT	n⁵ngo³ndôʔ³¹bìʔ¹há	n⁵ngo³hndɔʔ¹²bʔi¹²
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;PROG;PL;1+EXCL;FUT	n⁵ngo³ndôʔ³¹bìʔ¹hâ³	n⁵ngo³hndôʔ³¹bʔî³¹
+Generate the inflected form for: n⁵ndoʔ³bìʔ¹ V;PROG;PL;3;FUT	n⁵ngo³ndoʔ³bìʔ¹ʔo³	n⁵ngo³hndoʔ¹²bìʔ¹oʔ³
+Generate the inflected form for: n⁵ndui³⁴ V;PFV;SG;1;PST	tui⁵³	hndui³⁴ha³
+Generate the inflected form for: n⁵ndui³⁴ V;PFV;SG;2;PST	tuiʔ⁵³	hndui³⁴ʔu³
+Generate the inflected form for: n⁵ndui³⁴ V;PFV;SG;3;PST	hndui³⁴	hndui³⁴én⁵
+Generate the inflected form for: n⁵ndui³⁴ V;PFV;PL;1+INCL;PST	tuê³¹	hndui³⁴há⁵á⁵
+Generate the inflected form for: n⁵ndui³⁴ V;PFV;PL;1+EXCL;PST	tuê³¹	hndui³⁴hâ³¹
+Generate the inflected form for: n⁵ndui³⁴ V;PFV;PL;3;PST	tui³⁴oʔ³	hndui³⁴ʔo³
+Generate the inflected form for: n⁵ndui³⁴ V;IPFV;SG;1;PRS	ma³ndui⁵³	ko³ndui³⁴ha³
+Generate the inflected form for: n⁵ndui³⁴ V;IPFV;SG;2;PRS	ma³nduiʔ⁵³	ko³ndui³⁴ʔu³
+Generate the inflected form for: n⁵ndui³⁴ V;IPFV;SG;3;PRS	ma³ndui³⁴	ko³ndui³⁴én⁵
+Generate the inflected form for: n⁵ndui³⁴ V;IPFV;PL;1+INCL;PRS	ko³nduê³¹	ko³ndui³⁴há⁵á⁵
+Generate the inflected form for: n⁵ndui³⁴ V;IPFV;PL;1+EXCL;PRS	ko³nduê³¹	ko³ndui³⁴hâ³¹
+Generate the inflected form for: n⁵ndui³⁴ V;IPFV;PL;3;PRS	ko³ndui³⁴oʔ³	ko³ndui³⁴ʔo³
+Generate the inflected form for: n⁵ndui³⁴ V;SBJV;SG;1	ki³ndui⁵³	ki³ndui³⁴ha³
+Generate the inflected form for: n⁵ndui³⁴ V;SBJV;SG;2	ki³nduiʔ⁵³	ki³ndui³⁴ʔu³
+Generate the inflected form for: n⁵ndui³⁴ V;SBJV;SG;3	ki³ndui³⁴	ki³ndui³⁴én⁵
+Generate the inflected form for: n⁵ndui³⁴ V;SBJV;PL;1+INCL	ki³nduê³¹	ki³ndui³⁴há⁵á⁵
+Generate the inflected form for: n⁵ndui³⁴ V;SBJV;PL;1+EXCL	ki³nduê³¹	ki³ndui³⁴hâ³¹
+Generate the inflected form for: n⁵ndui³⁴ V;SBJV;PL;3	ki³ndui³⁴oʔ³	ki³ndui³⁴ʔo³
+Generate the inflected form for: n⁵ndui³⁴ V;IRR;SG;1;FUT	n⁵ndui⁵³	n⁵ndui³⁴ha³
+Generate the inflected form for: n⁵ndui³⁴ V;IRR;SG;2;FUT	n⁵nduiʔ⁵³	n⁵ndui³⁴ʔu³
+Generate the inflected form for: n⁵ndui³⁴ V;IRR;SG;3;FUT	n⁵ndui³⁴én⁵	n⁵ndui³⁴én⁵
+Generate the inflected form for: n⁵ndui³⁴ V;IRR;PL;1+INCL;FUT	n⁵nduê³¹	n⁵ndui³⁴há⁵á⁵
+Generate the inflected form for: n⁵ndui³⁴ V;IRR;PL;1+EXCL;FUT	n⁵nduê³¹	n⁵ndui³⁴hâ³¹
+Generate the inflected form for: n⁵ndui³⁴ V;IRR;PL;3;FUT	n⁵ndui³⁴oʔ³	n⁵ndui³⁴ʔo³
+Generate the inflected form for: n⁵ndui³⁴ V;PROG;SG;1;PST	to³ndui⁵³	to³ndui³⁴ha³
+Generate the inflected form for: n⁵ndui³⁴ V;PROG;SG;2;PST	to³nduiʔ⁵³	to³ndui³⁴ʔu³
+Generate the inflected form for: n⁵ndui³⁴ V;PROG;SG;3;PST	to³ndui³⁴	to³ndui³⁴én⁵
+Generate the inflected form for: n⁵ndui³⁴ V;PROG;PL;1+INCL;PST	to³nduê³¹	to³ndui³⁴há⁵á⁵
+Generate the inflected form for: n⁵ndui³⁴ V;PROG;PL;1+EXCL;PST	to³nduê³¹	to³ndui³⁴hâ³¹
+Generate the inflected form for: n⁵ndui³⁴ V;PROG;PL;3;PST	to³nduè¹oʔ³	to³ndui³⁴ʔo³
+Generate the inflected form for: n⁵ndui³⁴ V;PROG;SG;1;FUT	n⁵ngo³ndui⁵³	n⁵ngo³ndui³⁴ha³
+Generate the inflected form for: n⁵ndui³⁴ V;PROG;SG;2;FUT	n⁵ngo³nduiʔ⁵³	n⁵ngo³ndui³⁴ʔu³
+Generate the inflected form for: n⁵ndui³⁴ V;PROG;SG;3;FUT	n⁵ngo³ndui³⁴én⁵	n⁵ngo³ndui³⁴én⁵
+Generate the inflected form for: n⁵ndui³⁴ V;PROG;PL;1+INCL;FUT	n⁵ngo³nduɛ³⁴ɛn⁵	n⁵ngo³ndui³⁴há⁵á⁵
+Generate the inflected form for: n⁵ndui³⁴ V;PROG;PL;1+EXCL;FUT	n⁵ngo³nduê³¹	n⁵ngo³ndui³⁴hâ³¹
+Generate the inflected form for: n⁵ndui³⁴ V;PROG;PL;3;FUT	n⁵ngo³nduè¹oʔ³	n⁵ngo³ndui³⁴ʔo³
+Generate the inflected form for: n⁵ndui³⁵ V;PFV;SG;1;PST	tui⁵³	tui⁵³
+Generate the inflected form for: n⁵ndui³⁵ V;PFV;SG;2;PST	tuiʔ⁵³	tuiʔ⁵³
+Generate the inflected form for: n⁵ndui³⁵ V;PFV;SG;3;PST	hndui³⁵	tui³⁵
+Generate the inflected form for: n⁵ndui³⁵ V;PFV;PL;1+INCL;PST	tuê³¹	tuɛ¹²ɛ⁵
+Generate the inflected form for: n⁵ndui³⁵ V;PFV;PL;1+EXCL;PST	tuê³¹	tuê³¹
+Generate the inflected form for: n⁵ndui³⁵ V;PFV;PL;3;PST	tui³⁵oʔ³	tuè¹oʔ³
+Generate the inflected form for: n⁵ndui³⁵ V;IPFV;SG;1;PRS	ma³ndui⁵³	ma³tui⁵³
+Generate the inflected form for: n⁵ndui³⁵ V;IPFV;SG;2;PRS	ma³nduiʔ⁵³	ma³tuiʔ⁵³
+Generate the inflected form for: n⁵ndui³⁵ V;IPFV;SG;3;PRS	ma³ndui³⁵	ʔ⁵tui³⁵
+Generate the inflected form for: n⁵ndui³⁵ V;IPFV;PL;1+INCL;PRS	ko³nduê³¹	ko³tuɛ¹²ɛ⁵
+Generate the inflected form for: n⁵ndui³⁵ V;IPFV;PL;1+EXCL;PRS	ko³nduê³¹	ko³tuê³¹
+Generate the inflected form for: n⁵ndui³⁵ V;IPFV;PL;3;PRS	ko³ndui³⁵oʔ³	ko³tuè¹oʔ³
+Generate the inflected form for: n⁵ndui³⁵ V;SBJV;SG;1	ki³ndui⁵³	kí⁵tui⁵³
+Generate the inflected form for: n⁵ndui³⁵ V;SBJV;SG;2	ki³nduiʔ⁵³	kí⁵tuiʔ⁵³
+Generate the inflected form for: n⁵ndui³⁵ V;SBJV;SG;3	ki³ndui³⁵	ki³tui³⁵
+Generate the inflected form for: n⁵ndui³⁵ V;SBJV;PL;1+INCL	ki³nduɛ¹²	ki³tuɛ¹²ɛ⁵
+Generate the inflected form for: n⁵ndui³⁵ V;SBJV;PL;1+EXCL	ki³nduê³¹	ki³tuê³¹
+Generate the inflected form for: n⁵ndui³⁵ V;SBJV;PL;3	ki³ndui³⁵oʔ³	ki³tuè¹oʔ³
+Generate the inflected form for: n⁵ndui³⁵ V;IRR;SG;1;FUT	n⁵ndui⁵³	n⁵ndui⁵³
+Generate the inflected form for: n⁵ndui³⁵ V;IRR;SG;2;FUT	n⁵nduiʔ⁵³	n⁵nduiʔ⁵³
+Generate the inflected form for: n⁵ndui³⁵ V;IRR;SG;3;FUT	n⁵ndui³⁵én⁵	n⁵ndui³⁵
+Generate the inflected form for: n⁵ndui³⁵ V;IRR;PL;1+INCL;FUT	n⁵nduê³¹	n⁵nduɛ¹²ɛ⁵
+Generate the inflected form for: n⁵ndui³⁵ V;IRR;PL;1+EXCL;FUT	n⁵nduê³¹	n⁵nduê³¹
+Generate the inflected form for: n⁵ndui³⁵ V;IRR;PL;3;FUT	n⁵ndui³⁵oʔ³	n⁵nduè¹oʔ³
+Generate the inflected form for: n⁵ndui³⁵ V;PROG;SG;1;PST	to³ndui⁵³	to³tui⁵³
+Generate the inflected form for: n⁵ndui³⁵ V;PROG;SG;2;PST	to³nduiʔ⁵³	to³tuiʔ⁵³
+Generate the inflected form for: n⁵ndui³⁵ V;PROG;SG;3;PST	to³ndui³⁵	to³tui³⁵
+Generate the inflected form for: n⁵ndui³⁵ V;PROG;PL;1+INCL;PST	to³nduê³¹	to³tuɛ¹²ɛ⁵
+Generate the inflected form for: n⁵ndui³⁵ V;PROG;PL;1+EXCL;PST	to³nduê³¹	to³tuê³¹
+Generate the inflected form for: n⁵ndui³⁵ V;PROG;PL;3;PST	to³nduè¹oʔ³	to³tuè¹oʔ³
+Generate the inflected form for: n⁵ndui³⁵ V;PROG;SG;1;FUT	n⁵ngo³ndui⁵³	n⁵ngo³tui⁵³
+Generate the inflected form for: n⁵ndui³⁵ V;PROG;SG;2;FUT	n⁵ngo³nduiʔ⁵³	n⁵ngo³tuiʔ⁵³
+Generate the inflected form for: n⁵ndui³⁵ V;PROG;SG;3;FUT	n⁵ngo³ndui³⁵én⁵	n⁵ngo³tui³⁵
+Generate the inflected form for: n⁵ndui³⁵ V;PROG;PL;1+INCL;FUT	n⁵ngo³nduɛ³⁵ɛ⁵	n⁵ngo³tuɛ¹²ɛ⁵
+Generate the inflected form for: n⁵ndui³⁵ V;PROG;PL;1+EXCL;FUT	n⁵ngo³nduê³¹	n⁵ngo³tuê³¹
+Generate the inflected form for: n⁵ndui³⁵ V;PROG;PL;3;FUT	n⁵ngo³nduè¹oʔ³	n⁵ngo³tuè¹oʔ³
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;PFV;SG;1;PST	tui¹²só⁵xkɛn⁵³	tui¹²só⁵xkɛn⁵³
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;PFV;SG;2;PST	tui¹²só⁵xkènʔ¹	tui¹²só⁵xkènʔ¹
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;PFV;SG;3;PST	tui¹²só⁵xken³	tui¹²só⁵xken³
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;PFV;PL;1+INCL;PST	tui¹²só⁵nkɛn¹²á⁵	tui¹²só⁵nkɛn¹²
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;PFV;PL;1+EXCL;PST	tui¹²só⁵nkên³¹	tui¹²só⁵nkên³¹
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;PFV;PL;3;PST	tui¹²só⁵nkèn¹oʔ³	tui¹²só⁵nkèn¹oʔ³
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;IPFV;SG;1;PRS	ma³ndui¹²só⁵xkɛn⁵³	ko³tui¹²só⁵xkɛn⁵³
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;IPFV;SG;2;PRS	ma³ndui¹²só⁵xkènʔ¹	ko³tui¹²só⁵xkènʔ¹
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;IPFV;SG;3;PRS	ma³ndui¹²só⁵xken³	ko³tui¹²só⁵xken³
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;IPFV;PL;1+INCL;PRS	ko³ndui¹²só⁵nkɛn¹²á	ko³tui¹²só⁵nkɛn¹²
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;IPFV;PL;1+EXCL;PRS	ko³nduê³¹só⁵nkên³¹	ko³tui¹²só⁵nkên³¹
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;IPFV;PL;3;PRS	ko³ndui¹²só⁵nkèn¹oʔ³	ko³tui¹²só⁵nkèn¹oʔ³
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;SBJV;SG;1	kí⁵ndui¹²só⁵xkɛn⁵³	ki³tui¹²só⁵xkɛn⁵³
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;SBJV;SG;2	kí⁵ndui¹²só⁵xkènʔ¹	ki³tui¹²só⁵xkènʔ¹
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;SBJV;SG;3	kí⁵ndui¹²só⁵xken³	ki³tui¹²só⁵xken³
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;SBJV;PL;1+INCL	ki³ndui¹²só⁵nkɛn¹²á	ki³tui¹²só⁵nkɛn¹²
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;SBJV;PL;1+EXCL	ki³nduê³¹só⁵nkên³¹	ki³tui¹²só⁵nkên³¹
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;SBJV;PL;3	ki³ndui¹²só⁵nkèn¹oʔ³	ki³tui¹²só⁵nkèn¹oʔ³
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;IRR;SG;1;FUT	n⁵ndui¹²só⁵xkɛn⁵³	n⁵ndui¹²só⁵xkɛn⁵³
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;IRR;SG;2;FUT	n⁵ndui¹²só⁵xkènʔ¹	n⁵ndui¹²só⁵xkènʔ¹
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;IRR;SG;3;FUT	n⁵ndui¹²só⁵xken³	n⁵ndui¹²só⁵xken³
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;IRR;PL;1+INCL;FUT	n⁵ndui¹²só⁵nkɛn¹²	n⁵ndui¹²só⁵nkɛn¹²
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;IRR;PL;1+EXCL;FUT	n⁵nduê³¹só⁵nkên³¹	n⁵ndui¹²só⁵nkên³¹
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;IRR;PL;3;FUT	n⁵ndui¹²só⁵nkèn¹oʔ³	n⁵ndui¹²só⁵nkèn¹oʔ³
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;PROG;SG;1;PST	to³ndui¹²só⁵xkɛn⁵³	to³tui¹²só⁵xkɛn⁵³
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;PROG;SG;2;PST	to³ndui¹²só⁵xkènʔ¹	to³tui¹²só⁵xkènʔ¹
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;PROG;SG;3;PST	to³ndui¹²só⁵xken³	to³tui¹²só⁵xken³
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;PROG;PL;1+INCL;PST	to³ndui¹²só⁵nkɛn¹²	to³tui¹²só⁵nkɛn¹²
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;PROG;PL;1+EXCL;PST	to³nduê³¹só⁵nkên³¹	to³tui¹²só⁵nkên³¹
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;PROG;PL;3;PST	to³ndui¹²só⁵nkèn¹oʔ³	to³tui¹²só⁵nkèn¹oʔ³
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;PROG;SG;1;FUT	n⁵ngo³ndui¹²só⁵xkɛn⁵	n⁵ngo³tui¹²só⁵xkɛn⁵³
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;PROG;SG;2;FUT	n⁵ngo³ndui¹²só⁵xkènʔ	n⁵ngo³tui¹²só⁵xkènʔ¹
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;PROG;SG;3;FUT	n⁵ngo³ndui¹²só⁵xken³	n⁵ngo³tui¹²só⁵xken³
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;PROG;PL;1+INCL;FUT	n⁵ngo³ndui¹²só⁵nkɛn¹	n⁵ngo³tui¹²só⁵nkɛn¹²
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;PROG;PL;1+EXCL;FUT	n⁵ngo³nduê³¹só⁵nkên³	n⁵ngo³tui¹²só⁵nkên³¹
+Generate the inflected form for: n⁵ndui¹²só⁵ xken³ V;PROG;PL;3;FUT	n⁵ngo³ndui¹²só⁵nkèn¹o	n⁵ngo³tui¹²só⁵nkèn¹oʔ³
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;PFV;SG;1;PST	tuiʔ³ndá⁵thwènʔ¹ha³	hnduiʔ³ndá⁵thwènʔ¹ha³
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;PFV;SG;2;PST	tuiʔ³ndá⁵thwènʔ¹ʔu³	hnduiʔ³ndá⁵thwènʔ¹ʔu³
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;PFV;SG;3;PST	tuiʔ³ndá⁵thwènʔ¹	hnduiʔ³ndá⁵thwènʔ¹én⁵
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;PFV;PL;1+INCL;PST	tuíʔ³ndá⁵thwènʔ¹há⁵	hnduiʔ³ndá⁵thwènʔ¹há⁵á⁵
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;PFV;PL;1+EXCL;PST	tuê³¹ndá⁵thwènʔ¹hâ³	hnduiʔ³ndá⁵thwènʔ¹hâ³¹
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;PFV;PL;3;PST	tuiʔ³ndá⁵thwènʔ¹ʔo³	hnduiʔ³ndá⁵thwènʔ¹ʔo³
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;IPFV;SG;1;PRS	ma³nduiʔ³ndá⁵thwènʔ¹ha	ko³nduiʔ³ndá⁵thwènʔ¹ha³
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;IPFV;SG;2;PRS	ma³nduiʔ³ndá⁵thwènʔ¹ʔ	ko³nduiʔ³ndá⁵thwènʔ¹ʔu³
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;IPFV;SG;3;PRS	ma³nduiʔ³ndá⁵thwènʔ¹	ko³nduiʔ³ndá⁵thwènʔ¹én⁵
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;IPFV;PL;1+INCL;PRS	ko³nduê³¹ndá⁵thwènʔ¹h	ko³nduiʔ³ndá⁵thwènʔ¹há⁵á⁵
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;IPFV;PL;1+EXCL;PRS	ko³nduê³¹ndá⁵thwènʔ¹h	ko³nduiʔ³ndá⁵thwènʔ¹hâ³¹
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;IPFV;PL;3;PRS	ko³nduiʔ³ndá⁵thwènʔ¹ʔ	ko³nduiʔ³ndá⁵thwènʔ¹ʔo³
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;SBJV;SG;1	ki³nduiʔ³ndá⁵thwènʔ¹ha	ki³nduiʔ³ndá⁵thwènʔ¹ha³
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;SBJV;SG;2	ki³nduiʔ³ndá⁵thwènʔ¹ʔ	ki³nduiʔ³ndá⁵thwènʔ¹ʔu³
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;SBJV;SG;3	ki³nduiʔ³ndá⁵thwènʔ¹	ki³nduiʔ³ndá⁵thwènʔ¹én⁵
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;SBJV;PL;1+INCL	ki³nduê³¹ndá⁵thwènʔ¹h	ki³nduiʔ³ndá⁵thwènʔ¹há⁵á⁵
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;SBJV;PL;1+EXCL	ki³nduê³¹ndá⁵thwènʔ¹h	ki³nduiʔ³ndá⁵thwènʔ¹hâ³¹
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;SBJV;PL;3	ki³nduiʔ³ndá⁵thwènʔ¹ʔ	ki³nduiʔ³ndá⁵thwènʔ¹ʔo³
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;IRR;SG;1;FUT	n⁵nduiʔ³ndá⁵thwènʔ¹	n⁵nduiʔ³ndá⁵thwènʔ¹ha³
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;IRR;SG;2;FUT	n⁵nduiʔ³ndá⁵thwènʔ¹ʔ	n⁵nduiʔ³ndá⁵thwènʔ¹ʔu³
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;IRR;SG;3;FUT	n⁵nduiʔ³ndá⁵thwènʔ¹	n⁵nduiʔ³ndá⁵thwènʔ¹én⁵
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;IRR;PL;1+INCL;FUT	n⁵nduê³¹ndá⁵thwènʔ¹h	n⁵nduiʔ³ndá⁵thwènʔ¹há⁵á⁵
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;IRR;PL;1+EXCL;FUT	n⁵nduê³¹ndá⁵thwènʔ¹h	n⁵nduiʔ³ndá⁵thwènʔ¹hâ³¹
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;IRR;PL;3;FUT	n⁵nduiʔ³ndá⁵thwènʔ¹ʔ	n⁵nduiʔ³ndá⁵thwènʔ¹ʔo³
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;PROG;SG;1;PST	to³nduiʔ³ndá⁵thwènʔ¹	to³nduiʔ³ndá⁵thwènʔ¹ha³
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;PROG;SG;2;PST	to³nduiʔ³ndá⁵thwènʔ¹ʔ	to³nduiʔ³ndá⁵thwènʔ¹ʔu³
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;PROG;SG;3;PST	to³nduiʔ³ndá⁵thwènʔ¹	to³nduiʔ³ndá⁵thwènʔ¹én⁵
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;PROG;PL;1+INCL;PST	to³nduê³¹ndá⁵thwènʔ¹h	to³nduiʔ³ndá⁵thwènʔ¹há⁵á⁵
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;PROG;PL;1+EXCL;PST	to³nduê³¹ndá⁵thwènʔ¹h	to³nduiʔ³ndá⁵thwènʔ¹hâ³¹
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;PROG;PL;3;PST	to³nduiʔ³ndá⁵thwènʔ¹ʔ	to³nduiʔ³ndá⁵thwènʔ¹ʔo³
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;PROG;SG;1;FUT	n⁵ngo³nduiʔ³ndá⁵thwèn	n⁵ngo³nduiʔ³ndá⁵thwènʔ¹ha³
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;PROG;SG;2;FUT	n⁵ngo³nduiʔ³ndá⁵thwèn	n⁵ngo³nduiʔ³ndá⁵thwènʔ¹ʔu³
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;PROG;SG;3;FUT	n⁵ngo³nduiʔ³ndá⁵thwèn	n⁵ngo³nduiʔ³ndá⁵thwènʔ¹én⁵
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;PROG;PL;1+INCL;FUT	n⁵ngo³nduê³¹ndá⁵thwèn	n⁵ngo³nduiʔ³ndá⁵thwènʔ¹há⁵á⁵
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;PROG;PL;1+EXCL;FUT	n⁵ngo³nduê³¹ndá⁵thwèn	n⁵ngo³nduiʔ³ndá⁵thwènʔ¹hâ³¹
+Generate the inflected form for: n⁵nduiʔ³ ndá⁵thwènʔ¹ V;PROG;PL;3;FUT	n⁵ngo³nduiʔ³ndá⁵thwèn	n⁵ngo³nduiʔ³ndá⁵thwènʔ¹ʔo³
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;PFV;SG;1;PST	tuiʔ³ntzkwí⁵	hnduiʔ³ntzkwi⁵³
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;PFV;SG;2;PST	tuiʔ³ntzkwí⁵	hnduiʔ³ntzkwìʔ¹
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;PFV;SG;3;PST	tuiʔ³ntzkwí⁵	hnduiʔ³ntzkwí⁵
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;PFV;PL;1+INCL;PST	tuíʔ³ntzkwí⁵	hnduiʔ³ntkwí⁵í⁵
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;PFV;PL;1+EXCL;PST	tuê³¹ntzkwí⁵	hnduiʔ³ntkwî³¹
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;PFV;PL;3;PST	tuiʔ³ntzkwí⁵	hnduiʔ³ntkwí⁵oʔ³
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;IPFV;SG;1;PRS	ma³nduiʔ³ntzkwí⁵	ko³nduiʔ³ntzkwi⁵³
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;IPFV;SG;2;PRS	ma³nduiʔ³ntzkwí⁵	ko³nduiʔ³ntzkwìʔ¹
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;IPFV;SG;3;PRS	ma³nduiʔ³ntzkwí⁵	ko³nduiʔ³ntzkwí⁵
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;IPFV;PL;1+INCL;PRS	ko³hnduʔ³ntzkwí⁵	ko³nduiʔ³ntkwí⁵í⁵
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;IPFV;PL;1+EXCL;PRS	ko³hnduʔ³ntzkwí⁵	ko³nduiʔ³ntkwî³¹
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;IPFV;PL;3;PRS	ko³nduiʔ³ntzkwí⁵	ko³nduiʔ³ntkwí⁵oʔ³
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;SBJV;SG;1	kwí⁵nduiʔ³ntzkwí⁵	ki³nduiʔ³ntzkwi⁵³
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;SBJV;SG;2	kwí⁵nduiʔ³ntzkwí⁵	ki³nduiʔ³ntzkwìʔ¹
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;SBJV;SG;3	kwí⁵nduiʔ³ntzkwí⁵	ki³nduiʔ³ntzkwí⁵
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;SBJV;PL;1+INCL	ki³nduê³¹ntzkwí⁵	ki³nduiʔ³ntkwí⁵í⁵
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;SBJV;PL;1+EXCL	ki³nduê³¹ntzkwí⁵	ki³nduiʔ³ntkwî³¹
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;SBJV;PL;3	ki³nduiʔ³ntzkwí⁵	ki³nduiʔ³ntkwí⁵oʔ³
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;IRR;SG;1;FUT	n⁵nduiʔ³ntzkwí⁵	n⁵nduiʔ³ntzkwi⁵³
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;IRR;SG;2;FUT	n⁵nduiʔ³ntzkwí⁵	n⁵nduiʔ³ntzkwìʔ¹
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;IRR;SG;3;FUT	n⁵nduiʔ³ntzkwí⁵	n⁵nduiʔ³ntzkwí⁵
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;IRR;PL;1+INCL;FUT	n⁵nduêʔ³¹ntzkwí⁵	n⁵nduiʔ³ntkwí⁵í⁵
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;IRR;PL;1+EXCL;FUT	n⁵nduê³¹ntzkwí⁵	n⁵nduiʔ³ntkwî³¹
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;IRR;PL;3;FUT	n⁵nduiʔ³ntzkwí⁵	n⁵nduiʔ³ntkwí⁵oʔ³
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;PROG;SG;1;PST	to³nduiʔ³ntzkwí⁵	to³nduiʔ³ntzkwi⁵³
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;PROG;SG;2;PST	to³nduiʔ³ntzkwí⁵	to³nduiʔ³ntzkwìʔ¹
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;PROG;SG;3;PST	to³nduiʔ³ntzkwí⁵	to³nduiʔ³ntzkwí⁵
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;PROG;PL;1+INCL;PST	to³nduêʔ³¹ntzkwí⁵	to³nduiʔ³ntkwí⁵í⁵
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;PROG;PL;1+EXCL;PST	to³hnduʔ³ntzkwí⁵	to³nduiʔ³ntkwî³¹
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;PROG;PL;3;PST	to³nduiʔ³ntzkwí⁵	to³nduiʔ³ntkwí⁵oʔ³
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;PROG;SG;1;FUT	n⁵ngo³nduiʔ³ntzkwí⁵	n⁵ngo³nduiʔ³ntzkwi⁵³
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;PROG;SG;2;FUT	n⁵ngo³nduiʔ³ntzkwí⁵	n⁵ngo³nduiʔ³ntzkwìʔ¹
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;PROG;SG;3;FUT	n⁵ngo³nduiʔ³ntzkwí⁵	n⁵ngo³nduiʔ³ntzkwí⁵
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;PROG;PL;1+INCL;FUT	n⁵ngo³nduê³¹ntzkwí⁵	n⁵ngo³nduiʔ³ntkwí⁵í⁵
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;PROG;PL;1+EXCL;FUT	n⁵ngo³hnduê³¹ntzkwí⁵	n⁵ngo³nduiʔ³ntkwî³¹
+Generate the inflected form for: n⁵nduiʔ³ ntzkwí⁵ V;PROG;PL;3;FUT	n⁵ngo³nduiʔ³ntzkwí⁵	n⁵ngo³nduiʔ³ntkwí⁵oʔ³
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;PFV;SG;1;PST	tuiʔ³só⁵ʔndyɔ⁵³	hnduiʔ³só⁵ʔndyɔ⁵³
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;PFV;SG;2;PST	tuiʔ³só⁵ʔndyó⁵	hnduiʔ³só⁵ʔndyóʔ⁵³
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;PFV;SG;3;PST	tuiʔ³só⁵ʔndyó⁵	hnduiʔ³só⁵ʔndyó⁵
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;PFV;PL;1+INCL;PST	tuíʔ³só⁵ʔndyɔ⁵³	hnduiʔ³só⁵hndyuɛ⁵ɛ⁵
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;PFV;PL;1+EXCL;PST	tuê³¹ʔndyó⁵hâ³¹	hnduiʔ³só⁵hndyuê³¹
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;PFV;PL;3;PST	tuiʔ³só⁵ʔndyó⁵oʔ³	hnduiʔ³só⁵hndyué⁵oʔ³
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;IPFV;SG;1;PRS	ma³nduiʔ³só⁵ʔndyɔ⁵³	ko³nduiʔ³só⁵ʔndyɔ⁵³
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;IPFV;SG;2;PRS	ma³nduiʔ³só⁵ʔndyó⁵	ko³ndui³ʔsó⁵ʔndyóʔ⁵³
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;IPFV;SG;3;PRS	ma³nduiʔ³só⁵ʔndyó⁵	ko³nduiʔ³só⁵ʔndyó⁵
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;IPFV;PL;1+INCL;PRS	ko³nduʔ³só⁵ʔndyɔ⁵³	ko³nduiʔ³só⁵hndyuɛ⁵ɛ⁵
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;IPFV;PL;1+EXCL;PRS	ko³hnduʔ³⁴só⁵ʔndyó⁵	ko³nduiʔ³só⁵hndyuê³¹
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;IPFV;PL;3;PRS	ko³nduiʔ³só⁵ʔndyó⁵oʔ	ko³nduiʔ³só⁵hndyué⁵oʔ³
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;SBJV;SG;1	ki³nduiʔ³só⁵ʔndyɔ⁵³	ki³nduiʔ³só⁵ʔndyɔ⁵³
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;SBJV;SG;2	ki³nduiʔ³só⁵ʔndyó⁵	ki³nduiʔ³só⁵ʔndyoʔ⁵³
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;SBJV;SG;3	ki³nduiʔ³só⁵ʔndyó⁵	ki³nduiʔ³só⁵ʔndyó⁵
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;SBJV;PL;1+INCL	ki³nduê³¹ʔndyɔ⁵³	ki³nduiʔ³só⁵hndyuɛ⁵ɛ⁵
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;SBJV;PL;1+EXCL	ki³nduê³¹ʔndyó⁵	ki³nduiʔ³só⁵hndyuê³¹
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;SBJV;PL;3	ki³nduiʔ³só⁵ʔndyó⁵oʔ	ki³nduiʔ³só⁵hndyué⁵oʔ³
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;IRR;SG;1;FUT	n⁵nduiʔ³só⁵ʔndyɔ⁵³	n⁵nduiʔ³só⁵ʔndyɔ⁵³
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;IRR;SG;2;FUT	n⁵nduiʔ³só⁵ʔndyó⁵	n⁵nduiʔ³só⁵ʔndyo⁵³ʔ
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;IRR;SG;3;FUT	n⁵nduiʔ³só⁵ʔndyó⁵	n⁵nduiʔ³só⁵ʔndyó⁵
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;IRR;PL;1+INCL;FUT	n⁵nduʔ³só⁵ʔndyɔ⁵³	n⁵nduiʔ³só⁵hndyuɛ⁵ɛ⁵
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;IRR;PL;1+EXCL;FUT	n⁵nduê³¹só⁵ʔndyó⁵	n⁵nduiʔ³só⁵hndyuê³¹
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;IRR;PL;3;FUT	n⁵nduiʔ³só⁵ʔndyó⁵oʔ	n⁵nduiʔ³só⁵hndyué⁵oʔ³
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;PROG;SG;1;PST	to³nduiʔ³só⁵ʔndyɔ⁵³	to³nduiʔ³só⁵ʔndyɔ⁵³
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;PROG;SG;2;PST	to³nduiʔ³só⁵ʔndyó⁵	to³nduiʔ³só⁵ʔndyoʔ⁵³
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;PROG;SG;3;PST	to³nduiʔ³só⁵ʔndyó⁵	to³nduiʔ³só⁵ʔndyó⁵
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;PROG;PL;1+INCL;PST	to³nduʔ³só⁵ʔndyɔ⁵³	to³nduiʔ³só⁵hndyuɛ⁵ɛ⁵
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;PROG;PL;1+EXCL;PST	to³nduêʔ³¹só⁵ʔndyó⁵	to³nduiʔ³só⁵hndyuê³¹
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;PROG;PL;3;PST	to³nduiʔ³só⁵ʔndyó⁵oʔ	to³nduiʔ³só⁵hndyué⁵oʔ³
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;PROG;SG;1;FUT	n⁵ngo³nduiʔ³só⁵ʔndyɔ	n⁵ngo³nduiʔ³só⁵ʔndyɔ⁵³
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;PROG;SG;2;FUT	n⁵ngo³nduiʔ³só⁵ʔndyó	n⁵ngo³nduiʔ³só⁵ʔndyoʔ⁵³
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;PROG;SG;3;FUT	n⁵ngo³nduiʔ³só⁵ʔndyó	n⁵ngo³nduiʔ³só⁵ʔndyó⁵
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;PROG;PL;1+INCL;FUT	n⁵ngo³nduʔ³só⁵ʔndyɔ	n⁵ngo³nduiʔ³só⁵hndyuɛ⁵ɛ⁵
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;PROG;PL;1+EXCL;FUT	n⁵ngo³hnduê³¹ʔndyó⁵	n⁵ngo³nduiʔ³só⁵hndyuê³¹
+Generate the inflected form for: n⁵nduiʔ³ só⁵ ʔndyó⁵ V;PROG;PL;3;FUT	n⁵ngo³nduiʔ³só⁵ʔndyó	n⁵ngo³nduiʔ³só⁵hndyué⁵oʔ³
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;PFV;SG;1;PST	tuiʔ³ndìʔ¹nʔɔ⁵³	hnduiʔ³ndìʔ¹nʔɔ⁵³
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;PFV;SG;2;PST	tuiʔ³ndìʔ¹nʔoʔ³	hnduiʔ³ndìʔ¹nʔòʔ¹
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;PFV;SG;3;PST	tuiʔ³ndìʔ¹nʔo³	hnduiʔ³ndìʔ¹nʔo³
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;PFV;PL;1+INCL;PST	tuiʔ³ndìʔ¹nʔɔ³⁴	hnduiʔ³ndìʔ¹nʔɔ¹²
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;PFV;PL;1+EXCL;PST	tuiʔ³ndìʔ¹nʔô³¹	hnduiʔ³ndìʔ¹nʔô³¹
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;PFV;PL;3;PST	tuiʔ³ndìʔ¹nʔo³oʔ³	hnduiʔ³ndìʔ¹nʔò¹oʔ³
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;IPFV;SG;1;PRS	bá⁵nduiʔ³ndìʔ¹nʔɔ⁵	ko³nduiʔ³ndìʔ¹nʔɔ⁵³
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;IPFV;SG;2;PRS	ma³nduiʔ³ndìʔ¹nʔoʔ³	ko³nduiʔ³ndìʔ¹nʔòʔ¹
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;IPFV;SG;3;PRS	ma³nduiʔ³ndìʔ¹nʔo³	ko³nduiʔ³ndìʔ¹nʔo³
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;IPFV;PL;1+INCL;PRS	ko³nduêʔ³¹ndìʔ¹nʔɔ³	ko³nduiʔ³ndìʔ¹nʔɔ¹²
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;IPFV;PL;1+EXCL;PRS	ko³nduêʔ³¹ndìʔ¹nʔô³	ko³nduiʔ³ndìʔ¹nʔô³¹
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;IPFV;PL;3;PRS	ko³nduiʔ³ndìʔ¹nʔo³oʔ³	ko³nduiʔ³ndìʔ¹nʔò¹oʔ³
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;SBJV;SG;1	ki³nduiʔ³ndìʔ¹nʔɔ⁵³	ki³nduiʔ³ndìʔ¹nʔɔ⁵³
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;SBJV;SG;2	ki³nduiʔ³ndìʔ¹nʔoʔ³	ki³nduiʔ³ndìʔ¹nʔòʔ¹
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;SBJV;SG;3	ki³nduiʔ³ndìʔ¹nʔo³	ki³nduiʔ³ndìʔ¹nʔo³
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;SBJV;PL;1+INCL	ki³nduê³¹ndìʔ¹nʔɔ³⁴	ki³nduiʔ³ndìʔ¹nʔɔ¹²
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;SBJV;PL;1+EXCL	ki³nduê³¹ndìʔ¹nʔô³¹	ki³nduiʔ³ndìʔ¹nʔô³¹
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;SBJV;PL;3	ki³nduiʔ³ndìʔ¹nʔo³oʔ³	ki³nduiʔ³ndìʔ¹nʔò¹oʔ³
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;IRR;SG;1;FUT	n⁵nduiʔ³ndìʔ¹nʔɔ⁵³	n⁵nduiʔ³ndìʔ¹nʔɔ⁵³
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;IRR;SG;2;FUT	n⁵nduiʔ³ndìʔ¹nʔoʔ³	n⁵nduiʔ³ndìʔ¹nʔòʔ¹
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;IRR;SG;3;FUT	n⁵nduiʔ³ndìʔ¹nʔo³	n⁵nduiʔ³ndìʔ¹nʔo³
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;IRR;PL;1+INCL;FUT	n⁵nduíʔ¹ndìʔ¹nʔɔ³⁴	n⁵nduiʔ³ndìʔ¹nʔɔ¹²
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;IRR;PL;1+EXCL;FUT	n⁵nduêʔ³¹ndìʔ¹nʔô³	n⁵nduiʔ³ndìʔ¹nʔô³¹
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;IRR;PL;3;FUT	n⁵nduiʔ³ndìʔ¹nʔo³oʔ³	n⁵nduiʔ³ndìʔ¹nʔò¹oʔ³
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;PROG;SG;1;PST	to³nduiʔ³ndìʔ¹nʔɔ⁵³	to³nduiʔ³ndìʔ¹nʔɔ⁵³
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;PROG;SG;2;PST	to³nduiʔ³ndìʔ¹nʔoʔ³	to³nduiʔ³ndìʔ¹nʔòʔ¹
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;PROG;SG;3;PST	to³nduiʔ³ndìʔ¹nʔo³	to³nduiʔ³ndìʔ¹nʔo³
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;PROG;PL;1+INCL;PST	to³nduêʔ³¹ndìʔ¹nʔɔ³	to³nduiʔ³ndìʔ¹nʔɔ¹²
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;PROG;PL;1+EXCL;PST	to³nduêʔ³¹ndìʔ¹nʔô³	to³nduiʔ³ndìʔ¹nʔô³¹
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;PROG;PL;3;PST	to³nduiʔ³ndìʔ¹nʔo³oʔ³	to³nduiʔ³ndìʔ¹nʔò¹oʔ³
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;PROG;SG;1;FUT	n⁵ngo³nduiʔ³ndìʔ¹nʔɔ	n⁵ngo³nduiʔ³ndiʔ¹nʔɔ⁵³
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;PROG;SG;2;FUT	n⁵ngo³nduiʔ³ndìʔ¹nʔoʔ	n⁵ngo³nduiʔ³ndìʔ¹nʔòʔ¹
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;PROG;SG;3;FUT	n⁵ngo³nduiʔ³ndìʔ¹nʔo³	n⁵ngo³nduiʔ³ndìʔ¹nʔo³
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;PROG;PL;1+INCL;FUT	n⁵ngo³nduêʔ³¹ndìʔ¹nʔ	n⁵ngo³nduiʔ³ndìʔ¹nʔɔ¹²
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;PROG;PL;1+EXCL;FUT	n⁵ngo³nduê³¹ndìʔ¹nʔô	n⁵ngo³nduiʔ³ndiʔ¹nʔô³¹
+Generate the inflected form for: n⁵nduiʔ³ndìʔ¹nʔo³ V;PROG;PL;3;FUT	n⁵ngo³nduiʔ³ndìʔ¹nʔo³	n⁵ngo³nduiʔ³ndìʔ¹nʔò¹oʔ³
+Generate the inflected form for: n⁵nduèʔ¹ V;PFV;SG;1;PST	tuèʔ¹ha³	tuèʔ¹ha³
+Generate the inflected form for: n⁵nduèʔ¹ V;PFV;SG;2;PST	tuèʔ¹ʔu³	tuèʔ¹ʔu³
+Generate the inflected form for: n⁵nduèʔ¹ V;PFV;SG;3;PST	hnduèʔ¹én⁵	tuèʔ¹én⁵
+Generate the inflected form for: n⁵nduèʔ¹ V;PFV;PL;1+INCL;PST	tuèʔ¹há⁵á⁵	tuèʔ¹há⁵á⁵
+Generate the inflected form for: n⁵nduèʔ¹ V;PFV;PL;1+EXCL;PST	tuèʔ¹hâ³¹	tuèʔ¹hâ³¹
+Generate the inflected form for: n⁵nduèʔ¹ V;PFV;PL;3;PST	hnduèʔ¹ʔo³	tuèʔ¹ʔo³
+Generate the inflected form for: n⁵nduèʔ¹ V;IPFV;SG;1;PRS	ma³nduèʔ¹ha³	ko³tuèʔ¹ha³
+Generate the inflected form for: n⁵nduèʔ¹ V;IPFV;SG;2;PRS	ma³nduèʔ¹ʔu³	ko³tuèʔ¹ʔu³
+Generate the inflected form for: n⁵nduèʔ¹ V;IPFV;SG;3;PRS	ma³nduèʔ¹én⁵	ko³tuèʔ¹én⁵
+Generate the inflected form for: n⁵nduèʔ¹ V;IPFV;PL;1+INCL;PRS	ko³nduèʔ¹há⁵á⁵	ko³tuèʔ¹há⁵á⁵
+Generate the inflected form for: n⁵nduèʔ¹ V;IPFV;PL;1+EXCL;PRS	ko³nduèʔ¹hâ³¹	ko³tuèʔ¹hâ³¹
+Generate the inflected form for: n⁵nduèʔ¹ V;IPFV;PL;3;PRS	ko³nduèʔ¹ʔo³	ko³tuèʔ¹ʔo³
+Generate the inflected form for: n⁵nduèʔ¹ V;SBJV;SG;1	ki³nduèʔ¹ha³	ki³tuèʔ¹ha³
+Generate the inflected form for: n⁵nduèʔ¹ V;SBJV;SG;2	ki³nduèʔ¹ʔu³	ki³tuèʔ¹ʔu³
+Generate the inflected form for: n⁵nduèʔ¹ V;SBJV;SG;3	ki³nduèʔ¹én⁵	ki³tuèʔ¹én⁵
+Generate the inflected form for: n⁵nduèʔ¹ V;SBJV;PL;1+INCL	ki³nduèʔ¹há⁵á⁵	ki³tuèʔ¹há⁵á⁵
+Generate the inflected form for: n⁵nduèʔ¹ V;SBJV;PL;1+EXCL	ki³nduèʔ¹hâ³¹	ki³tuèʔ¹hâ³¹
+Generate the inflected form for: n⁵nduèʔ¹ V;SBJV;PL;3	ki³nduèʔ¹ʔo³	ki³tuèʔ¹ʔo³
+Generate the inflected form for: n⁵nduèʔ¹ V;IRR;SG;1;FUT	n⁵nduèʔ¹ha³	n⁵nduèʔ¹ha³
+Generate the inflected form for: n⁵nduèʔ¹ V;IRR;SG;2;FUT	n⁵nduèʔ¹ʔu³	n⁵nduèʔ¹ʔu³
+Generate the inflected form for: n⁵nduèʔ¹ V;IRR;SG;3;FUT	n⁵nduèʔ¹én⁵	n⁵nduèʔ¹én⁵
+Generate the inflected form for: n⁵nduèʔ¹ V;IRR;PL;1+INCL;FUT	n⁵nduèʔ¹há⁵á⁵	n⁵nduèʔ¹há⁵á⁵
+Generate the inflected form for: n⁵nduèʔ¹ V;IRR;PL;1+EXCL;FUT	n⁵nduèʔ¹hâ³¹	n⁵nduèʔ¹hâ³¹
+Generate the inflected form for: n⁵nduèʔ¹ V;IRR;PL;3;FUT	n⁵nduèʔ¹ʔo³	n⁵nduèʔ¹ʔo³
+Generate the inflected form for: n⁵nduèʔ¹ V;PROG;SG;1;PST	to³nduèʔ¹ha³	to³tuèʔ¹ha³
+Generate the inflected form for: n⁵nduèʔ¹ V;PROG;SG;2;PST	to³nduèʔ¹ʔu³	to³tuèʔ¹ʔu³
+Generate the inflected form for: n⁵nduèʔ¹ V;PROG;SG;3;PST	to³nduèʔ¹én⁵	to³tuèʔ¹én⁵
+Generate the inflected form for: n⁵nduèʔ¹ V;PROG;PL;1+INCL;PST	to³ndʔuèʔ¹há⁵á⁵	to³tuèʔ¹há⁵á⁵
+Generate the inflected form for: n⁵nduèʔ¹ V;PROG;PL;1+EXCL;PST	to³ndʔuèʔ¹hâ³¹	to³tuèʔ¹hâ³¹
+Generate the inflected form for: n⁵nduèʔ¹ V;PROG;PL;3;PST	to³nduèʔ¹ʔo³	to³tuèʔ¹ʔo³
+Generate the inflected form for: n⁵nduèʔ¹ V;PROG;SG;1;FUT	n⁵ngo³nduèʔ¹ha³	n⁵ngo³tuèʔ¹ha³
+Generate the inflected form for: n⁵nduèʔ¹ V;PROG;SG;2;FUT	n⁵ngo³nduèʔ¹ʔu³	n⁵ngo³tuèʔ¹ʔu³
+Generate the inflected form for: n⁵nduèʔ¹ V;PROG;SG;3;FUT	n⁵ngo³nduèʔ¹én⁵	n⁵ngo³tuèʔ¹én⁵
+Generate the inflected form for: n⁵nduèʔ¹ V;PROG;PL;1+INCL;FUT	n⁵ngo³ndʔuèʔ¹há⁵á⁵	n⁵ngo³tuèʔ¹há⁵á⁵
+Generate the inflected form for: n⁵nduèʔ¹ V;PROG;PL;1+EXCL;FUT	n⁵ngo³ndʔuèʔ¹hâ³¹	n⁵ngo³tuèʔ¹hâ³¹
+Generate the inflected form for: n⁵nduèʔ¹ V;PROG;PL;3;FUT	n⁵ngo³nduèʔ¹ʔo³	n⁵ngo³tuèʔ¹ʔo³
+Generate the inflected form for: n⁵nduìʔ¹ V;PFV;SG;1;PST	tuìʔ¹ha³	hndʔuî³¹
+Generate the inflected form for: n⁵nduìʔ¹ V;PFV;SG;2;PST	tuìʔ¹ʔu³	hnduîʔ³¹
+Generate the inflected form for: n⁵nduìʔ¹ V;PFV;SG;3;PST	hnduìʔ¹én⁵	hnduìʔ¹
+Generate the inflected form for: n⁵nduìʔ¹ V;PFV;PL;1+INCL;PST	tuìʔ¹há⁵á⁵	hndʔui³⁴
+Generate the inflected form for: n⁵nduìʔ¹ V;PFV;PL;1+EXCL;PST	tuìʔ¹hâ³¹	hndʔuî³¹
+Generate the inflected form for: n⁵nduìʔ¹ V;PFV;PL;3;PST	tuìʔ¹ʔo³	hnduiʔ³oʔ³
+Generate the inflected form for: n⁵nduìʔ¹ V;IPFV;SG;1;PRS	ma³nduìʔ¹ha³	ma³ndʔuî³¹
+Generate the inflected form for: n⁵nduìʔ¹ V;IPFV;SG;2;PRS	ma³nduìʔ¹ʔu³	ma³nduîʔ³¹
+Generate the inflected form for: n⁵nduìʔ¹ V;IPFV;SG;3;PRS	ma³nduìʔ¹én⁵	ʔ⁵nduìʔ¹
+Generate the inflected form for: n⁵nduìʔ¹ V;IPFV;PL;1+INCL;PRS	ko³nduìʔ¹há⁵á⁵	ko³ndʔui³⁴
+Generate the inflected form for: n⁵nduìʔ¹ V;IPFV;PL;1+EXCL;PRS	ko³nduìʔ¹hâ³¹	ko³ndʔuî³¹
+Generate the inflected form for: n⁵nduìʔ¹ V;IPFV;PL;3;PRS	ko³nduìʔ¹ʔo³	ko³nduiʔ³oʔ³
+Generate the inflected form for: n⁵nduìʔ¹ V;SBJV;SG;1	ki³nduìʔ¹ha³	kí⁵ndʔuî³¹
+Generate the inflected form for: n⁵nduìʔ¹ V;SBJV;SG;2	ki³nduìʔ¹ʔu³	kí⁵nduî³¹
+Generate the inflected form for: n⁵nduìʔ¹ V;SBJV;SG;3	ki³nduìʔ¹én⁵	ki³nduìʔ¹
+Generate the inflected form for: n⁵nduìʔ¹ V;SBJV;PL;1+INCL	ki³nduìʔ¹há⁵á⁵	ki³ndʔui³⁴
+Generate the inflected form for: n⁵nduìʔ¹ V;SBJV;PL;1+EXCL	ki³nduìʔ¹hâ³¹	kí⁵ndʔuî³¹
+Generate the inflected form for: n⁵nduìʔ¹ V;SBJV;PL;3	ki³nduìʔ¹ʔo³	ki³nduiʔ³oʔ³
+Generate the inflected form for: n⁵nduìʔ¹ V;IRR;SG;1;FUT	n⁵nduìʔ¹ha³	n⁵ndʔuî³¹
+Generate the inflected form for: n⁵nduìʔ¹ V;IRR;SG;2;FUT	n⁵nduìʔ¹ʔu³	n⁵nduîʔ³¹
+Generate the inflected form for: n⁵nduìʔ¹ V;IRR;SG;3;FUT	n⁵nduìʔ¹én⁵	n⁵nduìʔ¹
+Generate the inflected form for: n⁵nduìʔ¹ V;IRR;PL;1+INCL;FUT	n⁵nduìʔ¹há⁵á⁵	n⁵ndʔui³⁴
+Generate the inflected form for: n⁵nduìʔ¹ V;IRR;PL;1+EXCL;FUT	n⁵nduìʔ¹hâ³¹	n⁵ndʔuî³¹
+Generate the inflected form for: n⁵nduìʔ¹ V;IRR;PL;3;FUT	n⁵nduìʔ¹ʔo³	n⁵nduiʔ³oʔ³
+Generate the inflected form for: n⁵nduìʔ¹ V;PROG;SG;1;PST	to³nduìʔ¹ha³	to³ndʔuî³¹
+Generate the inflected form for: n⁵nduìʔ¹ V;PROG;SG;2;PST	to³nduìʔ¹ʔu³	to³nduîʔ³¹
+Generate the inflected form for: n⁵nduìʔ¹ V;PROG;SG;3;PST	to³nduìʔ¹én⁵	to³nduìʔ¹
+Generate the inflected form for: n⁵nduìʔ¹ V;PROG;PL;1+INCL;PST	to³nduìʔ¹há⁵á⁵	to³ndʔui³⁴
+Generate the inflected form for: n⁵nduìʔ¹ V;PROG;PL;1+EXCL;PST	to³nduìʔ¹hâ³¹	to³ndʔuî³¹
+Generate the inflected form for: n⁵nduìʔ¹ V;PROG;PL;3;PST	to³nduìʔ¹ʔo³	to³nduiʔ³oʔ³
+Generate the inflected form for: n⁵nduìʔ¹ V;PROG;SG;1;FUT	n⁵ngo³nduìʔ¹ha³	n⁵ngo³ndʔuî³¹
+Generate the inflected form for: n⁵nduìʔ¹ V;PROG;SG;2;FUT	n⁵ngo³nduìʔ¹ʔu³	n⁵ngo³nduîʔ³¹
+Generate the inflected form for: n⁵nduìʔ¹ V;PROG;SG;3;FUT	n⁵ngo³nduìʔ¹én⁵	n⁵ngo³nduìʔ¹
+Generate the inflected form for: n⁵nduìʔ¹ V;PROG;PL;1+INCL;FUT	n⁵ngo³nduìʔ¹há⁵á⁵	n⁵ngo³ndʔui³⁴
+Generate the inflected form for: n⁵nduìʔ¹ V;PROG;PL;1+EXCL;FUT	n⁵ngo³nduìʔ¹hâ³¹	n⁵ngo³ndʔuî³¹
+Generate the inflected form for: n⁵nduìʔ¹ V;PROG;PL;3;FUT	n⁵ngo³nduìʔ¹ʔo³	n⁵ngo³nduiʔ³oʔ³
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;PFV;SG;1;PST	tuìʔ¹niɔ⁵³	hnduìʔ¹nʔiɔ³
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;PFV;SG;2;PST	tuìʔ¹nioʔ³⁴ʔu³	hnduìʔ¹niôʔ³¹
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;PFV;SG;3;PST	tuìʔ¹nioʔ³⁴	hnduìʔ¹nioʔ³⁴
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;PFV;PL;1+INCL;PST	tuìʔ¹nʔiɔ³⁴	hnduìʔ¹nʔiɔ³⁴
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;PFV;PL;1+EXCL;PST	tuìʔ¹nʔiô³¹	hnduìʔ¹nʔiô³¹
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;PFV;PL;3;PST	tuìʔ¹nioʔ³⁴oʔ³	hnduìʔ¹nʔio³⁴oʔ³
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;IPFV;SG;1;PRS	ma³nduìʔ¹niɔ⁵³	ko³nduìʔ¹nʔiɔ³
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;IPFV;SG;2;PRS	ma³nduìʔ¹nioʔ³⁴ʔu³	ko³nduìʔ¹niôʔ³¹
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;IPFV;SG;3;PRS	ma³nduìʔ¹nioʔ³⁴	ko³nduìʔ¹nioʔ³⁴
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;IPFV;PL;1+INCL;PRS	ko³nduìʔ¹nʔiɔ³⁴á⁵	ko³nduìʔ¹nʔiɔ³⁴
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;IPFV;PL;1+EXCL;PRS	ko³nduìʔ¹nʔiô³¹	ko³nduìʔ¹nʔiô³¹
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;IPFV;PL;3;PRS	ko³nduìʔ¹nioʔ³⁴oʔ³	ko³nduìʔ¹nʔio³⁴oʔ³
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;SBJV;SG;1	ki³nduìʔ¹niɔ⁵³	ki³nduìʔ¹nʔiɔ³
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;SBJV;SG;2	ki³nduìʔ¹nioʔ³⁴ʔu³	ki³nduìʔ¹niôʔ³¹
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;SBJV;SG;3	ki³nduìʔ¹nioʔ³⁴	ki³nduìʔ¹nioʔ³⁴
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;SBJV;PL;1+INCL	ki³nduìʔ¹nʔiɔ³⁴	ki³nduìʔ¹nʔiɔ³⁴
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;SBJV;PL;1+EXCL	ki³nduìʔ¹nʔiô³¹	ki³nduìʔ¹nʔiô³¹
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;SBJV;PL;3	ki³nduìʔ¹nioʔ³⁴oʔ³	ki³nduìʔ¹nʔio³⁴oʔ³
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;IRR;SG;1;FUT	n⁵nduìʔ¹niɔ⁵³	n⁵nduìʔ¹nʔiɔ³
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;IRR;SG;2;FUT	n⁵nduìʔ¹nioʔ³⁴ʔu³	n⁵nduìʔ¹niôʔ³¹
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;IRR;SG;3;FUT	n⁵nduìʔ¹nioʔ³⁴	n⁵nduìʔ¹nioʔ³⁴
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;IRR;PL;1+INCL;FUT	n⁵nduìʔ¹nʔiɔ³⁴	n⁵nduìʔ¹nʔiɔ³⁴
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;IRR;PL;1+EXCL;FUT	n⁵nduìʔ¹nʔiô³¹	n⁵nduìʔ¹nʔiô³¹
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;IRR;PL;3;FUT	n⁵nduìʔ¹nioʔ³⁴oʔ³	n⁵nduìʔ¹nʔio³⁴oʔ³
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;PROG;SG;1;PST	to³nduìʔ¹niɔ⁵³	to³nduìʔ¹nʔiɔ³
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;PROG;SG;2;PST	to³nduìʔ¹nioʔ³⁴ʔu³	to³nduìʔ¹niôʔ³¹
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;PROG;SG;3;PST	to³nduìʔ¹nioʔ³⁴	to³nduìʔ¹nioʔ³⁴
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;PROG;PL;1+INCL;PST	to³nduìʔ¹nʔiɔ³⁴	to³nduìʔ¹nʔiɔ³⁴
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;PROG;PL;1+EXCL;PST	to³nduìʔ¹nʔiô³¹	to³nduìʔ¹nʔiô³¹
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;PROG;PL;3;PST	to³nduìʔ¹nʔio³⁴oʔ³	to³nduìʔ¹nʔio³⁴oʔ³
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;PROG;SG;1;FUT	n⁵ngo³nduìʔ¹niɔ⁵³	n⁵ngo³nduìʔ¹nʔiɔ³
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;PROG;SG;2;FUT	n⁵ngo³nduìʔ¹nioʔ³⁴	n⁵ngo³nduìʔ¹niôʔ³¹
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;PROG;SG;3;FUT	n⁵ngo³nduìʔ¹nioʔ³⁴	n⁵ngo³nduìʔ¹nioʔ³⁴
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;PROG;PL;1+INCL;FUT	n⁵ngo³nduìʔ¹nʔiɔ³⁴	n⁵ngo³nduìʔ¹nʔiɔ³⁴
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;PROG;PL;1+EXCL;FUT	n⁵ngo³nduìʔ¹nʔiô³¹	n⁵ngo³nduìʔ¹nʔiô³¹
+Generate the inflected form for: n⁵nduìʔ¹ nioʔ³⁴ V;PROG;PL;3;FUT	n⁵ngo³nduìʔ¹nʔio³⁴oʔ	n⁵ngo³nduìʔ¹nʔio³⁴oʔ³
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;PFV;SG;1;PST	tuìʔ¹tkóʔ⁵ha³	hnduìʔ¹tkóʔ⁵ha³
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;PFV;SG;2;PST	tuìʔ¹tkóʔ⁵ʔu³	hnduìʔ¹tkóʔ⁵ʔu³
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;PFV;SG;3;PST	tuìʔ¹tkóʔ⁵én⁵	hnduìʔ¹tkóʔ⁵én⁵
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;PFV;PL;1+INCL;PST	tuìʔ¹nkóʔ⁵há⁵á⁵	hnduiʔ³ntkóʔ⁵há⁵á⁵
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;PFV;PL;1+EXCL;PST	tuìʔ¹nkóʔ⁵hâ³¹	hnduiʔ³ntkóʔ⁵hâ³¹
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;PFV;PL;3;PST	tuìʔ¹ntkóʔ⁵ʔo³	hnduiʔ³ntkóʔ⁵ʔo³
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;IPFV;SG;1;PRS	ko³nduìʔ¹tkóʔ⁵ha³	bá⁵nduìʔ¹tkóʔ⁵ha³
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;IPFV;SG;2;PRS	ma³nduìʔ¹tkóʔ⁵ʔu³	bá⁵nduìʔ¹tkóʔ⁵ʔu³
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;IPFV;SG;3;PRS	ma³nduìʔ¹tkóʔ⁵én⁵	bá⁵nduìʔ¹tkóʔ⁵én⁵
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;IPFV;PL;1+INCL;PRS	ko³nduìʔ¹ntkóʔ⁵há⁵á	ko³nduiʔ³ntkóʔ⁵há⁵á⁵
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;IPFV;PL;1+EXCL;PRS	ko³nduìʔ¹ntkóʔ⁵hâ³¹	ko³nduiʔ³ntkóʔ⁵hâ³¹
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;IPFV;PL;3;PRS	ko³nduìʔ¹ntkóʔ⁵ʔo³	ko³nduiʔ³ntkóʔ⁵ʔo³
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;SBJV;SG;1	ki³nduìʔ¹tkóʔ⁵ha³	ki³nduìʔ¹tkóʔ⁵ha³
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;SBJV;SG;2	ki³nduìʔ¹tkóʔ⁵ʔu³	ki³nduìʔ¹tkóʔ⁵ʔu³
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;SBJV;SG;3	ki³nduìʔ¹tkóʔ⁵én⁵	ki³nduìʔ¹tkóʔ⁵én⁵
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;SBJV;PL;1+INCL	ki³nduìʔ¹ntkóʔ⁵há⁵á	ki³nduiʔ³ntkóʔ⁵há⁵á⁵
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;SBJV;PL;1+EXCL	ki³nduìʔ¹ntkóʔ⁵hâ³¹	ki³nduìʔ³ntkóʔ⁵hâ³¹
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;SBJV;PL;3	ki³nduìʔ¹tkóʔ⁵ʔo³	ki³nduiʔ³ntkó⁵ʔo³
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;IRR;SG;1;FUT	n⁵nduìʔ¹tkóʔ⁵ha³	n⁵nduìʔ¹tkóʔ⁵ha³
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;IRR;SG;2;FUT	n⁵nduìʔ¹tkóʔ⁵ʔu³	n⁵nduìʔ¹tkóʔ⁵ʔu³
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;IRR;SG;3;FUT	n⁵nduìʔ¹tkóʔ⁵én⁵	n⁵nduìʔ¹tkóʔ⁵én⁵
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;IRR;PL;1+INCL;FUT	n⁵nduìʔ¹ntkóʔ⁵há⁵á	n⁵nduiʔ³tkóʔ⁵há⁵á⁵
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;IRR;PL;1+EXCL;FUT	n⁵nduìʔ¹ntkóʔ⁵hâ³¹	n⁵nduiʔ³ntkóʔ⁵hâ³¹
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;IRR;PL;3;FUT	n⁵nduìʔ¹tkóʔ⁵ʔo³	n⁵nduiʔ³ntkóʔ⁵ʔo³
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;PROG;SG;1;PST	to³nduìʔ¹tkóʔ⁵ha³	to³nduìʔ¹tkóʔ⁵ha³
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;PROG;SG;2;PST	to³nduìʔ¹tkóʔ⁵ʔu³	to³nduìʔ¹tkóʔ⁵ʔu³
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;PROG;SG;3;PST	to³nduìʔ¹tkóʔ⁵én⁵	to³nduìʔ¹tkóʔ⁵én⁵
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;PROG;PL;1+INCL;PST	to³nduìʔ¹ntkóʔ⁵há⁵á	to³nduiʔ³ntkóʔ⁵há⁵á⁵
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;PROG;PL;1+EXCL;PST	to³nduìʔ¹ntkóʔ⁵hâ³¹	to³nduiʔ³ntkóʔ⁵hâ³¹
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;PROG;PL;3;PST	to³nduìʔ¹ntkóʔ⁵ʔo³	to³nduiʔ³ntkóʔ⁵ʔo³
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;PROG;SG;1;FUT	n⁵ngo³nduìʔ¹tkóʔ⁵ha³	n⁵ngo³nduìʔ¹tkóʔ⁵ha³
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;PROG;SG;2;FUT	n⁵ngo³nduìʔ¹tkóʔ⁵ʔu	n⁵ngo³nduìʔ¹tkóʔ⁵ʔu³
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;PROG;SG;3;FUT	n⁵ngo³nduìʔ¹tkóʔ⁵	n⁵ngo³nduì¹tkóʔ⁵én⁵
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;PROG;PL;1+INCL;FUT	n⁵ngo³nduìʔ¹ntkóʔ⁵há	n⁵ngo³nduìʔ³ntkoʔ⁵há⁵á⁵
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;PROG;PL;1+EXCL;FUT	n⁵ngo³nduìʔ¹ntkóʔ⁵hâ	n⁵ngo³nduìʔ³ntkóʔ⁵hâ³¹
+Generate the inflected form for: n⁵nduìʔ¹tkóʔ⁵ V;PROG;PL;3;FUT	n⁵ngo³nduìʔ¹ntkóʔ⁵ʔo	n⁵ngo³nduìʔ³ntkóʔ⁵ʔo³
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;PFV;SG;1;PST	tuìʔ¹xhèn¹ha³	hnduìʔ¹xhèn¹ha³
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;PFV;SG;2;PST	tuìʔ¹xhènʔ¹	hnduìʔ¹xhèn¹ʔu³
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;PFV;SG;3;PST	tuìʔ¹xhèn¹én⁵	hnduìʔ¹xhèn¹én⁵
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;PFV;PL;1+INCL;PST	tuìʔ¹nhèn¹há⁵á⁵	hnduìʔ¹xhèn¹há⁵á⁵
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;PFV;PL;1+EXCL;PST	tuìʔ¹nhèn¹hâ³¹	hnduìʔ¹xhèn¹hâ³¹
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;PFV;PL;3;PST	tuìʔ¹xhèn¹ʔo³	hnduìʔ¹xhèn¹ʔo³
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;IPFV;SG;1;PRS	ko³nduìʔ¹xhèn¹ha³	ko³nduìʔ¹xhèn¹ha³
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;IPFV;SG;2;PRS	ko³nduìʔ¹xhènʔ¹	ko³nduìʔ¹xhèn¹ʔu³
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;IPFV;SG;3;PRS	ma³nduìʔ¹xhèn¹én⁵	ko³nduìʔ¹xhèn¹én⁵
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;IPFV;PL;1+INCL;PRS	ko³nduìʔ¹xhèn¹há⁵á⁵	ko³nduìʔ¹xhèn¹há⁵á⁵
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;IPFV;PL;1+EXCL;PRS	ko³nduìʔ¹nhèn¹hâ³¹	ko³nduìʔ¹xhèn¹hâ³¹
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;IPFV;PL;3;PRS	ko³nduìʔ¹xhèn¹ʔo³	ko³nduìʔ¹xhèn¹ʔo³
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;SBJV;SG;1	kwí⁵nduìʔ¹xhèn¹ha³	ki³nduìʔ¹xhèn¹ha³
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;SBJV;SG;2	kwí⁵nduìʔ¹xhènʔ¹	ki³nduìʔ¹xhèn¹ʔu³
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;SBJV;SG;3	ki³nduìʔ¹xhèn¹én⁵	ki³nduìʔ¹xhèn¹én⁵
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;SBJV;PL;1+INCL	ki³nduìʔ¹xhèn¹há⁵á⁵	ki³nduìʔ¹xhènhá⁵á⁵
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;SBJV;PL;1+EXCL	ki³nduìʔ¹nhèn¹hâ³¹	ki³nduìʔ¹xhèn¹hâ³¹
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;SBJV;PL;3	kwí⁵ìʔ¹xhèn¹ʔo³	ki³nduìʔ¹xhèn¹ʔo³
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;IRR;SG;1;FUT	n⁵nduìʔ¹xhèn¹ha³	n⁵nduì¹ʔxhèn¹ha³
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;IRR;SG;2;FUT	n⁵nduìʔ¹xhènʔ¹	n⁵nduìʔ¹xhèn¹ʔu³
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;IRR;SG;3;FUT	n⁵nduìʔ¹xhèn¹én⁵	n⁵nduìʔ¹xhèn¹én⁵
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;IRR;PL;1+INCL;FUT	n⁵nduìʔ¹xhèn¹há⁵á⁵	n⁵nduìʔ¹xhèn¹há⁵á⁵
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;IRR;PL;1+EXCL;FUT	n⁵nduìʔ¹nhèn¹hâ³¹	n⁵nduìʔ¹xhèn¹hâ³¹
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;IRR;PL;3;FUT	n⁵nduìʔ¹xhèn¹ʔo³	n⁵nduìʔ¹xhèn¹ʔo³
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;PROG;SG;1;PST	to³nduìʔ¹xhèn¹ha³	to³nduìʔ¹xhèn¹ha³
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;PROG;SG;2;PST	to³nduìʔ¹xhènʔ¹	to³nduìʔ¹xèn¹ʔu³
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;PROG;SG;3;PST	to³nduìʔ¹xhèn¹én⁵	to³nduìʔ¹xhèn¹én⁵
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;PROG;PL;1+INCL;PST	to³nduìʔ¹xhèn¹há⁵á⁵	to³nduìʔ¹xhèn¹há⁵á⁵
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;PROG;PL;1+EXCL;PST	to³nduìʔ¹nhèn¹hâ³¹	to³nduìʔ¹xhèn¹hâ³¹
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;PROG;PL;3;PST	to³nduìʔ¹nhèn¹ʔo³	to³nduìʔ¹xhèn¹ʔo³
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;PROG;SG;1;FUT	n⁵ngo³nduìʔ¹xhèn¹ha³	n⁵ngo³nduìʔ¹xhèn¹ha³
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;PROG;SG;2;FUT	n⁵ngo³nduìʔ¹xhènʔ¹	n⁵ngo³nduìʔ¹xhèn¹ʔu³
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;PROG;SG;3;FUT	n⁵ngo³nduìʔ¹xhèn¹én⁵	n⁵ngo³nduìʔ¹xhèn¹én⁵
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;PROG;PL;1+INCL;FUT	n⁵ngo³nduìʔ¹xhèn¹há⁵	n⁵ngo³nduiʔ¹xhèn¹há⁵á⁵
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;PROG;PL;1+EXCL;FUT	n⁵ngo³nduìʔ¹nhèn¹hâ³	n⁵ngo³nduìʔ¹xhèn¹hâ³¹
+Generate the inflected form for: n⁵nduìʔ¹xhèn¹ V;PROG;PL;3;FUT	n⁵ngo³nduìʔ¹xhèn¹ʔo³	n⁵ngo³nduìʔ¹xhèn¹ʔo³
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;PFV;SG;1;PST	tuìʔ¹xʔɔn⁵³ha³	hnduìʔ¹xʔon⁵³ha³
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;PFV;SG;2;PST	tuìʔ¹xʔon⁵³ʔu³	hnduìʔ¹xʔon⁵³ʔu³
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;PFV;SG;3;PST	tuìʔ¹xʔon⁵³én⁵	hnduìʔ¹xʔon⁵³én⁵
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;PFV;PL;1+INCL;PST	tuìʔ¹xʔɔn⁵³há⁵á⁵	hnduiʔ³ngʔon⁵³há⁵á⁵
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;PFV;PL;1+EXCL;PST	tuìʔ¹xʔôn⁵³hâ³¹	hndui³ngʔon⁵³hâ³¹
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;PFV;PL;3;PST	tuìʔ¹xʔon⁵³ʔo³	hnduiʔ³ngʔon⁵³ʔo³
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;IPFV;SG;1;PRS	ko³nduìʔ¹xʔɔn⁵³ha³	ko³nduìʔ¹xʔon⁵³ha³
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;IPFV;SG;2;PRS	ma³nduìʔ¹xʔon⁵³ʔu³	ko³nduìʔ¹xʔon⁵³ʔu³
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;IPFV;SG;3;PRS	ʔ⁵nduìʔ¹xʔon⁵³én⁵	ko³nduìʔ¹xʔon⁵³én⁵
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;IPFV;PL;1+INCL;PRS	ko³nduìʔ¹xʔɔn⁵³há⁵	ko³nduiʔ³ngʔon⁵³há⁵á⁵
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;IPFV;PL;1+EXCL;PRS	ko³nduìʔ¹xʔôn⁵³hâ³¹	ko³nduiʔ³ngʔon⁵³hâ³¹
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;IPFV;PL;3;PRS	ko³nduìʔ¹xʔon⁵³ʔo³	ko³nduiʔ³ngʔon⁵³ʔo³
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;SBJV;SG;1	kwí⁵xʔɔn⁵³ha³	ki³nduìʔ¹xʔon⁵³ha³
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;SBJV;SG;2	kwí⁵xʔon⁵³ʔu³	ki³nduìʔ¹xʔon⁵³ʔu³
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;SBJV;SG;3	kwí⁵xʔon⁵³én⁵	ki³nduìʔ¹xʔon⁵³én⁵
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;SBJV;PL;1+INCL	kwí⁵xʔɔn⁵³há⁵á⁵	ki³nduiʔ³ngʔon⁵³há⁵á⁵
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;SBJV;PL;1+EXCL	ki³nduìʔ¹xʔôn⁵³hâ³¹	ki³nduiʔ³ngʔon⁵³hâ³¹
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;SBJV;PL;3	kwí⁵xʔon⁵³ʔo³	ki³nduiʔ³ngʔon⁵³ʔo³
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;IRR;SG;1;FUT	n⁵nduìʔ¹xʔɔn⁵³ha³	n⁵nduìʔ¹xʔon⁵³ha³
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;IRR;SG;2;FUT	n⁵nduìʔ¹xʔon⁵³ʔu³	n⁵nduìʔ¹xʔon⁵³ʔu³
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;IRR;SG;3;FUT	n⁵nduìʔ¹xʔon⁵³én⁵	n⁵nduìʔ¹xʔon⁵³én⁵
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;IRR;PL;1+INCL;FUT	n⁵nduìʔ¹xʔɔn⁵³há⁵	n⁵nduiʔ³ngʔon⁵³há⁵á⁵
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;IRR;PL;1+EXCL;FUT	n⁵nduìʔ¹xʔôn⁵³hâ³¹	n⁵nduiʔ³ngʔon⁵³hâ³¹
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;IRR;PL;3;FUT	n⁵nduìʔ¹xʔon⁵³ʔo³	n⁵nduiʔ³ngʔon⁵³ʔo³
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;PROG;SG;1;PST	to³nduìʔ¹xʔɔn⁵³ha³	to³nduìʔ¹xʔon⁵³ha³
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;PROG;SG;2;PST	to³nduìʔ¹xʔon⁵³ʔu³	to³nduìʔ¹xʔon⁵³ʔu³
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;PROG;SG;3;PST	to³nduìʔ¹xʔon⁵³én⁵	to³nduìʔ¹xʔon⁵³én⁵
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;PROG;PL;1+INCL;PST	to³nduìʔ¹xʔɔn⁵³há⁵	to³nduiʔ³ngʔon⁵³há⁵á⁵
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;PROG;PL;1+EXCL;PST	to³nduìʔ¹xʔôn⁵³hâ³¹	to³nduiʔ³ngʔon⁵³hâ³¹
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;PROG;PL;3;PST	to³nduìʔ¹xʔon⁵³ʔo³	to³nduiʔ³ngʔon⁵³ʔo³
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;PROG;SG;1;FUT	n⁵ngo³nduìʔ¹xʔɔn⁵³ha	n⁵ngo³nduìʔ¹xʔon⁵³ha³
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;PROG;SG;2;FUT	n⁵ngo³nduìʔ¹xʔon⁵³ʔu	n⁵ngo³nduìʔ¹xʔon⁵³ʔu³
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;PROG;SG;3;FUT	n⁵ngo³nduìʔ¹xʔon⁵³	n⁵ngo³nduìʔ¹xʔon⁵³én⁵
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;PROG;PL;1+INCL;FUT	n⁵ngo³nduìʔ¹xʔɔn⁵³h	n⁵ngo³nduiʔ³ngʔon⁵³há⁵á⁵
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;PROG;PL;1+EXCL;FUT	n⁵ngo³nduìʔ¹xʔôn⁵³h	n⁵ngo³nduiʔ³ngʔon⁵³hâ³¹
+Generate the inflected form for: n⁵nduìʔ¹xʔon⁵³ V;PROG;PL;3;FUT	n⁵ngo³nduìʔ¹xʔon⁵³ʔo	n⁵ngo³nduiʔ³ngʔon⁵³ʔo³
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;PFV;SG;1;PST	tuìʔ¹yà¹ha³	hndʔuî³¹ya¹²
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;PFV;SG;2;PST	tuìʔ¹yàʔ¹ʔu³	hnduîʔ³¹yàʔ¹
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;PFV;SG;3;PST	tuìʔ¹yà¹én⁵	hnduìʔ¹yà¹
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;PFV;PL;1+INCL;PST	tuìʔ¹yà¹há⁵á⁵	hndʔui³⁴ya¹²á⁵
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;PFV;PL;1+EXCL;PST	tuìʔ¹yà¹hâ³¹	hndʔuî³¹yâ³¹
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;PFV;PL;3;PST	tuìʔ¹yà¹ʔo³	hnduiʔ³yà¹oʔ³
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;IPFV;SG;1;PRS	ko³nduìʔ¹yà¹ha³	ma³ndʔuî³¹ya¹²
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;IPFV;SG;2;PRS	ma³nduìʔ¹yàʔ¹ʔu³	ma³nduîʔ³¹yàʔ¹
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;IPFV;SG;3;PRS	ma³nduìʔ¹yà¹én⁵	ʔ⁵nduìʔ¹yà¹
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;IPFV;PL;1+INCL;PRS	ko³nduìʔ¹yà¹há⁵á⁵	ko³ndʔui³⁴ya¹²á⁵
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;IPFV;PL;1+EXCL;PRS	ko³nduìʔ¹yà¹hâ³¹	ko³ndʔuî³¹yâ³¹
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;IPFV;PL;3;PRS	ko³nduìʔ¹yà¹ʔo³	ko³nduiʔ³yà¹oʔ³
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;SBJV;SG;1	ki³nduìʔ¹yà¹ha³	kí⁵ndʔuî³¹ya¹²
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;SBJV;SG;2	ki³nduìʔ¹yàʔ¹ʔu³	kí⁵nduîʔ³¹yàʔ¹
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;SBJV;SG;3	ki³nduìʔ¹yà¹én⁵	ki³nduìʔ¹yà¹
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;SBJV;PL;1+INCL	ki³nduìʔ¹yà¹há⁵á⁵	ki³ndʔui³⁴ya¹²á⁵
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;SBJV;PL;1+EXCL	ki³nduìʔ¹yà¹hâ³¹	ki³ndʔuî³¹yâ³¹
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;SBJV;PL;3	ki³nduìʔ¹yà¹ʔo³	ki³nduiʔ³yà¹oʔ³
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;IRR;SG;1;FUT	n⁵nduìʔ¹yà¹ha³	n⁵ndʔuî³¹ya¹²
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;IRR;SG;2;FUT	n⁵nduìʔ¹yàʔ¹ʔu³	n⁵nduîʔ³¹yàʔ¹
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;IRR;SG;3;FUT	n⁵nduìʔ¹yà¹én⁵	n⁵nduìʔ¹yà¹
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;IRR;PL;1+INCL;FUT	n⁵nduìʔ¹yà¹há⁵á⁵	n⁵ndʔui³⁴ya¹²á⁵
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;IRR;PL;1+EXCL;FUT	n⁵nduìʔ¹yà¹hâ³¹	n⁵ndʔuî³¹yâ³¹
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;IRR;PL;3;FUT	n⁵nduìʔ¹yà¹ʔo³	n⁵nduiʔ³yà¹oʔ³
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;PROG;SG;1;PST	to³nduìʔ¹yà¹ha³	to³ndʔuî³¹ya¹²
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;PROG;SG;2;PST	to³nduìʔ¹yàʔ¹ʔu³	to³ndyuîʔ³¹yàʔ¹
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;PROG;SG;3;PST	to³nduìʔ¹yà¹én⁵	to³nduìʔ¹yà¹
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;PROG;PL;1+INCL;PST	to³nduìʔ¹yà¹há⁵á⁵	to³ndʔui³⁴ya¹²á⁵
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;PROG;PL;1+EXCL;PST	to³nduìʔ¹yà¹hâ³¹	to³ndʔuî³¹yâ³¹
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;PROG;PL;3;PST	to³nduìʔ¹yà¹ʔo³	to³nduiʔ³yà¹oʔ³
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;PROG;SG;1;FUT	n⁵ngo³nduìʔ¹yà¹ha³	n⁵ngo³ndʔuî³¹ya¹²
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;PROG;SG;2;FUT	n⁵ngo³nduìʔ¹yàʔ¹	n⁵ngo³nduîʔ³¹yàʔ¹
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;PROG;SG;3;FUT	n⁵ngo³nduìʔ¹yà¹én⁵	n⁵ngo³nduìʔ¹yà¹
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;PROG;PL;1+INCL;FUT	n⁵ngo³nduìʔ¹yà¹há⁵á	n⁵ngo³ndʔui³⁴ya¹²á⁵
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;PROG;PL;1+EXCL;FUT	n⁵ngo³nduìʔ¹yà¹hâ³¹	n⁵ngo³ndʔuî³¹yâ³¹
+Generate the inflected form for: n⁵nduìʔ¹yà¹ V;PROG;PL;3;FUT	n⁵ngo³nduìʔ¹yà¹ʔo³	n⁵ngo³nduiʔ³yà¹oʔ³
+Generate the inflected form for: n⁵nduíʔ⁵ V;PFV;SG;1;PST	tuíʔ⁵ha³	tui⁵³
+Generate the inflected form for: n⁵nduíʔ⁵ V;PFV;SG;2;PST	tuíʔ⁵ʔu³	tuîʔ³¹
+Generate the inflected form for: n⁵nduíʔ⁵ V;PFV;SG;3;PST	hnduíʔ⁵én⁵	tuíʔ⁵
+Generate the inflected form for: n⁵nduíʔ⁵ V;PFV;PL;1+INCL;PST	tíʔ⁵há⁵á⁵	tuí⁵í⁵
+Generate the inflected form for: n⁵nduíʔ⁵ V;PFV;PL;1+EXCL;PST	tíʔ⁵hâ³¹	tuî³¹
+Generate the inflected form for: n⁵nduíʔ⁵ V;PFV;PL;3;PST	tuíʔ⁵ʔo³	tuí⁵oʔ³
+Generate the inflected form for: n⁵nduíʔ⁵ V;IPFV;SG;1;PRS	ma³nduíʔ⁵ha³	bàʔ¹ndui⁵³
+Generate the inflected form for: n⁵nduíʔ⁵ V;IPFV;SG;2;PRS	ma³nduíʔ⁵ʔu³	ba³nduîʔ³¹
+Generate the inflected form for: n⁵nduíʔ⁵ V;IPFV;SG;3;PRS	ma³nduíʔ⁵én⁵	bá⁵nduíʔ⁵
+Generate the inflected form for: n⁵nduíʔ⁵ V;IPFV;PL;1+INCL;PRS	ko³ndʔuíʔ⁵há⁵á⁵	bá⁵nduí⁵í⁵
+Generate the inflected form for: n⁵nduíʔ⁵ V;IPFV;PL;1+EXCL;PRS	ko³ndʔê³¹	bá⁵nduî³¹
+Generate the inflected form for: n⁵nduíʔ⁵ V;IPFV;PL;3;PRS	ko³nduíʔ⁵ʔo³	bá⁵nduí⁵oʔ³
+Generate the inflected form for: n⁵nduíʔ⁵ V;SBJV;SG;1	ki³nduíʔ⁵ha³	kí⁵ndui⁵³
+Generate the inflected form for: n⁵nduíʔ⁵ V;SBJV;SG;2	ki³nduíʔ⁵ʔu³	kí⁵nduîʔ³¹
+Generate the inflected form for: n⁵nduíʔ⁵ V;SBJV;SG;3	ki³nduíʔ⁵én⁵	kí⁵nduíʔ⁵
+Generate the inflected form for: n⁵nduíʔ⁵ V;SBJV;PL;1+INCL	kwí⁵ʔ⁵há⁵á⁵	kí⁵nduí⁵í⁵
+Generate the inflected form for: n⁵nduíʔ⁵ V;SBJV;PL;1+EXCL	kwí⁵ʔ⁵hâ³¹	kí⁵nduî³¹
+Generate the inflected form for: n⁵nduíʔ⁵ V;SBJV;PL;3	kwí⁵ʔo³	kí⁵nduí⁵oʔ³
+Generate the inflected form for: n⁵nduíʔ⁵ V;IRR;SG;1;FUT	n⁵nduíʔ⁵ha³	n⁵ndui⁵³
+Generate the inflected form for: n⁵nduíʔ⁵ V;IRR;SG;2;FUT	n⁵nduíʔ⁵ʔu³	n⁵nduîʔ³¹
+Generate the inflected form for: n⁵nduíʔ⁵ V;IRR;SG;3;FUT	n⁵nduíʔ⁵én⁵	n⁵nduíʔ⁵
+Generate the inflected form for: n⁵nduíʔ⁵ V;IRR;PL;1+INCL;FUT	n⁵nduíʔ⁵há⁵á⁵	n⁵nduí⁵í⁵
+Generate the inflected form for: n⁵nduíʔ⁵ V;IRR;PL;1+EXCL;FUT	n⁵nduê³¹	n⁵nduî³¹
+Generate the inflected form for: n⁵nduíʔ⁵ V;IRR;PL;3;FUT	n⁵nduíʔ⁵ʔo³	n⁵nduí⁵oʔ³
+Generate the inflected form for: n⁵nduíʔ⁵ V;PROG;SG;1;PST	to³nduíʔ⁵ha³	to³nduí⁵³
+Generate the inflected form for: n⁵nduíʔ⁵ V;PROG;SG;2;PST	to³nduíʔ⁵ʔu³	to³nduîʔ³¹
+Generate the inflected form for: n⁵nduíʔ⁵ V;PROG;SG;3;PST	to³nduíʔ⁵én⁵	to³nduíʔ⁵
+Generate the inflected form for: n⁵nduíʔ⁵ V;PROG;PL;1+INCL;PST	to³ndʔuí⁵há⁵á⁵	to³nduí⁵í⁵
+Generate the inflected form for: n⁵nduíʔ⁵ V;PROG;PL;1+EXCL;PST	to³ndʔê³¹	to³nduî³¹
+Generate the inflected form for: n⁵nduíʔ⁵ V;PROG;PL;3;PST	to³nduíʔ⁵ʔo³	to³nduí⁵oʔ³
+Generate the inflected form for: n⁵nduíʔ⁵ V;PROG;SG;1;FUT	n⁵ngo³nduíʔ⁵ha³	n⁵ngo³nduí⁵³
+Generate the inflected form for: n⁵nduíʔ⁵ V;PROG;SG;2;FUT	n⁵ngo³nduíʔ⁵ʔu³	n⁵ngo³nduîʔ³¹
+Generate the inflected form for: n⁵nduíʔ⁵ V;PROG;SG;3;FUT	n⁵ngo³nduíʔ⁵én⁵	n⁵ngo³nduíʔ⁵
+Generate the inflected form for: n⁵nduíʔ⁵ V;PROG;PL;1+INCL;FUT	n⁵ngo³ndʔuí⁵há⁵á⁵	n⁵ngo³nduí⁵í⁵
+Generate the inflected form for: n⁵nduíʔ⁵ V;PROG;PL;1+EXCL;FUT	n⁵ngo³ndʔê³¹	n⁵ngo³nduî³¹
+Generate the inflected form for: n⁵nduíʔ⁵ V;PROG;PL;3;FUT	n⁵ngo³nduíʔ⁵ʔo³	n⁵ngo³nduí⁵oʔ³
+Generate the inflected form for: n⁵nduí⁵ V;PFV;SG;1;PST	tuí⁵ha³	tuí⁵ha³
+Generate the inflected form for: n⁵nduí⁵ V;PFV;SG;2;PST	tuí⁵ʔu³	tuí⁵ʔu³
+Generate the inflected form for: n⁵nduí⁵ V;PFV;SG;3;PST	tuí⁵én⁵	tuí⁵én⁵
+Generate the inflected form for: n⁵nduí⁵ V;PFV;PL;1+INCL;PST	tí⁵há⁵á⁵	tuí⁵há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵ V;PFV;PL;1+EXCL;PST	tí⁵hâ³¹	tuí⁵hâ³¹
+Generate the inflected form for: n⁵nduí⁵ V;PFV;PL;3;PST	tuí⁵ʔo³	tuí⁵ʔo³
+Generate the inflected form for: n⁵nduí⁵ V;IPFV;SG;1;PRS	ko³nduí⁵ha³	ko³nduí⁵ha³
+Generate the inflected form for: n⁵nduí⁵ V;IPFV;SG;2;PRS	ma³nduí⁵ʔu³	ko³nduí⁵ʔu³
+Generate the inflected form for: n⁵nduí⁵ V;IPFV;SG;3;PRS	ma³nduí⁵	ko³nduí⁵én⁵
+Generate the inflected form for: n⁵nduí⁵ V;IPFV;PL;1+INCL;PRS	ko³nduí⁵há⁵á⁵	ko³nduí⁵há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵ V;IPFV;PL;1+EXCL;PRS	ko³nduê³¹	ko³nduí⁵hâ³¹
+Generate the inflected form for: n⁵nduí⁵ V;IPFV;PL;3;PRS	ko³nduí⁵ʔo³	ko³nduí⁵ʔo³
+Generate the inflected form for: n⁵nduí⁵ V;SBJV;SG;1	kwí⁵ha³	kí⁵nduí⁵ha³
+Generate the inflected form for: n⁵nduí⁵ V;SBJV;SG;2	kwí⁵ʔu³	kí⁵nduíʔ⁵ʔu³
+Generate the inflected form for: n⁵nduí⁵ V;SBJV;SG;3	kwí⁵én⁵	kí⁵nduí⁵én⁵
+Generate the inflected form for: n⁵nduí⁵ V;SBJV;PL;1+INCL	kwí⁵há⁵á⁵	kí⁵nduí⁵há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵ V;SBJV;PL;1+EXCL	kwí⁵hâ³¹	kí⁵nduí⁵hâ³¹
+Generate the inflected form for: n⁵nduí⁵ V;SBJV;PL;3	kwí⁵ʔo³	kí⁵nduí⁵ʔo³
+Generate the inflected form for: n⁵nduí⁵ V;IRR;SG;1;FUT	n⁵nduí⁵ha³	n⁵nduí⁵ha⁵
+Generate the inflected form for: n⁵nduí⁵ V;IRR;SG;2;FUT	n⁵nduí⁵ʔu³	n⁵nduí⁵ʔu⁵
+Generate the inflected form for: n⁵nduí⁵ V;IRR;SG;3;FUT	n⁵nduí⁵én⁵	n⁵nduí⁵én⁵
+Generate the inflected form for: n⁵nduí⁵ V;IRR;PL;1+INCL;FUT	n⁵nduí⁵há⁵á⁵	n⁵nduí⁵há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵ V;IRR;PL;1+EXCL;FUT	n⁵nduê³¹	n⁵nduí⁵hâ³¹
+Generate the inflected form for: n⁵nduí⁵ V;IRR;PL;3;FUT	n⁵nduí⁵ʔo³	n⁵nduí⁵ʔo³
+Generate the inflected form for: n⁵nduí⁵ V;PROG;SG;1;PST	to³nduí⁵ha³	to³nduí⁵ha³
+Generate the inflected form for: n⁵nduí⁵ V;PROG;SG;2;PST	to³nduí⁵ʔu³	to³nduí⁵ʔu³
+Generate the inflected form for: n⁵nduí⁵ V;PROG;SG;3;PST	to³nduí⁵	to³nduí⁵én⁵
+Generate the inflected form for: n⁵nduí⁵ V;PROG;PL;1+INCL;PST	to³nduê³¹	to³nduí⁵há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵ V;PROG;PL;1+EXCL;PST	to³nduê³¹	to³nduí⁵hâ³¹
+Generate the inflected form for: n⁵nduí⁵ V;PROG;PL;3;PST	to³nduí⁵ʔo³	to³nduí⁵ʔo³
+Generate the inflected form for: n⁵nduí⁵ V;PROG;SG;1;FUT	n⁵ngo³nduí⁵ha³	n⁵ngo³nduí⁵ha³
+Generate the inflected form for: n⁵nduí⁵ V;PROG;SG;2;FUT	n⁵ngo³nduí⁵ʔu³	n⁵ngo³nduí⁵ʔu³
+Generate the inflected form for: n⁵nduí⁵ V;PROG;SG;3;FUT	n⁵ngo³nduí⁵én⁵	n⁵ngo³nduí⁵én⁵
+Generate the inflected form for: n⁵nduí⁵ V;PROG;PL;1+INCL;FUT	n⁵ngo³nduê³¹	n⁵ngo³nduí⁵há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵ V;PROG;PL;1+EXCL;FUT	n⁵ngo³nduê³¹	n⁵ngo³nduí⁵hâ³¹
+Generate the inflected form for: n⁵nduí⁵ V;PROG;PL;3;FUT	n⁵ngo³nduí⁵ʔo³	n⁵ngo³nduí⁵ʔo³
+Generate the inflected form for: n⁵nduí⁵ si³ V;PFV;SG;1;PST	tuí⁵si³ha³	tuí⁵si³ha³
+Generate the inflected form for: n⁵nduí⁵ si³ V;PFV;SG;2;PST	tuí⁵siʔʔu³	tuí⁵si³ʔu³
+Generate the inflected form for: n⁵nduí⁵ si³ V;PFV;SG;3;PST	tuí⁵si³én⁵	tuí⁵si³én⁵
+Generate the inflected form for: n⁵nduí⁵ si³ V;PFV;PL;1+INCL;PST	tí⁵ndyɛ¹²í⁵	tuí⁵si³há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵ si³ V;PFV;PL;1+EXCL;PST	tí⁵ndê³¹	tuí⁵si³hâ³¹
+Generate the inflected form for: n⁵nduí⁵ si³ V;PFV;PL;3;PST	tuí⁵nti³oʔ³	tuí⁵si³ʔo³
+Generate the inflected form for: n⁵nduí⁵ si³ V;IPFV;SG;1;PRS	bá⁵nduí⁵si³ha³	ko³nduí⁵si³ha³
+Generate the inflected form for: n⁵nduí⁵ si³ V;IPFV;SG;2;PRS	bá⁵nduí⁵siʔʔu³	ko³nduí⁵si³ʔu³
+Generate the inflected form for: n⁵nduí⁵ si³ V;IPFV;SG;3;PRS	bá⁵nduí⁵si³én⁵	ko³nduí⁵si³én⁵
+Generate the inflected form for: n⁵nduí⁵ si³ V;IPFV;PL;1+INCL;PRS	bá⁵nduí⁵ndyɛ¹²í⁵	ko³nduí⁵si³há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵ si³ V;IPFV;PL;1+EXCL;PRS	bá⁵nduí⁵ndê³¹	ko³nduí⁵si³hâ³¹
+Generate the inflected form for: n⁵nduí⁵ si³ V;IPFV;PL;3;PRS	bá⁵nduí⁵nti³oʔ³	ko³nduí⁵si³ʔo³
+Generate the inflected form for: n⁵nduí⁵ si³ V;SBJV;SG;1	kwí⁵si³ha³	kí⁵nduí⁵si³ha³
+Generate the inflected form for: n⁵nduí⁵ si³ V;SBJV;SG;2	kwí⁵siʔʔu³	kí⁵nduí⁵si³ʔu³
+Generate the inflected form for: n⁵nduí⁵ si³ V;SBJV;SG;3	kwí⁵si³én⁵	kí⁵nduí⁵si³én⁵
+Generate the inflected form for: n⁵nduí⁵ si³ V;SBJV;PL;1+INCL	kwí⁵ndyɛ¹²í⁵	kí⁵nduí⁵si³há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵ si³ V;SBJV;PL;1+EXCL	kwí⁵ndyê³¹	kí⁵nduí⁵si³hâ³¹
+Generate the inflected form for: n⁵nduí⁵ si³ V;SBJV;PL;3	kwí⁵ndyi³oʔ³	kí⁵nduí⁵si³ʔo³
+Generate the inflected form for: n⁵nduí⁵ si³ V;IRR;SG;1;FUT	n⁵nduí⁵si³ha³	n⁵nduí⁵si³ha³
+Generate the inflected form for: n⁵nduí⁵ si³ V;IRR;SG;2;FUT	n⁵nduí⁵siʔʔu³	n⁵nduí⁵si³ʔu³
+Generate the inflected form for: n⁵nduí⁵ si³ V;IRR;SG;3;FUT	n⁵nduí⁵si³én⁵	n⁵nduí⁵si³én⁵
+Generate the inflected form for: n⁵nduí⁵ si³ V;IRR;PL;1+INCL;FUT	n⁵nduí⁵nti³há⁵á⁵	n⁵nduí⁵si³há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵ si³ V;IRR;PL;1+EXCL;FUT	n⁵nduí⁵ndê³¹	n⁵nduí⁵si³hâ³¹
+Generate the inflected form for: n⁵nduí⁵ si³ V;IRR;PL;3;FUT	n⁵nduí⁵nti³oʔ³	n⁵nduí⁵si³ʔo³
+Generate the inflected form for: n⁵nduí⁵ si³ V;PROG;SG;1;PST	to³nduí⁵si³ha³	to³nduí⁵si³ha³
+Generate the inflected form for: n⁵nduí⁵ si³ V;PROG;SG;2;PST	to³nduí⁵siʔʔu³	to³nduí⁵si³ʔu³
+Generate the inflected form for: n⁵nduí⁵ si³ V;PROG;SG;3;PST	to³nduí⁵si³én⁵	to³nduí⁵si³én⁵
+Generate the inflected form for: n⁵nduí⁵ si³ V;PROG;PL;1+INCL;PST	to³nduí⁵nti³há⁵á⁵	to³nduí⁵si³há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵ si³ V;PROG;PL;1+EXCL;PST	to³nduí⁵ndê³¹	to³nduí⁵si³hâ³¹
+Generate the inflected form for: n⁵nduí⁵ si³ V;PROG;PL;3;PST	to³nduí⁵nti³oʔ³	to³nduí⁵si³ʔo³
+Generate the inflected form for: n⁵nduí⁵ si³ V;PROG;SG;1;FUT	n⁵ngo³nduí⁵si³ha³	n⁵ngo³nduí⁵si³ha³
+Generate the inflected form for: n⁵nduí⁵ si³ V;PROG;SG;2;FUT	n⁵ngo³nduí⁵siʔʔu³	n⁵ngo³nduí⁵si³ʔu³
+Generate the inflected form for: n⁵nduí⁵ si³ V;PROG;SG;3;FUT	n⁵ngo³nduí⁵si³én⁵	n⁵ngo³nduí⁵si³én⁵
+Generate the inflected form for: n⁵nduí⁵ si³ V;PROG;PL;1+INCL;FUT	n⁵ngo³nduí⁵nti³há⁵á	n⁵ngo³nduí⁵si³há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵ si³ V;PROG;PL;1+EXCL;FUT	n⁵ngo³nduí⁵ndê³¹	n⁵ngo³nduí⁵si³hâ³¹
+Generate the inflected form for: n⁵nduí⁵ si³ V;PROG;PL;3;FUT	n⁵ngo³nduí⁵nti³oʔ³	n⁵ngo³nduí⁵si³ʔo³
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;PFV;SG;1;PST	tuí⁵na³nhɔ⁵³ha³	tuí⁵na³nho⁵³ha³
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;PFV;SG;2;PST	tuí⁵na³nho⁵³ʔu³	tuí⁵na³nho⁵³ʔu³
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;PFV;SG;3;PST	tuí⁵na³nho⁵³én⁵	tuí⁵na³nho⁵³én⁵
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;PFV;PL;1+INCL;PST	tí⁵na³nhɔ⁵³há⁵á⁵	tuí⁵na³nho⁵³há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;PFV;PL;1+EXCL;PST	tí⁵na³nhô³¹	tuí⁵na³nho⁵³hâ³¹
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;PFV;PL;3;PST	tuí⁵na³nho⁵³ʔo³	tuí⁵na³nho⁵³ʔo³
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;IPFV;SG;1;PRS	bá⁵nduí⁵na³nhɔ⁵³ha³	ko³nduí⁵na³nho⁵³ha³
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;IPFV;SG;2;PRS	bá⁵nduí⁵na³nho⁵³ʔu³	ko³nduí⁵na³nho⁵³ʔu³
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;IPFV;SG;3;PRS	bá⁵nduí⁵na³nho⁵³én	ko³nduí⁵na³nho⁵³én⁵
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;IPFV;PL;1+INCL;PRS	bá⁵nduí⁵na³nhɔ⁵³há	ko³nduí⁵na³nho⁵³há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;IPFV;PL;1+EXCL;PRS	bá⁵nduí⁵na³nhô³¹	ko³nduí⁵na³nho⁵³hâ³¹
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;IPFV;PL;3;PRS	bá⁵nduí⁵na³nho⁵³ʔo³	ko³nduí⁵na³nho⁵³ʔo³
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;SBJV;SG;1	kwí⁵na³nhɔ⁵³ha³	kí⁵nduí⁵na³nho⁵³ha³
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;SBJV;SG;2	kwí⁵na³nho⁵³ʔu³	kí⁵nduí⁵na³nho⁵³ʔu³
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;SBJV;SG;3	kwí⁵na³nho⁵³én⁵	kí⁵nduí⁵na³nho⁵³én⁵
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;SBJV;PL;1+INCL	kwí⁵na³nhɔ⁵³há⁵á⁵	kí⁵nduí⁵na³nho⁵³há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;SBJV;PL;1+EXCL	kwí⁵na³nhô³¹	kí⁵nduí⁵na³nho⁵³hâ³¹
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;SBJV;PL;3	kwí⁵na³nho⁵³ʔo³	kí⁵nduí⁵na³nho⁵³ʔo³
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;IRR;SG;1;FUT	n⁵nduí⁵na³nhɔ⁵³ha³	n⁵nduí⁵na³nho⁵³ha³
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;IRR;SG;2;FUT	n⁵nduí⁵na³nho⁵³ʔu³	n⁵nduí⁵na³nho⁵³ʔu³
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;IRR;SG;3;FUT	n⁵nduí⁵na³nho⁵³én⁵	n⁵nduí⁵na³nho⁵³én⁵
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;IRR;PL;1+INCL;FUT	n⁵nduí⁵na³nhɔ⁵³há⁵	n⁵nduí⁵na³nho⁵³há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;IRR;PL;1+EXCL;FUT	n⁵nduí⁵na³nhô³¹	n⁵nduí⁵na³nho⁵³hâ³¹
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;IRR;PL;3;FUT	n⁵nduí⁵na³nho⁵³ʔo³	n⁵nduí⁵na³nho⁵³ʔo³
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;PROG;SG;1;PST	to³nduí⁵na³nhɔ⁵³ha³	to³nduí⁵na³nho⁵³ha³
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;PROG;SG;2;PST	to³nduí⁵na³nho⁵³ʔu³	to³nduí⁵na³nho⁵³ʔu³
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;PROG;SG;3;PST	to³nduí⁵na³nho⁵³én⁵	to³nduí⁵na³nho⁵³én⁵
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;PROG;PL;1+INCL;PST	to³nduí⁵na³nhɔ⁵³há⁵	to³nduí⁵na³nho⁵³há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;PROG;PL;1+EXCL;PST	to³nduí⁵na³nhô³¹	to³nduí⁵na³nho⁵³hâ³¹
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;PROG;PL;3;PST	to³nduí⁵na³nho⁵³ʔo³	to³nduí⁵na³nho⁵³ʔo³
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;PROG;SG;1;FUT	n⁵ngo³nduí⁵na³nhɔ⁵³	n⁵ngo³nduí⁵na³nho⁵³ha³
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;PROG;SG;2;FUT	n⁵ngo³nduí⁵na³nho⁵³ʔ	n⁵ngo³nduí⁵na³nho⁵³ʔu³
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;PROG;SG;3;FUT	n⁵ngo³nduí⁵na³nho⁵³	n⁵ngo³nduí⁵na³nho⁵³én⁵
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;PROG;PL;1+INCL;FUT	n⁵ngo³nduí⁵na³nhɔ⁵³h	n⁵ngo³nduí⁵na³nho⁵³há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;PROG;PL;1+EXCL;FUT	n⁵ngo³nduí⁵na³nhô³¹	n⁵ngo³nduí⁵na³nho⁵³hâ³¹
+Generate the inflected form for: n⁵nduí⁵na³ nho⁵³ V;PROG;PL;3;FUT	n⁵ngo³nduí⁵na³nho⁵³ʔ	n⁵ngo³nduí⁵na³nho⁵³ʔo³
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;PFV;SG;1;PST	tuí⁵na³tyìʔ¹kí⁵nhɔ	tuí⁵na³tyìʔ¹kí⁵nho⁵³ha³
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;PFV;SG;2;PST	tuí⁵na³tyìʔ¹kí⁵nho⁵	tuí⁵na³tyìʔ¹kí⁵nho⁵³ʔu³
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;PFV;SG;3;PST	tuí⁵na³tyìʔ¹kí⁵nho⁵	tuí⁵na³tyìʔ¹kí⁵nho⁵³én⁵
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;PFV;PL;1+INCL;PST	tí⁵na³tyìʔ¹kí⁵nhɔ⁵	tuí⁵na³tyìʔ¹kí⁵nho⁵³há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;PFV;PL;1+EXCL;PST	tí⁵na³tyìʔ¹kí⁵nhô³	tuí⁵na³tyìʔ¹kí⁵nho⁵³hâ³¹
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;PFV;PL;3;PST	tuí⁵na³tyìʔ¹kí⁵nho⁵	tuí⁵na³tyìʔ¹kí⁵nho⁵³ʔo³
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;IPFV;SG;1;PRS	bá⁵nduí⁵na³tyìʔ¹kí	ko³nduí⁵na³tyìʔ¹kí⁵nho⁵³ha³
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;IPFV;SG;2;PRS	bá⁵nduí⁵na³tyìʔ¹kí	ko³nduí⁵na³tyìʔ¹kí⁵nho⁵³ʔu³
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;IPFV;SG;3;PRS	bá⁵nduí⁵na³tyìʔ¹kí	ko³ndui⁵na³tyìʔ¹kí⁵nho⁵³én⁵
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;IPFV;PL;1+INCL;PRS	bá⁵nduí⁵na³tyìʔ¹kí	ko³nduí⁵na³tyìʔ¹kí⁵nho⁵³há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;IPFV;PL;1+EXCL;PRS	bá⁵nduí⁵na³tyìʔ¹kí	ko³nduí⁵na³tyìʔ¹kí⁵nho⁵³hâ³¹
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;IPFV;PL;3;PRS	bá⁵nduí⁵na³tyìʔ¹kí	ko³nduí⁵na³tyìʔ¹kí⁵nho⁵³ʔo³
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;SBJV;SG;1	kwí⁵na³tyìʔ¹kí⁵nhɔ	kí⁵nduí⁵na³tyìʔ¹kí⁵nho⁵³ha³
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;SBJV;SG;2	kwí⁵na³tyìʔ¹kí⁵nho⁵	kí⁵nduí⁵na³tyìʔ¹kí⁵nho⁵³ʔu³
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;SBJV;SG;3	kwí⁵na³tyìʔ¹kí⁵nho⁵	kí⁵nduí⁵na³tyìʔ¹kí⁵nho⁵³én⁵
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;SBJV;PL;1+INCL	kwí⁵na³tyìʔ¹kí⁵nhɔ	kí⁵nduí⁵na³tyìʔ¹kí⁵nho⁵³há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;SBJV;PL;1+EXCL	kwí⁵na³tyìʔ¹kí⁵nhô³	kí⁵nduí⁵na³tyìʔ¹kí⁵nho⁵³hâ³¹
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;SBJV;PL;3	kwí⁵na³tyìʔ¹kí⁵nho⁵	kí⁵nduí⁵na³tyìʔ¹kí⁵nho⁵³ʔo³
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;IRR;SG;1;FUT	n⁵nduí⁵na³tyìʔ¹kí⁵n	n⁵nduí⁵na³tyìʔ¹kí⁵nho⁵³ha³
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;IRR;SG;2;FUT	n⁵nduí⁵na³tyìʔ¹kí⁵n	n⁵nduí⁵na³tyìʔ¹kí⁵nho⁵³ʔu³
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;IRR;SG;3;FUT	n⁵nduí⁵na³tyìʔ¹kí⁵n	n⁵nduí⁵na³tyìʔ¹kí⁵nho⁵³én⁵
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;IRR;PL;1+INCL;FUT	n⁵nduí⁵na³tyìʔ¹kí⁵n	n⁵nduí⁵na³tyìʔ¹kí⁵nho⁵³há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;IRR;PL;1+EXCL;FUT	n⁵nduí⁵na³tyìʔ¹kí⁵n	n⁵nduí⁵na³tyìʔ¹kí⁵nho⁵³hâ³¹
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;IRR;PL;3;FUT	n⁵nduí⁵na³tyìʔ¹kí⁵n	n⁵nduí⁵na³tyìʔ¹kí⁵nho⁵³ʔo³
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;PROG;SG;1;PST	to³nduí⁵na³tyìʔ¹kí⁵n	to³nduí⁵na³tyìʔ¹kí⁵nho⁵³ha³
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;PROG;SG;2;PST	to³nduí⁵na³tyìʔ¹kí⁵n	to³nduí⁵na³tyìʔ¹kí⁵nho⁵³ʔu³
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;PROG;SG;3;PST	to³nduí⁵na³tyìʔ¹kí⁵n	to³nduí⁵na³tyìʔ¹kí⁵nho⁵³én⁵
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;PROG;PL;1+INCL;PST	to³nduí⁵na³tyìʔ¹kí⁵n	to³nduí⁵na³tyìʔ¹kí⁵nho⁵³há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;PROG;PL;1+EXCL;PST	to³nduí⁵na³tyìʔ¹kí⁵n	to³nduí⁵na³tyìʔ¹kí⁵nho⁵³hâ³¹
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;PROG;PL;3;PST	to³nduí⁵na³tyìʔ¹kí⁵n	to³nduí⁵na³tyìʔ¹kí⁵nho⁵³ʔo³
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;PROG;SG;1;FUT	n⁵ngo³nduí⁵na³tyìʔ¹k	n⁵ngo³nduí⁵na³tyìʔ¹kí⁵nho⁵³ha³
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;PROG;SG;2;FUT	n⁵ngo³nduí⁵na³tyìʔ¹k	n⁵ngo³nduí⁵na³tyìʔ¹kí⁵nho⁵³ʔu³
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;PROG;SG;3;FUT	n⁵ngo³nduí⁵na³tyìʔ¹k	n⁵ngo³nduí⁵na³tyìʔ¹kí⁵nho⁵³én⁵
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;PROG;PL;1+INCL;FUT	n⁵ngo³nduí⁵na³tyìʔ¹k	n⁵ngo³nduí⁵na³tyìʔ¹kí⁵nho⁵³há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;PROG;PL;1+EXCL;FUT	n⁵ngo³nduí⁵na³tyìʔ¹k	n⁵ngo³nduí⁵na³tyìʔ¹kí⁵nho⁵³hâ³¹
+Generate the inflected form for: n⁵nduí⁵na³ tyìʔ¹kí⁵nho⁵³ V;PROG;PL;3;FUT	n⁵ngo³nduí⁵na³tyìʔ¹k	n⁵ngo³nduí⁵na³tyìʔ¹kí⁵nho⁵³ʔo³
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;PFV;SG;1;PST	tuí⁵tyʔɔ⁵³	tuí⁵tyʔo³⁵ha³
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;PFV;SG;2;PST	tuí⁵tyʔoʔ⁵³	tuí⁵tyʔo³⁵ʔu³
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;PFV;SG;3;PST	tuí⁵tyʔo³⁵én⁵	tuí⁵tyʔo³⁵én⁵
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;PFV;PL;1+INCL;PST	tuí⁵tyʔɔ³⁵há⁵á⁵	tuí⁵tyʔo³⁵há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;PFV;PL;1+EXCL;PST	tuí⁵tyʔô³¹	tuí⁵tyʔo³⁵hâ³¹
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;PFV;PL;3;PST	tuí⁵tyʔo³⁵ʔo³	tuí⁵tyʔo³⁵ʔo³
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;IPFV;SG;1;PRS	bá⁵nduí⁵tyʔɔ⁵³	ko³nduí⁵tyʔo³⁵ha³
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;IPFV;SG;2;PRS	bá⁵nduí⁵tyʔoʔ⁵³	ko³nduí⁵tyʔo³⁵ʔu³
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;IPFV;SG;3;PRS	bá⁵nduí⁵tyʔo³⁵én⁵	ko³nduí⁵tyʔo³⁵én⁵
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;IPFV;PL;1+INCL;PRS	bá⁵nduí⁵tyʔɔ³⁵há⁵	ko³nduí⁵tyʔo³⁵há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;IPFV;PL;1+EXCL;PRS	bá⁵nduí⁵tyʔô³¹	ko³nduí⁵tyʔo³⁵hâ³¹
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;IPFV;PL;3;PRS	bá⁵nduí⁵tyʔo³⁵ʔo³	ko³nduí⁵tyʔo³⁵ʔo³
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;SBJV;SG;1	kwí⁵tyʔɔ⁵³	kí⁵nduí⁵tyʔo³⁵ha³
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;SBJV;SG;2	kwí⁵tyʔoʔ⁵³	kí⁵nduí⁵tyʔo³⁵ʔu³
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;SBJV;SG;3	kwí⁵tyʔo³⁵én⁵	kí⁵nduí⁵tyʔo³⁵én⁵
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;SBJV;PL;1+INCL	kwí⁵tyʔɔ³⁵há⁵á⁵	kí⁵nduí⁵tyʔo³⁵há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;SBJV;PL;1+EXCL	kwí⁵tyʔô³¹	kí⁵nduí⁵tyʔo³⁵hâ³¹
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;SBJV;PL;3	kwí⁵tyʔo³⁵oʔ³	kí⁵nduí⁵tyʔo³⁵ʔo³
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;IRR;SG;1;FUT	n⁵nduí⁵tyʔɔ⁵³	n⁵nduí⁵tyʔo³⁵ha³
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;IRR;SG;2;FUT	n⁵nduí⁵tyʔoʔ⁵³	n⁵nduí⁵tyʔo³⁵ʔu³
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;IRR;SG;3;FUT	n⁵nduí⁵tyʔo³⁵én⁵	n⁵nduí⁵tyʔo³⁵én⁵
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;IRR;PL;1+INCL;FUT	n⁵nduí⁵tyʔɔ³⁵há⁵á	n⁵nduí⁵tyʔo³⁵há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;IRR;PL;1+EXCL;FUT	n⁵nduí⁵tyʔô³¹	n⁵nduí⁵tyʔo³⁵hâ³¹
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;IRR;PL;3;FUT	n⁵nduí⁵tyʔo³⁵ʔo³	n⁵nduí⁵tyʔo³⁵ʔo³
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;PROG;SG;1;PST	to³nduí⁵tyʔɔ⁵³	to³nduí⁵tyʔo³⁵ha³
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;PROG;SG;2;PST	to³nduí⁵tyʔoʔ⁵³	to³nduí⁵tyʔo³⁵ʔu³
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;PROG;SG;3;PST	to³nduí⁵tyʔo³⁵én⁵	to³nduí⁵tyʔo³⁵én⁵
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;PROG;PL;1+INCL;PST	to³nduí⁵tyʔɔ³⁵há⁵á	to³nduí⁵tyʔo³⁵há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;PROG;PL;1+EXCL;PST	to³nduí⁵ntyʔô³¹	to³nduí⁵tyʔo³⁵hâ³¹
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;PROG;PL;3;PST	to³nduí⁵tyʔo³⁵ʔo³	to³nduí⁵tyʔo³⁵ʔo³
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;PROG;SG;1;FUT	n⁵ngo³nduí⁵tyʔɔ⁵³	n⁵ngo³nduí⁵tyʔo³⁵ha³
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;PROG;SG;2;FUT	n⁵ngo³nduí⁵tyʔoʔ⁵³	n⁵ngo³nduí⁵tyʔo³⁵ʔu³
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;PROG;SG;3;FUT	n⁵ngo³nduí⁵tyʔo³⁵	n⁵ngo³nduí⁵tyʔo³⁵én⁵
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;PROG;PL;1+INCL;FUT	n⁵ngo³nduí⁵tyʔɔ³⁵há	n⁵ngo³nduí⁵tyʔo³⁵há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;PROG;PL;1+EXCL;FUT	n⁵ngo³nduí⁵tyʔô³¹	n⁵ngo³nduí⁵tyʔo³⁵hâ³¹
+Generate the inflected form for: n⁵nduí⁵tyʔo³⁵ V;PROG;PL;3;FUT	n⁵ngo³nduí⁵tyʔo³⁵ʔo	n⁵ngo³nduí⁵tyʔo³⁵ʔo³
+Generate the inflected form for: n⁵nduí⁵yà¹ V;PFV;SG;1;PST	tuí⁵yà¹ha³	tuí⁵yà¹ha³
+Generate the inflected form for: n⁵nduí⁵yà¹ V;PFV;SG;2;PST	tuí⁵yà¹ʔu³	tuí⁵yà¹ʔu³
+Generate the inflected form for: n⁵nduí⁵yà¹ V;PFV;SG;3;PST	tuí⁵yà¹én⁵	tuí⁵yà¹én⁵
+Generate the inflected form for: n⁵nduí⁵yà¹ V;PFV;PL;1+INCL;PST	tí⁵yà¹há⁵á⁵	tuí⁵yà¹há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵yà¹ V;PFV;PL;1+EXCL;PST	tí⁵yà¹hâ³¹	tuí⁵yà¹hâ³¹
+Generate the inflected form for: n⁵nduí⁵yà¹ V;PFV;PL;3;PST	tuí⁵yà¹ʔo³	tuí⁵yà¹ʔo³
+Generate the inflected form for: n⁵nduí⁵yà¹ V;IPFV;SG;1;PRS	bá⁵nduí⁵yà¹ha³	ko³nduí⁵yà¹ha³
+Generate the inflected form for: n⁵nduí⁵yà¹ V;IPFV;SG;2;PRS	bá⁵nduí⁵yà¹ʔu³	ko³nduí⁵yà¹ʔu³
+Generate the inflected form for: n⁵nduí⁵yà¹ V;IPFV;SG;3;PRS	bá⁵nduí⁵yà¹én⁵	ko³nduí⁵yà¹én⁵
+Generate the inflected form for: n⁵nduí⁵yà¹ V;IPFV;PL;1+INCL;PRS	bá⁵nduí⁵yà¹há⁵á⁵	ko³nduí⁵yà¹há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵yà¹ V;IPFV;PL;1+EXCL;PRS	bá⁵nduí⁵yà¹hâ³¹	ko³nduí⁵yà¹hâ³¹
+Generate the inflected form for: n⁵nduí⁵yà¹ V;IPFV;PL;3;PRS	bá⁵nduí⁵yà¹ʔo³	ko³nduí⁵yà¹ʔo³
+Generate the inflected form for: n⁵nduí⁵yà¹ V;SBJV;SG;1	kwí⁵yà¹ha³	kí⁵nduí⁵yà¹ha³
+Generate the inflected form for: n⁵nduí⁵yà¹ V;SBJV;SG;2	kwí⁵yà¹ʔu³	kí⁵nduí⁵yà¹ʔu³
+Generate the inflected form for: n⁵nduí⁵yà¹ V;SBJV;SG;3	kwí⁵yà¹én⁵	kí⁵nduí⁵yà¹én⁵
+Generate the inflected form for: n⁵nduí⁵yà¹ V;SBJV;PL;1+INCL	kwí⁵yà¹há⁵á⁵	kí⁵nduí⁵yà¹há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵yà¹ V;SBJV;PL;1+EXCL	kwí⁵yà¹hâ³¹	kí⁵nduí⁵yà¹hâ³¹
+Generate the inflected form for: n⁵nduí⁵yà¹ V;SBJV;PL;3	kwí⁵yà¹ʔo³	kí⁵nduí⁵yà¹ʔo³
+Generate the inflected form for: n⁵nduí⁵yà¹ V;IRR;SG;1;FUT	n⁵nduí⁵yà¹ha³	n⁵nduí⁵yà¹ha³
+Generate the inflected form for: n⁵nduí⁵yà¹ V;IRR;SG;2;FUT	n⁵nduí⁵yà¹ʔu³	n⁵nduí⁵yà¹ʔu³
+Generate the inflected form for: n⁵nduí⁵yà¹ V;IRR;SG;3;FUT	n⁵nduí⁵yà¹én⁵	n⁵nduí⁵yà¹én⁵
+Generate the inflected form for: n⁵nduí⁵yà¹ V;IRR;PL;1+INCL;FUT	n⁵nduí⁵yà¹há⁵á⁵	n⁵nduí⁵yà¹há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵yà¹ V;IRR;PL;1+EXCL;FUT	n⁵nduí⁵yà¹hâ³¹	n⁵nduí⁵yà¹hâ³¹
+Generate the inflected form for: n⁵nduí⁵yà¹ V;IRR;PL;3;FUT	n⁵nduí⁵yà¹ʔo³	n⁵nduí⁵yà¹ʔo³
+Generate the inflected form for: n⁵nduí⁵yà¹ V;PROG;SG;1;PST	to³nduí⁵yà¹ha³	to³nduí⁵yà¹ha³
+Generate the inflected form for: n⁵nduí⁵yà¹ V;PROG;SG;2;PST	to³nduí⁵yà¹ʔu³	to³nduí⁵yà¹ʔu³
+Generate the inflected form for: n⁵nduí⁵yà¹ V;PROG;SG;3;PST	to³nduí⁵yà¹én⁵	to³nduí⁵yà¹én⁵
+Generate the inflected form for: n⁵nduí⁵yà¹ V;PROG;PL;1+INCL;PST	to³nduí⁵yà¹há⁵á⁵	to³nduí⁵yà¹há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵yà¹ V;PROG;PL;1+EXCL;PST	to³nduí⁵yà¹hâ³¹	to³nduí⁵yà¹hâ³¹
+Generate the inflected form for: n⁵nduí⁵yà¹ V;PROG;PL;3;PST	to³nduí⁵yà¹ʔo³	to³nduí⁵yà¹ʔo³
+Generate the inflected form for: n⁵nduí⁵yà¹ V;PROG;SG;1;FUT	n⁵ngo³nduí⁵yà¹ha³	n⁵ngo³nduí⁵yà¹ha³
+Generate the inflected form for: n⁵nduí⁵yà¹ V;PROG;SG;2;FUT	n⁵ngo³nduí⁵yà¹ʔu³	n⁵ngo³nduí⁵yà¹ʔu³
+Generate the inflected form for: n⁵nduí⁵yà¹ V;PROG;SG;3;FUT	n⁵ngo³nduí⁵yà¹én⁵	n⁵ngo³nduí⁵yà¹én⁵
+Generate the inflected form for: n⁵nduí⁵yà¹ V;PROG;PL;1+INCL;FUT	n⁵ngo³nduí⁵yà¹há⁵á	n⁵ngo³nduí⁵yà¹há⁵á⁵
+Generate the inflected form for: n⁵nduí⁵yà¹ V;PROG;PL;1+EXCL;FUT	n⁵ngo³nduí⁵yà¹hâ³¹	n⁵ngo³nduí⁵yà¹hâ³¹
+Generate the inflected form for: n⁵nduí⁵yà¹ V;PROG;PL;3;FUT	n⁵ngo³nduí⁵yà¹ʔo³	n⁵ngo³nduí⁵yà¹ʔo³
+Generate the inflected form for: n⁵ndye¹² V;PFV;SG;1;PST	tye¹²ha³	hndye¹²ha³
+Generate the inflected form for: n⁵ndye¹² V;PFV;SG;2;PST	tye¹²ʔu³	hndye¹²ʔu³
+Generate the inflected form for: n⁵ndye¹² V;PFV;SG;3;PST	hndye¹²én⁵	hndye¹²én⁵
+Generate the inflected form for: n⁵ndye¹² V;PFV;PL;1+INCL;PST	tye¹²há⁵á⁵	hndye¹²há⁵á⁵
+Generate the inflected form for: n⁵ndye¹² V;PFV;PL;1+EXCL;PST	tyê³¹	hndye¹²hâ³¹
+Generate the inflected form for: n⁵ndye¹² V;PFV;PL;3;PST	tye¹²ʔo³	hndye¹²ʔo³
+Generate the inflected form for: n⁵ndye¹² V;IPFV;SG;1;PRS	ma³ndye¹²ha³	ko³ndye¹²ha³
+Generate the inflected form for: n⁵ndye¹² V;IPFV;SG;2;PRS	ma³ndye¹²ʔu³	ko³ndye¹²ʔu³
+Generate the inflected form for: n⁵ndye¹² V;IPFV;SG;3;PRS	ma³ndye¹²én⁵	ko³ndye¹²én⁵
+Generate the inflected form for: n⁵ndye¹² V;IPFV;PL;1+INCL;PRS	ko³ndye¹²há⁵á⁵	ko³ndye¹²há⁵á⁵
+Generate the inflected form for: n⁵ndye¹² V;IPFV;PL;1+EXCL;PRS	ko³ndyê³¹	ko³ndye¹²hâ³¹
+Generate the inflected form for: n⁵ndye¹² V;IPFV;PL;3;PRS	ko³ndye¹²ʔo³	ko³ndye¹²ʔo³
+Generate the inflected form for: n⁵ndye¹² V;SBJV;SG;1	ki³ndye¹²ha³	ki³ndye¹²ha³
+Generate the inflected form for: n⁵ndye¹² V;SBJV;SG;2	ki³ndye¹²ʔu³	ki³ndye¹²ʔu³
+Generate the inflected form for: n⁵ndye¹² V;SBJV;SG;3	ki³ndye¹²én⁵	ki³ndye¹²én⁵
+Generate the inflected form for: n⁵ndye¹² V;SBJV;PL;1+INCL	ki³ndye¹²há⁵á⁵	ki³ndye¹²há⁵á⁵
+Generate the inflected form for: n⁵ndye¹² V;SBJV;PL;1+EXCL	ki³ndyê³¹	ki³ndye¹²hâ³¹
+Generate the inflected form for: n⁵ndye¹² V;SBJV;PL;3	ki³ndye¹²ʔo³	ki³ndye¹²ʔo³
+Generate the inflected form for: n⁵ndye¹² V;IRR;SG;1;FUT	n⁵ndyɛ¹²ha³	n⁵ndye¹²ha³
+Generate the inflected form for: n⁵ndye¹² V;IRR;SG;2;FUT	n⁵ndye¹²ʔu³	n⁵ndye¹²ʔu³
+Generate the inflected form for: n⁵ndye¹² V;IRR;SG;3;FUT	n⁵ndye¹²én⁵	n⁵ndye¹²én⁵
+Generate the inflected form for: n⁵ndye¹² V;IRR;PL;1+INCL;FUT	n⁵ndye¹²há⁵á⁵	n⁵ndye¹²há⁵á⁵
+Generate the inflected form for: n⁵ndye¹² V;IRR;PL;1+EXCL;FUT	n⁵ndyê³¹	n⁵ndye¹²hâ³¹
+Generate the inflected form for: n⁵ndye¹² V;IRR;PL;3;FUT	n⁵ndye¹²ʔo³	n⁵ndye¹²ʔo³
+Generate the inflected form for: n⁵ndye¹² V;PROG;SG;1;PST	to³ndye¹²ha³	to³ndye¹²ha³
+Generate the inflected form for: n⁵ndye¹² V;PROG;SG;2;PST	to³ndye¹²ʔu³	to³ndye¹²ʔu³
+Generate the inflected form for: n⁵ndye¹² V;PROG;SG;3;PST	to³ndye¹²én⁵	to³ndye¹²én⁵
+Generate the inflected form for: n⁵ndye¹² V;PROG;PL;1+INCL;PST	to³ndye¹²há⁵á⁵	to³ndye¹²há⁵á⁵
+Generate the inflected form for: n⁵ndye¹² V;PROG;PL;1+EXCL;PST	to³ndyê³¹	to³ndye¹²hâ³¹
+Generate the inflected form for: n⁵ndye¹² V;PROG;PL;3;PST	to³ndye¹²ʔo³	to³ndye¹²ʔo³
+Generate the inflected form for: n⁵ndye¹² V;PROG;SG;1;FUT	n⁵ngo³ndyɛ¹²ha³	n⁵ngo³ndye¹²ha³
+Generate the inflected form for: n⁵ndye¹² V;PROG;SG;2;FUT	n⁵ngo³ndye¹²ʔu³	n⁵ngo³ndye¹²ʔu³
+Generate the inflected form for: n⁵ndye¹² V;PROG;SG;3;FUT	n⁵ngo³ndye¹²én⁵	n⁵ngo³ndye¹²én⁵
+Generate the inflected form for: n⁵ndye¹² V;PROG;PL;1+INCL;FUT	n⁵ngo³ndyɛ¹²há⁵á⁵	n⁵ngo³ndye¹²há⁵á⁵
+Generate the inflected form for: n⁵ndye¹² V;PROG;PL;1+EXCL;FUT	n⁵ngo³ndyê³¹	n⁵ngo³ndye¹²hâ³¹
+Generate the inflected form for: n⁵ndye¹² V;PROG;PL;3;FUT	n⁵ngo³ndye¹²ʔo³	n⁵ngo³ndye¹²ʔo³
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;PFV;SG;1;PST	tye¹²tzìʔ¹nʔɔ⁵³	hndye¹²tzìʔ¹nʔɔ⁵³
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;PFV;SG;2;PST	tye¹²tzìʔ¹nʔoʔ³	hndye¹²tzìʔ¹nʔòʔ¹
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;PFV;SG;3;PST	tye¹²tzìʔ¹nʔo³	hndye¹²tzìʔ¹nʔo³
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;PFV;PL;1+INCL;PST	tye¹²nʔɔ³⁴	hndye¹²ndìʔ¹nʔɔ¹²
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;PFV;PL;1+EXCL;PST	tye¹²nʔô³¹	hndye¹²ndìʔ¹nʔô³¹
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;PFV;PL;3;PST	tye¹²nʔo³oʔ³	hndye¹²ndìʔ¹nʔò¹oʔ³
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;IPFV;SG;1;PRS	ma³ndye¹²tzìʔ¹nʔɔ⁵³	ko³ndye¹²tzìʔ¹nʔɔ⁵³
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;IPFV;SG;2;PRS	ma³ndye¹²tzìʔ¹nʔoʔ³	ko³ndye¹²tzìʔ¹nʔòʔ¹
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;IPFV;SG;3;PRS	ma³ndye¹²tzìʔ¹nʔo³	ko³ndye¹²tzìʔ¹nʔo³
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;IPFV;PL;1+INCL;PRS	ko³ndye¹²nʔɔ³⁴	ko³ndye¹²ndìʔ¹nʔɔ¹²
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;IPFV;PL;1+EXCL;PRS	ko³ndyê¹²nʔô³¹	ko³ndye¹²ndìʔ¹nʔô³¹
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;IPFV;PL;3;PRS	ko³ndye¹²nʔo³oʔ³	ko³ndye¹²ndìʔ¹nʔò¹oʔ³
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;SBJV;SG;1	ki³ndye¹²tzìʔ¹nʔɔ⁵³	ki³ndye¹²tzìʔ¹nʔɔ⁵³
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;SBJV;SG;2	ki³ndye¹²tzìʔ¹nʔoʔ³	ki³ndye¹²tzìʔ¹nʔòʔ¹
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;SBJV;SG;3	ki³ndye¹²tzìʔ¹nʔo³	ki³ndye¹²tzìʔ¹nʔo³
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;SBJV;PL;1+INCL	ki³ndye¹²nʔɔ³⁴	ki³ndye¹²ndìʔ¹nʔɔ¹²
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;SBJV;PL;1+EXCL	ki³ndyê¹²tzìʔ¹nʔô³¹	ki³ndye¹²ndìʔ¹nʔô³¹
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;SBJV;PL;3	ki³ndye¹²nʔo³oʔ³	ki³ndye¹²ndìʔ¹nʔò¹oʔ³
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;IRR;SG;1;FUT	n⁵ndye¹²tzìʔ¹nʔɔ⁵³	n⁵ndye¹²tzìʔ¹nʔɔ⁵³
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;IRR;SG;2;FUT	n⁵ndye¹²tzìʔ¹nʔoʔ³	n⁵ndye¹²tzìʔ¹nʔòʔ¹
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;IRR;SG;3;FUT	n⁵ndye¹²tzìʔ¹nʔo³	n⁵ndye¹²tzìʔ¹nʔo³
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;IRR;PL;1+INCL;FUT	n⁵ndye¹²nʔɔ³⁴	n⁵ndye¹²ndìʔ¹nʔɔ¹²
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;IRR;PL;1+EXCL;FUT	n⁵ndyê¹²tzìʔ¹nʔô³¹	n⁵ndye¹²ndìʔ¹nʔô³¹
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;IRR;PL;3;FUT	n⁵ndye¹²nʔo³oʔ³	n⁵ndye¹²ndìʔ¹nʔò¹oʔ³
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;PROG;SG;1;PST	to³ndye¹²tzìʔ¹nʔɔ⁵³	to³ndye¹²tzìʔ¹nʔɔ⁵³
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;PROG;SG;2;PST	to³ndye¹²tzìʔ¹nʔoʔ³	to³ndye¹²tzìʔ¹nʔòʔ¹
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;PROG;SG;3;PST	to³ndye¹²tzìʔ¹nʔo³	to³ndye¹²tzìʔ¹nʔo³
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;PROG;PL;1+INCL;PST	to³ndye¹²nʔɔ³⁴	to³ndye¹²ndìʔ¹nʔɔ¹²
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;PROG;PL;1+EXCL;PST	to³ndyê¹²tzìʔ¹nʔô³¹	to³ndye¹²ndìʔ¹nʔô³¹
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;PROG;PL;3;PST	to³ndye¹²nʔo³oʔ³	to³ndye¹²ndìʔ¹nʔò¹oʔ³
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;PROG;SG;1;FUT	n⁵ngo³ndye¹²tzìʔ¹nʔɔ	n⁵ngo³ndye¹²tzìʔ¹nʔɔ⁵³
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;PROG;SG;2;FUT	n⁵ngo³ndye¹²tzìʔ¹nʔoʔ	n⁵ngo³ndye¹²tzìʔ¹nʔòʔ¹
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;PROG;SG;3;FUT	n⁵ngo³ndye¹²tzìʔ¹nʔo³	n⁵ngo³ndye¹²tzìʔ¹nʔo³
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;PROG;PL;1+INCL;FUT	n⁵ngo³ndye¹²tzìʔ¹nʔɔ	n⁵ngo³ndye¹²ndìʔ¹nʔɔ¹²
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;PROG;PL;1+EXCL;FUT	n⁵ngo³ndyê¹²tzìʔ¹nʔô	n⁵ngo³ndye¹²ndìʔ¹nʔô³¹
+Generate the inflected form for: n⁵ndye¹²tzìʔ¹nʔo³ V;PROG;PL;3;FUT	n⁵ngo³ndye¹²nʔo³oʔ³	n⁵ngo³ndye¹²ndìʔ¹nʔò¹oʔ³
+Generate the inflected form for: n⁵ndyeʔ¹²tzʔon³ V;PFV;SG;1;PST	tyeʔ¹²tzʔɔn⁵³	hndyeʔ¹²tzʔɔn⁵³
+Generate the inflected form for: n⁵ndyeʔ¹²tzʔon³ V;PFV;SG;2;PST	tyeʔ¹²tzʔonʔ⁵³	hndyeʔ¹²tzônʔ³¹
+Generate the inflected form for: n⁵ndyeʔ¹²tzʔon³ V;PFV;SG;3;PST	tyeʔ¹²tzʔon³	hndyeʔ¹²tzʔon³
+Generate the inflected form for: n⁵ndyeʔ¹²tzʔon³ V;PFV;PL;1+INCL;PST	tyeʔ¹²nʔɔ³⁴	hndyeʔ¹²nʔɔ³⁴
+Generate the inflected form for: n⁵ndyeʔ¹²tzʔon³ V;PFV;PL;1+EXCL;PST	tyeʔ¹²nʔô³¹	hndyeʔ¹²nʔô³¹
+Generate the inflected form for: n⁵ndyeʔ¹²tzʔon³ V;PFV;PL;3;PST	tyeʔ¹²nʔo³oʔ³	hndyeʔ¹²nʔo³oʔ³
+Generate the inflected form for: n⁵ndyeʔ¹²tzʔon³ V;IPFV;SG;1;PRS	ma³ndyeʔ¹²tzʔɔn⁵³	ko³ndyeʔ¹²tzʔɔn⁵³
+Generate the inflected form for: n⁵ndyeʔ¹²tzʔon³ V;IPFV;SG;2;PRS	ma³ndyeʔ¹²tzʔonʔ⁵³	ko³ndyeʔ¹²tzônʔ³¹
+Generate the inflected form for: n⁵ndyeʔ¹²tzʔon³ V;IPFV;SG;3;PRS	ma³ndyeʔ¹²tzʔon³	ko³ndyeʔ¹²tzʔon³
+Generate the inflected form for: n⁵ndyeʔ¹²tzʔon³ V;IPFV;PL;1+INCL;PRS	ko³ndyeʔ¹²nʔɔ³⁴	ko³ndyeʔ¹²nʔɔ³⁴
+Generate the inflected form for: n⁵ndyeʔ¹²tzʔon³ V;IPFV;PL;1+EXCL;PRS	ko³ndyêʔ¹²nʔô³¹	ko³ndyeʔ¹²nʔô³¹
+Generate the inflected form for: n⁵ndyeʔ¹²tzʔon³ V;IPFV;PL;3;PRS	ko³ndyeʔ¹²nʔo³oʔ³	ko³ndyeʔ¹²nʔo³oʔ³
+Generate the inflected form for: n⁵ndyeʔ¹²tzʔon³ V;SBJV;SG;1	ki³ndyeʔ¹²tzʔɔn⁵³	ki³ndyeʔ¹²tzʔɔn⁵³
+Generate the inflected form for: n⁵ndyeʔ¹²tzʔon³ V;SBJV;SG;2	ki³ndyeʔ¹²tzʔonʔ⁵³	ki³ndyeʔ¹²tzônʔ³¹
+Generate the inflected form for: n⁵ndyeʔ¹²tzʔon³ V;SBJV;SG;3	ki³ndyeʔ¹²tzʔon³	ki³ndyeʔ¹²tzʔon³
+Generate the inflected form for: n⁵ndyeʔ¹²tzʔon³ V;SBJV;PL;1+INCL	ki³ndyeʔ¹²nʔɔ³⁴	ki³ndyeʔ¹²nʔɔ³⁴
+Generate the inflected form for: n⁵ndyeʔ¹²tzʔon³ V;SBJV;PL;1+EXCL	ki³ndyêʔ¹²nʔô³¹	ki³ndyeʔ¹²nʔô³¹
+Generate the inflected form for: n⁵ndyeʔ¹²tzʔon³ V;SBJV;PL;3	ki³ndyeʔ¹²nʔo³oʔ³	ki³ndyeʔ¹²nʔo³oʔ³
+Generate the inflected form for: n⁵ndyeʔ¹²tzʔon³ V;IRR;SG;1;FUT	n⁵ndyeʔ¹²tzʔɔn⁵³	n⁵ndyeʔ¹²tzʔɔn⁵³
+Generate the inflected form for: n⁵ndyeʔ¹²tzʔon³ V;IRR;SG;2;FUT	n⁵ndyeʔ¹²tzʔonʔ⁵³	n⁵ndyeʔ¹²tzônʔ³¹
+Generate the inflected form for: n⁵ndyeʔ¹²tzʔon³ V;IRR;SG;3;FUT	n⁵ndyeʔ¹²tzʔon³	n⁵ndyeʔ¹²tzʔon³
+Generate the inflected form for: n⁵ndyeʔ¹²tzʔon³ V;IRR;PL;1+INCL;FUT	n⁵ndyeʔ¹²nʔɔ³⁴	n⁵ndyeʔ¹²nʔɔ³⁴
+Generate the inflected form for: n⁵ndyeʔ¹²tzʔon³ V;IRR;PL;1+EXCL;FUT	n⁵ndyêʔ¹²nʔô³¹	n⁵ndyeʔ¹²nʔô³¹
+Generate the inflected form for: n⁵ndyeʔ¹²tzʔon³ V;IRR;PL;3;FUT	n⁵ndyeʔ¹²nʔo³oʔ³	n⁵ndyeʔ¹²nʔo³oʔ³
+Generate the inflected form for: n⁵ndyeʔ¹²tzʔon³ V;PROG;SG;1;PST	to³ndyeʔ¹²tzʔɔn⁵³	to³ndyeʔ¹²tzʔɔn⁵³
+Generate the inflected form for: n⁵ndyeʔ¹²tzʔon³ V;PROG;SG;2;PST	to³ndyeʔ¹²tzʔonʔ⁵³	to³ndyeʔ¹²tzônʔ³¹
+Generate the inflected form for: n⁵ndyeʔ¹²tzʔon³ V;PROG;SG;3;PST	to³ndyeʔ¹²tzʔon³	to³ndyeʔ¹²tzʔon³
+Generate the inflected form for: n⁵ndyeʔ¹²tzʔon³ V;PROG;PL;1+INCL;PST	to³ndyeʔ¹²nʔɔ³⁴	to³ndyeʔ¹²nʔɔ³⁴
+
+Accuracy: 0.2050 (205/1000)
+Mismatches (prediction | gold):
+to³nkɛ⁵³ | to³nkɔ⁵³
+to³nkoʔ⁵³ | to³nkoʔ³
+to³nko³én⁵ | to³nko³
+to³nko³há⁵á⁵ | to³nkɔ¹²
+to³nko³oʔ³ | to³nkò¹oʔ³
