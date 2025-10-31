@@ -27,4 +27,4 @@ __pycache__/
 code/ByT5/*/checkpoint-3750/model.safetensors
 *.safetensors
 *.pt
-*backup-resultscode/ByT5/byt5-inverse-ita/checkpoint-2100/
+*backup-results
