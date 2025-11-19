@@ -161,7 +161,7 @@ def numtrailingsyms(s, symbol):
 
 def main(argv):
     options, remainder = getopt.gnu_getopt(argv[1:], 'othp:', ['output','test', 'help','path='])
-    TEST, OUTPUT, HELP, path = False,False, False, 'data/'
+    TEST, OUTPUT, HELP, path = False,False, False, 'data/unimorph/'
     for opt, arg in options:
         if opt in ('-o', '--output'):
             OUTPUT = True
@@ -176,11 +176,11 @@ def main(argv):
             print("\n*** Baseline for the SIGMORPHON 2020 shared task ***\n")
             print("By default, the program runs all languages only evaluating accuracy.")
             print("To create output files, use -o")
-            print("The training and dev-data are assumed to live in ./part1/development_languages/")
+            print("The training and dev-data are assumed to live in ./data/unimorph/")
             print("Options:")
             print(" -o         create output files with guesses (and don't just evaluate)")
             print(" -t         evaluate on test instead of dev")
-            print(" -p [path]  data files path. Default is data/")
+            print(" -p [path]  data files path. Default is data/unimorph/")
             quit()
 
     totalavg, numlang = 0.0, 0
