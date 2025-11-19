@@ -301,10 +301,21 @@ def train_and_predict_all(selected_langs=None, inverse=False, bidirectional=Fals
             train_triples = read_triples(train_file)
             dev_triples = read_triples(dev_file)
 
-            half_tr = len(train_triples) // 2
-            half_dv = len(dev_triples) // 2
-            train_data = build_forward_examples(train_triples[:half_tr]) + build_inverse_examples(train_triples[half_tr:])
-            dev_data = build_forward_examples(dev_triples[:half_dv]) + build_inverse_examples(dev_triples[half_dv:])
+            # Deterministic random sampling to select which examples become forward vs inverse.
+            # This avoids blocky / sorted splits (e.g. all verbs then all nouns) by shuffling
+            # the triples with a fixed seed and then splitting 50/50. The seed is set above
+            # for reproducibility.
+            rng = random.Random(seed)
+            # Shuffle copies so original lists remain intact if needed elsewhere
+            train_shuf = train_triples.copy()
+            dev_shuf = dev_triples.copy()
+            rng.shuffle(train_shuf)
+            rng.shuffle(dev_shuf)
+
+            half_tr = len(train_shuf) // 2
+            half_dv = len(dev_shuf) // 2
+            train_data = build_forward_examples(train_shuf[:half_tr]) + build_inverse_examples(train_shuf[half_tr:])
+            dev_data = build_forward_examples(dev_shuf[:half_dv]) + build_inverse_examples(dev_shuf[half_dv:])
 
             # Prepare both test directions
             test_fwd_inputs, test_fwd_gold = load_test_data(test_file, prompt, inverse=False)

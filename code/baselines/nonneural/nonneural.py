@@ -180,12 +180,12 @@ def main(argv):
             print("Options:")
             print(" -o         create output files with guesses (and don't just evaluate)")
             print(" -t         evaluate on test instead of dev")
-            print(" -p [path]  data files path. Default is ../data/")
+            print(" -p [path]  data files path. Default is data/")
             quit()
 
     totalavg, numlang = 0.0, 0
     #for lang in [os.path.splitext(d)[0] for d in os.listdir(path) if '.trn' in d]:
-    for lang in ["azg", "dsb"]:
+    for lang in ["dsb"]:
         allprules, allsrules = {}, {}
         if not os.path.isfile(path + lang +  ".trn"):
             continue
