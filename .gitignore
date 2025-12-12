@@ -29,3 +29,4 @@ code/ByT5/*/checkpoint-3750/model.safetensors
 *.pt
 *backup-results
 code/baselines/neural/neural-transducer-master/checkpoints/sig23/tagtransformer/*.epoch*
+.env

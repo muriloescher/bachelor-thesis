@@ -1,0 +1,33 @@
+Results for model: meta-llama/llama-3.1-8b-instruct
+============================================================
+
+
+DEV SET
+------------------------------------------------------------
+
+Inverse evaluation (lemma/MSD):
+  Lemma accuracy: 0.6040 (1733/2869)
+  Lemma mean Levenshtein distance: 2.3276
+  MSD accuracy (exact set match): 0.2091 (600/2869)
+  MSD micro-precision: 0.6989  micro-recall: 0.7349  micro-F1: 0.7165
+  Mismatches (prediction | gold):
+    derreter	V;IND;SG;3;PRS | derreter V;INF
+    atingir	V;IND;SG;3;PRS | atingir V;IND;SG;3;PST
+    querer	IND;SG;3;PRS | querer V;IND;SG;3;PRS
+    anunciar	V;IND;SG;3;PRS | anunciar V;IND;SG;3;PST
+    contém<tab>IND;SG;3;PRS | conter V;IND;SG;3;PRS
+
+TEST SET
+------------------------------------------------------------
+
+Inverse evaluation (lemma/MSD):
+  Lemma accuracy: 0.6171 (1952/3163)
+  Lemma mean Levenshtein distance: 2.3639
+  MSD accuracy (exact set match): 0.1796 (568/3163)
+  MSD micro-precision: 0.6594  micro-recall: 0.7108  micro-F1: 0.6842
+  Mismatches (prediction | gold):
+    custar	V;IND;SG;3;PRS | custar V;IND;SG;3;IPFV
+    sediar	V;IND;SG;3;PRS | sediar,sediado V;SG;PTCP
+    disse	V;IND;SG;3;PRS | dizer V;IND;SG;3;PST
+    recusar	V;IND;SG;3;PST | recusar,recusado V;SG;PTCP
+    dizer	V;PST;PL;3;PRS | dizer V;IND;PL;3;PST

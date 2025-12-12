@@ -4,7 +4,7 @@ import argparse
 import unicodedata
 import re
 
-data_path = "../data"
+data_path = "../data/ud"
 # Default (forward) prompt: lemma+features -> inflected form
 prompt = "Generate the inflected form for: {lemma} {features}"
 # Inverse prompt: inflected form -> lemma+features
@@ -493,7 +493,7 @@ def train_and_predict_all(selected_langs=None, inverse=False, bidirectional=Fals
             else:
                 evaluate(predictions, gold_forms, output_path)
 
-def predict_with_trained_models(inverse=False, bidirectional=False, selected_langs=None):
+def predict_with_trained_models(inverse=False, bidirectional=False, selected_langs=None, inverse_only=False, test_file_override=None):
     import torch
     from tqdm import tqdm
     from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
@@ -513,9 +513,17 @@ def predict_with_trained_models(inverse=False, bidirectional=False, selected_lan
     for lang in languages:
         if bidirectional and inverse:
             print("Note: --bidirectional overrides --inverse; proceeding with bidirectional predictions.")
-        mode_desc = 'bidirectional' if bidirectional else ('inverse' if inverse else 'forward')
+        if inverse_only and bidirectional:
+            mode_desc = 'bidirectional (inverse only)'
+        else:
+            mode_desc = 'bidirectional' if bidirectional else ('inverse' if inverse else 'forward')
         print(f"\nPredicting with trained model for language: {lang} ({mode_desc})")
-        test_file = os.path.join(data_path, f"{lang}.tst")
+        
+        # Use custom test file if provided, otherwise use default
+        if test_file_override:
+            test_file = test_file_override
+        else:
+            test_file = os.path.join(data_path, f"{lang}.tst")
         if bidirectional:
             test_fwd_inputs, test_fwd_gold = load_test_data(test_file, prompt, inverse=False)
             test_inv_inputs, test_inv_gold = load_test_data(test_file, inverse_prompt, inverse=True)
@@ -532,26 +540,27 @@ def predict_with_trained_models(inverse=False, bidirectional=False, selected_lan
         model = AutoModelForSeq2SeqLM.from_pretrained(model_dir).to(device)
 
         if bidirectional:
-            # Forward predictions
             batch_size = 16
-            predictions_fwd = []
-            pred_start = time.time()
-            for i in tqdm(range(0, len(test_fwd_inputs), batch_size), desc=f"Predict-{lang}-fwd", unit="batch"):
-                batch_inputs = test_fwd_inputs[i:i+batch_size]
-                inputs = tokenizer(batch_inputs, padding=True, return_tensors="pt").to(model.device)
-                with torch.no_grad():
-                    output_ids = model.generate(**inputs, max_length=32)
-                batch_preds = tokenizer.batch_decode(output_ids, skip_special_tokens=True)
-                predictions_fwd.extend(batch_preds)
-            pred_elapsed = time.time() - pred_start
-            print(f"  Prediction time (forward): {pred_elapsed:.2f} seconds")
+            # Forward predictions (skip if inverse_only is set)
+            if not inverse_only:
+                predictions_fwd = []
+                pred_start = time.time()
+                for i in tqdm(range(0, len(test_fwd_inputs), batch_size), desc=f"Predict-{lang}-fwd", unit="batch"):
+                    batch_inputs = test_fwd_inputs[i:i+batch_size]
+                    inputs = tokenizer(batch_inputs, padding=True, return_tensors="pt").to(model.device)
+                    with torch.no_grad():
+                        output_ids = model.generate(**inputs, max_length=32)
+                    batch_preds = tokenizer.batch_decode(output_ids, skip_special_tokens=True)
+                    predictions_fwd.extend(batch_preds)
+                pred_elapsed = time.time() - pred_start
+                print(f"  Prediction time (forward): {pred_elapsed:.2f} seconds")
 
-            out_fwd = f"output/predictions_{lang}_reloaded_bidir_forward.txt"
-            with open(out_fwd, "w", encoding="utf-8") as f:
-                for inp, pred, gold in zip(test_fwd_inputs, predictions_fwd, test_fwd_gold):
-                    f.write(f"{inp}\t{pred}\t{gold}\n")
-            print(f"  Saved predictions to {out_fwd}")
-            evaluate(predictions_fwd, test_fwd_gold, out_fwd)
+                out_fwd = f"output/predictions_{lang}_reloaded_bidir_forward.txt"
+                with open(out_fwd, "w", encoding="utf-8") as f:
+                    for inp, pred, gold in zip(test_fwd_inputs, predictions_fwd, test_fwd_gold):
+                        f.write(f"{inp}\t{pred}\t{gold}\n")
+                print(f"  Saved predictions to {out_fwd}")
+                evaluate(predictions_fwd, test_fwd_gold, out_fwd)
 
             # Inverse predictions
             predictions_inv = []
@@ -606,6 +615,8 @@ def main():
     parser.add_argument('--langs', type=str, help='Comma-separated list of language codes to train (e.g. eng,ita,por)')
     parser.add_argument('--inverse', action='store_true', help='Use inverse task (inflected -> lemma+features)')
     parser.add_argument('--bidirectional', action='store_true', help='Train on a 50/50 mix of forward and inverse; evaluate both directions')
+    parser.add_argument('--inverse-only', action='store_true', help='For bidirectional models: predict only inverse direction')
+    parser.add_argument('--test-file', type=str, help='Custom test file path (overrides default data/<lang>.tst)')
     parser.add_argument('--resume', action='store_true', help='Resume training from the latest checkpoint in each language dir')
     parser.add_argument('--resume-steps', type=int, help='Resume training from a specific checkpoint-<steps> in each language dir')
     args = parser.parse_args()
@@ -615,7 +626,7 @@ def main():
         train_and_predict_all(selected_langs=langs, inverse=args.inverse, bidirectional=args.bidirectional, resume=args.resume, resume_steps=args.resume_steps)
     elif args.predict:
         langs = args.langs.split(',') if args.langs else None
-        predict_with_trained_models(inverse=args.inverse, bidirectional=args.bidirectional, selected_langs=langs)
+        predict_with_trained_models(inverse=args.inverse, bidirectional=args.bidirectional, selected_langs=langs, inverse_only=args.inverse_only, test_file_override=args.test_file)
     elif args.evaluate:
         evaluate_predictions_file(args.evaluate, inverse=args.inverse)
     else:

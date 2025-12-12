@@ -1,0 +1,18 @@
+Results for model: qwen/qwen3-8b
+============================================================
+
+
+TEST SET
+------------------------------------------------------------
+
+Inverse evaluation (lemma/MSD):
+  Lemma accuracy: 0.5356 (1694/3163)
+  Lemma mean Levenshtein distance: 5.8271
+  MSD accuracy (exact set match): 0.2861 (905/3163)
+  MSD micro-precision: 0.8233  micro-recall: 0.5860  micro-F1: 0.6846
+  Mismatches (prediction | gold):
+    custar	V;IND;SG;3;IMP | custar V;IND;SG;3;IPFV
+    sediar	V;IND;F;SG;PAST | sediar,sediado V;SG;PTCP
+    disse	V;IND;SG;3;PAST | dizer V;IND;SG;3;PST
+    recusar	V;IND;SG;3;PTC | recusar,recusado V;SG;PTCP
+    ERROR | dizer V;IND;PL;3;PST
