@@ -5,9 +5,23 @@
 Explain dataset structure, with stem, lemma and inflection.
 Explain morphological features.
 
+To tackle the task of morphological inflection and analysis, we need labeled data which includes a lemma, the morphological tags and the inflected form. To this purpose, this work used two different, renownd sources: Unimorph CITE and Universal Dependencies CITE. 
+
+The data format used for training and evaluating the models followed the one from Unimorph, since it was used in the baselines and thus the start of all experiments. This format consisted of the following:
+
+lemma \textbackslash t tags \textbackslash t inflected DO PRETTY SCHEMA HERE
+
+Ex:
+
+EXAMPLE FROM SOME DATASET; ENGLISH FOR SIMPLICITY
+
 \subsection{Unimorph 4.0}
 
-Blah blah unimorph
+Unimorph is a series of datasets for a variety of languages, comprised of
+
+As mentioned at the start of the section, the data for many of the experiments closely followed the lemma tags inflected format of unimorph. 
+
+For languages which were previous tackeld by the shared task, 
 
 \subsection{Universal Dependencies}
 

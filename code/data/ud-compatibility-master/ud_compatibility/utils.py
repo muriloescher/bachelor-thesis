@@ -1,5 +1,3 @@
-from __future__ import annotations
-
 import csv
 from pathlib import Path
 from typing import Dict, FrozenSet, Iterable, NamedTuple, NewType

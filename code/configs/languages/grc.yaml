@@ -1,0 +1,18 @@
+# Greek (Ancient) Language Configuration
+language:
+  code: grc
+  name: Ancient Greek
+
+# Data paths (relative to code/ directory)
+data:
+  # UniMorph data (3 columns: lemma, features, form)
+  unimorph:
+    train: "data/unimorph/grc.trn"
+    dev: "data/unimorph/grc.dev"
+    test: "data/unimorph/grc.tst"
+  
+  # Universal Dependencies data with context (4 columns: lemma, features, form, context)
+  ud:
+    train: "data/ud/grc_verbs_context.trn"
+    dev: "data/ud/grc_verbs_context.dev"
+    test: "data/ud/grc_verbs_context.tst"

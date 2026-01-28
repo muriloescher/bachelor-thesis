@@ -1,0 +1,11 @@
+LLM Results (qwen/qwen3-8b)
+==================================================
+
+Language: kat
+Test examples: 741
+
+Results:
+  Lemma Accuracy: 0.1026
+  Lemma Mean Levenshtein: 3.4818
+  MSD Accuracy: 0.0000
+  MSD F1: 0.4636

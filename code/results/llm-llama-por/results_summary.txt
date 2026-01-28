@@ -1,0 +1,11 @@
+LLM Results (meta-llama/llama-3.1-8b-instruct)
+==================================================
+
+Language: por
+Test examples: 894
+
+Results:
+  Lemma Accuracy: 0.7886
+  Lemma Mean Levenshtein: 0.5872
+  MSD Accuracy: 0.1790
+  MSD F1: 0.5212

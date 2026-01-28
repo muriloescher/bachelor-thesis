@@ -1,0 +1,18 @@
+# Portuguese Language Configuration
+language:
+  code: por
+  name: Portuguese
+
+# Data paths (relative to code/ directory)
+data:
+  # UniMorph data (3 columns: lemma, features, form)
+  unimorph:
+    train: "data/unimorph/por.trn"
+    dev: "data/unimorph/por.dev"
+    test: "data/unimorph/por.tst"
+  
+  # Universal Dependencies data with context (4 columns: lemma, features, form, context)
+  ud:
+    train: "data/ud/por.trn"
+    dev: "data/ud/por.dev"
+    test: "data/ud/por.tst"

@@ -1,0 +1,42 @@
+# ByT5 Context-Aware Model Configuration
+model_type: byt5_context
+task: inverse  # Context-aware inverse task only
+data_source: ud  # Uses UD data (with context)
+
+# Model settings
+model_name: ByT5/byt5-bidir-{lang}/checkpoint-3750
+output_dir_template: "results/byt5-bidir-{lang}-context"
+
+# Training hyperparameters
+training:
+  per_device_train_batch_size: 8
+  per_device_eval_batch_size: 8
+  num_train_epochs: 3
+  learning_rate: 1.0e-4
+  warmup_steps: 100
+  weight_decay: 0.01
+  lr_scheduler_type: linear
+  logging_steps: 10
+  save_steps: 100
+  save_total_limit: 1
+  eval_strategy: steps
+  eval_steps: 50
+  fp16: false
+  seed: 42
+  predict_with_generate: true
+  generation_max_length: 128
+
+# Context settings
+context:
+  enabled: true
+  max_context_length: 512
+
+# Prediction settings
+prediction:
+  batch_size: 16
+  max_length: 128
+  inverse_only: true
+
+# Prompts
+prompts:
+  inverse: "Given the context: '{context}'\nGenerate the lemma and morphological tags for the inflected verb: {form}"

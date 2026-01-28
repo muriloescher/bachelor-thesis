@@ -12,6 +12,7 @@ _languages = [
     #  - The three-letter helps identify the UniMorph folder and filename.
     #  - The full name identifies the UD folder and the Translator object.
     # (ISO 693-1 (usually), ISO 693-3, English name)
+    ("am", "amh", "Amharic"),
     ("ar", "ara", "Arabic"),
     ("eu", "eus", "Basque"),
     ("bg", "bul", "Bulgarian"),

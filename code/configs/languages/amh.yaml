@@ -1,0 +1,18 @@
+# Georgian Language Configuration
+language:
+  code: amh
+  name: Amharic
+
+# Data paths (relative to code/ directory)
+data:
+  # UniMorph data (3 columns: lemma, features, form)
+  unimorph:
+    train: "data/unimorph/amh.trn"
+    dev: "data/unimorph/amh.dev"
+    test: "data/unimorph/amh.tst"
+  
+  # Universal Dependencies data with context (4 columns: lemma, features, form, context)
+  ud:
+    train: "data/ud/amh.trn"
+    dev: "data/ud/amh.dev"
+    test: "data/ud/amh.tst"

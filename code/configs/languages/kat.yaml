@@ -1,0 +1,18 @@
+# Georgian Language Configuration
+language:
+  code: kat
+  name: Georgian
+
+# Data paths (relative to code/ directory)
+data:
+  # UniMorph data (3 columns: lemma, features, form)
+  unimorph:
+    train: "data/unimorph/kat.trn"
+    dev: "data/unimorph/kat.dev"
+    test: "data/unimorph/kat.tst"
+  
+  # Universal Dependencies data with context (4 columns: lemma, features, form, context)
+  ud:
+    train: "data/ud/kat.trn"
+    dev: "data/ud/kat.dev"
+    test: "data/ud/kat.tst"

@@ -1,0 +1,28 @@
+# Example experiment configuration file
+# This shows how to configure a complete experiment run
+
+# Experiment metadata
+experiment:
+  name: "byt5-bidirectional-romance"
+  description: "ByT5 bidirectional models on Romance languages"
+  
+# Model to use
+model: byt5_bidirectional
+
+# Languages to train on
+languages:
+  - por
+  - ita
+  - eng
+
+# Actions
+actions:
+  train: true
+  predict: true
+
+# Optional overrides
+overrides:
+  training:
+    num_train_epochs: 5  # Override default 3 epochs
+  prediction:
+    inverse_only: false

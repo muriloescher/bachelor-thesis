@@ -1,0 +1,12 @@
+# Neural Baseline (Transducer) Configuration
+model_type: neural_baseline
+task: forward  # Morphological inflection
+
+# Model settings
+output_dir_template: "results/neural-baseline-{lang}"
+
+# Training settings (from neural-transducer)
+training:
+  # Add neural transducer specific settings here
+  # These will be passed to the neural-transducer scripts
+  pass_through: true  # Use existing neural-transducer implementation

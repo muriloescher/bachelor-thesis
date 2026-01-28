@@ -1,0 +1,36 @@
+{
+  "model_type": "byt5",
+  "model_name": "ByT5/byt5-bidir-por/checkpoint-3750/",
+  "language": "context",
+  "configuration": {
+    "use_context": true,
+    "epochs": 3,
+    "batch_size": 8,
+    "learning_rate": 0.0001,
+    "max_source_length": 128,
+    "seed": 42
+  },
+  "metrics": {
+    "dev": {
+      "lemma": {
+        "accuracy": 0.9833,
+        "mean_levenshtein": 0.0586
+      },
+      "msd": {
+        "accuracy": 0.931,
+        "f1": 0.9841
+      }
+    },
+    "test": {
+      "lemma": {
+        "accuracy": 0.9715,
+        "mean_levenshtein": 0.105
+      },
+      "msd": {
+        "accuracy": 0.9131,
+        "f1": 0.9782
+      }
+    }
+  },
+  "timestamp": "2025-11-26T13:23:15.194902"
+}

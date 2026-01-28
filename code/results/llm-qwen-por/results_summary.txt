@@ -1,0 +1,14 @@
+LLM Results (qwen/qwen3-8b)
+==================================================
+
+Language: por
+Test examples: 894
+Note: MSD metrics exclude FIN tag from comparison
+
+Results:
+  Lemma Accuracy: 0.7450 (666/894)
+  Lemma Mean Levenshtein: 3.1230
+  MSD Accuracy: 0.3177 (284/894)
+  MSD Micro-Precision: 0.5797
+  MSD Micro-Recall: 0.5010
+  MSD F1: 0.5375

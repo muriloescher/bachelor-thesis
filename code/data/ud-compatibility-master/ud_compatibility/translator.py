@@ -237,6 +237,11 @@ class Translator:
         return um
 
 
+class AmharicTranslator(Translator):
+    def lgspec_assert(self, cols: CoNLLRow, tags: Set[str]) -> None:
+        assert "V" in tags or "V.PTCP" in tags or "V.CVB" in tags or "V.MSDR" in tags
+
+
 class BasqueTranslator(Translator):
     def lgspec_assert(self, cols: CoNLLRow, tags: Set[str]) -> None:
         assert "V" in tags or "V.PTCP" in tags or "V.CVB" in tags or "V.MSDR" in tags
@@ -798,7 +803,5 @@ for language in languages:
         class_name = "".join(name.replace("-", "_")) + "Translator"
         translator_class = getattr(current_module, class_name)
         translators[language] = translator_class
-        # print(f"Registered {name}: {translator_class}")
     except (NameError, AttributeError) as e:
-        # print(f"No translator for {name}: {e}")
         pass

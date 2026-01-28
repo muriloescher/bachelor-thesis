@@ -1,0 +1,11 @@
+# Non-Neural Baseline Configuration
+model_type: nonneural
+data_source: unimorph  # Uses UniMorph data (no context)
+output_dir_template: "results/nonneural-{lang}"
+
+# This baseline doesn't require training
+# Predictions are made using string edit rules
+
+# Output settings
+output:
+  write_predictions: true

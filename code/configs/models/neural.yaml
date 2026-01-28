@@ -1,0 +1,20 @@
+# Neural Baseline (Transducer) Configuration
+model_type: neural_baseline
+output_dir_template: "results/neural-{lang}"
+
+# Training hyperparameters
+training:
+  epochs: 20
+  patience: 5
+  batch_size: 20
+  dropout: 0.2
+  enc_layers: 1
+  dec_layers: 1
+  enc_hidden_size: 256
+  dec_hidden_size: 256
+  embed_size: 256
+  use_attention: true
+
+# Prediction settings
+prediction:
+  beam_size: 5

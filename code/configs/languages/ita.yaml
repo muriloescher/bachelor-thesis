@@ -1,0 +1,18 @@
+# Italian Language Configuration
+language:
+  code: ita
+  name: Italian
+
+# Data paths (relative to code/ directory)
+data:
+  # UniMorph data (3 columns: lemma, features, form)
+  unimorph:
+    train: "data/unimorph/ita.trn"
+    dev: "data/unimorph/ita.dev"
+    test: "data/unimorph/ita.tst"
+  
+  # Universal Dependencies data with context (4 columns: lemma, features, form, context)
+  ud:
+    train: "data/ud/ita_verbs_context.trn"
+    dev: "data/ud/ita_verbs_context.dev"
+    test: "data/ud/ita_verbs_context.tst"
