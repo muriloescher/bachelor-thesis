@@ -1,16 +1,34 @@
 \chapter{Background}\label{chapter:background}
 
+Different models have been used in this thesis to tackle two different, but related tasks. This chapter presents both tasks, the theoretical background and functionality behind the models used, as well as explanations of linguistic concepts pertaining to the tasks.
+
 \section{Tasks}
 
-Different models have been used in this thesis to tackle the problem of morphological inflection generation. This chapter presents the theoretical background of the models used, as well as some related concepts.
+This thesis tackles two related problems, which can be seen as the opposite linguistic operation of one another. Both challenges, presented in the following two subsections, relate to the operation of applying a set of linguistic transformations on top of a base form of a word to achieve an inflected form.
+
+A lemma, commonly known as root, represents the base form of a word (BETTER DEFINITION). This base form is subject to different transformations, comprised of different categories of change. These can be, amongst other, related to mood, aspect, tense, case, number and person. To represent these transformations, a list of morphological features is used, in this work commonly referred to as morphological tags. This list of features can then be applied on some lemma, resulting in the inflected form.
+
+This thesis addresses two closely related problems that can be viewed as inverse linguistic operations. Both tasks, introduced in the following subsections, involve applying a set of linguistic transformations to a base form of a word in order to produce an inflected form.
+
+A lemma, commonly referred to as the root or canonical form, denotes the base representation of a word. This base form can undergo various transformations belonging to different grammatical categories, including mood, aspect, tense, case, number, and person. These transformations are represented as a collection of morphological features, which in this work are referred to as \emph{morphological tags}. Applying a specific set of such features to a lemma yields the corresponding inflected form.
+
 
 \subsection{Morphological Inflection}
 
-Blah inflection
+Morphological inflection is the direct form of the operation, that is, the application of the morphological features onto the lemma. This task has been studied by many different works.
+
+An example of this task can be seen in MAKE FIGURE
+
+This topic is not only relevant to pure linguistic research, but also presents tangible real-world benefits in computation applications. Mostly due to the fact that, starting from a lemma, given the necessary understanding of the context and the corresponding morphological features that would need to be applied, it is possible to generate different inflected forms of various base forms. This represents a clear advantage in the reduced necessity of saving different word variations, lowering the memory requirements for a dictionary of words present in an application.
+
 
 \subsection{Morphological Analysis}
 
-Blah analysis
+Morphological analysis can be seen as the reverse operation to morphological inflection. It consists in taking an inflected form of some word and separating it into lemma and morphological features.
+
+An example of morphological analysis can be seen in FIGURE CITE
+
+This task PRESENT USE-CASES FOR THIS; WHICH MIGHT NOT BE CLEAR; GOTTA READ
 
 \section{Inflection Baselines}
 

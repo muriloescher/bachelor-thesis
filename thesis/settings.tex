@@ -9,12 +9,15 @@
 \usepackage[%
   backend=biber,
   url=false,
-  style=alphabetic,
-  maxnames=4,
-  minnames=3,
+  style=authoryear,
+  citestyle=authoryear,
+  maxcitenames=2,
+  mincitenames=1,
   maxbibnames=99,
   giveninits,
-  uniquename=init]{biblatex} % TODO: adapt citation style
+  uniquename=init,
+  hyperref=true]{biblatex} % TODO: adapt citation style
+\renewcommand*{\nameyeardelim}{\addcomma\space}
 \usepackage{graphicx}
 \usepackage{scrhack} % necessary for listings package
 \usepackage{listings}
