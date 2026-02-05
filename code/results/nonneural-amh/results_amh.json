@@ -1,0 +1,13 @@
+{
+  "model_type": "nonneural",
+  "model_name": "nonneural-baseline",
+  "language": "amh",
+  "metrics": {
+    "test": {
+      "accuracy": 0.322,
+      "correct": 322,
+      "total": 1000
+    }
+  },
+  "timestamp": "2026-02-05T23:38:33.691912"
+}

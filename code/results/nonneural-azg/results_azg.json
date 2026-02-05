@@ -1,0 +1,13 @@
+{
+  "model_type": "nonneural",
+  "model_name": "nonneural-baseline",
+  "language": "azg",
+  "metrics": {
+    "test": {
+      "accuracy": 0.088,
+      "correct": 88,
+      "total": 1000
+    }
+  },
+  "timestamp": "2026-02-05T23:39:14.212634"
+}

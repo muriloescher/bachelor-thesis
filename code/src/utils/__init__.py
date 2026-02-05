@@ -14,7 +14,9 @@ from .save_results import (
     save_results_json,
     append_to_central_csv,
     save_llm_results,
-    save_byt5_results
+    save_byt5_results,
+    save_nonneural_results,
+    save_neural_results
 )
 
 __all__ = [
@@ -28,5 +30,7 @@ __all__ = [
     'save_results_json',
     'append_to_central_csv',
     'save_llm_results',
-    'save_byt5_results'
+    'save_byt5_results',
+    'save_nonneural_results',
+    'save_neural_results'
 ]

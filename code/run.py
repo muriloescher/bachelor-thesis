@@ -32,6 +32,8 @@ def load_config(config_type, name):
 
 def run_byt5(model_config, lang_config, args):
     """Run ByT5 model training/prediction."""
+    import gc
+    import torch
     from src.models.byt5 import ByT5Model
     
     model = ByT5Model(model_config, lang_config)
@@ -44,6 +46,12 @@ def run_byt5(model_config, lang_config, args):
         if hasattr(args, 'inverse_only') and args.inverse_only:
             inverse_only = True
         model.predict(checkpoint=args.checkpoint, inverse_only=inverse_only)
+    
+    # Clean up memory to prevent leaks across multiple languages
+    del model
+    if torch.cuda.is_available():
+        torch.cuda.empty_cache()
+    gc.collect()
 
 
 def run_llm(model_config, lang_config, args):
@@ -88,9 +96,10 @@ def run_neural(model_config, lang_config, args):
 MODEL_RUNNERS = {
     'byt5': run_byt5,
     'byt5_context': run_byt5,
-    'llm': run_llm,
+    'llm_llama': run_llm,
+    'llm_qwen': run_llm,
     'nonneural': run_nonneural,
-    'neural_baseline': run_neural
+    'neural': run_neural
 }
 
 
@@ -121,7 +130,7 @@ Examples:
     )
     
     parser.add_argument('--model',
-                       help='Model config name (e.g., byt5_forward, byt5_inverse, byt5_bidirectional, byt5_context, llm, nonneural, neural_baseline)')
+                       help='Model config name (e.g., byt5_forward, byt5_inverse, byt5_bidirectional, byt5_context, llm_llama, llm_qwen, nonneural, neural)')
     parser.add_argument('--language',
                        help='Language code(s), comma-separated (e.g., por or por,eng,ita)')
     parser.add_argument('--train', action='store_true',

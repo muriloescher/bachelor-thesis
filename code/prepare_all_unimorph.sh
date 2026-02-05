@@ -1,0 +1,1 @@
+for lang in por eng ita amh grc kat azg dsb; do python3 prepare_unimorph_data.py $lang data/unimorph/original/$lang; done

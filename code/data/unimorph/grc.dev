@@ -1,1000 +1,1000 @@
-Πελασγός	N;ACC(DU)	Πελασγώ
-Πελασγός	N;ACC(PL)	Πελασγούς
-Πελασγός	N;ACC(SG)	Πελασγόν
-Πελασγός	N;DAT(DU)	Πελασγοῖν
-Πελασγός	N;DAT(PL)	Πελασγοῖς
-Πελασγός	N;DAT(SG)	Πελασγῷ
-Πελασγός	N;GEN(DU)	Πελασγοῖν
-Πελασγός	N;GEN(PL)	Πελασγῶν
-Πελασγός	N;GEN(SG)	Πελασγοῦ
-Πελασγός	N;NOM(DU)	Πελασγώ
-Πελασγός	N;NOM(PL)	Πελασγοί
-Πελασγός	N;NOM(SG)	Πελασγός
-Πελασγός	N;VOC(DU)	Πελασγώ
-Πελασγός	N;VOC(PL)	Πελασγοί
-Πελασγός	N;VOC(SG)	Πελασγέ
-Χριστεπώνυμος	ADJ;ACC(DU;FEM)	Χριστεπωνύμω
-Χριστεπώνυμος	ADJ;ACC(PL;FEM)	Χριστεπωνύμους
-Χριστεπώνυμος	ADJ;ACC(PL;MASC)	Χριστεπωνύμους
-Χριστεπώνυμος	ADJ;ACC(PL;NEUT)	Χριστεπώνυμα
-Χριστεπώνυμος	ADJ;ACC(SG;FEM)	Χριστεπώνυμον
-Χριστεπώνυμος	ADJ;ACC(SG;MASC)	Χριστεπώνυμον
-Χριστεπώνυμος	ADJ;ACC(SG;NEUT)	Χριστεπώνυμον
-Χριστεπώνυμος	ADJ;DAT(PL;MASC)	Χριστεπωνύμοις
-Χριστεπώνυμος	ADJ;DAT(PL;NEUT)	Χριστεπωνύμοις
-Χριστεπώνυμος	ADJ;DAT(SG;FEM)	Χριστεπωνύμῳ
-Χριστεπώνυμος	ADJ;GEN(DU;FEM)	Χριστεπωνύμοιν
-Χριστεπώνυμος	ADJ;GEN(DU;MASC)	Χριστεπωνύμοιν
-Χριστεπώνυμος	ADJ;GEN(PL;FEM)	Χριστεπωνύμων
-Χριστεπώνυμος	ADJ;GEN(PL;MASC)	Χριστεπωνύμων
-Χριστεπώνυμος	ADJ;GEN(SG;FEM)	Χριστεπωνύμου
-Χριστεπώνυμος	ADJ;GEN(SG;NEUT)	Χριστεπωνύμου
-Χριστεπώνυμος	ADJ;NOM(DU;FEM)	Χριστεπωνύμω
-Χριστεπώνυμος	ADJ;NOM(DU;NEUT)	Χριστεπωνύμω
-Χριστεπώνυμος	ADJ;NOM(PL;MASC)	Χριστεπώνυμοι
-Χριστεπώνυμος	ADJ;NOM(SG;FEM)	Χριστεπώνυμος
-Χριστεπώνυμος	ADJ;VOC(DU;FEM)	Χριστεπωνύμω
-Χριστεπώνυμος	ADJ;VOC(DU;NEUT)	Χριστεπωνύμω
-Χριστεπώνυμος	ADJ;VOC(PL;FEM)	Χριστεπώνυμοι
-Χριστεπώνυμος	ADJ;VOC(PL;MASC)	Χριστεπώνυμοι
-Χριστεπώνυμος	ADJ;VOC(PL;NEUT)	Χριστεπώνυμα
-Χριστεπώνυμος	ADJ;VOC(SG;MASC)	Χριστεπώνυμε
-βοή	N;ACC(DU)	βοᾱ́
-βοή	N;ACC(PL)	βοᾱ́ς
-βοή	N;ACC(SG)	βοήν
-βοή	N;DAT(DU)	βοαῖν
-βοή	N;DAT(PL)	βοαῖς
-βοή	N;DAT(SG)	βοῇ
-βοή	N;GEN(DU)	βοαῖν
-βοή	N;GEN(PL)	βοῶν
-βοή	N;GEN(SG)	βοῆς
-βοή	N;NOM(DU)	βοᾱ́
-βοή	N;NOM(PL)	βοαί
-βοή	N;NOM(SG)	βοή
-βοή	N;VOC(DU)	βοᾱ́
-βοή	N;VOC(PL)	βοαί
-βοή	N;VOC(SG)	βοή
-γρύψ	N;ACC(DU)	γρῦπε
-γρύψ	N;ACC(PL)	γρῦπᾰς
-γρύψ	N;ACC(SG)	γρῦπᾰ
-γρύψ	N;DAT(DU)	γρῡποῖν
-γρύψ	N;DAT(PL)	γρῡψῐ́
-γρύψ	N;DAT(SG)	γρῡπῐ́
-γρύψ	N;GEN(DU)	γρῡποῖν
-γρύψ	N;GEN(PL)	γρῡπῶν
-γρύψ	N;GEN(SG)	γρῡπός
-γρύψ	N;NOM(DU)	γρῦπε
-γρύψ	N;NOM(PL)	γρῦπες
-γρύψ	N;NOM(SG)	γρῡ́ψ
-γρύψ	N;VOC(DU)	γρῦπε
-γρύψ	N;VOC(PL)	γρῦπες
-γρύψ	N;VOC(SG)	γρῡ́ψ
-δῶρον	N;ACC(DU)	δώρω
-δῶρον	N;ACC(PL)	δῶρᾰ
-δῶρον	N;ACC(SG)	δῶρον
-δῶρον	N;DAT(DU)	δώροιν
-δῶρον	N;DAT(PL)	δώροις
-δῶρον	N;DAT(SG)	δώρῳ
-δῶρον	N;GEN(DU)	δώροιν
-δῶρον	N;GEN(PL)	δώρων
-δῶρον	N;GEN(SG)	δώρου
-δῶρον	N;NOM(DU)	δώρω
-δῶρον	N;NOM(PL)	δῶρᾰ
-δῶρον	N;NOM(SG)	δῶρον
-δῶρον	N;VOC(DU)	δώρω
-δῶρον	N;VOC(PL)	δῶρᾰ
-δῶρον	N;VOC(SG)	δῶρον
-εὔνοια	N;ACC(DU)	εὐνοίᾱ
-εὔνοια	N;ACC(PL)	εὐνοίᾱς
-εὔνοια	N;ACC(SG)	εὔνοιᾰν
-εὔνοια	N;DAT(DU)	εὐνοίαιν
-εὔνοια	N;DAT(PL)	εὐνοίαις
-εὔνοια	N;DAT(SG)	εὐνοίᾳ
-εὔνοια	N;GEN(DU)	εὐνοίαιν
-εὔνοια	N;GEN(PL)	εὐνοιῶν
-εὔνοια	N;GEN(SG)	εὐνοίᾱς
-εὔνοια	N;NOM(DU)	εὐνοίᾱ
-εὔνοια	N;NOM(PL)	εὔνοιαι
-εὔνοια	N;NOM(SG)	εὔνοιᾰ
-εὔνοια	N;VOC(DU)	εὐνοίᾱ
-εὔνοια	N;VOC(PL)	εὔνοιαι
-εὔνοια	N;VOC(SG)	εὔνοιᾰ
-θήκη	N;ACC(DU)	θήκᾱ
-θήκη	N;ACC(PL)	θήκᾱς
-θήκη	N;ACC(SG)	θήκην
-θήκη	N;DAT(DU)	θήκαιν
-θήκη	N;DAT(PL)	θήκαις
-θήκη	N;DAT(SG)	θήκῃ
-θήκη	N;GEN(DU)	θήκαιν
-θήκη	N;GEN(PL)	θηκῶν
-θήκη	N;GEN(SG)	θήκης
-θήκη	N;NOM(DU)	θήκᾱ
-θήκη	N;NOM(PL)	θῆκαι
-θήκη	N;VOC(DU)	θήκᾱ
-θήκη	N;VOC(PL)	θῆκαι
-θήκη	N;VOC(SG)	θήκη
-κάμμαρος	N;ACC(DU)	κᾰμμᾰ́ρω
-κάμμαρος	N;ACC(PL)	κᾰμμᾰ́ρους
-κάμμαρος	N;ACC(SG)	κᾰ́μμᾰρον
-κάμμαρος	N;DAT(DU)	κᾰμμᾰ́ροιν
-κάμμαρος	N;DAT(PL)	κᾰμμᾰ́ροις
-κάμμαρος	N;DAT(SG)	κᾰμμᾰ́ρῳ
-κάμμαρος	N;GEN(DU)	κᾰμμᾰ́ροιν
-κάμμαρος	N;GEN(PL)	κᾰμμᾰ́ρων
-κάμμαρος	N;GEN(SG)	κᾰμμᾰ́ρου
-κάμμαρος	N;NOM(DU)	κᾰμμᾰ́ρω
-κάμμαρος	N;NOM(PL)	κᾰ́μμᾰροι
-κάμμαρος	N;NOM(SG)	κᾰ́μμᾰρος
-κάμμαρος	N;VOC(DU)	κᾰμμᾰ́ρω
-κάμμαρος	N;VOC(PL)	κᾰ́μμᾰροι
-κάμμαρος	N;VOC(SG)	κᾰ́μμᾰρε
-κάναστρον	N;ACC(DU)	κᾰνᾰ́στρω
-κάναστρον	N;ACC(PL)	κᾰ́νᾰστρᾰ
-κάναστρον	N;ACC(SG)	κᾰ́νᾰστρον
-κάναστρον	N;DAT(DU)	κᾰνᾰ́στροιν
-κάναστρον	N;DAT(PL)	κᾰνᾰ́στροις
-κάναστρον	N;DAT(SG)	κᾰνᾰ́στρῳ
-κάναστρον	N;GEN(DU)	κᾰνᾰ́στροιν
-κάναστρον	N;GEN(PL)	κᾰνᾰ́στρων
-κάναστρον	N;GEN(SG)	κᾰνᾰ́στρου
-κάναστρον	N;NOM(DU)	κᾰνᾰ́στρω
-κάναστρον	N;NOM(PL)	κᾰ́νᾰστρᾰ
-κάναστρον	N;NOM(SG)	κᾰ́νᾰστρον
-κάναστρον	N;VOC(DU)	κᾰνᾰ́στρω
-κάναστρον	N;VOC(PL)	κᾰ́νᾰστρᾰ
-κάναστρον	N;VOC(SG)	κᾰ́νᾰστρον
-κατάχρησις	N;ACC(DU)	κᾰτᾰχρήσει
-κατάχρησις	N;ACC(PL)	κᾰτᾰχρήσεις
-κατάχρησις	N;ACC(SG)	κᾰτᾰ́χρησῐν
-κατάχρησις	N;DAT(DU)	κᾰτᾰχρησέοιν
-κατάχρησις	N;DAT(PL)	κᾰτᾰχρήσεσῐ(ν)
-κατάχρησις	N;DAT(SG)	κᾰτᾰχρήσει
-κατάχρησις	N;GEN(DU)	κᾰτᾰχρησέοιν
-κατάχρησις	N;GEN(PL)	κᾰτᾰχρήσεων
-κατάχρησις	N;GEN(SG)	κᾰτᾰχρήσεως
-κατάχρησις	N;NOM(DU)	κᾰτᾰχρήσει
-κατάχρησις	N;NOM(PL)	κᾰτᾰχρήσεις
-κατάχρησις	N;NOM(SG)	κᾰτᾰ́χρησῐς
-κατάχρησις	N;VOC(DU)	κᾰτᾰχρήσει
-κατάχρησις	N;VOC(PL)	κᾰτᾰχρήσεις
-κατάχρησις	N;VOC(SG)	κᾰτᾰ́χρησῐ
-κορωνίς	N;ACC(DU)	κορωνῐ́δε
-κορωνίς	N;ACC(PL)	κορωνῐ́δᾰς
-κορωνίς	N;ACC(SG)	κορωνίν
-κορωνίς	N;DAT(DU)	κορωνῐ́δοιν
-κορωνίς	N;DAT(PL)	κορωνῐ́σῐ(ν)
-κορωνίς	N;DAT(SG)	κορωνῐ́δῐ
-κορωνίς	N;GEN(DU)	κορωνῐ́δοιν
-κορωνίς	N;GEN(PL)	κορωνῐ́δων
-κορωνίς	N;GEN(SG)	κορωνῐ́δος
-κορωνίς	N;NOM(DU)	κορωνῐ́δε
-κορωνίς	N;NOM(PL)	κορωνῐ́δες
-κορωνίς	N;NOM(SG)	κορωνῐ́ς
-κορωνίς	N;VOC(DU)	κορωνῐ́δε
-κορωνίς	N;VOC(PL)	κορωνῐ́δες
-κορωνίς	N;VOC(SG)	κορωνῐ́
-λιμήν	N;ACC(DU)	λῐμένε
-λιμήν	N;ACC(PL)	λῐμένᾰς
-λιμήν	N;ACC(SG)	λῐμένᾰ
-λιμήν	N;DAT(DU)	λῐμένοιν
-λιμήν	N;DAT(PL)	λῐμέσῐ
-λιμήν	N;DAT(SG)	λῐμένῐ
-λιμήν	N;GEN(DU)	λῐμένοιν
-λιμήν	N;GEN(PL)	λῐμένων
-λιμήν	N;GEN(SG)	λῐμένος
-λιμήν	N;NOM(DU)	λῐμένε
-λιμήν	N;NOM(PL)	λῐμένες
-λιμήν	N;NOM(SG)	λῐμήν
-λιμήν	N;VOC(DU)	λῐμένε
-λιμήν	N;VOC(PL)	λῐμένες
-λιμήν	N;VOC(SG)	λῐμήν
-μόρφωσις	N;ACC(DU)	μορφώσει
-μόρφωσις	N;ACC(PL)	μορφώσεις
-μόρφωσις	N;ACC(SG)	μόρφωσῐν
-μόρφωσις	N;DAT(DU)	μορφωσέοιν
-μόρφωσις	N;DAT(PL)	μορφώσεσῐ(ν)
-μόρφωσις	N;DAT(SG)	μορφώσει
-μόρφωσις	N;GEN(DU)	μορφωσέοιν
-μόρφωσις	N;GEN(PL)	μορφώσεων
-μόρφωσις	N;GEN(SG)	μορφώσεως
-μόρφωσις	N;NOM(DU)	μορφώσει
-μόρφωσις	N;NOM(PL)	μορφώσεις
-μόρφωσις	N;NOM(SG)	μόρφωσῐς
-μόρφωσις	N;VOC(DU)	μορφώσει
-μόρφωσις	N;VOC(PL)	μορφώσεις
-μόρφωσις	N;VOC(SG)	μόρφωσῐ
-νοῦθος	N;ACC(DU)	νούθω
-νοῦθος	N;ACC(PL)	νούθους
-νοῦθος	N;ACC(SG)	νοῦθον
-νοῦθος	N;DAT(DU)	νούθοιν
-νοῦθος	N;DAT(PL)	νούθοις
-νοῦθος	N;DAT(SG)	νούθῳ
-νοῦθος	N;GEN(DU)	νούθοιν
-νοῦθος	N;GEN(PL)	νούθων
-νοῦθος	N;GEN(SG)	νούθου
-νοῦθος	N;NOM(DU)	νούθω
-νοῦθος	N;NOM(PL)	νοῦθοι
-νοῦθος	N;NOM(SG)	νοῦθος
-νοῦθος	N;VOC(DU)	νούθω
-νοῦθος	N;VOC(PL)	νοῦθοι
-νοῦθος	N;VOC(SG)	νοῦθε
-ξυλικός	ADJ;ACC(DU;FEM)	ξῠλῐκᾱ́
-ξυλικός	ADJ;ACC(DU;MASC)	ξῠλῐκώ
-ξυλικός	ADJ;ACC(DU;NEUT)	ξῠλῐκώ
-ξυλικός	ADJ;ACC(PL;FEM)	ξῠλῐκᾱ́ς
-ξυλικός	ADJ;ACC(PL;NEUT)	ξῠλῐκᾰ́
-ξυλικός	ADJ;ACC(SG;NEUT)	ξῠλῐκόν
-ξυλικός	ADJ;DAT(PL;FEM)	ξῠλῐκαῖς
-ξυλικός	ADJ;DAT(PL;NEUT)	ξῠλῐκοῖς
-ξυλικός	ADJ;DAT(SG;FEM)	ξῠλῐκῇ
-ξυλικός	ADJ;DAT(SG;NEUT)	ξῠλῐκῷ
-ξυλικός	ADJ;GEN(DU;FEM)	ξῠλῐκαῖν
-ξυλικός	ADJ;GEN(DU;MASC)	ξῠλῐκοῖν
-ξυλικός	ADJ;GEN(PL;NEUT)	ξῠλῐκῶν
-ξυλικός	ADJ;GEN(SG;NEUT)	ξῠλῐκοῦ
-ξυλικός	ADJ;NOM(DU;FEM)	ξῠλῐκᾱ́
-ξυλικός	ADJ;NOM(DU;MASC)	ξῠλῐκώ
-ξυλικός	ADJ;NOM(DU;NEUT)	ξῠλῐκώ
-ξυλικός	ADJ;NOM(PL;MASC)	ξῠλῐκοί
-ξυλικός	ADJ;NOM(PL;NEUT)	ξῠλῐκᾰ́
-ξυλικός	ADJ;NOM(SG;FEM)	ξῠλῐκή
-ξυλικός	ADJ;NOM(SG;MASC)	ξῠλῐκός
-ξυλικός	ADJ;VOC(DU;FEM)	ξῠλῐκᾱ́
-ξυλικός	ADJ;VOC(DU;MASC)	ξῠλῐκώ
-ξυλικός	ADJ;VOC(DU;NEUT)	ξῠλῐκώ
-ξυλικός	ADJ;VOC(PL;FEM)	ξῠλῐκαί
-ξυλικός	ADJ;VOC(PL;MASC)	ξῠλῐκοί
-παιδαγωγικός	ADJ;ACC(DU;NEUT)	παιδαγωγικώ
-παιδαγωγικός	ADJ;ACC(PL;FEM)	παιδαγωγικᾱ́ς
-παιδαγωγικός	ADJ;ACC(PL;NEUT)	παιδαγωγικᾰ́
-παιδαγωγικός	ADJ;ACC(SG;FEM)	παιδαγωγικήν
-παιδαγωγικός	ADJ;DAT(DU;FEM)	παιδαγωγικαῖν
-παιδαγωγικός	ADJ;DAT(DU;MASC)	παιδαγωγικοῖν
-παιδαγωγικός	ADJ;DAT(DU;NEUT)	παιδαγωγικοῖν
-παιδαγωγικός	ADJ;DAT(PL;FEM)	παιδαγωγικαῖς
-παιδαγωγικός	ADJ;DAT(SG;FEM)	παιδαγωγικῇ
-παιδαγωγικός	ADJ;DAT(SG;MASC)	παιδαγωγικῷ
-παιδαγωγικός	ADJ;GEN(DU;MASC)	παιδαγωγικοῖν
-παιδαγωγικός	ADJ;GEN(DU;NEUT)	παιδαγωγικοῖν
-παιδαγωγικός	ADJ;GEN(PL;MASC)	παιδαγωγικῶν
-παιδαγωγικός	ADJ;GEN(PL;NEUT)	παιδαγωγικῶν
-παιδαγωγικός	ADJ;GEN(SG;FEM)	παιδαγωγικῆς
-παιδαγωγικός	ADJ;GEN(SG;NEUT)	παιδαγωγικοῦ
-παιδαγωγικός	ADJ;NOM(DU;MASC)	παιδαγωγικώ
-παιδαγωγικός	ADJ;NOM(DU;NEUT)	παιδαγωγικώ
-παιδαγωγικός	ADJ;NOM(PL;MASC)	παιδαγωγικοί
-παιδαγωγικός	ADJ;NOM(SG;MASC)	παιδαγωγικός
-παιδαγωγικός	ADJ;NOM(SG;NEUT)	παιδαγωγικόν
-παιδαγωγικός	ADJ;VOC(DU;FEM)	παιδαγωγικᾱ́
-παιδαγωγικός	ADJ;VOC(DU;MASC)	παιδαγωγικώ
-παιδαγωγικός	ADJ;VOC(PL;NEUT)	παιδαγωγικᾰ́
-παιδαγωγικός	ADJ;VOC(SG;MASC)	παιδαγωγικέ
-παιδαγωγικός	ADJ;VOC(SG;NEUT)	παιδαγωγικόν
-πανδοχεῖον	N;ACC(DU)	πανδοχείω
-πανδοχεῖον	N;ACC(PL)	πανδοχεῖᾰ
-πανδοχεῖον	N;ACC(SG)	πανδοχεῖον
-πανδοχεῖον	N;DAT(DU)	πανδοχείοιν
-πανδοχεῖον	N;DAT(PL)	πανδοχείοις
-πανδοχεῖον	N;DAT(SG)	πανδοχείῳ
-πανδοχεῖον	N;GEN(DU)	πανδοχείοιν
-πανδοχεῖον	N;GEN(PL)	πανδοχείων
-πανδοχεῖον	N;GEN(SG)	πανδοχείου
-πανδοχεῖον	N;NOM(DU)	πανδοχείω
-πανδοχεῖον	N;NOM(PL)	πανδοχεῖᾰ
-πανδοχεῖον	N;NOM(SG)	πανδοχεῖον
-πανδοχεῖον	N;VOC(DU)	πανδοχείω
-πανδοχεῖον	N;VOC(PL)	πανδοχεῖᾰ
-πανδοχεῖον	N;VOC(SG)	πανδοχεῖον
-παρώνυμον	N;ACC(DU)	πᾰρωνῠ́μω
-παρώνυμον	N;ACC(PL)	πᾰρώνῠμᾰ
-παρώνυμον	N;ACC(SG)	πᾰρώνῠμον
-παρώνυμον	N;DAT(DU)	πᾰρωνῠ́μοιν
-παρώνυμον	N;DAT(PL)	πᾰρωνῠ́μοις
-παρώνυμον	N;DAT(SG)	πᾰρωνῠ́μῳ
-παρώνυμον	N;GEN(DU)	πᾰρωνῠ́μοιν
-παρώνυμον	N;GEN(PL)	πᾰρωνῠ́μων
-παρώνυμον	N;GEN(SG)	πᾰρωνῠ́μου
-παρώνυμον	N;NOM(DU)	πᾰρωνῠ́μω
-παρώνυμον	N;NOM(PL)	πᾰρώνῠμᾰ
-παρώνυμον	N;NOM(SG)	πᾰρώνῠμον
-παρώνυμον	N;VOC(DU)	πᾰρωνῠ́μω
-παρώνυμον	N;VOC(PL)	πᾰρώνῠμᾰ
-παρώνυμον	N;VOC(SG)	πᾰρώνῠμον
-πελιδνός	ADJ;ACC(DU;MASC)	πελιδνώ
-πελιδνός	ADJ;ACC(DU;NEUT)	πελιδνώ
-πελιδνός	ADJ;ACC(PL;FEM)	πελιδνᾱ́ς
-πελιδνός	ADJ;ACC(PL;MASC)	πελιδνούς
-πελιδνός	ADJ;ACC(PL;NEUT)	πελιδνᾰ́
-πελιδνός	ADJ;DAT(DU;FEM)	πελιδναῖν
-πελιδνός	ADJ;DAT(DU;NEUT)	πελιδνοῖν
-πελιδνός	ADJ;DAT(PL;FEM)	πελιδναῖς
-πελιδνός	ADJ;DAT(PL;NEUT)	πελιδνοῖς
-πελιδνός	ADJ;DAT(SG;FEM)	πελιδνῇ
-πελιδνός	ADJ;DAT(SG;MASC)	πελιδνῷ
-πελιδνός	ADJ;GEN(DU;FEM)	πελιδναῖν
-πελιδνός	ADJ;GEN(DU;NEUT)	πελιδνοῖν
-πελιδνός	ADJ;GEN(PL;FEM)	πελιδνῶν
-πελιδνός	ADJ;GEN(SG;MASC)	πελιδνοῦ
-πελιδνός	ADJ;GEN(SG;NEUT)	πελιδνοῦ
-πελιδνός	ADJ;NOM(DU;FEM)	πελιδνᾱ́
-πελιδνός	ADJ;NOM(DU;NEUT)	πελιδνώ
-πελιδνός	ADJ;NOM(PL;NEUT)	πελιδνᾰ́
-πελιδνός	ADJ;NOM(SG;FEM)	πελιδνή
-πελιδνός	ADJ;NOM(SG;NEUT)	πελιδνόν
-πελιδνός	ADJ;VOC(DU;FEM)	πελιδνᾱ́
-πελιδνός	ADJ;VOC(DU;NEUT)	πελιδνώ
-πελιδνός	ADJ;VOC(PL;FEM)	πελιδναί
-πελιδνός	ADJ;VOC(PL;MASC)	πελιδνοί
-πελιδνός	ADJ;VOC(SG;NEUT)	πελιδνόν
-πλαστικός	ADJ;ACC(DU;NEUT)	πλαστικώ
-πλαστικός	ADJ;ACC(SG;NEUT)	πλαστικόν
-πλαστικός	ADJ;DAT(DU;FEM)	πλαστικαῖν
-πλαστικός	ADJ;DAT(DU;MASC)	πλαστικοῖν
-πλαστικός	ADJ;DAT(PL;FEM)	πλαστικαῖς
-πλαστικός	ADJ;DAT(PL;NEUT)	πλαστικοῖς
-πλαστικός	ADJ;DAT(SG;FEM)	πλαστικῇ
-πλαστικός	ADJ;DAT(SG;NEUT)	πλαστικῷ
-πλαστικός	ADJ;GEN(DU;FEM)	πλαστικαῖν
-πλαστικός	ADJ;GEN(DU;MASC)	πλαστικοῖν
-πλαστικός	ADJ;GEN(DU;NEUT)	πλαστικοῖν
-πλαστικός	ADJ;GEN(PL;FEM)	πλαστικῶν
-πλαστικός	ADJ;GEN(PL;NEUT)	πλαστικῶν
-πλαστικός	ADJ;GEN(SG;FEM)	πλαστικῆς
-πλαστικός	ADJ;GEN(SG;NEUT)	πλαστικοῦ
-πλαστικός	ADJ;NOM(DU;FEM)	πλαστικᾱ́
-πλαστικός	ADJ;NOM(DU;MASC)	πλαστικώ
-πλαστικός	ADJ;NOM(DU;NEUT)	πλαστικώ
-πλαστικός	ADJ;NOM(PL;FEM)	πλαστικαί
-πλαστικός	ADJ;NOM(SG;FEM)	πλαστική
-πλαστικός	ADJ;NOM(SG;MASC)	πλαστικός
-πλαστικός	ADJ;NOM(SG;NEUT)	πλαστικόν
-πλαστικός	ADJ;VOC(PL;FEM)	πλαστικαί
-πλαστικός	ADJ;VOC(PL;NEUT)	πλαστικᾰ́
-πλαστικός	ADJ;VOC(SG;FEM)	πλαστική
-πλαστικός	ADJ;VOC(SG;MASC)	πλαστικέ
-πρόβατον	N;ACC(DU)	προβάτω
-πρόβατον	N;ACC(PL)	πρόβατᾰ
-πρόβατον	N;ACC(SG)	πρόβατον
-πρόβατον	N;DAT(DU)	προβάτοιν
-πρόβατον	N;DAT(PL)	προβάτοις
-πρόβατον	N;DAT(SG)	προβάτῳ
-πρόβατον	N;GEN(DU)	προβάτοιν
-πρόβατον	N;GEN(PL)	προβάτων
-πρόβατον	N;GEN(SG)	προβάτου
-πρόβατον	N;NOM(DU)	προβάτω
-πρόβατον	N;NOM(PL)	πρόβατᾰ
-πρόβατον	N;NOM(SG)	πρόβατον
-πρόβατον	N;VOC(DU)	προβάτω
-πρόβατον	N;VOC(PL)	πρόβατᾰ
-πρόβατον	N;VOC(SG)	πρόβατον
-στραβός	ADJ;ACC(DU;MASC)	στραβώ
-στραβός	ADJ;ACC(DU;NEUT)	στραβώ
-στραβός	ADJ;ACC(PL;FEM)	στραβᾱ́ς
-στραβός	ADJ;ACC(PL;MASC)	στραβούς
-στραβός	ADJ;ACC(PL;NEUT)	στραβᾰ́
-στραβός	ADJ;ACC(SG;FEM)	στραβήν
-στραβός	ADJ;DAT(PL;FEM)	στραβαῖς
-στραβός	ADJ;DAT(PL;MASC)	στραβοῖς
-στραβός	ADJ;DAT(PL;NEUT)	στραβοῖς
-στραβός	ADJ;DAT(SG;MASC)	στραβῷ
-στραβός	ADJ;DAT(SG;NEUT)	στραβῷ
-στραβός	ADJ;GEN(DU;FEM)	στραβαῖν
-στραβός	ADJ;GEN(DU;MASC)	στραβοῖν
-στραβός	ADJ;GEN(PL;FEM)	στραβῶν
-στραβός	ADJ;GEN(PL;NEUT)	στραβῶν
-στραβός	ADJ;GEN(SG;NEUT)	στραβοῦ
-στραβός	ADJ;NOM(DU;FEM)	στραβᾱ́
-στραβός	ADJ;NOM(DU;MASC)	στραβώ
-στραβός	ADJ;NOM(DU;NEUT)	στραβώ
-στραβός	ADJ;NOM(PL;MASC)	στραβοί
-στραβός	ADJ;NOM(PL;NEUT)	στραβᾰ́
-στραβός	ADJ;NOM(SG;MASC)	στραβός
-στραβός	ADJ;VOC(DU;FEM)	στραβᾱ́
-στραβός	ADJ;VOC(DU;MASC)	στραβώ
-στραβός	ADJ;VOC(DU;NEUT)	στραβώ
-στραβός	ADJ;VOC(SG;FEM)	στραβή
-στροφικός	ADJ;ACC(DU;NEUT)	στροφικώ
-στροφικός	ADJ;ACC(PL;FEM)	στροφικᾱ́ς
-στροφικός	ADJ;ACC(PL;MASC)	στροφικούς
-στροφικός	ADJ;ACC(SG;NEUT)	στροφικόν
-στροφικός	ADJ;DAT(PL;FEM)	στροφικαῖς
-στροφικός	ADJ;DAT(SG;FEM)	στροφικῇ
-στροφικός	ADJ;DAT(SG;MASC)	στροφικῷ
-στροφικός	ADJ;DAT(SG;NEUT)	στροφικῷ
-στροφικός	ADJ;GEN(DU;MASC)	στροφικοῖν
-στροφικός	ADJ;GEN(PL;FEM)	στροφικῶν
-στροφικός	ADJ;GEN(PL;NEUT)	στροφικῶν
-στροφικός	ADJ;GEN(SG;FEM)	στροφικῆς
-στροφικός	ADJ;GEN(SG;MASC)	στροφικοῦ
-στροφικός	ADJ;GEN(SG;NEUT)	στροφικοῦ
-στροφικός	ADJ;NOM(DU;FEM)	στροφικᾱ́
-στροφικός	ADJ;NOM(DU;MASC)	στροφικώ
-στροφικός	ADJ;NOM(DU;NEUT)	στροφικώ
-στροφικός	ADJ;NOM(SG;MASC)	στροφικός
-στροφικός	ADJ;VOC(DU;FEM)	στροφικᾱ́
-στροφικός	ADJ;VOC(DU;MASC)	στροφικώ
-στροφικός	ADJ;VOC(DU;NEUT)	στροφικώ
-στροφικός	ADJ;VOC(PL;FEM)	στροφικαί
-στροφικός	ADJ;VOC(PL;MASC)	στροφικοί
-στροφικός	ADJ;VOC(PL;NEUT)	στροφικᾰ́
-στροφικός	ADJ;VOC(SG;MASC)	στροφικέ
-στροφικός	ADJ;VOC(SG;NEUT)	στροφικόν
-στυπτικός	ADJ;ACC(DU;FEM)	στυπτικᾱ́
-στυπτικός	ADJ;ACC(DU;MASC)	στυπτικώ
-στυπτικός	ADJ;ACC(DU;NEUT)	στυπτικώ
-στυπτικός	ADJ;ACC(PL;FEM)	στυπτικᾱ́ς
-στυπτικός	ADJ;ACC(PL;MASC)	στυπτικούς
-στυπτικός	ADJ;ACC(SG;FEM)	στυπτικήν
-στυπτικός	ADJ;ACC(SG;NEUT)	στυπτικόν
-στυπτικός	ADJ;DAT(DU;MASC)	στυπτικοῖν
-στυπτικός	ADJ;DAT(DU;NEUT)	στυπτικοῖν
-στυπτικός	ADJ;DAT(SG;FEM)	στυπτικῇ
-στυπτικός	ADJ;DAT(SG;NEUT)	στυπτικῷ
-στυπτικός	ADJ;GEN(PL;NEUT)	στυπτικῶν
-στυπτικός	ADJ;GEN(SG;FEM)	στυπτικῆς
-στυπτικός	ADJ;GEN(SG;MASC)	στυπτικοῦ
-στυπτικός	ADJ;NOM(DU;NEUT)	στυπτικώ
-στυπτικός	ADJ;NOM(PL;MASC)	στυπτικοί
-στυπτικός	ADJ;NOM(PL;NEUT)	στυπτικᾰ́
-στυπτικός	ADJ;NOM(SG;FEM)	στυπτική
-στυπτικός	ADJ;NOM(SG;NEUT)	στυπτικόν
-στυπτικός	ADJ;VOC(DU;FEM)	στυπτικᾱ́
-στυπτικός	ADJ;VOC(DU;MASC)	στυπτικώ
-στυπτικός	ADJ;VOC(PL;FEM)	στυπτικαί
-στυπτικός	ADJ;VOC(PL;MASC)	στυπτικοί
-στυπτικός	ADJ;VOC(PL;NEUT)	στυπτικᾰ́
-στυπτικός	ADJ;VOC(SG;MASC)	στυπτικέ
-στυπτικός	ADJ;VOC(SG;NEUT)	στυπτικόν
-συναπτικός	ADJ;ACC(DU;FEM)	συναπτικᾱ́
-συναπτικός	ADJ;ACC(DU;MASC)	συναπτικώ
-συναπτικός	ADJ;ACC(DU;NEUT)	συναπτικώ
-συναπτικός	ADJ;ACC(PL;FEM)	συναπτικᾱ́ς
-συναπτικός	ADJ;ACC(SG;FEM)	συναπτικήν
-συναπτικός	ADJ;DAT(DU;MASC)	συναπτικοῖν
-συναπτικός	ADJ;DAT(DU;NEUT)	συναπτικοῖν
-συναπτικός	ADJ;DAT(PL;FEM)	συναπτικαῖς
-συναπτικός	ADJ;DAT(PL;MASC)	συναπτικοῖς
-συναπτικός	ADJ;DAT(PL;NEUT)	συναπτικοῖς
-συναπτικός	ADJ;DAT(SG;FEM)	συναπτικῇ
-συναπτικός	ADJ;DAT(SG;MASC)	συναπτικῷ
-συναπτικός	ADJ;DAT(SG;NEUT)	συναπτικῷ
-συναπτικός	ADJ;GEN(DU;MASC)	συναπτικοῖν
-συναπτικός	ADJ;GEN(DU;NEUT)	συναπτικοῖν
-συναπτικός	ADJ;GEN(PL;MASC)	συναπτικῶν
-συναπτικός	ADJ;GEN(PL;NEUT)	συναπτικῶν
-συναπτικός	ADJ;GEN(SG;MASC)	συναπτικοῦ
-συναπτικός	ADJ;NOM(DU;MASC)	συναπτικώ
-συναπτικός	ADJ;VOC(DU;FEM)	συναπτικᾱ́
-συναπτικός	ADJ;VOC(DU;MASC)	συναπτικώ
-συναπτικός	ADJ;VOC(PL;MASC)	συναπτικοί
-συναπτικός	ADJ;VOC(PL;NEUT)	συναπτικᾰ́
-συναπτικός	ADJ;VOC(SG;FEM)	συναπτική
-συναπτικός	ADJ;VOC(SG;MASC)	συναπτικέ
-συναπτικός	ADJ;VOC(SG;NEUT)	συναπτικόν
-σφενδόνη	N;ACC(DU)	σφενδόνᾱ
-σφενδόνη	N;ACC(PL)	σφενδόνᾱς
-σφενδόνη	N;ACC(SG)	σφενδόνην
-σφενδόνη	N;DAT(DU)	σφενδόναιν
-σφενδόνη	N;DAT(PL)	σφενδόναις
-σφενδόνη	N;DAT(SG)	σφενδόνῃ
-σφενδόνη	N;GEN(DU)	σφενδόναιν
-σφενδόνη	N;GEN(PL)	σφενδονῶν
-σφενδόνη	N;GEN(SG)	σφενδόνης
-σφενδόνη	N;NOM(DU)	σφενδόνᾱ
-σφενδόνη	N;NOM(PL)	σφενδόναι
-σφενδόνη	N;NOM(SG)	σφενδόνη
-σφενδόνη	N;VOC(DU)	σφενδόνᾱ
-σφενδόνη	N;VOC(PL)	σφενδόναι
-σφενδόνη	N;VOC(SG)	σφενδόνη
-σύμβουλος	N;ACC(DU)	σῠμβούλω
-σύμβουλος	N;ACC(PL)	σῠμβούλους
-σύμβουλος	N;ACC(SG)	σῠ́μβουλον
-σύμβουλος	N;DAT(DU)	σῠμβούλοιν
-σύμβουλος	N;DAT(PL)	σῠμβούλοις
-σύμβουλος	N;DAT(SG)	σῠμβούλῳ
-σύμβουλος	N;GEN(DU)	σῠμβούλοιν
-σύμβουλος	N;GEN(PL)	σῠμβούλων
-σύμβουλος	N;GEN(SG)	σῠμβούλου
-σύμβουλος	N;NOM(DU)	σῠμβούλω
-σύμβουλος	N;NOM(PL)	σῠ́μβουλοι
-σύμβουλος	N;NOM(SG)	σῠ́μβουλος
-σύμβουλος	N;VOC(DU)	σῠμβούλω
-σύμβουλος	N;VOC(PL)	σῠ́μβουλοι
-σύμβουλος	N;VOC(SG)	σῠ́μβουλε
-ταναός	ADJ;ACC(DU;FEM)	τᾰνᾰᾱ́
-ταναός	ADJ;ACC(DU;MASC)	τᾰνᾰώ
-ταναός	ADJ;ACC(PL;FEM)	τᾰνᾰᾱ́ς
-ταναός	ADJ;ACC(PL;NEUT)	τᾰνᾰᾰ́
-ταναός	ADJ;ACC(SG;FEM)	τᾰνᾰήν
-ταναός	ADJ;ACC(SG;NEUT)	τᾰνᾰόν
-ταναός	ADJ;DAT(DU;FEM)	τᾰνᾰαῖν
-ταναός	ADJ;DAT(DU;MASC)	τᾰνᾰοῖν
-ταναός	ADJ;DAT(DU;NEUT)	τᾰνᾰοῖν
-ταναός	ADJ;DAT(PL;MASC)	τᾰνᾰοῖς
-ταναός	ADJ;DAT(PL;NEUT)	τᾰνᾰοῖς
-ταναός	ADJ;DAT(SG;NEUT)	τᾰνᾰῷ
-ταναός	ADJ;GEN(DU;FEM)	τᾰνᾰαῖν
-ταναός	ADJ;GEN(DU;NEUT)	τᾰνᾰοῖν
-ταναός	ADJ;GEN(PL;MASC)	τᾰνᾰῶν
-ταναός	ADJ;GEN(PL;NEUT)	τᾰνᾰῶν
-ταναός	ADJ;GEN(SG;FEM)	τᾰνᾰῆς
-ταναός	ADJ;GEN(SG;NEUT)	τᾰνᾰοῦ
-ταναός	ADJ;NOM(DU;FEM)	τᾰνᾰᾱ́
-ταναός	ADJ;NOM(DU;NEUT)	τᾰνᾰώ
-ταναός	ADJ;NOM(PL;FEM)	τᾰνᾰαί
-ταναός	ADJ;NOM(SG;MASC)	τᾰνᾰός
-ταναός	ADJ;VOC(DU;MASC)	τᾰνᾰώ
-ταναός	ADJ;VOC(DU;NEUT)	τᾰνᾰώ
-ταναός	ADJ;VOC(PL;FEM)	τᾰνᾰαί
-ταναός	ADJ;VOC(SG;FEM)	τᾰνᾰή
-ταπεινωτικός	ADJ;ACC(DU;FEM)	ταπεινωτικᾱ́
-ταπεινωτικός	ADJ;ACC(DU;MASC)	ταπεινωτικώ
-ταπεινωτικός	ADJ;ACC(DU;NEUT)	ταπεινωτικώ
-ταπεινωτικός	ADJ;ACC(PL;FEM)	ταπεινωτικᾱ́ς
-ταπεινωτικός	ADJ;ACC(PL;NEUT)	ταπεινωτικᾰ́
-ταπεινωτικός	ADJ;ACC(SG;MASC)	ταπεινωτικόν
-ταπεινωτικός	ADJ;ACC(SG;NEUT)	ταπεινωτικόν
-ταπεινωτικός	ADJ;DAT(DU;FEM)	ταπεινωτικαῖν
-ταπεινωτικός	ADJ;DAT(DU;MASC)	ταπεινωτικοῖν
-ταπεινωτικός	ADJ;DAT(DU;NEUT)	ταπεινωτικοῖν
-ταπεινωτικός	ADJ;DAT(PL;FEM)	ταπεινωτικαῖς
-ταπεινωτικός	ADJ;DAT(PL;MASC)	ταπεινωτικοῖς
-ταπεινωτικός	ADJ;DAT(PL;NEUT)	ταπεινωτικοῖς
-ταπεινωτικός	ADJ;DAT(SG;MASC)	ταπεινωτικῷ
-ταπεινωτικός	ADJ;GEN(DU;FEM)	ταπεινωτικαῖν
-ταπεινωτικός	ADJ;GEN(DU;MASC)	ταπεινωτικοῖν
-ταπεινωτικός	ADJ;GEN(DU;NEUT)	ταπεινωτικοῖν
-ταπεινωτικός	ADJ;GEN(PL;FEM)	ταπεινωτικῶν
-ταπεινωτικός	ADJ;GEN(PL;NEUT)	ταπεινωτικῶν
-ταπεινωτικός	ADJ;NOM(DU;NEUT)	ταπεινωτικώ
-ταπεινωτικός	ADJ;NOM(SG;MASC)	ταπεινωτικός
-ταπεινωτικός	ADJ;NOM(SG;NEUT)	ταπεινωτικόν
-ταπεινωτικός	ADJ;VOC(DU;MASC)	ταπεινωτικώ
-ταπεινωτικός	ADJ;VOC(PL;MASC)	ταπεινωτικοί
-ταπεινωτικός	ADJ;VOC(SG;MASC)	ταπεινωτικέ
-ταπεινωτικός	ADJ;VOC(SG;NEUT)	ταπεινωτικόν
-τατικός	ADJ;ACC(DU;FEM)	τατικᾱ́
-τατικός	ADJ;ACC(DU;NEUT)	τατικώ
-τατικός	ADJ;ACC(PL;FEM)	τατικᾱ́ς
-τατικός	ADJ;ACC(PL;NEUT)	τατικᾰ́
-τατικός	ADJ;ACC(SG;FEM)	τατικήν
-τατικός	ADJ;ACC(SG;MASC)	τατικόν
-τατικός	ADJ;DAT(DU;FEM)	τατικαῖν
-τατικός	ADJ;DAT(PL;MASC)	τατικοῖς
-τατικός	ADJ;DAT(SG;MASC)	τατικῷ
-τατικός	ADJ;DAT(SG;NEUT)	τατικῷ
-τατικός	ADJ;GEN(DU;FEM)	τατικαῖν
-τατικός	ADJ;GEN(DU;MASC)	τατικοῖν
-τατικός	ADJ;GEN(DU;NEUT)	τατικοῖν
-τατικός	ADJ;GEN(PL;MASC)	τατικῶν
-τατικός	ADJ;GEN(SG;MASC)	τατικοῦ
-τατικός	ADJ;GEN(SG;NEUT)	τατικοῦ
-τατικός	ADJ;NOM(DU;FEM)	τατικᾱ́
-τατικός	ADJ;NOM(DU;MASC)	τατικώ
-τατικός	ADJ;NOM(PL;FEM)	τατικαί
-τατικός	ADJ;NOM(PL;NEUT)	τατικᾰ́
-τατικός	ADJ;NOM(SG;FEM)	τατική
-τατικός	ADJ;VOC(DU;FEM)	τατικᾱ́
-τατικός	ADJ;VOC(DU;NEUT)	τατικώ
-τατικός	ADJ;VOC(PL;FEM)	τατικαί
-τατικός	ADJ;VOC(PL;NEUT)	τατικᾰ́
-τατικός	ADJ;VOC(SG;MASC)	τατικέ
-φάττα	N;ACC(DU)	φάττᾱ
-φάττα	N;ACC(PL)	φάττᾱς
-φάττα	N;ACC(SG)	φᾶττᾰν
-φάττα	N;DAT(DU)	φάτταιν
-φάττα	N;DAT(PL)	φάτταις
-φάττα	N;DAT(SG)	φάττῃ
-φάττα	N;GEN(DU)	φάτταιν
-φάττα	N;GEN(PL)	φαττῶν
-φάττα	N;GEN(SG)	φάττης
-φάττα	N;NOM(DU)	φάττᾱ
-φάττα	N;NOM(PL)	φᾶτται
-φάττα	N;NOM(SG)	φᾶττᾰ
-φάττα	N;VOC(DU)	φάττᾱ
-φάττα	N;VOC(PL)	φᾶτται
-φάττα	N;VOC(SG)	φᾶττᾰ
-χαραδριός	N;ACC(DU)	χαραδριώ
-χαραδριός	N;ACC(PL)	χαραδριούς
-χαραδριός	N;ACC(SG)	χαραδριόν
-χαραδριός	N;DAT(DU)	χαραδριοῖν
-χαραδριός	N;DAT(PL)	χαραδριοῖς
-χαραδριός	N;DAT(SG)	χαραδριῷ
-χαραδριός	N;GEN(DU)	χαραδριοῖν
-χαραδριός	N;GEN(PL)	χαραδριῶν
-χαραδριός	N;GEN(SG)	χαραδριοῦ
-χαραδριός	N;NOM(DU)	χαραδριώ
-χαραδριός	N;NOM(PL)	χαραδριοί
-χαραδριός	N;NOM(SG)	χαραδριός
-χαραδριός	N;VOC(DU)	χαραδριώ
-χαραδριός	N;VOC(PL)	χαραδριοί
-χαραδριός	N;VOC(SG)	χαραδριέ
-ψεδνός	ADJ;ACC(DU;MASC)	ψεδνώ
-ψεδνός	ADJ;ACC(PL;MASC)	ψεδνούς
-ψεδνός	ADJ;ACC(PL;NEUT)	ψεδνᾰ́
-ψεδνός	ADJ;ACC(SG;FEM)	ψεδνήν
-ψεδνός	ADJ;ACC(SG;MASC)	ψεδνόν
-ψεδνός	ADJ;DAT(DU;FEM)	ψεδναῖν
-ψεδνός	ADJ;DAT(DU;MASC)	ψεδνοῖν
-ψεδνός	ADJ;DAT(DU;NEUT)	ψεδνοῖν
-ψεδνός	ADJ;DAT(PL;FEM)	ψεδναῖς
-ψεδνός	ADJ;DAT(PL;NEUT)	ψεδνοῖς
-ψεδνός	ADJ;DAT(SG;FEM)	ψεδνῇ
-ψεδνός	ADJ;DAT(SG;MASC)	ψεδνῷ
-ψεδνός	ADJ;DAT(SG;NEUT)	ψεδνῷ
-ψεδνός	ADJ;GEN(PL;FEM)	ψεδνῶν
-ψεδνός	ADJ;GEN(SG;FEM)	ψεδνῆς
-ψεδνός	ADJ;NOM(DU;MASC)	ψεδνώ
-ψεδνός	ADJ;NOM(DU;NEUT)	ψεδνώ
-ψεδνός	ADJ;NOM(PL;FEM)	ψεδναί
-ψεδνός	ADJ;NOM(PL;MASC)	ψεδνοί
-ψεδνός	ADJ;NOM(PL;NEUT)	ψεδνᾰ́
-ψεδνός	ADJ;NOM(SG;NEUT)	ψεδνόν
-ψεδνός	ADJ;VOC(DU;NEUT)	ψεδνώ
-ψεδνός	ADJ;VOC(PL;FEM)	ψεδναί
-ψεδνός	ADJ;VOC(PL;MASC)	ψεδνοί
-ψεδνός	ADJ;VOC(PL;NEUT)	ψεδνᾰ́
-ψεδνός	ADJ;VOC(SG;FEM)	ψεδνή
-ἀγών	N;ACC(DU)	ᾰ̓γῶνε
-ἀγών	N;ACC(PL)	ᾰ̓γῶνᾰς
-ἀγών	N;ACC(SG)	ᾰ̓γῶνᾰ
-ἀγών	N;DAT(DU)	ᾰ̓γώνοιν
-ἀγών	N;DAT(PL)	ᾰ̓γῶσῐ
-ἀγών	N;DAT(SG)	ᾰ̓γῶνῐ
-ἀγών	N;GEN(DU)	ᾰ̓γώνοιν
-ἀγών	N;GEN(PL)	ᾰ̓γώνων
-ἀγών	N;GEN(SG)	ᾰ̓γῶνος
-ἀγών	N;NOM(DU)	ᾰ̓γῶνε
-ἀγών	N;NOM(PL)	ᾰ̓γῶνες
-ἀγών	N;NOM(SG)	ᾰ̓γών
-ἀγών	N;VOC(DU)	ᾰ̓γῶνε
-ἀγών	N;VOC(PL)	ᾰ̓γῶνες
-ἀγών	N;VOC(SG)	ᾰ̓γών
-ἀδάπανος	ADJ;ACC(DU;FEM)	ἀδάπανω
-ἀδάπανος	ADJ;ACC(DU;MASC)	ἀδάπανω
-ἀδάπανος	ADJ;ACC(PL;FEM)	ἀδάπανους
-ἀδάπανος	ADJ;ACC(PL;MASC)	ἀδάπανους
-ἀδάπανος	ADJ;ACC(SG;FEM)	ἀδάπανον
-ἀδάπανος	ADJ;ACC(SG;MASC)	ἀδάπανον
-ἀδάπανος	ADJ;ACC(SG;NEUT)	ἀδάπανον
-ἀδάπανος	ADJ;DAT(DU;FEM)	ἀδάπανοιν
-ἀδάπανος	ADJ;DAT(DU;NEUT)	ἀδάπανοιν
-ἀδάπανος	ADJ;DAT(PL;FEM)	ἀδάπανοις
-ἀδάπανος	ADJ;DAT(PL;NEUT)	ἀδάπανοις
-ἀδάπανος	ADJ;DAT(SG;MASC)	ἀδάπανῳ
-ἀδάπανος	ADJ;GEN(DU;FEM)	ἀδάπανοιν
-ἀδάπανος	ADJ;GEN(DU;MASC)	ἀδάπανοιν
-ἀδάπανος	ADJ;GEN(DU;NEUT)	ἀδάπανοιν
-ἀδάπανος	ADJ;GEN(PL;MASC)	ἀδάπανων
-ἀδάπανος	ADJ;NOM(DU;FEM)	ἀδάπανω
-ἀδάπανος	ADJ;NOM(DU;MASC)	ἀδάπανω
-ἀδάπανος	ADJ;NOM(PL;NEUT)	ἀδάπανα
-ἀδάπανος	ADJ;NOM(SG;FEM)	ἀδάπανος
-ἀδάπανος	ADJ;NOM(SG;MASC)	ἀδάπανος
-ἀδάπανος	ADJ;VOC(DU;FEM)	ἀδάπανω
-ἀδάπανος	ADJ;VOC(DU;NEUT)	ἀδάπανω
-ἀδάπανος	ADJ;VOC(PL;MASC)	ἀδάπανοι
-ἀδάπανος	ADJ;VOC(PL;NEUT)	ἀδάπανα
-ἀδάπανος	ADJ;VOC(SG;MASC)	ἀδάπανε
-ἀντιπαράταξις	N;ACC(DU)	ᾰ̓ντῐπᾰρᾰτᾰ́ξει
-ἀντιπαράταξις	N;ACC(PL)	ᾰ̓ντῐπᾰρᾰτᾰ́ξεις
-ἀντιπαράταξις	N;ACC(SG)	ᾰ̓ντῐπᾰρᾰ́τᾰξῐν
-ἀντιπαράταξις	N;DAT(DU)	ᾰ̓ντῐπᾰρᾰτᾰξέοιν
-ἀντιπαράταξις	N;DAT(PL)	ᾰ̓ντῐπᾰρᾰτᾰ́ξεσῐ(ν)
-ἀντιπαράταξις	N;DAT(SG)	ᾰ̓ντῐπᾰρᾰτᾰ́ξει
-ἀντιπαράταξις	N;GEN(DU)	ᾰ̓ντῐπᾰρᾰτᾰξέοιν
-ἀντιπαράταξις	N;GEN(PL)	ᾰ̓ντῐπᾰρᾰτᾰ́ξεων
-ἀντιπαράταξις	N;GEN(SG)	ᾰ̓ντῐπᾰρᾰτᾰ́ξεως
-ἀντιπαράταξις	N;NOM(DU)	ᾰ̓ντῐπᾰρᾰτᾰ́ξει
-ἀντιπαράταξις	N;NOM(PL)	ᾰ̓ντῐπᾰρᾰτᾰ́ξεις
-ἀντιπαράταξις	N;NOM(SG)	ᾰ̓ντῐπᾰρᾰ́τᾰξῐς
-ἀντιπαράταξις	N;VOC(DU)	ᾰ̓ντῐπᾰρᾰτᾰ́ξει
-ἀντιπαράταξις	N;VOC(PL)	ᾰ̓ντῐπᾰρᾰτᾰ́ξεις
-ἀντιπαράταξις	N;VOC(SG)	ᾰ̓ντῐπᾰρᾰ́τᾰξῐ
-ἀποπληκτικός	ADJ;ACC(DU;FEM)	ἀποπληκτικᾱ́
-ἀποπληκτικός	ADJ;ACC(DU;NEUT)	ἀποπληκτικώ
-ἀποπληκτικός	ADJ;ACC(PL;FEM)	ἀποπληκτικᾱ́ς
-ἀποπληκτικός	ADJ;ACC(PL;NEUT)	ἀποπληκτικᾰ́
-ἀποπληκτικός	ADJ;ACC(SG;FEM)	ἀποπληκτικήν
-ἀποπληκτικός	ADJ;DAT(DU;FEM)	ἀποπληκτικαῖν
-ἀποπληκτικός	ADJ;DAT(PL;FEM)	ἀποπληκτικαῖς
-ἀποπληκτικός	ADJ;DAT(PL;MASC)	ἀποπληκτικοῖς
-ἀποπληκτικός	ADJ;DAT(SG;MASC)	ἀποπληκτικῷ
-ἀποπληκτικός	ADJ;GEN(PL;FEM)	ἀποπληκτικῶν
-ἀποπληκτικός	ADJ;GEN(PL;MASC)	ἀποπληκτικῶν
-ἀποπληκτικός	ADJ;GEN(SG;FEM)	ἀποπληκτικῆς
-ἀποπληκτικός	ADJ;GEN(SG;MASC)	ἀποπληκτικοῦ
-ἀποπληκτικός	ADJ;NOM(DU;FEM)	ἀποπληκτικᾱ́
-ἀποπληκτικός	ADJ;NOM(DU;MASC)	ἀποπληκτικώ
-ἀποπληκτικός	ADJ;NOM(PL;MASC)	ἀποπληκτικοί
-ἀποπληκτικός	ADJ;NOM(PL;NEUT)	ἀποπληκτικᾰ́
-ἀποπληκτικός	ADJ;NOM(SG;MASC)	ἀποπληκτικός
-ἀποπληκτικός	ADJ;NOM(SG;NEUT)	ἀποπληκτικόν
-ἀποπληκτικός	ADJ;VOC(DU;MASC)	ἀποπληκτικώ
-ἀποπληκτικός	ADJ;VOC(DU;NEUT)	ἀποπληκτικώ
-ἀποπληκτικός	ADJ;VOC(PL;FEM)	ἀποπληκτικαί
-ἀποπληκτικός	ADJ;VOC(PL;NEUT)	ἀποπληκτικᾰ́
-ἀποπληκτικός	ADJ;VOC(SG;FEM)	ἀποπληκτική
-ἀποπληκτικός	ADJ;VOC(SG;MASC)	ἀποπληκτικέ
-ἀποπληκτικός	ADJ;VOC(SG;NEUT)	ἀποπληκτικόν
-ἀσύνδετος	ADJ;ACC(DU;FEM)	ἀσῠνδέτω
-ἀσύνδετος	ADJ;ACC(DU;NEUT)	ἀσῠνδέτω
-ἀσύνδετος	ADJ;ACC(PL;FEM)	ἀσῠνδέτους
-ἀσύνδετος	ADJ;ACC(PL;MASC)	ἀσῠνδέτους
-ἀσύνδετος	ADJ;ACC(PL;NEUT)	ἀσῠ́νδετα
-ἀσύνδετος	ADJ;ACC(SG;FEM)	ἀσῠ́νδετον
-ἀσύνδετος	ADJ;ACC(SG;MASC)	ἀσῠ́νδετον
-ἀσύνδετος	ADJ;DAT(DU;MASC)	ἀσῠνδέτοιν
-ἀσύνδετος	ADJ;DAT(DU;NEUT)	ἀσῠνδέτοιν
-ἀσύνδετος	ADJ;DAT(SG;NEUT)	ἀσῠνδέτῳ
-ἀσύνδετος	ADJ;GEN(DU;FEM)	ἀσῠνδέτοιν
-ἀσύνδετος	ADJ;GEN(DU;MASC)	ἀσῠνδέτοιν
-ἀσύνδετος	ADJ;GEN(DU;NEUT)	ἀσῠνδέτοιν
-ἀσύνδετος	ADJ;GEN(PL;NEUT)	ἀσῠνδέτων
-ἀσύνδετος	ADJ;GEN(SG;MASC)	ἀσῠνδέτου
-ἀσύνδετος	ADJ;NOM(DU;NEUT)	ἀσῠνδέτω
-ἀσύνδετος	ADJ;NOM(PL;NEUT)	ἀσῠ́νδετα
-ἀσύνδετος	ADJ;NOM(SG;FEM)	ἀσῠ́νδετος
-ἀσύνδετος	ADJ;NOM(SG;NEUT)	ἀσῠ́νδετον
-ἀσύνδετος	ADJ;VOC(DU;FEM)	ἀσῠνδέτω
-ἀσύνδετος	ADJ;VOC(DU;NEUT)	ἀσῠνδέτω
-ἀσύνδετος	ADJ;VOC(PL;FEM)	ἀσῠ́νδετοι
-ἀσύνδετος	ADJ;VOC(PL;NEUT)	ἀσῠ́νδετα
-ἀσύνδετος	ADJ;VOC(SG;FEM)	ἀσῠ́νδετε
-ἀσύνδετος	ADJ;VOC(SG;MASC)	ἀσῠ́νδετε
-ἀσύνδετος	ADJ;VOC(SG;NEUT)	ἀσῠ́νδετον
-ἄγναφος	ADJ;ACC(DU;MASC)	ἀγνάφω
-ἄγναφος	ADJ;ACC(SG;MASC)	ἄγναφον
-ἄγναφος	ADJ;ACC(SG;NEUT)	ἄγναφον
-ἄγναφος	ADJ;DAT(DU;FEM)	ἀγνάφοιν
-ἄγναφος	ADJ;DAT(DU;MASC)	ἀγνάφοιν
-ἄγναφος	ADJ;DAT(DU;NEUT)	ἀγνάφοιν
-ἄγναφος	ADJ;DAT(PL;MASC)	ἀγνάφοις
-ἄγναφος	ADJ;DAT(SG;FEM)	ἀγνάφῳ
-ἄγναφος	ADJ;DAT(SG;MASC)	ἀγνάφῳ
-ἄγναφος	ADJ;GEN(DU;FEM)	ἀγνάφοιν
-ἄγναφος	ADJ;GEN(DU;MASC)	ἀγνάφοιν
-ἄγναφος	ADJ;GEN(PL;FEM)	ἀγνάφων
-ἄγναφος	ADJ;GEN(PL;NEUT)	ἀγνάφων
-ἄγναφος	ADJ;GEN(SG;FEM)	ἀγνάφου
-ἄγναφος	ADJ;GEN(SG;MASC)	ἀγνάφου
-ἄγναφος	ADJ;GEN(SG;NEUT)	ἀγνάφου
-ἄγναφος	ADJ;NOM(DU;FEM)	ἀγνάφω
-ἄγναφος	ADJ;NOM(DU;MASC)	ἀγνάφω
-ἄγναφος	ADJ;NOM(PL;MASC)	ἄγναφοι
-ἄγναφος	ADJ;NOM(SG;FEM)	ἄγναφος
-ἄγναφος	ADJ;NOM(SG;NEUT)	ἄγναφον
-ἄγναφος	ADJ;VOC(DU;FEM)	ἀγνάφω
-ἄγναφος	ADJ;VOC(DU;MASC)	ἀγνάφω
-ἄγναφος	ADJ;VOC(DU;NEUT)	ἀγνάφω
-ἄγναφος	ADJ;VOC(PL;FEM)	ἄγναφοι
-ἄγναφος	ADJ;VOC(SG;NEUT)	ἄγναφον
-ἄρκτος	N;ACC(DU)	ᾰ̓́ρκτω
-ἄρκτος	N;ACC(PL)	ᾰ̓́ρκτους
-ἄρκτος	N;ACC(SG)	ᾰ̓́ρκτον
-ἄρκτος	N;DAT(DU)	ᾰ̓́ρκτοιν
-ἄρκτος	N;DAT(PL)	ᾰ̓́ρκτοις
-ἄρκτος	N;DAT(SG)	ᾰ̓́ρκτῳ
-ἄρκτος	N;GEN(DU)	ᾰ̓́ρκτοιν
-ἄρκτος	N;GEN(PL)	ᾰ̓́ρκτων
-ἄρκτος	N;GEN(SG)	ᾰ̓́ρκτου
-ἄρκτος	N;NOM(DU)	ᾰ̓́ρκτω
-ἄρκτος	N;NOM(PL)	ᾰ̓́ρκτοι
-ἄρκτος	N;NOM(SG)	ᾰ̓́ρκτος
-ἄρκτος	N;VOC(DU)	ᾰ̓́ρκτω
-ἄρκτος	N;VOC(PL)	ᾰ̓́ρκτοι
-ἄρκτος	N;VOC(SG)	ᾰ̓́ρκτε
-ἄτρακτος	N;ACC(DU)	ἀτράκτω
-ἄτρακτος	N;ACC(PL)	ἀτράκτους
-ἄτρακτος	N;ACC(SG)	ἄτρακτον
-ἄτρακτος	N;DAT(DU)	ἀτράκτοιν
-ἄτρακτος	N;DAT(PL)	ἀτράκτοις
-ἄτρακτος	N;DAT(SG)	ἀτράκτῳ
-ἄτρακτος	N;GEN(DU)	ἀτράκτοιν
-ἄτρακτος	N;GEN(PL)	ἀτράκτων
-ἄτρακτος	N;GEN(SG)	ἀτράκτου
-ἄτρακτος	N;NOM(DU)	ἀτράκτω
-ἄτρακτος	N;NOM(PL)	ἄτρακτοι
-ἄτρακτος	N;NOM(SG)	ἄτρακτος
-ἄτρακτος	N;VOC(DU)	ἀτράκτω
-ἄτρακτος	N;VOC(PL)	ἄτρακτοι
-ἄτρακτος	N;VOC(SG)	ἄτρακτε
-ἐμμενετικός	ADJ;ACC(DU;FEM)	ἐμμενετικᾱ́
-ἐμμενετικός	ADJ;ACC(DU;MASC)	ἐμμενετικώ
-ἐμμενετικός	ADJ;ACC(PL;FEM)	ἐμμενετικᾱ́ς
-ἐμμενετικός	ADJ;ACC(PL;MASC)	ἐμμενετικούς
-ἐμμενετικός	ADJ;ACC(SG;FEM)	ἐμμενετικήν
-ἐμμενετικός	ADJ;DAT(DU;NEUT)	ἐμμενετικοῖν
-ἐμμενετικός	ADJ;DAT(PL;MASC)	ἐμμενετικοῖς
-ἐμμενετικός	ADJ;DAT(SG;FEM)	ἐμμενετικῇ
-ἐμμενετικός	ADJ;DAT(SG;NEUT)	ἐμμενετικῷ
-ἐμμενετικός	ADJ;GEN(DU;FEM)	ἐμμενετικαῖν
-ἐμμενετικός	ADJ;GEN(DU;NEUT)	ἐμμενετικοῖν
-ἐμμενετικός	ADJ;GEN(PL;FEM)	ἐμμενετικῶν
-ἐμμενετικός	ADJ;GEN(PL;MASC)	ἐμμενετικῶν
-ἐμμενετικός	ADJ;GEN(SG;FEM)	ἐμμενετικῆς
-ἐμμενετικός	ADJ;NOM(DU;FEM)	ἐμμενετικᾱ́
-ἐμμενετικός	ADJ;NOM(DU;MASC)	ἐμμενετικώ
-ἐμμενετικός	ADJ;NOM(PL;FEM)	ἐμμενετικαί
-ἐμμενετικός	ADJ;NOM(PL;MASC)	ἐμμενετικοί
-ἐμμενετικός	ADJ;NOM(PL;NEUT)	ἐμμενετικᾰ́
-ἐμμενετικός	ADJ;NOM(SG;MASC)	ἐμμενετικός
-ἐμμενετικός	ADJ;VOC(DU;FEM)	ἐμμενετικᾱ́
-ἐμμενετικός	ADJ;VOC(DU;MASC)	ἐμμενετικώ
-ἐμμενετικός	ADJ;VOC(DU;NEUT)	ἐμμενετικώ
-ἐμμενετικός	ADJ;VOC(PL;NEUT)	ἐμμενετικᾰ́
-ἐμμενετικός	ADJ;VOC(SG;MASC)	ἐμμενετικέ
-ἐμμενετικός	ADJ;VOC(SG;NEUT)	ἐμμενετικόν
-ἐπίμαχος	ADJ;ACC(DU;FEM)	ἐπιμάχω
-ἐπίμαχος	ADJ;ACC(DU;NEUT)	ἐπιμάχω
-ἐπίμαχος	ADJ;ACC(PL;FEM)	ἐπιμάχους
-ἐπίμαχος	ADJ;ACC(PL;MASC)	ἐπιμάχους
-ἐπίμαχος	ADJ;ACC(PL;NEUT)	ἐπίμαχα
-ἐπίμαχος	ADJ;ACC(SG;FEM)	ἐπίμαχον
-ἐπίμαχος	ADJ;ACC(SG;NEUT)	ἐπίμαχον
-ἐπίμαχος	ADJ;DAT(DU;NEUT)	ἐπιμάχοιν
-ἐπίμαχος	ADJ;DAT(PL;FEM)	ἐπιμάχοις
-ἐπίμαχος	ADJ;DAT(PL;NEUT)	ἐπιμάχοις
-ἐπίμαχος	ADJ;GEN(DU;MASC)	ἐπιμάχοιν
-ἐπίμαχος	ADJ;GEN(PL;FEM)	ἐπιμάχων
-ἐπίμαχος	ADJ;GEN(PL;MASC)	ἐπιμάχων
-ἐπίμαχος	ADJ;GEN(PL;NEUT)	ἐπιμάχων
-ἐπίμαχος	ADJ;GEN(SG;FEM)	ἐπιμάχου
-ἐπίμαχος	ADJ;NOM(DU;FEM)	ἐπιμάχω
-ἐπίμαχος	ADJ;NOM(DU;MASC)	ἐπιμάχω
-ἐπίμαχος	ADJ;NOM(PL;FEM)	ἐπίμαχοι
-ἐπίμαχος	ADJ;NOM(PL;MASC)	ἐπίμαχοι
-ἐπίμαχος	ADJ;NOM(PL;NEUT)	ἐπίμαχα
-ἐπίμαχος	ADJ;NOM(SG;NEUT)	ἐπίμαχον
-ἐπίμαχος	ADJ;VOC(DU;FEM)	ἐπιμάχω
-ἐπίμαχος	ADJ;VOC(PL;FEM)	ἐπίμαχοι
-ἐπίμαχος	ADJ;VOC(PL;MASC)	ἐπίμαχοι
-ἐπίμαχος	ADJ;VOC(PL;NEUT)	ἐπίμαχα
-ἐπίμαχος	ADJ;VOC(SG;FEM)	ἐπίμαχε
-ἐπιθανάτιος	ADJ;ACC(DU;NEUT)	ἐπιθανατίω
-ἐπιθανάτιος	ADJ;ACC(PL;FEM)	ἐπιθανατίους
-ἐπιθανάτιος	ADJ;ACC(PL;NEUT)	ἐπιθανάτια
-ἐπιθανάτιος	ADJ;ACC(SG;MASC)	ἐπιθανάτιον
-ἐπιθανάτιος	ADJ;ACC(SG;NEUT)	ἐπιθανάτιον
-ἐπιθανάτιος	ADJ;DAT(DU;FEM)	ἐπιθανατίοιν
-ἐπιθανάτιος	ADJ;DAT(DU;MASC)	ἐπιθανατίοιν
-ἐπιθανάτιος	ADJ;DAT(DU;NEUT)	ἐπιθανατίοιν
-ἐπιθανάτιος	ADJ;DAT(PL;FEM)	ἐπιθανατίοις
-ἐπιθανάτιος	ADJ;DAT(PL;MASC)	ἐπιθανατίοις
-ἐπιθανάτιος	ADJ;DAT(PL;NEUT)	ἐπιθανατίοις
-ἐπιθανάτιος	ADJ;DAT(SG;FEM)	ἐπιθανατίῳ
-ἐπιθανάτιος	ADJ;DAT(SG;MASC)	ἐπιθανατίῳ
-ἐπιθανάτιος	ADJ;DAT(SG;NEUT)	ἐπιθανατίῳ
-ἐπιθανάτιος	ADJ;GEN(DU;MASC)	ἐπιθανατίοιν
-ἐπιθανάτιος	ADJ;GEN(PL;FEM)	ἐπιθανατίων
-ἐπιθανάτιος	ADJ;GEN(PL;NEUT)	ἐπιθανατίων
-ἐπιθανάτιος	ADJ;GEN(SG;FEM)	ἐπιθανατίου
-ἐπιθανάτιος	ADJ;GEN(SG;NEUT)	ἐπιθανατίου
-ἐπιθανάτιος	ADJ;NOM(PL;FEM)	ἐπιθανάτιοι
-ἐπιθανάτιος	ADJ;NOM(PL;NEUT)	ἐπιθανάτια
-ἐπιθανάτιος	ADJ;NOM(SG;MASC)	ἐπιθανάτιος
-ἐπιθανάτιος	ADJ;VOC(DU;MASC)	ἐπιθανατίω
-ἐπιθανάτιος	ADJ;VOC(PL;MASC)	ἐπιθανάτιοι
-ἐπιθανάτιος	ADJ;VOC(PL;NEUT)	ἐπιθανάτια
-ἐπιθανάτιος	ADJ;VOC(SG;FEM)	ἐπιθανάτιε
-ἰσόψηφος	ADJ;ACC(DU;FEM)	ἰσοψήφω
-ἰσόψηφος	ADJ;ACC(DU;MASC)	ἰσοψήφω
-ἰσόψηφος	ADJ;ACC(SG;NEUT)	ἰσόψηφον
-ἰσόψηφος	ADJ;DAT(DU;FEM)	ἰσοψήφοιν
-ἰσόψηφος	ADJ;DAT(DU;MASC)	ἰσοψήφοιν
-ἰσόψηφος	ADJ;DAT(DU;NEUT)	ἰσοψήφοιν
-ἰσόψηφος	ADJ;DAT(PL;NEUT)	ἰσοψήφοις
-ἰσόψηφος	ADJ;DAT(SG;FEM)	ἰσοψήφῳ
-ἰσόψηφος	ADJ;DAT(SG;MASC)	ἰσοψήφῳ
-ἰσόψηφος	ADJ;GEN(DU;FEM)	ἰσοψήφοιν
-ἰσόψηφος	ADJ;GEN(DU;NEUT)	ἰσοψήφοιν
-ἰσόψηφος	ADJ;GEN(PL;MASC)	ἰσοψήφων
-ἰσόψηφος	ADJ;GEN(PL;NEUT)	ἰσοψήφων
-ἰσόψηφος	ADJ;GEN(SG;FEM)	ἰσοψήφου
-ἰσόψηφος	ADJ;GEN(SG;MASC)	ἰσοψήφου
-ἰσόψηφος	ADJ;GEN(SG;NEUT)	ἰσοψήφου
-ἰσόψηφος	ADJ;NOM(PL;MASC)	ἰσόψηφοι
-ἰσόψηφος	ADJ;NOM(SG;NEUT)	ἰσόψηφον
-ἰσόψηφος	ADJ;VOC(DU;FEM)	ἰσοψήφω
-ἰσόψηφος	ADJ;VOC(DU;MASC)	ἰσοψήφω
-ἰσόψηφος	ADJ;VOC(DU;NEUT)	ἰσοψήφω
-ἰσόψηφος	ADJ;VOC(PL;FEM)	ἰσόψηφοι
-ἰσόψηφος	ADJ;VOC(SG;FEM)	ἰσόψηφε
-ἰσόψηφος	ADJ;VOC(SG;MASC)	ἰσόψηφε
-ἰσόψηφος	ADJ;VOC(SG;NEUT)	ἰσόψηφον
-ἰχθυοθηρία	N;ACC(DU)	ἰχθυοθηρίᾱ
-ἰχθυοθηρία	N;ACC(PL)	ἰχθυοθηρίᾱς
-ἰχθυοθηρία	N;ACC(SG)	ἰχθυοθηρίᾱν
-ἰχθυοθηρία	N;DAT(DU)	ἰχθυοθηρίαιν
-ἰχθυοθηρία	N;DAT(PL)	ἰχθυοθηρίαις
-ἰχθυοθηρία	N;DAT(SG)	ἰχθυοθηρίᾳ
-ἰχθυοθηρία	N;GEN(DU)	ἰχθυοθηρίαιν
-ἰχθυοθηρία	N;GEN(PL)	ἰχθυοθηριῶν
-ἰχθυοθηρία	N;GEN(SG)	ἰχθυοθηρίᾱς
-ἰχθυοθηρία	N;NOM(DU)	ἰχθυοθηρίᾱ
-ἰχθυοθηρία	N;NOM(PL)	ἰχθυοθηρῖαι
-ἰχθυοθηρία	N;NOM(SG)	ἰχθυοθηρίᾱ
-ἰχθυοθηρία	N;VOC(DU)	ἰχθυοθηρίᾱ
-ἰχθυοθηρία	N;VOC(PL)	ἰχθυοθηρῖαι
-ἰχθυοθηρία	N;VOC(SG)	ἰχθυοθηρίᾱ
-ἰχώρ	N;ACC(DU)	ἰχῶρε
-ἰχώρ	N;ACC(PL)	ἰχῶρᾰς
-ἰχώρ	N;ACC(SG)	ἰχῶρᾰ
-ἰχώρ	N;DAT(DU)	ἰχώροιν
-ἰχώρ	N;DAT(PL)	ἰχῶρσῐ(ν)
-ἰχώρ	N;GEN(DU)	ἰχώροιν
-ἰχώρ	N;GEN(PL)	ἰχώρων
-ἰχώρ	N;GEN(SG)	ἰχῶρος
-ἰχώρ	N;NOM(DU)	ἰχῶρε
-ἰχώρ	N;NOM(PL)	ἰχῶρες
-ἰχώρ	N;NOM(SG)	ἰχώρ
-ἰχώρ	N;VOC(DU)	ἰχῶρε
-ἰχώρ	N;VOC(PL)	ἰχῶρες
-ἰχώρ	N;VOC(SG)	ἰχώρ
-ἵστωρ	N;ACC(DU)	ῐ̔́στορε
-ἵστωρ	N;ACC(PL)	ῐ̔́στορᾰς
-ἵστωρ	N;ACC(SG)	ῐ̔́στορᾰ
-ἵστωρ	N;DAT(DU)	ῐ̔στόροιν
-ἵστωρ	N;DAT(PL)	ῐ̔́στορσῐ
-ἵστωρ	N;DAT(SG)	ῐ̔́στορῐ
-ἵστωρ	N;GEN(DU)	ῐ̔στόροιν
-ἵστωρ	N;GEN(PL)	ῐ̔στόρων
-ἵστωρ	N;GEN(SG)	ῐ̔́στορος
-ἵστωρ	N;NOM(DU)	ῐ̔́στορε
-ἵστωρ	N;NOM(PL)	ῐ̔́στορες
-ἵστωρ	N;NOM(SG)	ῐ̔́στωρ
-ἵστωρ	N;VOC(DU)	ῐ̔́στορε
-ἵστωρ	N;VOC(PL)	ῐ̔́στορες
-ἵστωρ	N;VOC(SG)	ῐ̔́στορ
-ὀπιδνός	ADJ;ACC(DU;MASC)	οπιδνώ
-ὀπιδνός	ADJ;ACC(DU;NEUT)	οπιδνώ
-ὀπιδνός	ADJ;ACC(PL;MASC)	οπιδνούς
-ὀπιδνός	ADJ;ACC(PL;NEUT)	οπιδνᾰ́
-ὀπιδνός	ADJ;ACC(SG;NEUT)	οπιδνόν
-ὀπιδνός	ADJ;DAT(DU;MASC)	οπιδνοῖν
-ὀπιδνός	ADJ;DAT(DU;NEUT)	οπιδνοῖν
-ὀπιδνός	ADJ;DAT(PL;MASC)	οπιδνοῖς
-ὀπιδνός	ADJ;DAT(SG;FEM)	οπιδνῇ
-ὀπιδνός	ADJ;DAT(SG;MASC)	οπιδνῷ
-ὀπιδνός	ADJ;GEN(DU;NEUT)	οπιδνοῖν
-ὀπιδνός	ADJ;GEN(PL;MASC)	οπιδνῶν
-ὀπιδνός	ADJ;GEN(PL;NEUT)	οπιδνῶν
-ὀπιδνός	ADJ;GEN(SG;FEM)	οπιδνῆς
-ὀπιδνός	ADJ;GEN(SG;MASC)	οπιδνοῦ
-ὀπιδνός	ADJ;GEN(SG;NEUT)	οπιδνοῦ
-ὀπιδνός	ADJ;NOM(DU;FEM)	οπιδνᾱ́
-ὀπιδνός	ADJ;NOM(DU;MASC)	οπιδνώ
-ὀπιδνός	ADJ;NOM(DU;NEUT)	οπιδνώ
-ὀπιδνός	ADJ;NOM(PL;FEM)	οπιδναί
-ὀπιδνός	ADJ;NOM(SG;NEUT)	οπιδνόν
-ὀπιδνός	ADJ;VOC(DU;NEUT)	οπιδνώ
-ὀπιδνός	ADJ;VOC(PL;FEM)	οπιδναί
-ὀπιδνός	ADJ;VOC(PL;NEUT)	οπιδνᾰ́
-ὀπιδνός	ADJ;VOC(SG;FEM)	οπιδνή
-ὀπιδνός	ADJ;VOC(SG;NEUT)	οπιδνόν
-ὑπατικός	ADJ;ACC(DU;MASC)	ὑπᾰτῐκώ
-ὑπατικός	ADJ;ACC(DU;NEUT)	ὑπᾰτῐκώ
-ὑπατικός	ADJ;ACC(PL;FEM)	ὑπᾰτῐκᾱ́ς
-ὑπατικός	ADJ;ACC(PL;NEUT)	ὑπᾰτῐκᾰ́
-ὑπατικός	ADJ;ACC(SG;FEM)	ὑπᾰτῐκήν
-ὑπατικός	ADJ;ACC(SG;NEUT)	ὑπᾰτῐκόν
-ὑπατικός	ADJ;DAT(DU;FEM)	ὑπᾰτῐκαῖν
-ὑπατικός	ADJ;DAT(PL;FEM)	ὑπᾰτῐκαῖς
-ὑπατικός	ADJ;DAT(PL;NEUT)	ὑπᾰτῐκοῖς
-ὑπατικός	ADJ;DAT(SG;FEM)	ὑπᾰτῐκῇ
-ὑπατικός	ADJ;DAT(SG;MASC)	ὑπᾰτῐκῷ
-ὑπατικός	ADJ;GEN(DU;FEM)	ὑπᾰτῐκαῖν
-ὑπατικός	ADJ;GEN(DU;MASC)	ὑπᾰτῐκοῖν
-ὑπατικός	ADJ;GEN(DU;NEUT)	ὑπᾰτῐκοῖν
-ὑπατικός	ADJ;GEN(PL;NEUT)	ὑπᾰτῐκῶν
-ὑπατικός	ADJ;GEN(SG;MASC)	ὑπᾰτῐκοῦ
-ὑπατικός	ADJ;GEN(SG;NEUT)	ὑπᾰτῐκοῦ
-ὑπατικός	ADJ;NOM(DU;FEM)	ὑπᾰτῐκᾱ́
-ὑπατικός	ADJ;NOM(DU;MASC)	ὑπᾰτῐκώ
-ὑπατικός	ADJ;NOM(DU;NEUT)	ὑπᾰτῐκώ
-ὑπατικός	ADJ;NOM(PL;MASC)	ὑπᾰτῐκοί
-ὑπατικός	ADJ;NOM(PL;NEUT)	ὑπᾰτῐκᾰ́
-ὑπατικός	ADJ;NOM(SG;FEM)	ὑπᾰτῐκή
-ὑπατικός	ADJ;NOM(SG;MASC)	ὑπᾰτῐκός
-ὑπατικός	ADJ;VOC(PL;NEUT)	ὑπᾰτῐκᾰ́
-ὑπατικός	ADJ;VOC(SG;FEM)	ὑπᾰτῐκή
+ξένη	N;GEN;PL	τῶν ξενῶν
+προβολή	N;NOM;PL	αἱ προβολαί
+ἀσύνδετος	ADJ;NOM;DU;NEUT	ἀσῠνδέτω
+Σιντός	N;DAT;PL	τοῖς Σιντοῖς
+πόρνος	N;DAT;SG	τῷ πόρνῳ
+συγγενικός	ADJ;ACC;SG;MASC	συγγενικόν
+Λευιτικός	ADJ;GEN;SG;FEM	Λευιτικῆς
+Γίγας	N;DAT;PL	τοῖς Γῐ́γᾰνῐ
+τραῦμα	N;VOC;DU	τραύμᾰτε
+κόκκος	N;VOC;DU	κόκκω
+χάσμα	N;VOC;PL	χάσματᾰ
+κράββατος	N;VOC;PL	κρᾰ́ββᾰτοι
+θεόπνευστος	ADJ;DAT;DU	θεοπνεύστοιν
+θεή	N;GEN;PL	θεᾱ́ων / θεέων / θεῶν
+περισσός	ADJ;VOC;DU;FEM	περισσᾱ́
+στραβός	ADJ;ACC;DU;NEUT	στραβώ
+ἔργον	N;DAT;DU	τοῖν ἔργοιν
+Μεταπόντιος	N;ACC;SG	τὸν Μεταπόντιον
+ἀργύριον	N;DAT;SG	τῷ ἀργυρίῳ
+ἐμπρακτικός	ADJ;VOC;PL;FEM	ἐμπρακτικαί
+χθαμαλός	ADJ;NOM;SG;NEUT	χθαμαλόν
+κώπη	N;GEN;DU	τοῖν κώπαιν
+λεπίς	N;DAT;SG	τῇ λεπῐ́δῐ
+σημασία	N;VOC;DU	σημᾰσῐ́ᾱ
+βουκολικός	ADJ;NOM;PL;NEUT	βουκολικᾰ́
+συμβουλή	N;NOM;SG	συμβουλή
+ἄνισον	N;ACC;PL	τᾰ̀ ἄνῑσᾰ
+ξυλικός	ADJ;VOC;DU;NEUT	ξῠλῐκώ
+ὁλοθούριον	N;VOC;SG	ὁλοθούριον
+Περσίς	N;GEN;PL	τῶν Περσίδων
+πτέρυξ	N;DAT;PL	ταῖς πτέρῠξῐ
+ψιττακός	N;GEN;SG	τοῦ ψιττακοῦ
+οἰκουμενικός	ADJ;ACC;DU;MASC	οἰκουμενικώ
+Πελληνεύς	N;DAT;PL	τοῖς Πελληνεῦσῐ(ν)
+φυσικός	ADJ;ACC;DU;FEM	φυσικᾱ́
+ἀταραξία	N;VOC;DU	ᾰ̓τᾰρᾰξῐ́ᾱ
+δύναμις	N;NOM;SG	ἡ δῠ́νᾰμῐς
+συναίρεσις	N;NOM;PL	αἱ σῠναιρέσεις / σῠναίρεσεες
+γενέτης	N;GEN;PL	γενετῶν
+ἀκίς	N;VOC;SG	ἀκίς
+ὄρυζον	N;VOC;PL	ὄρυζᾰ
+σκολόπενδρα	N;DAT;DU	σκολοπένδραιν
+πλεκτικός	ADJ;DAT;SG;NEUT	πλεκτικῷ
+Πριηνεύς	N;GEN;SG	τοῦ Πριηνέως
+Ὠρείτης	N;GEN;PL	τῶν Ὠρειτῶν
+θής	N;GEN;PL	τῶν θητῶν
+φιλόδοξος	ADJ;GEN;DU;NEUT	φιλοδόξοιν
+λάλη	N;NOM;DU	τὼ λᾰ́λᾱ
+δρακόντιον	N;VOC;DU	δρᾰκοντῐ́ω
+δρακοντία	N;DAT;SG	τῇ δρᾰκοντῐ́ᾳ
+μαστός	N;ACC;DU	τὼ μᾰστώ
+πάνθηρ	N;GEN;SG	τοῦ πᾰ́νθηρος
+σπαστικός	ADJ;GEN;PL;FEM	σπαστικῶν
+ἄμβων	N;DAT;SG	τῷ ᾰ̓́μβωνῐ
+πυξίς	N;ACC;DU	πυξίδε
+ὀμίχλη	N;NOM;DU	τὼ ὀμῐ́χλᾱ
+ἔγκλισις	N;DAT;PL	ταῖς ἐγκλῐ́σεσῐ(ν)
+ἵππος	N;GEN;PL	τῶν ῐ̔́ππων
+ἐρυσίπελας	N;GEN;PL	τῶν ἐρῠσῐπελᾰ́των
+πεμπτός	ADJ;NOM;SG;NEUT	πεμπτόν
+πραγματικός	ADJ;DAT;PL;NEUT	πραγματικοῖς
+ἑκυρός	N;ACC;PL	τοὺς ἑκῠρούς
+πεντηκοστή	N;NOM;SG	ἡ πεντηκοστή
+ἄτοπος	ADJ;DAT;DU;NEUT	ἀτόποιν
+κώδων	N;VOC;DU	κώδωνε
+ληπτός	ADJ;NOM;PL;MASC	ληπτοί
+παιδνός	ADJ;VOC;DU;NEUT	παιδνώ
+κατουλάς	N;GEN;DU	τοῖν κᾰτουλᾰ́δοιν
+ᾦον	N;ACC;PL	τὰ ᾦᾰ
+ῥοπή	N;NOM;SG	ἡ ῥοπή
+πρᾶγμα	N;NOM;SG	τὸ πρᾶγμᾰ
+κάρυον	N;VOC;PL	κᾰ́ρῠᾰ
+Ὠρείτης	N;VOC;SG	Ὠρεῖτᾰ
+δεσμός	N;NOM;SG	δεσμός
+ἔργον	N;VOC;DU	ἔργω
+μαγειρικός	ADJ;GEN;PL;FEM	μαγειρικῶν
+Ἀτθίς	N;GEN;SG	τῆς Ἀτθίδος
+κακοθυμία	N;ACC;SG	τὴν κᾰκοθῡμῐ́ᾱν
+ἄφωνος	ADJ;GEN;PL;NEUT	ἀφώνων
+ὄρτυξ	N;ACC;DU	ὄρτυγε
+ἀγενεαλόγητος	ADJ;VOC;PL	ἀγενεᾱλόγητοι
+Ἁδριανουπολίτης	N;NOM;PL	οἱ Ἁδριανουπολῖται
+βδέλλα	N;ACC;DU	τὼ βδέλλᾱ
+ὁμολογητικός	ADJ;DAT;SG;NEUT	ὁμολογητῐκῷ
+σκώληξ	N;ACC;PL	σκώληκᾰς
+χρονογράφος	N;GEN;PL	τῶν χρονογράφων
+πραγματικός	ADJ;GEN;SG;NEUT	πραγματικοῦ
+δόσις	N;NOM;SG	τὸ δόσῐς
+συνώνυμον	N;GEN;PL	σῠνωνῠ́μων
+μαντεία	N;ACC;DU	μαντείᾱ
+καταιγισμός	N;NOM;DU	τὼ καταιγισμώ
+μῶμος	N;NOM;DU	μώμω
+Θούριος	N;DAT;SG	τῷ Θουρῐ́ῳ
+Τουσκλᾶνος	N;NOM;DU	τὼ Τουσκλάνω
+χοραγός	N;ACC;SG	τὸν χορᾱγόν
+Θαψακηνός	N;ACC;PL	τοὺς Θαψᾰκηνούς
+κάκη	N;VOC;SG	κᾰ́κη
+τέρας	N;ACC;PL	τᾰ̀ τέρᾰτᾰ
+ῥυτίς	N;NOM;PL	ῥυτίδες
+εὐθυμία	N;VOC;SG	εὐθῡμῐ́ᾱ
+Ἀσκαλωνίτης	N;ACC;SG	τὸν Ἀσκᾰλωνῑ́την
+ποιμήν	N;DAT;PL	τοῖς ποιμέσῐ
+συνθετικός	ADJ;NOM;DU;NEUT	συνθετικώ
+οὐσία	N;GEN;SG	τῆς οὐσῐ́ᾱς
+ἐφημερίς	N;GEN;PL	τῶν ἐφημερῐ́δων
+διαλυτικός	ADJ;VOC;DU;NEUT	δῐᾰλῠτῐκώ
+λογιστικός	ADJ;ACC;DU;FEM	λογιστικᾱ́
+ἐμμενετικός	ADJ;DAT;PL;FEM	ἐμμενετικαῖς
+φυσικός	ADJ;VOC;SG;NEUT	φυσικόν
+παντοκράτωρ	N;VOC;PL	πᾰντοκρᾰ́τορες
+βουνός	N;DAT;PL	βουνοῖς
+βουκολικός	ADJ;DAT;DU;NEUT	βουκολικοῖν
+Θρᾷξ	N;VOC;DU	Θρᾷκε
+σμερδνός	ADJ;GEN;PL;FEM	σμερδνῶν
+ἄρτημα	N;VOC;DU	ἀρτήματε
+φορά	N;DAT;DU	τοῖν φοραῖν
+ἀετός	N;DAT;DU	τοῖν ᾱ̓ετοῖν
+ἀποκολοκύντωσις	N;DAT;DU	τοῖν ἀποκολοκυντωσέοιν
+ἀλήθεια	N;ACC;PL	τᾱ̀ς ᾰ̓ληθείᾱς
+Ἐμεσηνός	ADJ;VOC;SG;NEUT	Ἐμεσηνόν
+ψύλλα	N;GEN;DU	τοῖν ψῠ́λλαιν
+ξήριον	N;GEN;DU	ξηρίοιν
+βυθός	N;ACC;SG	τὸν βῠθόν
+σύλλεκτος	ADJ;ACC;DU	συλλέκτω
+πεμπτός	ADJ;ACC;SG;MASC	πεμπτόν
+ἀγενησία	N;NOM;SG	ἡ ἀγενησίᾱ
+ἱμάτιον	N;NOM;PL	ἱμάτιᾰ
+γέννασις	N;VOC;DU	γεννᾱ́σει / γεννᾱ́σεε
+κενός	ADJ;GEN;DU;MASC	κενοῖν
+Ἐμεσηνός	ADJ;GEN;SG;FEM	Ἐμεσηνῆς
+μαρτύριον	N;DAT;SG	τῷ μαρτῠρίῳ
+Ἰλλυριός	N;GEN;SG	τοῦ Ἰλλυριοῦ
+κῶμος	N;DAT;DU	κώμοιν
+παρρησία	N;VOC;DU	πᾰρρησῐ́ᾱ
+διάταξις	N;VOC;SG	δῐᾰ́τᾰξῐ
+εὐθυντηρία	N;VOC;SG	εὐθῡντηρῐ́ᾱ
+κλιμακτήρ	N;DAT;PL	τοῖς κλῑμᾰκτῆρσῐ
+ἀναγωγή	N;NOM;SG	ἡ ᾰ̓νᾰγωγή
+ἀποπληκτικός	ADJ;DAT;PL;FEM	ἀποπληκτικαῖς
+δελφίς	N;DAT;DU	τοῖν δελφῑ́νοιν
+γραφικός	ADJ;VOC;PL;FEM	γραφικαί
+ἀπροσδόκητος	ADJ;ACC;SG;NEUT	ἀπροσδόκητον
+κόλυμβος	N;GEN;DU	τοῖν κολύμβοιν
+Λαμψακηνός	N;ACC;DU	τὼ Λαμψᾰκηνώ
+προσκεφάλαιον	N;NOM;SG	τὸ προσκεφᾰ́λαιον
+Εἵλως	N;ACC;SG	τὸν Εἵλωτᾰ
+τοπικός	ADJ;ACC;DU;NEUT	τοπικώ
+στοχαστικός	ADJ;NOM;DU;FEM	στοχαστικᾱ́
+νομοθετικός	ADJ;ACC;DU;NEUT	νομοθετικώ
+ἀρχός	N;ACC;DU	τὼ ἀρχώ
+σημαντικός	ADJ;ACC;DU;FEM	σημαντικᾱ́
+Σαμαρίτης	N;VOC;DU	Σᾰμᾰρῑ́τᾱ
+λογεῖον	N;NOM;DU	τὼ λογείω
+ταπεινός	ADJ;NOM;SG;FEM	ταπεινή
+λαλιά	N;DAT;PL	ταῖς λᾰλῐαῖς
+ὀξύτονος	ADJ;GEN;SG	ὀξῠτόνου
+ἠλακατήν	N;DAT;PL	τοῖς ἠλᾰκᾰτῆσῐ
+ἀντίλογος	ADJ;GEN;DU	ἀντῐλόγοιν
+σταυρός	N;ACC;DU	σταυρώ
+φόρμιγξ	N;VOC;DU	φόρμιγγε
+παράνομος	ADJ;VOC;PL	παράνομοι
+λαός	N;GEN;DU	τοῖν λᾱοῖν
+αὐγή	N;VOC;DU	αὐγᾱ́
+ὄζος	N;GEN;PL	τῶν ὄζων
+Ἰταλός	N;DAT;DU	τοῖν Ἰτᾰλοῖν
+ταπεινωτικός	ADJ;ACC;SG;FEM	ταπεινωτικήν
+αἰγίς	N;ACC;PL	τὰς αἰγῐ́δᾰς
+σκῆπτρον	N;ACC;DU	τὼ σκήπτρω
+ἔκτασις	N;GEN;DU	τοῖν ἐκτᾰσέοιν
+ὄκρις	N;GEN;DU	ὀκρῐ́οιν
+καταστροφή	N;NOM;SG	ἡ κᾰτᾰστροφή
+ῥάδιξ	N;ACC;DU	ῥᾱδῖκε
+στροφή	N;DAT;PL	ταῖς στροφαῖς
+Ἰλλυριός	N;DAT;PL	τοῖς Ἰλλυριοῖς
+μοιχός	N;VOC;PL	μοιχοί
+ἄθλημα	N;DAT;PL	τοῖς ἀθλήμᾰσῐ
+ἡγεμών	N;GEN;PL	τῶν ἡγεμόνων
+σύστημα	N;VOC;DU	συστήμᾰτε
+αἰτία	N;NOM;DU	τὼ αἰτῐ́ᾱ
+στέμμα	N;NOM;SG	τὸ στέμμᾰ
+χελώνη	N;GEN;SG	τῆς χελώνης
+ἀπότασις	N;DAT;DU	τοῖν ἀποτᾰσέοιν
+δίπολις	N;DAT;PL	ταῖς δῐπόλεσῐ(ν)
+ὑπερθετικός	ADJ;ACC;SG;MASC	ὑπερθετικόν
+ἡστικός	ADJ;ACC;SG;MASC	ἡστικόν
+Λίγυς	N;NOM;DU	τὼ Λίγῠε
+προθετικός	ADJ;VOC;SG;NEUT	προθετικόν
+Λευκανός	N;ACC;SG	τὸν Λευκᾱνόν
+λῆμμα	N;DAT;DU	τοῖν λημμᾰ́τοιν
+Ὠρείτης	N;NOM;PL	οἱ Ὠρεῖται
+θρεπτικός	ADJ;VOC;SG;NEUT	θρεπτῐκόν
+ἄνοια	N;GEN;PL	τῶν ἀνοιῶν
+προσθετικός	ADJ;NOM;PL;FEM	προσθετικαί
+ὀρφανός	ADJ;DAT;DU;NEUT	ὀρφανοῖν
+βράκος	N;ACC;SG	βράκον
+φυτικός	ADJ;NOM;DU;FEM	φυτικᾱ́
+ἀθάρη	N;DAT;SG	τῇ ἀθάρῃ
+κριός	N;NOM;DU	τὼ κρῑώ
+ἀκέφαλος	ADJ;GEN;SG;NEUT	ἀκεφάλου
+πίναξ	N;DAT;PL	τοῖς πῐ́νᾰξῐ
+ἠΐθεος	N;NOM;DU	ἠϊθέω
+φυσικός	ADJ;ACC;PL;MASC	φυσικούς
+πήγανον	N;NOM;SG	πήγανον
+διλοχίτης	N;VOC;DU	διλοχῑ́τᾱ
+Δόλοψ	N;DAT;DU	τοῖν Δολόποιν
+ἐνθυμία	N;ACC;DU	ἐνθυμίᾱ
+εὐθυμία	N;DAT;PL	ταῖς εὐθῡμῐ́αις
+ὅμιλος	N;NOM;DU	τὼ ὁμῑ́λω
+Νέρβιος	N;DAT;SG	τῷ Νερβίῳ
+καπνός	N;DAT;SG	τῷ καπνῷ
+ταλαίπωρος	ADJ;DAT;PL	ταλαιπώροις
+ἔορ	N;NOM;DU	ἔορε
+πομπός	N;VOC;SG	πομπέ
+χοῖρος	N;DAT;DU	τοῖν χοίροιν
+ἀνταλλαγή	N;GEN;DU	τοῖν ᾰ̓ντᾰλλᾰγαῖν
+ἐκκύκλημα	N;NOM;DU	τὼ ἐκκῠκλήμᾰτε
+προσθετικός	ADJ;DAT;SG;FEM	προσθετικῇ
+ἄκορος	N;DAT;SG	τῇ ἀκόρῳ
+ζηλωτής	N;DAT;SG	ζηλωτῇ
+παλαιοράφος	N;GEN;DU	τοῖν πᾰλαιορᾰ́φοιν
+αἰών	N;ACC;SG	τὸν αἰῶνᾰ
+βοτάνη	N;NOM;PL	βόταναι
+βία	N;ACC;PL	τᾱ̀ς βῐ́ᾱς
+κόϊξ	N;DAT;PL	τοῖς κόϊξῐ
+κατοικικός	ADJ;DAT;DU;MASC	κᾰτοικῐκοῖν
+ἐμπρακτικός	ADJ;NOM;SG;MASC	ἐμπρακτικός
+ἐπιθετικός	ADJ;VOC;PL;FEM	ἐπιθετικαί
+τρόπαιον	N;VOC;DU	τροπαίω
+ἀπομνημόνευμα	N;VOC;PL	ἀπομνημονεύμᾰτᾰ
+ἥρως	N;ACC;PL	ἥρωᾰς
+ἐπιείκεια	N;NOM;SG	ἐπιείκειᾰ
+Ἀντιάτης	N;DAT;PL	τοῖς Ἀντῐᾱ́ταις
+νεκυϊκός	ADJ;VOC;PL;NEUT	νεκῠϊκᾰ́
+διάγνωσις	N;GEN;PL	τῶν δῐᾰγνώσεων
+πάθη	N;GEN;PL	τῶν πᾰθῶν
+ἐμμενετικός	ADJ;GEN;DU;MASC	ἐμμενετικοῖν
+σκύμνος	N;ACC;PL	τοὺς, τᾱ̀ς σκύμνους
+ξόανον	N;ACC;PL	ξόανᾰ
+ἐπίδειξις	N;NOM;DU	τὼ ἐπιδείξει / ἐπιδείξεε
+κύπρος	N;VOC;DU	κύπρω
+Στράτιος	N;DAT;SG	τῷ Στρατίῳ
+παιδνός	ADJ;ACC;SG;MASC	παιδνόν
+ἐπιτομή	N;DAT;SG	ἐπιτομῇ
+φαλλός	N;ACC;DU	τὼ φαλλώ
+ῥίς	N;NOM;SG	ἡ ῥῑ́ς
+βασίλεια	N;ACC;PL	τᾱ̀ς βασιλείᾱς
+σχέμα	N;ACC;PL	τᾰ̀ σχέμᾰτᾰ
+ξήριον	N;DAT;DU	ξηρίοιν
+ἐγρήγορος	ADJ;NOM;SG	ἐγρήγορος
+κόλυμβος	N;VOC;PL	κόλυμβοι
+Μάγος	N;VOC;PL	Μᾰ́γοι
+συμπρακτικός	ADJ;NOM;DU;NEUT	συμπρακτικώ
+ἀμυγδάλη	N;ACC;SG	τὴν ᾰ̓μῠγδᾰ́λην
+παιδιά	N;NOM;PL	αἱ παιδῐαί
+Ἑλληνίς	N;DAT;DU	τοῖν Ἑλληνῐ́δοιν
+παράδειγμα	N;ACC;SG	παράδειγμα
+ὀνομαστικός	ADJ;GEN;DU;NEUT	ὀνομαστικοῖν
+ἀορτή	N;NOM;DU	τὼ ᾰ̓ορτᾱ́
+ἦμαρ	N;DAT;SG	τῷ ἤμᾰτῐ
+κράσπεδον	N;DAT;PL	τοῖς κρασπέδοις
+σῶμα	N;DAT;PL	τοῖς σώμᾰσῐ
+κλιμακτήρ	N;NOM;SG	ὁ κλῑμᾰκτήρ
+ἀκόλουθος	ADJ;VOC;DU	ἀκολούθω
+λογισμός	N;DAT;SG	τῷ λογισμῷ
+στοιχειολάτρης	N;GEN;SG	τοῦ στοιχειολᾰ́τρου
+νυός	N;NOM;PL	αἱ νῠοί
+ἥρως	N;NOM;DU	ἥρωε
+παλίμψηστος	ADJ;VOC;DU	παλιμψήστω
+πελιδνός	ADJ;GEN;DU;NEUT	πελιδνοῖν
+φώκαινα	N;ACC;DU	τὼ φωκαίνᾱ
+Σαΐτης	N;NOM;DU	τὼ Σαΐτᾱ
+εὐεργέτης	N;NOM;PL	οἱ εὐεργέται
+Νομάς	N;DAT;PL	τοῖς Νομάσῐ(ν)
+Χριστιανικός	ADJ;VOC;DU;NEUT	Χριστιᾱνῐκώ
+σκύλαξ	N;VOC;SG	σκῠ́λᾰξ
+θυσία	N;DAT;DU	τοῖν θῠσῐ́αιν
+γονεύς	N;VOC;PL	γονεῖς
+σφυγμικός	ADJ;ACC;DU;NEUT	σφυγμικώ
+Πλαταιεύς	N;ACC;SG	τὸν Πλᾰταιέᾱ
+πλεκτικός	ADJ;GEN;SG;MASC	πλεκτικοῦ
+βλέφαρον	N;VOC;SG	βλέφᾰρον
+Ῥωμαϊκός	ADJ;DAT;SG;MASC	Ῥωμαϊκῷ
+γαλαξίας	N;GEN;SG	τοῦ γᾰλᾰξῐ́ου
+σάβανον	N;DAT;SG	τῷ σᾰβᾰ́νῳ
+κάκκη	N;GEN;DU	τοῖν κάκκαιν
+φρουρά	N;GEN;DU	τοῖν φρουραῖν
+ἵστωρ	N;ACC;PL	τοὺς ῐ̔́στορᾰς
+ὑπόθεσις	N;NOM;DU	τὼ ῠ̔ποθέσει / ῠ̔ποθέσεε
+δηλητήρ	N;GEN;DU	τοῖν δηλητήροιν
+μισογυνία	N;GEN;DU	τοῖν μῑσογῠνῐ́αιν
+γεωργός	ADJ;VOC;DU	γεωργώ
+μαργαρίτης	N;GEN;SG	τοῦ μαργᾰρῑ́του
+ἀνασύνταξις	N;NOM;SG	ἡ ᾰ̓νᾰσῠ́ντᾰξῐς
+πλοῖον	N;NOM;DU	τὼ πλοίω
+κέφαλος	N;NOM;PL	οἱ κέφᾰλοι
+ὠφελία	N;GEN;SG	ὠφελῐ́ᾱς
+χορδή	N;GEN;DU	χορδαῖν
+ζῳγραφία	N;DAT;SG	τῇ ζῳγρᾰφῐ́ᾳ
+Σελευκεύς	N;VOC;PL	Σελευκεῖς
+δηλητήρ	N;VOC;SG	δηλητήρ
+Μαρσός	N;GEN;SG	τοῦ Μαρσοῦ
+πολύσπαστον	N;ACC;DU	τὼ πολυσπᾰ́στω
+ὄρχις	N;NOM;PL	οἱ, αἱ ὄρχεις / ὄρχεες
+χορδή	N;DAT;SG	χορδῇ
+μῶμος	N;DAT;SG	μώμῳ
+ψάρ	N;DAT;PL	τοῖς ψᾱρσῐ́
+ὑλικός	ADJ;DAT;DU;MASC	ὑλικοῖν
+γόμφος	N;VOC;SG	γόμφε
+μέτωπον	N;DAT;PL	τοῖς μετώποις
+χοραγός	N;NOM;DU	τὼ χορᾱγώ
+ἀφαιρετικός	ADJ;VOC;DU;NEUT	ᾰ̓φαιρετῐκώ
+πυρετός	N;VOC;PL	πῠρετοί
+φοξῖνος	N;NOM;DU	φοξίνω
+εὐθυντηρία	N;ACC;SG	τὴν εὐθῡντηρῐ́ᾱν
+ὑποχονδριακός	ADJ;NOM;PL;NEUT	ὑποχονδριακᾰ́
+ἁγιωσύνη	N;DAT;PL	ἁγιωσύναις
+γραφικός	ADJ;NOM;PL;MASC	γραφικοί
+Ἀμπρακιώτης	N;ACC;SG	τὸν Ἀμπρᾰκῐώτην
+κρήδεμνον	N;NOM;PL	τᾰ̀ κρήδεμνᾰ
+σορός	N;ACC;DU	τὼ σορώ
+ζηλωτής	N;DAT;DU	ζηλωταῖν
+βυσσός	N;ACC;DU	τὼ βῠσσώ
+χθαμαλός	ADJ;VOC;PL;FEM	χθαμαλαί
+σπάλαξ	N;ACC;PL	τὰς σπᾰ́λᾰκᾰς
+ὑποχονδριακός	ADJ;GEN;SG;FEM	ὑποχονδριακῆς
+πέλμα	N;ACC;DU	τὼ πέλμᾰτε
+ἀνεψιός	N;VOC;PL	ᾰ̓νεψῐοί
+ἑξηκοντάς	N;DAT;PL	ταῖς ἑξηκοντᾰ́σῐ
+κυνοδέσμη	N;ACC;SG	τὴν κῠνοδέσμην
+Ἐμεσηνός	ADJ;DAT;DU;FEM	Ἐμεσηναῖν
+δυάς	N;ACC;DU	δυάδε
+βία	N;DAT;SG	τῇ βῐ́ᾳ
+ὀρθοέπεια	N;DAT;SG	τῇ ὀρθοεπείᾳ
+στρατηγία	N;GEN;SG	στρατηγῐ́ᾱς
+Θούριος	N;VOC;SG	Θούρῐε
+ὕσσωπος	N;GEN;SG	τοῦ ὑσσώπου
+εὐχαριστία	N;DAT;PL	ταῖς εὐχᾰρῐστῐ́αις
+στρατιώτης	N;DAT;PL	στρατιώταις
+πατήρ	N;DAT;SG	τῷ πᾰτρῐ́, πᾰτέρῐ
+κέρκος	N;GEN;SG	τῆς κέρκου
+Ἰλλυριός	N;DAT;DU	τοῖν Ἰλλυριοῖν
+τέκτων	N;DAT;PL	τοῖς τέκτουσῐ(ν)
+ἀμαύρωσις	N;ACC;SG	τὴν ᾰ̓μαύρωσῐν
+μονοπώλιον	N;GEN;DU	μονοπωλίοιν
+ὄρυζα	N;GEN;PL	τῶν ὀρυζῶν
+πρῷρα	N;NOM;SG	ἡ πρῷρᾰ
+ἀνθυπατεία	N;DAT;SG	τῇ ᾰ̓νθῠπᾰτείᾳ
+σμίλη	N;DAT;PL	ταῖς σμίλαις
+ὀξεῖα	N;GEN;DU	ὀξείαιν
+Σαβῖνος	N;NOM;DU	τὼ Σαβῑ́νω
+ἀράχνη	N;DAT;SG	τῇ ᾰ̓ρᾰ́χνῃ
+κόκκος	N;NOM;SG	ὁ κόκκος
+πατρίς	N;VOC;SG	πᾰτρῐ́ς
+ἀξιοπρέπεια	N;VOC;SG	ἀξιοπρέπειᾰ
+ἀνδρόγυνος	ADJ;ACC;PL;NEUT	ἀνδρόγυνα
+Καλπούρνιος	N;GEN;PL	τῶν Καλπουρνίων
+ἐκκλησία	N;ACC;DU	τὼ ἐκκλησῐ́ᾱ
+ἐλεφαντίασις	N;ACC;SG	τὴν ἐλεφᾰντῐ́ᾱσῐν
+οὐρά	N;DAT;DU	τοῖν οὐραῖν
+δραχμή	N;GEN;DU	τοῖν δρᾰχμαῖν
+ἀντιμετάταξις	N;GEN;SG	τῆς ᾰ̓ντῐμετᾰτᾰ́ξεως
+ἐπιθανάτιος	ADJ;NOM;DU	ἐπιθανατίω
+σημαντικός	ADJ;ACC;SG;FEM	σημαντικήν
+οἰκητικός	ADJ;ACC;PL;NEUT	οἰκητικᾰ́
+Μάγνης	N;VOC;DU	Μάγνητε
+συμμαχία	N;NOM;SG	ἡ συμμαχῐ́ᾱ
+συγκοπή	N;NOM;PL	συγκοπαί
+πατήρ	N;GEN;SG	τοῦ πᾰτρός, πᾰτέρος
+Ἰνδός	N;DAT;DU	τοῖν Ἰνδοῖν
+βρῶμα	N;ACC;PL	τᾰ̀ βρώμᾰτᾰ
+τραγῳδία	N;ACC;PL	τᾱ̀ς τραγῳδίᾱς
+κίχλη	N;GEN;PL	τῶν κῐχλῶν
+ἀπόθεος	ADJ;NOM;PL;NEUT	ἀπόθεα
+χθαμαλός	ADJ;DAT;SG;FEM	χθαμαλῇ
+ὄρφνη	N;ACC;PL	τὰς ὄρφνᾱς
+ἐπιφάνεια	N;NOM;PL	ἐπιφάνειαι
+μυθολογία	N;ACC;PL	τὰς μῡθολογῐ́ᾱς
+ἀσύνδετος	ADJ;NOM;PL;NEUT	ἀσῠ́νδετα
+ἐπιφάνεια	N;NOM;DU	ἐπιφανείᾱ
+οὐρανός	N;VOC;SG	οὐρᾰνέ
+θηρίον	N;GEN;PL	τῶν θηρῐ́ων
+ὥρα	N;VOC;DU	ὥρᾱ
+ὄζος	N;VOC;SG	ὄζε
+Μεσσάπιος	N;DAT;SG	τῷ Μεσσαπίῳ
+πτίλον	N;VOC;DU	πτῐ́λω
+ὀμίχλη	N;GEN;PL	τῶν ὀμῐχλῶν
+χρεία	N;VOC;SG	χρείᾱ
+δασύτης	N;DAT;DU	τοῖν δᾰσῠτήτοιν
+ὀλοφυδνός	ADJ;GEN;SG;NEUT	ὀλοφυδνοῦ
+πήγανον	N;VOC;SG	πήγανον
+διάλεκτος	N;GEN;PL	τῶν δῐᾰλέκτων
+ὤψ	N;NOM;PL	αἱ ὦπες
+σκάνδαλον	N;VOC;PL	σκάνδαλᾰ
+ξυρόν	N;NOM;DU	ξυρώ
+εὐτύχημα	N;VOC;SG	εὐτῠ́χημᾰ
+ἐπαγωγή	N;ACC;PL	τᾱ̀ς ἐπᾰγωγᾱ́ς
+ἀκατάληπτος	ADJ;DAT;DU;NEUT	ἀκαταλήπτοιν
+κατουλάς	N;VOC;DU	κᾰτουλᾰ́δε
+βούτυρος	N;GEN;SG	τοῦ βουτύρου
+ἀνθρακιά	N;ACC;PL	τᾱ̀ς ᾰ̓νθρᾰκῐᾱ́ς
+χρηστήριον	N;GEN;SG	τοῦ χρηστηρίου
+ὀξεῖα	N;DAT;SG	ὀξείᾳ
+ἐξομολογητικός	ADJ;DAT;PL;MASC	ἐξομολογητῐκοῖς
+πρᾶγμα	N;ACC;SG	τὸ πρᾶγμᾰ
+ἀσθένεια	N;VOC;DU	ἀσθενείᾱ
+γραμματική	N;VOC;PL	γρᾰμμᾰτῐκαί
+πάνθηρ	N;VOC;DU	πᾰ́νθηρε
+Χριστεπώνυμος	ADJ;GEN;PL;NEUT	Χριστεπωνύμων
+ἄσυλον	N;DAT;PL	τοῖς ᾰ̓σῡ́λοις
+σεληνιακός	ADJ;ACC;PL;FEM	σεληνιακᾱ́ς
+ἀθυμία	N;DAT;PL	ταῖς ἀθῡμῐ́αις
+ἔμφασις	N;ACC;DU	τὼ ἐμφᾰ́σει / ἐμφᾰ́σεε
+ἀγνόημα	N;VOC;DU	ἀγνοήματε
+Ῥωμανός	N;VOC;SG	Ῥωμᾱνέ
+περισπασμός	N;GEN;DU	τοῖν περῐσπᾰσμοῖν
+ἄφωνος	ADJ;DAT;DU	ἀφώνοιν
+θρόνος	N;VOC;PL	θρόνοι
+καμπή	N;VOC;PL	καμπαί
+παλίμψηστος	ADJ;VOC;SG;NEUT	παλίμψηστον
+φύλλον	N;NOM;DU	τὼ φῠ́λλω
+γενέτης	N;VOC;DU	γενέτᾱ
+τιμωρία	N;NOM;DU	τὼ τῑμωρῐ́ᾱ
+δελφύς	N;GEN;DU	δελφύοιν
+θέλημα	N;NOM;DU	τὼ θελήμᾰτε
+στόμα	N;VOC;DU	στόμᾰτε
+σπόρος	N;DAT;DU	τοῖν σπόροιν
+κέντρον	N;DAT;SG	κέντρῳ
+Λάκων	N;DAT;DU	τοῖν Λᾰκώνοιν
+δίπλωμα	N;ACC;PL	τᾰ̀ δῐπλώμᾰτᾰ
+Ἱεραπολίτης	N;NOM;PL	οἱ Ἱερᾱπολῖται
+ἀρυβαλίς	N;ACC;SG	τὴν ἀρῠβαλῐ́δᾰ
+ἀσύνδετος	ADJ;NOM;SG;NEUT	ἀσῠ́νδετον
+κοῦρος	N;DAT;PL	κούροισῐ / κούροις
+ἀπόδοσις	N;VOC;PL	ἀποδόσεις / ἀπόδοσεες
+Ἠδών	N;ACC;SG	τὸν Ἠδῶνᾰ
+σατυρίησις	N;VOC;PL	σᾰτῠρῐήσεις / σᾰτῠρῐ́ησεες
+πολυχρόνιος	ADJ;NOM;DU;NEUT	πολῠχρονῐ́ω
+κρηνοφύλαξ	N;ACC;SG	κρηνοφῠ́λᾰκᾰ
+μάτηρ	N;GEN;PL	τᾶν μᾱτέρων
+οὐτιδανός	ADJ;NOM;DU;MASC	ουτιδανώ
+Πάμφυλος	N;VOC;PL	Πᾰ́μφῡλοι
+κόθορνος	N;ACC;SG	κόθορνον
+Ἀλβανός	N;VOC;SG	Ἀλβᾱνέ
+νεκυϊσμός	N;ACC;PL	τοὺς νεκῠϊσμούς
+γυμνάσιον	N;NOM;PL	τᾰ̀ γῠμνᾰ́σῐᾰ
+διάψαλμα	N;NOM;DU	τὼ δῐᾰψᾰ́λμᾰτε
+Κυδωνιάτης	N;GEN;PL	τῶν Κῠδωνῐᾱτῶν
+ἱλαστής	N;VOC;DU	ἱλαστᾱ́
+ἁλιαίετος	N;VOC;PL	ᾰ̔λῐαίετοι
+πρόνοια	N;ACC;DU	τὼ προνοίᾱ
+ἀνάπαιστος	ADJ;VOC;DU	ἀναπαίστω
+δυναμικός	ADJ;VOC;DU;NEUT	δυναμικώ
+λήκυθος	N;DAT;SG	ληκύθῳ
+φρουρά	N;VOC;PL	φρουραί
+Θεσσαλίς	N;ACC;PL	τᾱ̀ς Θεσσᾰλῐ́δᾰς
+ἄκανθος	N;NOM;PL	οἱ ἄκᾰνθοι
+βοηθός	N;DAT;DU	τοῖν βοηθοῖν
+ψήρ	N;VOC;SG	ψήρ
+Ῥωμαϊκός	ADJ;GEN;DU;MASC	Ῥωμαϊκοῖν
+ἀρχιερεύς	N;VOC;SG	ἀρχιερεῦ
+ἔμβρυον	N;VOC;DU	ἐμβρῠ́ω
+ἀνδρεία	N;GEN;DU	τοῖν ᾰ̓νδρείαιν
+προσῳδία	N;ACC;SG	τὴν προσῳδῐ́ᾱν
+φλύκταινα	N;ACC;SG	τὴν φλύκταινᾰν
+νεκυϊκός	ADJ;NOM;PL;MASC	νεκῠϊκοί
+ἄκαρπος	ADJ;NOM;DU	ἀκάρπω
+σμερδνός	ADJ;DAT;PL;FEM	σμερδναῖς
+τοπικός	ADJ;NOM;SG;NEUT	τοπικόν
+ἀνάτασις	N;GEN;SG	τῆς ᾰ̓νᾰτᾰ́σεως
+ἵστωρ	N;NOM;PL	οἱ ῐ̔́στορες
+χαίτα	N;NOM;SG	ᾱ̔ χαίτᾱ
+δεῖπνον	N;GEN;PL	τῶν δείπνων
+πάθημα	N;NOM;SG	πᾰ́θημᾰ
+βαρυθυμία	N;ACC;SG	τὴν βᾰρῠθῡμῐ́ᾱν
+στιγμή	N;VOC;DU	στῐγμᾱ́
+στιγμή	N;DAT;DU	τοῖν στῐγμαῖν
+ἔλαιον	N;DAT;SG	ἐλαίῳ
+οἰκέτης	N;NOM;PL	οἱ οἰκέται
+ἔρως	N;NOM;PL	οἱ ἔρωτες
+ἐπισυνθετικός	ADJ;NOM;DU;FEM	ἐπισυνθετικᾱ́
+φάσηλος	N;ACC;SG	τὸν φᾰ́σηλον
+ἐφημερία	N;DAT;SG	ἐφημερῐ́ᾳ
+οἰκουμενικός	ADJ;NOM;PL;MASC	οἰκουμενικοί
+κονίς	N;DAT;DU	τοῖν κονῐ́δοιν
+γραμματική	N;GEN;SG	τῆς γρᾰμμᾰτῐκῆς
+συγγνώμη	N;DAT;DU	συγγνώμαιν
+βαλαντίδιον	N;NOM;SG	τὸ βαλαντίδιονον
+λέπαδνον	N;VOC;SG	λέπαδνόν
+ἐχῖνος	N;DAT;PL	ἐχίνοις
+κέραμος	N;NOM;PL	οἱ κέρᾰμοι
+ἄμορφος	ADJ;GEN;SG	ἀμόρφου
+μέλι	N;GEN;SG	τοῦ μέλῐτος
+καρδία	N;NOM;PL	αἱ κᾰρδῐ́αι
+ἕσπερος	ADJ;ACC;DU	ἑσπέρω
+παθικός	N;GEN;SG	τοῦ πᾰθῐκοῦ
+διάμετρον	N;NOM;DU	διαμέτρω
+χόρτος	N;VOC;DU	χόρτω
+ἀγγελία	N;GEN;PL	τῶν ἀγγελῐῶν
+θυσιαστήριον	N;DAT;PL	τοῖς θῠσῐᾰστηρῐ́οις
+Σικανός	N;NOM;PL	οἱ Σῐκᾱνοί
+ποιητής	N;DAT;DU	τοῖν ποιηταῖν
+ζωγράφος	N;NOM;PL	οἱ ζωγρᾰ́φοι
+τετρασύλλαβος	ADJ;DAT;SG;NEUT	τετρασυλλάβῳ
+ποδαγρικός	ADJ;GEN;DU;MASC	ποδᾰγρῐκοῖν
+λέμμα	N;NOM;PL	τᾰ̀ λέμμᾰτᾰ
+Λάκων	N;NOM;PL	οἱ Λᾰ́κωνες
+γαλεός	N;GEN;PL	τῶν γᾰλεῶν
+βοηθός	N;ACC;DU	τὼ βοηθώ
+βάλλις	N;ACC;PL	τᾱ̀ς βᾰ́λλεις
+συγκαταθετικός	ADJ;GEN;SG;MASC	συγκαταθετικοῦ
+κάμπη	N;NOM;PL	αἱ κᾶμπαι
+σφυγμικός	ADJ;NOM;SG;FEM	σφυγμική
+ἐπιστάτης	N;ACC;SG	τὸν ἐπῐστᾰ́την
+στατήρ	N;DAT;PL	τοῖς στᾰτῆρσῐ
+ἐπαγωγή	N;NOM;DU	τὼ ἐπᾰγωγᾱ́
+μαρτυρία	N;NOM;SG	ἡ μαρτυρῐ́ᾱ
+ἐρωτικός	ADJ;VOC;SG;NEUT	ἐρωτικόν
+Γερμανός	N;NOM;DU	τὼ Γερμᾱνώ
+ἀκροβυστία	N;GEN;SG	τῆς ἀκροβυστῐ́ᾱς
+βολή	N;GEN;DU	τοῖν βολαῖν
+χειρονόμος	N;DAT;PL	χειρονόμοις
+Πάμφυλος	N;ACC;DU	τὼ Πᾰμφῡ́λω
+βούπαις	N;VOC;PL	βούπαιδες
+σημαντικός	ADJ;GEN;DU;NEUT	σημαντικοῖν
+καινότης	N;VOC;SG	καινότης
+σατυρίασις	N;VOC;DU	σᾰτῠρῐᾱ́σει / σᾰτῠρῐᾱ́σεε
+ἄμορφος	ADJ;VOC;SG	ἄμορφε
+κλύδων	N;DAT;DU	τοῖν κλῠδώνοιν
+ὑπνωτικός	ADJ;VOC;DU;NEUT	ὑπνωτικώ
+ἵππος	N;ACC;DU	τὼ ῐ̔́ππω
+ταμίας	N;NOM;SG	ὁ ταμίᾱς
+νεκυϊκός	ADJ;VOC;DU;NEUT	νεκῠϊκώ
+ἐπιγραφή	N;VOC;PL	ἐπῐγρᾰφαί
+Σκύθαινα	N;DAT;SG	τῇ Σκῠθαίνῃ
+δυναμικός	ADJ;ACC;SG;MASC	δυναμικόν
+ἄκμων	N;GEN;PL	ἀκμονων
+κύλινδρος	N;DAT;PL	τοῖς κῠλίνδροις
+Τευκρός	N;GEN;DU	τοῖν Τευκροῖν
+πυρετός	N;DAT;PL	τοῖς πῠρετοῖς
+συναίρεσις	N;VOC;PL	σῠναιρέσεις / σῠναίρεσεες
+ἱεραρχία	N;NOM;DU	τὼ ἱεραρχίᾱ
+τοξότης	N;ACC;SG	τὸν τοξότην
+οἰήϊον	N;DAT;PL	οἰηΐοις
+ἔριφος	N;NOM;PL	οἱ, αἱ ἔρῐφοι
+σημαντικός	ADJ;GEN;PL;NEUT	σημαντικῶν
+ἰδίωμα	N;ACC;PL	τὰ ῐ̓δῐώμᾰτᾰ
+οὖς	N;DAT;PL	τοῖς ὠσῐ́
+ἔλαιον	N;NOM;PL	ἔλαιᾰ
+φοιτητής	N;VOC;DU	φοιτητᾱ́
+γρύψ	N;NOM;DU	τὼ γρῦπε
+φάντασμα	N;ACC;DU	τὼ φᾰντᾰ́σμᾰτε
+κωμῳδία	N;VOC;DU	κωμῳδῐ́ᾱ
+ἁγιασμός	N;DAT;DU	τοῖν ἁγιασμοῖν
+πόρνος	N;ACC;DU	τὼ πόρνω
+τροχός	N;DAT;SG	τροχῷ
+αὐτοκράτωρ	N;DAT;SG	τῷ αὐτοκράτορῐ
+κατασκευή	N;ACC;PL	τᾱ̀ς κᾰτᾰσκευᾱ́ς
+ἰχώρ	N;DAT;DU	ἰχώροιν
+ὑπατικός	ADJ;ACC;SG;MASC	ὑπᾰτῐκόν
+ἀμίαντος	ADJ;VOC;DU;NEUT	ἀμιάντω
+ἀμίαντος	ADJ;VOC;SG;NEUT	ἀμίαντον
+ὑπερθετικός	ADJ;VOC;DU;NEUT	ὑπερθετικώ
+πυρετός	N;DAT;DU	τοῖν πῠρετοῖν
+φιλόδοξος	ADJ;GEN;SG	φιλοδόξου
+εὔτηκτος	ADJ;ACC;DU	εὐτήκτω
+αἰδοῖον	N;DAT;DU	αἰδοίοιν
+Σταγειρίτης	N;VOC;DU	Σταγειρῑ́τᾱ
+περιτομή	N;VOC;SG	περῐτομή
+ἀστρολογία	N;VOC;SG	ἀστρολογίᾱ
+συνώνυμος	ADJ;NOM;DU;NEUT	συνωνύμω
+μεταφορά	N;NOM;PL	αἱ μετᾰφοραί
+Θρῇσσα	N;DAT;SG	τῇ Θρῄσσῃ
+κακία	N;NOM;DU	τὼ κᾰκῐ́ᾱ
+ἀνάλυσις	N;VOC;SG	ἀνάλυσῐ
+στέλεχος	N;VOC;DU	στελέχω
+χρηστήριον	N;DAT;SG	τῷ χρηστηρίῳ
+στατικός	ADJ;NOM;SG;NEUT	στατικόν
+Δάκης	N;DAT;PL	τοῖς Δάκαις
+ἀγριέλαιος	ADJ;GEN;SG;NEUT	ἀγριελαίου
+ἀποθέωσις	N;NOM;SG	ἡ ἀποθέωσῐς
+ἀκρίς	N;ACC;PL	τᾱ̀ς ᾰ̓κρῐ́δᾰς
+γοεδνός	ADJ;NOM;SG;MASC	γοεδνός
+ᾠδή	N;GEN;PL	τῶν ᾠδῶν
+μαζός	N;GEN;DU	μαζοῖν
+ἀτελείωτος	ADJ;VOC;DU;NEUT	ἀτελειώτω
+Εἱλώτης	N;ACC;PL	τοὺς Εἱλώτᾱς
+κάλυξ	N;VOC;PL	κᾰ́λῠκες
+ἐγρήγορος	ADJ;NOM;PL;NEUT	ἐγρήγορα
+ἀμυγδάλη	N;GEN;SG	τῆς ᾰ̓μῠγδᾰ́λης
+ἐνθετικός	ADJ;VOC;PL;NEUT	ἐνθετικᾰ́
+οὐτιδανός	ADJ;DAT;PL;MASC	ουτιδανοῖς
+Μασσαλιώτης	N;ACC;SG	τὸν Μασσαλιώτην
+Κυρηναῖος	N;VOC;PL	Κῡρηναῖοι
+οἰκητικός	ADJ;NOM;PL;FEM	οἰκητικαί
+μηνίσκος	N;VOC;SG	μηνίσκε
+ἐμμενετικός	ADJ;NOM;DU;NEUT	ἐμμενετικώ
+εἱματανωπερίβαλλος	N;VOC;SG	εἱμᾰτᾰνωπερῐ́βᾰλλε
+κυνόδους	N;NOM;DU	τὼ κῠνόδοντε
+ἔμβρυον	N;VOC;PL	ἔμβρῠᾰ
+ἐνωμοτία	N;VOC;PL	ἐνωμοτίαι
+παραβολή	N;NOM;SG	ἡ πᾰρᾰβολή
+φυγή	N;NOM;SG	ἡ φῠγή
+εὐτύχημα	N;NOM;PL	τᾰ̀ εὐτῠχήμᾰτᾰ
+συμπρακτικός	ADJ;NOM;SG;MASC	συμπρακτικός
+ἀφαιρετικός	ADJ;GEN;DU;NEUT	ᾰ̓φαιρετῐκοῖν
+πτωτός	ADJ;DAT;PL;MASC	πτωτοῖς
+στροφικός	ADJ;DAT;DU;MASC	στροφικοῖν
+ὑβριστικός	ADJ;VOC;SG;NEUT	ὑβριστικόν
+Σκλάβος	N;VOC;SG	Σκλάβε
+ἀστραπή	N;NOM;PL	αἱ ἀστραπαί
+σύμβολον	N;VOC;DU	σῠμβόλω
+Ὀμβρικός	N;ACC;PL	τοὺς Ὀμβρῐκούς
+Βρεττανός	N;GEN;DU	τοῖν Βρεττᾰνοῖν
+ποίημα	N;DAT;SG	τῷ ποιήμᾰτῐ
+πάνθηρ	N;GEN;PL	τῶν πᾰνθήρων
+γενέτης	N;ACC;DU	γενέτᾱ
+ἔκδυσις	N;DAT;SG	τῇ ἐκδῠ́σει / ἐκδῠ́σεῐ̈
+τέκνον	N;DAT;DU	τέκνοιν
+λιγνύς	N;NOM;DU	τὼ λιγνῠ́ε
+ἀγγελία	N;DAT;PL	ταῖς ἀγγελῐ́αις
+φθισικός	ADJ;GEN;PL;NEUT	φθῐσῐκῶν
+Ἄραψ	N;GEN;PL	τῶν Ἀρᾰ́βων
+ζωγράφος	N;DAT;SG	τῷ ζωγρᾰ́φῳ
+Λίβυς	N;GEN;DU	τοῖν Λῐβῠ́οιν
+ψίλωσις	N;GEN;PL	τῶν ψῑλώσεων
+ὀμφαλός	N;ACC;DU	ὀμφαλώ
+ὑποχονδριακός	ADJ;ACC;DU;MASC	ὑποχονδριακώ
+ψύλλα	N;NOM;PL	αἱ ψῠ́λλαι
+ἁγνισμός	N;ACC;DU	ἁγνισμώ
+κατάχρησις	N;DAT;DU	τοῖν κᾰτᾰχρησέοιν
+οἰωνοσκοπικός	ADJ;NOM;PL;NEUT	οἰωνοσκοπικᾰ́
+ἐπιείκεια	N;GEN;DU	ἐπιεικείαιν
+ἐσχάρα	N;VOC;DU	ἐσχάρᾱ
+ἱστός	N;VOC;SG	ῐ̔στέ
+ἄγκυρα	N;DAT;DU	τοῖν ἀγκῡ́ραιν
+μῆον	N;NOM;PL	τὰ μῆᾰ
+ἀρχαϊσμός	N;ACC;PL	τοὺς ἀρχαϊσμούς
+ὁλοσειρικός	ADJ;DAT;PL;NEUT	ὁλοσειρῐκοῖς
+ῥῆμα	N;VOC;DU	ῥήματε
+σεβαστοκράτωρ	N;DAT;SG	σεβαστοκράτορῐ
+χωλός	ADJ;VOC;DU;FEM	χωλᾱ́
+κουλεός	N;GEN;SG	τοῦ κουλεοῦ
+Σελευκεύς	N;NOM;PL	οἱ Σελευκεῖς
+πανδοχεῖον	N;ACC;DU	πανδοχείω
+πρόβλημα	N;VOC;DU	προβλήμᾰτε
+συναπτικός	ADJ;DAT;DU;MASC	συναπτικοῖν
+ταναός	ADJ;ACC;DU;MASC	τᾰνᾰώ
+ἀμφορεύς	N;VOC;SG	ᾰ̓μφορεῦ
+σατράπης	N;GEN;PL	τῶν σατραπῶν
+σωληνάριον	N;DAT;SG	τῷ σωληνᾰρῐ́ῳ
+ἐκκλησία	N;VOC;PL	ἐκκλησῐ́αι
+ὅπλον	N;DAT;SG	τῷ ὅπλῳ
+ἀγνωσία	N;NOM;DU	ἀγνωσίᾱ
+διαλεκτική	N;DAT;PL	ταῖς δῐᾰλεκτῐκαῖς
+ἱπποκένταυρος	N;NOM;DU	ἱπποκενταύρω
+τοπικός	ADJ;VOC;SG;NEUT	τοπικόν
+καινός	ADJ;ACC;DU;FEM	καινᾱ́
+δουλεία	N;DAT;SG	τῇ δουλείᾳ
+οἰκουμένη	N;DAT;SG	τῇ οἰκουμένῃ
+ῥόμος	N;VOC;PL	ῥόμοι
+ἐμύς	N;GEN;DU	τοῖν ἐμῠ́δοιν
+τέχνη	N;VOC;PL	τέχναι
+σύνθεσις	N;GEN;SG	τῆς σῠνθέσεως
+ἀγωνιστής	N;VOC;SG	ἀγωνιστή
+ῥόμβος	N;DAT;DU	τοῖν ῥόμβοιν
+σύνοψις	N;VOC;DU	σῠνόψει / σῠνόψεε
+πρεσβυτέριον	N;VOC;DU	πρεσβῠτερῐ́ω
+πανδοχεῖον	N;GEN;DU	πανδοχείοιν
+χαραδριός	N;DAT;DU	χαραδριοῖν
+εἰκονοκλάστης	N;NOM;SG	ὁ εἰκονοκλᾰ́στης
+στοιχειολάτρης	N;NOM;DU	τὼ στοιχειολᾰ́τρᾱ
+Ἀττικός	ADJ;ACC;DU;MASC	Ἀττικώ
+ὄκρις	N;VOC;DU	ὄκρῐε
+τόμος	N;GEN;PL	τῶν τόμων
+ἄτη	N;VOC;SG	ἄτη
+ἀσύνδετος	ADJ;ACC;SG;NEUT	ἀσῠ́νδετον
+σχίσμα	N;DAT;PL	τοῖς σχῐ́σμᾰσῐ
+μαγειρικός	ADJ;VOC;SG;MASC	μαγειρικέ
+ψυδνός	ADJ;DAT;DU;MASC	ψυδνοῖν
+Βισάλτης	N;ACC;DU	τὼ Βῐσᾰ́λτᾱ
+στραβισμός	N;DAT;DU	στραβισμοῖν
+ἐπίχαρτος	ADJ;ACC;PL;NEUT	ἐπίχαρτα
+ὁμολογητικός	ADJ;ACC;DU;NEUT	ὁμολογητῐκώ
+ἐπισυνθετικός	ADJ;DAT;PL;MASC	ἐπισυνθετικοῖς
+ὄσσε	N;VOC;PL	ὄσσε
+μαντεία	N;NOM;PL	μαντεῖαι
+Σκύθαινα	N;DAT;DU	τοῖν Σκῠθαίναιν
+πλοῖον	N;GEN;PL	τῶν πλοίων
+παιδιά	N;DAT;DU	τοῖν παιδῐαῖν
+κονίς	N;ACC;PL	τᾱ̀ς κονῐ́δᾰς
+ξένη	N;VOC;SG	ξένη
+ἔνδημος	ADJ;ACC;SG	ἔνδημον
+εἰδωλολατρία	N;VOC;SG	εἰδωλολᾰτρῐ́ᾱ
+θύμος	N;VOC;SG	θῠ́με
+θρηνῳδία	N;NOM;SG	ἡ θρηνῳδῐ́ᾱ
+ἀξίνη	N;DAT;SG	τῇ ἀξῑ́νῃ
+φιλότης	N;ACC;DU	τὼ φῐλότητε
+δίνη	N;ACC;SG	τὴν δῑ́νην
+φάττα	N;NOM;SG	ἡ φᾶττᾰ
+Ἐρετριεύς	N;VOC;PL	Ἐρετριεῖς
+Πελασγιώτης	N;NOM;DU	τὼ Πελασγιώτᾱ
+αἰδοῖον	N;ACC;SG	αἰδοῖον
+πάγος	N;GEN;PL	πάγων
+βωμός	N;ACC;DU	τὼ βωμώ
+Πατρεύς	N;DAT;DU	τοῖν Πατρέοιν
+παντοκράτωρ	N;DAT;PL	τοῖς πᾰντοκρᾰ́τορσῐ
+σεληνιακός	ADJ;DAT;DU;FEM	σεληνιακαῖν
+Καῖσαρ	N;VOC;DU	Καίσᾰρε
+πευκέδανος	N;VOC;DU	πευκεδᾰ́νω
+λάκκος	N;NOM;PL	λάκκοι
+πτύον	N;DAT;DU	πτύοιν
+αὐλή	N;DAT;DU	αὐλαῖν
+μανία	N;DAT;DU	μανίαιν
+σχίσμα	N;VOC;SG	σχῐ́σμᾰ
+στίξ	N;ACC;SG	τὴν στῐ́χᾰ
+ἁγιασμός	N;GEN;DU	τοῖν ἁγιασμοῖν
+σύμφωνον	N;GEN;SG	τοῦ συμφώνου
+τραυματικός	ADJ;ACC;DU;FEM	τραυμᾰτῐκᾱ́
+τυμβαύλης	N;DAT;SG	τῷ τυμβαύλῃ
+Δελφίς	N;GEN;SG	τῆς Δελφῐ́δος
+λαλιή	N;GEN;PL	τῶν λᾰλῐῶν
+δαίς	N;ACC;PL	τᾱ̀ς δαῖτᾰς
+κωμῳδία	N;DAT;SG	τῇ κωμῳδῐ́ᾳ
+διδασκαλία	N;GEN;DU	τοῖν διδασκαλῐ́αιν
+μυστικός	ADJ;ACC;SG;FEM	μυστικήν
+οὖς	N;ACC;SG	τὸ οὖς
+ἀντίλογος	ADJ;NOM;SG;NEUT	ἀντῐ́λογον
+βαπτισμός	N;VOC;DU	βᾰπτῐσμώ
+ἄκαρπος	ADJ;GEN;PL	ἀκάρπων
+νεῦρον	N;GEN;DU	τοῖν νεύροιν
+φόρος	N;NOM;PL	οἱ φόροι
+θρόμβος	N;NOM;SG	θρόμβος
+συγγραφεύς	N;NOM;SG	ὁ σῠγγρᾰφεύς
+ἀσφόδελος	N;GEN;SG	τοῦ ἀσφοδέλου
+οἶς	N;NOM;SG	ὁ, ἡ οἶς
+ὁμόγραφος	ADJ;NOM;PL;NEUT	ὁμόγραφα
+κροκόδειλος	N;GEN;DU	τοῖν κροκοδείλοιν
+παντοκράτωρ	N;VOC;SG	πᾰντοκρᾰ́τορ
+οἰκονομία	N;DAT;DU	τοῖν οἰκονομῐ́αιν
+οἰωνοσκοπικός	ADJ;NOM;PL;FEM	οἰωνοσκοπικαί
+κυνίδιον	N;DAT;DU	τοῖν κῠνῐδῐ́οιν
+αὐλή	N;VOC;SG	αὐλή
+ἄκορος	N;VOC;SG	ἄκορε
+διασπορά	N;NOM;SG	ἡ διασπορᾱ́
+αἴθυια	N;GEN;DU	τοῖν αἰθυίαιν
+ἀργύριον	N;GEN;DU	τοῖν ἀργυρίοιν
+ἀμίαντος	ADJ;VOC;SG	ἀμίαντε
+ἄλειφαρ	N;VOC;PL	ἀλείφᾰτᾰ
+Ῥωμανός	N;DAT;SG	τῷ Ῥωμᾱνῷ
+μονάρχης	N;NOM;PL	μονάρχαι
+κλυστήρ	N;GEN;SG	τοῦ κλῠστῆρος
+Λυδός	N;ACC;DU	τὼ Λῡδώ
+ἄγναφος	ADJ;ACC;SG	ἄγναφον
+ἁγνισμός	N;VOC;PL	ἁγνισμοί
+ἀκράτεια	N;VOC;SG	ᾰ̓κρᾰ́τειᾰ
+ὕστριξ	N;DAT;PL	τοῖς ῠ̔́στρῐξῐ
+πληθυσμός	N;ACC;PL	τοὺς πληθῠσμούς
+ἐπιστήμη	N;VOC;DU	ἐπιστήμᾱ
+ἐπιθανάτιος	ADJ;VOC;DU	ἐπιθανατίω
+πελιτνός	ADJ;VOC;DU;MASC	πελιτνώ
+κόρυλος	N;GEN;PL	τῶν κορῠ́λων
+ὑβριστικός	ADJ;GEN;DU;NEUT	ὑβριστικοῖν
+δημοκρατία	N;DAT;DU	τοῖν δημοκρατίαιν
+ἐμπειρία	N;NOM;DU	τὼ ἐμπειρίᾱ
+λάταξ	N;VOC;DU	λᾰ́τᾰγε
+ζειά	N;ACC;DU	τὼ ζειᾱ́
+κορωνός	ADJ;GEN;SG;MASC	κορωνοῦ
+κροκόδειλος	N;DAT;SG	τῷ κροκοδείλῳ
+νόσημα	N;DAT;SG	νοσήμᾰτῐ
+ἱλάων	ADJ;NOM;SG;FEM	ἱλάουσᾰ
+Τεντερίτης	N;NOM;PL	οἱ Τεντερῖται
+πύργος	N;VOC;SG	πύργε
+κατακλυσμός	N;VOC;DU	κατακλυσμώ
+κάτοπτρον	N;NOM;SG	τὸ κάτοπτρον
+εὔπνοια	N;DAT;SG	τῇ εὐπνοίᾳ
+ὕπνος	N;ACC;DU	τὼ ῠ̔́πνω
+σωρίτης	N;VOC;PL	σωρῖται
+παγκράτιον	N;DAT;SG	τῷ πᾰγκρᾰτῐ́ῳ
+Ἀσιανός	N;NOM;DU	τὼ Ἀσιᾱνώ
+ὄνυξ	N;NOM;DU	τὼ ὄνῠχε
+σφόνδυλος	N;VOC;SG	σφόνδῠλε
+δρᾶμα	N;GEN;DU	τοῖν δρᾱμᾰ́τοιν
+σύλλεκτος	ADJ;ACC;SG	σύλλεκτον
+στροφικός	ADJ;DAT;PL;NEUT	στροφικοῖς
+Σηκοανός	N;NOM;DU	τὼ Σηκοᾱνώ
+λήκυθος	N;ACC;DU	ληκύθω
+ὠμός	ADJ;NOM;SG;FEM	ὠμή
+λιμός	N;DAT;SG	τῷ, τῇ λῑμῷ
+τοπογραφία	N;VOC;PL	τοπογραφίαι
+τετρασύλλαβος	ADJ;GEN;PL	τετρασυλλάβων
+Ἀμπρακιώτης	N;VOC;DU	Ἀμπρᾰκῐώτᾱ
+δημοκρατία	N;ACC;PL	τᾱ̀ς δημοκρατίᾱς
+κραιπνός	ADJ;NOM;DU;NEUT	κραιπνώ
+φράσις	N;VOC;PL	φρᾰ́σεις / φρᾰ́σεες
+οὐρά	N;GEN;DU	τοῖν οὐραῖν
+ἰσονομία	N;NOM;PL	αἱ ῐ̓σονομῐ́αι
+ἡσυχία	N;NOM;PL	αἱ ἡσῠχῐ́αι
+ἑξηκοντάς	N;VOC;DU	ἑξηκοντᾰ́δε
+νύξ	N;VOC;PL	νῠ́κτες
+συνθετικός	ADJ;DAT;PL;FEM	συνθετικαῖς
+σταφυλῖνος	N;NOM;DU	σταφυλίνω
+ἰώβηλος	N;VOC;PL	ἰώβηλοι
+συνθήκη	N;VOC;PL	σῠνθῆκαι
+ἐπενθετικός	ADJ;NOM;PL;MASC	ἐπενθετικοί
+χήν	N;GEN;DU	τοῖν χηνοῖν
+πτυχή	N;DAT;DU	τοῖν πτῠχαῖν
+Περραιβός	N;GEN;PL	τῶν Περραιβῶν
+εἴρων	N;NOM;PL	εἴρωνες
+ἄστρον	N;VOC;SG	ἆστρον
+ἀπόδρασις	N;ACC;PL	τᾱ̀ς ἀποδρᾱ́σεις
+θρίψ	N;GEN;SG	τοῦ θρῑπός
+δελφύς	N;DAT;PL	δελφύσῐ(ν)
+εἰδωλολατρία	N;NOM;SG	ἡ εἰδωλολᾰτρῐ́ᾱ
+στοιχάς	N;DAT;SG	τῇ στοιχᾰ́δῐ
+πέδον	N;ACC;PL	πέδᾰ
+ὁλοσειρικός	ADJ;GEN;SG;NEUT	ὁλοσειρῐκοῦ
+ῥιζικός	ADJ;GEN;SG;NEUT	ῥιζικοῦ
+ἀτελείωτος	ADJ;ACC;PL	ἀτελειώτους
+χολή	N;ACC;SG	τὴν χολήν
+κηφήν	N;NOM;SG	ὁ κηφήν
+ἐξωτικός	ADJ;NOM;PL;MASC	ἐξωτῐκοί
+Σύρος	N;VOC;DU	Σύρω
+νόημα	N;VOC;PL	νοήμᾰτᾰ
+κωμήτης	N;ACC;DU	τὼ κωμήτᾱ
+θύμος	N;GEN;DU	τοῖν θῠ́μοιν
+πατριάρχης	N;GEN;DU	τοῖν πᾰτρῐᾰ́ρχαιν
+ὀπιδνός	ADJ;NOM;DU;FEM	οπιδνᾱ́
+ἐπιθετικός	ADJ;VOC;PL;NEUT	ἐπιθετικᾰ́
+πῖλος	N;NOM;PL	πῖλοι
+τιμητικός	ADJ;VOC;DU;NEUT	τιμητικώ
+βύβλος	N;VOC;DU	βῠ́βλω
+θέλημα	N;GEN;SG	τοῦ θελήμᾰτος
+καπνός	N;GEN;SG	τοῦ καπνοῦ
+ὀξεῖα	N;ACC;DU	ὀξείᾱ
+κάψις	N;VOC;DU	κᾰ́ψει / κᾰ́ψεε
+ἁμαμηλίς	N;ACC;SG	τὴν ᾰ̔μᾰμηλῐ́δᾰ / ᾰ̔μᾰμηλῐ́ν
+ζῷον	N;ACC;DU	τὼ ζῴω
+ἐρυσίπελας	N;VOC;SG	ἐρῠσῐ́πελᾰς
+Θυνός	N;ACC;PL	τοὺς Θῡνούς
+κοίρανος	N;GEN;DU	τοῖν κοιρᾰ́νοιν
+ὄλισβος	N;ACC;PL	τοὺς ὀλίσβους
+πνεύμων	N;GEN;PL	πνευμόνων
+ἀμοιβή	N;VOC;DU	ἀμοιβᾱ́
+μελέτη	N;ACC;SG	τὴν μελέτην
+ἔνδημος	ADJ;DAT;SG;NEUT	ἐνδήμῳ
+δικαιάδικος	ADJ;VOC;DU;NEUT	δικαιαδίκω
+θεατροκρατία	N;VOC;DU	θεᾱτροκρᾰτῐ́ᾱ
+μαρτύριον	N;GEN;SG	τοῦ μαρτῠρίου
+πρόσληψις	N;GEN;DU	τοῖν προσληψέοιν
+μυστικός	ADJ;ACC;PL;NEUT	μυστικᾰ́
+σάπφειρος	N;VOC;PL	σάπφειροι
+ψαλτήριον	N;GEN;DU	τοῖν ψαλτηρίοιν
+δάκτυλος	N;VOC;DU	δᾰκτῠ́λω
+Ἑλληνιστής	N;VOC;SG	Ἑλληνῐστή
+Κάρ	N;NOM;SG	ὁ Κᾱ́ρ
+κόκκος	N;ACC;PL	τοὺς κόκκους
+ὁλοσειρικός	ADJ;ACC;PL;FEM	ὁλοσειρῐκᾱ́ς
+ἀπολογία	N;VOC;SG	ᾰ̓πολογῐ́ᾱ
+οὐτιδανός	ADJ;DAT;DU;NEUT	ουτιδανοῖν
+ἔμπειρος	ADJ;DAT;DU;NEUT	ἐμπειροιν
+Ῥωμανός	N;GEN;PL	τῶν Ῥωμᾱνῶν
+μέδων	N;GEN;DU	τοῖν μεδόντοιν
+αἴνιγμα	N;GEN;DU	τοῖν αἰνιγμᾰ́τοιν
+κιθάρα	N;ACC;PL	τᾱ̀ς κῐθᾰ́ρᾱς
+παράνομος	ADJ;GEN;PL	παρανόμων
+ποιότης	N;ACC;SG	τὴν ποιότητᾰ
+φρέαρ	N;GEN;SG	τοῦ φρέᾱτος
+παιδοφιλία	N;NOM;SG	ἡ παιδοφῐλῐ́ᾱ
+ἀκάθαρτος	ADJ;DAT;DU	ἀκαθάρτοιν
+σάπων	N;GEN;SG	σάπωνος
+ἡρωίνη	N;ACC;DU	τὼ ἡρωίνᾱ
+σχεδίασμα	N;VOC;PL	σχεδιάσματᾰ
+ἀορτή	N;DAT;PL	ταῖς ᾰ̓ορταῖς
+ἱμάτιον	N;NOM;DU	ἱματίω
+γραφικός	ADJ;VOC;SG;NEUT	γραφικόν
+ἀτελείωτος	ADJ;VOC;SG;NEUT	ἀτελείωτον
+γεωργός	ADJ;GEN;PL	γεωργῶν
+πομπή	N;VOC;SG	πομπή
+μόριον	N;DAT;DU	τοῖν μορῐ́οιν
+μαντεία	N;ACC;PL	μαντείᾱς
+διάταξις	N;ACC;DU	τὼ δῐᾰτᾰ́ξει / δῐᾰτᾰ́ξεε
+κανών	N;ACC;DU	τὼ κᾰνόνε
+Ἔλυμος	N;ACC;SG	τὸν Ἔλυμον
+γνώμων	N;NOM;SG	ὁ γνώμων
+ψυδνός	ADJ;NOM;PL;FEM	ψυδναί
+νοῦθος	N;NOM;SG	νοῦθος
+φοιτητής	N;NOM;PL	οἱ φοιτηταί
+Σικανός	N;ACC;SG	τὸν Σῐκᾱνόν
+ἐφημερίς	N;DAT;PL	ταῖς ἐφημερῐ́σῐ
+λάγηνος	N;NOM;SG	ὁ λᾰ́γηνος
+βοή	N;GEN;SG	τῆς βοῆς
+ῥιζικός	ADJ;ACC;DU;NEUT	ῥιζικώ
+ἀγρός	N;GEN;PL	τῶν ἀγρῶν
+γραμματικόν	N;VOC;SG	γρᾰμμᾰτῐκόν
+πορνεία	N;DAT;SG	τῇ πορνείᾳ
+συμφωνία	N;NOM;DU	συμφωνίᾱ
+πώλης	N;ACC;SG	τὸν πώλην
+νωδογέρων	N;DAT;DU	νωδογερόντοιν
+πτωτικός	ADJ;VOC;PL;NEUT	πτωτικᾰ́
+ἐχέτλη	N;VOC;SG	ἐχέτλη
+ταὐτολογία	N;GEN;SG	ταὐτολογῐ́ᾱς
+πατριά	N;GEN;PL	τῶν πᾰτρῐῶν
+φροντίς	N;ACC;SG	φροντίδᾰ
+νυμφόληπτος	ADJ;DAT;PL;NEUT	νυμφολήπτοις
+δημαγωγός	N;ACC;DU	τὼ δημᾰγωγώ
+ταπεινωτικός	ADJ;DAT;DU;NEUT	ταπεινωτικοῖν
+λαύρα	N;ACC;SG	τὴν λαύρᾱν
+κόμμα	N;DAT;PL	κόμμᾰσῐ(ν)
+συνώνυμος	ADJ;DAT;SG;NEUT	συνωνύμῳ
+ὄνος	N;DAT;PL	τοῖς ὄνοις
+φιλόδοξος	ADJ;ACC;SG;NEUT	φιλόδοξον
+φίλαμα	N;ACC;PL	τᾰ̀ φῐλᾱ́μᾰτᾰ
+σπόγγος	N;DAT;SG	σπόγγῳ
+φῶς	N;DAT;SG	τῷ φωτῐ́
+πολυχρόνιος	ADJ;NOM;DU	πολῠχρονῐ́ω
+ὄλεθρος	N;ACC;DU	τὼ ὀλέθρω
+δρᾶσις	N;DAT;SG	τῇ δρᾱ́σει / δρᾱ́σεῐ̈
+πρατήρ	N;DAT;DU	τοῖν πρᾱτήροιν
+βιβλιοπώλης	N;ACC;PL	τοὺς βῐβλῐοπώλᾱς
+πεῖσα	N;DAT;SG	πείσῃ
+τοπογραφία	N;NOM;PL	τοπογραφίαι
+ψυδνός	ADJ;VOC;DU;FEM	ψυδνᾱ́
+σύμβολον	N;ACC;DU	τὼ σῠμβόλω
+ἔμβολον	N;DAT;PL	τοῖς ἐμβόλοις
+ὕαινα	N;DAT;SG	τῇ ὑαίνῃ
+σπορά	N;NOM;DU	τὼ σπορᾱ́
+κατάχρησις	N;GEN;SG	τῆς κᾰτᾰχρήσεως
+κολεός	N;GEN;SG	τοῦ κολεοῦ
+κόλλα	N;NOM;SG	ἡ κόλλᾰ
+λῃστής	N;ACC;DU	λῃστᾱ́
+πτωτός	ADJ;ACC;DU;MASC	πτωτώ
+χελιδών	N;DAT;DU	τοῖν χελῑδόνοιν
+ἀδύνατος	ADJ;NOM;DU;NEUT	ἀδυνάτω
+λαμβδακισμός	N;GEN;DU	τοῖν λᾰμβδᾰκῐσμοῖν
+ὄχλος	N;GEN;SG	ὄχλου
+ὄρνεον	N;GEN;PL	ὀρνέων
+ὑποχόνδριος	ADJ;DAT;DU	ὑποχονδρίοιν
+μνημοσύνη	N;NOM;PL	μνημοσύναι
+ἱλάων	ADJ;ACC;DU;NEUT	ἱλάοντε
+φθόνος	N;ACC;DU	φθόνω
+ἀκαλήφη	N;ACC;DU	τὼ ἀκαλήφᾱ
+Μεταπόντιος	N;DAT;SG	τῷ Μεταποντίῳ
+ἔμπειρος	ADJ;DAT;DU	ἐμπειροιν
+φωνίον	N;DAT;DU	τοῖν φωνῐ́οιν
+ὕσσωπος	N;VOC;DU	ὑσσώπω
+ἔμβολον	N;DAT;DU	τοῖν ἐμβόλοιν
+οἰήϊον	N;ACC;DU	οἰηΐω
+κλώψ	N;DAT;PL	τοῖς κλωψῐ́
+ἱστορία	N;ACC;PL	τᾱ̀ς ῐ̔στορῐ́ᾱς
+ὄρεξις	N;VOC;PL	ὀρέξεις / ὄρεξεες
+ἄροτρον	N;DAT;PL	τοῖς ἀρότροις
+ἀσύνδετος	ADJ;GEN;PL;NEUT	ἀσῠνδέτων
+ἡστικός	ADJ;ACC;PL;NEUT	ἡστικᾰ́
+σφιγκτός	ADJ;ACC;SG;FEM	σφιγκτήν
+ἄθεος	ADJ;NOM;SG	ἄθεος
+ἐπιθετικός	ADJ;VOC;DU;MASC	ἐπιθετικώ
+στατήρ	N;ACC;PL	τοὺς στᾰτῆρᾰς
+στοά	N;GEN;DU	στοαῖν
+ὠρανός	N;GEN;SG	τοῦ ὠρᾰνοῦ
+ἀκέφαλος	ADJ;DAT;SG	ἀκεφάλῳ
+στυλοβάτης	N;VOC;DU	στυλοβάτᾱ
+κερατία	N;DAT;SG	κερᾱτῐ́ᾳ
+τραυματικός	ADJ;GEN;SG;MASC	τραυμᾰτῐκοῦ
+ἱλάων	ADJ;NOM;PL;FEM	ἱλάουσαι
+λεπτός	ADJ;NOM;DU;MASC	λεπτώ
+ἔμπειρος	ADJ;ACC;SG	ἔμπειρον
+παῖς	N;NOM;DU	τὼ παῖδε
+λογιστικός	ADJ;VOC;PL;NEUT	λογιστικᾰ́
+ἀντιτείχισμα	N;DAT;SG	τῷ ᾰ̓ντῐτειχῐ́σμᾰτῐ
+ἄθλημα	N;VOC;DU	ἀθλήμᾰτε
+Κολχός	N;ACC;DU	τὼ Κολχώ
+συγγενικός	ADJ;ACC;SG;NEUT	συγγενικόν
+Λάκων	N;DAT;PL	τοῖς Λᾰ́κωσῐ
+σίναπι	N;NOM;PL	τᾰ̀ σῐνᾱ́πη / σῐνᾱ́πεᾰ
+φρουρά	N;VOC;DU	φρουρᾱ́
+βαπτισμός	N;ACC;SG	τὸν βᾰπτῐσμόν
+ἔλλειψις	N;NOM;DU	τὼ ἐλλείψει / ἐλλείψεε
+παντοκράτωρ	N;ACC;DU	τὼ πᾰντοκρᾰ́τορε
+διάμετρον	N;ACC;SG	διάμετρον
+θήρα	N;VOC;DU	θήρᾱ
+παιδεία	N;ACC;PL	τὰς παιδείᾱς
+κριτής	N;DAT;SG	τῷ κρῐτῇ
+δίκτυον	N;VOC;PL	δίκτυᾰ
+θύρσος	N;VOC;PL	θῠ́ρσοι
+περιβολή	N;DAT;PL	ταῖς περιβολαῖς
+ἐσχάρα	N;ACC;DU	τὼ ἐσχάρᾱ
+Καλλίξενος	N;DAT;DU	τοῖν Κᾰλλῐξένοιν
+ταναός	ADJ;NOM;PL;FEM	τᾰνᾰαί
+οὖς	N;VOC;SG	οὖς
+θεραπευτής	N;GEN;PL	τῶν θερᾰπευτῶν
+χρονικός	ADJ;GEN;PL;FEM	χρονικῶν
+σπέρμα	N;ACC;SG	τὸ σπέρμᾰ
+ὀστοῦν	N;DAT;PL	ὀστοῖς
+ἀκρίς	N;GEN;SG	τῆς ᾰ̓κρῐ́δος
+κακία	N;GEN;SG	τῆς κᾰκῐ́ᾱς
+Λευιτικός	ADJ;VOC;DU;MASC	Λευιτικώ
+πλαστικός	ADJ;VOC;PL;NEUT	πλαστικᾰ́
+νύμφη	N;GEN;PL	τῶν νυμφῶν
+μοχλός	N;ACC;PL	τοὺς μοχλούς
+βαρύτης	N;NOM;PL	αἱ βᾰρῠ́τητες

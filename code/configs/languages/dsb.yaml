@@ -1,0 +1,18 @@
+# Lower Sorbian Language Configuration
+language:
+  code: dsb
+  name: Lower Sorbian
+
+# Data paths (relative to code/ directory)
+data:
+  # UniMorph data (3 columns: lemma, features, form)
+  unimorph:
+    train: "data/unimorph/dsb.trn"
+    dev: "data/unimorph/dsb.dev"
+    test: "data/unimorph/dsb.tst"
+  
+  # Universal Dependencies data with context (4 columns: lemma, features, form, context)
+  ud:
+    train: "data/ud/dsb.trn"
+    dev: "data/ud/dsb.dev"
+    test: "data/ud/dsb.tst"

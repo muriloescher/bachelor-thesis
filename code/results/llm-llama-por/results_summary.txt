@@ -5,7 +5,9 @@ Language: por
 Test examples: 894
 
 Results:
-  Lemma Accuracy: 0.7886
-  Lemma Mean Levenshtein: 0.5872
-  MSD Accuracy: 0.1790
-  MSD F1: 0.5212
+  Lemma Accuracy: 0.7125 (637/894)
+  Lemma Mean Levenshtein: 0.7506
+  MSD Accuracy: 0.0190 (17/894)
+  MSD Micro-Precision: 0.4096
+  MSD Micro-Recall: 0.5183
+  MSD F1: 0.4576

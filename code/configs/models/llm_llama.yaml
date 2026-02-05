@@ -1,0 +1,22 @@
+# LLM Baseline Configuration - Llama
+model_type: llm_llama
+task: inverse  # Only inverse task for LLMs
+data_source: ud  # Uses UD data (with context)
+model_name: llama
+
+# Output settings
+output_dir_template: "results/llm-llama-{lang}"
+
+# API settings
+temperature: 0.0  # For reproducibility
+seed: 42  # Random seed for deterministic outputs
+rate_limit_delay: 0.5  # seconds between requests
+max_tokens: 10000
+timeout: 60
+
+# Few-shot example settings
+# Note: Examples are automatically loaded from the language-specific dev set
+num_examples: 1  # Number of examples to use in prompt
+
+# Prompt template
+prompt_template: "Generate the lemma and morphological tags for the following inflected verb and context. IMPORTANT: Provide ONLY the answer in the exact format 'lemma<tab>tags' with NO explanations, NO commentary, NO additional text: "

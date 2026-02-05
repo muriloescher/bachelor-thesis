@@ -1,0 +1,13 @@
+{
+  "model_type": "nonneural",
+  "model_name": "nonneural-baseline",
+  "language": "grc",
+  "metrics": {
+    "test": {
+      "accuracy": 0.338,
+      "correct": 338,
+      "total": 1000
+    }
+  },
+  "timestamp": "2026-02-05T23:38:43.567483"
+}

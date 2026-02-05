@@ -1,0 +1,13 @@
+{
+  "model_type": "nonneural",
+  "model_name": "nonneural-baseline",
+  "language": "por",
+  "metrics": {
+    "test": {
+      "accuracy": 0.98,
+      "correct": 980,
+      "total": 1000
+    }
+  },
+  "timestamp": "2026-02-05T23:38:06.334021"
+}

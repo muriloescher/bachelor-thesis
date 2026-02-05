@@ -160,8 +160,8 @@ def numtrailingsyms(s, symbol):
 
 
 def main(argv):
-    options, remainder = getopt.gnu_getopt(argv[1:], 'othp:', ['output','test', 'help','path='])
-    TEST, OUTPUT, HELP, path = False,False, False, 'data/unimorph/'
+    options, remainder = getopt.gnu_getopt(argv[1:], 'othp:l:', ['output','test', 'help','path=','lang='])
+    TEST, OUTPUT, HELP, path, lang_filter = False, False, False, 'data/unimorph/', None
     for opt, arg in options:
         if opt in ('-o', '--output'):
             OUTPUT = True
@@ -171,6 +171,8 @@ def main(argv):
             HELP = True
         if opt in ('-p', '--path'):
             path = arg
+        if opt in ('-l', '--lang'):
+            lang_filter = arg
 
     if HELP:
             print("\n*** Baseline for the SIGMORPHON 2020 shared task ***\n")
@@ -181,11 +183,22 @@ def main(argv):
             print(" -o         create output files with guesses (and don't just evaluate)")
             print(" -t         evaluate on test instead of dev")
             print(" -p [path]  data files path. Default is data/unimorph/")
+            print(" -l [lang]  run only for specific language code (e.g., por, eng, kat)")
             quit()
 
     totalavg, numlang = 0.0, 0
-    #for lang in [os.path.splitext(d)[0] for d in os.listdir(path) if '.trn' in d]:
-    for lang in ["dsb"]:
+    # Get all languages from .trn files in the directory, or use specified language
+    if lang_filter:
+        all_langs = [lang_filter] if os.path.isfile(path + lang_filter + '.trn') else []
+        if not all_langs:
+            print(f"Error: Training file not found for language '{lang_filter}' at {path + lang_filter}.trn")
+            quit()
+        print(f"Running for language: {lang_filter}")
+    else:
+        all_langs = [os.path.splitext(d)[0] for d in os.listdir(path) if '.trn' in d]
+        print(f"Running for all languages: {', '.join(all_langs)}")
+    
+    for lang in all_langs:
         allprules, allsrules = {}, {}
         if not os.path.isfile(path + lang +  ".trn"):
             continue

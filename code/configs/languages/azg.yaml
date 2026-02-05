@@ -1,0 +1,18 @@
+# Azerbaijani Language Configuration
+language:
+  code: azg
+  name: Amuzgo
+
+# Data paths (relative to code/ directory)
+data:
+  # UniMorph data (3 columns: lemma, features, form)
+  unimorph:
+    train: "data/unimorph/azg.trn"
+    dev: "data/unimorph/azg.dev"
+    test: "data/unimorph/azg.tst"
+  
+  # Universal Dependencies data with context (4 columns: lemma, features, form, context)
+  ud:
+    train: "data/ud/azg.trn"
+    dev: "data/ud/azg.dev"
+    test: "data/ud/azg.tst"

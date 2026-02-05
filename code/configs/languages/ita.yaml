@@ -13,6 +13,6 @@ data:
   
   # Universal Dependencies data with context (4 columns: lemma, features, form, context)
   ud:
-    train: "data/ud/ita_verbs_context.trn"
-    dev: "data/ud/ita_verbs_context.dev"
-    test: "data/ud/ita_verbs_context.tst"
+    train: "data/ud/ita.trn"
+    dev: "data/ud/ita.dev"
+    test: "data/ud/ita.tst"

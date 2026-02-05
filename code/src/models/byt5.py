@@ -22,6 +22,7 @@ from ..data import (
     load_test_data_inverse
 )
 from ..utils import evaluate_forward, evaluate_inverse, ensure_dir, resolve_path
+from ..utils.save_results import save_byt5_results
 
 
 def preprocess(example, tokenizer):
@@ -261,6 +262,38 @@ class ByT5Model:
             print(f"  Inverse lemma accuracy: {results['inverse']['lemma_accuracy']:.4f}")
             print(f"  Inverse MSD F1: {results['inverse']['msd_f1']:.4f}")
             
+            # Save results in JSON and CSV formats for bidirectional task
+            config = {
+                'use_context': self.has_context,
+                'batch_size': batch_size,
+                'task': self.task
+            }
+            
+            # Save each direction separately
+            if 'forward' in results:
+                save_byt5_results(
+                    output_dir=self.output_dir,
+                    model_name=model_dir,
+                    language=self.lang_code,
+                    direction='forward',
+                    test_metrics=results['forward'],
+                    config=config
+                )
+            
+            if 'inverse' in results:
+                save_byt5_results(
+                    output_dir=self.output_dir,
+                    model_name=model_dir,
+                    language=self.lang_code,
+                    direction='inverse',
+                    test_metrics=results['inverse'],
+                    config=config
+                )
+            
+            print(f"\nResults saved:")
+            print(f"  - JSON: {os.path.join(self.output_dir, f'results_{self.lang_code}.json')}")
+            print(f"  - CSV: {os.path.join(os.path.dirname(self.output_dir), 'all_results.csv')}")
+            
         elif self.task == 'inverse':
             test_inputs, gold_outputs = load_test_data_inverse(str(test_file), prompts['inverse'], self.has_context)
             predictions = self._batch_predict(model, tokenizer, test_inputs, batch_size)
@@ -271,6 +304,24 @@ class ByT5Model:
             print(f"  Lemma accuracy: {results['lemma_accuracy']:.4f}")
             print(f"  MSD F1: {results['msd_f1']:.4f}")
             
+            # Save results in JSON and CSV formats
+            config = {
+                'use_context': self.has_context,
+                'batch_size': batch_size,
+                'task': self.task
+            }
+            save_byt5_results(
+                output_dir=self.output_dir,
+                model_name=model_dir,
+                language=self.lang_code,
+                direction='inverse',
+                test_metrics=results,
+                config=config
+            )
+            print(f"\nResults saved:")
+            print(f"  - JSON: {os.path.join(self.output_dir, f'results_{self.lang_code}.json')}")
+            print(f"  - CSV: {os.path.join(os.path.dirname(self.output_dir), 'all_results.csv')}")
+            
         else:  # forward
             test_inputs, gold_outputs = load_test_data_forward(str(test_file), prompts['forward'], self.has_context)
             predictions = self._batch_predict(model, tokenizer, test_inputs, batch_size)
@@ -279,6 +330,24 @@ class ByT5Model:
             self._save_predictions(output_file, test_inputs, predictions, gold_outputs)
             results = evaluate_forward(predictions, gold_outputs, output_file)
             print(f"  Accuracy: {results['accuracy']:.4f}")
+            
+            # Save results in JSON and CSV formats
+            config = {
+                'use_context': self.has_context,
+                'batch_size': batch_size,
+                'task': self.task
+            }
+            save_byt5_results(
+                output_dir=self.output_dir,
+                model_name=model_dir,
+                language=self.lang_code,
+                direction='forward',
+                test_metrics=results,
+                config=config
+            )
+            print(f"\nResults saved:")
+            print(f"  - JSON: {os.path.join(self.output_dir, f'results_{self.lang_code}.json')}")
+            print(f"  - CSV: {os.path.join(os.path.dirname(self.output_dir), 'all_results.csv')}")
         
         return results
     

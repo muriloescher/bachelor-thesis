@@ -2,13 +2,23 @@
 import os
 import sys
 import subprocess
+import re
 from pathlib import Path
+from typing import Dict, Any
 
 from ..utils import ensure_dir, resolve_path
+from ..utils.save_results import save_neural_results
+from ..data import load_data
+from ..utils.evaluation import evaluate_forward
 
 
 class NeuralBaselineModel:
-    """Neural transducer baseline model wrapper."""
+    """
+    Neural transducer baseline model wrapper.
+    
+    Uses the SIGMORPHON 2023 training script (task0-trm.sh) to train
+    a transformer-based neural transducer model.
+    """
     
     def __init__(self, config, lang_config, mode='train'):
         """
@@ -28,13 +38,15 @@ class NeuralBaselineModel:
         project_root = Path(__file__).parent.parent.parent
         self.baseline_dir = project_root / 'baselines' / 'neural' / 'neural-transducer-master'
         self.train_script = self.baseline_dir / 'src' / 'train.py'
-        self.decode_script = self.baseline_dir / 'src' / 'sigmorphon19-task1-decode.py'
+        
+        # Checkpoint directory where models will be saved
+        self.checkpoint_dir = self.baseline_dir / 'checkpoints' / 'sig23' / 'tagtransformer'
         
         if not self.baseline_dir.exists():
             raise FileNotFoundError(f"Neural baseline directory not found: {self.baseline_dir}")
         
-        # Get output directory
-        output_template = config.get('output_dir_template', 'results/neural-{lang}')
+        # Get output directory for saving results in new system
+        output_template = config.get('output_dir_template', 'results/neural-baseline-{lang}')
         self.output_dir = output_template.format(lang=self.lang_code)
         ensure_dir(self.output_dir)
         
@@ -42,44 +54,30 @@ class NeuralBaselineModel:
         self.data_source = 'unimorph'
     
     def train(self):
-        """Train the model."""
+        """
+        Train the model using SIGMORPHON 2023 shell script.
+        
+        Simply runs the task0-trm.sh script with the language code.
+        """
         print(f"\n{'='*60}")
         print(f"Training neural baseline for {self.lang_code}")
+        print(f"Using SIGMORPHON 2023 configuration (task0-trm.sh)")
         print(f"{'='*60}")
         
-        # Get data paths
-        data_config = self.lang_config['data']
-        data_source_cfg = data_config.get(self.data_source, data_config['unimorph'])
+        # Path to the SIGMORPHON 2023 shell script
+        script_path = self.baseline_dir / 'example' / 'sigmorphon2023-shared-tasks' / 'task0-trm.sh'
         
-        train_file = resolve_path(data_source_cfg['train'])
-        dev_file = resolve_path(data_source_cfg['dev'])
+        if not script_path.exists():
+            raise FileNotFoundError(f"SIGMORPHON 2023 script not found: {script_path}")
         
-        # Training configuration
-        train_cfg = self.config.get('training', {})
+        # Run the shell script with language parameter
+        cmd = ['bash', str(script_path), self.lang_code]
         
-        # Build command
-        cmd = [
-            sys.executable,
-            str(self.train_script),
-            '--dataset', str(train_file),
-            '--dev', str(dev_file),
-            '--model', str(Path(self.output_dir) / 'model'),
-            '--epochs', str(train_cfg.get('epochs', 20)),
-            '--patience', str(train_cfg.get('patience', 5)),
-            '--batch-size', str(train_cfg.get('batch_size', 20)),
-            '--dropout', str(train_cfg.get('dropout', 0.2)),
-            '--enc-layers', str(train_cfg.get('enc_layers', 1)),
-            '--dec-layers', str(train_cfg.get('dec_layers', 1)),
-            '--enc-hidden-size', str(train_cfg.get('enc_hidden_size', 256)),
-            '--dec-hidden-size', str(train_cfg.get('dec_hidden_size', 256)),
-            '--embed-size', str(train_cfg.get('embed_size', 256)),
-        ]
+        print(f"Running: bash {script_path.name} {self.lang_code}")
+        print("This may take 10-30 minutes depending on your hardware...")
         
-        # Add optional arguments
-        if train_cfg.get('use_attention', True):
-            cmd.append('--attention')
-        
-        print(f"Running command: {' '.join(cmd)}")
+        # Ensure checkpoint directory exists
+        ensure_dir(str(self.checkpoint_dir))
         
         # Run training
         result = subprocess.run(
@@ -89,81 +87,97 @@ class NeuralBaselineModel:
             text=True
         )
         
-        if result.returncode == 0:
-            print(result.stdout)
-            print(f"Training completed successfully")
-            print(f"Model saved to {self.output_dir}")
-        else:
+        if result.returncode != 0:
             print(f"Training failed:")
             print(result.stderr)
             raise RuntimeError("Neural baseline training failed")
         
-        return self.output_dir
+        # Print output
+        print(result.stdout)
+        if result.stderr:
+            print(result.stderr)
+        
+        print(f"\nTraining completed successfully")
+        print(f"Model saved to {self.checkpoint_dir / self.lang_code}")
+        
+        return str(self.checkpoint_dir)
     
     def predict(self, checkpoint=None):
         """
-        Make predictions on test set.
+        Evaluate the trained model on test set.
+        
+        The train.py script automatically generates predictions during training,
+        so we just need to load and evaluate them.
         
         Args:
-            checkpoint: Specific checkpoint to load (not used for this baseline)
+            checkpoint: Specific checkpoint to load (not used)
+            
+        Returns:
+            Dictionary with test metrics
         """
         print(f"\n{'='*60}")
-        print(f"Predicting with neural baseline for {self.lang_code}")
+        print(f"Evaluating neural baseline for {self.lang_code}")
         print(f"{'='*60}")
         
-        # Get data paths
+        # Predictions file generated by train.py
+        predictions_file = self.checkpoint_dir / f"{self.lang_code}.decode.test.tsv"
+        
+        if not predictions_file.exists():
+            raise FileNotFoundError(
+                f"No predictions found for {self.lang_code} at {predictions_file}\n"
+                f"Please run training first: python run.py --model neural_baseline --language {self.lang_code} --train"
+            )
+        
+        print(f"Using predictions from: {predictions_file}")
+        
+        # Get test data path
         data_config = self.lang_config['data']
         data_source_cfg = data_config.get(self.data_source, data_config['unimorph'])
-        
         test_file = resolve_path(data_source_cfg['test'])
-        model_path = Path(self.output_dir) / 'model'
         
-        if not model_path.exists():
-            raise FileNotFoundError(f"Model not found: {model_path}. Please train first.")
+        # Load test data and predictions
+        print("Loading test data and predictions...")
+        test_data = load_data(test_file, 'unimorph')
         
-        # Output file
-        output_file = Path(self.output_dir) / f"predictions_{self.lang_code}.txt"
+        # Read predictions (TSV format: lemma\tfeatures\tpredicted_form)
+        predictions = []
+        with open(predictions_file, 'r', encoding='utf-8') as f:
+            for line in f:
+                parts = line.strip().split('\t')
+                if len(parts) >= 3:
+                    predictions.append(parts[2])  # predicted form is 3rd column
+                else:
+                    predictions.append('')  # empty prediction for malformed lines
         
-        # Prediction configuration
-        pred_cfg = self.config.get('prediction', {})
+        # Extract gold forms (test_data is list of tuples: (lemma, features, form))
+        gold_forms = [item[2] for item in test_data]
         
-        # Build command
-        cmd = [
-            sys.executable,
-            str(self.decode_script),
-            '--dataset', str(test_file),
-            '--model', str(model_path),
-            '--output', str(output_file),
-            '--beam-size', str(pred_cfg.get('beam_size', 5)),
-        ]
+        # Ensure predictions match test set size
+        if len(predictions) != len(gold_forms):
+            raise ValueError(
+                f"Prediction count ({len(predictions)}) doesn't match test set size ({len(gold_forms)})\n"
+                f"This might indicate a data mismatch. Please retrain the model."
+            )
         
-        print(f"Running command: {' '.join(cmd)}")
+        # Evaluate forward direction (inflection)
+        print("Evaluating predictions...")
+        test_metrics = evaluate_forward(predictions, gold_forms)
         
-        # Run prediction
-        result = subprocess.run(
-            cmd,
-            cwd=str(self.baseline_dir),
-            capture_output=True,
-            text=True
+        print(f"Test Accuracy: {test_metrics['accuracy']:.4f}")
+        print(f"Correct: {test_metrics['correct']}/{test_metrics['total']}")
+        
+        # Save results
+        print("Saving results...")
+        save_neural_results(
+            output_dir=self.output_dir,
+            model_name=self.config.get('name', 'neural'),
+            language=self.lang_code,
+            test_metrics=test_metrics,
+            config={
+                'epochs': 'max_steps:20000',  # SIGMORPHON 2023 uses max_steps instead
+                'batch_size': 400,  # From SIGMORPHON 2023 config
+                'learning_rate': 0.001,  # From SIGMORPHON 2023 config
+            }
         )
         
-        if result.returncode == 0:
-            print(result.stdout)
-            print(f"Predictions saved to {output_file}")
-            
-            # Parse accuracy from output if available
-            results = {}
-            for line in result.stdout.split('\n'):
-                if 'accuracy' in line.lower():
-                    try:
-                        acc = float(line.split(':')[-1].strip().strip('%')) / 100
-                        results['accuracy'] = acc
-                        print(f"Accuracy: {acc:.4f}")
-                    except:
-                        pass
-            
-            return results
-        else:
-            print(f"Prediction failed:")
-            print(result.stderr)
-            raise RuntimeError("Neural baseline prediction failed")
+        return test_metrics

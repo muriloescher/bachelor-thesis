@@ -58,12 +58,40 @@ class LLMModel:
         ensure_dir(self.output_dir)
         
         # Get prompt settings
-        self.example_input = config.get('example_input', '')
-        self.example_prediction = config.get('example_prediction', '')
+        self.num_examples = config.get('num_examples', 1)
         self.prompt_template = config.get('prompt_template', '')
         self.temperature = config.get('temperature', 0.0)
+        self.seed = config.get('seed', 42)
         self.rate_limit_delay = config.get('rate_limit_delay', 0.5)
         self.max_tokens = config.get('max_tokens', 2000)
+        
+        # Examples will be loaded from dev set
+        self.examples = []
+        
+    def _load_examples(self):
+        """Load few-shot examples from the dev set."""
+        if self.examples:  # Already loaded
+            return
+            
+        # Get dev data path
+        data_config = self.lang_config['data']
+        data_source = self.config.get('data_source', 'ud')
+        data_source_cfg = data_config.get(data_source, data_config['ud'])
+        dev_file = resolve_path(data_source_cfg['dev'])
+        
+        # Load dev data
+        dev_data = load_data(dev_file, data_source)
+        
+        # Take first N examples
+        self.examples = dev_data[:self.num_examples]
+        
+        # Print examples for verification
+        print(f"\nUsing {len(self.examples)} example(s) from dev set:")
+        for i, (lemma, features, form, context) in enumerate(self.examples, 1):
+            print(f"  Example {i}:")
+            print(f"    Input: {form}")
+            print(f"    Context: {context}")
+            print(f"    Expected: {lemma}\t{features}")
         
     def train(self):
         """LLM models don't require training - they are used zero-shot."""
@@ -85,16 +113,26 @@ class LLMModel:
         Returns:
             List of message dicts for the API
         """
-        ex_form, ex_context = self.example_input.split('\t')
+        # Load examples if not already loaded
+        if not self.examples:
+            self._load_examples()
         
-        prompt_content = (
-            f"Based on this example:\n"
-            f"Input: {ex_form}\n"
-            f"Context: {ex_context}\n"
-            f"Prediction: {self.example_prediction}\n\n"
-            f"{self.prompt_template}{form}\t{context}\n\n"
-            f"Answer (lemma and tags only, no explanation):"
-        )
+        # Build prompt with examples from dev set
+        prompt_parts = []
+        
+        if self.examples:
+            prompt_parts.append("Based on this example:")
+            for lemma, features, ex_form, ex_context in self.examples:
+                prompt_parts.append(f"Input: {ex_form}")
+                prompt_parts.append(f"Context: {ex_context}")
+                prompt_parts.append(f"Prediction: {lemma}\t{features}")
+                prompt_parts.append("")
+        
+        prompt_parts.append(f"{self.prompt_template}{form}\t{context}")
+        prompt_parts.append("")
+        prompt_parts.append("Answer (lemma and tags only, no explanation):")
+        
+        prompt_content = "\n".join(prompt_parts)
         
         return [{"role": "user", "content": prompt_content}]
     
@@ -115,6 +153,10 @@ class LLMModel:
             "temperature": self.temperature,
             "max_tokens": self.max_tokens
         }
+        
+        # Add seed if configured (may not be supported by all providers)
+        if self.seed is not None:
+            payload["seed"] = self.seed
         
         headers = {
             "Authorization": f"Bearer {self.api_key}",

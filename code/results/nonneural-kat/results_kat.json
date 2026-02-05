@@ -1,0 +1,13 @@
+{
+  "model_type": "nonneural",
+  "model_name": "nonneural-baseline",
+  "language": "kat",
+  "metrics": {
+    "test": {
+      "accuracy": 0.024,
+      "correct": 24,
+      "total": 1000
+    }
+  },
+  "timestamp": "2026-02-05T23:38:51.588460"
+}
