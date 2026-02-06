@@ -1,0 +1,25 @@
+{
+  "model_type": "llm",
+  "model_name": "meta-llama/llama-3.1-8b-instruct",
+  "language": "eng",
+  "metrics": {
+    "test": {
+      "lemma": {
+        "accuracy": 0.6643894107600341,
+        "mean_levenshtein": 0.8548249359521777,
+        "correct": 778,
+        "total": 1171
+      },
+      "msd": {
+        "accuracy": 0.10503842869342442,
+        "f1": 0.3751799596890296,
+        "precision": 0.4249836921069798,
+        "recall": 0.3358247422680412,
+        "correct": 123,
+        "total": 1171
+      }
+    }
+  },
+  "timestamp": "2026-02-05T23:46:20.041423",
+  "test_examples": 1171
+}

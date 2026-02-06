@@ -1,0 +1,25 @@
+{
+  "model_type": "llm",
+  "model_name": "qwen/qwen3-8b",
+  "language": "por",
+  "metrics": {
+    "test": {
+      "lemma": {
+        "accuracy": 0.0,
+        "mean_levenshtein": 5.45413870246085,
+        "correct": 0,
+        "total": 894
+      },
+      "msd": {
+        "accuracy": 0.0,
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "correct": 0,
+        "total": 894
+      }
+    }
+  },
+  "timestamp": "2026-02-06T00:40:05.156052",
+  "test_examples": 894
+}

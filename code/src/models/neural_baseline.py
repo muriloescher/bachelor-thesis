@@ -107,7 +107,8 @@ class NeuralBaselineModel:
         Evaluate the trained model on test set.
         
         The train.py script automatically generates predictions during training,
-        so we just need to load and evaluate them.
+        so we just need to load and evaluate them. If predictions don't exist but
+        checkpoints do, try to regenerate them.
         
         Args:
             checkpoint: Specific checkpoint to load (not used)
@@ -123,9 +124,20 @@ class NeuralBaselineModel:
         predictions_file = self.checkpoint_dir / f"{self.lang_code}.decode.test.tsv"
         
         if not predictions_file.exists():
+            # Check if checkpoints exist - maybe training completed but decode step failed
+            checkpoint_files = list(self.checkpoint_dir.glob(f"{self.lang_code}.nll_*.epoch_*"))
+            
+            if checkpoint_files:
+                print(f"Found {len(checkpoint_files)} checkpoints but no decode file.")
+                print(f"Training may have been interrupted. Please retrain to generate predictions:")
+                print(f"  python run.py --model neural --language {self.lang_code} --train --predict")
+            else:
+                print(f"No checkpoints found for {self.lang_code}.")
+                print(f"Please run training first:")
+                print(f"  python run.py --model neural --language {self.lang_code} --train --predict")
+            
             raise FileNotFoundError(
-                f"No predictions found for {self.lang_code} at {predictions_file}\n"
-                f"Please run training first: python run.py --model neural_baseline --language {self.lang_code} --train"
+                f"No predictions found for {self.lang_code} at {predictions_file}"
             )
         
         print(f"Using predictions from: {predictions_file}")

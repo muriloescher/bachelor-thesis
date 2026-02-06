@@ -63,19 +63,52 @@ def load_unimorph_data(input_file):
     return verbs, non_verbs
 
 
-def create_splits(verbs, non_verbs, train_size=10000, dev_size=1000, test_size=1000, seed=42):
+def group_by_lemma(data, max_forms_per_lemma=None, seed=42):
     """
-    Create randomized train/dev/test splits, prioritizing verbs.
+    Group data by lemma to ensure no lemma appears in multiple splits.
+    Optionally limits the number of forms per lemma to increase lemma diversity.
     
-    Splits verbs and non-verbs proportionally across train/dev/test to maintain balance.
+    Args:
+        data: List of tuples (lemma, features, form)
+        max_forms_per_lemma: Maximum number of forms to keep per lemma (None = keep all)
+        seed: Random seed for sampling forms
+        
+    Returns:
+        Dictionary mapping lemma -> list of (lemma, features, form) tuples
+    """
+    random.seed(seed)
+    lemma_groups = {}
+    
+    for entry in data:
+        lemma = entry[0]
+        if lemma not in lemma_groups:
+            lemma_groups[lemma] = []
+        lemma_groups[lemma].append(entry)
+    
+    # Limit forms per lemma if specified
+    if max_forms_per_lemma is not None:
+        for lemma in lemma_groups:
+            if len(lemma_groups[lemma]) > max_forms_per_lemma:
+                lemma_groups[lemma] = random.sample(lemma_groups[lemma], max_forms_per_lemma)
+    
+    return lemma_groups
+
+
+def create_splits(verbs, non_verbs, train_size=10000, dev_size=1000, test_size=1000, seed=42, max_forms_per_lemma=None):
+    """
+    Create lemma-based train/dev/test splits, prioritizing verbs.
+    
+    IMPORTANT: Splits by lemma (not individual examples) to prevent data leakage.
+    All forms of a lemma go into the same split.
     
     Args:
         verbs: List of verb data tuples
         non_verbs: List of non-verb data tuples
-        train_size: Number of training examples
-        dev_size: Number of dev examples
-        test_size: Number of test examples
+        train_size: Target training set size
+        dev_size: Target dev set size
+        test_size: Target test set size
         seed: Random seed for reproducibility
+        max_forms_per_lemma: Maximum forms per lemma (None = unlimited, e.g., 15 or 20)
         
     Returns:
         Tuple of (train_data, dev_data, test_data)
@@ -83,89 +116,157 @@ def create_splits(verbs, non_verbs, train_size=10000, dev_size=1000, test_size=1
     # Set random seed for reproducibility
     random.seed(seed)
     
-    # Shuffle both datasets
-    shuffled_verbs = verbs.copy()
-    random.shuffle(shuffled_verbs)
+    # Group by lemma and optionally limit forms
+    verb_groups = group_by_lemma(verbs, max_forms_per_lemma, seed)
+    nonverb_groups = group_by_lemma(non_verbs, max_forms_per_lemma, seed)
     
-    shuffled_non_verbs = non_verbs.copy()
-    random.shuffle(shuffled_non_verbs)
+    total_verb_forms = sum(len(forms) for forms in verb_groups.values())
+    total_nonverb_forms = sum(len(forms) for forms in nonverb_groups.values())
     
-    # Calculate how much data we have
+    print(f"  Verb lemmas: {len(verb_groups)} (total {total_verb_forms} forms, avg {total_verb_forms/len(verb_groups) if verb_groups else 0:.1f} forms/lemma)")
+    print(f"  Non-verb lemmas: {len(nonverb_groups)} (total {total_nonverb_forms} forms, avg {total_nonverb_forms/len(nonverb_groups) if nonverb_groups else 0:.1f} forms/lemma)")
+    if max_forms_per_lemma:
+        print(f"  Max forms per lemma: {max_forms_per_lemma}")
+    
+    # Check if we have enough data to reach target sizes
     total_needed = train_size + dev_size + test_size
-    total_verbs = len(shuffled_verbs)
-    total_available = total_verbs + len(shuffled_non_verbs)
+    total_available = total_verb_forms + total_nonverb_forms
     
-    # Report verb availability
-    print(f"  Verbs available: {total_verbs}")
-    print(f"  Non-verbs available: {len(shuffled_non_verbs)}")
-    print(f"  Total needed: {total_needed}")
-    
-    # Check if we need to adjust sizes
     if total_available < total_needed:
-        print(f"  ⚠️  Warning: Only {total_available} total examples available")
-        print(f"  Adjusting split sizes proportionally...")
-        ratio = total_available / total_needed
-        train_size = int(train_size * ratio)
-        dev_size = int(dev_size * ratio)
-        test_size = total_available - train_size - dev_size
-        total_needed = train_size + dev_size + test_size
+        print(f"\n  ⚠️  WARNING: Only {total_available} forms available, but need {total_needed}")
+        print(f"  Consider:")
+        if max_forms_per_lemma:
+            print(f"    - Removing or increasing --max-forms (currently {max_forms_per_lemma})")
+        print(f"    - Reducing split sizes")
+        print(f"  Proceeding with available data...")
     
-    # Determine split strategy
-    if total_verbs >= total_needed:
-        # We have enough verbs - use only verbs, split proportionally
-        print(f"  ✓ Using only verbs (sufficient for all splits)")
+    # Get list of lemmas and shuffle them
+    verb_lemmas = list(verb_groups.keys())
+    random.shuffle(verb_lemmas)
+    
+    nonverb_lemmas = list(nonverb_groups.keys())
+    random.shuffle(nonverb_lemmas)
+    
+    # Strategy: Split lemmas to get approximately the target number of examples
+    # Start by allocating lemmas to splits, trying to reach target sizes
+    
+    train_verb_lemmas = []
+    dev_verb_lemmas = []
+    test_verb_lemmas = []
+    
+    train_count = 0
+    dev_count = 0
+    test_count = 0
+    
+    # Distribute verb lemmas across splits proportionally
+    # Calculate target ratios
+    total_target = train_size + dev_size + test_size
+    train_ratio = train_size / total_target
+    dev_ratio = dev_size / total_target
+    
+    for lemma in verb_lemmas:
+        lemma_size = len(verb_groups[lemma])
         
-        # Split verbs proportionally across train/dev/test
-        verb_train = shuffled_verbs[:train_size]
-        verb_dev = shuffled_verbs[train_size:train_size + dev_size]
-        verb_test = shuffled_verbs[train_size + dev_size:train_size + dev_size + test_size]
+        # Calculate how far each split is from its target ratio
+        total_assigned = train_count + dev_count + test_count
+        if total_assigned > 0:
+            train_current_ratio = train_count / total_assigned
+            dev_current_ratio = dev_count / total_assigned
+            test_current_ratio = test_count / total_assigned
+        else:
+            train_current_ratio = dev_current_ratio = test_current_ratio = 0
         
-        train_data = verb_train
-        dev_data = verb_dev
-        test_data = verb_test
+        # Assign to the split that's furthest below its target ratio
+        train_deficit = train_ratio - train_current_ratio
+        dev_deficit = dev_ratio - dev_current_ratio
+        test_deficit = (1 - train_ratio - dev_ratio) - test_current_ratio
         
-        print(f"  Composition: 100% verbs in each split")
-    else:
-        # Need to supplement with non-verbs - split both proportionally
-        needed_non_verbs = total_needed - total_verbs
-        verb_ratio = total_verbs / total_needed
+        if train_deficit >= dev_deficit and train_deficit >= test_deficit:
+            train_verb_lemmas.append(lemma)
+            train_count += lemma_size
+        elif dev_deficit >= test_deficit:
+            dev_verb_lemmas.append(lemma)
+            dev_count += lemma_size
+        else:
+            test_verb_lemmas.append(lemma)
+            test_count += lemma_size
+    
+    # If we still need more data, add non-verb lemmas (using same proportional strategy)
+    train_nonverb_lemmas = []
+    dev_nonverb_lemmas = []
+    test_nonverb_lemmas = []
+    
+    for lemma in nonverb_lemmas:
+        lemma_size = len(nonverb_groups[lemma])
         
-        print(f"  ⚠️  Using all {total_verbs} verbs + {needed_non_verbs} non-verbs")
-        print(f"  Verb ratio: {verb_ratio*100:.1f}%")
+        # Calculate how far each split is from its target ratio
+        total_assigned = train_count + dev_count + test_count
+        if total_assigned > 0:
+            train_current_ratio = train_count / total_assigned
+            dev_current_ratio = dev_count / total_assigned
+            test_current_ratio = test_count / total_assigned
+        else:
+            train_current_ratio = dev_current_ratio = test_current_ratio = 0
         
-        # Calculate how many verbs go in each split (proportional to split size)
-        verb_train_size = int(train_size * verb_ratio)
-        verb_dev_size = int(dev_size * verb_ratio)
-        verb_test_size = total_verbs - verb_train_size - verb_dev_size  # remainder
+        # Assign to the split that's furthest below its target ratio
+        train_deficit = train_ratio - train_current_ratio
+        dev_deficit = dev_ratio - dev_current_ratio
+        test_deficit = (1 - train_ratio - dev_ratio) - test_current_ratio
         
-        # Calculate how many non-verbs go in each split
-        nonverb_train_size = train_size - verb_train_size
-        nonverb_dev_size = dev_size - verb_dev_size
-        nonverb_test_size = test_size - verb_test_size
+        if train_deficit >= dev_deficit and train_deficit >= test_deficit:
+            train_nonverb_lemmas.append(lemma)
+            train_count += lemma_size
+        elif dev_deficit >= test_deficit:
+            dev_nonverb_lemmas.append(lemma)
+            dev_count += lemma_size
+        else:
+            test_nonverb_lemmas.append(lemma)
+            test_count += lemma_size
         
-        # Split verbs
-        verb_train = shuffled_verbs[:verb_train_size]
-        verb_dev = shuffled_verbs[verb_train_size:verb_train_size + verb_dev_size]
-        verb_test = shuffled_verbs[verb_train_size + verb_dev_size:]
-        
-        # Split non-verbs
-        nonverb_train = shuffled_non_verbs[:nonverb_train_size]
-        nonverb_dev = shuffled_non_verbs[nonverb_train_size:nonverb_train_size + nonverb_dev_size]
-        nonverb_test = shuffled_non_verbs[nonverb_train_size + nonverb_dev_size:nonverb_train_size + nonverb_dev_size + nonverb_test_size]
-        
-        # Combine and shuffle each split to mix verbs and non-verbs
-        train_data = verb_train + nonverb_train
-        random.shuffle(train_data)
-        
-        dev_data = verb_dev + nonverb_dev
-        random.shuffle(dev_data)
-        
-        test_data = verb_test + nonverb_test
-        random.shuffle(test_data)
-        
-        print(f"  Train: {len(verb_train)} verbs + {len(nonverb_train)} non-verbs")
-        print(f"  Dev:   {len(verb_dev)} verbs + {len(nonverb_dev)} non-verbs")
-        print(f"  Test:  {len(verb_test)} verbs + {len(nonverb_test)} non-verbs")
+        # Stop if all splits have enough
+        if train_count >= train_size and dev_count >= dev_size and test_count >= test_size:
+            break
+    
+    # Collect all examples from assigned lemmas
+    train_data = []
+    for lemma in train_verb_lemmas:
+        train_data.extend(verb_groups[lemma])
+    for lemma in train_nonverb_lemmas:
+        train_data.extend(nonverb_groups[lemma])
+    random.shuffle(train_data)
+    
+    dev_data = []
+    for lemma in dev_verb_lemmas:
+        dev_data.extend(verb_groups[lemma])
+    for lemma in dev_nonverb_lemmas:
+        dev_data.extend(nonverb_groups[lemma])
+    random.shuffle(dev_data)
+    
+    test_data = []
+    for lemma in test_verb_lemmas:
+        test_data.extend(verb_groups[lemma])
+    for lemma in test_nonverb_lemmas:
+        test_data.extend(nonverb_groups[lemma])
+    random.shuffle(test_data)
+    
+    # Trim to exact sizes (sample randomly if over, keep all if under)
+    if len(train_data) > train_size:
+        train_data = random.sample(train_data, train_size)
+    if len(dev_data) > dev_size:
+        dev_data = random.sample(dev_data, dev_size)
+    if len(test_data) > test_size:
+        test_data = random.sample(test_data, test_size)
+    
+    # Sort by lemma for readability (groups all forms of same lemma together)
+    train_data.sort(key=lambda x: x[0])
+    dev_data.sort(key=lambda x: x[0])
+    test_data.sort(key=lambda x: x[0])
+    
+    # Report statistics
+    print(f"\n  Split by lemma (no overlap):")
+    print(f"  Train: {len(train_verb_lemmas)} verb lemmas + {len(train_nonverb_lemmas)} non-verb lemmas = {len(train_data)} examples")
+    print(f"  Dev:   {len(dev_verb_lemmas)} verb lemmas + {len(dev_nonverb_lemmas)} non-verb lemmas = {len(dev_data)} examples")
+    print(f"  Test:  {len(test_verb_lemmas)} verb lemmas + {len(test_nonverb_lemmas)} non-verb lemmas = {len(test_data)} examples")
     
     return train_data, dev_data, test_data
 
@@ -205,6 +306,7 @@ Examples:
     parser.add_argument('--dev', type=int, default=1000, help='Dev set size (default: 1000)')
     parser.add_argument('--test', type=int, default=1000, help='Test set size (default: 1000)')
     parser.add_argument('--seed', type=int, default=42, help='Random seed (default: 42)')
+    parser.add_argument('--max-forms', type=int, default=None, help='Max forms per lemma to increase diversity (default: None = unlimited, try 15-20 for high-inflection languages)')
     parser.add_argument('--output-dir', default='data/unimorph', help='Output directory (default: data/unimorph)')
     
     args = parser.parse_args()
@@ -227,7 +329,8 @@ Examples:
         train_size=args.train,
         dev_size=args.dev,
         test_size=args.test,
-        seed=args.seed
+        seed=args.seed,
+        max_forms_per_lemma=args.max_forms
     )
     
     # Save splits

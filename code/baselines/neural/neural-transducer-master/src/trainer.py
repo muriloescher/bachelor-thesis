@@ -134,7 +134,7 @@ class BaseTrainer(object):
     def load_model(self, model):
         assert self.model is None
         self.logger.info("load model in %s", model)
-        self.model = torch.load(model, map_location=self.device)
+        self.model = torch.load(model, map_location=self.device, weights_only=False)
         self.model = self.model.to(self.device)
         epoch = int(model.split("_")[-1])
         return epoch

@@ -4,10 +4,10 @@
   "language": "por",
   "metrics": {
     "test": {
-      "accuracy": 0.98,
-      "correct": 980,
+      "accuracy": 0.966,
+      "correct": 966,
       "total": 1000
     }
   },
-  "timestamp": "2026-02-05T23:38:06.334021"
+  "timestamp": "2026-02-06T11:47:44.365527"
 }

@@ -4,10 +4,10 @@
   "language": "dsb",
   "metrics": {
     "test": {
-      "accuracy": 0.87,
-      "correct": 870,
+      "accuracy": 0.852,
+      "correct": 852,
       "total": 1000
     }
   },
-  "timestamp": "2026-02-05T23:39:20.043226"
+  "timestamp": "2026-02-06T11:46:56.595432"
 }

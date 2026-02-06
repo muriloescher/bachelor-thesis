@@ -4,10 +4,10 @@
   "language": "azg",
   "metrics": {
     "test": {
-      "accuracy": 0.088,
-      "correct": 88,
+      "accuracy": 0.061,
+      "correct": 61,
       "total": 1000
     }
   },
-  "timestamp": "2026-02-05T23:39:14.212634"
+  "timestamp": "2026-02-06T11:46:51.339856"
 }

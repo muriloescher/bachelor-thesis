@@ -10,7 +10,6 @@
 *.gz
 *.xml
 *.lot
-*.tst
 *.lof
 *.fls
 *.latexmkrc
@@ -29,4 +28,8 @@ code/ByT5/*/checkpoint-3750/model.safetensors
 *.pt
 *backup-results
 code/baselines/neural/neural-transducer-master/checkpoints/sig23/tagtransformer/*.epoch*
+code/baselines/neural/neural-transducer-master/checkpoints/sig23/tagtransformer/old
 .env
+# All "old" directories
+**/old/
+**/new_old/

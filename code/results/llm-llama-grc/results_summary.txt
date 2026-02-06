@@ -1,0 +1,13 @@
+LLM Results (meta-llama/llama-3.1-8b-instruct)
+==================================================
+
+Language: grc
+Test examples: 404
+
+Results:
+  Lemma Accuracy: 0.3515 (142/404)
+  Lemma Mean Levenshtein: 4.0569
+  MSD Accuracy: 0.3663 (148/404)
+  MSD Micro-Precision: 0.8219
+  MSD Micro-Recall: 0.8113
+  MSD F1: 0.8166

@@ -4,10 +4,10 @@
   "language": "eng",
   "metrics": {
     "test": {
-      "accuracy": 0.964,
-      "correct": 964,
+      "accuracy": 0.958,
+      "correct": 958,
       "total": 1000
     }
   },
-  "timestamp": "2026-02-05T23:38:18.104073"
+  "timestamp": "2026-02-06T11:47:08.916881"
 }

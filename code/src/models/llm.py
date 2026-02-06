@@ -136,13 +136,14 @@ class LLMModel:
         
         return [{"role": "user", "content": prompt_content}]
     
-    def _query_model(self, form, context):
+    def _query_model(self, form, context, max_retries=5):
         """
-        Query the LLM API.
+        Query the LLM API with retry logic for rate limiting.
         
         Args:
             form: Inflected verb form
             context: Sentence context
+            max_retries: Maximum number of retry attempts for rate limit errors
             
         Returns:
             Predicted string or None if error
@@ -163,27 +164,49 @@ class LLMModel:
             "Content-Type": "application/json"
         }
         
-        try:
-            response = requests.post(
-                url=URL,
-                headers=headers,
-                data=json.dumps(payload),
-                timeout=60
-            )
-            response.raise_for_status()
-            result = response.json()
-            
-            if 'choices' in result and len(result['choices']) > 0:
-                message = result['choices'][0]['message']
-                prediction = message.get('content', '').strip()
-                if prediction:
-                    return prediction
-            
-            return None
-            
-        except Exception as e:
-            print(f"\nAPI Error: {e}")
-            return None
+        retry_count = 0
+        base_wait = 2.0  # Base wait time for exponential backoff
+        
+        while retry_count <= max_retries:
+            try:
+                response = requests.post(
+                    url=URL,
+                    headers=headers,
+                    data=json.dumps(payload),
+                    timeout=60
+                )
+                response.raise_for_status()
+                result = response.json()
+                
+                if 'choices' in result and len(result['choices']) > 0:
+                    message = result['choices'][0]['message']
+                    prediction = message.get('content', '').strip()
+                    if prediction:
+                        return prediction
+                
+                return None
+                
+            except requests.exceptions.HTTPError as e:
+                # Handle rate limiting errors with exponential backoff
+                if e.response.status_code == 429:
+                    if retry_count < max_retries:
+                        wait_time = base_wait * (2 ** retry_count)
+                        print(f"\nRate limit hit. Waiting {wait_time:.1f}s before retry {retry_count + 1}/{max_retries}...")
+                        time.sleep(wait_time)
+                        retry_count += 1
+                        continue
+                    else:
+                        print(f"\nAPI Error: {e} (max retries exceeded)")
+                        return None
+                else:
+                    print(f"\nAPI Error: {e}")
+                    return None
+                    
+            except Exception as e:
+                print(f"\nAPI Error: {e}")
+                return None
+        
+        return None
     
     def _parse_prediction(self, prediction):
         """

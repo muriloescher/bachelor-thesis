@@ -4,10 +4,10 @@
   "language": "grc",
   "metrics": {
     "test": {
-      "accuracy": 0.338,
-      "correct": 338,
+      "accuracy": 0.29,
+      "correct": 290,
       "total": 1000
     }
   },
-  "timestamp": "2026-02-05T23:38:43.567483"
+  "timestamp": "2026-02-06T11:47:18.974180"
 }

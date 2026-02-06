@@ -4,10 +4,10 @@
   "language": "amh",
   "metrics": {
     "test": {
-      "accuracy": 0.322,
-      "correct": 322,
+      "accuracy": 0.39,
+      "correct": 390,
       "total": 1000
     }
   },
-  "timestamp": "2026-02-05T23:38:33.691912"
+  "timestamp": "2026-02-06T11:46:30.083508"
 }
