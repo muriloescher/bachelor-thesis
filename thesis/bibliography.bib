@@ -29,14 +29,55 @@
     abstract = "The 2023 SIGMORPHON{--}UniMorph shared task on typologically diverse morphological inflection included a wide range of languages: 26 languages from 9 primary language families. The data this year was all lemma-split, to allow testing models' generalization ability, and structured along the new hierarchical schema presented in (Batsuren et al., 2022). The systems submitted this year, 9 in number, showed ingenuity and innovativeness, including hard attention for explainability and bidirectional decoding. Special treatment was also given by many participants to the newly-introduced data in Japanese, due to the high abundance of unseen Kanji characters in its test set."
 }
 
-@misc{cotterell2017conllsigmorphon2017sharedtask,
-      title={CoNLL-SIGMORPHON 2017 Shared Task: Universal Morphological Reinflection in 52 Languages}, 
-      author={Ryan Cotterell and Christo Kirov and John Sylak-Glassman and Géraldine Walther and Ekaterina Vylomova and Patrick Xia and Manaal Faruqui and Sandra Kübler and David Yarowsky and Jason Eisner and Mans Hulden},
-      year={2017},
-      eprint={1706.09031},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/1706.09031}, 
+@inproceedings{cotterell-etal-2017-conll,
+    title = "{C}o{NLL}-{SIGMORPHON} 2017 Shared Task: Universal Morphological Reinflection in 52 Languages",
+    author = {Cotterell, Ryan  and
+      Kirov, Christo  and
+      Sylak-Glassman, John  and
+      Walther, G{\'e}raldine  and
+      Vylomova, Ekaterina  and
+      Xia, Patrick  and
+      Faruqui, Manaal  and
+      K{\"u}bler, Sandra  and
+      Yarowsky, David  and
+      Eisner, Jason  and
+      Hulden, Mans},
+    editor = "Hulden, Mans",
+    booktitle = "Proceedings of the {C}o{NLL} {SIGMORPHON} 2017 Shared Task: Universal Morphological Reinflection",
+    month = aug,
+    year = "2017",
+    address = "Vancouver",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/K17-2001/",
+    doi = "10.18653/v1/K17-2001",
+    pages = "1--30"
+}
+
+@inproceedings{cotterell-etal-2018-conll,
+    title = "The {C}o{NLL}{--}{SIGMORPHON} 2018 Shared Task: Universal Morphological Reinflection",
+    author = "Cotterell, Ryan  and
+      Kirov, Christo  and
+      Sylak-Glassman, John  and
+      Walther, G{\'e}raldine  and
+      Vylomova, Ekaterina  and
+      McCarthy, Arya D.  and
+      Kann, Katharina  and
+      Mielke, Sabrina J.  and
+      Nicolai, Garrett  and
+      Silfverberg, Miikka  and
+      Yarowsky, David  and
+      Eisner, Jason  and
+      Hulden, Mans",
+    editor = "Hulden, Mans  and
+      Cotterell, Ryan",
+    booktitle = "Proceedings of the {C}o{NLL}{--}{SIGMORPHON} 2018 Shared Task: Universal Morphological Reinflection",
+    month = oct,
+    year = "2018",
+    address = "Brussels",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/K18-3001/",
+    doi = "10.18653/v1/K18-3001",
+    pages = "1--27"
 }
 
 @inproceedings{batsuren-etal-2022-unimorph,
@@ -242,4 +283,305 @@
     of the Association for Computational Linguistics",
     year="2020",
     doi="10.18653/v1/2020.acl-main.560",
+}
+
+@book{Koskenniemi1983,
+title = "Two-Level Morphology: A General Computational Model for Word-Form Recognition and Production",
+abstract = "This dissertation presents a new computationally implemented linguistic model for morphological analysis and synthesis. The model incorporates a general formalism for making morphological descriptions of particular languages, and a language-independent program implementing the model. The two-level formalism and the structure of the program are formally defined. The program can utilize descriptions of various languages, including highly inflected ones such as Finnish, Russian, or Sanskrit. The new model is unrestricted in scope and it is capable of handling the entire language system as well as ordinary running text. A full description of Finnish inflectional morphology is presented in order to validate the model. The two-level model is based on a lexicon system and a set of two-level rules. It differs from generative phonology in the following respects. The rules are parallel, as opposed to being sequentially ordered, as is the case with the rewriting rules of generative phonology. The two-level model is fully bidirectional both conceptually and processually. It can also be interpreted as a morphological model of the performance processes of word-form recognition and production. The model and the descriptions are based on computationally simple machinery, mostly on small finite state automata. The computational complexity of the model is discussed, and the description of Finnish is evaluated with respect to external evidence from child language acquisition.",
+keywords = "612 Languages and Literature, laguage technology, computational linguistics, morphology, 113 Computer and information sciences",
+author = "Kimmo Koskenniemi",
+year = "1983",
+language = "English",
+isbn = "951-45-3201-5",
+series = "Publications",
+publisher = "University of Helsinki. Department of General Linguistics",
+number = "11",
+address = "Finland",
+}
+
+@book{BeesleyKarttunen2003,
+  author    = {Beesley, Kenneth R. and Karttunen, Lauri},
+  title     = {Finite-State Morphology},
+  publisher = {CSLI Publications},
+  address   = {Stanford, CA},
+  year      = {2003},
+  isbn      = {978-1-57586-434-1}
+}
+
+@inproceedings{faruqui-etal-2016-morphological,
+  title = "Morphological Inflection Generation Using Character Sequence to Sequence Learning",
+  author = "Faruqui, Manaal and Tsvetkov, Yulia and Neubig, Graham and Dyer, Chris",
+  editor = "Knight, Kevin and Nenkova, Ani and Rambow, Owen",
+  booktitle = "Proceedings of the 2016 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies",
+  month = jun,
+  year = "2016",
+  address = "San Diego, California",
+  publisher = "Association for Computational Linguistics",
+  url = "https://aclanthology.org/N16-1077/",
+  doi = "10.18653/v1/N16-1077",
+  pages = "634--643"
+}
+
+@inproceedings{kann-schutze-2016-single,
+  title = "Single-Model Encoder-Decoder with Explicit Morphological Representation for Reinflection",
+  author = {Kann, Katharina and Sch{\"u}tze, Hinrich},
+  editor = "Erk, Katrin and Smith, Noah A.",
+  booktitle = "Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+  month = aug,
+  year = "2016",
+  address = "Berlin, Germany",
+  publisher = "Association for Computational Linguistics",
+  url = "https://aclanthology.org/P16-2090/",
+  doi = "10.18653/v1/P16-2090",
+  pages = "555--560"
+}
+
+@inproceedings{aharoni-goldberg-2017-morphological,
+  title = "Morphological Inflection Generation with Hard Monotonic Attention",
+  author = "Aharoni, Roee and Goldberg, Yoav",
+  editor = "Barzilay, Regina and Kan, Min-Yen",
+  booktitle = "Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  month = jul,
+  year = "2017",
+  address = "Vancouver, Canada",
+  publisher = "Association for Computational Linguistics",
+  url = "https://aclanthology.org/P17-1183/",
+  doi = "10.18653/v1/P17-1183",
+  pages = "2004--2015"
+}
+
+@article{Kaplan1994,
+    title = "Regular Models of Phonological Rule Systems",
+    author = "Kaplan, Ronald M.  and
+      Kay, Martin",
+    editor = "Hirschberg, Julia",
+    journal = "Computational Linguistics",
+    volume = "20",
+    number = "3",
+    year = "1994",
+    address = "Cambridge, MA",
+    publisher = "MIT Press",
+    url = "https://aclanthology.org/J94-3001/",
+    pages = "331--378"
+}
+
+@inproceedings{malaviya-etal-2019-simple,
+    title = "A Simple Joint Model for Improved Contextual Neural Lemmatization",
+    author = "Malaviya, Chaitanya  and
+      Wu, Shijie  and
+      Cotterell, Ryan",
+    editor = "Burstein, Jill  and
+      Doran, Christy  and
+      Solorio, Thamar",
+    booktitle = "Proceedings of the 2019 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+    month = jun,
+    year = "2019",
+    address = "Minneapolis, Minnesota",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/N19-1155/",
+    doi = "10.18653/v1/N19-1155",
+    pages = "1517--1528",
+    abstract = "English verbs have multiple forms. For instance, talk may also appear as talks, talked or talking, depending on the context. The NLP task of lemmatization seeks to map these diverse forms back to a canonical one, known as the lemma. We present a simple joint neural model for lemmatization and morphological tagging that achieves state-of-the-art results on 20 languages from the Universal Dependencies corpora. Our paper describes the model in addition to training and decoding procedures. Error analysis indicates that joint morphological tagging and lemmatization is especially helpful in low-resource lemmatization and languages that display a larger degree of morphological complexity."
+}
+
+@inproceedings{cotterell-heigold-2017-cross,
+    title = "Cross-lingual Character-Level Neural Morphological Tagging",
+    author = "Cotterell, Ryan  and
+      Heigold, Georg",
+    editor = "Palmer, Martha  and
+      Hwa, Rebecca  and
+      Riedel, Sebastian",
+    booktitle = "Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing",
+    month = sep,
+    year = "2017",
+    address = "Copenhagen, Denmark",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/D17-1078/",
+    doi = "10.18653/v1/D17-1078",
+    pages = "748--759",
+    abstract = "Even for common NLP tasks, sufficient supervision is not available in many languages {--} morphological tagging is no exception. In the work presented here, we explore a transfer learning scheme, whereby we train character-level recurrent neural taggers to predict morphological taggings for high-resource languages and low-resource languages together. Learning joint character representations among multiple related languages successfully enables knowledge transfer from the high-resource languages to the low-resource ones."
+}
+
+@inproceedings{sennrich-etal-2016-neural,
+    title = "Neural Machine Translation of Rare Words with Subword Units",
+    author = "Sennrich, Rico  and
+      Haddow, Barry  and
+      Birch, Alexandra",
+    editor = "Erk, Katrin  and
+      Smith, Noah A.",
+    booktitle = "Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2016",
+    address = "Berlin, Germany",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/P16-1162/",
+    doi = "10.18653/v1/P16-1162",
+    pages = "1715--1725"
+}
+
+@InProceedings{pmlr-v32-botha14,
+  title = 	 {Compositional Morphology for Word Representations and Language Modelling},
+  author = 	 {Botha, Jan and Blunsom, Phil},
+  booktitle = 	 {Proceedings of the 31st International Conference on Machine Learning},
+  pages = 	 {1899--1907},
+  year = 	 {2014},
+  editor = 	 {Xing, Eric P. and Jebara, Tony},
+  volume = 	 {32},
+  number =       {2},
+  series = 	 {Proceedings of Machine Learning Research},
+  address = 	 {Bejing, China},
+  month = 	 {22--24 Jun},
+  publisher =    {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v32/botha14.pdf},
+  url = 	 {https://proceedings.mlr.press/v32/botha14.html},
+  abstract = 	 {This paper presents a scalable method for integrating compositional morphological representations into a vector-based probabilistic language model. Our approach is evaluated in the context of log-bilinear language models, rendered suitably efficient for implementation inside a machine translation decoder by factoring the vocabulary. We perform both intrinsic and extrinsic evaluations, presenting results on a range of languages which demonstrate that our model learns morphological representations that both perform well on word similarity tasks and lead to substantial reductions in perplexity. When used for translation into morphologically rich languages with large vocabularies, our models obtain improvements of up to 1.2 BLEU points relative to a baseline system using back-off n-gram models.}
+}
+
+@inproceedings{vylomova-etal-2020-sigmorphon,
+    title = "{SIGMORPHON} 2020 Shared Task 0: Typologically Diverse Morphological Inflection",
+    author = "Vylomova, Ekaterina  and
+      White, Jennifer  and
+      Salesky, Elizabeth  and
+      Mielke, Sabrina J.  and
+      Wu, Shijie  and
+      Ponti, Edoardo Maria  and
+      Maudslay, Rowan Hall  and
+      Zmigrod, Ran  and
+      Valvoda, Josef  and
+      Toldova, Svetlana  and
+      Tyers, Francis  and
+      Klyachko, Elena  and
+      Yegorov, Ilya  and
+      Krizhanovsky, Natalia  and
+      Czarnowska, Paula  and
+      Nikkarinen, Irene  and
+      Krizhanovsky, Andrew  and
+      Pimentel, Tiago  and
+      Torroba Hennigen, Lucas  and
+      Kirov, Christo  and
+      Nicolai, Garrett  and
+      Williams, Adina  and
+      Anastasopoulos, Antonios  and
+      Cruz, Hilaria  and
+      Chodroff, Eleanor  and
+      Cotterell, Ryan  and
+      Silfverberg, Miikka  and
+      Hulden, Mans",
+    editor = "Nicolai, Garrett  and
+      Gorman, Kyle  and
+      Cotterell, Ryan",
+    booktitle = "Proceedings of the 17th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology",
+    month = jul,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2020.sigmorphon-1.1/",
+    doi = "10.18653/v1/2020.sigmorphon-1.1",
+    pages = "1--39",
+    abstract = "A broad goal in natural language processing (NLP) is to develop a system that has the capacity to process any natural language. Most systems, however, are developed using data from just one language such as English. The SIGMORPHON 2020 shared task on morphological reinflection aims to investigate systems' ability to generalize across typologically distinct languages, many of which are low resource. Systems were developed using data from 45 languages and just 5 language families, fine-tuned with data from an additional 45 languages and 10 language families (13 in total), and evaluated on all 90 languages. A total of 22 systems (19 neural) from 10 teams were submitted to the task. All four winning systems were neural (two monolingual transformers and two massively multilingual RNN-based models with gated attention). Most teams demonstrate utility of data hallucination and augmentation, ensembles, and multilingual training for low-resource languages. Non-neural learners and manually designed grammars showed competitive and even superior performance on some languages (such as Ingrian, Tajik, Tagalog, Zarma, Lingala), especially with very limited data. Some language families (Afro-Asiatic, Niger-Congo, Turkic) were relatively easy for most systems and achieved over 90{\%} mean accuracy while others were more challenging."
+}
+
+@inproceedings{wu-etal-2021-applying,
+    title = "Applying the Transformer to Character-level Transduction",
+    author = "Wu, Shijie  and
+      Cotterell, Ryan  and
+      Hulden, Mans",
+    editor = "Merlo, Paola  and
+      Tiedemann, Jorg  and
+      Tsarfaty, Reut",
+    booktitle = "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume",
+    month = apr,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.eacl-main.163/",
+    doi = "10.18653/v1/2021.eacl-main.163",
+    pages = "1901--1907",
+    abstract = "The transformer has been shown to outperform recurrent neural network-based sequence-to-sequence models in various word-level NLP tasks. Yet for character-level transduction tasks, e.g. morphological inflection generation and historical text normalization, there are few works that outperform recurrent models using the transformer. In an empirical study, we uncover that, in contrast to recurrent sequence-to-sequence models, the batch size plays a crucial role in the performance of the transformer on character-level tasks, and we show that with a large enough batch size, the transformer does indeed outperform recurrent models. We also introduce a simple technique to handle feature-guided character-level transduction that further improves performance. With these insights, we achieve state-of-the-art performance on morphological inflection and historical text normalization. We also show that the transformer outperforms a strong baseline on two other character-level transduction tasks: grapheme-to-phoneme conversion and transliteration."
+}
+
+@inproceedings{vaswani2017attention,
+ author = {Vaswani, Ashish and Shazeer, Noam and Parmar, Niki and Uszkoreit, Jakob and Jones, Llion and Gomez, Aidan N and Kaiser, \L ukasz and Polosukhin, Illia},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {I. Guyon and U. Von Luxburg and S. Bengio and H. Wallach and R. Fergus and S. Vishwanathan and R. Garnett},
+ pages = {},
+ publisher = {Curran Associates, Inc.},
+ title = {Attention is All you Need},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf},
+ volume = {30},
+ year = {2017}
+}
+
+@article{xue-etal-2022-byt5,
+    title = "{B}y{T}5: Towards a Token-Free Future with Pre-trained Byte-to-Byte Models",
+    author = "Xue, Linting  and
+      Barua, Aditya  and
+      Constant, Noah  and
+      Al-Rfou, Rami  and
+      Narang, Sharan  and
+      Kale, Mihir  and
+      Roberts, Adam  and
+      Raffel, Colin",
+    editor = "Roark, Brian  and
+      Nenkova, Ani",
+    journal = "Transactions of the Association for Computational Linguistics",
+    volume = "10",
+    year = "2022",
+    address = "Cambridge, MA",
+    publisher = "MIT Press",
+    url = "https://aclanthology.org/2022.tacl-1.17/",
+    doi = "10.1162/tacl_a_00461",
+    pages = "291--306",
+    abstract = "Most widely used pre-trained language models operate on sequences of tokens corresponding to word or subword units. By comparison, token-free models that operate directly on raw text (bytes or characters) have many benefits: They can process text in any language out of the box, they are more robust to noise, and they minimize technical debt by removing complex and error-prone text preprocessing pipelines. Because byte or character sequences are longer than token sequences, past work on token-free models has often introduced new model architectures designed to amortize the cost of operating directly on raw text. In this paper, we show that a standard Transformer architecture can be used with minimal modifications to process byte sequences. We characterize the trade-offs in terms of parameter count, training FLOPs, and inference speed, and show that byte-level models are competitive with their token-level counterparts. We also demonstrate that byte-level models are significantly more robust to noise and perform better on tasks that are sensitive to spelling and pronunciation. As part of our contribution, we release a new set of pre-trained byte-level Transformer models based on the T5 architecture, as well as all code and data used in our experiments.1"
+}
+
+@misc{qwen3technicalreport,
+      title={Qwen3 Technical Report}, 
+      author={An Yang and Anfeng Li and Baosong Yang and Beichen Zhang and Binyuan Hui and Bo Zheng and Bowen Yu and Chang Gao and Chengen Huang and Chenxu Lv and Chujie Zheng and Dayiheng Liu and Fan Zhou and Fei Huang and Feng Hu and Hao Ge and Haoran Wei and Huan Lin and Jialong Tang and Jian Yang and Jianhong Tu and Jianwei Zhang and Jianxin Yang and Jiaxi Yang and Jing Zhou and Jingren Zhou and Junyang Lin and Kai Dang and Keqin Bao and Kexin Yang and Le Yu and Lianghao Deng and Mei Li and Mingfeng Xue and Mingze Li and Pei Zhang and Peng Wang and Qin Zhu and Rui Men and Ruize Gao and Shixuan Liu and Shuang Luo and Tianhao Li and Tianyi Tang and Wenbiao Yin and Xingzhang Ren and Xinyu Wang and Xinyu Zhang and Xuancheng Ren and Yang Fan and Yang Su and Yichang Zhang and Yinger Zhang and Yu Wan and Yuqiong Liu and Zekun Wang and Zeyu Cui and Zhenru Zhang and Zhipeng Zhou and Zihan Qiu},
+      year={2025},
+      eprint={2505.09388},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.09388}, 
+}
+
+@misc{llama3technicalreport,
+      title={The Llama 3 Herd of Models}, 
+      author={Aaron Grattafiori and Abhimanyu Dubey and Abhinav Jauhri and Abhinav Pandey and Abhishek Kadian and Ahmad Al-Dahle and Aiesha Letman and Akhil Mathur and Alan Schelten and Alex Vaughan and Amy Yang and Angela Fan and Anirudh Goyal and Anthony Hartshorn and Aobo Yang and Archi Mitra and Archie Sravankumar and Artem Korenev and Arthur Hinsvark and Arun Rao and Aston Zhang and Aurelien Rodriguez and Austen Gregerson and Ava Spataru and Baptiste Roziere and Bethany Biron and Binh Tang and Bobbie Chern and Charlotte Caucheteux and Chaya Nayak and Chloe Bi and Chris Marra and Chris McConnell and Christian Keller and Christophe Touret and Chunyang Wu and Corinne Wong and Cristian Canton Ferrer and Cyrus Nikolaidis and Damien Allonsius and Daniel Song and Danielle Pintz and Danny Livshits and Danny Wyatt and David Esiobu and Dhruv Choudhary and Dhruv Mahajan and Diego Garcia-Olano and Diego Perino and Dieuwke Hupkes and Egor Lakomkin and Ehab AlBadawy and Elina Lobanova and Emily Dinan and Eric Michael Smith and Filip Radenovic and Francisco Guzmán and Frank Zhang and Gabriel Synnaeve and Gabrielle Lee and Georgia Lewis Anderson and Govind Thattai and Graeme Nail and Gregoire Mialon and Guan Pang and Guillem Cucurell and Hailey Nguyen and Hannah Korevaar and Hu Xu and Hugo Touvron and Iliyan Zarov and Imanol Arrieta Ibarra and Isabel Kloumann and Ishan Misra and Ivan Evtimov and Jack Zhang and Jade Copet and Jaewon Lee and Jan Geffert and Jana Vranes and Jason Park and Jay Mahadeokar and Jeet Shah and Jelmer van der Linde and Jennifer Billock and Jenny Hong and Jenya Lee and Jeremy Fu and Jianfeng Chi and Jianyu Huang and Jiawen Liu and Jie Wang and Jiecao Yu and Joanna Bitton and Joe Spisak and Jongsoo Park and Joseph Rocca and Joshua Johnstun and Joshua Saxe and Junteng Jia and Kalyan Vasuden Alwala and Karthik Prasad and Kartikeya Upasani and Kate Plawiak and Ke Li and Kenneth Heafield and Kevin Stone and Khalid El-Arini and Krithika Iyer and Kshitiz Malik and Kuenley Chiu and Kunal Bhalla and Kushal Lakhotia and Lauren Rantala-Yeary and Laurens van der Maaten and Lawrence Chen and Liang Tan and Liz Jenkins and Louis Martin and Lovish Madaan and Lubo Malo and Lukas Blecher and Lukas Landzaat and Luke de Oliveira and Madeline Muzzi and Mahesh Pasupuleti and Mannat Singh and Manohar Paluri and Marcin Kardas and Maria Tsimpoukelli and Mathew Oldham and Mathieu Rita and Maya Pavlova and Melanie Kambadur and Mike Lewis and Min Si and Mitesh Kumar Singh and Mona Hassan and Naman Goyal and Narjes Torabi and Nikolay Bashlykov and Nikolay Bogoychev and Niladri Chatterji and Ning Zhang and Olivier Duchenne and Onur Çelebi and Patrick Alrassy and Pengchuan Zhang and Pengwei Li and Petar Vasic and Peter Weng and Prajjwal Bhargava and Pratik Dubal and Praveen Krishnan and Punit Singh Koura and Puxin Xu and Qing He and Qingxiao Dong and Ragavan Srinivasan and Raj Ganapathy and Ramon Calderer and Ricardo Silveira Cabral and Robert Stojnic and Roberta Raileanu and Rohan Maheswari and Rohit Girdhar and Rohit Patel and Romain Sauvestre and Ronnie Polidoro and Roshan Sumbaly and Ross Taylor and Ruan Silva and Rui Hou and Rui Wang and Saghar Hosseini and Sahana Chennabasappa and Sanjay Singh and Sean Bell and Seohyun Sonia Kim and Sergey Edunov and Shaoliang Nie and Sharan Narang and Sharath Raparthy and Sheng Shen and Shengye Wan and Shruti Bhosale and Shun Zhang and Simon Vandenhende and Soumya Batra and Spencer Whitman and Sten Sootla and Stephane Collot and Suchin Gururangan and Sydney Borodinsky and Tamar Herman and Tara Fowler and Tarek Sheasha and Thomas Georgiou and Thomas Scialom and Tobias Speckbacher and Todor Mihaylov and Tong Xiao and Ujjwal Karn and Vedanuj Goswami and Vibhor Gupta and Vignesh Ramanathan and Viktor Kerkez and Vincent Gonguet and Virginie Do and Vish Vogeti and Vítor Albiero and Vladan Petrovic and Weiwei Chu and Wenhan Xiong and Wenyin Fu and Whitney Meers and Xavier Martinet and Xiaodong Wang and Xiaofang Wang and Xiaoqing Ellen Tan and Xide Xia and Xinfeng Xie and Xuchao Jia and Xuewei Wang and Yaelle Goldschlag and Yashesh Gaur and Yasmine Babaei and Yi Wen and Yiwen Song and Yuchen Zhang and Yue Li and Yuning Mao and Zacharie Delpierre Coudert and Zheng Yan and Zhengxing Chen and Zoe Papakipos and Aaditya Singh and Aayushi Srivastava and Abha Jain and Adam Kelsey and Adam Shajnfeld and Adithya Gangidi and Adolfo Victoria and Ahuva Goldstand and Ajay Menon and Ajay Sharma and Alex Boesenberg and Alexei Baevski and Allie Feinstein and Amanda Kallet and Amit Sangani and Amos Teo and Anam Yunus and Andrei Lupu and Andres Alvarado and Andrew Caples and Andrew Gu and Andrew Ho and Andrew Poulton and Andrew Ryan and Ankit Ramchandani and Annie Dong and Annie Franco and Anuj Goyal and Aparajita Saraf and Arkabandhu Chowdhury and Ashley Gabriel and Ashwin Bharambe and Assaf Eisenman and Azadeh Yazdan and Beau James and Ben Maurer and Benjamin Leonhardi and Bernie Huang and Beth Loyd and Beto De Paola and Bhargavi Paranjape and Bing Liu and Bo Wu and Boyu Ni and Braden Hancock and Bram Wasti and Brandon Spence and Brani Stojkovic and Brian Gamido and Britt Montalvo and Carl Parker and Carly Burton and Catalina Mejia and Ce Liu and Changhan Wang and Changkyu Kim and Chao Zhou and Chester Hu and Ching-Hsiang Chu and Chris Cai and Chris Tindal and Christoph Feichtenhofer and Cynthia Gao and Damon Civin and Dana Beaty and Daniel Kreymer and Daniel Li and David Adkins and David Xu and Davide Testuggine and Delia David and Devi Parikh and Diana Liskovich and Didem Foss and Dingkang Wang and Duc Le and Dustin Holland and Edward Dowling and Eissa Jamil and Elaine Montgomery and Eleonora Presani and Emily Hahn and Emily Wood and Eric-Tuan Le and Erik Brinkman and Esteban Arcaute and Evan Dunbar and Evan Smothers and Fei Sun and Felix Kreuk and Feng Tian and Filippos Kokkinos and Firat Ozgenel and Francesco Caggioni and Frank Kanayet and Frank Seide and Gabriela Medina Florez and Gabriella Schwarz and Gada Badeer and Georgia Swee and Gil Halpern and Grant Herman and Grigory Sizov and Guangyi and Zhang and Guna Lakshminarayanan and Hakan Inan and Hamid Shojanazeri and Han Zou and Hannah Wang and Hanwen Zha and Haroun Habeeb and Harrison Rudolph and Helen Suk and Henry Aspegren and Hunter Goldman and Hongyuan Zhan and Ibrahim Damlaj and Igor Molybog and Igor Tufanov and Ilias Leontiadis and Irina-Elena Veliche and Itai Gat and Jake Weissman and James Geboski and James Kohli and Janice Lam and Japhet Asher and Jean-Baptiste Gaya and Jeff Marcus and Jeff Tang and Jennifer Chan and Jenny Zhen and Jeremy Reizenstein and Jeremy Teboul and Jessica Zhong and Jian Jin and Jingyi Yang and Joe Cummings and Jon Carvill and Jon Shepard and Jonathan McPhie and Jonathan Torres and Josh Ginsburg and Junjie Wang and Kai Wu and Kam Hou U and Karan Saxena and Kartikay Khandelwal and Katayoun Zand and Kathy Matosich and Kaushik Veeraraghavan and Kelly Michelena and Keqian Li and Kiran Jagadeesh and Kun Huang and Kunal Chawla and Kyle Huang and Lailin Chen and Lakshya Garg and Lavender A and Leandro Silva and Lee Bell and Lei Zhang and Liangpeng Guo and Licheng Yu and Liron Moshkovich and Luca Wehrstedt and Madian Khabsa and Manav Avalani and Manish Bhatt and Martynas Mankus and Matan Hasson and Matthew Lennie and Matthias Reso and Maxim Groshev and Maxim Naumov and Maya Lathi and Meghan Keneally and Miao Liu and Michael L. Seltzer and Michal Valko and Michelle Restrepo and Mihir Patel and Mik Vyatskov and Mikayel Samvelyan and Mike Clark and Mike Macey and Mike Wang and Miquel Jubert Hermoso and Mo Metanat and Mohammad Rastegari and Munish Bansal and Nandhini Santhanam and Natascha Parks and Natasha White and Navyata Bawa and Nayan Singhal and Nick Egebo and Nicolas Usunier and Nikhil Mehta and Nikolay Pavlovich Laptev and Ning Dong and Norman Cheng and Oleg Chernoguz and Olivia Hart and Omkar Salpekar and Ozlem Kalinli and Parkin Kent and Parth Parekh and Paul Saab and Pavan Balaji and Pedro Rittner and Philip Bontrager and Pierre Roux and Piotr Dollar and Polina Zvyagina and Prashant Ratanchandani and Pritish Yuvraj and Qian Liang and Rachad Alao and Rachel Rodriguez and Rafi Ayub and Raghotham Murthy and Raghu Nayani and Rahul Mitra and Rangaprabhu Parthasarathy and Raymond Li and Rebekkah Hogan and Robin Battey and Rocky Wang and Russ Howes and Ruty Rinott and Sachin Mehta and Sachin Siby and Sai Jayesh Bondu and Samyak Datta and Sara Chugh and Sara Hunt and Sargun Dhillon and Sasha Sidorov and Satadru Pan and Saurabh Mahajan and Saurabh Verma and Seiji Yamamoto and Sharadh Ramaswamy and Shaun Lindsay and Shaun Lindsay and Sheng Feng and Shenghao Lin and Shengxin Cindy Zha and Shishir Patil and Shiva Shankar and Shuqiang Zhang and Shuqiang Zhang and Sinong Wang and Sneha Agarwal and Soji Sajuyigbe and Soumith Chintala and Stephanie Max and Stephen Chen and Steve Kehoe and Steve Satterfield and Sudarshan Govindaprasad and Sumit Gupta and Summer Deng and Sungmin Cho and Sunny Virk and Suraj Subramanian and Sy Choudhury and Sydney Goldman and Tal Remez and Tamar Glaser and Tamara Best and Thilo Koehler and Thomas Robinson and Tianhe Li and Tianjun Zhang and Tim Matthews and Timothy Chou and Tzook Shaked and Varun Vontimitta and Victoria Ajayi and Victoria Montanez and Vijai Mohan and Vinay Satish Kumar and Vishal Mangla and Vlad Ionescu and Vlad Poenaru and Vlad Tiberiu Mihailescu and Vladimir Ivanov and Wei Li and Wenchen Wang and Wenwen Jiang and Wes Bouaziz and Will Constable and Xiaocheng Tang and Xiaojian Wu and Xiaolan Wang and Xilun Wu and Xinbo Gao and Yaniv Kleinman and Yanjun Chen and Ye Hu and Ye Jia and Ye Qi and Yenda Li and Yilin Zhang and Ying Zhang and Yossi Adi and Youngjin Nam and Yu and Wang and Yu Zhao and Yuchen Hao and Yundi Qian and Yunlu Li and Yuzi He and Zach Rait and Zachary DeVito and Zef Rosnbrick and Zhaoduo Wen and Zhenyu Yang and Zhiwei Zhao and Zhiyu Ma},
+      year={2024},
+      eprint={2407.21783},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2407.21783}, 
+}
+
+@article{raffel2020t5,
+  author  = {Colin Raffel and Noam Shazeer and Adam Roberts and Katherine Lee and Sharan Narang and Michael Matena and Yanqi Zhou and Wei Li and Peter J. Liu},
+  title   = {Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer},
+  journal = {Journal of Machine Learning Research},
+  year    = {2020},
+  volume  = {21},
+  number  = {140},
+  pages   = {1-67},
+  url     = {http://jmlr.org/papers/v21/20-074.html}
+}
+
+@inproceedings{xue-etal-2021-mt5,
+    title = "m{T}5: A Massively Multilingual Pre-trained Text-to-Text Transformer",
+    author = "Xue, Linting  and
+      Constant, Noah  and
+      Roberts, Adam  and
+      Kale, Mihir  and
+      Al-Rfou, Rami  and
+      Siddhant, Aditya  and
+      Barua, Aditya  and
+      Raffel, Colin",
+    booktitle = "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    month = jun,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.naacl-main.41",
+    doi = "10.18653/v1/2021.naacl-main.41",
+    pages = "483--498"
 }

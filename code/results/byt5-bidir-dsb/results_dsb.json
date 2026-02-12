@@ -1,0 +1,39 @@
+{
+  "model_type": "byt5",
+  "model_name": "results/byt5-bidir-dsb/checkpoint-3750",
+  "language": "dsb",
+  "metrics": {
+    "forward": {
+      "test": {
+        "accuracy": 0.772,
+        "correct": 772,
+        "total": 1000
+      }
+    },
+    "inverse": {
+      "test": {
+        "lemma": {
+          "accuracy": 0.622,
+          "mean_levenshtein": 0.607,
+          "correct": 622,
+          "total": 1000
+        },
+        "msd": {
+          "accuracy": 0.371,
+          "f1": 0.6800679501698753,
+          "precision": 0.677765237020316,
+          "recall": 0.6823863636363636,
+          "correct": 371,
+          "total": 1000
+        }
+      }
+    }
+  },
+  "timestamp": "2026-02-11T01:26:29.387324",
+  "direction": "inverse",
+  "configuration": {
+    "use_context": false,
+    "batch_size": 16,
+    "task": "bidirectional"
+  }
+}

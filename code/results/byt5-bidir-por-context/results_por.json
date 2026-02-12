@@ -1,0 +1,32 @@
+{
+  "model_type": "byt5",
+  "model_name": "results/byt5-bidir-por-context",
+  "language": "por",
+  "metrics": {
+    "inverse": {
+      "test": {
+        "lemma": {
+          "accuracy": 0.901565995525727,
+          "mean_levenshtein": 0.2751677852348993,
+          "correct": 806,
+          "total": 894
+        },
+        "msd": {
+          "accuracy": 0.883668903803132,
+          "f1": 0.9426734529868739,
+          "precision": 0.9802228412256268,
+          "recall": 0.9078947368421053,
+          "correct": 790,
+          "total": 894
+        }
+      }
+    }
+  },
+  "timestamp": "2026-02-11T11:40:51.902010",
+  "direction": "inverse",
+  "configuration": {
+    "use_context": true,
+    "batch_size": 16,
+    "task": "bidirectional"
+  }
+}

@@ -1,0 +1,820 @@
+Given the context: 'ἦλθον δὲ οἱ δύο ἄγγελοι εἰς Σόδομα ἑσπέρας· Λὼτ δὲ ἐκάθητο παρὰ τὴν πύλην Σοδόμων. ἰδὼν δὲ Λὼτ ἐξανέστη εἰς συνάντησιν αὐτοῖς καὶ προσεκύνησεν τῷ προσώπῳ ἐπὶ τὴν γῆν'
+Generate the lemma and morphological tags for the inflected verb: ἦλθον	ἦλθον	ἔρχομαι V;IND;FIN;PST;PFV;ACT;PL;3
+Given the context: 'καὶ εἶπεν, ἰδού, κύριοι, ἐκκλίνατε εἰς τὸν οἶκον τοῦ παιδὸς ὑμῶν καὶ καταλύσατε καὶ νίψασθε τοὺς πόδας ὑμῶν, καὶ ὀρθρίσαντες ἀπελεύσεσθε εἰς τὴν ὁδὸν ὑμῶν. εἶπαν δέ, οὐχί, ἀλλ᾿ ἐν τῇ πλατείᾳ καταλύσομεν.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ κατεβιάζετο αὐτούς, καὶ ἐξέκλιναν πρὸς αὐτὸν καὶ εἰσῆλθον εἰς τὴν οἰκίαν αὐτοῦ. καὶ ἐποίησεν αὐτοῖς πότον, καὶ ἀζύμους ἔπεψεν αὐτοῖς, καὶ ἔφαγον.'
+Generate the lemma and morphological tags for the inflected verb: κατεβιάζετο	κατεβιάζετο	καταβιάζομαι V;IND;FIN;PST;IPFV;SG;{MID/PASS};3
+Given the context: 'πρὸ τοῦ κοιμηθῆναι καὶ οἱ ἄνδρες τῆς πόλεως οἱ Σοδομῖται περιεκύκλωσαν τὴν οἰκίαν ἀπὸ νεανίσκου ἕως πρεσβυτέρου, ἅπας ὁ λαὸς ἅμα,'
+Generate the lemma and morphological tags for the inflected verb: κοιμηθῆναι	κοιμήθημι V;IND;FIN;PFV;PST;A	κοιμάω V;PFV;PASS;NFIN
+Given the context: 'καὶ ἐξεκαλοῦντο τὸν Λὼτ καὶ ἔλεγον πρὸς αὐτόν, ποῦ εἰσιν οἱ ἄνδρες οἱ εἰσελθόντες πρὸς σὲ τὴν νύκτα; ἐξάγαγε αὐτοὺς πρὸς ἡμᾶς, ἵνα συγγενώμεθα αὐτοῖς.'
+Generate the lemma and morphological tags for the inflected verb: ἐξεκαλοῦντο	ἐξεκαλοῦντο	ἐκκαλέω V;IND;FIN;PST;IPFV;PL;{MID/PASS};3
+Given the context: 'ἐξῆλθεν δὲ Λὼτ πρὸς αὐτοὺς πρὸς τὸ πρόθυρον, τὴν δὲ θύραν προσέῳξεν ὀπίσω αὐτοῦ.'
+Generate the lemma and morphological tags for the inflected verb: ἐξῆλθεν	ἐξῆλθεν	ἐξέρχομαι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'εἶπεν δὲ πρὸς αὐτούς, μηδαμῶς, ἀδελφοί, μὴ πονηρεύσησθε.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπεν	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'εἰσὶν δέ μοι δύο θυγατέρες, αἳ οὐκ ἔγνωσαν ἄνδρα· ἐξάξω αὐτὰς πρὸς ὑμᾶς, καὶ χρήσασθε αὐταῖς, καθὰ ἄν ἀρέσκῃ ὑμῖν· μόνον εἰς τοὺς ἄνδρας τούτους μὴ ποιήσητε μηδὲν ἄδικον, οὗ εἵνεκεν εἰσῆλθον ὑπὸ τὴν σκέπην τῶν δοκῶν μου.'
+Generate the lemma and morphological tags for the inflected verb: ἔγνωσαν	ἔγνω V;IND;FIN;PFV;PST;ACT;NOM;MASC	γινώσκω V;IND;FIN;PST;PFV;ACT;PL;3
+Given the context: 'εἶπαν δέ, ἀπόστα ἐκεῖ. εἷς ἦλθες παροικεῖν· μὴ καὶ κρίσιν; κρίνειν νῦν οὖν σὲ κακώσομεν μᾶλλον ἢ ἐκείνους. καὶ παρεβιάζοντο τὸν ἄνδρα τὸν Λὼτ σφόδρα καὶ ἤγγισαν συντρῖψαι τὴν θύραν.'
+Generate the lemma and morphological tags for the inflected verb: εἶπαν	εἶπαν	λέγω V;IND;FIN;PST;PFV;ACT;PL;3
+Given the context: 'ἐκτείναντες δὲ οἱ ἄνδρες τὰς χεῖρας εἰσεσπάσαντο τὸν Λὼτ πρὸς ἑαυτοὺς εἰς τὸν οἶκον καὶ τὴν θύραν τοῦ οἴκου ἀπέκλεισαν·'
+Generate the lemma and morphological tags for the inflected verb: ἐκτείναντες	ἐκτείναντες	ἐκτείνω V;PFV;ACT;NOM;PL;MASC;V.PTCP
+Given the context: 'τοὺς δὲ ἄνδρας τοὺς ὄντας ἐπὶ τῆς θύρας τοῦ οἴκου ἐπάταξαν ἀορασίᾳ ἀπὸ μικροῦ ἕως μεγάλου, καὶ παρελύθησαν ζητοῦντες τὴν θύραν.'
+Generate the lemma and morphological tags for the inflected verb: ἐπάταξαν	ἐπάταξαν	πατάσσω V;IND;FIN;PST;PFV;ACT;PL;3
+Given the context: 'εἶπαν δὲ οἱ ἄνδρες πρὸς Λώτ, ἔστιν τίς σοί ὧδε, γαμβροὶ ἢ υἱοὶ ἢ θυγατέρες; ἢ εἴ τις σοί ἄλλος ἔστιν ἐν τῇ πόλει, ἐξάγαγε ἐκ τοῦ τόπου τούτου·'
+Generate the lemma and morphological tags for the inflected verb: εἶπαν	εἶπαν	λέγω V;IND;FIN;PST;PFV;ACT;PL;3
+Given the context: 'ὅτι ἀπόλλυμεν ἡμεῖς τὸν τόπον τοῦτον, ὅτι ὑψώθη ἡ κραυγὴ αὐτῶν ἐναντίον κυρίου, καὶ ἀπέστειλεν ἡμᾶς κύριος ἐκτρῖψαι αὐτήν.'
+Generate the lemma and morphological tags for the inflected verb: ἀπόλλυμεν	ἀπολλύμεν	ἀπόλλυμι V;IND;FIN;IPFV;PRS;ACT;PL;1
+Given the context: 'ἐξῆλθεν δὲ Λὼτ καὶ ἐλάλησεν πρὸς τοὺς γαμβροὺς αὐτοῦ τοὺς εἰληφότας τὰς θυγατέρας αὐτοῦ καὶ εἶπεν, ἀνάστητε καὶ ἐξέλθατε ἐκ τοῦ τόπου τούτου, ὅτι ἐκτρίβει κύριος τὴν πόλιν. ἔδοξεν δὲ γελοιάζειν ἐναντίον τῶν γαμβρῶν αὐτοῦ.'
+Generate the lemma and morphological tags for the inflected verb: ἐξῆλθεν	ἐξῆλθεν	ἐξέρχομαι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἡνίκα δὲ ὄρθρος ἐγίνετο, ἐπεσπούδαζον οἱ ἄγγελοι τὸν Λὼτ λέγοντες, ἀναστὰς λαβὲ τὴν γυναῖκά σου καὶ τὰς δύο θυγατέρας σου ἃς ἔχεις, καὶ ἔξελθε, ἵνα μὴ συναπόλῃ ταῖς ἀνομίαις τῆς πόλεως.'
+Generate the lemma and morphological tags for the inflected verb: ἐγίνετο	ἐγίνετο	γίνομαι V;IND;FIN;PST;IPFV;SG;{MID/PASS};3
+Given the context: 'καὶ ἐταράχθησαν· καὶ ἐκράτησαν οἱ ἄγγελοι τῆς χειρὸς αὐτοῦ καὶ τῆς χειρὸς τῆς γυναικὸς αὐτοῦ καὶ τῶν χειρῶν τῶν δύο θυγατέρων αὐτοῦ ἐν τῷ φείσασθαι κύριον αὐτοῦ.'
+Generate the lemma and morphological tags for the inflected verb: ἐταράχθησαν	ἐταράχθησαν	ταράσσω V;IND;FIN;PST;PFV;PASS;PL;3
+Given the context: 'καὶ ἐγένετο ἡνίκα ἐξήγαγον αὐτοὺς ἔξω. καὶ εἶπαν σῴζων σῷζε τὴν σεαυτοῦ ψυχήν· μὴ περιβλέψῃς εἰς τὰ ὀπίσω μηδὲ στῇς ἐν πάσῃ τῇ περιχώρῳ· εἰς τὸ ὄρος σῴζου, μήποτε συμπαραλημφθῇς.'
+Generate the lemma and morphological tags for the inflected verb: ἐγένετο	ἐγένετο	γίνομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'εἶπεν δὲ Λὼτ πρὸς αὐτούς, δέομαι, κύριε·'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπεν	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἐπειδὴ εὗρεν ὁ παῖς σου ἔλεος ἐναντίον σου καὶ ἐμεγάλυνας τὴν δικαιοσύνην σου, ὃ ποιεῖς ἐπ᾿ ἐμέ, τοῦ ζῆν τὴν ψυχήν μου, ἐγὼ δὲ οὐ δυνήσομαι διασωθῆναι εἰς τὸ ὄρος, μὴ καταλάβῃ με τὰ κακὰ καὶ ἀποθάνω,'
+Generate the lemma and morphological tags for the inflected verb: εὗρεν	εὗρεν	εὑρίσκω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἰδοὺ ἡ πόλις αὕτη ἐγγὺς τοῦ καταφυγεῖν με ἐκεῖ, ἥ ἐστιν μικρά, ἐκεῖ σωθήσομαι· οὐ μικρά ἐστιν; καὶ ζήσεται ἡ ψυχή μου.'
+Generate the lemma and morphological tags for the inflected verb: καταφυγεῖν	καταφυγεῖν	καταφεύγω V;PFV;ACT;NFIN
+Given the context: 'καὶ εἶπεν αὐτῷ, ἰδοὺ ἐθαύμασά σου τὸ πρόσωπον καὶ ἐπὶ τῷ ῥήματι τούτῳ τοῦ μὴ καταστρέψαι τὴν πόλιν, περὶ ἧς ἐλάλησας·'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'σπεῦσον οὖν τοῦ σωθῆναι ἐκεῖ· οὐ γὰρ δυνήσομαι ποιῆσαι πρᾶγμα ἕως τοῦ σὲ εἰσελθεῖν ἐκεῖ. διὰ τοῦτο ἐκάλεσεν τὸ ὄνομα τῆς πόλεως ἐκείνης Σηγώρ.'
+Generate the lemma and morphological tags for the inflected verb: σπεῦσον	σπεῦσον	σπεύδω V;FIN;IMP;PST;PFV;ACT;SG;2
+Given the context: 'ὁ ἥλιος ἐξῆλθεν ἐπὶ τὴν γῆν, καὶ Λὼτ εἰσῆλθεν εἰς Σηγώρ,'
+Generate the lemma and morphological tags for the inflected verb: ἐξῆλθεν	ἐξῆλθεν	ἐξέρχομαι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ κύριος ἔβρεξεν ἐπὶ Σόδομα καὶ Γόμορρα θεῖον καὶ πῦρ παρὰ κυρίου ἐκ τοῦ οὐρανοῦ'
+Generate the lemma and morphological tags for the inflected verb: ἔβρεξεν	ἔβρεξεν	βρέχω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ κατέστρεψεν τὰς πόλεις ταύτας καὶ πᾶσαν τὴν περίοικον καὶ πάντας τοὺς κατοικοῦντας ἐν ταῖς πόλεσιν καὶ πάντα τὰ ἀνατέλλοντα ἐκ τῆς γῆς.'
+Generate the lemma and morphological tags for the inflected verb: κατέστρεψεν	κατέστρεψεν	καταστρέφω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἐπέβλεψεν ἡ γυνὴ αὐτοῦ εἰς τὰ ὀπίσω καὶ ἐγένετο στήλη ἁλός.'
+Generate the lemma and morphological tags for the inflected verb: ἐπέβλεψεν	ἐπέβλεψεν	ἐπιβλέπω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ὤρθρισεν δὲ Ἁβραὰμ τὸ πρωῒ εἰς τὸν τόπον, οὗ εἱστήκει ἐναντίον κυρίου,'
+Generate the lemma and morphological tags for the inflected verb: ὤρθρισεν	ὤρθρισεν	ὀρθρίζω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἐπέβλεψεν ἐπὶ πρόσωπον Σοδόμων καὶ Γομόρρας καὶ ἐπὶ πρόσωπον τῆς γῆς τῆς περιχώρου καὶ εἶδεν, καὶ ἰδοὺ ἀνέβαινεν φλὸξ τῆς γῆς ὡσεὶ ἀτμὶς καμίνου.'
+Generate the lemma and morphological tags for the inflected verb: ἐπέβλεψεν	ἐπέβλεψεν	ἐπιβλέπω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἐγένετο ἐν τῷ ἐκτρῖψαι κύριον πάσας τὰς πόλεις τῆς περιοίκου ἐμνήσθη ὁ θεὸς τοῦ Ἁβραὰμ καὶ ἐξαπέστειλεν τὸν Λὼτ ἐκ μέσου τῆς καταστροφῆς ἐν τῷ καταστρέψαι κύριον τὰς πόλεις, ἐν αἷς κατῴκει ἐν αὐταῖς Λώτ.'
+Generate the lemma and morphological tags for the inflected verb: ἐγένετο	ἐγένετο	γίνομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'ἀνέβη δὲ Λὼτ ἐκ Σηγὼρ καὶ ἐκάθητο ἐν τῷ ὄρει καὶ αἱ δύο θυγατέρες αὐτοῦ μετ᾿ αὐτοῦ· ἐφοβήθη γὰρ κατοικῆσαι ἐν Σηγώρ. καὶ ᾤκησεν ἐν τῷ σπηλαίῳ, αὐτὸς καὶ αἱ δύο θυγατέρες αὐτοῦ μετ᾿ αὐτοῦ.'
+Generate the lemma and morphological tags for the inflected verb: ἀνέβη	ἀνέβη	ἀναβαίνω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'εἶπεν δὲ ἡ πρεσβυτέρα πρὸς τὴν νεωτέραν, ὁ πατὴρ ἡμῶν πρεσβύτερος, καὶ οὐδείς ἐστιν ἐπὶ τῆς γῆς, ὃς εἰσελεύσεται πρὸς ἡμᾶς, ὡς καθήκει πάσῃ τῇ γῇ·'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπεν	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'δεῦρο καὶ ποτίσωμεν τὸν πατέρα ἡμῶν οἶνον καὶ κοιμηθῶμεν μετ᾿ αὐτοῦ καὶ ἐξαναστήσωμεν ἐκ τοῦ πατρὸς ἡμῶν σπέρμα.'
+Generate the lemma and morphological tags for the inflected verb: ποτίσωμεν	ποτίσωμι V;IND;FIN;PFV;PST;A	ποτίζω V;FIN;SBJV;PST;PFV;ACT;1;PL
+Given the context: 'ἐπότισαν δὲ τὸν πατέρα αὐτῶν οἶνον ἐν τῇ νυκτὶ ταύτῃ, καὶ εἰσελθοῦσα ἡ πρεσβυτέρα ἐκοιμήθη μετὰ τοῦ πατρὸς αὐτῆς τὴν νύκτα ἐκείνην, καὶ οὐκ ᾔδει ἐν τῷ κοιμηθῆναι αὐτὴν καὶ ἀναστῆναι.'
+Generate the lemma and morphological tags for the inflected verb: ἐπότισαν	ἐπότισαν	ποτίζω V;IND;FIN;PST;PFV;ACT;PL;3
+Given the context: 'ἐγένετο δὲ τῇ ἐπαύριον καὶ εἶπεν ἡ πρεσβυτέρα πρὸς τὴν νεωτέραν ἰδοὺ ἐκοιμήθην ἐχθὲς μετὰ τοῦ πατρὸς ἡμῶν· ποτίσωμεν αὐτὸν οἶνον καὶ τὴν νύκτα ταύτην, καὶ εἰσελθοῦσα κοιμήθητι μετ᾿ αὐτοῦ, καὶ ἐξαναστήσωμεν ἐκ τοῦ πατρὸς ἡμῶν σπέρμα.'
+Generate the lemma and morphological tags for the inflected verb: ἐγένετο	ἐγένετο	γίνομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'ἐπότισαν δὲ καὶ ἐν τῇ νυκτὶ ἐκείνῃ τὸν πατέρα αὐτῶν οἶνον, καὶ εἰσελθοῦσα ἡ νεωτέρα ἐκοιμήθη μετὰ τοῦ πατρὸς αὐτῆς, καὶ οὐκ ᾔδει ἐν τῷ κοιμηθῆναι αὐτὴν καὶ ἀναστῆναι.'
+Generate the lemma and morphological tags for the inflected verb: ἐπότισαν	ἐπότισαν	ποτίζω V;IND;FIN;PST;PFV;ACT;PL;3
+Given the context: 'καὶ συνέλαβον αἱ δύο θυγατέρες Λὼτ ἐκ τοῦ πατρὸς αὐτῶν.'
+Generate the lemma and morphological tags for the inflected verb: συνέλαβον	συνέλαβον	συλλαμβάνω V;IND;FIN;PST;PFV;ACT;PL;3
+Given the context: 'καὶ ἔτεκεν ἡ πρεσβυτέρα υἱὸν καὶ ἐκάλεσεν τὸ ὄνομα αὐτοῦ Μωὰβ λέγουσα, ἐκ τοῦ πατρός μου· οὗτος πατὴρ Μωαβιτῶν ἕως τῆς σήμερον ἡμέρας.'
+Generate the lemma and morphological tags for the inflected verb: ἔτεκεν	ἔτεκεν	τίκτω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἔτεκεν δὲ καὶ ἡ νεωτέρα υἱὸν καὶ ἐκάλεσεν τὸ ὄνομα αὐτοῦ Ἀμμὰν υἱὸς τοῦ γένους μου· οὗτος πατὴρ Ἀμμανιτῶν ἕως τῆς σήμερον ἡμέρας.'
+Generate the lemma and morphological tags for the inflected verb: ἔτεκεν	ἔτεκεν	τίκτω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἐκίνησεν ἐκεῖθεν Ἁβραὰμ εἰς γῆν πρὸς λίβα καὶ ᾤκησεν ἀνὰ μέσον Κάδης καὶ ἀνὰ μέσον Σοὺρ καὶ παρῴκησεν ἐν Γεράροις.'
+Generate the lemma and morphological tags for the inflected verb: ἐκίνησεν	ἐκίνησεν	κινέω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'εἶπεν δὲ Ἁβραὰμ περὶ Σάρρας τῆς γυναικὸς αὐτοῦ ὅτι ἀδελφή μού ἐστιν· ἐφοβήθη γὰρ εἰπεῖν ὅτι, γυνή μού ἐστιν, μήποτε ἀποκτείνωσιν αὐτὸν οἱ ἄνδρες τῆς πόλεως δι᾿ αὐτήν. ἀπέστειλεν δὲ Ἀβιμέλεχ βασιλεὺς Γεράρων καὶ ἔλαβεν τὴν Σάρραν.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἰσῆλθεν ὁ θεὸς πρὸς Ἀβιμέλεχ ἐν ὕπνῳ τὴν νύκτα καὶ εἶπεν, ἰδοὺ σὺ ἀποθνῄσκεις περὶ τῆς γυναικός ἧς ἔλαβες αὕτη δέ ἐστιν συνῳκηκυῖα ἀνδρί.'
+Generate the lemma and morphological tags for the inflected verb: εἰσῆλθεν	εἰσῆλθεν	εἰσέρχομαι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'Ἀβιμέλεχ δὲ οὐχ ἥψατο αὐτῆς καὶ εἶπεν κύριε, ἔθνος ἀγνοοῦν καὶ δίκαιον ἀπολεῖς;'
+Generate the lemma and morphological tags for the inflected verb: ἥψατο	Ἀβιμέλεχ	ἅπτω V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'οὐκ αὐτός μοι εἶπεν, ἀδελφή μού ἐστιν; καὶ αὐτή μοι εἶπεν, ἀδελφός μού ἐστιν. ἐν καθαρᾷ καρδίᾳ καὶ ἐν δικαιοσύνῃ χειρῶν ἐποίησα τοῦτο.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'εἶπεν δὲ αὐτῷ ὁ θεὸς καθ᾿ ὕπνον, κἀγὼ ἔγνων ὅτι ἐν καθαρᾷ καρδίᾳ ἐποίησας τοῦτο, καὶ ἐφεισάμην ἐγώ σου τοῦ μὴ ἁμαρτεῖν σὲ εἰς ἐμέ· ἕνεκεν τούτου οὐκ ἀφῆκά σὲ ἅψασθαι αὐτῆς.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'νῦν δὲ ἀπόδος τὴν γυναῖκα τῷ ἀνθρώπῳ, ὅτι προφήτης ἐστὶν καὶ προσεύξεται περὶ σου καὶ ζήσῃ· εἰ δὲ μὴ ἀποδίδως, γνῶθι ὅτι ἀποθανῇ σὺ καὶ πάντα τὰ σά.'
+Generate the lemma and morphological tags for the inflected verb: ἀπόδος	ἀποδίδω V;IND;FIN;PFV;PST;A	ἀποδίδωμι V;FIN;IMP;PST;PFV;ACT;SG;2
+Given the context: 'καὶ ὤρθρισεν Ἀβιμέλεχ τὸ πρωῒ καὶ ἐκάλεσεν πάντας τοὺς παῖδας αὐτοῦ καὶ ἐλάλησεν πάντα τὰ ῥήματα ταῦτα εἰς τὰ ὦτα αὐτῶν, ἐφοβήθησαν δὲ πάντες οἱ ἄνθρωποι σφόδρα.'
+Generate the lemma and morphological tags for the inflected verb: ὤρθρισεν	ὤρθρισεν	ὀρθρίζω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἐκάλεσεν Ἀβιμέλεχ τὸν Ἁβραὰμ καὶ εἶπεν αὐτῷ, τί τοῦτο ἐποίησας ἡμῖν; μή τι ἡμάρτομεν εἰς σέ, ὅτι ἐπήγαγες ἐπ᾿ ἐμὲ καὶ ἐπὶ τὴν βασιλείαν μου ἁμαρτίαν μεγάλην; ἔργον, ὃ οὐδεὶς ποιήσει, πεποίηκάς μοι.'
+Generate the lemma and morphological tags for the inflected verb: ἐκάλεσεν	ἐκάλεσεν	καλέω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'εἶπεν δὲ Ἀβιμέλεχ τῷ Ἁβραάμ, τί ἐνιδὼν ἐποίησας τοῦτο;'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπεν	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'εἶπεν δὲ Ἁβραάμ, εἶπα γάρ, ἄρα οὐκ ἔστιν θεοσέβεια ἐν τῷ τόπῳ τούτῳ, ἐμέ τε ἀποκτενοῦσιν ἕνεκεν τῆς γυναικός μου.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ γὰρ ἀληθῶς ἀδελφή μού ἐστιν ἐκ πατρός, ἀλλ᾿ οὐκ ἐκ μητρός· ἐγενήθη δέ μοι εἰς γυναῖκα.'
+Generate the lemma and morphological tags for the inflected verb: ἐγενήθη	ἐγενήθη	γίνομαι V;IND;FIN;PST;PFV;PASS;SG;3
+Given the context: 'ἐγένετο δὲ ἡνίκα ἐξήγαγέν με ὁ θεὸς ἐκ τοῦ οἴκου τοῦ πατρός μου, καὶ εἶπα αὐτῇ, ταύτην τὴν δικαιοσύνην ποιήσεις ἐπ᾿ ἐμέ· εἰς πάντα τόπον, οὗ ἐὰν εἰσέλθωμεν ἐκεῖ, εἰπὸν ἐμὲ ὅτι, ἀδελφός μού ἐστιν.'
+Generate the lemma and morphological tags for the inflected verb: ἐγένετο	ἐγένετο	γίνομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'ἔλαβεν δὲ Ἀβιμέλεχ χίλια δίδραχμα πρόβατα καὶ μόσχους καὶ παῖδας καὶ παιδίσκας καὶ ἔδωκεν τῷ Ἁβραὰμ καὶ ἀπέδωκεν αὐτῷ Σάρραν τὴν γυναῖκα αὐτοῦ.'
+Generate the lemma and morphological tags for the inflected verb: ἔλαβεν	ἔλαβεν	λαμβάνω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἶπεν Ἀβιμέλεχ τῷ Ἁβραάμ, ἰδοὺ ἡ γῆ μου ἐναντίον σου· οὗ ἐάν σοί ἀρέσκῃ, κατοίκει.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπεν	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'τῇ δὲ Σάρρα εἶπεν, ἰδοὺ δέδωκα χίλια δίδραχμα τῷ ἀδελφῷ σου· ταῦτα ἔσται σοί εἰς τιμὴν τοῦ προσώπου σου καὶ πάσαις ταῖς μετὰ σου· καὶ πάντα ἀλήθευσον.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'προσηύξατο δὲ Ἁβραὰμ πρὸς τὸν θεόν, καὶ ἰάσατο ὁ θεὸς τὸν Ἀβιμέλεχ καὶ τὴν γυναῖκα αὐτοῦ καὶ τὰς παιδίσκας αὐτοῦ καὶ ἔτεκον·'
+Generate the lemma and morphological tags for the inflected verb: προσηύξατο	προσηύξατο	προσεύχομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'ὅτι συγκλείων συνέκλεισεν κύριος ἔξωθεν πᾶσαν μήτραν ἐν τῷ οἴκῳ τοῦ Ἀβιμέλεχ ἕνεκεν Σάρρας τῆς γυναικὸς Ἁβραάμ.'
+Generate the lemma and morphological tags for the inflected verb: συγκλείων	συνέκλεισεν	συγκλείω V;IPFV;PRS;ACT;NOM;SG;MASC;V.PTCP
+Given the context: 'καὶ κύριος ἐπεσκέψατο τὴν Σάρραν, καθὰ εἶπεν, καὶ ἐποίησεν κύριος τῇ Σάρρα, καθὰ ἐλάλησεν,'
+Generate the lemma and morphological tags for the inflected verb: ἐπεσκέψατο	ἐπεσκέψατο	ἐπισκέπτομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'καὶ συλλαβοῦσα ἔτεκεν Σάρρα τῷ Ἁβραὰμ υἱὸν εἰς τὸ γῆρας εἰς τὸν καιρόν, καθὰ ἐλάλησεν αὐτῷ κύριος.'
+Generate the lemma and morphological tags for the inflected verb: συλλαβοῦσα	συλλαβοῦσα	συλλαμβάνω V;PFV;ACT;NOM;SG;FEM;V.PTCP
+Given the context: 'καὶ ἐκάλεσεν Ἁβραὰμ τὸ ὄνομα τοῦ υἱοῦ αὐτοῦ τοῦ γενομένου αὐτῷ, ὃν ἔτεκεν αὐτῷ Σάρρα, Ἰσαάκ.'
+Generate the lemma and morphological tags for the inflected verb: ἐκάλεσεν	ἐκάλεσεν	καλέω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'περιέτεμεν δὲ Ἁβραὰμ τὸν Ἰσαὰκ τῇ ὀγδόῃ ἡμέρᾳ, καθὰ ἐνετείλατο αὐτῷ ὁ θεός.'
+Generate the lemma and morphological tags for the inflected verb: περιέτεμεν	περιέτεμεν	περιτέμνω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'Ἁβραὰμ δὲ ἦν ἑκατὸν ἐτῶν, ἡνίκα ἐγένετο αὐτῷ Ἰσαὰκ ὁ υἱὸς αὐτοῦ.'
+Generate the lemma and morphological tags for the inflected verb: ἐγένετο	ἐγένετο	γίνομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'εἶπεν δὲ Σάρρα, γέλωτά μοι ἐποίησεν κύριος· ὃς γὰρ ἄν ἀκούσῃ, συγχαρεῖταί μοι.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπεν	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἶπεν, τίς ἀναγγελεῖ τῷ Ἁβραὰμ ὅτι θηλάζει παιδίον Σάρρα; ὅτι ἔτεκον υἱὸν ἐν τῷ γήρει μου.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;P	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ηὐξήθη τὸ παιδίον καὶ ἀπεγαλακτίσθη, καὶ ἐποίησεν Ἁβραὰμ δοχὴν μεγάλην, ᾗ ἡμέρᾳ ἀπεγαλακτίσθη Ἰσαὰκ ὁ υἱὸς αὐτοῦ.'
+Generate the lemma and morphological tags for the inflected verb: ηὐξήθη	ηὐξήθη	αὐξάνω V;IND;FIN;PST;PFV;PASS;SG;3
+Given the context: 'ἰδοῦσα δὲ Σάρρα τὸν υἱὸν Ἄγαρ τῆς Αἰγυπτίας, ὃς ἐγένετο τῷ Ἁβραάμ, παίζοντα μετὰ Ἰσαὰκ τοῦ υἱοῦ αὐτῆς'
+Generate the lemma and morphological tags for the inflected verb: ἰδοῦσα	ἰδοῦσα	εἴδω V;PFV;ACT;NOM;SG;FEM;V.PTCP
+Given the context: 'καὶ εἶπεν τῷ Ἁβραάμ, ἔκβαλε τὴν παιδίσκην ταύτην καὶ τὸν υἱὸν αὐτῆς· οὐ γὰρ κληρονομήσει ὁ υἱὸς τῆς παιδίσκης ταύτης μετὰ τοῦ υἱοῦ μου Ἰσαάκ.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπεν	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'σκληρὸν δὲ ἐφάνη τὸ ῥῆμα σφόδρα ἐναντίον Ἁβραὰμ περὶ τοῦ υἱοῦ αὐτοῦ.'
+Generate the lemma and morphological tags for the inflected verb: ἐφάνη	ἐφάνη	φαίνω V;IND;FIN;PST;PFV;PASS;SG;3
+Given the context: 'εἶπεν δὲ ὁ θεὸς τῷ Ἁβραάμ, μὴ σκληρὸν ἔστω τὸ ῥῆμα ἐναντίον σου περὶ τοῦ παιδίου καὶ περὶ τῆς παιδίσκης· πάντα ὅσα ἐὰν εἴπῃ σοί Σάρρα, ἄκουε τῆς φωνῆς αὐτῆς, ὅτι ἐν Ἰσαὰκ κληθήσεταί σοί σπέρμα.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπεν	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ τὸν υἱὸν δὲ τῆς παιδίσκης ταύτης, εἰς ἔθνος μέγα ποιήσω αὐτόν, ὅτι σπέρμα σόν ἐστιν.'
+Generate the lemma and morphological tags for the inflected verb: ποιήσω	ποιήσω V;IND;FIN;PFV;PST;ACT;NOM;	ποιέω V;IND;FIN;FUT;IPFV;ACT;SG;1
+Given the context: 'ἀνέστη δὲ Ἁβραὰμ τὸ πρωῒ καὶ ἔλαβεν ἄρτους καὶ ἀσκὸν ὕδατος καὶ ἔδωκεν Ἄγαρ καὶ ἐπέθηκεν ἐπὶ τὸν ὦμον καὶ τὸ παιδίον καὶ ἀπέστειλεν αὐτήν. ἀπελθοῦσα δὲ ἐπλανᾶτο τὴν ἔρημον κατὰ τὸ φρέαρ τοῦ ὅρκου.'
+Generate the lemma and morphological tags for the inflected verb: ἀνέστη	ἀνέστη	ἀνίστημι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἐξέλιπεν δὲ τὸ ὕδωρ ἐκ τοῦ ἀσκοῦ, καὶ ἔρριψεν τὸ παιδίον ὑποκάτω μιᾶς ἐλάτης.'
+Generate the lemma and morphological tags for the inflected verb: ἐξέλιπεν	ἐξέλιπεν	ἐκλείπω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἀπελθοῦσα δὲ ἐκάθητο ἀπέναντι αὐτοῦ μακρόθεν ὡσεὶ τόξου βολήν· εἶπεν γάρ, οὐ μὴ ἴδω τὸν θάνατον τοῦ παιδίου μου. καὶ ἐκάθισεν ἀπέναντι αὐτοῦ, ἀναβοῆσαν δὲ τὸ παιδίον ἔκλαυσεν.'
+Generate the lemma and morphological tags for the inflected verb: ἀπελθοῦσα	ἀπελθοῦσα	ἀπέρχομαι V;PFV;ACT;NOM;SG;FEM;V.PTCP
+Given the context: 'εἰσήκουσεν δὲ ὁ θεὸς τῆς φωνῆς τοῦ παιδίου ἐκ τοῦ τόπου, οὗ ἦν, καὶ ἐκάλεσεν ἄγγελος τοῦ θεοῦ τὴν Ἄγαρ ἐκ τοῦ οὐρανοῦ καὶ εἶπεν αὐτῇ, τί ἐστιν, Ἄγαρ; μὴ φοβοῦ· ἐπακήκοεν γὰρ ὁ θεὸς τῆς φωνῆς τοῦ παιδίου σου ἐκ τοῦ τόπου, οὗ ἐστιν.'
+Generate the lemma and morphological tags for the inflected verb: εἰσήκουσεν	εἰσήκουσεν	εἰσακούω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἀνάστηθι, λαβὲ τὸ παιδίον καὶ κράτησον τῇ χειρί σου αὐτό· εἰς γὰρ ἔθνος μέγα ποιήσω αὐτόν.'
+Generate the lemma and morphological tags for the inflected verb: ἀνάστηθι	ἀναστήθι V;IND;FIN;PFV;PST;A	ἀνίστημι V;FIN;IMP;PST;PFV;ACT;SG;2
+Given the context: 'καὶ ἀνέῳξεν ὁ θεὸς τοὺς ὀφθαλμοὺς αὐτῆς, καὶ εἶδεν φρέαρ ὕδατος ζῶντος καὶ ἐπορεύθη καὶ ἔπλησεν τὸν ἀσκὸν ὕδατος καὶ ἐπότισεν τὸ παιδίον.'
+Generate the lemma and morphological tags for the inflected verb: ἀνέῳξεν	ἀνέῳξεν	ἀνοίγω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἦν ὁ θεὸς μετὰ τοῦ παιδίου καὶ ηὐξήθη. καὶ κατῴκησεν ἐν τῇ ἐρήμῳ, ἐγένετο δὲ τοξότης.'
+Generate the lemma and morphological tags for the inflected verb: ηὐξήθη	ηὐξήθη	αὐξάνω V;IND;FIN;PST;PFV;PASS;SG;3
+Given the context: 'καὶ κατῴκησεν ἐν τῇ ἐρήμῳ τῇ Φαράν, καὶ ἔλαβεν αὐτῷ ἡ μήτηρ γυναῖκα ἐκ γῆς Αἰγύπτου.'
+Generate the lemma and morphological tags for the inflected verb: κατῴκησεν	κατῴκησεν	κατοικέω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἐγένετο δὲ ἐν τῷ καιρῷ ἐκείνῳ καὶ εἶπεν Ἀβιμέλεχ καὶ Ὁχοζάθ ὁ νυμφαγωγὸς αὐτοῦ καὶ Φικόλ ὁ ἀρχιστράτηγος τῆς δυνάμεως αὐτοῦ πρὸς Ἁβραὰμ λέγων, ὁ θεὸς μετὰ σου ἐν πᾶσιν, οἷς ἐὰν ποιῇς·'
+Generate the lemma and morphological tags for the inflected verb: ἐγένετο	ἐγένετο	γίνομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'νῦν οὖν ὄμοσόν μοι τὸν θεὸν μὴ ἀδικήσειν με μηδὲ τὸ σπέρμα μου μηδὲ τὸ ὄνομά μου, ἀλλὰ κατὰ τὴν δικαιοσύνην, ἣν ἐποίησα μετὰ σου, ποιήσεις μετ᾿ ἐμοῦ καὶ τῇ γῇ, ᾗ σὺ παρῴκησας ἐν αὐτῇ.'
+Generate the lemma and morphological tags for the inflected verb: ὄμοσόν	ἀδίκω V;IND;FIN;PFV;PST;ACT;NOM;	ὄμνυμι V;FIN;IMP;PST;PFV;ACT;SG;2
+Given the context: 'καὶ εἶπεν Ἁβραάμ, ἐγὼ ὀμοῦμαι.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;P	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἤλεγξεν Ἁβραὰμ τὸν Ἀβιμέλεχ περὶ τῶν φρεάτων τοῦ ὕδατος, ὧν ἀφείλαντο οἱ παῖδες τοῦ Ἀβιμέλεχ.'
+Generate the lemma and morphological tags for the inflected verb: ἤλεγξεν	ἤλεγξεν	ἐλέγχω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἶπεν αὐτῷ Ἀβιμέλεχ, οὐκ ἔγνων, τίς ἐποίησεν τὸ πρᾶγμα τοῦτο, οὐδὲ σύ μοι ἀπήγγειλας, οὐδὲ ἐγὼ ἤκουσα ἀλλ᾿ ἢ σήμερον.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἔλαβεν Ἁβραὰμ πρόβατα καὶ μόσχους καὶ ἔδωκεν τῷ Ἀβιμέλεχ, καὶ διέθεντο ἀμφότεροι διαθήκην.'
+Generate the lemma and morphological tags for the inflected verb: ἔλαβεν	ἔλαβεν	λαμβάνω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἔστησεν Ἁβραὰμ ἑπτὰ ἀμνάδας προβάτων μόνας.'
+Generate the lemma and morphological tags for the inflected verb: ἔστησεν	ἔστησεν	ἵστημι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἶπεν Ἀβιμέλεχ τῷ Ἁβραάμ, τί εἰσιν αἱ ἑπτὰ ἀμνάδες τῶν προβάτων τούτων, ἃς ἔστησας μόνας;'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἶπεν Ἁβραὰμ ὅτι, τὰς ἑπτὰ ἀμνάδας ταύτας λήμψῃ παρ᾿ ἐμοῦ, ἵνα ὦσίν μοι εἰς μαρτύριον ὅτι ἐγὼ ὤρυξα τὸ φρέαρ τοῦτο.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;MASC	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'διὰ τοῦτο ἐπωνόμασεν τὸ ὄνομα τοῦ τόπου ἐκείνου φρέαρ ὁρκισμοῦ, ὅτι ἐκεῖ ὤμοσαν ἀμφότεροι.'
+Generate the lemma and morphological tags for the inflected verb: ἐπωνόμασεν	ἐπωνόμασεν	ἐπονομάζω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ διέθεντο διαθήκην ἐν τῷ φρέατι τοῦ ὅρκου. ἀνέστη δὲ Ἀβιμέλεχ καὶ Ὁχοζὰθ ὁ νυμφαγωγὸς αὐτοῦ καὶ Φικὸλ ὁ ἀρχιστράτηγος τῆς δυνάμεως αὐτοῦ καὶ ἐπέστρεψαν εἰς τὴν γῆν τῶν Φυλιστιίμ.'
+Generate the lemma and morphological tags for the inflected verb: διέθεντο	διέθεντο	διατίθημι V;FIN;IMP;PST;PFV;MID;PL;3
+Given the context: 'καὶ ἐφύτευσεν Ἁβραὰμ ἄρουραν ἐπὶ τῷ φρέατι τοῦ ὅρκου καὶ ἐπεκαλέσατο ἐκεῖ τὸ ὄνομα κυρίου θεὸς αἰώνιος.'
+Generate the lemma and morphological tags for the inflected verb: ἐφύτευσεν	ἐφύτευσεν	φυτεύω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'παρῴκησεν δὲ Ἁβραὰμ ἐν τῇ γῇ τῶν Φυλιστιὶμ ἡμέρας πολλάς.'
+Generate the lemma and morphological tags for the inflected verb: παρῴκησεν	παρῴκησεν	παροικέω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἐγένετο μετὰ τὰ ῥήματα ταῦτα ὁ θεὸς ἐπείραζεν τὸν Ἁβραὰμ καὶ εἶπεν πρὸς αὐτόν Ἁβραάμ, Ἁβραάμ· ὁ δὲ εἶπεν, ἰδοὺ ἐγώ.'
+Generate the lemma and morphological tags for the inflected verb: ἐγένετο	ἐγένετο	γίνομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'καὶ εἶπεν, λαβὲ τὸν υἱόν σου τὸν ἀγαπητόν, ὃν ἠγάπησας, τὸν Ἰσαάκ, καὶ πορεύθητι εἰς τὴν γῆν τὴν ὑψηλὴν καὶ ἀνένεγκον αὐτὸν ἐκεῖ εἰς ὁλοκάρπωσιν ἐφ᾿ ἓν τῶν ὀρέων, ὧν ἄν σοί εἴπω.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἀναστὰς δὲ Ἁβραὰμ τὸ πρωῒ ἐπέσαξεν τὴν ὄνον αὐτοῦ· παρέλαβεν δὲ μεθ᾿ ἑαυτοῦ δύο παῖδας καὶ Ἰσαὰκ τὸν υἱὸν αὐτοῦ καὶ σχίσας ξύλα εἰς ὁλοκάρπωσιν ἀναστὰς ἐπορεύθη καὶ ἦλθεν ἐπὶ τὸν τόπον, ὃν εἶπεν αὐτῷ ὁ θεός.'
+Generate the lemma and morphological tags for the inflected verb: ἀναστὰς	ἀναστήσκω V;IND;FIN;PFV;PS	ἀνίστημι V;PFV;ACT;NOM;SG;MASC;V.PTCP
+Given the context: 'τῇ ἡμέρᾳ τῇ τρίτῃ καὶ ἀναβλέψας Ἁβραὰμ τοῖς ὀφθαλμοῖς εἶδεν τὸν τόπον μακρόθεν.'
+Generate the lemma and morphological tags for the inflected verb: ἀναβλέψας	ἀναβλέψας	ἀναβλέπω V;PFV;ACT;NOM;SG;MASC;V.PTCP
+Given the context: 'καὶ εἶπεν Ἁβραὰμ τοῖς παισὶν αὐτοῦ, καθίσατε αὐτοῦ μετὰ τῆς ὄνου, ἐγὼ δὲ καὶ τὸ παιδάριον διελευσόμεθα ἕως ὧδε καὶ προσκυνήσαντες ἀναστρέψωμεν πρὸς ὑμᾶς.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἔλαβεν δὲ Ἁβραὰμ τὰ ξύλα τῆς ὁλοκαρπώσεως καὶ ἐπέθηκεν Ἰσαὰκ τῷ υἱῷ αὐτοῦ· ἔλαβεν δὲ καὶ τὸ πῦρ μετὰ χεῖρα καὶ τὴν μάχαιραν, καὶ ἐπορεύθησαν οἱ δύο ἅμα.'
+Generate the lemma and morphological tags for the inflected verb: ἔλαβεν	ἔλαβεν	λαμβάνω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'εἶπεν δὲ Ἰσαὰκ πρὸς Ἁβραὰμ τὸν πατέρα αὐτοῦ εἴπας, πάτερ. ὁ δὲ εἶπεν, τί ἐστιν, τέκνον; λέγων, ἰδοὺ τὸ πῦρ καὶ τὰ ξύλα· ποῦ ἐστιν τὸ πρόβατον τὸ εἰς ὁλοκάρπωσιν;'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'εἶπεν δὲ Ἁβραάμ, ὁ θεὸς ὄψεται ἑαυτῷ πρόβατον εἰς ὁλοκάρπωσιν, τέκνον. πορευθέντες δὲ ἀμφότεροι ἅμα'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἦλθον ἐπὶ τὸν τόπον, ὃν εἶπεν αὐτῷ ὁ θεός. καὶ ᾠκοδόμησεν ἐκεῖ Ἁβραὰμ θυσιαστήριον καὶ ἐπέθηκεν τὰ ξύλα καὶ συμποδίσας Ἰσαὰκ τὸν υἱὸν αὐτοῦ ἐπέθηκεν αὐτὸν ἐπὶ τὸ θυσιαστήριον ἐπάνω τῶν ξύλων.'
+Generate the lemma and morphological tags for the inflected verb: ἦλθον	ἦλθον	ἔρχομαι V;IND;FIN;PST;PFV;ACT;PL;3
+Given the context: 'καὶ ἐξέτεινεν Ἁβραὰμ τὴν χεῖρα αὐτοῦ λαβεῖν τὴν μάχαιραν σφάξαι τὸν υἱὸν αὐτοῦ.'
+Generate the lemma and morphological tags for the inflected verb: ἐξέτεινεν	ἐξέτεινεν	ἐκτείνω V;IND;FIN;PST;IPFV;ACT;SG;3
+Given the context: 'καὶ ἐκάλεσεν αὐτὸν ἄγγελος κυρίου ἐκ τοῦ οὐρανοῦ καὶ εἶπεν αὐτῷ, Ἁβραάμ, Ἁβραάμ. ὁ δὲ εἶπεν, ἰδοὺ ἐγώ.'
+Generate the lemma and morphological tags for the inflected verb: ἐκάλεσεν	ἐκάλεσεν	καλέω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἶπεν, μὴ ἐπιβάλῃς τὴν χεῖρά σου ἐπὶ τὸ παιδάριον μηδὲ ποιήσῃς αὐτῷ μηδέν· νῦν γὰρ ἔγνων ὅτι φοβῇ τὸν θεὸν σὺ καὶ οὐκ ἐφείσω τοῦ υἱοῦ σου τοῦ ἀγαπητοῦ δι᾿ ἐμέ.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἀναβλέψας Ἁβραὰμ τοῖς ὀφθαλμοῖς αὐτοῦ εἶδεν, καὶ ἰδοὺ κριὸς εἷς κατεχόμενος ἐν φυτῷ σαβεκ τῶν κεράτων· καὶ ἐπορεύθη Ἁβραὰμ καὶ ἔλαβεν τὸν κριὸν καὶ ἀνήνεγκεν αὐτὸν εἰς ὁλοκάρπωσιν ἀντὶ Ἰσαὰκ τοῦ υἱοῦ αὐτοῦ.'
+Generate the lemma and morphological tags for the inflected verb: ἀναβλέψας	ἀναβλέψας	ἀναβλέπω V;PFV;ACT;NOM;SG;MASC;V.PTCP
+Given the context: 'καὶ ἐκάλεσεν Ἁβραὰμ τὸ ὄνομα τοῦ τόπου ἐκείνου κύριος εἶδεν, ἵνα εἴπωσιν σήμερον, ἐν τῷ ὄρει κύριος ὤφθη.'
+Generate the lemma and morphological tags for the inflected verb: ἐκάλεσεν	ἐκάλεσεν	καλέω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἐκάλεσεν ἄγγελος κυρίου τὸν Ἁβραὰμ δεύτερον ἐκ τοῦ οὐρανοῦ'
+Generate the lemma and morphological tags for the inflected verb: ἐκάλεσεν	ἐκάλεσεν	καλέω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'λέγων, κατ᾿ ἐμαυτοῦ ὤμοσα, λέγει κύριος, οὗ εἵνεκεν ἐποίησας τὸ ῥῆμα τοῦτο καὶ οὐκ ἐφείσω τοῦ υἱοῦ σου τοῦ ἀγαπητοῦ δι᾿ ἐμέ. ἦ μὴν εὐλογῶν εὐλογήσω σὲ καὶ πληθύνων πληθυνῶ τὸ σπέρμα σου ὡς τοὺς ἀστέρας τοῦ οὐρανοῦ καὶ ὡς τὴν ἄμμον τὴν παρὰ τὸ χεῖλος τῆς θαλάσσης, καὶ κληρονομήσει τὸ σπέρμα σου τὰς πόλεις τῶν ὑπεναντίων.'
+Generate the lemma and morphological tags for the inflected verb: λέγων	λέγων	λέγω V;IPFV;PRS;ACT;NOM;SG;MASC;V.PTCP
+Given the context: 'καὶ ἐνευλογηθήσονται ἐν τῷ σπέρματί σου πάντα τὰ ἔθνη τῆς γῆς, ἀνθ᾿ ὧν ὑπήκουσας τῆς ἐμῆς φωνῆς.'
+Generate the lemma and morphological tags for the inflected verb: ἐνευλογηθήσονται	ἐνευλογηθήσονται	ἐνευλογέω V;IND;FIN;FUT;IPFV;PASS;PL;3
+Given the context: 'ἀπεστράφη δὲ Ἁβραὰμ πρὸς τοὺς παῖδας αὐτοῦ, καὶ ἀναστάντες ἐπορεύθησαν ἅμα ἐπὶ τὸ φρέαρ τοῦ ὅρκου. καὶ κατῴκησεν Ἁβραὰμ ἐπὶ τῷ φρέατι τοῦ ὅρκου.'
+Generate the lemma and morphological tags for the inflected verb: ἀπεστράφη	ἀποστράφη	ἀποστρέφω V;IND;FIN;PST;PFV;PASS;SG;3
+Given the context: 'ἐγένετο δὲ μετὰ τὰ ῥήματα ταῦτα καὶ ἀνηγγέλη τῷ Ἁβραὰμ λέγοντες, ἰδοὺ τέτοκεν Μελχὰ καὶ αὐτὴ υἱοὺς Ναχὼρ τῷ ἀδελφῷ σου, τὸν Ὤξ πρωτότοκον καὶ τὸν Βαὺξ ἀδελφὸν αὐτοῦ καὶ τὸν Καμουὴλ πατέρα Σύρων καὶ τὸν Χασὰδ καὶ τὸν Ἀζαῦ καὶ τὸν Φαλδάς καὶ τὸν Ἰεδλὰφ καὶ τὸν Βαθουήλ·'
+Generate the lemma and morphological tags for the inflected verb: ἐγένετο	ἐγένετο	γίνομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'καὶ Βαθουὴλ ἐγέννησεν τὴν Ῥεβέκκαν. ὀκτὼ οὗτοι υἱοί οὓς ἔτεκεν Μελχὰ τῷ Ναχὼρ τῷ ἀδελφῷ Ἁβραάμ.'
+Generate the lemma and morphological tags for the inflected verb: ἐγέννησεν	ἐγέννησεν	γεννάω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἡ παλλακὴ αὐτοῦ, ᾗ ὄνομα Ῥεήμα, ἔτεκεν καὶ αὐτὴ τὸν Ταβὲκ καὶ τὸν Γαάμ καὶ τὸν Τοχὸς καὶ τὸν Μωχά.'
+Generate the lemma and morphological tags for the inflected verb: ἔτεκεν	ἔτεκεν	τίκτω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἐγένετο δὲ ἡ ζωὴ Σάρρας ἔτη ἑκατὸν εἴκοσι ἑπτά.'
+Generate the lemma and morphological tags for the inflected verb: ἐγένετο	ἐγένετο	γίνομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'καὶ ἀπέθανεν Σάρρα ἐν πόλει Ἀρβόκ, ἥ ἐστιν ἐν τῷ κοιλώματι (αὕτη ἐστὶν Χεβρὼν) ἐν γῇ Χαναάν. ἦλθεν δὲ Ἁβραὰμ κόψασθαι Σάρραν καὶ πενθῆσαι.'
+Generate the lemma and morphological tags for the inflected verb: ἀπέθανεν	ἀπέθανεν	ἀποθνήσκω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἀνέστη Ἁβραὰμ ἀπὸ τοῦ νεκροῦ αὐτοῦ καὶ εἶπεν τοῖς υἱοῖς Χὲτ λέγων'
+Generate the lemma and morphological tags for the inflected verb: ἀνέστη	ἀνέστη	ἀνίστημι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'πάροικος καὶ παρεπίδημος ἐγώ εἰμι μεθ᾿ ὑμῶν· δότε οὖν μοι κτῆσιν τάφου μεθ᾿ ὑμῶν, καὶ θάψω τὸν νεκρόν μου ἀπ᾿ ἐμοῦ.'
+Generate the lemma and morphological tags for the inflected verb: δότε	παροίκω V;IND;FIN;PFV;PST;A	δίδωμι V;FIN;IMP;PST;PFV;ACT;PL;2
+Given the context: 'ἀπεκρίθησαν δὲ οἱ υἱοὶ Χὲτ πρὸς Ἁβραὰμ λέγοντες,'
+Generate the lemma and morphological tags for the inflected verb: ἀπεκρίθησαν	ἀποκρίθησαν	ἀποκρίνω V;IND;FIN;PST;PFV;PASS;PL;3
+Given the context: 'μή, κύριε· ἄκουσον δὲ ἡμῶν βασιλεὺς παρὰ θεοῦ εἶ σὺ ἐν ἡμῖν ἐν τοῖς ἐκλεκτοῖς μνημείοις ἡμῶν θάψον τὸν νεκρόν σου· οὐδεὶς γὰρ ἡμῶν τὸ μνημεῖον αὐτοῦ κωλύσει ἀπὸ σου τοῦ θάψαι τὸν νεκρόν σου ἐκεῖ.'
+Generate the lemma and morphological tags for the inflected verb: ἄκουσον	ἀκούω V;IND;FIN;PFV;PST;ACT;NOM;MASC	ἀκούω V;FUT;IPFV;ACT;SG;{ACC/NOM};NEUT;V.PTCP
+Given the context: 'ἀναστὰς δὲ Ἁβραὰμ προσεκύνησεν τῷ λαῷ τῆς γῆς, τοῖς υἱοῖς Χέτ,'
+Generate the lemma and morphological tags for the inflected verb: ἀναστὰς	προσεκύνησεν	ἀνίστημι V;PFV;ACT;NOM;SG;MASC;V.PTCP
+Given the context: 'καὶ ἐλάλησεν πρὸς αὐτοὺς Ἁβραὰμ λέγων, εἰ ἔχετε τῇ ψυχῇ ὑμῶν ὥστε θάψαι τὸν νεκρόν μου ἀπὸ προσώπου μου, ἀκούσατέ μου καὶ λαλήσατε περὶ ἐμοῦ Ἐφρὼν τῷ τοῦ Σαάρ,'
+Generate the lemma and morphological tags for the inflected verb: ἐλάλησεν	ἐλάλησεν	λαλέω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ δότω μοι τὸ σπήλαιον τὸ διπλοῦν, ὅ ἐστιν αὐτῷ, τὸ ὂν ἐν μέρει τοῦ ἀγροῦ αὐτοῦ· ἀργυρίου τοῦ ἀξίου δότω μοι αὐτὸ ἐν ὑμῖν εἰς κτῆσιν μνημείου.'
+Generate the lemma and morphological tags for the inflected verb: δότω	δότω V;IND;FIN;PFV;PST;ACT;NOM;MASC	δίδωμι V;FIN;IMP;PST;PFV;ACT;SG;3
+Given the context: 'Ἐφρὼν δὲ ἐκάθητο ἐν μέσῳ τῶν υἱῶν Χέτ· ἀποκριθεὶς δὲ Ἐφρὼν ὁ Χετταῖος πρὸς Ἁβραὰμ εἶπεν ἀκουόντων τῶν υἱῶν Χὲτ καὶ πάντων τῶν εἰσπορευομένων εἰς τὴν πόλιν λέγων,'
+Generate the lemma and morphological tags for the inflected verb: ἐκάθητο	ἐκάθητο	κάθημαι V;IND;FIN;PST;IPFV;SG;{MID/PASS};3
+Given the context: 'παρ᾿ ἐμοὶ γενοῦ, κύριε, καὶ ἄκουσόν μου. τὸν ἀγρὸν καὶ τὸ σπήλαιον τὸ ἐν αὐτῷ σοί δίδωμι· ἐναντίον πάντων τῶν πολιτῶν μου δέδωκά σοι· θάψον τὸν νεκρόν σου.'
+Generate the lemma and morphological tags for the inflected verb: γενοῦ	γενός V;IND;FIN;PFV;PST;ACT;NOM;	γίνομαι V;FIN;IMP;PST;PFV;MID;SG;2
+Given the context: 'καὶ προσεκύνησεν Ἁβραὰμ ἐναντίον τοῦ λαοῦ τῆς γῆς'
+Generate the lemma and morphological tags for the inflected verb: προσεκύνησεν	προσεκύνησεν	προσκυνέω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἶπεν τῷ Ἐφρὼν εἰς τὰ ὦτα τοῦ λαοῦ τῆς γῆς, ἐπειδὴ πρὸς ἐμοῦ εἶ, ἄκουσόν μου· τὸ ἀργύριον τοῦ ἀγροῦ λαβὲ παρ᾿ ἐμοῦ, καὶ θάψω τὸν νεκρόν μου ἐκεῖ.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἀπεκρίθη δὲ Ἐφρὼν τῷ Ἁβραὰμ λέγων,'
+Generate the lemma and morphological tags for the inflected verb: ἀπεκρίθη	ἀποκρίθη	ἀποκρίνω V;IND;FIN;PST;PFV;PASS;SG;3
+Given the context: 'οὐχί, κύριε· ἀκήκοα. γῆ τετρακοσίων διδράχμων ἀργυρίου, ἀνὰ μέσον ἐμοῦ καὶ σου τί ἄν εἴη τοῦτο; σὺ δὲ τὸν νεκρόν σου θάψον.'
+Generate the lemma and morphological tags for the inflected verb: ἀκήκοα	ἀκήκομαι V;IND;FIN;PFV;PST;A	ἀκούω V;IND;FIN;PRS;PFV;ACT;SG;1
+Given the context: 'καὶ ἤκουσεν Ἁβραὰμ τοῦ Ἐφρών, καὶ ἀπεκατέστησεν Ἁβραὰμ τῷ Ἐφρὼν τὸ ἀργύριον, ὃ ἐλάλησεν εἰς τὰ ὦτα τῶν υἱῶν Χέτ, τετρακόσια δίδραχμα ἀργυρίου δοκίμου ἐμπόροις.'
+Generate the lemma and morphological tags for the inflected verb: ἤκουσεν	ἤκουσεν	ἀκούω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἔστη ὁ ἀγρὸς Ἐφρών, ὃς ἦν ἐν τῷ διπλῷ σπηλαίῳ, ὅς ἐστιν κατὰ πρόσωπον Μαμβρῆ, ὁ ἀγρὸς καὶ τὸ σπήλαιον, ὃ ἦν ἐν αὐτῷ, καὶ πᾶν δένδρον, ὃ ἦν ἐν τῷ ἀγρῷ, ὅ ἐστιν ἐν τοῖς ὁρίοις αὐτοῦ κύκλῳ, τῷ Ἁβραὰμ εἰς κτῆσιν ἐναντίον τῶν υἱῶν Χὲτ καὶ πάντων τῶν εἰσπορευομένων εἰς τὴν πόλιν.'
+Generate the lemma and morphological tags for the inflected verb: ἔστη	ἔστη	ἵστημι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'μετὰ ταῦτα ἔθαψεν Ἁβραὰμ Σάρραν τὴν γυναῖκα αὐτοῦ ἐν τῷ σπηλαίῳ τοῦ ἀγροῦ τῷ διπλῷ, ὅ ἐστιν ἀπέναντι Μαμβρῆ (αὕτη ἐστὶν Χεβρὼν) ἐν τῇ γῇ Χαναάν.'
+Generate the lemma and morphological tags for the inflected verb: ἔθαψεν	ἔθαψεν	θάπτω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἐκυρώθη ὁ ἀγρὸς καὶ τὸ σπήλαιον, ὃ ἦν ἐν αὐτῷ, τῷ Ἁβραὰμ εἰς κτῆσιν τάφου παρὰ τῶν υἱῶν Χέτ.'
+Generate the lemma and morphological tags for the inflected verb: ἐκυρώθη	ἐκυρώθη	κυρόω V;IND;FIN;PST;PFV;PASS;SG;3
+Given the context: 'καὶ Ἁβραὰμ ἦν πρεσβύτερος προβεβηκὼς ἡμερῶν, καὶ κύριος εὐλόγησεν τὸν Ἁβραὰμ κατὰ πάντα.'
+Generate the lemma and morphological tags for the inflected verb: προβεβηκὼς	προβεβηκὼς	προβαίνω V;PFV;ACT;NOM;SG;MASC;V.PTCP
+Given the context: 'καὶ εἶπεν Ἁβραὰμ τῷ παιδὶ αὐτοῦ τῷ πρεσβυτέρῳ τῆς οἰκίας αὐτοῦ τῷ ἄρχοντι πάντων τῶν αὐτοῦ θὲς τὴν χεῖρά σου ὑπὸ τὸν μηρόν μου,'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἐξορκιῶ σὲ κύριον τὸν θεὸν τοῦ οὐρανοῦ καὶ τὸν θεὸν τῆς γῆς, ἵνα μὴ λάβῃς γυναῖκα τῷ υἱῷ μου Ἰσαὰκ ἀπὸ τῶν θυγατέρων τῶν Χαναναίων, μεθ᾿ ὧν ἐγὼ οἰκῶ ἐν αὐτοῖς,'
+Generate the lemma and morphological tags for the inflected verb: ἐξορκιῶ	ἐξορκία V;IND;FIN;PFV;PST;A	ἐξορκίζω V;IND;FIN;FUT;IPFV;ACT;SG;1
+Given the context: 'ἀλλὰ εἰς τὴν γῆν μου, οὗ ἐγενόμην, πορεύσῃ καὶ εἰς τὴν φυλήν μου καὶ λήμψῃ γυναῖκα τῷ υἱῷ μου Ἰσαὰκ ἐκεῖθεν.'
+Generate the lemma and morphological tags for the inflected verb: ἐγενόμην	ἐγενόμην	γίνομαι V;IND;FIN;PST;PFV;MID;SG;1
+Given the context: 'εἶπεν δὲ πρὸς αὐτὸν ὁ παῖς, μήποτε οὐ βούλεται ἡ γυνὴ πορευθῆναι μετ᾿ ἐμοῦ ὀπίσω εἰς τὴν γῆν ταύτην· ἀποστρέψω τὸν υἱόν σου εἰς τὴν γῆν, ὅθεν ἐξῆλθες ἐκεῖθεν;'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'εἶπεν δὲ πρὸς αὐτόν, Ἁβραὰμ πρόσεχε σεαυτῷ, μὴ ἀποστρέψῃς τὸν υἱόν μου ἐκεῖ.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπεν	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'κύριος ὁ θεὸς τοῦ οὐρανοῦ καὶ ὁ θεὸς τῆς γῆς, ὃς ἔλαβέν με ἐκ τοῦ οἴκου τοῦ πατρός μου καὶ ἐκ τῆς γῆς, ἧς ἐγενήθην, ὃς ἐλάλησέν μοι καὶ ὤμοσέν μοι λέγων, σοί δώσω τὴν γῆν ταύτην καὶ τῷ σπέρματί σου, αὐτὸς ἀποστελεῖ τὸν ἄγγελον αὐτοῦ ἔμπροσθέν σου, καὶ λήμψῃ γυναῖκα τῷ υἱῷ μου Ἰσαὰκ ἐκεῖθεν.'
+Generate the lemma and morphological tags for the inflected verb: ἔλαβέν	ἔλαβεν	λαμβάνω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἐὰν δὲ μὴ θέλῃ ἡ γυνὴ πορευθῆναι μετὰ σου εἰς τὴν γῆν ταύτην, καθαρὸς ἔσῃ ἀπὸ τοῦ ὅρκου τούτου· μόνον τὸν υἱόν μου μὴ ἀποστρέψῃς ἐκεῖ.'
+Generate the lemma and morphological tags for the inflected verb: θέλῃ	ἀποστρέψω V;IND;FIN;PFV;PST;A	θέλω V;FIN;SBJV;IPFV;PRS;ACT;SG;3
+Given the context: 'καὶ ἔθηκεν ὁ παῖς τὴν χεῖρα αὐτοῦ ὑπὸ τὸν μηρὸν Ἁβραὰμ τοῦ κυρίου αὐτοῦ καὶ ὤμοσεν αὐτῷ περὶ τοῦ ῥήματος τούτου,'
+Generate the lemma and morphological tags for the inflected verb: ἔθηκεν	ἔθηκεν	τίθημι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἔλαβεν ὁ παῖς δέκα καμήλους ἀπὸ τῶν καμήλων τοῦ κυρίου αὐτοῦ καὶ ἀπὸ πάντων τῶν ἀγαθῶν τοῦ κυρίου αὐτοῦ μεθ᾿ ἑαυτοῦ καὶ ἀναστὰς ἐπορεύθη εἰς τὴν Μεσοποταμίαν εἰς τὴν πόλιν Ναχώρ.'
+Generate the lemma and morphological tags for the inflected verb: ἔλαβεν	ἔλαβεν	λαμβάνω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἐκοίμισεν τὰς καμήλους ἔξω τῆς πόλεως παρὰ τὸ φρέαρ τοῦ ὕδατος τὸ πρὸς ὀψέ, ἡνίκα ἐκπορεύονται αἱ ὑδρευόμεναι.'
+Generate the lemma and morphological tags for the inflected verb: ἐκοίμισεν	ἐκοίμισεν	κοιμίζω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἶπεν κύριε ὁ θεὸς τοῦ κυρίου μου Ἁβραάμ, εὐόδωσον ἐναντίον ἐμοῦ σήμερον καὶ ποίησον ἔλεος μετὰ τοῦ κυρίου μου Ἁβραάμ.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;P	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἰδοὺ ἐγὼ ἕστηκα ἐπὶ τῆς πηγῆς τοῦ ὕδατος, αἱ δὲ θυγατέρες τῶν οἰκούντων τὴν πόλιν ἐκπορεύονται ἀντλῆσαι ὕδωρ,'
+Generate the lemma and morphological tags for the inflected verb: ἕστηκα	ἕστηκα	ἵστημι V;IND;FIN;PRS;PFV;ACT;SG;1
+Given the context: 'καὶ ἔσται ἡ παρθένος, ᾗ ἄν ἐγὼ εἴπω, ἐπίκλινον τὴν ὑδρίαν σου, ἵνα πίω, καὶ εἴπῃ μοι, πίε, καὶ τὰς καμήλους σου ποτιῶ, ἕως ἄν παύσωνται πίνουσαι, ταύτην ἡτοίμασας τῷ παιδί σου Ἰσαάκ, καὶ ἐν τούτῳ γνώσομαι ὅτι ἐποίησας ἔλεος τῷ κυρίῳ μου Ἁβραάμ.'
+Generate the lemma and morphological tags for the inflected verb: εἴπω	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;MASC	εἶπον V;FIN;SBJV;PST;PFV;ACT;SG;1
+Given the context: 'καὶ ἐγένετο πρὸ τοῦ συντελέσαι αὐτὸν λαλοῦντα ἐν τῇ διανοίᾳ, καὶ ἰδοὺ Ῥεβέκκα ἐξεπορεύετο ἡ τεχθεῖσα Βαθουὴλ υἱῷ Μελχὰς τῆς γυναικὸς Ναχὼρ ἀδελφοῦ δὲ Ἁβραὰμ ἔχουσα τὴν ὑδρίαν ἐπὶ τῶν ὤμων αὐτῆς.'
+Generate the lemma and morphological tags for the inflected verb: ἐγένετο	ἐγένετο	γίνομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'ἡ δὲ παρθένος ἦν καλὴ τῇ ὄψει σφόδρα· παρθένος ἦν, ἀνὴρ οὐκ ἔγνω αὐτήν. καταβᾶσα δὲ ἐπὶ τὴν πηγὴν ἔπλησεν τὴν ὑδρίαν καὶ ἀνέβη.'
+Generate the lemma and morphological tags for the inflected verb: ἔγνω	ἔγνω V;IND;FIN;PFV;PST;ACT;NOM;MASC	γινώσκω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἐπέδραμεν δὲ ὁ παῖς εἰς συνάντησιν αὐτῆς καὶ εἶπεν, πότισόν με μικρὸν ὕδωρ ἐκ τῆς ὑδρίας σου.'
+Generate the lemma and morphological tags for the inflected verb: ἐπέδραμεν	ἐπέδραμεν	ἐπιτρέχω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἡ δὲ εἶπεν, πίε, κύριε. καὶ ἔσπευσεν καὶ καθεῖλεν τὴν ὑδρίαν ἐπὶ τὸν βραχίονα αὐτῆς καὶ ἐπότισεν αὐτόν,'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἕως ἐπαύσατο πίνων. καὶ εἶπεν, καὶ ταῖς καμήλοις σου ὑδρεύσομαι, ἕως ἄν πᾶσαι πίωσιν.'
+Generate the lemma and morphological tags for the inflected verb: ἐπαύσατο	ἐπαύσατο	παύω V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'καὶ ἔσπευσεν καὶ ἐξεκένωσεν τὴν ὑδρίαν εἰς τὸ ποτιστήριον καὶ ἔδραμεν ἔτι ἐπὶ τὸ φρέαρ ἀντλῆσαι καὶ ὑδρεύσατο πάσαις ταῖς καμήλοις.'
+Generate the lemma and morphological tags for the inflected verb: ἔσπευσεν	ἔσπευσεν	σπεύδω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ὁ δὲ ἄνθρωπος κατεμάνθανεν αὐτὴν καὶ παρεσιώπα τοῦ γνῶναι εἰ εὐόδωκεν κύριος τὴν ὁδὸν αὐτοῦ ἢ οὔ.'
+Generate the lemma and morphological tags for the inflected verb: κατεμάνθανεν	κατεμάνθανεν	καταμανθάνω V;IND;FIN;PST;IPFV;ACT;SG;3
+Given the context: 'ἐγένετο δὲ ἡνίκα ἐπαύσαντο πᾶσαι αἱ κάμηλοι πίνουσαι, ἔλαβεν ὁ ἄνθρωπος ἐνώτια χρυσᾶ ἀνὰ δραχμὴν ὁλκῆς καὶ δύο ψέλια ἐπὶ τὰς χεῖρας αὐτῆς, δέκα χρυσῶν ὁλκὴ αὐτῶν.'
+Generate the lemma and morphological tags for the inflected verb: ἐγένετο	ἐγένετο	γίνομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'καὶ ἐπηρώτησεν αὐτὴν καὶ εἶπεν, θυγάτηρ τίνος εἶ; ἀνάγγειλόν μοι· εἰ ἔστιν παρὰ τῷ πατρί σου τόπος ἡμῖν καταλῦσαι;'
+Generate the lemma and morphological tags for the inflected verb: ἐπηρώτησεν	ἐπηρώτησεν	ἐπερωτάω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἶπεν αὐτῷ, θυγάτηρ Βαθουὴλ εἰμὶ ἐγὼ τοῦ Μελχάς, ὃν ἔτεκεν τῷ Ναχώρ.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;P	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἶπεν αὐτῷ, καὶ ἄχυρα καὶ χορτάσματα πολλὰ παρ᾿ ἡμῖν καὶ τόπος τοῦ καταλῦσαι.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εὐδοκήσας ὁ ἄνθρωπος προσεκύνησεν κυρίῳ'
+Generate the lemma and morphological tags for the inflected verb: εὐδοκήσας	εὐδοκήσας	εὐδοκέω V;PFV;ACT;NOM;SG;MASC;V.PTCP
+Given the context: 'καὶ εἶπεν, εὐλογητὸς κύριος ὁ θεὸς τοῦ κυρίου μου Ἁβραάμ, ὃς οὐκ ἐγκατέλιπεν τὴν δικαιοσύνην αὐτοῦ καὶ τὴν ἀλήθειαν ἀπὸ τοῦ κυρίου μου· ἐμὲ εὐόδωκεν κύριος εἰς οἶκον τοῦ ἀδελφοῦ τοῦ κυρίου μου.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ δραμοῦσα ἡ παῖς ἀπήγγειλεν εἰς τὸν οἶκον τῆς μητρὸς αὐτῆς κατὰ τὰ ῥήματα ταῦτα.'
+Generate the lemma and morphological tags for the inflected verb: δραμοῦσα	δραμοῦσα	τρέχω V;PFV;ACT;NOM;SG;FEM;V.PTCP
+Given the context: 'τῇ δὲ Ῥεβέκκα ἀδελφὸς ἦν, ᾧ ὄνομα Λαβάν· καὶ ἔδραμεν Λαβὰν πρὸς τὸν ἄνθρωπον ἔξω ἐπὶ τὴν πηγήν.'
+Generate the lemma and morphological tags for the inflected verb: ἔδραμεν	ἔδραμεν	τρέχω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἐγένετο ἡνίκα εἶδεν τὰ ἐνώτια καὶ τὰ ψέλια ἐπὶ τὰς χεῖρας τῆς ἀδελφῆς αὐτοῦ καὶ ὅτε ἤκουσεν τὰ ῥήματα Ῥεβέκκας τῆς ἀδελφῆς αὐτοῦ λεγούσης, οὕτως λελάληκέν μοι ὁ ἄνθρωπος, καὶ ἦλθεν πρὸς τὸν ἄνθρωπον ἑστηκότος αὐτοῦ ἐπὶ τῶν καμήλων ἐπὶ τῆς πηγῆς'
+Generate the lemma and morphological tags for the inflected verb: ἐγένετο	ἐγένετο	γίνομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'καὶ εἶπεν αὐτῷ, δεῦρο εἴσελθε· εὐλογητὸς κύριος· ἵνα τί ἕστηκας ἔξω; ἐγὼ δὲ ἡτοίμακα τὴν οἰκίαν καὶ τόπον ταῖς καμήλοις.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;MA	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'εἰσῆλθεν δὲ ὁ ἄνθρωπος εἰς τὴν οἰκίαν καὶ ἀπέσαξεν τὰς καμήλους. καὶ ἔδωκεν ἄχυρα καὶ χορτάσματα ταῖς καμήλοις καὶ ὕδωρ νίψασθαι τοῖς ποσίν αὐτοῦ καὶ τοῖς ποσίν τῶν ἀνδρῶν τῶν μετ᾿ αὐτοῦ.'
+Generate the lemma and morphological tags for the inflected verb: εἰσῆλθεν	εἰσῆλθεν	εἰσέρχομαι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ παρέθηκεν αὐτοῖς ἄρτους φαγεῖν. καὶ εἶπεν, οὐ μὴ φάγω ἕως τοῦ λαλῆσαί με τὰ ῥήματά μου. καὶ εἶπαν λάλησον.'
+Generate the lemma and morphological tags for the inflected verb: παρέθηκεν	παρέθηκεν	παρατίθημι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἶπεν, παῖς Ἁβραὰμ ἐγώ εἰμι.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;P	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'κύριος δὲ εὐλόγησεν τὸν κύριόν μου σφόδρα, καὶ ὑψώθη· καὶ ἔδωκεν αὐτῷ πρόβατα καὶ μόσχους, ἀργύριον καὶ χρυσίον, παῖδας καὶ παιδίσκας, καμήλους καὶ ὄνους.'
+Generate the lemma and morphological tags for the inflected verb: εὐλόγησεν	εὐλόγησεν	εὐλογέω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἔτεκεν Σάρρα ἡ γυνὴ τοῦ κυρίου μου υἱὸν ἕνα τῷ κυρίῳ μου μετὰ τὸ γηρᾶσαι αὐτόν, καὶ ἔδωκεν αὐτῷ ὅσα ἦν αὐτῷ.'
+Generate the lemma and morphological tags for the inflected verb: ἔτεκεν	ἔτεκεν	τίκτω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ὥρκισέν με ὁ κύριός μου λέγων, οὐ λήμψῃ γυναῖκα τῷ υἱῷ μου ἀπὸ τῶν θυγατέρων τῶν Χαναναίων, ἐν οἷς ἐγὼ παροικῶ ἐν τῇ γῇ αὐτῶν,'
+Generate the lemma and morphological tags for the inflected verb: ὥρκισέν	ὥρκισέν	ὁρκίζω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἀλλ᾿ ἢ εἰς τὸν οἶκον τοῦ πατρός μου πορεύσῃ καὶ εἰς τὴν φυλήν μου καὶ λήμψῃ γυναῖκα τῷ υἱῷ μου ἐκεῖθεν.'
+Generate the lemma and morphological tags for the inflected verb: πορεύσῃ	πορεύω V;IND;FIN;PFV;PST;A	πορεύομαι V;FIN;SBJV;PST;PFV;MID;SG;2
+Given the context: 'εἶπα δὲ τῷ κυρίῳ μου, μήποτε οὐ πορεύσεται ἡ γυνὴ μετ᾿ ἐμοῦ.'
+Generate the lemma and morphological tags for the inflected verb: εἶπα	εἶπα V;IND;FIN;PFV;PST;ACT;NOM;	λέγω V;IND;FIN;PST;PFV;ACT;SG;1
+Given the context: 'καὶ εἶπέν μοι κύριος, ᾧ εὐηρέστησα ἐναντίον αὐτοῦ, αὐτὸς ἀποστελεῖ τὸν ἄγγελον αὐτοῦ μετὰ σου καὶ εὐοδώσει τὴν ὁδόν σου, καὶ λήμψῃ γυναῖκα τῷ υἱῷ μου ἐκ τῆς φυλῆς μου καὶ ἐκ τοῦ οἴκου τοῦ πατρός μου.'
+Generate the lemma and morphological tags for the inflected verb: εἶπέν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'τότε ἀθῷος ἔσῃ ἀπὸ τῆς ἀρᾶς μου· ἡνίκα γὰρ ἐὰν ἔλθῃς εἰς τὴν ἐμὴν φυλὴν καὶ μή σοί δῶσιν, καὶ ἔσῃ ἀθῷος ἀπὸ τοῦ ὁρκισμοῦ μου.'
+Generate the lemma and morphological tags for the inflected verb: ἔλθῃς	ἔλθω V;IND;FIN;PFV;PST;ACT;NOM;MASC	ἔρχομαι V;FIN;SBJV;PST;PFV;ACT;SG;2
+Given the context: 'καὶ ἐλθὼν σήμερον ἐπὶ τὴν πηγὴν εἶπα, κύριε ὁ θεὸς τοῦ κυρίου μου Ἁβραάμ, εἰ σὺ εὐοδοῖς τὴν ὁδόν μου, ἣν νῦν ἐγὼ πορεύομαι ἐπ᾿ αὐτήν,'
+Generate the lemma and morphological tags for the inflected verb: ἐλθὼν	ἐλθὼν	ἔρχομαι V;PFV;ACT;NOM;SG;MASC;V.PTCP
+Given the context: 'ἰδοὺ ἐγὼ ἐφέστηκα ἐπὶ τῆς πηγῆς τοῦ ὕδατος, καὶ αἱ θυγατέρες τῶν ἀνθρώπων τῆς πόλεως ἐξελεύσονται ὑδρεύσασθαι ὕδωρ, καὶ ἔσται ἡ παρθένος, ᾗ ἄν ἐγὼ εἴπω, πότισόν με μικρὸν ὕδωρ ἐκ τῆς ὑδρίας σου,'
+Generate the lemma and morphological tags for the inflected verb: ἐφέστηκα	ἐφέστηκα	ἐπίστημι V;IND;FIN;PRS;PFV;ACT;SG;1
+Given the context: 'καὶ εἴπῃ μοι, καὶ σὺ πίε, καὶ ταῖς καμήλοις σου ὑδρεύσομαι, αὕτη ἡ γυνή, ἣν ἡτοίμασεν κύριος τῷ ἑαυτοῦ θεράποντι Ἰσαάκ, καὶ ἐν τούτῳ γνώσομαι ὅτι πεποίηκας ἔλεος τῷ κυρίῳ μου Ἁβραάμ.'
+Generate the lemma and morphological tags for the inflected verb: εἴπῃ	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;MA	εἶπον V;FIN;SBJV;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἐγένετο πρὸ τοῦ συντελέσαι με λαλοῦντα ἐν τῇ διανοίᾳ εὐθὺς Ῥεβέκκα ἐξεπορεύετο ἔχουσα τὴν ὑδρίαν ἐπὶ τῶν ὤμων καὶ κατέβη ἐπὶ τὴν πηγὴν καὶ ὑδρεύσατο. εἶπα δὲ αὐτῇ, πότισόν με.'
+Generate the lemma and morphological tags for the inflected verb: ἐγένετο	ἐγένετο	γίνομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'καὶ σπεύσασα καθεῖλεν τὴν ὑδρίαν αὐτῆς ἀφ᾿ ἑαυτῆς καὶ εἶπεν, πίε σύ, καὶ τὰς καμήλους σου ποτιῶ. καὶ ἔπιον, καὶ τὰς καμήλους μου ἐπότισεν.'
+Generate the lemma and morphological tags for the inflected verb: σπεύσασα	σπεύσασα	σπεύδω V;PFV;ACT;NOM;SG;FEM;V.PTCP
+Given the context: 'καὶ ἠρώτησα αὐτὴν καὶ εἶπα, τίνος εἶ θυγάτηρ ἡ δὲ ἔφη θυγάτηρ; Βαθουὴλ εἰμὶ τοῦ υἱοῦ Ναχώρ, ὃν ἔτεκεν αὐτῷ Μελχά. καὶ περιέθηκα αὐτῇ τὰ ἐνώτια καὶ τὰ ψέλια περὶ τὰς χεῖρας αὐτῆς·'
+Generate the lemma and morphological tags for the inflected verb: ἠρώτησα	ἠρώτησα	ἐρωτάω V;IND;FIN;PST;PFV;ACT;SG;1
+Given the context: 'καὶ εὐδοκήσας προσεκύνησα κυρίῳ καὶ εὐλόγησα κύριον τὸν θεὸν τοῦ κυρίου μου Ἁβραάμ, ὃς εὐόδωσέν μοι ἐν ὁδῷ ἀληθείας λαβεῖν τὴν θυγατέρα τοῦ ἀδελφοῦ τοῦ κυρίου μου τῷ υἱῷ αὐτοῦ.'
+Generate the lemma and morphological tags for the inflected verb: εὐδοκήσας	εὐδοκήσας	εὐδοκέω V;PFV;ACT;NOM;SG;MASC;V.PTCP
+Given the context: 'εἰ οὖν ποιεῖτε ὑμεῖς ἔλεος καὶ δικαιοσύνην πρὸς τὸν κύριόν μου, ἀπαγγείλατε μοι, εἰ δὲ μή, ἀπαγγείλατε μοι, ἵνα ἐπιστρέψω εἰς δεξιὰν ἢ εἰς ἀριστεράν.'
+Generate the lemma and morphological tags for the inflected verb: ποιεῖτε	ποιεῖτε	ποιέω V;FIN;IMP;IPFV;PRS;ACT;PL;2
+Given the context: 'ἀποκριθεὶς δὲ Λαβὰν καὶ Βαθουὴλ εἶπαν, παρὰ κυρίου ἐξῆλθεν τὸ πρόσταγμα τοῦτο· οὐ δυνησόμεθα οὖν σοί ἀντειπεῖν κακὸν καλῷ.'
+Generate the lemma and morphological tags for the inflected verb: ἀποκριθεὶς	ἀποκριθεὶς	ἀποκρίνω V;PFV;PASS;NOM;SG;MASC;V.PTCP
+Given the context: 'ἰδοὺ Ῥεβέκκα ἐνώπιόν σου· λαβὼν ἀπότρεχε, καὶ ἔστω γυνὴ τῷ υἱῷ τοῦ κυρίου σου, καθὰ ἐλάλησεν κύριος.'
+Generate the lemma and morphological tags for the inflected verb: λαβὼν	λαμβάνω V;IND;FIN;PFV;PST;A	λαμβάνω V;PFV;ACT;NOM;SG;MASC;V.PTCP
+Given the context: 'ἐγένετο δὲ ἐν τῷ ἀκοῦσαι τὸν παῖδα τὸν Ἁβραὰμ τῶν ῥημάτων τούτων προσεκύνησεν ἐπὶ τὴν γῆν κυρίῳ.'
+Generate the lemma and morphological tags for the inflected verb: ἐγένετο	ἐγένετο	γίνομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'καὶ ἐξενέγκας ὁ παῖς σκεύη ἀργυρᾶ καὶ χρυσᾶ καὶ ἱματισμὸν ἔδωκεν Ῥεβέκκα καὶ δῶρα ἔδωκεν τῷ ἀδελφῷ αὐτῆς καὶ τῇ μητρὶ αὐτῆς.'
+Generate the lemma and morphological tags for the inflected verb: ἐξενέγκας	ἐξενέγκας	ἐκφέρω V;PFV;ACT;NOM;SG;MASC;V.PTCP
+Given the context: 'καὶ ἔφαγον καὶ ἔπιον, αὐτὸς καὶ οἱ ἄνδρες οἱ μετ᾿ αὐτοῦ ὄντες, καὶ ἐκοιμήθησαν. καὶ ἀναστὰς πρωῒ εἶπεν, ἐκπέμψατέ με, ἵνα ἀπέλθω πρὸς τὸν κύριόν μου.'
+Generate the lemma and morphological tags for the inflected verb: ἔφαγον	ἔφαγον	ἐσθίω V;IND;FIN;PST;PFV;ACT;PL;3
+Given the context: 'εἶπαν δὲ οἱ ἀδελφοὶ αὐτῆς καὶ ἡ μήτηρ, μεινάτω ἡ παρθένος μεθ᾿ ἡμῶν ἡμέρας ὡσεὶ δέκα καὶ μετὰ ταῦτα ἀπελεύσεται.'
+Generate the lemma and morphological tags for the inflected verb: εἶπαν	εἶπαν	λέγω V;IND;FIN;PST;PFV;ACT;PL;3
+Given the context: 'ὁ δὲ εἶπεν πρὸς αὐτούς, μὴ κατέχετέ με καὶ κύριος εὐόδωσεν τὴν ὁδόν μου ἐκπέμψατέ με ἵνα ἀπέλθω πρὸς τὸν κύριόν μου.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;MA	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'οἱ δὲ εἶπαν, καλέσωμεν τὴν παῖδα καὶ ἐρωτήσωμεν τὸ στόμα αὐτῆς.'
+Generate the lemma and morphological tags for the inflected verb: εἶπαν	εἶπαν	λέγω V;IND;FIN;PST;PFV;ACT;PL;3
+Given the context: 'καὶ ἐκάλεσαν Ῥεβέκκαν καὶ εἶπαν αὐτῇ, πορεύσῃ μετὰ τοῦ ἀνθρώπου τούτου; ἡ δὲ εἶπεν, πορεύσομαι.'
+Generate the lemma and morphological tags for the inflected verb: ἐκάλεσαν	ἐκάλεσαν	καλέω V;IND;FIN;PST;PFV;ACT;PL;3
+Given the context: 'καὶ ἐξέπεμψαν Ῥεβέκκαν τὴν ἀδελφὴν αὐτῶν καὶ τὰ ὑπάρχοντα αὐτῆς καὶ τὸν παῖδα τὸν Ἁβραὰμ καὶ τοὺς μετ᾿ αὐτοῦ.'
+Generate the lemma and morphological tags for the inflected verb: ἐξέπεμψαν	ἐξέπεμψαν	ἐκπέμπω V;IND;FIN;PST;PFV;ACT;PL;3
+Given the context: 'καὶ εὐλόγησαν Ῥεβέκκαν τὴν ἀδελφὴν αὐτῶν καὶ εἶπαν αὐτῇ ἀδελφὴ ἡμῶν εἶ· γίνου εἰς χιλιάδας μυριάδων, καὶ κληρονομησάτω τὸ σπέρμα σου τὰς πόλεις τῶν ὑπεναντίων.'
+Generate the lemma and morphological tags for the inflected verb: εὐλόγησαν	εὐλόγησαν	εὐλογέω V;FIN;IMP;PST;PFV;ACT;PL;3
+Given the context: 'ἀναστᾶσα δὲ Ῥεβέκκα καὶ αἱ ἅβραι αὐτῆς ἐπέβησαν ἐπὶ τὰς καμήλους καὶ ἐπορεύθησαν μετὰ τοῦ ἀνθρώπου, καὶ ἀναλαβὼν ὁ παῖς τὴν Ῥεβέκκαν ἀπῆλθεν.'
+Generate the lemma and morphological tags for the inflected verb: ἀναστᾶσα	ἀναστάσα	ἀνίστημι V;PFV;ACT;NOM;SG;FEM;V.PTCP
+Given the context: 'Ἰσαὰκ δὲ ἐπορεύετο διὰ τῆς ἐρήμου κατὰ τὸ φρέαρ τῆς ὁράσεως· αὐτὸς δὲ κατῴκει ἐν τῇ γῇ τῇ πρὸς λίβα.'
+Generate the lemma and morphological tags for the inflected verb: ἐπορεύετο	ἐπορεύετο	πορεύομαι V;IND;FIN;PST;IPFV;SG;{MID/PASS};3
+Given the context: 'καὶ ἐξῆλθεν Ἰσαὰκ ἀδολεσχῆσαι εἰς τὸ πεδίον τὸ πρὸς δείλης καὶ ἀναβλέψας τοῖς ὀφθαλμοῖς εἶδεν καμήλους ἐρχομένας.'
+Generate the lemma and morphological tags for the inflected verb: ἐξῆλθεν	ἐξῆλθεν	ἐξέρχομαι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἀναβλέψασα Ῥεβέκκα τοῖς ὀφθαλμοῖς εἶδεν τὸν Ἰσαὰκ καὶ κατεπήδησεν ἀπὸ τῆς καμήλου'
+Generate the lemma and morphological tags for the inflected verb: ἀναβλέψασα	ἀναβλέψασα	ἀναβλέπω V;PFV;ACT;NOM;SG;FEM;V.PTCP
+Given the context: 'καὶ εἶπεν τῷ παιδί, τίς ἐστιν ὁ ἄνθρωπος ἐκεῖνος ὁ πορευόμενος ἐν τῷ πεδίῳ εἰς συνάντησιν ἡμῖν; εἶπεν δὲ ὁ παῖς, οὗτός ἐστιν ὁ κύριός μου. ἡ δὲ λαβοῦσα τὸ θέριστρον περιεβάλετο.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;MA	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ διηγήσατο ὁ παῖς τῷ Ἰσαὰκ πάντα τὰ ῥήματα ἃ ἐποίησεν.'
+Generate the lemma and morphological tags for the inflected verb: διηγήσατο	διηγήσατο	διηγέομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'εἰσῆλθεν δὲ Ἰσαὰκ εἰς τὸν οἶκον τῆς μητρὸς αὐτοῦ καὶ ἔλαβεν τὴν Ῥεβέκκαν, καὶ ἐγένετο αὐτοῦ γυνή, καὶ ἠγάπησεν αὐτήν· καὶ παρεκλήθη Ἰσαὰκ περὶ Σάρρας τῆς μητρὸς αὐτοῦ.'
+Generate the lemma and morphological tags for the inflected verb: εἰσῆλθεν	εἰσῆλθεν	εἰσέρχομαι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'προσθέμενος δὲ Ἁβραὰμ ἔλαβεν γυναῖκα, ᾗ ὄνομα Χεττούρα.'
+Generate the lemma and morphological tags for the inflected verb: προσθέμενος	προσθέμενον	προστίθημι V;PFV;MID;NOM;SG;MASC;V.PTCP
+Given the context: 'ἔτεκεν δὲ αὐτῷ τὸν Ζεμράν καὶ τὸν Ἰεξάν, καὶ τὸν Μαδὰν καὶ τὸν Μαδιὰμ καὶ τὸν Ἰεσβόκ καὶ τὸν Σωύε.'
+Generate the lemma and morphological tags for the inflected verb: ἔτεκεν	ἔτεκεν	τίκτω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'Ἰεξὰν δὲ ἐγέννησεν τὸν Σαβὰ καὶ τὸν Θαιμὰν καὶ τὸν Δαιδὰν υἱοὶ δὲ Δαιδάν· ἐγένοντο Ῥαγουὴλ καὶ Ναβδεήλ καὶ Ἀσσουριίμ καὶ Λατουσιίμ καὶ Λοωμίμ. υἱοὶ δὲ Μαδιάμ· Γαιφὰ καὶ Ἀφέρ καὶ Ἐνὼχ καὶ Ἀβιρά καὶ Ἐλραγά. πάντες οὗτοι ἦσαν υἱοὶ Χεττούρας.'
+Generate the lemma and morphological tags for the inflected verb: ἐγέννησεν	ἐγέννησεν	γεννάω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἔδωκεν δὲ Ἁβραὰμ πάντα τὰ ὑπάρχοντα αὐτοῦ Ἰσαὰκ τῷ υἱῷ αὐτοῦ,'
+Generate the lemma and morphological tags for the inflected verb: ἔδωκεν	ἔδωκεν	δίδωμι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ τοῖς υἱοῖς τῶν παλλακῶν αὐτοῦ ἔδωκεν Ἁβραὰμ δόματα καὶ ἐξαπέστειλεν αὐτοὺς ἀπὸ Ἰσαὰκ τοῦ υἱοῦ αὐτοῦ ἔτι ζῶντος αὐτοῦ πρὸς ἀνατολὰς εἰς γῆν ἀνατολῶν.'
+Generate the lemma and morphological tags for the inflected verb: ἔδωκεν	ἔδωκεν	δίδωμι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ταῦτα δὲ τὰ ἔτη ἡμερῶν ζωῆς Ἁβραάμ, ὅσα ἔζησεν· ἑκατὸν ἑβδομήκοντα πέντε ἔτη.'
+Generate the lemma and morphological tags for the inflected verb: ἔζησεν	ἔζησεν	ζάω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἐκλιπὼν ἀπέθανεν Ἁβραὰμ ἐν γήρει καλῷ πρεσβύτης καὶ πλήρης ἡμερῶν καὶ προσετέθη πρὸς τὸν λαὸν αὐτοῦ.'
+Generate the lemma and morphological tags for the inflected verb: ἐκλιπὼν	ἀπέθανεν	ἐκλείπω V;PST;PFV;ACT;NOM;SG;MASC;V.PTCP
+Given the context: 'καὶ ἔθαψαν αὐτὸν Ἰσαὰκ καὶ Ἰσμαὴλ οἱ υἱοὶ αὐτοῦ εἰς τὸ σπήλαιον τὸ διπλοῦν εἰς τὸν ἀγρὸν Ἐφρὼν τοῦ Σαὰρ τοῦ Χετταίου, ὅ ἐστιν ἀπέναντι Μαμβρῆ.'
+Generate the lemma and morphological tags for the inflected verb: ἔθαψαν	ἔθαψαν	θάπτω V;IND;FIN;PST;PFV;ACT;PL;3
+Given the context: 'τὸν ἀγρὸν καὶ τὸ σπήλαιον, ὃ ἐκτήσατο Ἁβραὰμ παρὰ τῶν υἱῶν Χέτ, ἐκεῖ ἔθαψαν Ἁβραὰμ καὶ Σάρραν τὴν γυναῖκα αὐτοῦ.'
+Generate the lemma and morphological tags for the inflected verb: ἐκτήσατο	ἐκτήσατο	κτάομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'ἐγένετο δὲ μετὰ τὸ ἀποθανεῖν Ἁβραὰμ εὐλόγησεν ὁ θεὸς Ἰσαὰκ τὸν υἱὸν αὐτοῦ· καὶ κατῴκησεν Ἰσαὰκ παρὰ τὸ φρέαρ τῆς ὁράσεως.'
+Generate the lemma and morphological tags for the inflected verb: ἐγένετο	ἐγένετο	γίνομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'αὗται δὲ αἱ γενέσεις Ἰσμαὴλ τοῦ υἱοῦ Ἁβραάμ, ὃν ἔτεκεν Ἄγαρ ἡ παιδίσκη Σάρρας τῷ Ἁβραάμ,'
+Generate the lemma and morphological tags for the inflected verb: ἔτεκεν	ἔτεκεν	τίκτω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ταῦτα τὰ ἔτη τῆς ζωῆς Ἰσμαήλ· ἑκατὸν τριάκοντα ἑπτὰ ἔτη· καὶ ἐκλιπὼν ἀπέθανεν καὶ προσετέθη πρὸς τὸ γένος αὐτοῦ.'
+Generate the lemma and morphological tags for the inflected verb: ἐκλιπὼν	ἐκλίπτω V;IND;FIN;PFV;PST;A	ἐκλείπω V;PST;PFV;ACT;NOM;SG;MASC;V.PTCP
+Given the context: 'κατῴκησεν δὲ ἀπὸ Εὐιλάτ, ἕως Σοὺρ ἥ ἐστιν κατὰ πρόσωπον Αἰγύπτου ἕως ἐλθεῖν πρὸς Ἀσσυρίους· κατὰ πρόσωπον πάντων τῶν ἀδελφῶν αὐτοῦ κατῴκησεν.'
+Generate the lemma and morphological tags for the inflected verb: κατῴκησεν	κατῴκησεν	κατοικέω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ αὗται αἱ γενέσεις Ἰσαὰκ τοῦ υἱοῦ Ἁβραάμ· Ἁβραὰμ ἐγέννησεν τὸν Ἰσαάκ.'
+Generate the lemma and morphological tags for the inflected verb: ἐγέννησεν	ἐγέννησεν	γεννάω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἦν δὲ Ἰσαὰκ ἐτῶν τεσσαράκοντα, ὅτε ἔλαβεν τὴν Ῥεβέκκαν θυγατέρα Βαθουὴλ τοῦ Σύρου ἐκ τῆς Μεσοποταμίας ἀδελφὴν Λαβὰν τοῦ Σύρου ἑαυτῷ γυναῖκα.'
+Generate the lemma and morphological tags for the inflected verb: ἔλαβεν	ἔλαβεν	λαμβάνω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἐδεῖτο δὲ Ἰσαὰκ κυρίου περὶ Ῥεβέκκας τῆς γυναικὸς αὐτοῦ, ὅτι στεῖρα ἦν· ἐπήκουσεν δὲ αὐτοῦ ὁ θεός, καὶ ἔλαβεν ἐν γαστρὶ Ῥεβέκκα ἡ γυνὴ αὐτοῦ.'
+Generate the lemma and morphological tags for the inflected verb: ἐδεῖτο	ἐδέομαι V;IND;FIN;PFV;PST;A	δέομαι V;IND;FIN;PST;IPFV;SG;{MID/PASS};3
+Given the context: 'ἐσκίρτων δὲ τὰ παιδία ἐν αὐτῇ· εἶπεν δέ, εἰ οὕτως μοι μέλλει γίνεσθαι, ἵνα τί μοι τοῦτο; ἐπορεύθη δὲ πυθέσθαι παρὰ κυρίου,'
+Generate the lemma and morphological tags for the inflected verb: ἐσκίρτων	ἐσκίρτων	σκιρτάω V;IND;FIN;PST;IPFV;ACT;PL;3
+Given the context: 'καὶ εἶπεν κύριος αὐτῇ, δύο ἔθνη ἐν τῇ γαστρί σου εἰσιν, καὶ δύο λαοὶ ἐκ τῆς κοιλίας σου διασταλήσονται· καὶ λαὸς λαοῦ ὑπερέξει, καὶ ὁ μείζων δουλεύσει τῷ ἐλάσσονι.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;MA	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἐπληρώθησαν αἱ ἡμέραι τοῦ τεκεῖν αὐτήν, καὶ τῇδε ἦν δίδυμα ἐν τῇ κοιλίᾳ αὐτῆς.'
+Generate the lemma and morphological tags for the inflected verb: ἐπληρώθησαν	ἐπληρώθησαν	πληρόω V;IND;FIN;PST;PFV;PASS;PL;3
+Given the context: 'ἐξῆλθεν δὲ ὁ υἱὸς ὁ πρωτότοκος πυρράκης, ὅλος ὡσεὶ δορὰ δασύς· ἐπωνόμασεν δὲ τὸ ὄνομα αὐτοῦ Ἡσαῦ.'
+Generate the lemma and morphological tags for the inflected verb: ἐξῆλθεν	ἐξῆλθεν	ἐξέρχομαι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ μετὰ τοῦτο ἐξῆλθεν ὁ ἀδελφὸς αὐτοῦ, καὶ ἡ χεὶρ αὐτοῦ ἐπειλημμένη τῆς πτέρνης Ἡσαῦ· καὶ ἐκάλεσεν τὸ ὄνομα αὐτοῦ Ἰακώβ. Ἰσαὰκ δὲ ἦν ἐτῶν ἑξήκοντα, ὅτε ἔτεκεν αὐτοὺς Ῥεβέκκα.'
+Generate the lemma and morphological tags for the inflected verb: ἐξῆλθεν	ἐξῆλθεν	ἐξέρχομαι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ηὐξήθησαν δὲ οἱ νεανίσκοι, καὶ ἦν Ἡσαῦ ἄνθρωπος εἰδὼς κυνηγεῖν ἄγροικος, Ἰακὼβ δὲ ἦν ἄνθρωπος ἄπλαστος οἰκῶν οἰκίαν.'
+Generate the lemma and morphological tags for the inflected verb: ηὐξήθησαν	ηὐξήθησαν	αὐξάνω V;IND;FIN;PST;PFV;PASS;PL;3
+Given the context: 'ἠγάπησεν δὲ Ἰσαὰκ τὸν Ἡσαῦ, ὅτι ἡ θήρα αὐτοῦ βρῶσις αὐτῷ· Ῥεβέκκα δὲ ἠγάπα τὸν Ἰακώβ.'
+Generate the lemma and morphological tags for the inflected verb: ἠγάπησεν	ἠγάπησεν	ἀγαπάω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἥψησεν δὲ Ἰακὼβ ἕψεμα· ἦλθεν δὲ Ἡσαῦ ἐκ τοῦ πεδίου ἐκλείπων,'
+Generate the lemma and morphological tags for the inflected verb: ἥψησεν	ἥψησεν	ἕψω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἶπεν Ἡσαῦ τῷ Ἰακώβ, γεῦσόν με ἀπὸ τοῦ ἑψέματος τοῦ πυρροῦ τούτου, ὅτι ἐκλείπω. διὰ τοῦτο ἐκλήθη τὸ ὄνομα αὐτοῦ Ἐδώμ.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'εἶπεν δὲ Ἰακὼβ τῷ Ἡσαῦ, ἀπόδου μοι σήμερον τὰ πρωτοτόκιά σου ἐμοί.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'εἶπεν δὲ Ἡσαῦ, ἰδοὺ ἐγὼ πορεύομαι τελευτᾶν, καὶ ἵνα τί μοι ταῦτα τὰ πρωτοτόκια;'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπεν	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἶπεν αὐτῷ Ἰακώβ, ὄμοσόν μοι σήμερον. καὶ ὤμοσεν αὐτῷ· ἀπέδοτο δὲ Ἡσαῦ τὰ πρωτοτόκια τῷ Ἰακώβ.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'Ἰακὼβ δὲ ἔδωκεν τῷ Ἡσαῦ ἄρτον καὶ ἕψεμα φακοῦ, καὶ ἔφαγεν καὶ ἔπιεν καὶ ἀναστὰς ᾤχετο· καὶ ἐφαύλισεν Ἡσαῦ τὰ πρωτοτόκια.'
+Generate the lemma and morphological tags for the inflected verb: ἔδωκεν	ἔδωκεν	δίδωμι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἐγένετο δὲ λιμὸς ἐπὶ τῆς γῆς χωρὶς τοῦ λιμοῦ τοῦ πρότερον, ὃς ἐγένετο ἐν τῷ χρόνῳ τῷ Ἁβραάμ· ἐπορεύθη δὲ Ἰσαὰκ πρὸς Ἀβιμέλεχ βασιλέα Φυλιστιὶμ εἰς Γέραρα.'
+Generate the lemma and morphological tags for the inflected verb: ἐγένετο	ἐγένετο	γίνομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'ὤφθη δὲ αὐτῷ κύριος καὶ εἶπεν μὴ καταβῇς εἰς Αἴγυπτον· κατοίκησον δὲ ἐν τῇ γῇ, ᾗ ἄν σοί εἴπω.'
+Generate the lemma and morphological tags for the inflected verb: ὤφθη	ὤφθη	ὁράω V;IND;FIN;PST;PFV;PASS;SG;3
+Given the context: 'καὶ παροίκει ἐν τῇ γῇ ταύτῃ, καὶ ἔσομαι μετὰ σου καὶ εὐλογήσω σε· σοί γὰρ καὶ τῷ σπέρματί σου δώσω πᾶσαν τὴν γῆν ταύτην καὶ στήσω τὸν ὅρκον μου, ὃν ὤμοσα Ἁβραὰμ τῷ πατρί σου.'
+Generate the lemma and morphological tags for the inflected verb: παροίκει	παροίκει	παροικέω V;FIN;IMP;IPFV;PRS;ACT;SG;2
+Given the context: 'καὶ πληθυνῶ τὸ σπέρμα σου ὡς τοὺς ἀστέρας τοῦ οὐρανοῦ καὶ δώσω τῷ σπέρματί σου πᾶσαν τὴν γῆν ταύτην, καὶ ἐνευλογηθήσονται ἐν τῷ σπέρματί σου πάντα τὰ ἔθνη τῆς γῆς,'
+Generate the lemma and morphological tags for the inflected verb: πληθυνῶ	πληθυνόν V;IND;FIN;PFV;PST;A	πληθύνω V;IND;FIN;FUT;IPFV;ACT;SG;1
+Given the context: 'ἀνθ᾿ ὧν ὑπήκουσεν Ἁβραὰμ ὁ πατήρ σου τῆς ἐμῆς φωνῆς καὶ ἐφύλαξεν τὰ προστάγματά μου καὶ τὰς ἐντολάς μου καὶ τὰ δικαιώματά μου καὶ τὰ νόμιμά μου.'
+Generate the lemma and morphological tags for the inflected verb: ὑπήκουσεν	ὑπήκουσεν	ὑπακούω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ κατῴκησεν Ἰσαὰκ ἐν Γεράροις.'
+Generate the lemma and morphological tags for the inflected verb: κατῴκησεν	κατῴκησεν	κατοικέω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἐπηρώτησαν δὲ οἱ ἄνδρες τοῦ τόπου περὶ Ῥεβέκκας τῆς γυναικὸς αὐτοῦ, καὶ εἶπεν, ἀδελφή μού ἐστιν· ἐφοβήθη γὰρ εἰπεῖν ὅτι, γυνή μού ἐστιν, μήποτε ἀποκτείνωσιν αὐτὸν οἱ ἄνδρες τοῦ τόπου περὶ Ῥεβέκκας, ὅτι ὡραία τῇ ὄψει ἦν.'
+Generate the lemma and morphological tags for the inflected verb: ἐπηρώτησαν	ἐπηρώτησαν	ἐπερωτάω V;IND;FIN;PST;PFV;ACT;PL;3
+Given the context: 'ἐγένετο δὲ πολυχρόνιος ἐκεῖ· παρακύψας δὲ Ἀβιμέλεχ ὁ βασιλεὺς Γεράρων διὰ τῆς θυρίδος εἶδεν τὸν Ἰσαὰκ παίζοντα μετὰ Ῥεβέκκας τῆς γυναικὸς αὐτοῦ.'
+Generate the lemma and morphological tags for the inflected verb: ἐγένετο	ἐγένετο	γίνομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'ἐκάλεσεν δὲ Ἀβιμέλεχ τὸν Ἰσαὰκ καὶ εἶπεν αὐτῷ, ἄρα γε γυνή σου ἐστιν· τί ὅτι εἶπας, ἀδελφή μού ἐστιν; εἶπεν δὲ αὐτῷ Ἰσαάκ, εἶπα γάρ μήποτε ἀποθάνω δι᾿ αὐτήν.'
+Generate the lemma and morphological tags for the inflected verb: ἐκάλεσεν	ἐκάλεσεν	καλέω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'εἶπεν δὲ αὐτῷ Ἀβιμέλεχ, τί τοῦτο ἐποίησας ἡμῖν; μικροῦ ἐκοιμήθη τις τοῦ γένους μου μετὰ τῆς γυναικός σου, καὶ ἐπήγαγες ἐφ᾿ ἡμᾶς ἄγνοιαν.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπεν	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'συνέταξεν δὲ Ἀβιμέλεχ παντὶ τῷ λαῷ αὐτοῦ λέγων, πᾶς ὁ ἁπτόμενος τοῦ ἀνθρώπου τούτου ἢ τῆς γυναικὸς αὐτοῦ θανάτου ἔνοχος ἔσται.'
+Generate the lemma and morphological tags for the inflected verb: συνέταξεν	συνέταξεν	συντάσσω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἔσπειρεν δὲ Ἰσαὰκ ἐν τῇ γῇ ἐκείνῃ καὶ εὗρεν ἐν τῷ ἐνιαυτῷ ἐκείνῳ ἑκατοστεύουσαν κριθήν· εὐλόγησεν δὲ αὐτὸν κύριος.'
+Generate the lemma and morphological tags for the inflected verb: ἔσπειρεν	ἔσπειρεν	σπείρω V;IND;FIN;PST;IPFV;ACT;SG;3
+Given the context: 'καὶ ὑψώθη ὁ ἄνθρωπος καὶ προβαίνων μείζων ἐγίνετο, ἕως οὗ μέγας ἐγένετο σφόδρα·'
+Generate the lemma and morphological tags for the inflected verb: ὑψώθη	ὑψώθη	ὑψόω V;IND;FIN;PST;PFV;PASS;SG;3
+Given the context: 'ἐγένετο δὲ αὐτῷ κτήνη προβάτων καὶ κτήνη βοῶν καὶ γεώργια πολλά. ἐζήλωσαν δὲ αὐτὸν οἱ Φυλιστιίμ,'
+Generate the lemma and morphological tags for the inflected verb: ἐγένετο	ἐγένετο	γίνομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'καὶ πάντα τὰ φρέατα, ἃ ὤρυξαν οἱ παῖδες τοῦ πατρὸς αὐτοῦ ἐν τῷ χρόνῳ τοῦ πατρὸς αὐτοῦ, ἐνέφραξαν αὐτὰ οἱ Φυλιστιὶμ καὶ ἔπλησαν αὐτὰ γῆς.'
+Generate the lemma and morphological tags for the inflected verb: ὤρυξαν	ὤρυξαν	ὀρύσσω V;IND;FIN;PST;PFV;ACT;PL;3
+Given the context: 'εἶπεν δὲ Ἀβιμέλεχ πρὸς Ἰσαάκ, ἄπελθε ἀφ᾿ ἡμῶν, ὅτι δυνατώτερος ἡμῶν ἐγένου σφόδρα.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπεν	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἀπῆλθεν ἐκεῖθεν Ἰσαὰκ καὶ κατέλυσεν ἐν τῇ φάραγγι Γεράρων καὶ κατῴκησεν ἐκεῖ.'
+Generate the lemma and morphological tags for the inflected verb: ἀπῆλθεν	ἀπῆλθεν	ἀπέρχομαι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ πάλιν Ἰσαὰκ ὤρυξεν τὰ φρέατα τοῦ ὕδατος, ἃ ὤρυξαν οἱ παῖδες Ἁβραὰμ τοῦ πατρὸς αὐτοῦ, καὶ ἐνέφραξαν αὐτὰ οἱ Φυλιστιὶμ μετὰ τὸ ἀποθανεῖν Ἁβραὰμ τὸν πατέρα αὐτοῦ καὶ ἐπωνόμασεν αὐτοῖς ὀνόματα κατὰ τὰ ὀνόματα, ἃ ἐπωνόμασεν Ἁβραὰμ ὁ πατὴρ αὐτοῦ.'
+Generate the lemma and morphological tags for the inflected verb: ὤρυξεν	ὤρυξεν	ὀρύσσω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ὤρυξαν οἱ παῖδες Ἰσαὰκ ἐν τῇ φάραγγι Γεράρων καὶ εὗρον ἐκεῖ φρέαρ ὕδατος ζῶντος.'
+Generate the lemma and morphological tags for the inflected verb: ὤρυξαν	ὤρύξαν	ὀρύσσω V;IND;FIN;PST;PFV;ACT;PL;3
+Given the context: 'καὶ ἐμαχέσαντο οἱ ποιμένες Γεράρων μετὰ τῶν ποιμένων Ἰσαὰκ φάσκοντες αὐτῶν εἶναι τὸ ὕδωρ· καὶ ἐκάλεσεν τὸ ὄνομα τοῦ φρέατος Ἀδικία· ἠδίκησαν γὰρ αὐτόν.'
+Generate the lemma and morphological tags for the inflected verb: ἐμαχέσαντο	ἐμαχέσαντο	μάχομαι V;IND;FIN;PST;PFV;MID;PL;3
+Given the context: 'ἀπάρας δὲ Ἰσαὰκ ἐκεῖθεν ὤρυξεν φρέαρ ἕτερον, ἐκρίνοντο δὲ καὶ περὶ ἐκείνου· καὶ ἐπωνόμασεν τὸ ὄνομα αὐτοῦ Ἐχθρία.'
+Generate the lemma and morphological tags for the inflected verb: ἀπάρας	ἀπάρας	ἀπαίρω V;PFV;ACT;NOM;SG;MASC;V.PTCP
+Given the context: 'ἀπάρας δὲ ἐκεῖθεν ὤρυξεν φρέαρ ἕτερον, καὶ οὐκ ἐμαχέσαντο περὶ αὐτοῦ· καὶ ἐπωνόμασεν τὸ ὄνομα αὐτοῦ Εὐρυχωρία λέγων, διότι νῦν ἐπλάτυνεν κύριος ἡμῖν καὶ ηὔξησεν ἡμᾶς ἐπὶ τῆς γῆς.'
+Generate the lemma and morphological tags for the inflected verb: ἀπάρας	ἀπάρας	ἀπαίρω V;PFV;ACT;NOM;SG;MASC;V.PTCP
+Given the context: 'ἀνέβη δὲ ἐκεῖθεν ἐπὶ τὸ φρέαρ τοῦ ὅρκου.'
+Generate the lemma and morphological tags for the inflected verb: ἀνέβη	ἀνέβη	ἀναβαίνω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ὤφθη αὐτῷ κύριος ἐν τῇ νυκτὶ ἐκείνῃ καὶ εἶπεν, ἐγώ εἰμι ὁ θεὸς Ἁβραὰμ τοῦ πατρός σου· μὴ φοβοῦ· μετὰ σου γάρ εἰμι καὶ ηὐλόγηκά σὲ καὶ πληθυνῶ τὸ σπέρμα σου διὰ Ἁβραὰμ τὸν πατέρα σου.'
+Generate the lemma and morphological tags for the inflected verb: ὤφθη	ὤφθη	ὁράω V;IND;FIN;PST;PFV;PASS;SG;3
+Given the context: 'καὶ ᾠκοδόμησεν ἐκεῖ θυσιαστήριον καὶ ἐπεκαλέσατο τὸ ὄνομα κυρίου καὶ ἔπηξεν ἐκεῖ τὴν σκηνὴν αὐτοῦ· ὤρυξαν δὲ ἐκεῖ οἱ παῖδες Ἰσαὰκ φρέαρ.'
+Generate the lemma and morphological tags for the inflected verb: ᾠκοδόμησεν	ᾠκοδόμησεν	οἰκοδομέω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ Ἀβιμέλεχ ἐπορεύθη πρὸς αὐτὸν ἀπὸ Γεράρων καὶ Ὁχοζὰθ ὁ νυμφαγωγὸς αὐτοῦ καὶ Φικὸλ ὁ ἀρχιστράτηγος τῆς δυνάμεως αὐτοῦ.'
+Generate the lemma and morphological tags for the inflected verb: ἐπορεύθη	ἐπορεύθη	πορεύομαι V;IND;FIN;PST;PFV;PASS;SG;3
+Given the context: 'καὶ εἶπεν αὐτοῖς Ἰσαάκ, ἵνα τί ἤλθατε πρός με; ὑμεῖς δὲ ἐμισήσατέ με καὶ ἀπεστείλατέ με ἀφ᾿ ὑμῶν.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;P	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἶπαν, ἰδόντες ἑωράκαμεν ὅτι ἦν κύριος μετὰ σου, καὶ εἴπαμεν γενέσθω ἀρὰ ἀνὰ μέσον ἡμῶν καὶ ἀνὰ μέσον σου, καὶ διαθησόμεθα μετὰ σου διαθήκην'
+Generate the lemma and morphological tags for the inflected verb: εἶπαν	εἶπαν	λέγω V;IND;FIN;PST;PFV;ACT;PL;3
+Given the context: 'μὴ ποιήσειν μεθ᾿ ἡμῶν κακόν, καθότι ἡμεῖς σὲ οὐκ ἐβδελυξάμεθα, καὶ ὃν τρόπον ἐχρησάμεθά σοί καλῶς καὶ ἐξαπεστείλαμέν σὲ μετ᾿ εἰρήνης· καὶ νῦν σὺ εὐλογητὸς ὑπὸ κυρίου.'
+Generate the lemma and morphological tags for the inflected verb: ποιήσειν	ποιήσει V;IND;FIN;PFV;PST;A	ποιέω V;FUT;IPFV;ACT;NFIN
+Given the context: 'καὶ ἐποίησεν αὐτοῖς δοχήν, καὶ ἔφαγον καὶ ἔπιον·'
+Generate the lemma and morphological tags for the inflected verb: ἐποίησεν	ἐποίησεν	ποιέω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἀναστάντες τὸ πρωῒ ὤμοσαν ἄνθρωπος τῷ πλησίον αὐτοῦ, καὶ ἐξαπέστειλεν αὐτοὺς Ἰσαάκ, καὶ ἀπῴχοντο ἀπ᾿ αὐτοῦ μετὰ σωτηρίας.'
+Generate the lemma and morphological tags for the inflected verb: ἀναστάντες	ἀναστάντες	ἀνίστημι V;PFV;ACT;NOM;PL;MASC;V.PTCP
+Given the context: 'ἐγένετο δὲ ἐν τῇ ἡμέρᾳ ἐκείνῃ καὶ παραγενόμενοι οἱ παῖδες Ἰσαὰκ ἀπήγγειλαν αὐτῷ περὶ τοῦ φρέατος, οὗ ὤρυξαν, καὶ εἶπαν, οὐχ εὕρομεν ὕδωρ.'
+Generate the lemma and morphological tags for the inflected verb: ἐγένετο	ἐγένετο	γίνομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'καὶ ἐκάλεσεν αὐτὸ Ὅρκος· διὰ τοῦτο ὄνομα τῇ πόλει Φρέαρ Ὅρκου ἕως τῆς σήμερον ἡμέρας.'
+Generate the lemma and morphological tags for the inflected verb: ἐκάλεσεν	ἐκάλεσεν	καλέω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἦν δὲ Ἡσαῦ ἐτῶν τεσσαράκοντα καὶ ἔλαβεν γυναῖκα Ἰουδίν τὴν θυγατέρα Βεήρ τοῦ Χετταίου καὶ τὴν Βασεμμάθ θυγατέρα Αἰλών τοῦ Εὐαίου.'
+Generate the lemma and morphological tags for the inflected verb: ἔλαβεν	ἔλαβεν	λαμβάνω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἦσαν ἐρίζουσαι τῷ Ἰσαὰκ καὶ τῇ Ῥεβέκκα.'
+Generate the lemma and morphological tags for the inflected verb: ἐρίζουσαι	ἐρίζουσαι	ἐρίζω V;IPFV;PRS;ACT;NOM;FEM;PL;V.PTCP
+Given the context: 'ἐγένετο δὲ μετὰ τὸ γηρᾶσαι Ἰσαὰκ καὶ ἠμβλύνθησαν οἱ ὀφθαλμοὶ αὐτοῦ τοῦ ὁρᾶν, καὶ ἐκάλεσεν Ἡσαῦ τὸν υἱὸν αὐτοῦ τὸν πρεσβύτερον καὶ εἶπεν αὐτῷ, υἱέ μου· καὶ εἶπεν, ἰδοὺ ἐγώ.'
+Generate the lemma and morphological tags for the inflected verb: ἐγένετο	ἐγένετο	γίνομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'καὶ εἶπεν, ἰδοὺ γεγήρακα καὶ οὐ γινώσκω τὴν ἡμέραν τῆς τελευτῆς μου·'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'νῦν οὖν λαβὲ τὸ σκεῦός σου, τήν τε φαρέτραν καὶ τὸ τόξον, καὶ ἔξελθε εἰς τὸ πεδίον καὶ θήρευσόν μοι θήραν'
+Generate the lemma and morphological tags for the inflected verb: λαβὲ	λαμβάνω V;IND;FIN;PFV;PST;A	λαμβάνω V;FIN;IMP;PST;PFV;ACT;SG;2
+Given the context: 'καὶ ποίησόν μοι ἐδέσματα, ὡς φιλῶ ἐγώ, καὶ ἔνεγκέ μοι, ἵνα φάγω, ὅπως εὐλογήσῃ σὲ ἡ ψυχή μου πρὶν ἀποθανεῖν με.'
+Generate the lemma and morphological tags for the inflected verb: ποίησόν	ποίησον	ποιέω V;FIN;IMP;PST;PFV;ACT;SG;2
+Given the context: 'Ῥεβέκκα δὲ ἤκουσεν λαλοῦντος Ἰσαὰκ πρὸς Ἡσαῦ τὸν υἱὸν αὐτοῦ. ἐπορεύθη δὲ Ἡσαῦ εἰς τὸ πεδίον θηρεῦσαι θήραν τῷ πατρὶ αὐτοῦ·'
+Generate the lemma and morphological tags for the inflected verb: ἤκουσεν	ἤκουσεν	ἀκούω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'Ῥεβέκκα δὲ εἶπεν πρὸς Ἰακὼβ τὸν υἱὸν αὐτῆς τὸν ἐλάσσω, ἰδὲ ἐγὼ ἤκουσα τοῦ πατρός σου λαλοῦντος πρὸς Ἡσαῦ τὸν ἀδελφόν σου λέγοντος,'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἔνεγκόν μοι θήραν καὶ ποίησόν μοι ἐδέσματα, καὶ φαγὼν εὐλογήσω σὲ ἐναντίον κυρίου πρὸ τοῦ ἀποθανεῖν με.'
+Generate the lemma and morphological tags for the inflected verb: ἔνεγκόν	ἔνεγκον	φέρω V;FIN;IMP;PST;PFV;ACT;SG;2
+Given the context: 'νῦν οὖν, υἱέ, ἄκουσόν μου, καθὰ ἐγώ σοί ἐντέλλομαι,'
+Generate the lemma and morphological tags for the inflected verb: ἄκουσόν	ἀκούω V;IND;FIN;PFV;PST;ACT;NOM;	ἀκούω V;FUT;IPFV;ACT;SG;{ACC/NOM};NEUT;V.PTCP
+Given the context: 'καὶ πορευθεὶς εἰς τὰ πρόβατα λαβέ μοι ἐκεῖθεν δύο ἐρίφους ἁπαλοὺς καὶ καλούς, καὶ ποιήσω αὐτοὺς ἐδέσματα τῷ πατρί σου, ὡς φιλεῖ,'
+Generate the lemma and morphological tags for the inflected verb: πορευθεὶς	πορεύθει V;IND;FIN;PFV;PST;A	πορεύομαι V;PFV;PASS;NOM;SG;MASC;V.PTCP
+Given the context: 'καὶ εἰσοίσεις τῷ πατρί σου, καὶ φάγεται, ὅπως εὐλογήσῃ σὲ ὁ πατήρ σου πρὸ τοῦ ἀποθανεῖν αὐτόν.'
+Generate the lemma and morphological tags for the inflected verb: εἰσοίσεις	εἰσοίσεις	εἰσφέρω V;IND;FIN;FUT;IPFV;ACT;SG;2
+Given the context: 'εἶπεν δὲ Ἰακὼβ πρὸς Ῥεβέκκαν τὴν μητέρα αὐτοῦ, ἔστιν Ἡσαῦ ὁ ἀδελφός μου ἀνὴρ δασύς, ἐγὼ δὲ ἀνὴρ λεῖος·'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπεν	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'μήποτε ψηλαφήσῃ με ὁ πατήρ μου, καὶ ἔσομαι ἐναντίον αὐτοῦ ὡς καταφρονῶν καὶ ἐπάξω ἐπ᾿ ἐμαυτὸν κατάραν καὶ οὐκ εὐλογίαν.'
+Generate the lemma and morphological tags for the inflected verb: ψηλαφήσῃ	ψηλαφήσεω V;IND;FIN;PFV;PST;A	ψηλαφάω V;FIN;SBJV;PST;PFV;ACT;SG;3
+Given the context: 'εἶπεν δὲ αὐτῷ ἡ μήτηρ, ἐπ᾿ ἐμὲ ἡ κατάρα σου, τέκνον· μόνον ὑπάκουσον τῆς φωνῆς μου καὶ πορευθεὶς ἔνεγκέ μοι.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπεν	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'πορευθεὶς δὲ ἔλαβεν καὶ ἤνεγκεν τῇ μητρί, καὶ ἐποίησεν ἡ μήτηρ αὐτοῦ ἐδέσματα, καθὰ ἐφίλει ὁ πατὴρ αὐτοῦ.'
+Generate the lemma and morphological tags for the inflected verb: πορευθεὶς	πορεύθει V;IND;FIN;PFV;PST;A	πορεύομαι V;PFV;PASS;NOM;SG;MASC;V.PTCP
+Given the context: 'καὶ λαβοῦσα Ῥεβέκκα τὴν στολὴν Ἡσαῦ τοῦ υἱοῦ αὐτῆς τοῦ πρεσβυτέρου τὴν καλήν, ἣ ἦν παρ᾿ αὐτῇ ἐν τῷ οἴκῳ, ἐνέδυσεν Ἰακὼβ τὸν υἱὸν αὐτῆς τὸν νεώτερον'
+Generate the lemma and morphological tags for the inflected verb: λαβοῦσα	λαβοῦσα	λαμβάνω V;PFV;ACT;NOM;SG;FEM;V.PTCP
+Given the context: 'καὶ τὰ δέρματα τῶν ἐρίφων περιέθηκεν ἐπὶ τοὺς βραχίονας αὐτοῦ καὶ ἐπὶ τὰ γυμνὰ τοῦ τραχήλου αὐτοῦ'
+Generate the lemma and morphological tags for the inflected verb: περιέθηκεν	περιέθηκεν	περιτίθημι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἔδωκεν τὰ ἐδέσματα καὶ τοὺς ἄρτους, οὓς ἐποίησεν εἰς τὰς χεῖρας Ἰακὼβ τοῦ υἱοῦ αὐτῆς.'
+Generate the lemma and morphological tags for the inflected verb: ἔδωκεν	ἔδωκεν	δίδωμι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἰσήνεγκεν τῷ πατρὶ αὐτοῦ. εἶπεν δέ, πάτερ. ὁ δὲ εἶπεν, ἰδοὺ ἐγώ· τίς εἶ σύ, τέκνον;'
+Generate the lemma and morphological tags for the inflected verb: εἰσήνεγκεν	εἰσήνεγκεν	εἰσφέρω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἶπεν Ἰακὼβ τῷ πατρὶ αὐτοῦ, ἐγὼ Ἡσαῦ ὁ πρωτότοκός σου· ἐποίησα, καθὰ ἐλάλησάς μοι· ἀναστὰς κάθισον καὶ φάγε τῆς θήρας μου, ὅπως εὐλογήσῃ με ἡ ψυχή σου.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;P	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'εἶπεν δὲ Ἰσαὰκ τῷ υἱῷ αὐτοῦ, τί τοῦτο, ὃ ταχὺ εὗρες, ὦ τέκνον; ὁ δὲ εἶπεν, ὃ παρέδωκεν κύριος ὁ θεός σου ἐναντίον μου.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπεν	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'εἶπεν δὲ Ἰσαὰκ τῷ Ἰακώβ, ἔγγισόν μοι, καὶ ψηλαφήσω σε, τέκνον, εἰ σὺ εἶ ὁ υἱός μου Ἡσαῦ ἢ οὔ.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἤγγισεν δὲ Ἰακὼβ πρὸς Ἰσαὰκ τὸν πατέρα αὐτοῦ, καὶ ἐψηλάφησεν αὐτὸν καὶ εἶπεν, ἡ μὲν φωνή, φωνὴ Ἰακώβ, αἱ δὲ χεῖρες χεῖρες Ἡσαῦ.'
+Generate the lemma and morphological tags for the inflected verb: ἤγγισεν	ἤγγισεν	ἐγγίζω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ οὐκ ἐπέγνω αὐτόν· ἦσαν γὰρ αἱ χεῖρες αὐτοῦ ὡς αἱ χεῖρες Ἡσαῦ τοῦ ἀδελφοῦ αὐτοῦ δασεῖαι· καὶ ηὐλόγησεν αὐτόν.'
+Generate the lemma and morphological tags for the inflected verb: ἐπέγνω	ἐπέγνω	ἐπιγινώσκω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἶπεν, σὺ εἶ ὁ υἱός μου Ἡσαῦ; ὁ δὲ εἶπεν, ἐγώ.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;P	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἶπεν, προσάγαγέ μοι, καὶ φάγομαι ἀπὸ τῆς θήρας σου, τέκνον, ἵνα εὐλογήσῃ σὲ ἡ ψυχή μου. καὶ προσήγαγεν αὐτῷ, καὶ ἔφαγεν· καὶ εἰσήνεγκεν αὐτῷ οἶνον, καὶ ἔπιεν.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;MASC	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἶπεν αὐτῷ Ἰσαὰκ ὁ πατὴρ αὐτοῦ, ἔγγισόν μοι καὶ φίλησόν με, τέκνον.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;P	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἐγγίσας ἐφίλησεν αὐτόν, καὶ ὠσφράνθη τὴν ὀσμὴν τῶν ἱματίων αὐτοῦ καὶ ηὐλόγησεν αὐτὸν καὶ εἶπεν, ἰδοὺ ὀσμὴ τοῦ υἱοῦ μου ὡς ὀσμὴ ἀγροῦ πλήρους ὃν ηὐλόγησεν κύριος.'
+Generate the lemma and morphological tags for the inflected verb: ἐγγίσας	ἐγγίσας	ἐγγίζω V;PFV;ACT;NOM;SG;MASC;V.PTCP
+Given the context: 'καὶ δῴη σοί ὁ θεὸς ἀπὸ τῆς δρόσου τοῦ οὐρανοῦ καὶ ἀπὸ τῆς πιότητος τῆς γῆς καὶ πλῆθος σίτου καὶ οἴνου.'
+Generate the lemma and morphological tags for the inflected verb: δῴη	δῴη	δίδωμι V;FIN;PST;PFV;ACT;SG;OPT;3
+Given the context: 'καὶ δουλευσάτωσάν σοί ἔθνη, καὶ προσκυνήσουσίν σοί ἄρχοντες· καὶ γίνου κύριος τοῦ ἀδελφοῦ σου, καὶ προσκυνήσουσίν σοί οἱ υἱοὶ τοῦ πατρός σου. ὁ καταρώμενός σὲ ἐπικατάρατος, ὁ δὲ εὐλογῶν σὲ εὐλογημένος.'
+Generate the lemma and morphological tags for the inflected verb: δουλευσάτωσάν	δουλευσάτωσαν	δουλεύω V;FIN;IMP;PST;PFV;ACT;PL;3
+Given the context: 'καὶ ἐγένετο μετὰ τὸ παύσασθαι Ἰσαὰκ εὐλογοῦντα Ἰακὼβ τὸν υἱὸν αὐτοῦ καὶ ἐγένετο ὡς ἐξῆλθεν Ἰακὼβ ἀπὸ προσώπου Ἰσαὰκ τοῦ πατρὸς αὐτοῦ, καὶ Ἡσαῦ ὁ ἀδελφὸς αὐτοῦ ἦλθεν ἀπὸ τῆς θήρας.'
+Generate the lemma and morphological tags for the inflected verb: ἐγένετο	ἐγένετο	γίνομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'καὶ ἐποίησεν καὶ αὐτὸς ἐδέσματα καὶ προσήνεγκεν τῷ πατρὶ αὐτοῦ καὶ εἶπεν τῷ πατρί, ἀναστήτω ὁ πατήρ μου καὶ φαγέτω τῆς θήρας τοῦ υἱοῦ αὐτοῦ, ὅπως εὐλογήσῃ με ἡ ψυχή σου.'
+Generate the lemma and morphological tags for the inflected verb: ἐποίησεν	ἐποίησεν	ποιέω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἶπεν αὐτῷ Ἰσαὰκ ὁ πατὴρ αὐτοῦ, τίς εἶ σύ; ὁ δὲ εἶπεν, ἐγώ εἰμι ὁ υἱός σου ὁ πρωτότοκος Ἡσαῦ.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπεν	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἐξέστη δὲ Ἰσαὰκ ἔκστασιν μεγάλην σφόδρα καὶ εἶπεν, τίς οὖν ὁ θηρεύσας μοι θήραν καὶ εἰσενέγκας μοι; καὶ ἔφαγον ἀπὸ πάντων πρὸ τοῦ σὲ ἐλθεῖν καὶ ηὐλόγησα αὐτόν, καὶ εὐλογημένος ἔστω.'
+Generate the lemma and morphological tags for the inflected verb: ἐξέστη	ἐξέστη	ἐξίστημι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἐγένετο δὲ ἡνίκα ἤκουσεν Ἡσαῦ τὰ ῥήματα Ἰσαὰκ τοῦ πατρὸς αὐτοῦ, ἀνεβόησεν φωνὴν μεγάλην καὶ πικρὰν σφόδρα καὶ εἶπεν, εὐλόγησον δὴ κἀμέ, πάτερ.'
+Generate the lemma and morphological tags for the inflected verb: ἐγένετο	ἐγένετο	γίνομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'εἶπεν δὲ αὐτῷ, ἐλθὼν ὁ ἀδελφός σου μετὰ δόλου ἔλαβεν τὴν εὐλογίαν σου.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπεν	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἶπεν, δικαίως ἐκλήθη τὸ ὄνομα αὐτοῦ Ἰακώβ· ἐπτέρνικεν γάρ με ἤδη δεύτερον τοῦτο· τά τε πρωτοτόκιά μου εἴληφεν καὶ νῦν εἴληφεν τὴν εὐλογίαν μου. καὶ εἶπεν Ἡσαῦ τῷ πατρὶ αὐτοῦ, οὐχ ὑπελίπω μοι εὐλογίαν, πάτερ;'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἀποκριθεὶς δὲ Ἰσαὰκ εἶπεν τῷ Ἡσαῦ, εἰ κύριον αὐτὸν ἐποίησά σου καὶ πάντας τοὺς ἀδελφοὺς αὐτοῦ ἐποίησα αὐτοῦ οἰκέτας, σίτῳ καὶ οἴνῳ ἐστήρισα αὐτόν, σοί δὲ τί ποιήσω, τέκνον;'
+Generate the lemma and morphological tags for the inflected verb: ἀποκριθεὶς	ἀποκριθεὶς	ἀποκρίνω V;PFV;PASS;NOM;SG;MASC;V.PTCP
+Given the context: 'εἶπεν δὲ Ἡσαῦ πρὸς τὸν πατέρα αὐτοῦ, μὴ εὐλογία μία Σοὶ ἐστιν, πάτερ; εὐλόγησον δὴ κἀμέ, πάτερ. κατανυχθέντος δὲ Ἰσαὰκ ἀνεβόησεν φωνὴν Ἡσαῦ καὶ ἔκλαυσεν.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἀποκριθεὶς δὲ Ἰσαὰκ ὁ πατὴρ αὐτοῦ εἶπεν αὐτῷ, ἰδοὺ ἀπὸ τῆς πιότητος τῆς γῆς ἔσται ἡ κατοίκησίς σου καὶ ἀπὸ τῆς δρόσου τοῦ οὐρανοῦ ἄνωθεν·'
+Generate the lemma and morphological tags for the inflected verb: ἀποκριθεὶς	ἀποκριθεὶς	ἀποκρίνω V;PFV;PASS;NOM;SG;MASC;V.PTCP
+Given the context: 'καὶ ἐπὶ τῇ μαχαίρῃ σου ζήσῃ καὶ τῷ ἀδελφῷ σου δουλεύσεις· ἔσται δὲ ἡνίκα ἐὰν καθέλῃς, καὶ ἐκλύσεις τὸν ζυγὸν αὐτοῦ ἀπὸ τοῦ τραχήλου σου.'
+Generate the lemma and morphological tags for the inflected verb: ζήσῃ	ζήσεις V;IND;FIN;PFV;PST;A	ζάω V;FIN;SBJV;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἐνεκότει Ἡσαῦ τῷ Ἰακὼβ περὶ τῆς εὐλογίας, ἧς εὐλόγησεν αὐτὸν ὁ πατὴρ αὐτοῦ· εἶπεν δὲ Ἡσαῦ ἐν τῇ διανοίᾳ, ἐγγισάτωσαν αἱ ἡμέραι τοῦ πένθους τοῦ πατρός μου, ἵνα ἀποκτείνω Ἰακὼβ τὸν ἀδελφόν μου.'
+Generate the lemma and morphological tags for the inflected verb: ἐνεκότει	ἐνεκότει	ἐγκοτέω V;IND;FIN;PST;IPFV;ACT;SG;3
+Given the context: 'ἀπηγγέλη δὲ Ῥεβέκκα τὰ ῥήματα Ἡσαῦ τοῦ υἱοῦ αὐτῆς τοῦ πρεσβυτέρου, καὶ πέμψασα ἐκάλεσεν Ἰακὼβ τὸν υἱὸν αὐτῆς τὸν νεώτερον καὶ εἶπεν αὐτῷ, ἰδοὺ Ἡσαῦ ὁ ἀδελφός σου ἀπειλεῖ σοί τοῦ ἀποκτεῖναί σε.'
+Generate the lemma and morphological tags for the inflected verb: ἀπηγγέλη	ἀπηγγέλη	ἀπαγγέλλω V;IND;FIN;PST;PFV;PASS;SG;3
+Given the context: 'νῦν οὖν, τέκνον, ἄκουσόν μου τῆς φωνῆς καὶ ἀναστὰς ἀπόδραθι εἰς τὴν Μεσοποταμίαν πρὸς Λαβὰν τὸν ἀδελφόν μου εἰς Χαρρὰν'
+Generate the lemma and morphological tags for the inflected verb: ἄκουσόν	ἀκούω V;IND;FIN;PFV;PST;ACT;NOM;MASC	ἀκούω V;FUT;IPFV;ACT;SG;{ACC/NOM};NEUT;V.PTCP
+Given the context: 'καὶ οἴκησον μετ᾿ αὐτοῦ ἡμέρας τινὰς ἕως τοῦ ἀποστρέψαι τὸν θυμὸν καὶ τὴν ὀργὴν τοῦ ἀδελφοῦ σου ἀπὸ σου καὶ ἐπιλάθηται ἃ πεποίηκας αὐτῷ, καὶ ἀποστείλασα μεταπέμψομαί σὲ ἐκεῖθεν, μήποτε ἀτεκνωθῶ ἀπὸ τῶν δύο ὑμῶν ἐν ἡμέρᾳ μιᾷ.'
+Generate the lemma and morphological tags for the inflected verb: οἴκησον	οἴκησον	οἰκέω V;FIN;IMP;PST;PFV;ACT;SG;2
+Given the context: 'εἶπεν δὲ Ῥεβέκκα πρὸς Ἰσαάκ, προσώχθικα τῇ ζωῇ μου διὰ τὰς θυγατέρας τῶν υἱῶν Χέτ· εἰ λήμψεται Ἰακὼβ γυναῖκα ἀπὸ τῶν θυγατέρων τῆς γῆς ταύτης, ἵνα τί μοι ζῆν;'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπεν	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'προσκαλεσάμενος δὲ Ἰσαὰκ τὸν Ἰακὼβ εὐλόγησεν αὐτὸν καὶ ἐνετείλατο αὐτῷ λέγων, οὐ λήμψῃ γυναῖκα ἐκ τῶν θυγατέρων Χαναάν.'
+Generate the lemma and morphological tags for the inflected verb: προσκαλεσάμενος	προσκαλεσάμενον	προσκαλέω V;PFV;MID;NOM;SG;MASC;V.PTCP
+Given the context: 'ἀναστὰς ἀπόδραθι εἰς τὴν Μεσοποταμίαν εἰς τὸν οἶκον Βαθουὴλ τοῦ πατρὸς τῆς μητρός σου καὶ λαβὲ σεαυτῷ ἐκεῖθεν γυναῖκα ἐκ τῶν θυγατέρων Λαβὰν τοῦ ἀδελφοῦ τῆς μητρός σου.'
+Generate the lemma and morphological tags for the inflected verb: ἀναστὰς	ἀναστήσκω V;IND;FIN;PFV;PST;A	ἀνίστημι V;PFV;ACT;NOM;SG;MASC;V.PTCP
+Given the context: 'ὁ δὲ θεός μου εὐλογήσαι σὲ καὶ αὐξήσαι σὲ καὶ πληθύναι σε, καὶ ἔσῃ εἰς συναγωγὰς ἐθνῶν·'
+Generate the lemma and morphological tags for the inflected verb: εὐλογήσαι	εὐλογήσαι	εὐλογέω V;FIN;PST;PFV;ACT;SG;OPT;3
+Given the context: 'καὶ δῴη σοί τὴν εὐλογίαν Ἁβραὰμ τοῦ πατρός μου, σοί καὶ τῷ σπέρματί σου μετὰ σέ, κληρονομῆσαι τὴν γῆν τῆς παροικήσεώς σου, ἣν ἔδωκεν ὁ θεὸς τῷ Ἁβραάμ.'
+Generate the lemma and morphological tags for the inflected verb: δῴη	δῴη	δίδωμι V;FIN;PST;PFV;ACT;SG;OPT;3
+Given the context: 'καὶ ἀπέστειλεν Ἰσαὰκ τὸν Ἰακώβ, καὶ ἐπορεύθη εἰς τὴν Μεσοποταμίαν πρὸς Λαβὰν τὸν υἱὸν Βαθουὴλ τοῦ Σύρου ἀδελφὸν δὲ Ῥεβέκκας τῆς μητρὸς Ἰακὼβ καὶ Ἡσαῦ.'
+Generate the lemma and morphological tags for the inflected verb: ἀπέστειλεν	ἀποστέλλω V;IND;FIN;PFV;PS	ἀποστέλλω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'εἶδεν δὲ Ἡσαῦ ὅτι εὐλόγησεν Ἰσαὰκ τὸν Ἰακὼβ καὶ ἀπῴχετο εἰς τὴν Μεσοποταμίαν Συρίας λαβεῖν ἑαυτῷ ἐκεῖθεν γυναῖκα ἐν τῷ εὐλογεῖν αὐτὸν καὶ ἐνετείλατο αὐτῷ λέγων, οὐ λήμψῃ γυναῖκα ἀπὸ τῶν θυγατέρων Χαναάν,'
+Generate the lemma and morphological tags for the inflected verb: εἶδεν	εἶδεν	ὁράω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἤκουσεν Ἰακὼβ τοῦ πατρὸς καὶ τῆς μητρὸς αὐτοῦ καὶ ἐπορεύθη εἰς τὴν Μεσοποταμίαν Συρίας,'
+Generate the lemma and morphological tags for the inflected verb: ἤκουσεν	ἤκουσεν	ἀκούω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἶδεν Ἡσαῦ ὅτι πονηραί εἰσιν αἱ θυγατέρες Χαναὰν ἐναντίον Ἰσαὰκ τοῦ πατρὸς αὐτοῦ,'
+Generate the lemma and morphological tags for the inflected verb: εἶδεν	εἶδεν	ὁράω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἐπορεύθη Ἡσαῦ πρὸς Ἰσμαὴλ καὶ ἔλαβεν τὴν Μαελὲθ θυγατέρα Ἰσμαὴλ τοῦ υἱοῦ Ἁβραὰμ ἀδελφὴν Ναβαϊὼθ πρὸς ταῖς γυναιξὶν αὐτοῦ γυναῖκα.'
+Generate the lemma and morphological tags for the inflected verb: ἐπορεύθη	ἐπορεύθη	πορεύομαι V;IND;FIN;PST;PFV;PASS;SG;3
+Given the context: 'καὶ ἐξῆλθεν Ἰακὼβ ἀπὸ τοῦ φρέατος τοῦ ὅρκου καὶ ἐπορεύθη εἰς Χαρράν.'
+Generate the lemma and morphological tags for the inflected verb: ἐξῆλθεν	ἐξῆλθεν	ἐξέρχομαι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἀπήντησεν τόπῳ καὶ ἐκοιμήθη ἐκεῖ· ἔδυ γὰρ ὁ ἥλιος· καὶ ἔλαβεν ἀπὸ τῶν λίθων τοῦ τόπου καὶ ἔθηκεν πρὸς κεφαλῆς αὐτοῦ καὶ ἐκοιμήθη ἐν τῷ τόπῳ ἐκείνῳ.'
+Generate the lemma and morphological tags for the inflected verb: ἀπήντησεν	ἀπήντησεν	ἀπαντάω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἐνυπνιάσθη, καὶ ἰδοὺ κλίμαξ ἐστηριγμένη ἐν τῇ γῇ, ἧς ἡ κεφαλὴ ἀφικνεῖτο εἰς τὸν οὐρανόν, καὶ οἱ ἄγγελοι τοῦ θεοῦ ἀνέβαινον καὶ κατέβαινον ἐπ᾿ αὐτῆς.'
+Generate the lemma and morphological tags for the inflected verb: ἐνυπνιάσθη	ἐνυπνιάσθη	ἐνυπνιάζω V;IND;FIN;PST;PFV;PASS;SG;3
+Given the context: 'ὁ δὲ κύριος ἐπεστήρικτο ἐπ᾿ αὐτῆς καὶ εἶπεν, ἐγὼ κύριος ὁ θεὸς Ἁβραὰμ τοῦ πατρός σου καὶ ὁ θεὸς Ἰσαάκ· μὴ φοβοῦ· ἡ γῆ, ἐφ᾿ ἧς σὺ καθεύδεις ἐπ᾿ αὐτῆς, σοί δώσω αὐτὴν καὶ τῷ σπέρματί σου.'
+Generate the lemma and morphological tags for the inflected verb: ἐπεστήρικτο	ἐπεστήρικτο	ἐπιστηρίζω V;IND;FIN;PFV;SG;{MID/PASS};PST+PRF;3
+Given the context: 'καὶ ἔσται τὸ σπέρμα σου ὡς ἡ ἄμμος τῆς γῆς καὶ πλατυνθήσεται ἐπὶ θάλασσαν καὶ ἐπὶ λίβα καὶ ἐπὶ βορρᾶν καὶ ἐπ᾿ ἀνατολάς, καὶ ἐνευλογηθήσονται ἐν σοί πᾶσαι αἱ φυλαὶ τῆς γῆς καὶ ἐν τῷ σπέρματί σου.'
+Generate the lemma and morphological tags for the inflected verb: πλατυνθήσεται	πλατυνθήσεται	πλατύνω V;IND;FIN;FUT;IPFV;PASS;SG;3
+Given the context: 'καὶ ἰδοὺ ἐγὼ μετὰ σου διαφυλάσσων σὲ ἐν τῇ ὁδῷ πάσῃ, οὗ ἐὰν πορευθῇς, καὶ ἀποστρέψω σὲ εἰς τὴν γῆν ταύτην, ὅτι οὐ μή σὲ ἐγκαταλίπω ἕως τοῦ ποιῆσαί με πάντα, ὅσα ἐλάλησά σοι.'
+Generate the lemma and morphological tags for the inflected verb: διαφυλάσσων	διαφυλάσσων	διαφυλάσσω V;IPFV;PRS;ACT;NOM;SG;MASC;V.PTCP
+Given the context: 'καὶ ἐξηγέρθη Ἰακὼβ ἀπὸ τοῦ ὕπνου αὐτοῦ καὶ εἶπεν ὅτι, ἔστιν κύριος ἐν τῷ τόπῳ τούτῳ, ἐγὼ δὲ οὐκ ᾔδειν.'
+Generate the lemma and morphological tags for the inflected verb: ἐξηγέρθη	ἐξηγέρθη	ἐξεγείρω V;IND;FIN;PST;PFV;PASS;SG;3
+Given the context: 'καὶ ἐφοβήθη καὶ εἶπεν, ὡς φοβερὸς ὁ τόπος οὗτος· οὐκ ἔστιν τοῦτο ἀλλ᾿ ἢ οἶκος θεοῦ, καὶ αὕτη ἡ πύλη τοῦ οὐρανοῦ.'
+Generate the lemma and morphological tags for the inflected verb: ἐφοβήθη	ἐφοβήθη	φοβέω V;IND;FIN;PST;PFV;PASS;SG;3
+Given the context: 'καὶ ἀνέστη Ἰακὼβ τὸ πρωῒ καὶ ἔλαβεν τὸν λίθον, ὃν ὑπέθηκεν ἐκεῖ πρὸς κεφαλῆς αὐτοῦ, καὶ ἔστησεν αὐτὸν στήλην καὶ ἐπέχεεν ἔλαιον ἐπὶ τὸ ἄκρον αὐτῆς.'
+Generate the lemma and morphological tags for the inflected verb: ἀνέστη	ἀνέστη	ἀνίστημι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἐκάλεσεν Ἰακὼβ τὸ ὄνομα τοῦ τόπου ἐκείνου, Οἶκος θεοῦ· καί. Οὐλαμλούς ἦν ὄνομα τῇ πόλει τὸ πρότερον.'
+Generate the lemma and morphological tags for the inflected verb: ἐκάλεσεν	ἐκάλεσεν	καλέω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ηὔξατο Ἰακὼβ εὐχὴν λέγων, ἐὰν ᾖ κύριος ὁ θεὸς μετ᾿ ἐμοῦ καὶ διαφυλάξῃ με ἐν τῇ ὁδῷ ταύτῃ, ᾗ ἐγὼ πορεύομαι, καὶ δῷ μοι ἄρτον φαγεῖν καὶ ἱμάτιον περιβαλέσθαι'
+Generate the lemma and morphological tags for the inflected verb: ηὔξατο	ηὔξατο	εὔχομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'καὶ ἀποστρέψῃ με μετὰ σωτηρίας εἰς τὸν οἶκον τοῦ πατρός μου, καὶ ἔσται μοι κύριος εἰς θεόν,'
+Generate the lemma and morphological tags for the inflected verb: ἀποστρέψῃ	ἀποστρέψω V;IND;FIN;PFV;PST;A	ἀποστρέφω V;IND;FIN;FUT;IPFV;MID;SG;2
+Given the context: 'καὶ ὁ λίθος οὗτος, ὃν ἔστησα στήλην, ἔσται μοι οἶκος θεοῦ, καὶ πάντων, ὧν ἐάν μοι δῷς, δεκάτην ἀποδεκατώσω αὐτά σοι.'
+Generate the lemma and morphological tags for the inflected verb: ἔστησα	ἔστησα	ἵστημι V;IND;FIN;PST;PFV;ACT;SG;1
+Given the context: 'καὶ ἐξάρας Ἰακὼβ τοὺς πόδας ἐπορεύθη εἰς γῆν ἀνατολῶν πρὸς Λαβὰν τὸν υἱὸν Βαθουὴλ τοῦ Σύρου ἀδελφὸν δὲ Ῥεβέκκας μητρὸς Ἰακὼβ καὶ Ἡσαῦ.'
+Generate the lemma and morphological tags for the inflected verb: ἐξάρας	ἐξάρας	ἐξαίρω V;PFV;ACT;NOM;SG;MASC;V.PTCP
+Given the context: 'καὶ ὁρᾷ καὶ ἰδοὺ φρέαρ ἐν τῷ πεδίῳ, ἦσαν δὲ ἐκεῖ τρία ποίμνια προβάτων ἀναπαυόμενα ἐπ᾿ αὐτοῦ· ἐκ γὰρ τοῦ φρέατος ἐκείνου ἐπότιζον τὰ ποίμνια, λίθος δὲ ἦν μέγας ἐπὶ τῷ στόματι τοῦ φρέατος,'
+Generate the lemma and morphological tags for the inflected verb: ὁρᾷ	ἀναπαύομαι V;IND;FIN;PFV;PS	ὁράω V;IND;FIN;IPFV;PRS;ACT;SG;3
+Given the context: 'καὶ συνήγοντο ἐκεῖ πάντα τὰ ποίμνια καὶ ἀπεκύλιον τὸν λίθον ἀπὸ τοῦ στόματος τοῦ φρέατος καὶ ἐπότιζον τὰ πρόβατα καὶ ἀπεκαθίστων τὸν λίθον ἐπὶ τὸ στόμα τοῦ φρέατος εἰς τὸν τόπον αὐτοῦ.'
+Generate the lemma and morphological tags for the inflected verb: συνήγοντο	συνήγοντο	συνάγω V;IND;FIN;PST;IPFV;PASS;PL;3
+Given the context: 'εἶπεν δὲ αὐτοῖς Ἰακώβ, ἀδελφοί, πόθεν ἐστὲ ὑμεῖς; οἱ δὲ εἶπαν, ἐκ Χαρρὰν ἐσμέν.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπεν	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'εἶπεν δὲ αὐτοῖς, γινώσκετε Λαβὰν τὸν υἱὸν Ναχώρ; οἱ δὲ εἶπαν, γινώσκομεν.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'εἶπεν δὲ αὐτοῖς, ὑγιαίνει; οἱ δὲ εἶπαν, ὑγιαίνει. καὶ ἰδοὺ Ῥαχὴλ ἡ θυγάτηρ αὐτοῦ ἤρχετο μετὰ τῶν προβάτων.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;P	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἶπεν Ἰακώβ, ἔτι ἐστὶν ἡμέρα πολλή, οὔπω ὥρα συναχθῆναι τὰ κτήνη· ποτίσαντες τὰ πρόβατα ἀπελθόντες βόσκετε.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;PFV;PST;A	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'οἱ δὲ εἶπαν, οὐ δυνησόμεθα ἕως τοῦ συναχθῆναι πάντας τοὺς ποιμένας καὶ ἀποκυλίσωσιν τὸν λίθον ἀπὸ τοῦ στόματος τοῦ φρέατος, καὶ ποτιοῦμεν τὰ πρόβατα.'
+Generate the lemma and morphological tags for the inflected verb: εἶπαν	εἶπαν	λέγω V;IND;FIN;PST;PFV;ACT;PL;3
+Given the context: 'ἔτι αὐτοῦ λαλοῦντος αὐτοῖς καὶ Ῥαχὴλ ἡ θυγάτηρ Λαβὰν ἤρχετο μετὰ τῶν προβάτων τοῦ πατρὸς αὐτῆς· αὐτὴ γὰρ ἔβοσκεν τὰ πρόβατα τοῦ πατρὸς αὐτῆς.'
+Generate the lemma and morphological tags for the inflected verb: λαλοῦντος	λαλοῦντο	λαλέω V;IPFV;PRS;ACT;GEN;SG;{MASC/NEUT};V.PTCP
+Given the context: 'ἐγένετο δὲ ὡς εἶδεν Ἰακὼβ τὴν Ῥαχὴλ θυγατέρα Λαβὰν ἀδελφοῦ τῆς μητρὸς αὐτοῦ καὶ τὰ πρόβατα Λαβὰν ἀδελφοῦ τῆς μητρὸς αὐτοῦ, καὶ προσελθὼν Ἰακὼβ ἀπεκύλισεν τὸν λίθον ἀπὸ τοῦ στόματος τοῦ φρέατος καὶ ἐπότισεν τὰ πρόβατα Λαβὰν τοῦ ἀδελφοῦ τῆς μητρὸς αὐτοῦ.'
+Generate the lemma and morphological tags for the inflected verb: ἐγένετο	ἐγένετο	γίνομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'καὶ ἐφίλησεν Ἰακὼβ τὴν Ῥαχὴλ καὶ βοήσας τῇ φωνῇ αὐτοῦ ἔκλαυσεν.'
+Generate the lemma and morphological tags for the inflected verb: ἐφίλησεν	ἐφίλησεν	φιλέω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἀνήγγειλεν τῇ Ῥαχὴλ ὅτι ἀδελφὸς τοῦ πατρὸς αὐτῆς ἐστιν καὶ ὅτι υἱὸς Ῥεβέκκας ἐστίν, καὶ δραμοῦσα ἀπήγγειλεν τῷ πατρὶ αὐτῆς κατὰ τὰ ῥήματα ταῦτα.'
+Generate the lemma and morphological tags for the inflected verb: ἀνήγγειλεν	ἀνήγγειλεν	ἀναγγέλλω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἐγένετο δὲ ὡς ἤκουσεν Λαβὰν τὸ ὄνομα Ἰακὼβ τοῦ υἱοῦ τῆς ἀδελφῆς αὐτοῦ, ἔδραμεν εἰς συνάντησιν αὐτῷ καὶ περιλαβὼν αὐτὸν ἐφίλησεν καὶ εἰσήγαγεν αὐτὸν εἰς τὸν οἶκον αὐτοῦ. καὶ διηγήσατο τῷ Λαβὰν πάντας τοὺς λόγους τούτους.'
+Generate the lemma and morphological tags for the inflected verb: ἐγένετο	ἐγένετο	γίνομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'καὶ εἶπεν αὐτῷ Λαβάν, ἐκ τῶν ὀστῶν μου καὶ ἐκ τῆς σαρκός μου εἶ σύ. καὶ ἦν μετ᾿ αὐτοῦ μῆνα ἡμερῶν.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;P	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'εἶπεν δὲ Λαβὰν τῷ Ἰακώβ, ὅτι γὰρ ἀδελφός μου εἶ, οὐ δουλεύσεις μοι δωρεάν· ἀπάγγειλόν μοι, τίς ὁ μισθός σου ἐστιν.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπεν	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἠγάπησεν δὲ Ἰακὼβ τὴν Ῥαχὴλ καὶ εἶπεν, δουλεύσω σοί ἑπτὰ ἔτη περὶ Ῥαχὴλ τῆς θυγατρός σου τῆς νεωτέρας.'
+Generate the lemma and morphological tags for the inflected verb: ἠγάπησεν	ἠγάπησεν	ἀγαπάω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'εἶπεν δὲ αὐτῷ Λαβάν, βέλτιον δοῦναί με αὐτὴν σοί ἢ δοῦναί με αὐτὴν ἀνδρὶ ἑτέρῳ· οἴκησον μετ᾿ ἐμοῦ.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἐδούλευσεν Ἰακὼβ περὶ Ῥαχὴλ ἔτη ἑπτά, καὶ ἦσαν ἐναντίον αὐτοῦ ὡς ἡμέραι ὀλίγαι παρὰ τὸ ἀγαπᾶν αὐτὸν αὐτήν—'
+Generate the lemma and morphological tags for the inflected verb: ἐδούλευσεν	ἐδούλευσεν	δουλεύω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'εἶπεν δὲ Ἰακὼβ πρὸς Λαβάν, ἀπόδος τὴν γυναῖκά μου, πεπλήρωνται γὰρ αἱ ἡμέραι μου, ὅπως εἰσέλθω πρὸς αὐτήν.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπεν	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'συνήγαγεν δὲ Λαβὰν πάντας τοὺς ἄνδρας τοῦ τόπου καὶ ἐποίησεν γάμον.'
+Generate the lemma and morphological tags for the inflected verb: συνήγαγεν	συνήγαγεν	συνάγω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἐγένετο ἑσπέρα καὶ λαβὼν Λαβὰν Λείαν τὴν θυγατέρα αὐτοῦ εἰσήγαγεν αὐτὴν πρὸς Ἰακώβ, καὶ εἰσῆλθεν πρὸς αὐτὴν Ἰακώβ.'
+Generate the lemma and morphological tags for the inflected verb: ἐγένετο	ἐγένετο	γίνομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'ἔδωκεν δὲ Λαβὰν Λεία τῇ θυγατρὶ αὐτοῦ Ζέλφαν τὴν παιδίσκην αὐτοῦ αὐτῇ παιδίσκην.'
+Generate the lemma and morphological tags for the inflected verb: ἔδωκεν	ἔδωκεν	δίδωμι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἐγένετο δὲ πρωί, καὶ ἰδοὺ ἦν Λεία. εἶπεν δὲ Ἰακώβ, τῷ Λαβὰν τί τοῦτο ἐποίησάς μοι; οὐ περὶ Ῥαχὴλ ἐδούλευσα παρὰ Σοὶ; καὶ ἵνα τί παρελογίσω με;'
+Generate the lemma and morphological tags for the inflected verb: ἐγένετο	ἐγένετο	γίνομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'εἶπεν δὲ Λαβάν, οὐκ ἔστιν οὕτως ἐν τῷ τόπῳ ἡμῶν, δοῦναι τὴν νεωτέραν πρὶν ἢ τὴν πρεσβυτέραν·'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'συντέλεσον οὖν τὰ ἕβδομα ταύτης, καὶ δώσω σοί καὶ ταύτην ἀντὶ τῆς ἐργασίας, ἧς ἐργᾷ παρ᾿ ἐμοὶ ἔτι ἑπτὰ ἔτη ἕτερα.'
+Generate the lemma and morphological tags for the inflected verb: συντέλεσον	συντέλεσον	συντελέω V;FIN;IMP;PST;PFV;ACT;SG;2
+Given the context: 'ἐποίησεν δὲ Ἰακὼβ οὕτως καὶ ἀνεπλήρωσεν τὰ ἕβδομα ταύτης, καὶ ἔδωκεν αὐτῷ Λαβὰν Ῥαχὴλ τὴν θυγατέρα αὐτοῦ αὐτῷ γυναῖκα.'
+Generate the lemma and morphological tags for the inflected verb: ἐποίησεν	ἐποίησεν	ποιέω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἔδωκεν δὲ Λαβὰν Ῥαχὴλ τῇ θυγατρὶ αὐτοῦ Βάλλαν τὴν παιδίσκην αὐτοῦ αὐτῇ παιδίσκην.'
+Generate the lemma and morphological tags for the inflected verb: ἔδωκεν	ἔδωκεν	δίδωμι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἰσῆλθεν πρὸς Ῥαχήλ· ἠγάπησεν δὲ Ῥαχὴλ μᾶλλον ἢ Λείαν· καὶ ἐδούλευσεν αὐτῷ ἑπτὰ ἔτη ἕτερα.'
+Generate the lemma and morphological tags for the inflected verb: εἰσῆλθεν	εἰσῆλθεν	εἰσέρχομαι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἰδὼν δὲ κύριος ὅτι μισεῖται Λεία, ἤνοιξεν τὴν μήτραν αὐτῆς· Ῥαχὴλ δὲ ἦν στεῖρα.'
+Generate the lemma and morphological tags for the inflected verb: ἰδὼν	ἰδὼν	εἴδω V;PFV;ACT;NOM;SG;MASC;V.PTCP
+Given the context: 'καὶ συνέλαβεν Λεία καὶ ἔτεκεν υἱὸν τῷ Ἰακώβ· ἐκάλεσεν δὲ τὸ ὄνομα αὐτοῦ Ῥουβὴν λέγουσα, διότι εἶδέν μου κύριος τὴν ταπείνωσιν· νῦν με ἀγαπήσει ὁ ἀνήρ μου.'
+Generate the lemma and morphological tags for the inflected verb: συνέλαβεν	συνέλαβεν	συλλαμβάνω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ συνέλαβεν πάλιν Λεία καὶ ἔτεκεν υἱὸν δεύτερον τῷ Ἰακὼβ καὶ εἶπεν, ὅτι ἤκουσεν κύριος ὅτι μισοῦμαι καὶ προσέδωκέν μοι καὶ τοῦτον· ἐκάλεσεν δὲ τὸ ὄνομα αὐτοῦ Συμεών.'
+Generate the lemma and morphological tags for the inflected verb: συνέλαβεν	συνέλαβεν	συλλαμβάνω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ συνέλαβεν ἔτι καὶ ἔτεκεν υἱὸν καὶ εἶπεν, ἐν τῷ νῦν καιρῷ πρὸς ἐμοῦ ἔσται ὁ ἀνήρ μου, ἔτεκον γὰρ αὐτῷ τρεῖς υἱούς· διὰ τοῦτο ἐκάλεσεν τὸ ὄνομα αὐτοῦ Λευί.'
+Generate the lemma and morphological tags for the inflected verb: συνέλαβεν	συνέλαβεν	συλλαμβάνω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ συλλαβοῦσα ἔτι ἔτεκεν υἱὸν καὶ εἶπεν, νῦν ἔτι τοῦτο ἐξομολογήσομαι κυρίῳ· διὰ τοῦτο ἐκάλεσεν τὸ ὄνομα αὐτοῦ Ἰούδα. καὶ ἔστη τοῦ τίκτειν.'
+Generate the lemma and morphological tags for the inflected verb: συλλαβοῦσα	συλλαβοῦσα	συλλαμβάνω V;PFV;ACT;NOM;SG;FEM;V.PTCP
+Given the context: 'ἰδοῦσα δὲ Ῥαχὴλ ὅτι οὐ τέτοκεν τῷ Ἰακώβ, καὶ ἐζήλωσεν Ῥαχὴλ τὴν ἀδελφὴν αὐτῆς καὶ εἶπεν τῷ Ἰακώβ, δός μοι τέκνα· εἰ δὲ μή, τελευτήσω ἐγώ.'
+Generate the lemma and morphological tags for the inflected verb: ἰδοῦσα	ἰδοῦσα	εἴδω V;PFV;ACT;NOM;SG;FEM;V.PTCP
+Given the context: 'ἐθυμώθη δὲ Ἰακὼβ τῇ Ῥαχὴλ καὶ εἶπεν αὐτῇ, μὴ ἀντὶ θεοῦ ἐγώ εἰμι, ὃς ἐστέρησέν σὲ καρπὸν κοιλίας;'
+Generate the lemma and morphological tags for the inflected verb: ἐθυμώθη	ἐθυμώθη	θυμόω V;IND;FIN;PST;PFV;PASS;SG;3
+Given the context: 'εἶπεν δὲ Ῥαχὴλ τῷ Ἰακώβ, ἰδοὺ ἡ παιδίσκη μου Βαλλά· εἴσελθε πρὸς αὐτήν, καὶ τέξεται ἐπὶ τῶν γονάτων μου, καὶ τεκνοποιήσομαι κἀγὼ ἐξ αὐτῆς.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπεν	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἔδωκεν αὐτῷ Βάλλαν τὴν παιδίσκην αὐτῆς αὐτῷ γυναῖκα· εἰσῆλθεν δὲ πρὸς αὐτὴν Ἰακώβ.'
+Generate the lemma and morphological tags for the inflected verb: ἔδωκεν	ἔδωκεν	δίδωμι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ συνέλαβεν Βαλλὰ ἡ παιδίσκη Ῥαχὴλ καὶ ἔτεκεν τῷ Ἰακὼβ υἱόν.'
+Generate the lemma and morphological tags for the inflected verb: συνέλαβεν	συνέλαβεν	συλλαμβάνω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἶπεν Ῥαχήλ, ἔκρινέν μοι ὁ θεὸς καὶ ἐπήκουσεν τῆς φωνῆς μου καὶ ἔδωκέν μοι υἱόν· διὰ τοῦτο ἐκάλεσεν τὸ ὄνομα αὐτοῦ Δάν.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;MASC	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ συνέλαβεν ἔτι Βαλλὰ ἡ παιδίσκη Ῥαχὴλ καὶ ἔτεκεν υἱὸν δεύτερον τῷ Ἰακώβ.'
+Generate the lemma and morphological tags for the inflected verb: συνέλαβεν	συνέλαβεν	συλλαμβάνω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἶπεν Ῥαχὴλ συνελάβετό μοι ὁ θεός, καὶ συνανεστράφην τῇ ἀδελφῇ μου καὶ ἠδυνάσθην· καὶ ἐκάλεσεν τὸ ὄνομα αὐτοῦ Νεφθαλί.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'εἶδεν δὲ Λεία ὅτι ἔστη τοῦ τίκτειν καὶ ἔλαβεν Ζέλφαν τὴν παιδίσκην αὐτῆς καὶ ἔδωκεν αὐτὴν τῷ Ἰακώβ. γυναῖκα'
+Generate the lemma and morphological tags for the inflected verb: εἶδεν	εἶδεν	ὁράω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'εἰσῆλθεν δὲ πρὸς αὐτὴν Ἰακὼβ καὶ συνέλαβεν Ζέλφα ἡ παιδίσκη Λείας καὶ ἔτεκεν τῷ Ἰακὼβ υἱόν.'
+Generate the lemma and morphological tags for the inflected verb: εἰσῆλθεν	εἰσῆλθεν	εἰσέρχομαι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἶπεν Λεία, ἐν τύχῃ· καὶ ἐπωνόμασεν τὸ ὄνομα αὐτοῦ Γάδ.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπεν	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ συνέλαβεν Ζέλφα ἡ παιδίσκη Λείας καὶ ἔτεκεν ἔτι τῷ Ἰακὼβ υἱὸν δεύτερον.'
+Generate the lemma and morphological tags for the inflected verb: συνέλαβεν	συνέλαβεν	συλλαμβάνω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἶπεν Λεία μακαρία ἐγώ, ὅτι μακαρίζουσίν με αἱ γυναῖκες· καὶ ἐκάλεσεν τὸ ὄνομα αὐτοῦ Ἀσήρ.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπεν	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἐπορεύθη δὲ Ῥουβὴν ἐν ἡμέραις θερισμοῦ πυρῶν καὶ εὗρεν μῆλα μανδραγόρου ἐν τῷ ἀγρῷ καὶ ἤνεγκεν αὐτὰ πρὸς Λείαν τὴν μητέρα αὐτοῦ. εἶπεν δὲ Ῥαχὴλ τῇ Λεία, δός μοι τῶν μανδραγορῶν τοῦ υἱοῦ σου.'
+Generate the lemma and morphological tags for the inflected verb: ἐπορεύθη	ἐπορεύθη	πορεύομαι V;IND;FIN;PST;PFV;PASS;SG;3
+Given the context: 'εἶπεν δὲ Λεία, οὐχ ἱκανόν σοί ὅτι ἔλαβες τὸν ἄνδρα μου; μὴ καὶ τοὺς μανδραγόρας τοῦ υἱοῦ μου λήμψῃ; εἶπεν δὲ Ῥαχήλ, οὐχ οὕτως· κοιμηθήτω μετὰ σου τὴν νύκτα ταύτην ἀντὶ τῶν μανδραγορῶν τοῦ υἱοῦ σου.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπεν	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'εἰσῆλθεν δὲ Ἰακὼβ ἐξ ἀγροῦ ἑσπέρας, καὶ ἐξῆλθεν Λεία εἰς συνάντησιν αὐτῷ καὶ εἶπεν, πρός με εἰσελεύσῃ σήμερον· μεμίσθωμαι γάρ σὲ ἀντὶ τῶν μανδραγορῶν τοῦ υἱοῦ μου. καὶ ἐκοιμήθη μετ᾿ αὐτῆς τὴν νύκτα ἐκείνην.'
+Generate the lemma and morphological tags for the inflected verb: εἰσῆλθεν	εἰσῆλθεν	εἰσέρχομαι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἐπήκουσεν ὁ θεὸς Λείας, καὶ συλλαβοῦσα ἔτεκεν τῷ Ἰακὼβ υἱὸν πέμπτον.'
+Generate the lemma and morphological tags for the inflected verb: ἐπήκουσεν	ἐπήκουσεν	ἐπακούω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἶπεν Λεία, ἔδωκεν ὁ θεὸς τὸν μισθόν μου ἀνθ᾿ οὗ ἔδωκα τὴν παιδίσκην μου τῷ ἀνδρί μου· καὶ ἐκάλεσεν τὸ ὄνομα αὐτοῦ Ἰσσαχάρ, ὅ ἐστιν Μισθός.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;MASC	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ συνέλαβεν ἔτι Λεία καὶ ἔτεκεν υἱὸν ἕκτον τῷ Ἰακώβ.'
+Generate the lemma and morphological tags for the inflected verb: συνέλαβεν	συνέλαβεν	συλλαμβάνω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ εἶπεν Λεία, δεδώρηταί μοι ὁ θεὸς δῶρον καλόν· ἐν τῷ νῦν καιρῷ αἱρετιεῖ με ὁ ἀνήρ μου, ἔτεκον γὰρ αὐτῷ υἱοὺς ἕξ· καὶ ἐκάλεσεν τὸ ὄνομα αὐτοῦ Ζαβουλών.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ μετὰ τοῦτο ἔτεκεν θυγατέρα καὶ ἐκάλεσεν τὸ ὄνομα αὐτῆς Δίνα.'
+Generate the lemma and morphological tags for the inflected verb: ἔτεκεν	ἔτεκεν	τίκτω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἐμνήσθη δὲ ὁ θεὸς τῆς Ῥαχήλ, καὶ ἐπήκουσεν αὐτῆς ὁ θεὸς καὶ ἀνέῳξεν αὐτῆς τὴν μήτραν,'
+Generate the lemma and morphological tags for the inflected verb: ἐμνήσθη	ἐμνήσθη	μιμνήσκω V;IND;FIN;PST;PFV;PASS;SG;3
+Given the context: 'καὶ συλλαβοῦσα ἔτεκεν τῷ Ἰακὼβ υἱόν. εἶπεν δὲ Ῥαχήλ, ἀφεῖλεν ὁ θεός μου τὸ ὄνειδος·'
+Generate the lemma and morphological tags for the inflected verb: συλλαβοῦσα	συλλαβοῦσα	συλλαμβάνω V;PFV;ACT;NOM;SG;FEM;V.PTCP
+Given the context: 'καὶ ἐκάλεσεν τὸ ὄνομα αὐτοῦ Ἰωσήφ λέγουσα προσθέτω ὁ θεός μοι υἱὸν ἕτερον.'
+Generate the lemma and morphological tags for the inflected verb: ἐκάλεσεν	ἐκάλεσεν	καλέω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἐγένετο δὲ ὡς ἔτεκεν Ῥαχὴλ τὸν Ἰωσήφ, εἶπεν Ἰακὼβ τῷ Λαβὰν ἀπόστειλόν με, ἵνα ἀπέλθω εἰς τὸν τόπον μου καὶ εἰς τὴν γῆν μου.'
+Generate the lemma and morphological tags for the inflected verb: ἐγένετο	ἐγένετο	γίνομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'ἀπόδος τὰς γυναῖκάς μου καὶ τὰ παιδία, περὶ ὧν δεδούλευκά σοι, ἵνα ἀπέλθω· σὺ γὰρ γινώσκεις τὴν δουλείαν, ἣν δεδούλευκά σοι.'
+Generate the lemma and morphological tags for the inflected verb: ἀπόδος	ἀποδούω V;IND;FIN;PFV;PST;A	ἀποδίδωμι V;FIN;IMP;PST;PFV;ACT;SG;2
+Given the context: 'εἶπεν δὲ αὐτῷ Λαβάν, εἰ εὗρον χάριν ἐναντίον σου, οἰωνισάμην ἄν· εὐλόγησεν γάρ με ὁ θεὸς τῇ σῇ εἰσόδῳ.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπον V;IND;FIN;PFV;PST;ACT;NOM;	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'διάστειλον τὸν μισθόν σου πρός με, καὶ δώσω.'
+Generate the lemma and morphological tags for the inflected verb: διάστειλον	διάστειλον	διαστέλλω V;FIN;IMP;PST;PFV;ACT;SG;2
+Given the context: 'εἶπεν δὲ αὐτῷ Ἰακώβ, σὺ γινώσκεις ἃ δεδούλευκά σοί καὶ ὅσα ἦν κτήνη σου μετ᾿ ἐμοῦ·'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπεν	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'μικρὰ γὰρ ἦν ὅσα σοί ἦν ἐναντίον ἐμοῦ, καὶ ηὐξήθη εἰς πλῆθος, καὶ ηὐλόγησέν σὲ κύριος ἐπὶ τῷ ποδί μου. νῦν οὖν πότε ποιήσω κἀγὼ ἐμαυτῷ οἶκον;'
+Generate the lemma and morphological tags for the inflected verb: ηὐξήθη	ηὐξήθη	αὐξάνω V;IND;FIN;PST;PFV;PASS;SG;3
+Given the context: 'καὶ εἶπεν αὐτῷ Λαβάν, τί σοί δώσω; εἶπεν δὲ αὐτῷ Ἰακώβ, οὐ δώσεις μοι οὐθέν· ἐὰν ποιήσῃς μοι τὸ ῥῆμα τοῦτο, πάλιν ποιμανῶ τὰ πρόβατά σου καὶ φυλάξω.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπεν	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'παρελθάτω πάντα τὰ πρόβατά σου σήμερον, καὶ διαχώρισον ἐκεῖθεν πᾶν πρόβατον φαιὸν ἐν τοῖς ἀρνάσιν καὶ πᾶν διάλευκον καὶ ῥαντὸν ἐν ταῖς αἰξίν· ἔσται μοι μισθός.'
+Generate the lemma and morphological tags for the inflected verb: παρελθάτω	παρελθάτω	παρέρχομαι V;FIN;IMP;PST;PFV;ACT;SG;3
+Given the context: 'καὶ ἐπακούσεταί μοι ἡ δικαιοσύνη μου ἐν τῇ ἡμέρᾳ τῇ αὔριον, ὅτι ἐστὶν ὁ μισθός μου ἐνώπιόν σου· πᾶν, ὃ ἐὰν μὴ ᾖ ῥαντὸν καὶ διάλευκον ἐν ταῖς αἰξὶν καὶ φαιὸν ἐν τοῖς ἀρνάσιν, κεκλεμμένον ἔσται παρ᾿ ἐμοί.'
+Generate the lemma and morphological tags for the inflected verb: ἐπακούσεταί	ἐπακούω V;IND;FIN;PFV;PST;A	ἐπακούω V;IND;FIN;FUT;IPFV;MID;SG;3
+Given the context: 'εἶπεν δὲ αὐτῷ Λαβάν, ἔστω κατὰ τὸ ῥῆμά σου.'
+Generate the lemma and morphological tags for the inflected verb: εἶπεν	εἶπεν	εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ διέστειλεν διέστειλεν ἐν τῇ ἡμέρᾳ ἐκείνῃ τοὺς τράγους τοὺς ῥαντοὺς καὶ τοὺς διαλεύκους καὶ πάσας τὰς αἶγας τὰς ῥαντὰς καὶ τὰς διαλεύκους καὶ πᾶν, ὃ ἦν λευκὸν ἐν αὐτοῖς, καὶ πᾶν, ὃ ἦν φαιὸν ἐν τοῖς ἀρνάσιν, καὶ ἔδωκεν διὰ χειρὸς τῶν υἱῶν αὐτοῦ.'
+Generate the lemma and morphological tags for the inflected verb: διέστειλεν	διέστειλεν	διαστέλλω V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'καὶ ἀπέστησεν ὁδὸν τριῶν ἡμερῶν ἀνὰ μέσον αὐτῶν καὶ ἀνὰ μέσον Ἰακώβ· Ἰακὼβ δὲ ἐποίμαινεν τὰ πρόβατα Λαβὰν τὰ ὑπολειφθέντα.'
+Generate the lemma and morphological tags for the inflected verb: ἀπέστησεν	ἀποστέω V;IND;FIN;PFV;PST;A	ἀφίστημι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἔλαβεν δὲ ἑαυτῷ Ἰακὼβ ῥάβδον στυρακίνην χλωρὰν καὶ καρυίνην καὶ πλατάνου, καὶ ἐλέπισεν αὐτὰς Ἰακὼβ λεπίσματα λευκὰ περισύρων τὸ χλωρόν· ἐφαίνετο δὲ ἐπὶ ταῖς ῥάβδοις τὸ λευκόν, ὃ ἐλέπισεν, ποικίλον.'
+Generate the lemma and morphological tags for the inflected verb: ἔλαβεν	ἔλαβεν	λαμβάνω V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'καὶ παρέθηκεν τὰς ῥάβδους, ἃς ἐλέπισεν, ἐν ταῖς ληνοῖς τῶν ποτιστηρίων τοῦ ὕδατος, ἵνα, ὡς ἄν ἔλθωσιν τὰ πρόβατα πιεῖν ἐνώπιον τῶν ῥάβδων, ἐλθόντων αὐτῶν εἰς τὸ πιεῖν,'
+Generate the lemma and morphological tags for the inflected verb: παρέθηκεν	παρέθηκεν	παρατίθημι V;IND;FIN;PST;PFV;ACT;SG;3
+Given the context: 'ἐγκισσήσωσιν τὰ πρόβατα εἰς τὰς ῥάβδους· καὶ ἔτικτον τὰ πρόβατα διάλευκα καὶ ποικίλα καὶ σποδοειδῆ ῥαντά.'
+Generate the lemma and morphological tags for the inflected verb: ἐγκισσήσωσιν	ἐγκισσήσωσιν	ἐγκισσάω V;FIN;SBJV;PST;PFV;ACT;PL;3
+Given the context: 'τοὺς δὲ ἀμνοὺς διέστειλεν Ἰακὼβ καὶ ἔστησεν ἐναντίον τῶν προβάτων κριὸν διάλευκον καὶ πᾶν ποικίλον ἐν τοῖς ἀμνοῖς· καὶ διεχώρισεν ἑαυτῷ ποίμνια καθ᾿ ἑαυτὸν καὶ οὐκ ἔμιξεν αὐτὰ εἰς τὰ πρόβατα Λαβάν.'
+Generate the lemma and morphological tags for the inflected verb: διέστειλεν	διέστειλεν	διαστέλλω V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'ἐγένετο δὲ ἐν τῷ καιρῷ, ᾧ ἐνεκίσσησεν τὰ πρόβατα ἐν γαστρὶ λαμβάνοντα, ἔθηκεν Ἰακὼβ τὰς ῥάβδους ἐναντίον τῶν προβάτων ἐν ταῖς ληνοῖς τοῦ ἐγκισσῆσαι αὐτὰ κατὰ τὰς ῥάβδους·'
+Generate the lemma and morphological tags for the inflected verb: ἐγένετο	ἐγένετο	γίνομαι V;IND;FIN;PST;PFV;MID;SG;3
+Given the context: 'ἡνίκα δ᾿ ἄν ἔτεκον τὰ πρόβατα, οὐκ ἐτίθει· ἐγένετο δὲ τὰ ἄσημα τοῦ Λαβάν, τὰ δὲ ἐπίσημα τοῦ Ἰακώβ.'
+Generate the lemma and morphological tags for the inflected verb: ἔτεκον	ἐτίθει	τίκτω V;IND;FIN;PST;PFV;ACT;PL;3
+Given the context: 'καὶ ἐπλούτησεν ὁ ἄνθρωπος σφόδρα σφόδρα, καὶ ἐγένετο αὐτῷ κτήνη πολλὰ καὶ βόες καὶ παῖδες καὶ παιδίσκαι καὶ κάμηλοι καὶ ὄνοι.'
+Generate the lemma and morphological tags for the inflected verb: ἐπλούτησεν	ἐπλούτησεν	πλουτέω V;IND;FIN;PST;PFV;ACT;SG;3
+
+Inverse Task Evaluation (Lemma/MSD):
+  Lemma accuracy: 0.1584 (64/404)
+  Lemma mean Levenshtein distance: 4.0569
+  MSD accuracy (exact set match): 0.0000 (0/404)
+  MSD micro-precision: 0.7134  micro-recall: 0.1485  micro-F1: 0.2458
+  Example Mismatches (prediction | gold):
+    ἦλθον | ἔρχομαι V;IND;FIN;PST;PFV;ACT;PL;3
+    εἶπον V;IND;FIN;PFV;PST;ACT;NOM; | εἶπον V;IND;FIN;PST;PFV;ACT;SG;3
+    κατεβιάζετο | καταβιάζομαι V;IND;FIN;PST;IPFV;SG;{MID/PASS};3
+    κοιμήθημι V;IND;FIN;PFV;PST;A | κοιμάω V;PFV;PASS;NFIN
+    ἐξεκαλοῦντο | ἐκκαλέω V;IND;FIN;PST;IPFV;PL;{MID/PASS};3

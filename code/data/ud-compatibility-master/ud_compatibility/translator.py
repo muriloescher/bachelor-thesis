@@ -8,76 +8,10 @@ from .utils import CoNLLRow, UdFeat, UdTag, UmFeat, UmTag, ud2um_mapping
 EMPTY_FEAT = UmFeat("_")
 
 
-def handle_georgian_arguments(ud: UdTag) -> List[UmFeat]:
-    """Handle Georgian-style arguments with [subj], [obj], [io] markers."""
-    def handle_argument(parts, arg_type):
-        parts_str = str(parts)
-        
-        # Determine case marker
-        if arg_type == "subj":
-            case = "NOM"
-        elif arg_type == "obj":
-            case = "ACC"
-        elif arg_type == "io":
-            case = "DAT"
-        else:
-            return "_"
-        
-        # Extract person
-        if "Person=1" in parts_str or "=1" in parts_str:
-            person = "1"
-        elif "Person=2" in parts_str or "=2" in parts_str:
-            person = "2"
-        elif "Person=3" in parts_str or "=3" in parts_str:
-            person = "3"
-        else:
-            person = ""
-        
-        # Extract number
-        if "Number=Plur" in parts_str or "=Plur" in parts_str:
-            number = "PL"
-        elif "Number=Sing" in parts_str or "=Sing" in parts_str:
-            number = "SG"
-        else:
-            number = ""
-        
-        if person and number:
-            return f"{case}({person},{number})"
-        return "_"
-    
-    arg_parts = [p for p in ud if "[" in p and "[psor]" not in p]
-    if not arg_parts:
-        return [EMPTY_FEAT]
-    
-    contributions = []
-    
-    # Check for subject
-    subj_parts = [p for p in arg_parts if "[subj]" in p]
-    if subj_parts:
-        arg = handle_argument(subj_parts, "subj")
-        if arg != "_":
-            contributions.append(UmFeat(arg))
-    
-    # Check for object
-    obj_parts = [p for p in arg_parts if "[obj]" in p]
-    if obj_parts:
-        arg = handle_argument(obj_parts, "obj")
-        if arg != "_":
-            contributions.append(UmFeat(arg))
-    
-    # Check for indirect object
-    io_parts = [p for p in arg_parts if "[io]" in p]
-    if io_parts:
-        arg = handle_argument(io_parts, "io")
-        if arg != "_":
-            contributions.append(UmFeat(arg))
-    
-    return contributions if contributions else [EMPTY_FEAT]
-
-
 def handle_arguments(ud: UdTag) -> List[UmFeat]:
     def handle_argument(parts):
         parts = str(parts)
+        print(parts)
         if "[psed]" in parts or "[gram]" in parts:
             return "_"
 
@@ -87,6 +21,7 @@ def handle_arguments(ud: UdTag) -> List[UmFeat]:
             kind = "DA"
         elif "[abs]" in parts:
             kind = "AB"
+
         else:
             print(parts)
             raise AssertionError
@@ -177,14 +112,11 @@ def process_tag(part: UdFeat) -> UmFeat:
         return um_part
 
 
-def ud2um(ud_tag: UdTag, use_georgian_args: bool = False) -> UmTag:
+def ud2um(ud_tag: UdTag) -> UmTag:
     um_tag: List[UmFeat] = []
     possession = handle_possession(ud_tag)
     um_tag.append(possession)
-    if use_georgian_args:
-        arguments = handle_georgian_arguments(ud_tag)
-    else:
-        arguments = handle_arguments(ud_tag)
+    arguments = handle_arguments(ud_tag)
     um_tag.extend(arguments)
 
     for part in ud_tag:
@@ -238,6 +170,11 @@ class Translator:
 
 
 class AmharicTranslator(Translator):
+    def lgspec_assert(self, cols: CoNLLRow, tags: Set[str]) -> None:
+        assert "V" in tags or "V.PTCP" in tags or "V.CVB" in tags or "V.MSDR" in tags
+
+
+class AncientGreekTranslator(Translator):
     def lgspec_assert(self, cols: CoNLLRow, tags: Set[str]) -> None:
         assert "V" in tags or "V.PTCP" in tags or "V.CVB" in tags or "V.MSDR" in tags
 
@@ -447,24 +384,8 @@ class GermanTranslator(Translator):
 
 
 class GeorgianTranslator(Translator):
-    """Translator for Georgian with support for [subj], [obj], [io] arguments."""
-    
-    def basic_convert(self, ud_tag: UdTag) -> UmTag:
-        """Override to use Georgian-specific argument handler."""
-        return ud2um(ud_tag, use_georgian_args=True)
-    
-    def lgspec_modify(self, cols: CoNLLRow, um: UmTag) -> UmTag:
-        """Clean up Georgian-specific tags."""
-        tags = set(um.split(";"))
-        # Remove standalone person/number markers if already in NOM/ACC/DAT
-        has_arg = any("(" in tag for tag in tags)
-        if has_arg:
-            tags.discard("1")
-            tags.discard("2")
-            tags.discard("3")
-            tags.discard("SG")
-            tags.discard("PL")
-        return UmTag(";".join(tags))
+    def lgspec_assert(self, cols: CoNLLRow, tags: Set[str]) -> None:
+        assert "V" in tags or "V.PTCP" in tags or "V.CVB" in tags or "V.MSDR" in tags
 
 
 class HebrewTranslator(Translator):

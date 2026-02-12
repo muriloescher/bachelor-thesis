@@ -5,9 +5,9 @@ Language: eng
 Test examples: 1171
 
 Results:
-  Lemma Accuracy: 0.0000 (0/1171)
-  Lemma Mean Levenshtein: 5.1998
-  MSD Accuracy: 0.0000 (0/1171)
-  MSD Micro-Precision: 0.0000
-  MSD Micro-Recall: 0.0000
-  MSD F1: 0.0000
+  Lemma Accuracy: 0.4910 (575/1171)
+  Lemma Mean Levenshtein: 5.4654
+  MSD Accuracy: 0.0675 (79/1171)
+  MSD Micro-Precision: 0.6636
+  MSD Micro-Recall: 0.2933
+  MSD F1: 0.4068

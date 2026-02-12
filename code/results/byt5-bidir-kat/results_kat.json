@@ -1,0 +1,39 @@
+{
+  "model_type": "byt5",
+  "model_name": "results/byt5-bidir-kat/checkpoint-3750",
+  "language": "kat",
+  "metrics": {
+    "forward": {
+      "test": {
+        "accuracy": 0.301,
+        "correct": 301,
+        "total": 1000
+      }
+    },
+    "inverse": {
+      "test": {
+        "lemma": {
+          "accuracy": 0.145,
+          "mean_levenshtein": 2.294,
+          "correct": 145,
+          "total": 1000
+        },
+        "msd": {
+          "accuracy": 0.0,
+          "f1": 0.3639228042536432,
+          "precision": 0.49411764705882355,
+          "recall": 0.2880299251870324,
+          "correct": 0,
+          "total": 1000
+        }
+      }
+    }
+  },
+  "timestamp": "2026-02-10T17:31:12.100503",
+  "direction": "inverse",
+  "configuration": {
+    "use_context": false,
+    "batch_size": 16,
+    "task": "bidirectional"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "model_type": "byt5",
+  "model_name": "results/byt5-forward-eng/checkpoint-3750",
+  "language": "eng",
+  "metrics": {
+    "forward": {
+      "test": {
+        "accuracy": 0.971,
+        "correct": 971,
+        "total": 1000
+      }
+    }
+  },
+  "timestamp": "2026-02-07T13:21:22.594389",
+  "direction": "forward",
+  "configuration": {
+    "use_context": false,
+    "batch_size": 16,
+    "task": "forward"
+  }
+}

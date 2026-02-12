@@ -13,6 +13,7 @@ _languages = [
     #  - The full name identifies the UD folder and the Translator object.
     # (ISO 693-1 (usually), ISO 693-3, English name)
     ("am", "amh", "Amharic"),
+    ("grc", "grc", "Ancient Greek"),
     ("ar", "ara", "Arabic"),
     ("eu", "eus", "Basque"),
     ("bg", "bul", "Bulgarian"),

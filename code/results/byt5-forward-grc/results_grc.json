@@ -1,0 +1,21 @@
+{
+  "model_type": "byt5",
+  "model_name": "results/byt5-forward-grc/checkpoint-3750",
+  "language": "grc",
+  "metrics": {
+    "forward": {
+      "test": {
+        "accuracy": 0.389,
+        "correct": 389,
+        "total": 1000
+      }
+    }
+  },
+  "timestamp": "2026-02-08T06:30:36.105240",
+  "direction": "forward",
+  "configuration": {
+    "use_context": false,
+    "batch_size": 16,
+    "task": "forward"
+  }
+}

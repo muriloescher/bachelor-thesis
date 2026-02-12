@@ -1,0 +1,1012 @@
+Generate the lemma and morphological tags for the following inflected verb: m⁵ʔmé⁵ʔo³	n⁵ndí⁵ ʔmé⁵ V;IRR;PL;3;	m⁵ʔmé⁵ V;IRR;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: m⁵ʔmé⁵há⁵á⁵	n⁵ndí⁵ ʔmé⁵ V;IRR;PL;1+I	m⁵ʔmé⁵ V;IRR;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: m⁵ʔmé⁵ha³	n⁵ndí⁵ ʔmé⁵ V;IRR;SG;1;	m⁵ʔmé⁵ V;IRR;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: kí⁵ʔmé⁵hâ³¹	n⁵ndí⁵kí⁵ʔmé⁵ V;SBJV;P	m⁵ʔmé⁵ V;SBJV;PL;1+EXCL
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵tʔoén⁵há⁵á⁵	n⁵ndí⁵tʔoén⁵ V;PROG;PL;1+	m⁵ʔmé⁵ V;PROG;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: kí⁵ʔmé⁵há⁵á⁵	n⁵ndí⁵kí⁵ʔmé⁵ V;SBJV;P	m⁵ʔmé⁵ V;SBJV;PL;1+INCL
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵tʔoén⁵ha³	n⁵ndí⁵tʔoén⁵ V;PROG;SG;1;	m⁵ʔmé⁵ V;PROG;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵tʔoén⁵ʔu³	n⁵ndí⁵tʔoén⁵ V;PROG;SG;2;	m⁵ʔmé⁵ V;PROG;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: ko³ʔmé⁵há⁵á⁵	n⁵ndí⁵ko³ ʔmé⁵ V;IPFV;PL	m⁵ʔmé⁵ V;IPFV;PL;1+INCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵tʔoén⁵ʔo³	n⁵ndí⁵tʔoén⁵ V;PROG;PL;	m⁵ʔmé⁵ V;PROG;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: m⁵ʔmé⁵én⁵	n⁵ndí⁵ ʔmé⁵ V;IRR;SG;3;	m⁵ʔmé⁵ V;IRR;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵tʔoén⁵én⁵	n⁵ndí⁵tʔoén⁵ V;PROG;SG;3	m⁵ʔmé⁵ V;PROG;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: kí⁵ʔmé⁵ʔo³	n⁵ndí⁵kí⁵ʔmé⁵ V;SBJV;P	m⁵ʔmé⁵ V;SBJV;PL;3
+Generate the lemma and morphological tags for the following inflected verb: m⁵ʔmé⁵ʔu³	n⁵ndí⁵ ʔmé⁵ V;IRR;SG;2;	m⁵ʔmé⁵ V;IRR;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵tʔoén⁵én⁵	n⁵ndí⁵tʔoén⁵ V;PROG;SG;3	m⁵ʔmé⁵ V;PROG;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: kí⁵ʔmé⁵ʔu³	n⁵ndí⁵kí⁵ʔmé⁵ V;SBJV;S	m⁵ʔmé⁵ V;SBJV;SG;2
+Generate the lemma and morphological tags for the following inflected verb: kí⁵ʔmé⁵ha³	n⁵ndí⁵kí⁵ʔmé⁵ V;SBJV;S	m⁵ʔmé⁵ V;SBJV;SG;1
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵tʔoén⁵hâ³¹	n⁵ndí⁵tʔoén⁵ V;PROG;PL;1	m⁵ʔmé⁵ V;PROG;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵tʔoén⁵hâ³¹	n⁵ndí⁵tʔoén⁵ V;PFV;PL;1+	m⁵ʔmé⁵ V;PFV;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: ko³ʔmé⁵én⁵	n⁵ndí⁵ko³ ʔmé⁵ V;IPFV;SG	m⁵ʔmé⁵ V;IPFV;SG;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: tí⁵tʔoén⁵há⁵á⁵	n⁵ndí⁵tʔoén⁵ V;PFV;PL;1+	m⁵ʔmé⁵ V;PFV;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: ko³ʔmé⁵hâ³¹	n⁵ndí⁵ko³ ʔmé⁵ V;IPFV;PL	m⁵ʔmé⁵ V;IPFV;PL;1+EXCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: ko³ʔmé⁵ʔu³	n⁵ndí⁵ko³ ʔmé⁵ V;IPFV;SG	m⁵ʔmé⁵ V;IPFV;SG;2;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵tʔoén⁵hâ³¹	n⁵ndí⁵tʔoén⁵ V;PROG;PL;	m⁵ʔmé⁵ V;PROG;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵tʔoén⁵ʔo³	n⁵ndí⁵tʔoén⁵ V;PROG;PL;	m⁵ʔmé⁵ V;PROG;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵tʔoén⁵há⁵á⁵	n⁵ndí⁵tʔoén⁵ V;PROG;PL;1+	m⁵ʔmé⁵ V;PROG;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: kí⁵ʔmé⁵én⁵	n⁵ndí⁵kí⁵ʔmé⁵ V;SBJV;S	m⁵ʔmé⁵ V;SBJV;SG;3
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵tʔoén⁵ha³	n⁵ndí⁵tʔoén⁵ V;PROG;SG;1	m⁵ʔmé⁵ V;PROG;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵tʔoén⁵ha³	n⁵ndí⁵tʔoén⁵ V;PFV;SG;1;	m⁵ʔmé⁵ V;PFV;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: m⁵ʔmé⁵hâ³¹	n⁵ndí⁵ ʔmé⁵ V;IRR;PL;1+	m⁵ʔmé⁵ V;IRR;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: ko³ʔmé⁵ʔo³	n⁵ndí⁵ko³ ʔmé⁵ V;IPFV;PL	m⁵ʔmé⁵ V;IPFV;PL;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: ko³ʔmé⁵ha³	n⁵ndí⁵ko³ ʔmé⁵ V;IPFV;SG	m⁵ʔmé⁵ V;IPFV;SG;1;PRS
+Generate the lemma and morphological tags for the following inflected verb: tí⁵tʔoén⁵én⁵	n⁵ndí⁵tʔoén⁵ V;PFV;SG;3;	m⁵ʔmé⁵ V;PFV;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵tʔoén⁵ʔo³	n⁵ndí⁵tʔoén⁵ V;PFV;PL;3;	m⁵ʔmé⁵ V;PFV;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵tʔoén⁵ʔu³	n⁵ndí⁵tʔoén⁵ V;PFV;SG;2;	m⁵ʔmé⁵ V;PFV;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵tʔoén⁵ʔu³	n⁵ndí⁵tʔoén⁵ V;PROG;SG;2;	m⁵ʔmé⁵ V;PROG;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: xuìʔ¹nʔo⁵³oʔ³	n⁵ndí⁵xuìʔ¹tzʔon³ V;I	n⁵nchui³nʔo⁵³ V;PFV;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: xuìʔ¹nʔô³¹	n⁵nduìʔ¹tzʔon³ V;IPFV;PL;	n⁵nchui³nʔo⁵³ V;PFV;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: ki³chui³nʔo⁵³	n⁵ndui³tzʔon³ V;SBJV;SG;2	n⁵nchui³nʔo⁵³ V;SBJV;SG;3
+Generate the lemma and morphological tags for the following inflected verb: xui³nʔoʔ⁵³	n⁵ndui³nʔo³ V;IPFV;SG;2;PRS	n⁵nchui³nʔo⁵³ V;PFV;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: xuìʔ¹nʔɔ⁵³ón⁵	n⁵ndí⁵xuìʔ¹tzʔon³ V;IP	n⁵nchui³nʔo⁵³ V;PFV;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³chuìʔ¹nʔô³¹	n⁵nduìʔ¹tzʔon³ V;PROG;PL;	n⁵nchui³nʔo⁵³ V;PROG;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³chui³nʔoʔ⁵³	n⁵ndui³tzʔon³ V;PROG;PL;1+	n⁵nchui³nʔo⁵³ V;PROG;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: xui³nʔɔ⁵³	n⁵ndui³nʔo³ V;IPFV;SG;2;PRS	n⁵nchui³nʔo⁵³ V;PFV;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵nchui³nʔo⁵³	n⁵nchui³tzʔon³ V;IRR;SG;2;F	n⁵nchui³nʔo⁵³ V;IRR;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: ki³chui³nʔɔ⁵³	n⁵ndui³tzʔon³ V;SBJV;SG;2	n⁵nchui³nʔo⁵³ V;SBJV;SG;1
+Generate the lemma and morphological tags for the following inflected verb: to³chui³nʔɔ⁵³	n⁵ndui³tzʔon³ V;PROG;SG;3;P	n⁵nchui³nʔo⁵³ V;PROG;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵nchuìʔ¹nʔô³¹	n⁵nchuìʔ¹tzʔon³ V;IRR;PL;	n⁵nchui³nʔo⁵³ V;IRR;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³chui³nʔo⁵³	n⁵ndui³tzʔon³ V;PROG;SG;3;P	n⁵nchui³nʔo⁵³ V;PROG;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³chuìʔ¹nʔɔ⁵³ón⁵	n⁵nduìʔ¹tzʔon³ V;PROG;SG;	n⁵nchui³nʔo⁵³ V;PROG;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵nchuìʔ¹nʔo⁵³oʔ³	n⁵nchuìʔ¹tzʔon³ V;IRR;PL;	n⁵nchui³nʔo⁵³ V;IRR;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: ko³chuìʔ¹nʔɔ⁵³ón⁵	n⁵nduìʔ¹tzʔon³ V;IPFV;SG;	n⁵nchui³nʔo⁵³ V;IPFV;PL;1+INCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³chuìʔ¹nʔô³¹	n⁵nduìʔ¹tzʔon³ V;PROG;PL;	n⁵nchui³nʔo⁵³ V;PROG;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³chui³nʔoʔ⁵³	n⁵ndui³tzʔon³ V;PROG;SG;2;F	n⁵nchui³nʔo⁵³ V;PROG;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: ma³chui³nʔɔ⁵³	n⁵ndui³nʔo³ V;IPFV;SG;2;PRS	n⁵nchui³nʔo⁵³ V;IPFV;SG;1;PRS
+Generate the lemma and morphological tags for the following inflected verb: ki³chuìʔ¹nʔô³¹	n⁵nduìʔ¹tzʔon³ V;SBJV;PL	n⁵nchui³nʔo⁵³ V;SBJV;PL;1+EXCL
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³chui³nʔɔ⁵³	n⁵ndui³tzʔon³ V;PROG;SG;2;F	n⁵nchui³nʔo⁵³ V;PROG;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³chuìʔ¹nʔɔ⁵³ón⁵	n⁵nduìʔ¹tzʔon³ V;PROG;SG;	n⁵nchui³nʔo⁵³ V;PROG;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³chui³nʔo⁵³	n⁵ndui³tzʔon³ V;PROG;SG;3;F	n⁵nchui³nʔo⁵³ V;PROG;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: ko³chuìʔ¹nʔo⁵³oʔ³	n⁵nduìʔ¹tzʔon³ V;IPFV;PL;	n⁵nchui³nʔo⁵³ V;IPFV;PL;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: ki³chuìʔ¹nʔo⁵³oʔ³	n⁵nduìʔ¹tzʔon³ V;SBJV;PL	n⁵nchui³nʔo⁵³ V;SBJV;PL;3
+Generate the lemma and morphological tags for the following inflected verb: n⁵nchui³nʔoʔ⁵³	n⁵nchui³tzʔon³ V;IRR;PL;1+I	n⁵nchui³nʔo⁵³ V;IRR;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: ʔ⁵chui³nʔo⁵³	n⁵ndui³tzʔon³ V;IPFV;SG;2;	n⁵nchui³nʔo⁵³ V;IPFV;SG;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³chuìʔ¹nʔo⁵³oʔ³	n⁵nduìʔ¹tzʔon³ V;PROG;PL;	n⁵nchui³nʔo⁵³ V;PROG;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: ma³chui³nʔoʔ⁵³	n⁵ndui³tzʔon³ V;IPFV;SG;2;	n⁵nchui³nʔo⁵³ V;IPFV;SG;2;PRS
+Generate the lemma and morphological tags for the following inflected verb: ki³chui³nʔoʔ⁵³	n⁵ndui³tzʔon³ V;SBJV;PL;1+	n⁵nchui³nʔo⁵³ V;SBJV;SG;2
+Generate the lemma and morphological tags for the following inflected verb: ki³chuìʔ¹nʔɔ⁵³ón⁵	n⁵nduìʔ¹tzʔon³ V;SBJV;SG	n⁵nchui³nʔo⁵³ V;SBJV;PL;1+INCL
+Generate the lemma and morphological tags for the following inflected verb: xui³nʔo⁵³	n⁵ndui³nʔo³ V;IPFV;SG;2;PRS	n⁵nchui³nʔo⁵³ V;PFV;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵nchuìʔ¹nʔɔ⁵³ɔn⁵	n⁵nchuìʔ¹tzʔon³ V;IRR;PL;	n⁵nchui³nʔo⁵³ V;IRR;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³chuìʔ¹nʔo⁵³oʔ³	n⁵nduìʔ¹tzʔon³ V;PROG;PL;	n⁵nchui³nʔo⁵³ V;PROG;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: ko³chuìʔ¹nʔô³¹	n⁵nduìʔ¹tzʔon³ V;IPFV;PL;	n⁵nchui³nʔo⁵³ V;IPFV;PL;1+EXCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: kí⁵ndiʔ³ʔo³	n⁵ndiʔ³ V;SBJV;PL;3	n⁵ndiʔ³ V;SBJV;PL;3
+Generate the lemma and morphological tags for the following inflected verb: to³n⁵ndiʔ³én⁵	n⁵ndiʔ³ V;PROG;SG;3;PST	n⁵ndiʔ³ V;PROG;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: ʔ⁵hndiʔ³én⁵	n⁵ndiʔ³ V;IPFV;SG;3;PRS	n⁵ndiʔ³ V;PFV;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³n⁵ndiʔ³ʔo³	n⁵ndiʔ³ V;PROG;PL;3;FUT	n⁵ndiʔ³ V;PROG;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³n⁵ndiʔ³há⁵á⁵	n⁵ndiʔ³ V;PROG;PL;1+INCL;FUT	n⁵ndiʔ³ V;PROG;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³n⁵ndiʔ³ʔo³	n⁵ndiʔ³ V;PROG;PL;3;PST	n⁵ndiʔ³ V;PROG;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndiʔ³há⁵á⁵	n⁵ndiʔ³ V;IRR;PL;1+INCL;FUT	n⁵ndiʔ³ V;IRR;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: ko³n⁵ndiʔ³ha³	n⁵ndiʔ³ V;IRR;SG;1;PRS	n⁵ndiʔ³ V;IPFV;SG;1;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³n⁵ndiʔ³ʔu³	n⁵ndiʔ³ V;PROG;SG;2;FUT	n⁵ndiʔ³ V;PROG;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: ʔ⁵hndiʔ³ʔu³	n⁵ndiʔ³ V;IPFV;SG;2;PRS	n⁵ndiʔ³ V;PFV;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: ʔ⁵hndiʔ³há⁵á⁵	n⁵ndiʔ³ V;IPFV;PL;1+INCL;PR	n⁵ndiʔ³ V;PFV;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³n⁵ndiʔ³hâ³¹	n⁵ndiʔ³ V;PROG;PL;1+EXCL;PST	n⁵ndiʔ³ V;PROG;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: kí⁵ndiʔ³há⁵á⁵	n⁵ndiʔ³ V;SBJV;PL;1+INCL;PR	n⁵ndiʔ³ V;SBJV;PL;1+INCL
+Generate the lemma and morphological tags for the following inflected verb: ʔ⁵hndiʔ³ha³	n⁵ndiʔ³ V;IPFV;SG;1;PRS	n⁵ndiʔ³ V;PFV;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: kí⁵ndiʔ³hâ³¹	n⁵ndiʔ³ V;SBJV;PL;1+EXCL;PST	n⁵ndiʔ³ V;SBJV;PL;1+EXCL
+Generate the lemma and morphological tags for the following inflected verb: ʔ⁵hndiʔ³hâ³¹	n⁵ndiʔ³ V;IPFV;PL;1+EXCL;PR	n⁵ndiʔ³ V;PFV;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: ko³n⁵ndiʔ³ʔo³	n⁵ndiʔ³ V;IRR;PL;3;PRS	n⁵ndiʔ³ V;IPFV;PL;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: kí⁵ndiʔ³én⁵	n⁵ndiʔ³ V;SBJV;SG;3	n⁵ndiʔ³ V;SBJV;SG;3
+Generate the lemma and morphological tags for the following inflected verb: to³n⁵ndiʔ³há⁵á⁵	n⁵ndiʔ³ V;PROG;PL;1+INCL;PST	n⁵ndiʔ³ V;PROG;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: ko³n⁵ndiʔ³há⁵á⁵	n⁵ndiʔ³ V;IRR;PL;1+INCL;PRS	n⁵ndiʔ³ V;IPFV;PL;1+INCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndiʔ³ʔo³	n⁵ndiʔ³ V;IRR;PL;3;FUT	n⁵ndiʔ³ V;IRR;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: ʔ⁵hndiʔ³ʔo³	n⁵ndiʔ³ V;IPFV;PL;3;PRS	n⁵ndiʔ³ V;PFV;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: ko³n⁵ndiʔ³ʔu³	n⁵ndiʔ³ V;IRR;SG;2;PRS	n⁵ndiʔ³ V;IPFV;SG;2;PRS
+Generate the lemma and morphological tags for the following inflected verb: kí⁵ndiʔ³ʔu³	n⁵ndiʔ³ V;SBJV;SG;2	n⁵ndiʔ³ V;SBJV;SG;2
+Generate the lemma and morphological tags for the following inflected verb: to³n⁵ndiʔ³ʔu³	n⁵ndiʔ³ V;PROG;SG;2;PST	n⁵ndiʔ³ V;PROG;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: ko³n⁵ndiʔ³én⁵	n⁵ndiʔ³ V;IRR;SG;1;PRS	n⁵ndiʔ³ V;IPFV;SG;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³n⁵ndiʔ³ha³	n⁵ndiʔ³ V;PROG;SG;1;FUT	n⁵ndiʔ³ V;PROG;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: kí⁵ndiʔ³ha³	n⁵ndiʔ³ V;SBJV;SG;1	n⁵ndiʔ³ V;SBJV;SG;1
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndiʔ³ha³	n⁵ndiʔ³ V;IRR;SG;1;FUT	n⁵ndiʔ³ V;IRR;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³n⁵ndiʔ³hâ³¹	n⁵ndiʔ³ V;PROG;PL;1+EXCL;PST	n⁵ndiʔ³ V;PROG;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³n⁵ndiʔ³én⁵	n⁵ndiʔ³ V;PROG;SG;3;FUT	n⁵ndiʔ³ V;PROG;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndiʔ³hâ³¹	n⁵ndiʔ³ V;IRR;PL;1+EXCL;PRS	n⁵ndiʔ³ V;IRR;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: ko³n⁵ndiʔ³hâ³¹	n⁵ndiʔ³ V;IRR;PL;1+EXCL;PRS	n⁵ndiʔ³ V;IPFV;PL;1+EXCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³n⁵ndiʔ³ha³	n⁵ndiʔ³ V;PROG;SG;1;PST	n⁵ndiʔ³ V;PROG;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndiʔ³én⁵	n⁵ndiʔ³ V;IRR;SG;3;FUT	n⁵ndiʔ³ V;IRR;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndoʔ³	n⁵ndo³ndo³ V;PROG;PL;3;PST	n⁵ndoʔ³ V;PROG;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: hndɔʔ⁵³ɔ³	n⁵ndoʔ³⁴ V;PFV;PL;3;PST	n⁵ndoʔ³ V;PFV;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndôʔ³¹	n⁵ndoʔ³⁴ V;PROG;PL;1+EXCL;F	n⁵ndoʔ³ V;PROG;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³hndôʔ³¹ɔ³	n⁵ndoʔ³⁴ V;PROG;PL;1+EXCL;FU	n⁵ndoʔ³ V;PROG;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³hndoʔ¹²oʔ³	n⁵ndoʔ¹² V;PROG;PL;3;FUT	n⁵ndoʔ³ V;PROG;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: ʔ⁵ndoʔ³	n⁵ndo³ V;IPFV;PL;3;PRS	n⁵ndoʔ³ V;IPFV;SG;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndôʔ³¹	n⁵ndoʔ³⁴ V;IRR;PL;1+EXCL;F	n⁵ndoʔ³ V;IRR;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵hndôʔ³¹ɔ³	n⁵ndoʔ³⁴ V;IRR;PL;1+EXCL;FU	n⁵ndoʔ³ V;IRR;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: ma³ndɔʔ⁵³ɔ³	n⁵ndoʔ³⁴ V;IPFV;PL;3;PRS	n⁵ndoʔ³ V;IPFV;SG;1;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵hndɔʔ¹²ɔ⁵	n⁵ndoʔ³⁴ V;IRR;PL;1+INCL;F	n⁵ndoʔ³ V;IRR;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³hndôʔ³¹ɔ³	n⁵ndoʔ³⁴ V;PROG;PL;3;PST	n⁵ndoʔ³ V;PROG;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndoʔ³	n⁵ndo³ V;PROG;SG;3;FUT	n⁵ndoʔ³ V;PROG;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: hndoʔ³	n⁵ndo³ V;PFV;PL;3;PST	n⁵ndoʔ³ V;PFV;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵hndoʔ¹²oʔ³	n⁵ndoʔ¹² V;IRR;PL;3;FUT	n⁵ndoʔ³ V;IRR;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: ko³hndôʔ³¹ɔ³	n⁵ndoʔ³⁴ V;IPFV;PL;3;PRS	n⁵ndoʔ³ V;IPFV;PL;1+EXCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³hndɔʔ¹²ɔ⁵	n⁵ndoʔ³⁴ V;PROG;PL;1+INCL;P	n⁵ndoʔ³ V;PROG;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: ki³ndôʔ³¹	n⁵ndoʔ³⁴ V;SBJV;PL;1+EXCL	n⁵ndoʔ³ V;SBJV;SG;2
+Generate the lemma and morphological tags for the following inflected verb: ki³hndôʔ³¹ɔ³	n⁵ndoʔ³⁴ V;SBJV;PL;3	n⁵ndoʔ³ V;SBJV;PL;1+EXCL
+Generate the lemma and morphological tags for the following inflected verb: ko³hndoʔ¹²oʔ³	n⁵ndoʔ¹² V;IPFV;PL;3;PRS	n⁵ndoʔ³ V;IPFV;PL;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: hndɔʔ¹²ɔ⁵	n⁵ndoʔ³⁴ V;PFV;PL;1+INCL;PS	n⁵ndoʔ³ V;PFV;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: to³hndoʔ¹²oʔ³	n⁵ndoʔ³⁴ V;PROG;PL;3;PST	n⁵ndoʔ³ V;PROG;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: ki³hndoʔ¹²oʔ³	n⁵ndoʔ³⁴ V;SBJV;PL;3	n⁵ndoʔ³ V;SBJV;PL;3
+Generate the lemma and morphological tags for the following inflected verb: hndôʔ³¹ɔ³	n⁵ndoʔ³⁴ V;PFV;PL;3;PST	n⁵ndoʔ³ V;PFV;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndɔʔ⁵³ɔ³	n⁵ndoʔ³⁴ V;PROG;PL;1+INCL;F	n⁵ndoʔ³ V;PROG;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: hndôʔ³¹	n⁵ndoʔ³⁴ V;PFV;PL;1+EXCL;PS	n⁵ndoʔ³ V;PFV;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: hndoʔ¹²oʔ³	n⁵ndoʔ³⁴ V;PFV;PL;3;PST	n⁵ndoʔ³ V;PFV;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndɔʔ⁵³ɔ³	n⁵ndoʔ³⁴ V;IRR;PL;1+INCL;F	n⁵ndoʔ³ V;IRR;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndɔʔ⁵³ɔ³	n⁵ndoʔ³⁴ V;PROG;PL;3;PST	n⁵ndoʔ³ V;PROG;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³hndɔʔ¹²ɔ⁵	n⁵ndoʔ³⁴ V;PROG;PL;1+INCL;F	n⁵ndoʔ³ V;PROG;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: ki³hndɔʔ¹²ɔ⁵	n⁵ndoʔ³⁴ V;SBJV;PL;1+INCL	n⁵ndoʔ³ V;SBJV;PL;1+INCL
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndoʔ³	n⁵ndo³ V;IRR;PL;1+INCL;FUT	n⁵ndoʔ³ V;IRR;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: ko³hndɔʔ¹²ɔ⁵	n⁵ndoʔ³⁴ V;IPFV;PL;1+INCL;P	n⁵ndoʔ³ V;IPFV;PL;1+INCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: ki³ndɔʔ⁵³ɔ³	n⁵ndoʔ³⁴ V;SBJV;PL;3	n⁵ndoʔ³ V;SBJV;SG;1
+Generate the lemma and morphological tags for the following inflected verb: ma³ndôʔ³¹	n⁵ndoʔ³⁴ V;IPFV;PL;1+EXCL;P	n⁵ndoʔ³ V;IPFV;SG;2;PRS
+Generate the lemma and morphological tags for the following inflected verb: ki³ndoʔ³	n⁵ndo³ V;SBJV;PL;3	n⁵ndoʔ³ V;SBJV;SG;3
+Generate the lemma and morphological tags for the following inflected verb: to³ndôʔ³¹	n⁵ndoʔ³⁴ V;PROG;PL;1+EXCL;P	n⁵ndoʔ³ V;PROG;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndui³⁴én⁵	n⁵ndui³⁴ V;IRR;SG;3;FUT	n⁵ndui³⁴ V;IRR;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndui³⁴én⁵	n⁵ndui³⁴ V;PROG;SG;3;FUT	n⁵ndui³⁴ V;PROG;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: ki³ndui³⁴én⁵	n⁵ndui³⁴ V;SBJV;SG;3	n⁵ndui³⁴ V;SBJV;SG;3
+Generate the lemma and morphological tags for the following inflected verb: ki³ndui³⁴hâ³¹	n⁵ndui³⁴ V;SBJV;PL;1+EXCL;P	n⁵ndui³⁴ V;SBJV;PL;1+EXCL
+Generate the lemma and morphological tags for the following inflected verb: ki³ndui³⁴ʔu³	n⁵ndui³⁴ V;SBJV;SG;2	n⁵ndui³⁴ V;SBJV;SG;2
+Generate the lemma and morphological tags for the following inflected verb: to³ndui³⁴én⁵	n⁵ndui³⁴ V;PROG;SG;3;PST	n⁵ndui³⁴ V;PROG;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: hndui³⁴ha³	n⁵ndui³⁴ V;PFV;SG;1;PST	n⁵ndui³⁴ V;PFV;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: hndui³⁴ʔo³	n⁵ndui³⁴ V;PFV;PL;3;PST	n⁵ndui³⁴ V;PFV;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: ki³ndui³⁴ʔo³	n⁵ndui³⁴ V;SBJV;PL;3	n⁵ndui³⁴ V;SBJV;PL;3
+Generate the lemma and morphological tags for the following inflected verb: hndui³⁴ʔu³	n⁵ndui³⁴ V;PFV;SG;2;PST	n⁵ndui³⁴ V;PFV;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndui³⁴ha³	n⁵ndui³⁴ V;PROG;SG;1;FUT	n⁵ndui³⁴ V;PROG;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: hndui³⁴én⁵	n⁵ndui³⁴ V;PFV;SG;3;PST	n⁵ndui³⁴ V;PFV;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: hndui³⁴há⁵á⁵	n⁵ndui³⁴ V;PFV;PL;1+INCL;PST	n⁵ndui³⁴ V;PFV;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndui³⁴ha³	n⁵ndui³⁴ V;IRR;SG;1;FUT	n⁵ndui³⁴ V;IRR;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: ki³ndui³⁴há⁵á⁵	n⁵ndui³⁴ V;SBJV;PL;1+INCL;P	n⁵ndui³⁴ V;SBJV;PL;1+INCL
+Generate the lemma and morphological tags for the following inflected verb: ko³ndui³⁴ʔo³	n⁵ndui³⁴ V;IPFV;PL;3;PRS	n⁵ndui³⁴ V;IPFV;PL;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: ko³ndui³⁴ʔu³	n⁵ndui³⁴ V;IPFV;SG;2;PRS	n⁵ndui³⁴ V;IPFV;SG;2;PRS
+Generate the lemma and morphological tags for the following inflected verb: ko³ndui³⁴hâ³¹	n⁵ndui³⁴ V;IPFV;PL;1+EXCL;P	n⁵ndui³⁴ V;IPFV;PL;1+EXCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³ndui³⁴ʔo³	n⁵ndui³⁴ V;PROG;PL;3;PST	n⁵ndui³⁴ V;PROG;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndui³⁴ha³	n⁵ndui³⁴ V;PROG;SG;1;PST	n⁵ndui³⁴ V;PROG;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndui³⁴há⁵á⁵	n⁵ndui³⁴ V;PROG;PL;1+INCL;P	n⁵ndui³⁴ V;PROG;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndui³⁴ʔo³	n⁵ndui³⁴ V;PROG;PL;3;FUT	n⁵ndui³⁴ V;PROG;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: ko³ndui³⁴há⁵á⁵	n⁵ndui³⁴ V;IPFV;PL;1+INCL;PR	n⁵ndui³⁴ V;IPFV;PL;1+INCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³ndui³⁴hâ³¹	n⁵ndui³⁴ V;PROG;PL;1+EXCL;P	n⁵ndui³⁴ V;PROG;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: ko³ndui³⁴én⁵	n⁵ndui³⁴ V;IPFV;SG;3;PRS	n⁵ndui³⁴ V;IPFV;SG;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndui³⁴ʔo³	n⁵ndui³⁴ V;IRR;PL;3;FUT	n⁵ndui³⁴ V;IRR;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndui³⁴hâ³¹	n⁵ndui³⁴ V;IRR;PL;1+EXCL;PR	n⁵ndui³⁴ V;IRR;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndui³⁴ʔu³	n⁵ndui³⁴ V;PROG;SG;2;FUT	n⁵ndui³⁴ V;PROG;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndui³⁴há⁵á⁵	n⁵ndui³⁴ V;PROG;PL;1+INCL;PST	n⁵ndui³⁴ V;PROG;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: hndui³⁴hâ³¹	n⁵ndui³⁴ V;PFV;PL;1+EXCL;PST	n⁵ndui³⁴ V;PFV;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndui³⁴hâ³¹	n⁵ndui³⁴ V;PROG;PL;1+EXCL;P	n⁵ndui³⁴ V;PROG;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: ko³ndui³⁴ha³	n⁵ndui³⁴ V;IPFV;SG;1;PRS	n⁵ndui³⁴ V;IPFV;SG;1;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³ndui³⁴ʔu³	n⁵ndui³⁴ V;PROG;SG;2;PST	n⁵ndui³⁴ V;PROG;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: ki³ndui³⁴ha³	n⁵ndui³⁴ V;SBJV;SG;1	n⁵ndui³⁴ V;SBJV;SG;1
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndui³⁴ʔu³	n⁵ndui³⁴ V;IRR;SG;2;FUT	n⁵ndui³⁴ V;IRR;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndui³⁴há⁵á⁵	n⁵ndui³⁴ V;IRR;PL;1+INCL;FUT	n⁵ndui³⁴ V;IRR;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³tyiôn³¹hnâ³¹	n⁵ndyion³hnaʔ³⁴ V;PROG;PL	n⁵ndyion³ hnaʔ¹² V;PROG;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³tyiɔn³⁴hna¹²án⁵	n⁵ndyion³hna¹² V;PROG;PL;1+	n⁵ndyion³ hnaʔ¹² V;PROG;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³tyion³hnaʔ¹²	n⁵ndyion³hnaʔ¹² V;PROG;SG;	n⁵ndyion³ hnaʔ¹² V;PROG;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: ma³tyiɔn⁵³hna¹²	n⁵ndyion³hna³ V;IPFV;SG;1;PR	n⁵ndyion³ hnaʔ¹² V;IPFV;SG;1;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³tyion³hnaʔ¹²	n⁵ndyion³hnaʔ¹² V;PROG;SG;	n⁵ndyion³ hnaʔ¹² V;PROG;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: tyiôn³¹hnâ³¹	n⁵ndyion³hnaʔ³⁴ V;PFV;PL;	n⁵ndyion³ hnaʔ¹² V;PFV;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: ki³tyion³oʔ³hna¹²oʔ³	n⁵ndyion³hnaʔ¹² V;SBJV;PL	n⁵ndyion³ hnaʔ¹² V;SBJV;PL;3
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³tyion³oʔ³hna¹²oʔ³	n⁵ndyion³hnaʔ¹² V;PROG;PL;	n⁵ndyion³ hnaʔ¹² V;PROG;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³tyiɔn³⁴hna¹²án⁵	n⁵ndyion³hna¹² V;PROG;PL;1+	n⁵ndyion³ hnaʔ¹² V;PROG;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndyiɔ⁵³hna¹²	n⁵ndyio³ hnaʔ¹² V;IRR;SG;1;F	n⁵ndyion³ hnaʔ¹² V;IRR;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: tyiɔn⁵³hna¹²	n⁵ndyion³hna³ V;PFV;SG;1;PST	n⁵ndyion³ hnaʔ¹² V;PFV;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: ko³tyiɔn³⁴hna¹²án⁵	n⁵ndyion³hna¹² V;IPFV;PL;1+	n⁵ndyion³ hnaʔ¹² V;IPFV;PL;1+INCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: tyiɔn³⁴hna¹²án⁵	n⁵ndyion³hna¹² V;PFV;SG;1;P	n⁵ndyion³ hnaʔ¹² V;PFV;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: ko³tyiôn³¹hnâ³¹	n⁵ndyion³hnaʔ³⁴ V;IPFV;PL	n⁵ndyion³ hnaʔ¹² V;IPFV;PL;1+EXCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³tyiɔn⁵³hna¹²	n⁵ndyion³hna³ V;PROG;SG;1;P	n⁵ndyion³ hnaʔ¹² V;PROG;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: tyionʔ⁵³hnâʔ³¹	n⁵ndyion³hnaʔ³⁴ V;PFV;PL	n⁵ndyion³ hnaʔ¹² V;PFV;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: ki³tyiôn³¹hnâ³¹	n⁵ndyion³hnaʔ³⁴ V;SBJV;PL	n⁵ndyion³ hnaʔ¹² V;SBJV;PL;1+EXCL
+Generate the lemma and morphological tags for the following inflected verb: kí⁵tyiɔn⁵³hna¹²	n⁵ndyion³hna³ V;SBJV;SG;1	n⁵ndyion³ hnaʔ¹² V;SBJV;SG;1
+Generate the lemma and morphological tags for the following inflected verb: ki³tyion³⁴hna¹²án⁵	n⁵ndyion³hna¹² V;SBJV;PL;1+	n⁵ndyion³ hnaʔ¹² V;SBJV;PL;1+INCL
+Generate the lemma and morphological tags for the following inflected verb: kí⁵tyionʔ⁵³hnâʔ³¹	n⁵ndyion³hnâ³¹ V;SBJV;PL;	n⁵ndyion³ hnaʔ¹² V;SBJV;SG;2
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndyion³oʔ³hna¹²oʔ³	n⁵ndyion³hnaʔ¹² V;IRR;PL;	n⁵ndyion³ hnaʔ¹² V;IRR;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: tyion³oʔ³hna¹²oʔ³	n⁵ndyion³hnaʔ¹² V;PFV;PL;	n⁵ndyion³ hnaʔ¹² V;PFV;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: ʔ⁵tyion³hnaʔ¹²	n⁵ndyion³hnaʔ¹² V;IPFV;SG;	n⁵ndyion³ hnaʔ¹² V;IPFV;SG;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³tyionʔ⁵³hnâʔ³¹	n⁵ndyion³hnaʔ³⁴ V;PROG;PL	n⁵ndyion³ hnaʔ¹² V;PROG;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndyion³hnaʔ¹²	n⁵ndyion³hnaʔ¹² V;IRR;SG;	n⁵ndyion³ hnaʔ¹² V;IRR;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: ki³tyion³hnaʔ¹²	n⁵ndyion³hnaʔ¹² V;SBJV;SG	n⁵ndyion³ hnaʔ¹² V;SBJV;SG;3
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndyion³⁴hna¹²án⁵	n⁵ndyion³hna¹² V;IRR;PL;1+I	n⁵ndyion³ hnaʔ¹² V;IRR;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: tyion³hnaʔ¹²	n⁵ndyion³hnaʔ¹² V;PFV;SG;1	n⁵ndyion³ hnaʔ¹² V;PFV;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: ma³tyionʔ⁵³hnâʔ³¹	n⁵ndyion³hnâ³¹ V;IPFV;PL;1+	n⁵ndyion³ hnaʔ¹² V;IPFV;SG;2;PRS
+Generate the lemma and morphological tags for the following inflected verb: ko³tyion³oʔ³hna¹²oʔ³	n⁵ndyion³hnaʔ¹² V;IPFV;PL;	n⁵ndyion³ hnaʔ¹² V;IPFV;PL;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³tyion³oʔ³hna¹²oʔ³	n⁵ndyion³hnaʔ¹² V;PROG;PL;	n⁵ndyion³ hnaʔ¹² V;PROG;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³tyiɔn⁵³hna¹²	n⁵ndyion³hna³ V;PROG;SG;1;FU	n⁵ndyion³ hnaʔ¹² V;PROG;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndyionʔ⁵³hnâʔ³¹	n⁵ndyion³hnâ³¹ V;IRR;PL;1+	n⁵ndyion³ hnaʔ¹² V;IRR;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³tyiôn³¹hnâ³¹	n⁵ndyion³hnaʔ³⁴ V;PROG;PL	n⁵ndyion³ hnaʔ¹² V;PROG;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³tyionʔ⁵³hnâʔ³¹	n⁵ndyion³hnâ³¹ V;PROG;PL;1+	n⁵ndyion³ hnaʔ¹² V;PROG;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndyiôn³¹hnâ³¹	n⁵ndyion³hnaʔ³⁴ V;IRR;PL;	n⁵ndyion³ hnaʔ¹² V;IRR;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: ko³ndyo¹²én⁵	n⁵ndyo³ V;IPFV;SG;3;PRS	n⁵ndyo¹² V;IPFV;SG;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndyo¹²ʔu³	n⁵ndyo¹² V;IRR;SG;2;FUT	n⁵ndyo¹² V;IRR;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: ki³ndyo¹²én⁵	n⁵ndyo³ V;SBJV;SG;3	n⁵ndyo¹² V;SBJV;SG;3
+Generate the lemma and morphological tags for the following inflected verb: to³ndyo¹²hâ³¹	n⁵ndyo³ V;PROG;PL;1+EXCL;PST	n⁵ndyo¹² V;PROG;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndyo¹²hâ³¹	n⁵ndyo³ V;IRR;PL;1+EXCL;PRS	n⁵ndyo¹² V;IRR;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: ko³ndyo¹²ha³	n⁵ndyo³ V;IPFV;SG;1;PRS	n⁵ndyo¹² V;IPFV;SG;1;PRS
+Generate the lemma and morphological tags for the following inflected verb: ki³ndyo¹²hâ³¹	n⁵ndyo³ V;SBJV;PL;1+EXCL;PRS	n⁵ndyo¹² V;SBJV;PL;1+EXCL
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndyo¹²hâ³¹	n⁵ndyo³ V;PROG;PL;1+EXCL;PST	n⁵ndyo¹² V;PROG;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndyo¹²ha³	n⁵ndyo³ V;PROG;SG;1;PST	n⁵ndyo¹² V;PROG;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: hndyo¹²én⁵	n⁵ndyo¹² V;PFV;SG;3;PST	n⁵ndyo¹² V;PFV;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: hndyo¹²ʔo³	n⁵ndyo³ V;PFV;PL;3;PST	n⁵ndyo¹² V;PFV;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: ko³ndyo¹²ʔo³	n⁵ndyo³ V;IPFV;PL;3;PRS	n⁵ndyo¹² V;IPFV;PL;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: ki³ndyo¹²há⁵á⁵	n⁵ndyo³ V;SBJV;PL;1+INCL;PRS	n⁵ndyo¹² V;SBJV;PL;1+INCL
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndyo¹²ʔu³	n⁵ndyo³ V;PROG;SG;2;FUT	n⁵ndyo¹² V;PROG;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndyo¹²há⁵á⁵	n⁵ndyo¹² V;IRR;PL;1+INCL;FUT	n⁵ndyo¹² V;IRR;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndyo¹²én⁵	n⁵ndyo¹² V;IRR;SG;3;FUT	n⁵ndyo¹² V;IRR;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndyo¹²ha³	n⁵ndyo³ V;PROG;SG;1;FUT	n⁵ndyo¹² V;PROG;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: ko³ndyo¹²há⁵á⁵	n⁵ndyo³ V;IPFV;PL;1+INCL;PRS	n⁵ndyo¹² V;IPFV;PL;1+INCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³ndyo¹²há⁵á⁵	n⁵ndyo³ V;PROG;PL;1+INCL;PST	n⁵ndyo¹² V;PROG;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: ki³ndyo¹²ha³	n⁵ndyo³ V;SBJV;SG;1	n⁵ndyo¹² V;SBJV;SG;1
+Generate the lemma and morphological tags for the following inflected verb: to³ndyo¹²én⁵	n⁵ndyo³ V;PROG;SG;3;PST	n⁵ndyo¹² V;PROG;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndyo¹²én⁵	n⁵ndyo³ V;PROG;SG;3;FUT	n⁵ndyo¹² V;PROG;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndyo¹²ʔo³	n⁵ndyo¹² V;IRR;PL;3;FUT	n⁵ndyo¹² V;IRR;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndyo¹²ʔu³	n⁵ndyo³ V;PROG;SG;2;PST	n⁵ndyo¹² V;PROG;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: hndyo¹²há⁵á⁵	n⁵ndyo¹² V;PFV;PL;1+INCL;PST	n⁵ndyo¹² V;PFV;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: ki³ndyo¹²ʔo³	n⁵ndyo³ V;SBJV;PL;3	n⁵ndyo¹² V;SBJV;PL;3
+Generate the lemma and morphological tags for the following inflected verb: hndyo¹²ha³	n⁵ndyo³ V;PFV;SG;1;PST	n⁵ndyo¹² V;PFV;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndyo¹²ʔo³	n⁵ndyo³ V;PROG;PL;3;FUT	n⁵ndyo¹² V;PROG;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndyo¹²ʔo³	n⁵ndyo³ V;PROG;PL;3;PST	n⁵ndyo¹² V;PROG;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndyo¹²há⁵á⁵	n⁵ndyo³ V;PROG;PL;1+INCL;FUT	n⁵ndyo¹² V;PROG;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: ki³ndyo¹²ʔu³	n⁵ndyo³ V;SBJV;SG;2	n⁵ndyo¹² V;SBJV;SG;2
+Generate the lemma and morphological tags for the following inflected verb: hndyo¹²hâ³¹	n⁵ndyo³ V;PFV;PL;1+EXCL;PST	n⁵ndyo¹² V;PFV;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: hndyo¹²ʔu³	n⁵ndyo³ V;PFV;SG;2;PST	n⁵ndyo¹² V;PFV;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: ko³ndyo¹²hâ³¹	n⁵ndyo³ V;IPFV;PL;1+EXCL;PRS	n⁵ndyo¹² V;IPFV;PL;1+EXCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndyo¹²ha³	n⁵ndyo¹² V;IRR;SG;1;FUT	n⁵ndyo¹² V;IRR;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: ko³ndyo¹²ʔu³	n⁵ndyo³ V;IPFV;SG;2;PRS	n⁵ndyo¹² V;IPFV;SG;2;PRS
+Generate the lemma and morphological tags for the following inflected verb: ki³ndyʔe³oʔ³	n⁵ndye³ V;SBJV;PL;3	n⁵ndyʔe³ V;SBJV;PL;3
+Generate the lemma and morphological tags for the following inflected verb: ki³ndyʔeʔ³	n⁵ndyeʔ³⁴ V;SBJV;SG;3	n⁵ndyʔe³ V;SBJV;SG;2
+Generate the lemma and morphological tags for the following inflected verb: hndyʔe³oʔ³	n⁵ndye³ V;PFV;PL;3;PST	n⁵ndyʔe³ V;PFV;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndyʔe³oʔ³	n⁵ndye³ V;IRR;PL;3;FUT	n⁵ndyʔe³ V;IRR;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: ki³ndyʔɛ⁵³	n⁵ndye³chuʔ³⁴ V;SBJV;SG;3	n⁵ndyʔe³ V;SBJV;SG;1
+Generate the lemma and morphological tags for the following inflected verb: ko³ndyʔê³¹	n⁵ndyio³ V;IPFV;PL;1+EXCL;PST	n⁵ndyʔe³ V;IPFV;PL;1+EXCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndyʔɛ³⁴	n⁵ndye³chuʔ³⁴ V;IRR;PL;1+I	n⁵ndyʔe³ V;IRR;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndyʔɛ³⁴	n⁵ndye³ V;PROG;PL;1+INCL;FUT	n⁵ndyʔe³ V;PROG;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: hndyʔeʔ³	n⁵ndyeʔ³⁴ V;PFV;SG;2;PST	n⁵ndyʔe³ V;PFV;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: hndyʔɛ⁵³	n⁵ndye³chuʔ³⁴ V;PFV;SG;2;	n⁵ndyʔe³ V;PFV;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndyʔeʔ³	n⁵ndyeʔ³⁴ V;IRR;SG;2;FUT	n⁵ndyʔe³ V;IRR;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: hndyʔê³¹	n⁵ndyio³ V;PFV;PL;1+EXCL;PST	n⁵ndyʔe³ V;PFV;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: hndyʔe³	n⁵ndye³ V;PFV;SG;2;PST	n⁵ndyʔe³ V;PFV;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndyʔe³oʔ³	n⁵ndye³ V;PROG;PL;3;FUT	n⁵ndyʔe³ V;PROG;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: ki³ndyʔê³¹	n⁵ndye³ V;SBJV;PL;1+EXCL;PST	n⁵ndyʔe³ V;SBJV;PL;1+EXCL
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndyʔeʔ³	n⁵ndyeʔ³⁴ V;PROG;SG;3;FUT	n⁵ndyʔe³ V;PROG;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: ma³ndyʔɛ⁵³	n⁵ndye³chuʔ³⁴ V;IPFV;SG;2;	n⁵ndyʔe³ V;IPFV;SG;1;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndyʔe³	n⁵ndye³ V;PROG;SG;3;FUT	n⁵ndyʔe³ V;PROG;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: ki³ndyʔe³	n⁵ndye³ V;SBJV;SG;1	n⁵ndyʔe³ V;SBJV;SG;3
+Generate the lemma and morphological tags for the following inflected verb: ki³ndyʔɛ³⁴	n⁵ndye³chuʔ³⁴ V;SBJV;PL;1	n⁵ndyʔe³ V;SBJV;PL;1+INCL
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndyʔê³¹	n⁵ndyio³ V;PROG;PL;1+EXCL;FUT	n⁵ndyʔe³ V;PROG;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndyʔê³¹	n⁵ndyio³ V;IRR;PL;1+EXCL;FUT	n⁵ndyʔe³ V;IRR;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndyʔɛ³⁴	n⁵ndye³chuʔ³⁴ V;PROG;PL;1+	n⁵ndyʔe³ V;PROG;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndyʔe³	n⁵ndye³ V;IRR;SG;2;FUT	n⁵ndyʔe³ V;IRR;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: hndyʔɛ³⁴	n⁵ndye³chuʔ³⁴ V;PFV;PL;1+	n⁵ndyʔe³ V;PFV;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndyʔe³oʔ³	n⁵ndye³ V;PROG;PL;3;PST	n⁵ndyʔe³ V;PROG;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndyʔê³¹	n⁵ndyio³ V;PROG;PL;1+EXCL;PST	n⁵ndyʔe³ V;PROG;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndyʔɛ⁵³	n⁵ndye³chuʔ³⁴ V;PROG;SG;3	n⁵ndyʔe³ V;PROG;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndyʔeʔ³	n⁵ndyeʔ³⁴ V;PROG;SG;3;PST	n⁵ndyʔe³ V;PROG;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: ʔ⁵ndyʔe³	n⁵ndye³ V;IPFV;SG;2;PRS	n⁵ndyʔe³ V;IPFV;SG;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndyʔɛ⁵³	n⁵ndye³chuʔ³⁴ V;PROG;SG;3	n⁵ndyʔe³ V;PROG;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: ko³ndyʔe³oʔ³	n⁵ndye³ V;IPFV;PL;3;PRS	n⁵ndyʔe³ V;IPFV;PL;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: ko³ndyʔɛ³⁴	n⁵ndye³chuʔ³⁴ V;IPFV;PL;1+	n⁵ndyʔe³ V;IPFV;PL;1+INCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndyʔɛ⁵³	n⁵ndye³chuʔ³⁴ V;IRR;SG;2;F	n⁵ndyʔe³ V;IRR;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: ma³ndyʔeʔ³	n⁵ndyeʔ³⁴ V;IPFV;SG;2;PRS	n⁵ndyʔe³ V;IPFV;SG;2;PRS
+Generate the lemma and morphological tags for the following inflected verb: tí⁵chhu⁵³ʔu³	n⁵ndí⁵chhu⁵³ V;PFV;SG;2;P	n⁵ndí⁵chhu⁵³ V;PFV;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵chhu⁵³há⁵á⁵	n⁵ndí⁵chhu⁵³ V;PROG;PL;1+	n⁵ndí⁵chhu⁵³ V;PROG;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵chhu⁵³ha³	n⁵ndí⁵chhu⁵³ V;PFV;SG;1;P	n⁵ndí⁵chhu⁵³ V;PFV;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵chhu⁵³ʔo³	n⁵ndí⁵chhu⁵³ V;PFV;PL;3;P	n⁵ndí⁵chhu⁵³ V;PFV;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵chhu⁵³ha³	n⁵ndí⁵chhu⁵³ V;PROG;SG;1;	n⁵ndí⁵chhu⁵³ V;PROG;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵chhu⁵³hâ³¹	n⁵ndí⁵chhu⁵³ V;PROG;PL;1+	n⁵ndí⁵chhu⁵³ V;PROG;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵chhu⁵³há⁵á⁵	n⁵ndí⁵chhu⁵³ V;PROG;PL;1+I	n⁵ndí⁵chhu⁵³ V;PROG;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵chhu⁵³ʔu³	n⁵ndí⁵chhu⁵³ V;IRR;SG;2;F	n⁵ndí⁵chhu⁵³ V;IRR;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵chhu⁵³ʔo³	n⁵ndí⁵chhu⁵³ V;SBJV;PL;3	n⁵ndí⁵chhu⁵³ V;SBJV;PL;3
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵chhu⁵³há⁵á⁵	n⁵ndí⁵chhu⁵³ V;SBJV;PL;1+	n⁵ndí⁵chhu⁵³ V;SBJV;PL;1+INCL
+Generate the lemma and morphological tags for the following inflected verb: ko³ndí⁵chhu⁵³hâ³¹	n⁵ndí⁵chhu⁵³ V;IPFV;PL;1+	n⁵ndí⁵chhu⁵³ V;IPFV;PL;1+EXCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵chhu⁵³há⁵á⁵	n⁵ndí⁵chhu⁵³ V;IRR;PL;1+I	n⁵ndí⁵chhu⁵³ V;IRR;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵chhu⁵³én⁵	n⁵ndí⁵chhu⁵³ V;PFV;SG;3;P	n⁵ndí⁵chhu⁵³ V;PFV;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: ko³ndí⁵chhu⁵³ʔu³	n⁵ndí⁵chhu⁵³ V;IPFV;SG;2;	n⁵ndí⁵chhu⁵³ V;IPFV;SG;2;PRS
+Generate the lemma and morphological tags for the following inflected verb: tí⁵chhu⁵³hâ³¹	n⁵ndí⁵chhu⁵³ V;PFV;PL;1+	n⁵ndí⁵chhu⁵³ V;PFV;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵chhu⁵³ʔu³	n⁵ndí⁵chhu⁵³ V;PROG;SG;2;	n⁵ndí⁵chhu⁵³ V;PROG;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵chhu⁵³én⁵	n⁵ndí⁵chhu⁵³ V;PROG;SG;3;	n⁵ndí⁵chhu⁵³ V;PROG;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵chhu⁵³ʔu³	n⁵ndí⁵chhu⁵³ V;SBJV;SG;2	n⁵ndí⁵chhu⁵³ V;SBJV;SG;2
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵chhu⁵³ha³	n⁵ndí⁵chhu⁵³ V;PROG;SG;1;F	n⁵ndí⁵chhu⁵³ V;PROG;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: ko³ndí⁵chhu⁵³há⁵á⁵	n⁵ndí⁵chhu⁵³ V;IPFV;PL;1+I	n⁵ndí⁵chhu⁵³ V;IPFV;PL;1+INCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³nndí⁵chhu⁵³ʔu³	n⁵ndí⁵chhu⁵³ V;PROG;SG;2;F	n⁵ndí⁵chhu⁵³ V;PROG;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: ko³ndí⁵chhu⁵³ʔo³	n⁵ndí⁵chhu⁵³ V;IPFV;PL;3;	n⁵ndí⁵chhu⁵³ V;IPFV;PL;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵chhu⁵³én⁵	n⁵ndí⁵chhu⁵³ V;IRR;SG;3;F	n⁵ndí⁵chhu⁵³ V;IRR;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵chhu⁵³hâ³¹	n⁵ndí⁵chhu⁵³ V;IRR;PL;1+E	n⁵ndí⁵chhu⁵³ V;IRR;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵chhu⁵³ha³	n⁵ndí⁵chhu⁵³ V;IRR;SG;1;F	n⁵ndí⁵chhu⁵³ V;IRR;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: ko³ndí⁵chhu⁵³én⁵	n⁵ndí⁵chhu⁵³ V;IPFV;SG;3;	n⁵ndí⁵chhu⁵³ V;IPFV;SG;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: tí⁵chhu⁵³há⁵á⁵	n⁵ndí⁵chhu⁵³ V;PFV;PL;1+I	n⁵ndí⁵chhu⁵³ V;PFV;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵chhu⁵³ʔo³	n⁵ndí⁵chhu⁵³ V;PROG;PL;3;	n⁵ndí⁵chhu⁵³ V;PROG;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵chhu⁵³én⁵	n⁵ndí⁵chhu⁵³ V;SBJV;SG;3	n⁵ndí⁵chhu⁵³ V;SBJV;SG;3
+Generate the lemma and morphological tags for the following inflected verb: ko³ndí⁵chhu⁵³ha³	n⁵ndí⁵chhu⁵³ V;IPFV;SG;1;	n⁵ndí⁵chhu⁵³ V;IPFV;SG;1;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵chhu⁵³hâ³¹	n⁵ndí⁵chhu⁵³ V;PROG;PL;1+	n⁵ndí⁵chhu⁵³ V;PROG;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵chhu⁵³ʔo³	n⁵ndí⁵chhu⁵³ V;PROG;PL;3;	n⁵ndí⁵chhu⁵³ V;PROG;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵chhu⁵³ʔo³	n⁵ndí⁵chhu⁵³ V;IRR;PL;3;F	n⁵ndí⁵chhu⁵³ V;IRR;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵chhu⁵³én⁵	n⁵ndí⁵chhu⁵³ V;PROG;SG;3;F	n⁵ndí⁵chhu⁵³ V;PROG;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵chhu⁵³hâ³¹	n⁵ndí⁵chhu⁵³ V;SBJV;PL;1+	n⁵ndí⁵chhu⁵³ V;SBJV;PL;1+EXCL
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵chhu⁵³ha³	n⁵ndí⁵chhu⁵³ V;SBJV;SG;1	n⁵ndí⁵chhu⁵³ V;SBJV;SG;1
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵chio³⁵ha³	n⁵ndí⁵chio³⁵ V;SBJV;SG;1	n⁵ndí⁵chio³⁵ V;SBJV;SG;1
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ndyio³⁵há⁵á⁵	n⁵ndí⁵ndyio³ V;PFV;PL;1+IN	n⁵ndí⁵chio³⁵ V;PFV;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵chio³⁵ʔu³	n⁵ndí⁵chio³⁵ V;PFV;SG;2;P	n⁵ndí⁵chio³⁵ V;PFV;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ndyio³⁵há⁵á⁵	n⁵ndí⁵ndyio³ V;PROG;PL;1+I	n⁵ndí⁵chio³⁵ V;PROG;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵chio³⁵én⁵	n⁵ndí⁵chioʔ³⁵ V;IRR;SG;3	n⁵ndí⁵chio³⁵ V;IRR;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: bá⁵ndí⁵ndyio³⁵ʔo³	n⁵ndí⁵ndyio³⁵ V;IPFV;PL;3;	n⁵ndí⁵chio³⁵ V;IPFV;PL;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵chio³⁵én⁵	n⁵ndí⁵chioʔ³⁵ V;SBJV;SG;	n⁵ndí⁵chio³⁵ V;SBJV;SG;3
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ndyio³⁵hâ³¹	n⁵ndí⁵ndyio³ V;IRR;PL;1+E	n⁵ndí⁵chio³⁵ V;IRR;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ndyio³⁵ʔo³	n⁵ndí⁵ndyio³⁵ V;PROG;PL;	n⁵ndí⁵chio³⁵ V;PROG;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵chio³⁵én⁵	n⁵ndí⁵chioʔ³⁵ V;PFV;SG;3	n⁵ndí⁵chio³⁵ V;PFV;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ndyio³⁵hâ³¹	n⁵ndí⁵ndyio³ V;PROG;PL;1+E	n⁵ndí⁵chio³⁵ V;PROG;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ndyio³⁵hâ³¹	n⁵ndí⁵ndyio³ V;PFV;PL;1+E	n⁵ndí⁵chio³⁵ V;PFV;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ndyio³⁵há⁵á⁵	n⁵ndí⁵ndyio³ V;IRR;PL;1+IN	n⁵ndí⁵chio³⁵ V;IRR;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵chio³⁵ha³	n⁵ndí⁵chio³⁵ V;PROG;SG;1;	n⁵ndí⁵chio³⁵ V;PROG;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: bá⁵ndí⁵ndyio³⁵hâ³¹	n⁵ndí⁵ndyio³ V;IPFV;PL;1+E	n⁵ndí⁵chio³⁵ V;IPFV;PL;1+EXCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ndyio³⁵há⁵á⁵	n⁵ndí⁵ndyio³ V;SBJV;PL;1+I	n⁵ndí⁵chio³⁵ V;SBJV;PL;1+INCL
+Generate the lemma and morphological tags for the following inflected verb: tí⁵chio³⁵ha³	n⁵ndí⁵chio³⁵ V;PFV;SG;1;P	n⁵ndí⁵chio³⁵ V;PFV;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵chio³⁵ʔu³	n⁵ndí⁵chio³⁵ V;IRR;SG;2;F	n⁵ndí⁵chio³⁵ V;IRR;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵chio³⁵én⁵	n⁵ndí⁵chioʔ³⁵ V;PROG;SG;	n⁵ndí⁵chio³⁵ V;PROG;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ndyio³⁵ʔo³	n⁵ndí⁵ndyio³⁵ V;SBJV;PL;3	n⁵ndí⁵chio³⁵ V;SBJV;PL;3
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ndyio³⁵ʔo³	n⁵ndí⁵ndyio³⁵ V;PFV;PL;3;P	n⁵ndí⁵chio³⁵ V;PFV;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ndyio³⁵há⁵á⁵	n⁵ndí⁵ndyio³ V;PROG;PL;1+I	n⁵ndí⁵chio³⁵ V;PROG;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: bá⁵ndí⁵chio³⁵ha³	n⁵ndí⁵chio³⁵ V;IPFV;SG;1;	n⁵ndí⁵chio³⁵ V;IPFV;SG;1;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ndyio³⁵ʔo³	n⁵ndí⁵ndyio³⁵ V;PROG;PL;	n⁵ndí⁵chio³⁵ V;PROG;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: bá⁵ndí⁵ndyio³⁵há⁵á⁵	n⁵ndí⁵ndyio³ V;IPFV;PL;1+I	n⁵ndí⁵chio³⁵ V;IPFV;PL;1+INCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ndyio³⁵hâ³¹	n⁵ndí⁵ndyio³⁵ V;PROG;PL;1+	n⁵ndí⁵chio³⁵ V;PROG;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵chio³⁵ʔu³	n⁵ndí⁵chio³⁵ V;SBJV;SG;2	n⁵ndí⁵chio³⁵ V;SBJV;SG;2
+Generate the lemma and morphological tags for the following inflected verb: bá⁵ndí⁵chio³⁵én⁵	n⁵ndí⁵chioʔ³⁵ V;IPFV;SG;	n⁵ndí⁵chio³⁵ V;IPFV;SG;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵chio³⁵ʔu³	n⁵ndí⁵chio³⁵ V;PROG;SG;2;F	n⁵ndí⁵chio³⁵ V;PROG;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: bá⁵ndí⁵chio³⁵ʔu³	n⁵ndí⁵chio³⁵ V;IPFV;SG;2;	n⁵ndí⁵chio³⁵ V;IPFV;SG;2;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵chio³⁵én⁵	n⁵ndí⁵chioʔ³⁵ V;PROG;SG;	n⁵ndí⁵chio³⁵ V;PROG;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ndyio³⁵hâ³¹	n⁵ndí⁵ndyio³ V;SBJV;PL;1+E	n⁵ndí⁵chio³⁵ V;SBJV;PL;1+EXCL
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵chio³⁵ha³	n⁵ndí⁵chio³⁵ V;IRR;SG;1;F	n⁵ndí⁵chio³⁵ V;IRR;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ndyio³⁵ʔo³	n⁵ndí⁵ndyio³⁵ V;IRR;PL;3;F	n⁵ndí⁵chio³⁵ V;IRR;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵chio³⁵ʔu³	n⁵ndí⁵chio³⁵ V;PROG;SG;2;	n⁵ndí⁵chio³⁵ V;PROG;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵chio³⁵ha³	n⁵ndí⁵chio³⁵ V;PROG;SG;1;F	n⁵ndí⁵chio³⁵ V;PROG;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵chiʔ³⁵	n⁵ndí⁵chiʔ³⁵ V;IRR;SG;2;F	n⁵ndí⁵chiʔ³⁵ V;IRR;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵chi³⁵í⁵	n⁵ndí⁵chi³⁵ V;IRR;SG;2;F	n⁵ndí⁵chiʔ³⁵ V;IRR;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: chi³⁵oʔ³	n⁵ndí⁵chi³⁵ V;IPFV;PL;3;	n⁵ndí⁵chiʔ³⁵ V;IPFV;PL;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: chi⁵³	n⁵ndí⁵chi³⁵ V;IPFV;SG;1;	n⁵ndí⁵chiʔ³⁵ V;IPFV;SG;1;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵chiʔ³⁵	n⁵ndí⁵chiʔ³⁵ V;PROG;SG;	n⁵ndí⁵chiʔ³⁵ V;PROG;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵chiʔ³⁵	n⁵ndí⁵chiʔ³⁵ V;SBJV;SG	n⁵ndí⁵chiʔ³⁵ V;SBJV;SG;3
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵chî³¹	n⁵ndí⁵chiʔ¹² V;PROG;PL;1	n⁵ndí⁵chiʔ³⁵ V;PROG;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵chi³⁵í⁵	n⁵ndí⁵chi³⁵ V;SBJV;SG;1	n⁵ndí⁵chiʔ³⁵ V;SBJV;PL;1+INCL
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵chi⁵³	n⁵ndí⁵chi³⁵ V;PROG;SG;3;P	n⁵ndí⁵chiʔ³⁵ V;PROG;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵chi³⁵oʔ³	n⁵ndí⁵chiʔ⁵³ V;SBJV;PL;	n⁵ndí⁵chiʔ³⁵ V;SBJV;PL;3
+Generate the lemma and morphological tags for the following inflected verb: chi³⁵í⁵	n⁵ndí⁵chi³⁵ V;IPFV;SG;1;	n⁵ndí⁵chiʔ³⁵ V;IPFV;PL;1+INCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: tí⁵chi³⁵oʔ³	n⁵ndí⁵chi³⁵ V;PFV;PL;3;P	n⁵ndí⁵chiʔ³⁵ V;PFV;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵chi³⁵í⁵	n⁵ndí⁵chi³⁵ V;PROG;SG;1;F	n⁵ndí⁵chiʔ³⁵ V;PROG;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵chi⁵³	n⁵ndí⁵chi³⁵ V;SBJV;SG;1	n⁵ndí⁵chiʔ³⁵ V;SBJV;SG;1
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵chîʔ³¹	n⁵ndí⁵chiʔ¹² V;PROG;SG;	n⁵ndí⁵chiʔ³⁵ V;PROG;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵chiʔ³⁵	n⁵ndí⁵chiʔ³⁵ V;PFV;SG;2	n⁵ndí⁵chiʔ³⁵ V;PFV;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵chi³⁵oʔ³	n⁵ndí⁵chi³⁵ V;PROG;PL;3;	n⁵ndí⁵chiʔ³⁵ V;PROG;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: chî³¹	n⁵ndí⁵chi³⁵ V;IPFV;PL;1+	n⁵ndí⁵chiʔ³⁵ V;IPFV;PL;1+EXCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵chî³¹	n⁵ndí⁵chiʔ¹² V;SBJV;PL;1	n⁵ndí⁵chiʔ³⁵ V;SBJV;PL;1+EXCL
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵chi³⁵í⁵	n⁵ndí⁵chi³⁵ V;PROG;SG;3;	n⁵ndí⁵chiʔ³⁵ V;PROG;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: chiʔ³⁵	n⁵ndí⁵chiʔ³⁵ V;IPFV;SG	n⁵ndí⁵chiʔ³⁵ V;IPFV;SG;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵chîʔ³¹	n⁵ndí⁵chiʔ¹² V;IRR;PL;1+	n⁵ndí⁵chiʔ³⁵ V;IRR;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵chîʔ³¹	n⁵ndí⁵chiʔ¹² V;SBJV;SG;	n⁵ndí⁵chiʔ³⁵ V;SBJV;SG;2
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵chî³¹	n⁵ndí⁵chiʔ¹² V;PROG;PL;1	n⁵ndí⁵chiʔ³⁵ V;PROG;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵chi³⁵í⁵	n⁵ndí⁵chi³⁵ V;PFV;SG;1;P	n⁵ndí⁵chiʔ³⁵ V;PFV;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵chi⁵³	n⁵ndí⁵chi³⁵ V;PFV;SG;1;PS	n⁵ndí⁵chiʔ³⁵ V;PFV;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵chi³⁵oʔ³	n⁵ndí⁵chi³⁵ V;PROG;PL;3;F	n⁵ndí⁵chiʔ³⁵ V;PROG;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵chîʔ³¹	n⁵ndí⁵chiʔ¹² V;PROG;PL;1	n⁵ndí⁵chiʔ³⁵ V;PROG;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵chîʔ³¹	n⁵ndí⁵chiʔ¹² V;PFV;SG;2;	n⁵ndí⁵chiʔ³⁵ V;PFV;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵chiʔ³⁵	n⁵ndí⁵chiʔ³⁵ V;PROG;SG;	n⁵ndí⁵chiʔ³⁵ V;PROG;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵chî³¹	n⁵ndí⁵chiʔ¹² V;PFV;PL;1+	n⁵ndí⁵chiʔ³⁵ V;PFV;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: chîʔ³¹	n⁵ndí⁵chiʔ¹² V;IPFV;SG;	n⁵ndí⁵chiʔ³⁵ V;IPFV;SG;2;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵chî³¹	n⁵ndí⁵chiʔ¹² V;IRR;PL;1+	n⁵ndí⁵chiʔ³⁵ V;IRR;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí³⁵chi³⁵oʔ³	n⁵ndí⁵chi³⁵ V;IRR;PL;3;F	n⁵ndí⁵chiʔ³⁵ V;IRR;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵chi⁵³	n⁵ndí⁵chi³⁵ V;IRR;SG;1;F	n⁵ndí⁵chiʔ³⁵ V;IRR;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵chi⁵³	n⁵ndí⁵chi³⁵ V;PROG;SG;3;F	n⁵ndí⁵chiʔ³⁵ V;PROG;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: bá⁵ndí⁵hndyoʔ³	n⁵ndí⁵hndyuʔ³⁴ V;IPFV;PL	n⁵ndí⁵hndyo³ V;IPFV;SG;2;PRS
+Generate the lemma and morphological tags for the following inflected verb: bá⁵ndí⁵hndyɔ³	n⁵ndí⁵hndyuʔ³⁴ V;IPFV;PL;	n⁵ndí⁵hndyo³ V;IPFV;SG;1;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵hndyɔ³	n⁵ndí⁵hndyuʔ³⁴ V;PROG;SG	n⁵ndí⁵hndyo³ V;PROG;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ndyo³hâ³¹	n⁵ndí⁵ndyo³ V;PROG;PL;1+EX	n⁵ndí⁵hndyo³ V;PROG;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: bá⁵ndí⁵ndyo³oʔ³	n⁵ndí⁵ndyoʔ³⁴ V;IPFV;PL;	n⁵ndí⁵hndyo³ V;IPFV;PL;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ndyo³oʔ³	n⁵ndí⁵ndyoʔ³⁴ V;SBJV;PL	n⁵ndí⁵hndyo³ V;SBJV;PL;3
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵hndyoʔ³	n⁵ndí⁵hndyuʔ³⁴ V;PROG;PL	n⁵ndí⁵hndyo³ V;PROG;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ndyo³hâ³¹	n⁵ndí⁵ndyo³ V;IRR;PL;1+EXC	n⁵ndí⁵hndyo³ V;IRR;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ndyɔ³⁴ɔ⁵	n⁵ndí⁵ndyoʔ³⁴ V;SBJV;PL	n⁵ndí⁵hndyo³ V;SBJV;PL;1+INCL
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵hndyɔ³	n⁵ndí⁵hndyuʔ³⁴ V;IRR;SG;	n⁵ndí⁵hndyo³ V;IRR;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ndyo³oʔ³	n⁵ndí⁵ndyoʔ³⁴ V;PFV;PL;	n⁵ndí⁵hndyo³ V;PFV;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵hndyoʔ³	n⁵ndí⁵hndyuʔ³⁴ V;PROG;PL	n⁵ndí⁵hndyo³ V;PROG;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵hndyɔ³	n⁵ndí⁵hndyuʔ³⁴ V;PROG;SG	n⁵ndí⁵hndyo³ V;PROG;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ndyɔ³⁴ɔ⁵	n⁵ndí⁵ndyoʔ³⁴ V;IRR;PL;	n⁵ndí⁵hndyo³ V;IRR;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵hndyɔ³	n⁵ndí⁵hndyuʔ³⁴ V;PFV;SG;	n⁵ndí⁵hndyo³ V;PFV;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ndyɔ³hâ³¹	n⁵ndí⁵ndyo³ V;PFV;PL;1+EX	n⁵ndí⁵hndyo³ V;PFV;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵hndyɔ³	n⁵ndí⁵hndyuʔ³⁴ V;PFV;SG;	n⁵ndí⁵hndyo³ V;PFV;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵hndyo³	n⁵ndí⁵hndyoʔ³⁴ V;PROG;PL	n⁵ndí⁵hndyo³ V;PROG;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵hndyɔ³	n⁵ndí⁵hndyuʔ³⁴ V;PFV;SG;	n⁵ndí⁵hndyo³ V;PFV;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ndyɔ³⁴ɔ⁵	n⁵ndí⁵ndyoʔ³⁴ V;PROG;PL;	n⁵ndí⁵hndyo³ V;PROG;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵hndyo³	n⁵ndí⁵hndyoʔ³⁴ V;PROG;SG	n⁵ndí⁵hndyo³ V;PROG;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: bá⁵ndí⁵ndyɔ³⁴ɔ⁵	n⁵ndí⁵ndyoʔ³⁴ V;IPFV;PL;	n⁵ndí⁵hndyo³ V;IPFV;PL;1+INCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵hndyo³	n⁵ndí⁵hndyoʔ³⁴ V;SBJV;SG	n⁵ndí⁵hndyo³ V;SBJV;SG;3
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵hndyoʔ³	n⁵ndí⁵hndyuʔ³⁴ V;SBJV;PL	n⁵ndí⁵hndyo³ V;SBJV;SG;2
+Generate the lemma and morphological tags for the following inflected verb: bá⁵ndí⁵hndyo³	n⁵ndí⁵hndyoʔ³⁴ V;IPFV;PL	n⁵ndí⁵hndyo³ V;IPFV;SG;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ndyo³hâ³¹	n⁵ndí⁵ndyo³ V;PROG;PL;1+EX	n⁵ndí⁵hndyo³ V;PROG;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵hndyo³	n⁵ndí⁵hndyoʔ³⁴ V;IRR;SG;	n⁵ndí⁵hndyo³ V;IRR;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵hndyɔ³	n⁵ndí⁵hndyuʔ³⁴ V;SBJV;SG	n⁵ndí⁵hndyo³ V;SBJV;SG;1
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ndyɔ³⁴ɔ⁵	n⁵ndí⁵ndyoʔ³⁴ V;PFV;PL;	n⁵ndí⁵hndyo³ V;PFV;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ndyo³oʔ³	n⁵ndí⁵ndyoʔ³⁴ V;PROG;PL;	n⁵ndí⁵hndyo³ V;PROG;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ndyo³oʔ³	n⁵ndí⁵ndyoʔ³⁴ V;IRR;PL;	n⁵ndí⁵hndyo³ V;IRR;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ndyɔ³⁴ɔ⁵	n⁵ndí⁵ndyoʔ³⁴ V;PROG;PL;	n⁵ndí⁵hndyo³ V;PROG;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵hndyoʔ³	n⁵ndí⁵hndyuʔ³⁴ V;IRR;PL;	n⁵ndí⁵hndyo³ V;IRR;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: bá⁵ndí⁵ndyo³hâ³¹	n⁵ndí⁵ndyo³ V;IPFV;PL;1+EX	n⁵ndí⁵hndyo³ V;IPFV;PL;1+EXCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ndyo³hâ³¹	n⁵ndí⁵ndyo³ V;SBJV;PL;1+E	n⁵ndí⁵hndyo³ V;SBJV;PL;1+EXCL
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ndyo³oʔ³	n⁵ndí⁵ndyoʔ³⁴ V;PROG;PL;	n⁵ndí⁵hndyo³ V;PROG;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵khɛ⁵³	n⁵ndí⁵kheʔ³⁵ V;IRR;SG;3	n⁵ndí⁵khéʔ⁵ V;IRR;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵hé⁵oʔ³	n⁵ndí⁵hé⁵ V;SBJV;PL;3	n⁵ndí⁵khéʔ⁵ V;SBJV;PL;3
+Generate the lemma and morphological tags for the following inflected verb: tí⁵khɛ⁵³	n⁵ndí⁵kheʔ³⁵ V;PFV;SG;3	n⁵ndí⁵khéʔ⁵ V;PFV;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵khê³¹	n⁵ndí⁵kheʔ¹² V;PFV;PL;1+	n⁵ndí⁵khéʔ⁵ V;PFV;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵khéʔ⁵	n⁵ndí⁵khéʔ⁵ V;PROG;SG;3	n⁵ndí⁵khéʔ⁵ V;PROG;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵khɛ⁵é⁵	n⁵ndí⁵kheʔ³⁵ V;PROG;SG;	n⁵ndí⁵khéʔ⁵ V;PROG;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: ko³ndí⁵khé⁵oʔ³	n⁵ndí⁵khé⁵ V;IPFV;PL;3;P	n⁵ndí⁵khéʔ⁵ V;IPFV;PL;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵khêʔ³¹	n⁵ndí⁵kheʔ³⁵ V;SBJV;PL	n⁵ndí⁵khéʔ⁵ V;SBJV;SG;2
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵khé⁵oʔ³	n⁵ndí⁵khé⁵ V;PROG;PL;3;P	n⁵ndí⁵khéʔ⁵ V;PROG;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵khɛ⁵é⁵	n⁵ndí⁵kheʔ³⁵ V;PROG;SG;	n⁵ndí⁵khéʔ⁵ V;PROG;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: ma³ndí⁵khêʔ³¹	n⁵ndí⁵kheʔ³⁵ V;IPFV;PL;	n⁵ndí⁵khéʔ⁵ V;IPFV;SG;2;PRS
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵khɛ⁵é⁵	n⁵ndí⁵kheʔ³⁵ V;SBJV;SG	n⁵ndí⁵khéʔ⁵ V;SBJV;PL;1+INCL
+Generate the lemma and morphological tags for the following inflected verb: tí⁵khɛ⁵é⁵	n⁵ndí⁵kheʔ³⁵ V;PFV;SG;3	n⁵ndí⁵khéʔ⁵ V;PFV;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: ʔ⁵ndí⁵khéʔ⁵	n⁵ndí⁵khéʔ⁵ V;IPFV;SG;3	n⁵ndí⁵khéʔ⁵ V;IPFV;SG;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: ko³ndí⁵khê³¹	n⁵ndí⁵kheʔ¹² V;IPFV;PL;1	n⁵ndí⁵khéʔ⁵ V;IPFV;PL;1+EXCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵khêʔ³¹	n⁵ndí⁵kheʔ³⁵ V;PROG;PL;	n⁵ndí⁵khéʔ⁵ V;PROG;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵khê³¹	n⁵ndí⁵kheʔ¹² V;PROG;PL;1	n⁵ndí⁵khéʔ⁵ V;PROG;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵khɛ⁵³	n⁵ndí⁵kheʔ³⁵ V;SBJV;SG	n⁵ndí⁵khéʔ⁵ V;SBJV;SG;1
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵khéʔ⁵	n⁵ndí⁵khéʔ⁵ V;IRR;SG;1;F	n⁵ndí⁵khéʔ⁵ V;IRR;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵khéʔ⁵	n⁵ndí⁵khéʔ⁵ V;PFV;SG;3;	n⁵ndí⁵khéʔ⁵ V;PFV;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵khé⁵oʔ³	n⁵ndí⁵khé⁵ V;PROG;PL;3;FU	n⁵ndí⁵khéʔ⁵ V;PROG;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵khéʔ⁵	n⁵ndí⁵khéʔ⁵ V;PROG;SG;3	n⁵ndí⁵khéʔ⁵ V;PROG;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵khé⁵oʔ³	n⁵ndí⁵khéʔ⁵ V;IRR;PL;3;F	n⁵ndí⁵khéʔ⁵ V;IRR;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵khê³¹	n⁵ndí⁵kheʔ¹² V;PROG;PL;1	n⁵ndí⁵khéʔ⁵ V;PROG;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵khêʔ³¹	n⁵ndí⁵kheʔ³⁵ V;IRR;PL;1+	n⁵ndí⁵khéʔ⁵ V;IRR;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵khé⁵oʔ³	n⁵ndí⁵khé⁵ V;PFV;PL;3;PST	n⁵ndí⁵khéʔ⁵ V;PFV;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵khɛ⁵é⁵	n⁵ndí⁵kheʔ³⁵ V;IRR;SG;3	n⁵ndí⁵khéʔ⁵ V;IRR;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: ko³ndí⁵khɛ⁵é⁵	n⁵ndí⁵kheʔ³⁵ V;IPFV;SG;	n⁵ndí⁵khéʔ⁵ V;IPFV;PL;1+INCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: ma³ndí⁵khɛ⁵³	n⁵ndí⁵kheʔ³⁵ V;IPFV;SG;	n⁵ndí⁵khéʔ⁵ V;IPFV;SG;1;PRS
+Generate the lemma and morphological tags for the following inflected verb: tí⁵khêʔ³¹	n⁵ndí⁵kheʔ³⁵ V;PFV;PL;1+	n⁵ndí⁵khéʔ⁵ V;PFV;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵khê³¹	n⁵ndí⁵kheʔ¹² V;IRR;PL;1+	n⁵ndí⁵khéʔ⁵ V;IRR;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵khêʔ³¹	n⁵ndí⁵kheʔ³⁵ V;PROG;PL;	n⁵ndí⁵khéʔ⁵ V;PROG;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵khɛ⁵³	n⁵ndí⁵kheʔ³⁵ V;PROG;SG;	n⁵ndí⁵khéʔ⁵ V;PROG;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵khɛ⁵³	n⁵ndí⁵kheʔ³⁵ V;PROG;SG;	n⁵ndí⁵khéʔ⁵ V;PROG;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵khéʔ⁵	n⁵ndí⁵khéʔ⁵ V;SBJV;SG;	n⁵ndí⁵khéʔ⁵ V;SBJV;SG;3
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ki³hndyû³¹	n⁵ndí⁵ki³hndyuʔ³⁴ V;IRR	n⁵ndí⁵ki³hndyu³ V;IRR;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: hndyu³	n⁵ndyuʔ³⁵ V;PFV;SG;2;PST	n⁵ndí⁵ki³hndyu³ V;IPFV;SG;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ki³hndyû³¹	n⁵ndí⁵ki³hndyuʔ³⁴ V;SB	n⁵ndí⁵ki³hndyu³ V;SBJV;PL;1+EXCL
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ki³hndyu³	n⁵ndí⁵ki³hndyuʔ³ V;PFV;SG	n⁵ndí⁵ki³hndyu³ V;PFV;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ki³hndyu⁵³	n⁵ndyuʔ³⁵ V;PROG;SG;2;FUT	n⁵ndí⁵ki³hndyu³ V;PROG;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ki³hndyû³¹	n⁵ndyuʔ³⁵ V;PROG;PL;1+EXCL;	n⁵ndí⁵ki³hndyu³ V;PROG;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ki³hndyû³¹	n⁵ndí⁵ki³hndyuʔ³⁴ V;PF	n⁵ndí⁵ki³hndyu³ V;PFV;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ki³hndyu¹²ú⁵	n⁵ndí⁵ki³hndyuʔ¹² V;SBJ	n⁵ndí⁵ki³hndyu³ V;SBJV;PL;1+INCL
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ki³hndyu³	n⁵ndí⁵ki³hndyuʔ³⁴ V;IRR	n⁵ndí⁵ki³hndyu³ V;IRR;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ki³hndyu⁵³	n⁵ndí⁵ki³hndyuʔ³⁴ V;PFV	n⁵ndí⁵ki³hndyu³ V;PFV;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ki³hndyu³	n⁵ndí⁵ki³hndyuʔ³ V;PFV;SG	n⁵ndí⁵ki³hndyu³ V;PFV;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ki³hndyu³	n⁵ndyuʔ³⁵ V;PROG;SG;3;PST	n⁵ndí⁵ki³hndyu³ V;PROG;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ki³hndyu⁵³.	n⁵ndí⁵ki³hndyuʔ³ V;SBJV;	n⁵ndí⁵ki³hndyu³ V;SBJV;SG;1
+Generate the lemma and morphological tags for the following inflected verb: hndyu¹²oʔ³	n⁵ndyuʔ³⁵ V;PFV;PL;3;PST	n⁵ndí⁵ki³hndyu³ V;IPFV;PL;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ki³hndyuʔ³	n⁵ndí⁵ki³hndyuʔ³ V;SBJV;	n⁵ndí⁵ki³hndyu³ V;SBJV;SG;2
+Generate the lemma and morphological tags for the following inflected verb: hndyu¹²ú⁵	n⁵ndyuʔ³⁵ V;PFV;SG;1;PST	n⁵ndí⁵ki³hndyu³ V;IPFV;PL;1+INCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ki³hndyu¹²ú⁵	n⁵ndí⁵ki³hndyuʔ¹² V;IRR	n⁵ndí⁵ki³hndyu³ V;IRR;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ki³hndyuʔ³	n⁵ndyuʔ³⁴ V;PROG;SG;2;FUT	n⁵ndí⁵ki³hndyu³ V;PROG;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ki³hndyu⁵³	n⁵ndí⁵ki³hndyuʔ³⁴ V;IRR	n⁵ndí⁵ki³hndyu³ V;IRR;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ki³hndyu¹²oʔ³	n⁵ndí⁵ki³hndyuʔ³⁴ V;IRR	n⁵ndí⁵ki³hndyu³ V;IRR;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ki³hndyu³	n⁵ndí⁵ki³hndyuʔ³ V;SBJV;S	n⁵ndí⁵ki³hndyu³ V;SBJV;SG;3
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ki³hndyû³¹	n⁵ndyuʔ³⁵ V;PROG;PL;1+EXCL;F	n⁵ndí⁵ki³hndyu³ V;PROG;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: hndyuʔ³	n⁵ndyuʔ³⁵ V;PFV;SG;2;PST	n⁵ndí⁵ki³hndyu³ V;IPFV;SG;2;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³ki³hndyu⁵³	n⁵ndyuʔ³⁵ V;PROG;SG;3;PST	n⁵ndí⁵ki³hndyu³ V;PROG;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ki³hndyuʔ³	n⁵ndyuʔ³⁴ V;PROG;SG;2;PST	n⁵ndí⁵ki³hndyu³ V;PROG;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: hndyu⁵³	n⁵ndyuʔ³⁵ V;PFV;SG;2;PST	n⁵ndí⁵ki³hndyu³ V;IPFV;SG;1;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ki³hndyuʔ³	n⁵ndí⁵ki³hndyuʔ³ V;IRR;S	n⁵ndí⁵ki³hndyu³ V;IRR;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ki³hndyu¹²ú⁵	n⁵ndyuʔ³⁵ V;PROG;PL;1+INCL;F	n⁵ndí⁵ki³hndyu³ V;PROG;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ki³hndyu³	n⁵ndyuʔ³⁵ V;PROG;SG;2;FUT	n⁵ndí⁵ki³hndyu³ V;PROG;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ki³hndyu¹²ú⁵	n⁵ndí⁵ki³hndyuʔ¹² V;PFV	n⁵ndí⁵ki³hndyu³ V;PFV;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ki³hndyu¹²oʔ³	n⁵ndyuʔ³⁵ V;PROG;PL;3;PST	n⁵ndí⁵ki³hndyu³ V;PROG;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: hndyû³¹ndyû³¹	n⁵ndyuʔ³⁵ndyó⁵ V;PFV;PL;	n⁵ndí⁵ki³hndyu³ V;IPFV;PL;1+EXCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³ki³hndyu¹²ú⁵	n⁵ndyuʔ³⁵ V;PROG;PL;1+INCL;	n⁵ndí⁵ki³hndyu³ V;PROG;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ki³hndyu¹²oʔ³	n⁵ndí⁵ki³hndyuʔ³⁴ V;SB	n⁵ndí⁵ki³hndyu³ V;SBJV;PL;3
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ki³hndyu¹²oʔ³	n⁵ndyuʔ³⁵ V;PROG;PL;3;FUT	n⁵ndí⁵ki³hndyu³ V;PROG;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ki³hndyu¹²oʔ³	n⁵ndí⁵ki³hndyuʔ³⁴ V;PF	n⁵ndí⁵ki³hndyu³ V;PFV;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ki³nchʔà¹ha³	n⁵ndí⁵ki³nchʔà¹ V;PROG;S	n⁵ndí⁵ki³nchʔà¹ V;PROG;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ki³nchʔà¹ʔo³	n⁵ndí⁵ki³nchʔà¹ V;SBJV;	n⁵ndí⁵ki³nchʔà¹ V;SBJV;PL;3
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ki³nchʔà¹ha³	n⁵ndí⁵ki³nchʔà¹ V;SBJV;	n⁵ndí⁵ki³nchʔà¹ V;SBJV;SG;1
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ki³nchʔà¹hâ³¹	n⁵ndí⁵ki³nchʔà¹ V;IRR;P	n⁵ndí⁵ki³nchʔà¹ V;IRR;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ki³nchʔà¹há⁵á⁵	n⁵ndí⁵ki³nchʔà¹ V;PFV;P	n⁵ndí⁵ki³nchʔà¹ V;PFV;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ki³nchʔà¹én⁵	n⁵ndí⁵ki³nchʔà¹ V;SBJV;	n⁵ndí⁵ki³nchʔà¹ V;SBJV;SG;3
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ki³nchʔà¹ha³	n⁵ndí⁵ki³nchʔà¹ V;PFV;S	n⁵ndí⁵ki³nchʔà¹ V;PFV;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ki³nchʔà¹ʔu³	n⁵ndí⁵ki³nchʔà¹ V;PFV;S	n⁵ndí⁵ki³nchʔà¹ V;PFV;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ki³nchʔà¹há⁵á⁵	n⁵ndí⁵ki³nchʔà¹ V;IRR;P	n⁵ndí⁵ki³nchʔà¹ V;IRR;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ki³nchʔà¹há⁵á⁵	n⁵ndí⁵ki³nchʔà¹ V;SBJV;	n⁵ndí⁵ki³nchʔà¹ V;SBJV;PL;1+INCL
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ki³nchʔà¹hâ³¹	n⁵ndí⁵ki³nchʔà¹ V;PROG;P	n⁵ndí⁵ki³nchʔà¹ V;PROG;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: bá⁵ndí⁵ki³nchʔa¹ʔo³	n⁵ndí⁵ki³nchʔa¹ V;IPFV;P	n⁵ndí⁵ki³nchʔà¹ V;IPFV;PL;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ki³nchʔà¹ha³	n⁵ndí⁵ki³nchʔà¹ V;IRR;S	n⁵ndí⁵ki³nchʔà¹ V;IRR;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ki³nchʔà¹én⁵	n⁵ndí⁵ki³nchʔà¹ V;PROG;S	n⁵ndí⁵ki³nchʔà¹ V;PROG;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: nchʔà¹ha³	n⁵nchʔà¹ V;IPFV;SG;1;PRS	n⁵ndí⁵ki³nchʔà¹ V;IPFV;SG;1;PRS
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ki³nchʔà¹ʔo³	n⁵ndí⁵ki³nchʔà¹ V;PFV;P	n⁵ndí⁵ki³nchʔà¹ V;PFV;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ki³nchʔà¹ʔu³	n⁵ndí⁵ki³nchʔà¹ V;IRR;S	n⁵ndí⁵ki³nchʔà¹ V;IRR;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: bá⁵ndí⁵ki³nchʔà¹ʔu³	n⁵ndí⁵ki³nchʔà¹ V;IPFV;S	n⁵ndí⁵ki³nchʔà¹ V;IPFV;SG;2;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ki³nchʔà¹hâ³¹	n⁵ndí⁵ki³nchʔà¹ V;PROG;P	n⁵ndí⁵ki³nchʔà¹ V;PROG;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ki³nchʔà¹ʔo³	n⁵ndí⁵ki³nchʔà¹ V;PROG;P	n⁵ndí⁵ki³nchʔà¹ V;PROG;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ki³nchʔà¹hâ³¹	n⁵ndí⁵ki³nchʔà¹ V;SBJV;	n⁵ndí⁵ki³nchʔà¹ V;SBJV;PL;1+EXCL
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ki³nchʔà¹ʔu³	n⁵ndí⁵ki³nchʔà¹ V;PROG;S	n⁵ndí⁵ki³nchʔà¹ V;PROG;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ki³nchʔà¹hâ³¹	n⁵ndí⁵ki³nchʔà¹ V;PFV;P	n⁵ndí⁵ki³nchʔà¹ V;PFV;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: bá⁵ndí⁵ki³nchʔà¹há⁵á⁵	n⁵ndí⁵ki³nchʔà¹ V;IPFV;P	n⁵ndí⁵ki³nchʔà¹ V;IPFV;PL;1+INCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ki³nchʔà¹ʔu³	n⁵ndí⁵ki³nchʔà¹ V;SBJV;	n⁵ndí⁵ki³nchʔà¹ V;SBJV;SG;2
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ki³nchʔàén⁵	n⁵ndí⁵ki³nchʔàén⁵ V;PF	n⁵ndí⁵ki³nchʔà¹ V;PFV;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ki³nchʔà¹én⁵	n⁵ndí⁵ki³nchʔà¹ V;PROG;S	n⁵ndí⁵ki³nchʔà¹ V;PROG;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: bá⁵ndí⁵ki³nchʔà¹én⁵	n⁵ndí⁵ki³nchʔà¹ V;IPFV;S	n⁵ndí⁵ki³nchʔà¹ V;IPFV;SG;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ki³nchʔà¹én⁵	n⁵ndí⁵ki³nchʔà¹ V;IRR;S	n⁵ndí⁵ki³nchʔà¹ V;IRR;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ki³nchʔà¹ha³	n⁵ndí⁵ki³nchʔà¹ V;PROG;S	n⁵ndí⁵ki³nchʔà¹ V;PROG;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ki³nchʔà¹ʔo³	n⁵ndí⁵ki³nchʔà¹ V;IRR;P	n⁵ndí⁵ki³nchʔà¹ V;IRR;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: bá⁵ndí⁵ki³nchʔà¹hâ³¹	n⁵ndí⁵ki³nchʔà¹ V;IPFV;P	n⁵ndí⁵ki³nchʔà¹ V;IPFV;PL;1+EXCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ki³nchʔà¹ʔo³	n⁵ndí⁵ki³nchʔà¹ V;PROG;P	n⁵ndí⁵ki³nchʔà¹ V;PROG;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ki³nchʔà¹há⁵á⁵	n⁵ndí⁵ki³nchʔà¹ V;PROG;P	n⁵ndí⁵ki³nchʔà¹ V;PROG;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ki³nchʔà¹há⁵á⁵	n⁵ndí⁵ki³nchʔà¹ V;PROG;P	n⁵ndí⁵ki³nchʔà¹ V;PROG;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵kì¹ʔuà¹ʔu³	n⁵ndí⁵kì¹ʔuà¹ V;PROG;S	n⁵ndí⁵kì¹ʔuà¹ V;PROG;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵kì¹ʔuà¹én⁵	n⁵ndí⁵kì¹ʔuà¹ V;IRR;SG;	n⁵ndí⁵kì¹ʔuà¹ V;IRR;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵kì¹ʔuà¹hâ³¹	n⁵ndí⁵kì¹ʔuà¹ V;PROG;P	n⁵ndí⁵kì¹ʔuà¹ V;PROG;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵kì¹ʔuà¹hâ³¹	n⁵ndí⁵kì¹ʔuà¹ V;SBJV;P	n⁵ndí⁵kì¹ʔuà¹ V;SBJV;PL;1+EXCL
+Generate the lemma and morphological tags for the following inflected verb: ko³ndí⁵kì¹ʔuà¹hâ³¹	n⁵ndí⁵kì¹ʔuà¹ V;IPFV;P	n⁵ndí⁵kì¹ʔuà¹ V;IPFV;PL;1+EXCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵kì¹ʔuà¹ʔo³	n⁵ndí⁵kì¹ʔuà¹ V;PROG;P	n⁵ndí⁵kì¹ʔuà¹ V;PROG;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: ko³ndí⁵kì¹ʔuà¹ʔu³	n⁵ndí⁵kì¹ʔuà¹ V;IPFV;S	n⁵ndí⁵kì¹ʔuà¹ V;IPFV;SG;2;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵kì¹ʔuà¹én⁵	n⁵ndí⁵kì¹ʔuà¹ V;PROG;S	n⁵ndí⁵kì¹ʔuà¹ V;PROG;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵kì¹ʔuà¹ha³	n⁵ndí⁵kì¹ʔuà¹ V;PROG;SG	n⁵ndí⁵kì¹ʔuà¹ V;PROG;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵kì¹ʔuà¹hâ³¹	n⁵ndí⁵kì¹ʔuà¹ V;PROG;P	n⁵ndí⁵kì¹ʔuà¹ V;PROG;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: ko³ndí⁵kì¹ʔuà¹há⁵á⁵	n⁵ndí⁵kì¹ʔuà¹ V;IPFV;P	n⁵ndí⁵kì¹ʔuà¹ V;IPFV;PL;1+INCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵kì¹ʔuà¹há⁵á⁵	n⁵ndí⁵kì¹ʔuà¹ V;IRR;PL;	n⁵ndí⁵kì¹ʔuà¹ V;IRR;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵kì¹ʔuà¹ha³	n⁵ndí⁵kì¹ʔuà¹ V;SBJV;S	n⁵ndí⁵kì¹ʔuà¹ V;SBJV;SG;1
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵kì⁵ʔuà¹én⁵	n⁵ndí⁵kì⁵ʔuà¹ V;PROG;S	n⁵ndí⁵kì¹ʔuà¹ V;PROG;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵kì¹ʔuà¹ʔo³	n⁵ndí⁵kì¹ʔuà¹ V;PFV;PL	n⁵ndí⁵kì¹ʔuà¹ V;PFV;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵kì¹ʔuà¹ha³	n⁵ndí⁵kì¹ʔuà¹ V;PROG;SG	n⁵ndí⁵kì¹ʔuà¹ V;PROG;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: ko³ndí⁵kì¹ʔuà¹ʔo³	n⁵ndí⁵kì¹ʔuà¹ V;IPFV;P	n⁵ndí⁵kì¹ʔuà¹ V;IPFV;PL;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵kì¹ʔuà¹há⁵á⁵	n⁵ndí⁵kì¹ʔuà¹ V;PROG;PL	n⁵ndí⁵kì¹ʔuà¹ V;PROG;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵kì¹ʔuà¹ʔu³	n⁵ndí⁵kì¹ʔuà¹ V;PFV;SG	n⁵ndí⁵kì¹ʔuà¹ V;PFV;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵kì¹ʔuà¹ʔo³	n⁵ndí⁵kì¹ʔuà¹ V;IRR;PL;	n⁵ndí⁵kì¹ʔuà¹ V;IRR;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵kì¹ʔuà¹ha³	n⁵ndí⁵kì¹ʔuà¹ V;PFV;SG	n⁵ndí⁵kì¹ʔuà¹ V;PFV;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵kì¹ʔuà¹há⁵á⁵	n⁵ndí⁵kì¹ʔuà¹ V;PROG;P	n⁵ndí⁵kì¹ʔuà¹ V;PROG;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵kì¹ʔuà¹há⁵á⁵	n⁵ndí⁵kì¹ʔuà¹ V;PFV;PL	n⁵ndí⁵kì¹ʔuà¹ V;PFV;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵kì¹ʔuà¹ʔo³	n⁵ndí⁵kì¹ʔuà¹ V;SBJV;P	n⁵ndí⁵kì¹ʔuà¹ V;SBJV;PL;3
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵kì¹ʔuà¹há⁵á⁵	n⁵ndí⁵kì¹ʔuà¹ V;SBJV;P	n⁵ndí⁵kì¹ʔuà¹ V;SBJV;PL;1+INCL
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵kì¹ʔuà¹ʔo³	n⁵ndí⁵kì¹ʔuà¹ V;PROG;P	n⁵ndí⁵kì¹ʔuà¹ V;PROG;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵kì¹ʔuà¹ʔu³	n⁵ndí⁵kì¹ʔuà¹ V;SBJV;S	n⁵ndí⁵kì¹ʔuà¹ V;SBJV;SG;2
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵kì¹ʔuà¹én⁵	n⁵ndí⁵kì¹ ʔuà¹ V;SBJV;S	n⁵ndí⁵kì¹ʔuà¹ V;SBJV;SG;3
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵kì¹ʔuà¹ʔu³	n⁵ndí⁵kì¹ʔuà¹ V;IRR;SG;	n⁵ndí⁵kì¹ʔuà¹ V;IRR;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵kì¹ʔuà¹hâ³¹	n⁵ndí⁵kì¹ʔuà¹ V;PFV;PL	n⁵ndí⁵kì¹ʔuà¹ V;PFV;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵kì¹ʔuà¹hâ³¹	n⁵ndí⁵kì¹ʔuà¹ V;IRR;PL	n⁵ndí⁵kì¹ʔuà¹ V;IRR;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵kì¹ʔuà¹ʔu³	n⁵ndí⁵kì¹ʔuà¹ V;PROG;S	n⁵ndí⁵kì¹ʔuà¹ V;PROG;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: ko³ndí⁵kì¹ʔuà¹én⁵	n⁵ndí⁵kì¹ʔuà¹ V;IPFV;S	n⁵ndí⁵kì¹ʔuà¹ V;IPFV;SG;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵kì¹ʔuà¹ha³	n⁵ndí⁵kì¹ʔuà¹ V;IRR;SG	n⁵ndí⁵kì¹ʔuà¹ V;IRR;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵kì¹ʔuà¹én⁵	n⁵ndí⁵kì¹ ʔuà¹ V;PFV;SG	n⁵ndí⁵kì¹ʔuà¹ V;PFV;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: ko³ndí⁵kì¹ʔuà¹ha³	n⁵ndí⁵kì¹ʔuà¹ V;IPFV;SG	n⁵ndí⁵kì¹ʔuà¹ V;IPFV;SG;1;PRS
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵kí⁵lʔɛ⁵ha³	n⁵ndí⁵kí⁵lʔɛ⁵ V;SBJV;	n⁵ndí⁵kí⁵lʔɛ⁵ V;SBJV;SG;1
+Generate the lemma and morphological tags for the following inflected verb: bá⁵ndí⁵kí⁵lʔɛ⁵én⁵	n⁵ndí⁵kí⁵lʔɛ⁵ V;IPFV;S	n⁵ndí⁵kí⁵lʔɛ⁵ V;IPFV;SG;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵kí⁵lʔɛ⁵hâ³¹	n⁵ndí⁵kí⁵lʔɛ⁵ V;SBJV;P	n⁵ndí⁵kí⁵lʔɛ⁵ V;SBJV;PL;1+EXCL
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵kï⁵lʔɛ⁵ʔu³	n⁵ndí⁵kï⁵lʔɛ⁵ V;PROG;S	n⁵ndí⁵kí⁵lʔɛ⁵ V;PROG;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵kí⁵lʔɛ⁵ʔu³	n⁵ndí⁵kí⁵lʔɛ⁵ V;SBJV;S	n⁵ndí⁵kí⁵lʔɛ⁵ V;SBJV;SG;2
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵kí⁵lʔɛ⁵én⁵	n⁵ndí⁵kí⁵lʔɛ⁵ V;PROG;S	n⁵ndí⁵kí⁵lʔɛ⁵ V;PROG;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ki⁵lʔɛ⁵ha⁵á⁵	n⁵ndí⁵ki⁵lʔɛ⁵ V;PROG;P	n⁵ndí⁵kí⁵lʔɛ⁵ V;PROG;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵kí⁵lʔɛ⁵há⁵á⁵	n⁵ndí⁵kí⁵lʔɛ⁵ V;IRR;P	n⁵ndí⁵kí⁵lʔɛ⁵ V;IRR;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵kí⁵lʔɛ⁵há⁵á⁵	n⁵ndí⁵kí⁵lʔɛ⁵ V;PROG;P	n⁵ndí⁵kí⁵lʔɛ⁵ V;PROG;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵kí⁵lʔɛ⁵ʔo³	n⁵ndí⁵kí⁵lʔɛ⁵ V;SBJV;P	n⁵ndí⁵kí⁵lʔɛ⁵ V;SBJV;PL;3
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵kí⁵lʔɛ⁵ʔo³	n⁵ndí⁵kí⁵lʔɛ⁵ V;IRR;P	n⁵ndí⁵kí⁵lʔɛ⁵ V;IRR;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵kí⁵lʔɛ⁵hâ³¹	n⁵ndí⁵kí⁵lʔɛ⁵ V;PFV;P	n⁵ndí⁵kí⁵lʔɛ⁵ V;PFV;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: bá⁵ndí⁵kí⁵lʔɛ⁵ha³	n⁵ndí⁵kí⁵lʔɛ⁵ V;IPFV;S	n⁵ndí⁵kí⁵lʔɛ⁵ V;IPFV;SG;1;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵kí⁵lʔɛ⁵én⁵	n⁵ndí⁵kí⁵lʔɛ⁵ V;IRR;S	n⁵ndí⁵kí⁵lʔɛ⁵ V;IRR;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: bá⁵ndí⁵kí⁵lʔɛ⁵há⁵á⁵	n⁵ndí⁵kí⁵lʔɛ⁵ V;IPFV;P	n⁵ndí⁵kí⁵lʔɛ⁵ V;IPFV;PL;1+INCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵kï⁵lʔɛ⁵ʔu³	n⁵ndí⁵kï⁵lʔɛ⁵ V;PROG;S	n⁵ndí⁵kí⁵lʔɛ⁵ V;PROG;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵kí⁵lʔɛ⁵há⁵á⁵	n⁵ndí⁵kí⁵lʔɛ⁵ V;SBJV;P	n⁵ndí⁵kí⁵lʔɛ⁵ V;SBJV;PL;1+INCL
+Generate the lemma and morphological tags for the following inflected verb: tí⁵kí⁵lʔɛ⁵ha³	n⁵ndí⁵kí⁵lʔɛ⁵ V;PFV;S	n⁵ndí⁵kí⁵lʔɛ⁵ V;PFV;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: bá⁵ndí⁵kí⁵lʔɛ⁵ʔo³	n⁵ndí⁵kí⁵lʔɛ⁵ V;IPFV;P	n⁵ndí⁵kí⁵lʔɛ⁵ V;IPFV;PL;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵kí⁵lʔɛ⁵hâ³¹	n⁵ndí⁵kí⁵lʔɛ⁵ V;PROG;P	n⁵ndí⁵kí⁵lʔɛ⁵ V;PROG;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ki⁵lʔɛ⁵hâ³¹	n⁵ndí⁵ki⁵lʔɛ⁵ V;PROG;P	n⁵ndí⁵kí⁵lʔɛ⁵ V;PROG;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵kí⁵lʔɛ⁵ha³	n⁵ndí⁵kí⁵lʔɛ⁵ V;PROG;S	n⁵ndí⁵kí⁵lʔɛ⁵ V;PROG;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: bá⁵ndí⁵kí⁵lʔɛ⁵hâ³¹	n⁵ndí⁵kí⁵lʔɛ⁵ V;IPFV;P	n⁵ndí⁵kí⁵lʔɛ⁵ V;IPFV;PL;1+EXCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: bá⁵ndí⁵kï⁵lʔɛ⁵ʔu³	n⁵ndí⁵kï⁵lʔɛ⁵ V;IPFV;S	n⁵ndí⁵kí⁵lʔɛ⁵ V;IPFV;SG;2;PRS
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵kí⁵lʔɛ⁵én⁵	n⁵ndí⁵kí⁵lʔɛ⁵ V;SBJV;	n⁵ndí⁵kí⁵lʔɛ⁵ V;SBJV;SG;3
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵kí⁵lʔɛ⁵hâ³¹	n⁵ndí⁵kí⁵lʔɛ⁵ V;IRR;P	n⁵ndí⁵kí⁵lʔɛ⁵ V;IRR;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ki⁵lʔɛ⁵ʔo³	n⁵ndí⁵ki⁵lʔɛ⁵ V;PROG;P	n⁵ndí⁵kí⁵lʔɛ⁵ V;PROG;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵kí⁵lʔɛ⁵ʔu³	n⁵ndí⁵kí⁵lʔɛ⁵ V;IRR;S	n⁵ndí⁵kí⁵lʔɛ⁵ V;IRR;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ki⁵lʔɛ⁵én⁵	n⁵ndí⁵ki⁵lʔɛ⁵ V;PROG;S	n⁵ndí⁵kí⁵lʔɛ⁵ V;PROG;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵kí⁵lʔɛ⁵ʔo³	n⁵ndí⁵kí⁵lʔɛ⁵ V;PROG;P	n⁵ndí⁵kí⁵lʔɛ⁵ V;PROG;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵kí⁵lʔɛ⁵ʔo³	n⁵ndí⁵kí⁵lʔɛ⁵ V;PFV;P	n⁵ndí⁵kí⁵lʔɛ⁵ V;PFV;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵kí⁵lʔɛ⁵ʔu³	n⁵ndí⁵kí⁵lʔɛ⁵ V;PFV;S	n⁵ndí⁵kí⁵lʔɛ⁵ V;PFV;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵kí⁵lʔɛ⁵én⁵	n⁵ndí⁵kí⁵lʔɛ⁵ V;PFV;S	n⁵ndí⁵kí⁵lʔɛ⁵ V;PFV;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵kí⁵lʔɛ⁵ha³	n⁵ndí⁵kí⁵lʔɛ⁵ V;IRR;S	n⁵ndí⁵kí⁵lʔɛ⁵ V;IRR;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵kí⁵lʔɛ⁵há⁵á⁵	n⁵ndí⁵kí⁵lʔɛ⁵ V;PFV;P	n⁵ndí⁵kí⁵lʔɛ⁵ V;PFV;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ki⁵lʔɛ⁵ha³	n⁵ndí⁵ki⁵lʔɛ⁵ V;PROG;S	n⁵ndí⁵kí⁵lʔɛ⁵ V;PROG;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: bá⁵ndí⁵kí⁵xʔén⁵ʔu³	n⁵ndí⁵kí⁵xʔén⁵ V;IPF	n⁵ndí⁵kí⁵xʔen V;IPFV;SG;2;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵n⁵nkʔén⁵hâ³¹	n⁵ndí⁵n⁵nkén⁵ V;IRR;PL;	n⁵ndí⁵kí⁵xʔen V;IRR;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵n⁵nkʔén⁵hâ³¹	n⁵ndí⁵n⁵nkén⁵ V;PROG;PL	n⁵ndí⁵kí⁵xʔen V;PROG;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵kí⁵xʔén⁵ʔu³	n⁵ndí⁵kí⁵xʔén⁵ V;SBJV;	n⁵ndí⁵kí⁵xʔen V;SBJV;SG;2
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵n⁵nkʔén⁵ʔo³	n⁵ndí⁵n⁵nkén⁵ V;PROG;PL	n⁵ndí⁵kí⁵xʔen V;PROG;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵kí⁵xʔén⁵én⁵	n⁵ndí⁵kí⁵xʔén⁵ V;PFV;S	n⁵ndí⁵kí⁵xʔen V;PFV;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵kí⁵xʔén⁵ʔu³	n⁵ndí⁵kí⁵xʔén⁵ V;PFV	n⁵ndí⁵kí⁵xʔen V;PFV;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵n⁵nkʔén⁵há⁵á⁵	n⁵ndí⁵n⁵nkén⁵ V;PROG;PL	n⁵ndí⁵kí⁵xʔen V;PROG;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵kí⁵xʔén⁵én⁵	n⁵ndí⁵kí⁵xʔén⁵ V;SBJ	n⁵ndí⁵kí⁵xʔen V;SBJV;SG;3
+Generate the lemma and morphological tags for the following inflected verb: tí⁵kí⁵xʔén⁵ha³	n⁵ndí⁵kí⁵xʔén⁵ V;PFV	n⁵ndí⁵kí⁵xʔen V;PFV;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵n⁵nkʔén⁵há⁵á⁵	n⁵ndí⁵n⁵nkén⁵ V;PROG;PL	n⁵ndí⁵kí⁵xʔen V;PROG;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵kí⁵xʔén⁵ha³	n⁵ndí⁵kí⁵xʔén⁵ V;PRO	n⁵ndí⁵kí⁵xʔen V;PROG;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵kí⁵xʔén⁵ʔu³	n⁵ndí⁵kí⁵xʔén⁵ V;IRR	n⁵ndí⁵kí⁵xʔen V;IRR;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵kí⁵xʔén⁵ha³	n⁵ndí⁵kí⁵xʔén⁵ V;IRR	n⁵ndí⁵kí⁵xʔen V;IRR;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵n⁵nkʔén⁵ʔo³	n⁵ndí⁵nkʔén⁵ V;SBJV;PL	n⁵ndí⁵kí⁵xʔen V;SBJV;PL;3
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵kí⁵xʔén⁵ʔu³	n⁵ndí⁵kí⁵xʔén⁵ V;PRO	n⁵ndí⁵kí⁵xʔen V;PROG;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵n⁵nkʔén⁵hâ³¹	n⁵ndí⁵nkén⁵ V;PFV;PL;1+	n⁵ndí⁵kí⁵xʔen V;PFV;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: bá⁵ndí⁵kí⁵xʔén⁵én⁵	n⁵ndí⁵kí⁵xʔén⁵ V;IPF	n⁵ndí⁵kí⁵xʔen V;IPFV;SG;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵n⁵nkʔén⁵ʔo³	n⁵ndí⁵n⁵nkén⁵ V;IRR;PL;	n⁵ndí⁵kí⁵xʔen V;IRR;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵kí⁵xʔén⁵ha³	n⁵ndí⁵kí⁵xʔén⁵ V;PRO	n⁵ndí⁵kí⁵xʔen V;PROG;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵kí⁵xʔén⁵ʔu³	n⁵ndí⁵kí⁵xʔén⁵ V;PRO	n⁵ndí⁵kí⁵xʔen V;PROG;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵kí⁵xʔén⁵ha³	n⁵ndí⁵kí⁵xʔén⁵ V;SBJV;	n⁵ndí⁵kí⁵xʔen V;SBJV;SG;1
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵n⁵nkʔén⁵há⁵á⁵	n⁵ndí⁵n⁵nkén⁵ V;IRR;PL;	n⁵ndí⁵kí⁵xʔen V;IRR;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: bá⁵ndí⁵kí⁵xʔén⁵ha³	n⁵ndí⁵kí⁵xʔén⁵ V;IPFV	n⁵ndí⁵kí⁵xʔen V;IPFV;SG;1;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵n⁵nkʔén⁵ʔo³	n⁵ndí⁵n⁵nkén⁵ V;PROG;PL	n⁵ndí⁵kí⁵xʔen V;PROG;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵n⁵nkʔén⁵ʔo³	n⁵ndí⁵nkʔén⁵ V;PFV;PL;	n⁵ndí⁵kí⁵xʔen V;PFV;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵n⁵nkʔén⁵há⁵á⁵	n⁵ndí⁵nkén⁵ V;SBJV;PL;1+	n⁵ndí⁵kí⁵xʔen V;SBJV;PL;1+INCL
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵kí⁵xʔén⁵én⁵	n⁵ndí⁵kí⁵xʔén⁵ V;PRO	n⁵ndí⁵kí⁵xʔen V;PROG;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: bá⁵ndí⁵n⁵nkʔén⁵há⁵á⁵	n⁵ndí⁵n⁵nkén⁵ V;IPFV;PL;	n⁵ndí⁵kí⁵xʔen V;IPFV;PL;1+INCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: tí⁵n⁵nkʔén⁵há⁵á⁵	n⁵ndí⁵nkén⁵ V;PFV;PL;1+	n⁵ndí⁵kí⁵xʔen V;PFV;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵kí⁵xʔén⁵én⁵	n⁵ndí⁵kí⁵xʔén⁵ V;IRR	n⁵ndí⁵kí⁵xʔen V;IRR;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: to⁵ndí⁵kí⁵xʔén⁵én⁵	n⁵ndí⁵kí⁵xʔén⁵ V;IRR	n⁵ndí⁵kí⁵xʔen V;PROG;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵n⁵nkʔén⁵hâ³¹	n⁵ndí⁵nkén⁵ V;SBJV;PL;1	n⁵ndí⁵kí⁵xʔen V;SBJV;PL;1+EXCL
+Generate the lemma and morphological tags for the following inflected verb: bá⁵ndí⁵n⁵nkʔén⁵ʔo³	n⁵ndí⁵n⁵nkén⁵ V;IPFV;PL	n⁵ndí⁵kí⁵xʔen V;IPFV;PL;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: bá⁵ndí⁵n⁵nkʔén⁵hâ³¹	n⁵ndí⁵n⁵nkén⁵ V;IPFV;PL	n⁵ndí⁵kí⁵xʔen V;IPFV;PL;1+EXCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ntykɛn¹²én⁵	n⁵ndí⁵tyken¹² V;PROG;SG;3	n⁵ndí⁵nchkénʔ⁵ V;PROG;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵nchkɛn⁵³	n⁵ndí⁵nchken³ V;SBJV;SG;3	n⁵ndí⁵nchkénʔ⁵ V;SBJV;SG;1
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵nchkénʔ⁵	n⁵ndí⁵nchkénʔ⁵ V;IRR;SG	n⁵ndí⁵nchkénʔ⁵ V;IRR;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: nchkénʔ⁵	n⁵ndí⁵nchkénʔ⁵ V;IPFV;SG	n⁵ndí⁵nchkénʔ⁵ V;IPFV;SG;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: ntykɛn¹²én⁵	n⁵ndí⁵tyken¹² V;IPFV;SG;3	n⁵ndí⁵nchkénʔ⁵ V;IPFV;PL;1+INCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ntykên³¹	n⁵ndí⁵tyken³ V;IRR;PL;1+E	n⁵ndí⁵nchkénʔ⁵ V;IRR;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ntykɛn¹²én⁵	n⁵ndí⁵tyken¹² V;IRR;SG;3;F	n⁵ndí⁵nchkénʔ⁵ V;IRR;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵nchkɛn⁵³	n⁵ndí⁵nchken³ V;PROG;SG;3;F	n⁵ndí⁵nchkénʔ⁵ V;PROG;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ntykên³¹	n⁵ndí⁵tyken³ V;PFV;PL;1+E	n⁵ndí⁵nchkénʔ⁵ V;PFV;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ntykên³¹	n⁵ndí⁵tyken³ V;SBJV;PL;1+E	n⁵ndí⁵nchkénʔ⁵ V;SBJV;PL;1+EXCL
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ntyken¹²oʔ³	n⁵ndí⁵tyken¹² V;PFV;PL;3;	n⁵ndí⁵nchkénʔ⁵ V;PFV;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ntyken¹²oʔ³	n⁵ndí⁵tyken¹² V;SBJV;PL;3	n⁵ndí⁵nchkénʔ⁵ V;SBJV;PL;3
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵nchkɛn⁵³	n⁵ndí⁵nchken³ V;PROG;SG;3	n⁵ndí⁵nchkénʔ⁵ V;PROG;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵nchkénʔ⁵	n⁵ndí⁵nchkénʔ⁵ V;PROG;SG	n⁵ndí⁵nchkénʔ⁵ V;PROG;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: ntyken¹²oʔ³	n⁵ndí⁵tyken¹² V;IPFV;PL;3	n⁵ndí⁵nchkénʔ⁵ V;IPFV;PL;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ntyken¹²oʔ³	n⁵ndí⁵tyken³ V;IRR;PL;3;FU	n⁵ndí⁵nchkénʔ⁵ V;IRR;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵nchkênʔ³¹	n⁵ndí⁵nchken³ V;SBJV;SG;2	n⁵ndí⁵nchkénʔ⁵ V;SBJV;SG;2
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ntykɛn¹²én⁵	n⁵ndí⁵tyken¹² V;SBJV;SG;3	n⁵ndí⁵nchkénʔ⁵ V;SBJV;PL;1+INCL
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵nchkénʔ⁵	n⁵ndí⁵nchkénʔ⁵ V;SBJV;S	n⁵ndí⁵nchkénʔ⁵ V;SBJV;SG;3
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵nchkénʔ⁵	n⁵ndí⁵nchkénʔ⁵ V;PROG;SG	n⁵ndí⁵nchkénʔ⁵ V;PROG;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ntyken¹²oʔ³	n⁵ndí⁵tyken³ V;PROG;PL;3;P	n⁵ndí⁵nchkénʔ⁵ V;PROG;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵nchkenʔ³¹	n⁵ndí⁵nchken³ V;PROG;SG;2;F	n⁵ndí⁵nchkénʔ⁵ V;PROG;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ntyken¹²oʔ³	n⁵ndí⁵tyken¹² V;PROG;PL;3;F	n⁵ndí⁵nchkénʔ⁵ V;PROG;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: nchkênʔ³¹	n⁵ndí⁵nchken³ V;IPFV;PL;1+	n⁵ndí⁵nchkénʔ⁵ V;IPFV;SG;2;PRS
+Generate the lemma and morphological tags for the following inflected verb: ntykên³¹	n⁵ndí⁵tyken³ V;IPFV;PL;1+E	n⁵ndí⁵nchkénʔ⁵ V;IPFV;PL;1+EXCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵nchkênʔ³¹	n⁵ndí⁵nchken³ V;PROG;PL;1+	n⁵ndí⁵nchkénʔ⁵ V;PROG;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵nchkénʔ⁵	n⁵ndí⁵nchkénʔ⁵ V;PFV;SG	n⁵ndí⁵nchkénʔ⁵ V;PFV;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵nchkɛn⁵³	n⁵ndí⁵nchken³ V;PFV;SG;3;P	n⁵ndí⁵nchkénʔ⁵ V;PFV;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ntykên³¹	n⁵ndí⁵tyken³ V;PROG;PL;1+E	n⁵ndí⁵nchkénʔ⁵ V;PROG;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ntykên³¹	n⁵ndí⁵tyken³ V;PROG;PL;1+E	n⁵ndí⁵nchkénʔ⁵ V;PROG;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ntykɛn¹²én⁵	n⁵ndí⁵tyken¹² V;PROG;SG;3	n⁵ndí⁵nchkénʔ⁵ V;PROG;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵nchkɛn⁵³	n⁵ndí⁵nchken³ V;IRR;SG;2;F	n⁵ndí⁵nchkénʔ⁵ V;IRR;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: nchkɛn⁵³	n⁵nchken³ V;IPFV;SG;1;PRS	n⁵ndí⁵nchkénʔ⁵ V;IPFV;SG;1;PRS
+Generate the lemma and morphological tags for the following inflected verb: tí⁵nchkênʔ³¹	n⁵ndí⁵nchken³ V;PFV;PL;1+	n⁵ndí⁵nchkénʔ⁵ V;PFV;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵nchkênʔ³¹	n⁵ndí⁵nchken³ V;IRR;PL;1+E	n⁵ndí⁵nchkénʔ⁵ V;IRR;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ntykɛn¹²én⁵	n⁵ndí⁵tyken¹² V;PFV;SG;3;	n⁵ndí⁵nchkénʔ⁵ V;PFV;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ndyóʔ⁵ʔu³	n⁵ndí⁵ndyóʔ⁵ V;PROG;SG;	n⁵ndí⁵ndyóʔ⁵ V;PROG;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ndyóʔ⁵há⁵á⁵	n⁵ndí⁵ndyoʔ³⁴ V;PROG;PL;	n⁵ndí⁵ndyóʔ⁵ V;PROG;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: ndyóʔ⁵én⁵	n⁵ndyoʔ³⁵ V;IPFV;SG;3;PRS	n⁵ndí⁵ndyóʔ⁵ V;IPFV;SG;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ndyóʔ⁵há⁵á⁵	n⁵ndí⁵ndyoʔ³⁴ V;IRR;PL;1+	n⁵ndí⁵ndyóʔ⁵ V;IRR;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ndyóʔ⁵há⁵á⁵	n⁵ndí⁵ndyoʔ³⁴ V;PROG;PL;	n⁵ndí⁵ndyóʔ⁵ V;PROG;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ndyóʔ⁵én⁵	n⁵ndí⁵ndyoʔ³ V;PROG;SG;3;F	n⁵ndí⁵ndyóʔ⁵ V;PROG;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ndyóʔ⁵ha³	n⁵ndí⁵ndyoʔ³⁵ V;IRR;SG;1;F	n⁵ndí⁵ndyóʔ⁵ V;IRR;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ndyóʔ⁵ʔu³	n⁵ndí⁵ndyoʔ⁵ V;SBJV;SG;2	n⁵ndí⁵ndyóʔ⁵ V;SBJV;SG;2
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ndyóʔ⁵hâ³¹	n⁵ndí⁵ndyoʔ³⁵ V;IRR;PL;1	n⁵ndí⁵ndyóʔ⁵ V;IRR;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ndyóʔ⁵hâ³¹	n⁵ndí⁵ndyoʔ³⁵ V;PROG;PL	n⁵ndí⁵ndyóʔ⁵ V;PROG;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ndyóʔ⁵én⁵	n⁵ndí⁵ndyoʔ³ V;IRR;SG;3;F	n⁵ndí⁵ndyóʔ⁵ V;IRR;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ndyóʔ⁵ʔo³	n⁵ndí⁵ndyoʔ⁵ V;SBJV;PL;3	n⁵ndí⁵ndyóʔ⁵ V;SBJV;PL;3
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ndyóʔ⁵ʔu³	n⁵ndí⁵ndyoʔ⁵ V;IRR;SG;2;F	n⁵ndí⁵ndyóʔ⁵ V;IRR;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: ndyóʔ⁵hâ³¹	n⁵ndyoʔ³⁵ V;IPFV;PL;1+EXCL;P	n⁵ndí⁵ndyóʔ⁵ V;IPFV;PL;1+EXCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ndyóʔ⁵ha³	n⁵ndí⁵ndyóʔ⁵ V;PROG;SG;	n⁵ndí⁵ndyóʔ⁵ V;PROG;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ndyóʔ⁵ʔu³	n⁵ndí⁵ndyóʔ⁵ V;PFV;SG;2;	n⁵ndí⁵ndyóʔ⁵ V;PFV;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ndyóʔ⁵hâ³¹	n⁵ndí⁵ndyoʔ³⁵ V;SBJV;PL	n⁵ndí⁵ndyóʔ⁵ V;SBJV;PL;1+EXCL
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ndyóʔ⁵ha³	n⁵ndí⁵ndyoʔ³⁵ V;PFV;SG;1	n⁵ndí⁵ndyóʔ⁵ V;PFV;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ndyóʔ⁵ʔu³	n⁵ndí⁵ndyóʔ⁵ V;PROG;SG;2;	n⁵ndí⁵ndyóʔ⁵ V;PROG;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: ndyóʔ⁵ʔo³	n⁵ndyoʔ³⁵ V;IPFV;PL;3;PRS	n⁵ndí⁵ndyóʔ⁵ V;IPFV;PL;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: ndyóʔ⁵há⁵á⁵	n⁵ndyoʔ³⁵ V;IPFV;PL;1+INCL;P	n⁵ndí⁵ndyóʔ⁵ V;IPFV;PL;1+INCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ndyóʔ⁵ha³	n⁵ndí⁵ndyoʔ³⁵ V;PROG;SG;	n⁵ndí⁵ndyóʔ⁵ V;PROG;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ndyóʔ⁵ʔo³	n⁵ndí⁵ndyoʔ³⁵ V;PROG;PL;	n⁵ndí⁵ndyóʔ⁵ V;PROG;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ndyóʔ⁵ʔo³	n⁵ndí⁵ndyoʔ³ V;IRR;PL;3;F	n⁵ndí⁵ndyóʔ⁵ V;IRR;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ndyóʔ⁵ha³	n⁵ndí⁵ndyoʔ³⁵ V;SBJV;SG	n⁵ndí⁵ndyóʔ⁵ V;SBJV;SG;1
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ndyóʔ⁵há⁵á⁵	n⁵ndí⁵ndyoʔ³⁵ V;PFV;PL;1+	n⁵ndí⁵ndyóʔ⁵ V;PFV;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: ndyóʔ⁵ha³	n⁵ndyoʔ³⁵ V;IPFV;SG;1;PRS	n⁵ndí⁵ndyóʔ⁵ V;IPFV;SG;1;PRS
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ndyóʔ⁵én⁵	n⁵ndí⁵ndyoʔ³ V;PFV;SG;3;P	n⁵ndí⁵ndyóʔ⁵ V;PFV;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ndyóʔ⁵hâ³¹	n⁵ndí⁵ndyoʔ³⁵ V;PROG;PL;	n⁵ndí⁵ndyóʔ⁵ V;PROG;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ndyóʔ⁵hâ³¹	n⁵ndí⁵ndyoʔ³⁵ V;PFV;PL;	n⁵ndí⁵ndyóʔ⁵ V;PFV;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ndyóʔ⁵ʔo³	n⁵ndí⁵ndyoʔ³⁵ V;PROG;PL;	n⁵ndí⁵ndyóʔ⁵ V;PROG;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: ndyóʔ⁵ʔu³	n⁵ndyoʔ³ V;IPFV;SG;2;PRS	n⁵ndí⁵ndyóʔ⁵ V;IPFV;SG;2;PRS
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ndyóʔ⁵ʔo³	n⁵ndí⁵ndyoʔ³ V;PFV;PL;3;P	n⁵ndí⁵ndyóʔ⁵ V;PFV;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ndyóʔ⁵én⁵	n⁵ndí⁵ndyoʔ⁵ V;SBJV;SG;3	n⁵ndí⁵ndyóʔ⁵ V;SBJV;SG;3
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ndyóʔ⁵én⁵	n⁵ndí⁵ndyoʔ³ V;PROG;SG;3;	n⁵ndí⁵ndyóʔ⁵ V;PROG;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ndyóʔ⁵xtyoʔ³	n⁵ndí⁵ndyoʔ³xtyo³ V;PFV;	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;PFV;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ndyóʔ⁵ki³tyʔô³¹	n⁵ndí⁵ndyo³ki³tyʔo³ V;I	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;IRR;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ndyóʔ⁵ki³tyʔô³¹	n⁵ndí⁵ndyoʔ³ ki³tyʔo³	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;SBJV;PL;1+EXCL
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ndyóʔ⁵xtyoʔ³	n⁵ndí⁵ndyoʔ³xtyo³ V;PROG;	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;PROG;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ndyóʔ⁵xtyoʔ³	n⁵ndí⁵ndyoʔ³xtyo³ V;IRR;P	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;IRR;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ndyóʔ⁵ki³tyʔô¹²	n⁵ndí⁵ndyo³ki³tyʔo¹² V	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;SBJV;PL;1+INCL
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ndyóʔ⁵ki³tyòʔ¹oʔ³	n⁵ndí⁵ndyóʔ⁵ ki³tyòʔ¹ 	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;SBJV;PL;3
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ndyóʔ⁵xtyôʔ³¹	n⁵ndí⁵ndyóʔ⁵xtyʔo³ V;P	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;PROG;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: ndyóʔ⁵ki³tyòʔ¹oʔ³	n⁵ndyo³ki³tyòʔ¹ V;IPFV;PL	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;IPFV;PL;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ndyóʔ⁵xtyʔɔ⁵³	n⁵ndí⁵ndyoʔ³xtyue³ V;SBJV;	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;SBJV;SG;1
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ndyóʔ⁵xtyôʔ³¹	n⁵ndí⁵ndyóʔ⁵xtyʔo³ V;S	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;SBJV;SG;2
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ndyóʔ⁵xtyʔɔ⁵³	n⁵ndí⁵ndyoʔ³xtyue³ V;PRO	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;PROG;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ndyóʔ⁵ki³tyòʔ¹oʔ³	n⁵ndí⁵ndyóʔ⁵ ki³tyò¹ 	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;PROG;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ndyóʔ⁵ki³tyʔô¹²	n⁵ndí⁵ndyóʔ⁵ ki³tyʔo¹²	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;PROG;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ndyóʔ⁵ki³tyòʔ¹oʔ³	n⁵ndí⁵ndyóʔ⁵ ki³tyòʔ¹ 	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;PFV;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ndyóʔ⁵ki³tyʔô¹²	n⁵ndí⁵ndyóʔ⁵ ki³tyʔo¹²	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;PROG;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ndyóʔ⁵ki³tyòʔ¹oʔ³	n⁵ndí⁵ndyóʔ⁵ ki³tyò¹ V	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;IRR;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ndyóʔ⁵ki³tyʔô³¹	n⁵ndí⁵ndyo³ki³tyʔo³ V;P	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;PROG;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: ndyóʔ⁵ki³tyʔô¹²	n⁵ndyo³ki³tyʔo¹² V;IPFV;	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;IPFV;PL;1+INCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ndyóʔ⁵xtyôʔ³¹	n⁵ndí⁵ndyóʔ⁵xtyʔo³ V;P	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;PROG;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ndyóʔ⁵ki³tyʔô¹²	n⁵ndí⁵ndyo³ki³tyʔo¹² V	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;IRR;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ndyóʔ⁵xtyôʔ³¹	n⁵ndí⁵ndyoʔ³xtyʔo³ V;PF	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;PFV;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ndyóʔ⁵ki³tyʔô³¹	n⁵ndí⁵ndyo³ki³tyʔo³ V;P	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;PROG;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ndyóʔ⁵ki³tyʔô³¹	n⁵ndí⁵ndyoʔ³ ki³tyʔo³	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;PFV;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ndyóʔ⁵xtyʔɔ⁵³	n⁵ndí⁵ndyoʔ³xtyue³ V;IRR	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;IRR;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: ndyóʔ⁵ki³tyʔô³¹	n⁵ndyo³ki³tyʔo³⁵ V;IPFV;	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;IPFV;PL;1+EXCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: ndyóʔ⁵xtyʔɔ⁵³	n⁵ndyo³xtyue³ V;IPFV;SG;2;PR	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;IPFV;SG;1;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ndyóʔ⁵ki³tyòʔ¹oʔ³	n⁵ndí⁵ndyóʔ⁵ ki³tyò¹ 	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;PROG;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ndyóʔ⁵xtyoʔ³	n⁵ndí⁵ndyoʔ³xtyo³ V;PROG	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;PROG;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: ndyóʔ⁵xtyôʔ³¹	n⁵ndyo³xtyʔon³ V;IPFV;PL;1+	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;IPFV;SG;2;PRS
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ndyóʔ⁵xtyoʔ³	n⁵ndí⁵ndyoʔ³xtyo³ V;SBJV;	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;SBJV;SG;3
+Generate the lemma and morphological tags for the following inflected verb: ndyóʔ⁵xtyoʔ³	n⁵ndyo³xtyo³ V;IPFV;PL;3;PRS	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;IPFV;SG;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ndyóʔ⁵xtyʔɔ⁵³	n⁵ndí⁵ndyoʔ³xtyue³ V;PFV	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;PFV;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ndyóʔ⁵xtyôʔ³¹	n⁵ndí⁵ndyoʔ³xtyʔo³ V;IR	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;IRR;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ndyóʔ⁵xtyʔɔ⁵³	n⁵ndí⁵ndyoʔ³xtyue³ V;PRO	n⁵ndí⁵ndyóʔ⁵ xtyoʔ³ V;PROG;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ntkɔ³	n⁵ndí⁵ntko³ V;PROG;SG;3;FU	n⁵ndí⁵ntkoʔ³⁴ V;PROG;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ntko³⁴oʔ³	n⁵ndí⁵ntko³ V;PROG;PL;3;FU	n⁵ndí⁵ntkoʔ³⁴ V;PROG;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ntkô³¹	n⁵ndí⁵ntko³ V;SBJV;PL;1+E	n⁵ndí⁵ntkoʔ³⁴ V;SBJV;PL;1+EXCL
+Generate the lemma and morphological tags for the following inflected verb: ntkô³¹	n⁵ndí⁵ntko³ V;IPFV;PL;1+E	n⁵ndí⁵ntkoʔ³⁴ V;IPFV;PL;1+EXCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ntkɔ³	n⁵ndí⁵ntko³ V;SBJV;SG;2	n⁵ndí⁵ntkoʔ³⁴ V;SBJV;SG;1
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ntkɔ³	n⁵ndí⁵ntko³ V;IRR;SG;2;FUT	n⁵ndí⁵ntkoʔ³⁴ V;IRR;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: ntkoʔ³⁴	n⁵ndí⁵ntkoʔ³⁴ V;IPFV;PL	n⁵ndí⁵ntkoʔ³⁴ V;IPFV;SG;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ntkô³¹	n⁵ndí⁵ntko³ V;PROG;PL;1+E	n⁵ndí⁵ntkoʔ³⁴ V;PROG;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ntkoʔ³⁴	n⁵ndí⁵ntko³ V;PROG;PL;1+IN	n⁵ndí⁵ntkoʔ³⁴ V;PROG;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: ntkɔ³	n⁵ndí⁵ntko³ V;IPFV;SG;2;P	n⁵ndí⁵ntkoʔ³⁴ V;IPFV;SG;1;PRS
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ntkoʔ³⁴	n⁵ndí⁵ntkoʔ³⁴ V;SBJV;PL	n⁵ndí⁵ntkoʔ³⁴ V;SBJV;SG;3
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ntkô³¹	n⁵ndí⁵ntko³ V;IRR;PL;1+EXC	n⁵ndí⁵ntkoʔ³⁴ V;IRR;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ntkoʔ³⁴	n⁵ndí⁵ntkoʔ³⁴ V;PFV;PL;	n⁵ndí⁵ntkoʔ³⁴ V;PFV;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ntkɔ³	n⁵ndí⁵ntko³ V;PFV;SG;2;PST	n⁵ndí⁵ntkoʔ³⁴ V;PFV;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ntkɔ³⁴ɔ⁵	n⁵ndí⁵ntko³ V;IRR;PL;1+INC	n⁵ndí⁵ntkoʔ³⁴ V;IRR;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ntkoʔ³⁴	n⁵ndí⁵ntkoʔ³⁴ V;IRR;PL;	n⁵ndí⁵ntkoʔ³⁴ V;IRR;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ntkôʔ³¹	n⁵ndí⁵ntkoʔ¹² V;SBJV;PL	n⁵ndí⁵ntkoʔ³⁴ V;SBJV;SG;2
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ntkô³¹	n⁵ndí⁵ntko³ V;PFV;PL;1+EX	n⁵ndí⁵ntkoʔ³⁴ V;PFV;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ntko³⁴oʔ³	n⁵ndí⁵ntko³ V;SBJV;PL;3	n⁵ndí⁵ntkoʔ³⁴ V;SBJV;PL;3
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ntkɔ³⁴ɔ⁵	n⁵ndí⁵ntko³ V;PROG;PL;1+I	n⁵ndí⁵ntkoʔ³⁴ V;PROG;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ntko³⁴oʔ³	n⁵ndí⁵ntko³ V;PFV;PL;3;PST	n⁵ndí⁵ntkoʔ³⁴ V;PFV;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ntko³⁴oʔ³	n⁵ndí⁵ntko³ V;IRR;PL;3;FU	n⁵ndí⁵ntkoʔ³⁴ V;IRR;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵ntkôʔ³¹	n⁵ndí⁵ntkoʔ¹² V;IRR;PL;1	n⁵ndí⁵ntkoʔ³⁴ V;IRR;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: ntkôʔ³¹	n⁵ndí⁵ntkoʔ¹² V;IPFV;PL	n⁵ndí⁵ntkoʔ³⁴ V;IPFV;SG;2;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ntkɔ³⁴ɔ⁵	n⁵ndí⁵ntko³ V;PROG;PL;1+IN	n⁵ndí⁵ntkoʔ³⁴ V;PROG;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ntkɔ³⁴ɔ⁵	n⁵ndí⁵ntko³ V;PFV;PL;1+IN	n⁵ndí⁵ntkoʔ³⁴ V;PFV;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵ntkôʔ³¹	n⁵ndí⁵ntkoʔ¹² V;PFV;PL;	n⁵ndí⁵ntkoʔ³⁴ V;PFV;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ntko³⁴oʔ³	n⁵ndí⁵ntko³ V;PROG;PL;3;P	n⁵ndí⁵ntkoʔ³⁴ V;PROG;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ntkô³¹	n⁵ndí⁵ntko³ V;PROG;PL;1+E	n⁵ndí⁵ntkoʔ³⁴ V;PROG;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: ntkɔ³⁴ɔ⁵	n⁵ndí⁵ntko³ V;IPFV;PL;1+I	n⁵ndí⁵ntkoʔ³⁴ V;IPFV;PL;1+INCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ntkoʔ³⁴	n⁵ndí⁵ntko³ V;PROG;PL;1+IN	n⁵ndí⁵ntkoʔ³⁴ V;PROG;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ntkɔ³	n⁵ndí⁵ntko³ V;PROG;SG;3;PST	n⁵ndí⁵ntkoʔ³⁴ V;PROG;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵ntkôʔ³¹	n⁵ndí⁵ntkoʔ¹² V;PROG;PL;	n⁵ndí⁵ntkoʔ³⁴ V;PROG;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵ntkôʔ³¹	n⁵ndí⁵ntkoʔ¹² V;PROG;PL;	n⁵ndí⁵ntkoʔ³⁴ V;PROG;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵ntkɔ³⁴ɔ⁵	n⁵ndí⁵ntko³ V;SBJV;PL;1+I	n⁵ndí⁵ntkoʔ³⁴ V;SBJV;PL;1+INCL
+Generate the lemma and morphological tags for the following inflected verb: ntko³⁴oʔ³	n⁵ndí⁵ntko³ V;IPFV;PL;3;P	n⁵ndí⁵ntkoʔ³⁴ V;IPFV;PL;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: tí⁵tzu³⁴én⁵	n⁵ndí⁵tzuʔ³⁴ V;PFV;SG;3	n⁵ndí⁵tzu³⁴ V;PFV;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: tzu³⁴ʔo³	n⁵nduìʔ¹ V;PFV;PL;3;PST	n⁵ndí⁵tzu³⁴ V;IPFV;PL;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: tzu³⁴há⁵á⁵	n⁵ndí⁵tzuʔ³⁴ V;PFV;PL;1+	n⁵ndí⁵tzu³⁴ V;IPFV;PL;1+INCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: tzu³⁴ʔu³	n⁵nduìʔ¹ V;PFV;SG;2;PST	n⁵ndí⁵tzu³⁴ V;IPFV;SG;2;PRS
+Generate the lemma and morphological tags for the following inflected verb: tí⁵tzu³⁴hâ³¹	n⁵ndí⁵tzu³⁴ V;PFV;PL;1+E	n⁵ndí⁵tzu³⁴ V;PFV;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: tzu³⁴én⁵	n⁵ndí⁵tzuʔ³⁴ V;PFV;SG;3	n⁵ndí⁵tzu³⁴ V;IPFV;SG;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵tzu³⁴há⁵á⁵	n⁵ndí⁵tzuʔ³⁴ V;IRR;PL;1+	n⁵ndí⁵tzu³⁴ V;IRR;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵tzu³⁴ha³	n⁵ndí⁵tzu³⁴ V;SBJV;SG;1	n⁵ndí⁵tzu³⁴ V;SBJV;SG;1
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵tzu³⁴ʔu³	n⁵ndí⁵tzu³⁴ V;IRR;SG;2;FU	n⁵ndí⁵tzu³⁴ V;IRR;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵tzu³⁴ʔo³	n⁵ndí⁵tzu³⁴ V;PROG;PL;3;F	n⁵ndí⁵tzu³⁴ V;PROG;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵tzu³⁴hâ³¹	n⁵ndí⁵tzu³⁴ V;IRR;PL;1+E	n⁵ndí⁵tzu³⁴ V;IRR;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵tzu³⁴ʔo³	n⁵ndí⁵tzu³⁴ V;PFV;PL;3;P	n⁵ndí⁵tzu³⁴ V;PFV;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵tzu³⁴ʔu³	n⁵ndí⁵tzu³⁴ V;PROG;SG;2;F	n⁵ndí⁵tzu³⁴ V;PROG;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵tzu³⁴ha³	n⁵ndí⁵tzu³⁴ V;PROG;SG;1;	n⁵ndí⁵tzu³⁴ V;PROG;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵tzu³⁴ʔu³	n⁵ndí⁵tzu³⁴ V;SBJV;SG;2	n⁵ndí⁵tzu³⁴ V;SBJV;SG;2
+Generate the lemma and morphological tags for the following inflected verb: tí⁵tzu³⁴ha³	n⁵ndí⁵tzu³⁴ V;PFV;SG;1;P	n⁵ndí⁵tzu³⁴ V;PFV;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵tzu³⁴hâ³¹	n⁵ndí⁵tzu³⁴ V;SBJV;PL;1+	n⁵ndí⁵tzu³⁴ V;SBJV;PL;1+EXCL
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵tzu³⁴ʔo³	n⁵ndí⁵tzu³⁴ V;SBJV;PL;3	n⁵ndí⁵tzu³⁴ V;SBJV;PL;3
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵tzu³⁴ha³	n⁵ndí⁵tzu³⁴ V;PROG;SG;1;F	n⁵ndí⁵tzu³⁴ V;PROG;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵tzu³⁴ʔu³	n⁵ndí⁵tzu³⁴ V;PROG;SG;2;	n⁵ndí⁵tzu³⁴ V;PROG;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵tzu³⁴én⁵	n⁵ndí⁵tzuʔ³⁴ V;SBJV;SG;	n⁵ndí⁵tzu³⁴ V;SBJV;SG;3
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵tzu³⁴hâ³¹	n⁵ndí⁵tzu³⁴ V;PROG;PL;1+E	n⁵ndí⁵tzu³⁴ V;PROG;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵tzu³⁴ha³	n⁵ndí⁵tzu³⁴ V;IRR;SG;1;F	n⁵ndí⁵tzu³⁴ V;IRR;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵tzu³⁴én⁵	n⁵ndí⁵tzuʔ³⁴ V;PROG;SG;	n⁵ndí⁵tzu³⁴ V;PROG;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵tzu³⁴ʔo³	n⁵ndí⁵tzu³⁴ V;IRR;PL;3;F	n⁵ndí⁵tzu³⁴ V;IRR;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵tzu³⁴há⁵á⁵	n⁵ndí⁵tzuʔ³⁴ V;PROG;PL;1+	n⁵ndí⁵tzu³⁴ V;PROG;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵tzu³⁴ʔu³	n⁵ndí⁵tzu³⁴ V;PFV;SG;2;PS	n⁵ndí⁵tzu³⁴ V;PFV;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵tzu³⁴én⁵	n⁵ndí⁵tzuʔ³⁴ V;PROG;SG;	n⁵ndí⁵tzu³⁴ V;PROG;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵tzu³⁴hâ³¹	n⁵ndí⁵tzu³⁴ V;PROG;PL;1+E	n⁵ndí⁵tzu³⁴ V;PROG;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵tzu³⁴ʔo³	n⁵ndí⁵tzu³⁴ V;PROG;PL;3;P	n⁵ndí⁵tzu³⁴ V;PROG;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: tzu³⁴hâ³¹	n⁵nduìʔ¹ V;PFV;PL;1+EXCL;P	n⁵ndí⁵tzu³⁴ V;IPFV;PL;1+EXCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: tzu³⁴ha³	n⁵nduìʔ¹ V;PFV;SG;1;PST	n⁵ndí⁵tzu³⁴ V;IPFV;SG;1;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵tzu³⁴há⁵á⁵	n⁵ndí⁵tzuʔ³⁴ V;PROG;PL;1+	n⁵ndí⁵tzu³⁴ V;PROG;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵tzu³⁴há⁵á⁵	n⁵ndí⁵tzuʔ³⁴ V;PFV;PL;1+	n⁵ndí⁵tzu³⁴ V;PFV;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵tzu³⁴há⁵á⁵	n⁵ndí⁵tzu³⁴ V;SBJV;PL;1+I	n⁵ndí⁵tzu³⁴ V;SBJV;PL;1+INCL
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵tzu³⁴én⁵	n⁵ndí⁵tzuʔ³⁴ V;IRR;SG;3;F	n⁵ndí⁵tzu³⁴ V;IRR;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵xiô³¹	n⁵ndí⁵xio³ V;PROG;PL;1+EX	n⁵ndí⁵xio³ V;PROG;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵xio³	n⁵ndí⁵xio³ V;PROG;SG;3;FUT	n⁵ndí⁵xio³ V;PROG;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵xiɔ³⁵ó⁵	n⁵ndí⁵xio³ V;PROG;PL;1+INC	n⁵ndí⁵xio³ V;PROG;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵xiɔ⁵³	n⁵ndí⁵xio³ V;PROG;SG;3;PST	n⁵ndí⁵xio³ V;PROG;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵xiɔ⁵³	n⁵ndí⁵xio³ V;PFV;SG;2;PST	n⁵ndí⁵xio³ V;PFV;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵xiɔ³⁵ó⁵	n⁵ndí⁵xio³ V;SBJV;PL;1+IN	n⁵ndí⁵xio³ V;SBJV;PL;1+INCL
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵xiô³¹	n⁵ndí⁵xio³ V;SBJV;PL;1+EX	n⁵ndí⁵xio³ V;SBJV;PL;1+EXCL
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵xiɔ³⁵ó⁵	n⁵ndí⁵xio³ V;PROG;PL;1+INC	n⁵ndí⁵xio³ V;PROG;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵xiô³¹	n⁵ndí⁵xio³ V;PROG;PL;1+EX	n⁵ndí⁵xio³ V;PROG;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵xio³oʔ³	n⁵ndí⁵xio³ V;PFV;PL;3;PST	n⁵ndí⁵xio³ V;PFV;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: xioʔ¹²	n⁵ndí⁵xioʔ¹² V;IPFV;PL;3	n⁵ndí⁵xio³ V;IPFV;SG;2;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵xiɔ⁵³	n⁵ndí⁵xio³ V;IRR;SG;2;FUT	n⁵ndí⁵xio³ V;IRR;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵xiɔ⁵³	n⁵ndí⁵xio³ V;SBJV;SG;2	n⁵ndí⁵xio³ V;SBJV;SG;1
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵xiɔ⁵³	n⁵ndí⁵xio³ V;PROG;SG;3;FUT	n⁵ndí⁵xio³ V;PROG;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: xiô³¹	n⁵ndí⁵xio³ V;IPFV;PL;1+EX	n⁵ndí⁵xio³ V;IPFV;PL;1+EXCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵xioʔ¹²	n⁵ndí⁵xioʔ¹² V;PROG;PL;3	n⁵ndí⁵xio³ V;PROG;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵xiɔ³⁵ó⁵	n⁵ndí⁵xio³ V;IRR;PL;1+INC	n⁵ndí⁵xio³ V;IRR;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵xio³	n⁵ndí⁵xio³ V;PFV;SG;3;PST	n⁵ndí⁵xio³ V;PFV;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵xio³	n⁵ndí⁵xio³ V;IRR;SG;2;FUT	n⁵ndí⁵xio³ V;IRR;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵xiô³¹	n⁵ndí⁵xio³ V;PFV;PL;1+EXCL	n⁵ndí⁵xio³ V;PFV;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵xioʔ¹²	n⁵ndí⁵xioʔ¹² V;IRR;PL;1+	n⁵ndí⁵xio³ V;IRR;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵xio³oʔ³	n⁵ndí⁵xio³ V;SBJV;PL;3	n⁵ndí⁵xio³ V;SBJV;PL;3
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵xioʔ¹²	n⁵ndí⁵xioʔ¹² V;PROG;PL;3	n⁵ndí⁵xio³ V;PROG;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵xio³	n⁵ndí⁵xio³ V;PROG;SG;3;PST	n⁵ndí⁵xio³ V;PROG;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: xiɔ⁵³	n⁵ndí⁵xio³ V;IPFV;SG;1;PRS	n⁵ndí⁵xio³ V;IPFV;SG;1;PRS
+Generate the lemma and morphological tags for the following inflected verb: xiɔ³⁵ó⁵	n⁵ndí⁵xio³ V;IPFV;PL;1+IN	n⁵ndí⁵xio³ V;IPFV;PL;1+INCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: xio³	n⁵ndí⁵xio³ V;IPFV;SG;1;PRS	n⁵ndí⁵xio³ V;IPFV;SG;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: xio³oʔ³	n⁵ndí⁵xio³ V;IPFV;PL;3;PRS	n⁵ndí⁵xio³ V;IPFV;PL;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: tí⁵xioʔ¹²	n⁵ndí⁵xioʔ¹² V;PFV;PL;3;	n⁵ndí⁵xio³ V;PFV;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵xio³	n⁵ndí⁵xio³ V;SBJV;SG;3	n⁵ndí⁵xio³ V;SBJV;SG;3
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵xioʔ¹²	n⁵ndí⁵xioʔ¹² V;SBJV;PL;3	n⁵ndí⁵xio³ V;SBJV;SG;2
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵xiô³¹	n⁵ndí⁵xio³ V;IRR;PL;1+EXCL	n⁵ndí⁵xio³ V;IRR;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵xiɔ³⁵ó⁵	n⁵ndí⁵xio³ V;PFV;PL;1+INC	n⁵ndí⁵xio³ V;PFV;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵xio³oʔ³	n⁵ndí⁵xio³ V;PROG;PL;3;PST	n⁵ndí⁵xio³ V;PROG;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵xio³oʔ³	n⁵ndí⁵xio³ V;IRR;PL;3;FUT	n⁵ndí⁵xio³ V;IRR;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵xio³oʔ³	n⁵ndí⁵xio³ V;PROG;PL;3;FUT	n⁵ndí⁵xio³ V;PROG;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵yà¹nʔa⁵³ʔo³	n⁵ndí⁵yà¹tzʔan⁵³ V;SB	n⁵ndí⁵yà¹tzʔan⁵³ V;SBJV;PL;3
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵yà¹nʔa⁵³hâ³¹	n⁵ndí⁵yà¹nʔa⁵³ V;PRO	n⁵ndí⁵yà¹tzʔan⁵³ V;PROG;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵yà¹tzʔan⁵³ha³	n⁵ndí⁵yà¹tzʔan⁵³ V;PF	n⁵ndí⁵yà¹tzʔan⁵³ V;PFV;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵yà¹tzʔan⁵³ʔu³	n⁵ndí⁵yà¹tzʔan⁵³ V;PF	n⁵ndí⁵yà¹tzʔan⁵³ V;PFV;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: yà¹nʔa⁵³ʔo³	n⁵ndí⁵yà¹tzʔan⁵³ V;IPF	n⁵ndí⁵yà¹tzʔan⁵³ V;IPFV;PL;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵yà¹tzʔan⁵³ʔu³	n⁵ndí⁵yà¹tzʔan⁵³ V;PR	n⁵ndí⁵yà¹tzʔan⁵³ V;PROG;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵yà¹tzʔan⁵³ha³	n⁵ndí⁵yà¹tzʔan⁵³ V;PR	n⁵ndí⁵yà¹tzʔan⁵³ V;PROG;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵yà¹tzʔan⁵³én⁵	n⁵ndí⁵yà¹tzʔan⁵³ V;SB	n⁵ndí⁵yà¹tzʔan⁵³ V;SBJV;SG;3
+Generate the lemma and morphological tags for the following inflected verb: yà¹nʔa⁵³hâ³¹	n⁵ndí⁵yà¹nʔa⁵³ V;IPFV	n⁵ndí⁵yà¹tzʔan⁵³ V;IPFV;PL;1+EXCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: yà¹tzʔan⁵³én⁵	n⁵ndí⁵yà¹tzʔan⁵³ V;IPF	n⁵ndí⁵yà¹tzʔan⁵³ V;IPFV;SG;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵yà¹tzʔan⁵³én⁵	n⁵ndí⁵yà¹tzʔan⁵³ V;PR	n⁵ndí⁵yà¹tzʔan⁵³ V;PROG;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵yà¹tzʔan⁵³én⁵	n⁵ndí⁵yà¹tzʔan⁵³ V;PF	n⁵ndí⁵yà¹tzʔan⁵³ V;PFV;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵yà¹nʔa⁵³hâ³¹	n⁵ndí⁵yà¹nʔa⁵³ V;IRR	n⁵ndí⁵yà¹tzʔan⁵³ V;IRR;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵yà¹tzʔan⁵³ha³	n⁵ndí⁵yà¹tzʔan⁵³ V;SB	n⁵ndí⁵yà¹tzʔan⁵³ V;SBJV;SG;1
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵yà¹tzʔan⁵³ʔu³	n⁵ndí⁵yà¹tzʔan⁵³ V;SB	n⁵ndí⁵yà¹tzʔan⁵³ V;SBJV;SG;2
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵yà¹nʔa⁵³há⁵á⁵	n⁵ndí⁵yà¹tzʔan⁵³ V;PR	n⁵ndí⁵yà¹tzʔan⁵³ V;PROG;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵yà¹nʔa⁵³ʔo³	n⁵ndí⁵yà¹nʔa⁵³ V;PRO	n⁵ndí⁵yà¹tzʔan⁵³ V;PROG;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵yà¹tzʔan⁵³én⁵	n⁵ndí⁵yà¹tzʔan⁵³ V;PR	n⁵ndí⁵yà¹tzʔan⁵³ V;PROG;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵yà¹nʔa⁵³ʔo³	n⁵ndí⁵yà¹nʔa⁵³ V;PRO	n⁵ndí⁵yà¹tzʔan⁵³ V;PROG;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵yà¹nʔa⁵³há⁵á⁵	n⁵ndí⁵yà¹tzʔan⁵³ V;SB	n⁵ndí⁵yà¹tzʔan⁵³ V;SBJV;PL;1+INCL
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵yà¹nʔa⁵³ʔo³	n⁵ndí⁵yà¹tzʔan⁵³ V;IR	n⁵ndí⁵yà¹tzʔan⁵³ V;IRR;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: kwí⁵yà¹nʔa⁵³hâ³¹	n⁵ndí⁵yà¹nʔa⁵³ V;SBJV;	n⁵ndí⁵yà¹tzʔan⁵³ V;SBJV;PL;1+EXCL
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵yà¹tzʔan⁵³ha³	n⁵ndí⁵yà¹tzʔan⁵³ V;IR	n⁵ndí⁵yà¹tzʔan⁵³ V;IRR;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: tí⁵yà¹nʔa⁵³ʔo³	n⁵ndí⁵yà¹nʔa⁵³ V;PFV	n⁵ndí⁵yà¹tzʔan⁵³ V;PFV;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: tí⁵yà¹nʔa⁵³hâ³¹	n⁵ndí⁵yà¹nʔa⁵³ V;PFV	n⁵ndí⁵yà¹tzʔan⁵³ V;PFV;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵yà¹tzʔan⁵³ʔu³	n⁵ndí⁵yà¹tzʔan⁵³ V;PR	n⁵ndí⁵yà¹tzʔan⁵³ V;PROG;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵yà¹nʔa⁵³há⁵á⁵	n⁵ndí⁵yà¹tzʔan⁵³ V;IR	n⁵ndí⁵yà¹tzʔan⁵³ V;IRR;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵yà¹tzʔan⁵³ha³	n⁵ndí⁵yà¹tzʔan⁵³ V;PR	n⁵ndí⁵yà¹tzʔan⁵³ V;PROG;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndí⁵yà¹nʔa⁵³há⁵á⁵	n⁵ndí⁵yà¹tzʔan⁵³ V;PR	n⁵ndí⁵yà¹tzʔan⁵³ V;PROG;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵yà¹tzʔan⁵³ʔu³	n⁵ndí⁵yà¹tzʔan⁵³ V;IR	n⁵ndí⁵yà¹tzʔan⁵³ V;IRR;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndí⁵yà¹tzʔan⁵³én⁵	n⁵ndí⁵yà¹tzʔan⁵³ V;IR	n⁵ndí⁵yà¹tzʔan⁵³ V;IRR;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: yà¹nʔa⁵³há⁵á⁵	n⁵ndí⁵yà¹tzʔan⁵³ V;IPF	n⁵ndí⁵yà¹tzʔan⁵³ V;IPFV;PL;1+INCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndí⁵yà¹nʔa⁵³hâ³¹	n⁵ndí⁵yà¹nʔa⁵³ V;PRO	n⁵ndí⁵yà¹tzʔan⁵³ V;PROG;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: yà¹tzʔan⁵³ʔu³	n⁵ndí⁵yà¹tzʔan⁵³ V;IPF	n⁵ndí⁵yà¹tzʔan⁵³ V;IPFV;SG;2;PRS
+Generate the lemma and morphological tags for the following inflected verb: tí⁵yà¹nʔa⁵³há⁵á⁵	n⁵ndí⁵yà¹tzʔan⁵³ V;PF	n⁵ndí⁵yà¹tzʔan⁵³ V;PFV;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: yà¹tzʔan⁵³ha³	n⁵ndí⁵yà¹tzʔan⁵³ V;IPF	n⁵ndí⁵yà¹tzʔan⁵³ V;IPFV;SG;1;PRS
+Generate the lemma and morphological tags for the following inflected verb: hndê³¹	n⁵ndí⁵hndí⁵ V;PFV;PL;1+E	n⁵ndɛ³⁵ V;PFV;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: ki³ndɛ¹oʔ³	n⁵ndɛ¹ V;SBJV;PL;3	n⁵ndɛ³⁵ V;SBJV;PL;3
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndè¹oʔ³	n⁵ndí⁵nde³ V;IRR;PL;3;FUT	n⁵ndɛ³⁵ V;IRR;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: hndɛ³⁵	n⁵ndɛ³⁵ V;PFV;PL;1+INCL;PST	n⁵ndɛ³⁵ V;PFV;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndɛ¹	n⁵ndɛ¹² V;IRR;SG;1;FUT	n⁵ndɛ³⁵ V;IRR;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndɛ¹	n⁵ndɛ¹² V;PROG;SG;1;FUT	n⁵ndɛ³⁵ V;PROG;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndɛ³⁵	n⁵ndɛ³⁵ V;IRR;PL;1+INCL;FUT	n⁵ndɛ³⁵ V;IRR;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: ko³ndɛ¹²é⁵	n⁵ndɛ¹² V;IPFV;PL;1+INCL;PST	n⁵ndɛ³⁵ V;IPFV;PL;1+INCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³ndê³¹	n⁵ndí⁵tzí⁵ V;PROG;PL;1+E	n⁵ndɛ³⁵ V;PROG;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: kí⁵ndɛʔ⁵³	n⁵ndɛ³⁴ V;SBJV;SG;1	n⁵ndɛ³⁵ V;SBJV;SG;2
+Generate the lemma and morphological tags for the following inflected verb: to³ndɛ¹oʔ³	n⁵ndɛ¹² V;PROG;PL;3;PST	n⁵ndɛ³⁵ V;PROG;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: ma³ndɛ¹	n⁵ndɛ¹² V;IPFV;SG;1;PRS	n⁵ndɛ³⁵ V;IPFV;SG;1;PRS
+Generate the lemma and morphological tags for the following inflected verb: ʔ⁵ndɛ³⁵	n⁵ndɛ³⁵ V;IPFV;PL;1+INCL;P	n⁵ndɛ³⁵ V;IPFV;SG;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndɛ¹²é⁵	n⁵ndɛ¹² V;PROG;SG;1;FUT	n⁵ndɛ³⁵ V;PROG;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndê³¹	n⁵ndí⁵ndí⁵ndí⁵ndí⁵ V;IRR	n⁵ndɛ³⁵ V;IRR;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndɛ³⁵	n⁵ndɛ³⁵ V;PROG;SG;1;FUT	n⁵ndɛ³⁵ V;PROG;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: hndɛ¹oʔ³	n⁵ndɛ¹² V;PFV;PL;3;PST	n⁵ndɛ³⁵ V;PFV;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndɛ¹oʔ³	n⁵ndɛ¹² V;PROG;PL;3;FUT	n⁵ndɛ³⁵ V;PROG;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: ko³ndê³¹	n⁵ndí⁵ko³ndí⁵ ko³ndí⁵	n⁵ndɛ³⁵ V;IPFV;PL;1+EXCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³ndɛ¹²é⁵	n⁵ndɛ¹² V;PROG;SG;1;PST	n⁵ndɛ³⁵ V;PROG;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: ki³ndê³¹	n⁵ndí⁵ki³nde³ V;SBJV;PL;	n⁵ndɛ³⁵ V;SBJV;PL;1+EXCL
+Generate the lemma and morphological tags for the following inflected verb: hndɛ¹²é⁵	n⁵ndɛ¹² V;PFV;SG;2;PST	n⁵ndɛ³⁵ V;PFV;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: ma³ndɛʔ⁵³	n⁵ndɛ³⁴ V;IPFV;SG;2;PRS	n⁵ndɛ³⁵ V;IPFV;SG;2;PRS
+Generate the lemma and morphological tags for the following inflected verb: ki³ndɛ¹²é⁵	n⁵ndɛ¹² V;SBJV;PL;1+INCL;PST	n⁵ndɛ³⁵ V;SBJV;PL;1+INCL
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndɛ¹²é⁵	n⁵ndɛ¹² V;IRR;PL;1+INCL;FUT	n⁵ndɛ³⁵ V;IRR;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndɛ³⁵	n⁵ndɛ³⁵ V;PROG;PL;1+INCL;PST	n⁵ndɛ³⁵ V;PROG;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndɛʔ⁵³	n⁵ndɛ³⁴ V;PROG;SG;1;FUT	n⁵ndɛ³⁵ V;PROG;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndɛ¹	n⁵ndɛ¹² V;PROG;SG;1;PST	n⁵ndɛ³⁵ V;PROG;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: hndɛʔ⁵³	n⁵ndɛ³⁴ V;PFV;SG;2;PST	n⁵ndɛ³⁵ V;PFV;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: ko³ndè¹oʔ³	n⁵nde³ V;IPFV;PL;3;PRS	n⁵ndɛ³⁵ V;IPFV;PL;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: hndɛ¹	n⁵ndɛ¹² V;PFV;SG;1;PST	n⁵ndɛ³⁵ V;PFV;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: ki³ndɛ³⁵	n⁵ndɛ³⁵ V;SBJV;PL;1+INCL;PS	n⁵ndɛ³⁵ V;SBJV;SG;3
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndê³¹	n⁵ndí⁵nde³ V;PROG;PL;1+EX	n⁵ndɛ³⁵ V;PROG;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndɛʔ⁵³	n⁵ndɛ³⁴ V;PROG;SG;3;PST	n⁵ndɛ³⁵ V;PROG;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: ki³ndɛ¹	n⁵ndɛ¹² V;SBJV;SG;1	n⁵ndɛ³⁵ V;SBJV;SG;1
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndɛʔ⁵³	n⁵ndɛ³⁴ V;IRR;SG;2;FUT	n⁵ndɛ³⁵ V;IRR;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndɛ¹²n⁵ndʔâ³¹	n⁵ndɛ¹²n⁵ndaʔ³ V;PROG;PL	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;PROG;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: ki³ndɛ¹²n⁵ndʔà¹oʔ³	n⁵ndɛ¹² n⁵ndʔà¹ V;SBJV;P	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;SBJV;PL;3
+Generate the lemma and morphological tags for the following inflected verb: to³ndɛ¹²to³ndʔá⁵á⁵	n⁵ndɛ¹²to³ndʔá⁵ V;PROG;	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;PROG;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndɛ¹²n⁵ndʔà¹oʔ³	n⁵ndɛ¹²n⁵ndʔà¹ V;IRR;PL	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;IRR;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndɛ¹²n⁵tzʔa³⁵	n⁵ndɛ¹²tzʔa³⁵ V;PROG;PL;	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;PROG;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: ki³ndɛ¹²n⁵ntzʔa⁵³	n⁵ndɛ¹² n⁵ntzʔa³⁴ V;SB	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;SBJV;SG;1
+Generate the lemma and morphological tags for the following inflected verb: to³ndɛ¹²to³tzʔa⁵³	n⁵ndɛ¹²to³tzʔa³⁴ V;PROG;	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;PROG;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndɛ¹²n⁵tzaʔ⁵³	n⁵ndɛ¹²tza³⁴ V;PROG;SG;1;F	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;PROG;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndɛ¹²n⁵ndʔá⁵á⁵	n⁵ndɛ¹² n⁵ndʔá⁵ V;PROG;	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;PROG;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: ki³ndɛ¹²n⁵ndʔâ³¹	n⁵ndɛ¹²n⁵ndaʔ³ V;SBJV;P	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;SBJV;PL;1+EXCL
+Generate the lemma and morphological tags for the following inflected verb: hndɛ¹²saʔ⁵³	n⁵ndɛ¹²sa³ V;PFV;SG;1;PST	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;PFV;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: hndɛ¹²hndʔâ³¹	n⁵ndɛ¹²hndaʔ³⁴ V;PFV;PL	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;PFV;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: ko³ndɛ¹²ko³ndʔá⁵á⁵	n⁵ndɛ¹²ko³ndʔá⁵ V;IPFV;	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;IPFV;PL;1+INCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: hndɛ¹²hndʔà¹oʔ³	n⁵ndɛ¹²hndʔà¹ V;PFV;PL;3	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;PFV;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndɛ¹²to³ndʔà¹oʔ³	n⁵ndɛ¹²to³ndʔà¹ V;PROG;PL;	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;PROG;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndɛ¹²n⁵ndʔà¹oʔ³	n⁵ndɛ¹²n⁵ndʔà¹ V;PROG;PL	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;PROG;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndɛ¹²to³tzʔa³⁵	n⁵ndɛ¹²to³tzʔa³⁵ V;PROG;	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;PROG;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndɛ¹²n⁵ndʔá⁵á⁵	n⁵ndɛ¹²n⁵ndʔá⁵ V;IRR;P	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;IRR;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndɛ¹²n⁵ntzʔa³⁵	n⁵ndɛ¹²n⁵ntzʔa³⁵ V;IRR	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;IRR;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndè¹²n⁵ntzaʔ⁵³	n⁵ndè¹²n⁵ntza³⁴ V;IRR;SG	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;IRR;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: hndɛ¹²sʔa⁵³	n⁵ndɛ¹²saʔ³⁴ V;PFV;SG;	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;PFV;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndɛ¹²n⁵tzʔa⁵³	n⁵ndɛ¹²tzʔa³⁴ V;PROG;SG	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;PROG;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: ki³ndɛ¹²n⁵ntzaʔ⁵³	n⁵ndɛ¹² n⁵ntza³⁴ V;SBJV;	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;SBJV;SG;2
+Generate the lemma and morphological tags for the following inflected verb: to³ndɛ¹²to³ndʔâ³¹	n⁵ndɛ¹²to³ndaʔ³⁴ V;PROG	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;PROG;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: ko³ndɛ¹²ko³ndʔâ³¹	n⁵ndɛ¹²ko³ndaʔ³⁴ V;IPF	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;IPFV;PL;1+EXCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³ndɛ¹²to³tzaʔ⁵³	n⁵ndɛ¹²to³tza³⁴ V;PROG;SG	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;PROG;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: ko³ndɛ¹²ma³tzʔa⁵³	n⁵ndɛ¹²ma³tzʔa³⁴ V;IPFV;	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;IPFV;SG;1;PRS
+Generate the lemma and morphological tags for the following inflected verb: ko³ndɛ¹²ʔ⁵tzʔa³⁵	n⁵ndɛ¹² ʔ⁵tzʔa³⁵ V;I	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;IPFV;SG;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: ko³ndɛ¹²ma³tzaʔ⁵³	n⁵ndɛ¹²ma³tza³⁴ V;IPFV;SG	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;IPFV;SG;2;PRS
+Generate the lemma and morphological tags for the following inflected verb: ki³ndɛ¹²n⁵ntzʔa³⁵	n⁵ndɛ¹²n⁵ntzʔa³⁵ V;SBJ	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;SBJV;SG;3
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndɛ¹²n⁵ntzʔa⁵³	n⁵ndɛ¹²n⁵ntzʔa³⁴ V;IRR	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;IRR;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: ki³ndɛ¹²n⁵ndʔá⁵á⁵	n⁵ndɛ¹² n⁵ndʔá⁵ V;SBJV;	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;SBJV;PL;1+INCL
+Generate the lemma and morphological tags for the following inflected verb: ko³ndɛ¹²ko³ndʔà¹oʔ³	n⁵ndɛ¹²ko³ndʔà¹ V;IPFV;P	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;IPFV;PL;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: hndɛ¹²hndʔá⁵á⁵	n⁵ndɛ¹²hndʔá⁵ V;PFV;PL	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;PFV;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: hndɛ¹²sʔa³⁵	n⁵ndɛ¹²saʔ³⁵ V;PFV;SG;1	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;PFV;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndɛ¹²n⁵ndʔâ³¹	n⁵ndɛ¹²n⁵ndaʔ³ V;IRR;PL	n⁵ndɛ¹² n⁵ntzʔa³⁵ V;IRR;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: ko³ndʔê³¹	n⁵ndí⁵ko³ndʔeo³ V;IPFV;P	n⁵ndɛʔ³⁵ V;IPFV;PL;1+EXCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndʔê³¹	n⁵ndí⁵nde³ V;IRR;PL;1+EXC	n⁵ndɛʔ³⁵ V;IRR;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: to³ndʔê³¹	n⁵ndí⁵tzʔen³⁵ V;PROG;P	n⁵ndɛʔ³⁵ V;PROG;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndʔɛ¹²oʔ³	n⁵ndʔɛ¹² V;PROG;PL;3;PST	n⁵ndɛʔ³⁵ V;PROG;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: to³ndɛʔ³⁵	n⁵ndɛʔ³⁵ V;PROG;SG;3;PST	n⁵ndɛʔ³⁵ V;PROG;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³n⁵ndàʔ¹	n⁵ndaʔ³⁴ V;PROG;SG;1;FUT	n⁵ndɛʔ³⁵ V;PROG;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndàʔ¹	n⁵ndaʔ³⁴ V;IRR;SG;1;FUT	n⁵ndɛʔ³⁵ V;IRR;SG;2;FUT
+Generate the lemma and morphological tags for the following inflected verb: kí⁵nda¹²	n⁵ndaʔ³⁴ V;SBJV;SG;1	n⁵ndɛʔ³⁵ V;SBJV;SG;1
+Generate the lemma and morphological tags for the following inflected verb: ki³ndʔɛ³⁴	n⁵ndʔɛ³⁴ V;SBJV;PL;1+INCL	n⁵ndɛʔ³⁵ V;SBJV;PL;1+INCL
+Generate the lemma and morphological tags for the following inflected verb: ʔ⁵ndɛʔ³⁵	n⁵ndɛʔ³⁵ V;IPFV;SG;2;PRS	n⁵ndɛʔ³⁵ V;IPFV;SG;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: kí⁵ndàʔ¹	n⁵ndàʔ¹ V;SBJV;SG;1	n⁵ndɛʔ³⁵ V;SBJV;SG;2
+Generate the lemma and morphological tags for the following inflected verb: to³ndʔɛ³⁴	n⁵ndʔɛ³⁴ V;PROG;PL;1+INCL	n⁵ndɛʔ³⁵ V;PROG;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: hndʔɛ³⁴	n⁵ndʔɛ³⁴ V;PFV;PL;1+INCL;	n⁵ndɛʔ³⁵ V;PFV;PL;1+INCL;PST
+Generate the lemma and morphological tags for the following inflected verb: ʔ⁵hnda¹²	n⁵ndaʔ³⁴ V;IPFV;SG;1;PRS	n⁵ndɛʔ³⁵ V;PFV;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: ki³ndɛʔ³⁵	n⁵ndɛʔ³⁵ V;SBJV;PL;1+INCL	n⁵ndɛʔ³⁵ V;SBJV;SG;3
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³n⁵nda¹²	n⁵ndaʔ³⁴ V;PROG;SG;1;FUT	n⁵ndɛʔ³⁵ V;PROG;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndʔɛ¹²oʔ³	n⁵ndʔɛ¹² V;IRR;PL;3;FUT	n⁵ndɛʔ³⁵ V;IRR;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: ma³n⁵nda¹²	n⁵ndaʔ³⁴ V;IPFV;SG;1;PRS	n⁵ndɛʔ³⁵ V;IPFV;SG;1;PRS
+Generate the lemma and morphological tags for the following inflected verb: ko³ndʔɛ¹²oʔ³	n⁵ndʔɛ¹² V;IPFV;PL;3;PRS	n⁵ndɛʔ³⁵ V;IPFV;PL;3;PRS
+Generate the lemma and morphological tags for the following inflected verb: to³n⁵nda¹²	n⁵ndaʔ³⁴ V;PROG;SG;1;PST	n⁵ndɛʔ³⁵ V;PROG;SG;1;PST
+Generate the lemma and morphological tags for the following inflected verb: to³n⁵ndàʔ¹	n⁵ndàʔ¹ V;PROG;SG;1;PST	n⁵ndɛʔ³⁵ V;PROG;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: ʔ⁵hndàʔ¹	n⁵ndí⁵ʔ⁵hndàʔ¹ V;IPFV	n⁵ndɛʔ³⁵ V;PFV;SG;2;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndʔɛ³⁴	n⁵ndʔɛ³⁴ V;PROG;PL;1+INCL;F	n⁵ndɛʔ³⁵ V;PROG;PL;1+INCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndʔɛ¹²oʔ³	n⁵ndʔɛ¹² V;PROG;PL;3;FUT	n⁵ndɛʔ³⁵ V;PROG;PL;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndɛʔ³⁵	n⁵ndɛʔ³⁵ V;PROG;SG;1;FUT	n⁵ndɛʔ³⁵ V;PROG;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: hndɛʔ³⁵	n⁵ndɛʔ³⁵ V;PFV;SG;2;PST	n⁵ndɛʔ³⁵ V;PFV;SG;3;PST
+Generate the lemma and morphological tags for the following inflected verb: ma³n⁵ndàʔ¹	n⁵ndàʔ¹ V;IPFV;SG;1;PRS	n⁵ndɛʔ³⁵ V;IPFV;SG;2;PRS
+Generate the lemma and morphological tags for the following inflected verb: ko³ndʔɛ³⁴	n⁵ndʔɛ³⁴ V;IPFV;PL;1+INCL	n⁵ndɛʔ³⁵ V;IPFV;PL;1+INCL;PRS
+Generate the lemma and morphological tags for the following inflected verb: ki³ndʔê³¹	n⁵ndí⁵ki³ndí⁵ ki³ndí⁵	n⁵ndɛʔ³⁵ V;SBJV;PL;1+EXCL
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndɛʔ³⁵	n⁵ndɛʔ³⁵ V;IRR;SG;2;FUT	n⁵ndɛʔ³⁵ V;IRR;SG;3;FUT
+Generate the lemma and morphological tags for the following inflected verb: hndʔê³¹	n⁵ndí⁵hndí⁵ V;PFV;PL;1+E	n⁵ndɛʔ³⁵ V;PFV;PL;1+EXCL;PST
+Generate the lemma and morphological tags for the following inflected verb: n⁵ngo³ndʔê³¹	n⁵ndí⁵nde³ V;PROG;PL;1+EX	n⁵ndɛʔ³⁵ V;PROG;PL;1+EXCL;FUT
+Generate the lemma and morphological tags for the following inflected verb: n⁵nda¹²	n⁵ndaʔ³⁴ V;IRR;SG;1;FUT	n⁵ndɛʔ³⁵ V;IRR;SG;1;FUT
+Generate the lemma and morphological tags for the following inflected verb: hndʔɛ¹²oʔ³	n⁵ndʔɛ¹² V;PFV;PL;3;PST	n⁵ndɛʔ³⁵ V;PFV;PL;3;PST
+Generate the lemma and morphological tags for the following inflected verb: ki³ndʔɛ¹²oʔ³	n⁵ndʔɛ¹² V;SBJV;PL;3	n⁵ndɛʔ³⁵ V;SBJV;PL;3
+Generate the lemma and morphological tags for the following inflected verb: n⁵ndʔɛ³⁴	n⁵ndʔɛ³⁴ V;IRR;PL;1+INCL;F	n⁵ndɛʔ³⁵ V;IRR;PL;1+INCL;FUT
+
+Inverse Task Evaluation (Lemma/MSD):
+  Lemma accuracy: 0.3490 (349/1000)
+  Lemma mean Levenshtein distance: 2.5470
+  MSD accuracy (exact set match): 0.1730 (173/1000)
+  MSD micro-precision: 0.7884  micro-recall: 0.6175  micro-F1: 0.6926
+  Example Mismatches (prediction | gold):
+    n⁵ndí⁵ ʔmé⁵ V;IRR;PL;3; | m⁵ʔmé⁵ V;IRR;PL;3;FUT
+    n⁵ndí⁵ ʔmé⁵ V;IRR;PL;1+I | m⁵ʔmé⁵ V;IRR;PL;1+INCL;FUT
+    n⁵ndí⁵ ʔmé⁵ V;IRR;SG;1; | m⁵ʔmé⁵ V;IRR;SG;1;FUT
+    n⁵ndí⁵kí⁵ʔmé⁵ V;SBJV;P | m⁵ʔmé⁵ V;SBJV;PL;1+EXCL
+    n⁵ndí⁵tʔoén⁵ V;PROG;PL;1+ | m⁵ʔmé⁵ V;PROG;PL;1+INCL;PST

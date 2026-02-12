@@ -5,9 +5,9 @@ Language: grc
 Test examples: 404
 
 Results:
-  Lemma Accuracy: 0.0000 (0/404)
-  Lemma Mean Levenshtein: 6.6139
-  MSD Accuracy: 0.0000 (0/404)
-  MSD Micro-Precision: 0.0000
-  MSD Micro-Recall: 0.0000
-  MSD F1: 0.0000
+  Lemma Accuracy: 0.3267 (132/404)
+  Lemma Mean Levenshtein: 6.0767
+  MSD Accuracy: 0.4777 (193/404)
+  MSD Micro-Precision: 0.9087
+  MSD Micro-Recall: 0.7441
+  MSD F1: 0.8182

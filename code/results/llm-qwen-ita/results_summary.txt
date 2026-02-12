@@ -5,9 +5,9 @@ Language: ita
 Test examples: 404
 
 Results:
-  Lemma Accuracy: 0.0000 (0/404)
-  Lemma Mean Levenshtein: 6.5569
-  MSD Accuracy: 0.0000 (0/404)
-  MSD Micro-Precision: 0.0000
-  MSD Micro-Recall: 0.0000
-  MSD F1: 0.0000
+  Lemma Accuracy: 0.4282 (173/404)
+  Lemma Mean Levenshtein: 8.3317
+  MSD Accuracy: 0.2178 (88/404)
+  MSD Micro-Precision: 0.6328
+  MSD Micro-Recall: 0.1531
+  MSD F1: 0.2466

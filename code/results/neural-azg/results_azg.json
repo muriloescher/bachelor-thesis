@@ -1,0 +1,18 @@
+{
+  "model_type": "neural",
+  "model_name": "neural",
+  "language": "azg",
+  "metrics": {
+    "test": {
+      "accuracy": 0.201,
+      "correct": 201,
+      "total": 1000
+    }
+  },
+  "timestamp": "2026-02-07T08:45:04.489470",
+  "configuration": {
+    "epochs": "max_steps:20000",
+    "batch_size": 400,
+    "learning_rate": 0.001
+  }
+}

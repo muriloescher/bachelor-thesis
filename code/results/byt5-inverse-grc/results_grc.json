@@ -1,0 +1,32 @@
+{
+  "model_type": "byt5",
+  "model_name": "results/byt5-inverse-grc/checkpoint-3750",
+  "language": "grc",
+  "metrics": {
+    "inverse": {
+      "test": {
+        "lemma": {
+          "accuracy": 0.676,
+          "mean_levenshtein": 0.611,
+          "correct": 676,
+          "total": 1000
+        },
+        "msd": {
+          "accuracy": 0.707,
+          "f1": 0.8925835370823146,
+          "precision": 0.8947712418300654,
+          "recall": 0.8904065040650406,
+          "correct": 707,
+          "total": 1000
+        }
+      }
+    }
+  },
+  "timestamp": "2026-02-09T06:11:17.933230",
+  "direction": "inverse",
+  "configuration": {
+    "use_context": false,
+    "batch_size": 16,
+    "task": "inverse"
+  }
+}

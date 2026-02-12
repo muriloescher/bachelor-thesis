@@ -1,0 +1,18 @@
+{
+  "model_type": "neural",
+  "model_name": "neural",
+  "language": "amh",
+  "metrics": {
+    "test": {
+      "accuracy": 0.887,
+      "correct": 887,
+      "total": 1000
+    }
+  },
+  "timestamp": "2026-02-06T22:51:12.589428",
+  "configuration": {
+    "epochs": "max_steps:20000",
+    "batch_size": 400,
+    "learning_rate": 0.001
+  }
+}

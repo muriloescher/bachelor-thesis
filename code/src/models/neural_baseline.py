@@ -149,15 +149,22 @@ class NeuralBaselineModel:
         
         # Load test data and predictions
         print("Loading test data and predictions...")
-        test_data = load_data(test_file, 'unimorph')
+        test_data = load_data(test_file, has_context=False)
         
         # Read predictions (TSV format: lemma\tfeatures\tpredicted_form)
         predictions = []
         with open(predictions_file, 'r', encoding='utf-8') as f:
-            for line in f:
-                parts = line.strip().split('\t')
-                if len(parts) >= 3:
-                    predictions.append(parts[2])  # predicted form is 3rd column
+            for i, line in enumerate(f):
+                line = line.strip()
+                if not line:  # Skip empty lines
+                    continue
+                if i == 0 and line.startswith('prediction'):  # Skip header line
+                    continue
+                parts = line.split('\t')
+                if len(parts) >= 2:
+                    # The prediction is space-separated characters, need to join them
+                    pred_text = parts[0].replace(' ', '')
+                    predictions.append(pred_text)
                 else:
                     predictions.append('')  # empty prediction for malformed lines
         

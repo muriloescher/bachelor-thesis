@@ -5,21 +5,21 @@
   "metrics": {
     "test": {
       "lemma": {
-        "accuracy": 0.0,
-        "mean_levenshtein": 5.45413870246085,
-        "correct": 0,
+        "accuracy": 0.5156599552572707,
+        "mean_levenshtein": 8.453020134228188,
+        "correct": 461,
         "total": 894
       },
       "msd": {
-        "accuracy": 0.0,
-        "f1": 0.0,
-        "precision": 0.0,
-        "recall": 0.0,
-        "correct": 0,
+        "accuracy": 0.02796420581655481,
+        "f1": 0.414560770156438,
+        "precision": 0.4971139971139971,
+        "recall": 0.35552115583075333,
+        "correct": 25,
         "total": 894
       }
     }
   },
-  "timestamp": "2026-02-06T00:40:05.156052",
+  "timestamp": "2026-02-06T21:52:46.127851",
   "test_examples": 894
 }

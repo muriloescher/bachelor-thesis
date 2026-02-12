@@ -10,7 +10,7 @@ output_dir_template: "results/llm-qwen-{lang}"
 # API settings
 temperature: 0.0  # For reproducibility
 seed: 42  # Random seed for deterministic outputs
-rate_limit_delay: 0.5  # seconds between requests
+rate_limit_delay: 4.0  # seconds between requests (qwen has very strict rate limits on OpenRouter)
 max_tokens: 10000
 timeout: 60
 

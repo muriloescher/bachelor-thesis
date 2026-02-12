@@ -1,0 +1,32 @@
+{
+  "model_type": "byt5",
+  "model_name": "results/byt5-inverse-azg/checkpoint-3750",
+  "language": "azg",
+  "metrics": {
+    "inverse": {
+      "test": {
+        "lemma": {
+          "accuracy": 0.351,
+          "mean_levenshtein": 2.456,
+          "correct": 351,
+          "total": 1000
+        },
+        "msd": {
+          "accuracy": 0.184,
+          "f1": 0.7121718377088304,
+          "precision": 0.841511562323745,
+          "recall": 0.6172941663218866,
+          "correct": 184,
+          "total": 1000
+        }
+      }
+    }
+  },
+  "timestamp": "2026-02-09T15:55:50.380867",
+  "direction": "inverse",
+  "configuration": {
+    "use_context": false,
+    "batch_size": 16,
+    "task": "inverse"
+  }
+}

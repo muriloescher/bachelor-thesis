@@ -1,0 +1,39 @@
+{
+  "model_type": "byt5",
+  "model_name": "results/byt5-bidir-azg/checkpoint-3750",
+  "language": "azg",
+  "metrics": {
+    "forward": {
+      "test": {
+        "accuracy": 0.218,
+        "correct": 218,
+        "total": 1000
+      }
+    },
+    "inverse": {
+      "test": {
+        "lemma": {
+          "accuracy": 0.349,
+          "mean_levenshtein": 2.547,
+          "correct": 349,
+          "total": 1000
+        },
+        "msd": {
+          "accuracy": 0.173,
+          "f1": 0.6925754060324827,
+          "precision": 0.7884310618066561,
+          "recall": 0.6175010343400911,
+          "correct": 173,
+          "total": 1000
+        }
+      }
+    }
+  },
+  "timestamp": "2026-02-10T21:55:22.246064",
+  "direction": "inverse",
+  "configuration": {
+    "use_context": false,
+    "batch_size": 16,
+    "task": "bidirectional"
+  }
+}

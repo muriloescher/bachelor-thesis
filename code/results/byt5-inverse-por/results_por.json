@@ -1,0 +1,32 @@
+{
+  "model_type": "byt5",
+  "model_name": "results/byt5-inverse-por/checkpoint-3750",
+  "language": "por",
+  "metrics": {
+    "inverse": {
+      "test": {
+        "lemma": {
+          "accuracy": 0.949,
+          "mean_levenshtein": 0.074,
+          "correct": 949,
+          "total": 1000
+        },
+        "msd": {
+          "accuracy": 0.66,
+          "f1": 0.8854643070192881,
+          "precision": 0.8879361914257228,
+          "recall": 0.8830061471346421,
+          "correct": 660,
+          "total": 1000
+        }
+      }
+    }
+  },
+  "timestamp": "2026-02-08T18:18:37.843355",
+  "direction": "inverse",
+  "configuration": {
+    "use_context": false,
+    "batch_size": 16,
+    "task": "inverse"
+  }
+}

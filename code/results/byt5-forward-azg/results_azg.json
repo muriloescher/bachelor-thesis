@@ -1,0 +1,21 @@
+{
+  "model_type": "byt5",
+  "model_name": "results/byt5-forward-azg/checkpoint-3750",
+  "language": "azg",
+  "metrics": {
+    "forward": {
+      "test": {
+        "accuracy": 0.241,
+        "correct": 241,
+        "total": 1000
+      }
+    }
+  },
+  "timestamp": "2026-02-08T13:46:02.713792",
+  "direction": "forward",
+  "configuration": {
+    "use_context": false,
+    "batch_size": 16,
+    "task": "forward"
+  }
+}

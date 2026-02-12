@@ -1,0 +1,21 @@
+{
+  "model_type": "byt5",
+  "model_name": "results/byt5-forward-dsb/checkpoint-3750",
+  "language": "dsb",
+  "metrics": {
+    "forward": {
+      "test": {
+        "accuracy": 0.839,
+        "correct": 839,
+        "total": 1000
+      }
+    }
+  },
+  "timestamp": "2026-02-08T15:51:12.963077",
+  "direction": "forward",
+  "configuration": {
+    "use_context": false,
+    "batch_size": 16,
+    "task": "forward"
+  }
+}

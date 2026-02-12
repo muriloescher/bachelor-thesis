@@ -2,35 +2,166 @@
 
 \section{Datasets}
 
-Explain dataset structure, with stem, lemma and inflection.
-Explain morphological features.
+To address the tasks of morphological inflection and morphological analysis and to train the proposed models, labeled data is required. Each instance consists of a lemma, a set of morphological tags describing the target grammatical features, and the corresponding inflected form. For this purpose, this work relies on two widely used resources: UniMorph 4.0 \parencite{batsuren-etal-2022-unimorph} and \ac{UD} \parencite{nivre-etal-2020-universal}.
 
-To tackle the task of morphological inflection and analysis, we need labeled data which includes a lemma, the morphological tags and the inflected form. To this purpose, this work used two different, renownd sources: Unimorph CITE and Universal Dependencies CITE. 
+\subsection{UniMorph 4.0}
 
-The data format used for training and evaluating the models followed the one from Unimorph, since it was used in the baselines and thus the start of all experiments. This format consisted of the following:
+UniMorph 4.0 is a multilingual project dedicated to providing large-scale morphological resources in the form of inflection tables and structured morphological annotations across a wide range of languages. At the time of writing, the dataset covers up to 182 languages, including both high-resource and low-resource as well as endangered languages.
 
-lemma \textbackslash t tags \textbackslash t inflected DO PRETTY SCHEMA HERE
+For each language, UniMorph provides a dataset consisting of individual instances that pair a lemma with a bundle of morphological features and the corresponding inflected form. Concretely, the data is distributed as tab-separated lines, where each row represents a single lemma, tags, form triple. Multiple rows typically share the same lemma and correspond to different morphological feature combinations, effectively encoding the full inflectional paradigm in a flat, line-based format, as shown in Table \ref{tab:unimorph-dataset-format}.
 
-Ex:
+\begin{table}[h]
+\centering
+\begin{tabular}{lll}
+\toprule
+Lemma & Tags & Inflected form \\
+\midrule
+walk & V;PST;3;SG & walked \\
+\bottomrule
+\end{tabular}
+\caption{Example instance of the tab-separated format used by UniMorph.}
+\label{tab:unimorph-dataset-format}
+\end{table}
 
-EXAMPLE FROM SOME DATASET; ENGLISH FOR SIMPLICITY
+In this example, the morphological tags can be interpreted as shown in Table \ref{tab:unimorph-tags}: 
 
-\subsection{Unimorph 4.0}
+\begin{table}[h]
+\centering
+\begin{tabular}{ll}
+\toprule
+Tag & Meaning \\
+\midrule
+V & Verb \\
+PST & Past tense \\
+3 & Third person \\
+SG & Singular \\
+\bottomrule
+\end{tabular}
+\caption{Example UniMorph morphological tags and their meanings.}
+\label{tab:unimorph-tags}
+\end{table}
 
-Unimorph is a series of datasets for a variety of languages, comprised of
+The UniMorph data served as the main resource throughout the experimental pipeline. Following the original SIGMORPHON shared task setup, it formed the basis for the reimplementation of the shared task baselines.
 
-As mentioned at the start of the section, the data for many of the experiments closely followed the lemma tags inflected format of unimorph. 
-
-For languages which were previous tackeld by the shared task, 
+Furthermore, the dataset was used to fine-tune the ByT5 model for morphological inflection and, by inverting the source–target mapping, also for morphological analysis. It additionally constituted the core training data for the bidirectional model, while certain experimental settings were further supplemented with data derived from Universal Dependencies.
 
 \subsection{Universal Dependencies}
 
-Blah blah UD
+The \ac{UD} resource provides consistent morphosyntactic annotation across languages, offering dependency treebanks with standardized part-of-speech tags, morphological features, and syntactic relations \parencite{10.1162/coli_a_00402}. At the time of writing, \ac{UD} covers over 150 languages through more than 200 treebanks, spanning both high-resource and low-resource settings.
+
+The data is distributed in the CoNLL-U format, where each sentence is represented as a sequence of token-level annotations. In addition to syntactic dependency information, each token is associated with a lemma and a set of morphological features encoded as attribute–value pairs (e.g., \texttt{Tense=Past|Number=Sing|Person=3}). Compared to UniMorph's tab-separated triple format, \ac{UD} therefore provides richer contextual and sentence-level information alongside morphological annotations. An example taken from the Portuguese PetroGold treebank is shown in Figure \ref{fig:ud-conllu-example}.
+
+\begin{figure}[h]
+\centering    
+\begin{verbatim}
+# text = Estas podem representar falhas profundas.
+# sent_id = 247-20140910-MONOGRAFIA_0-42
+1	Estas	este	PRON	_	Gender=Fem|Number=Plur|PronType=Dem	2	nsubj	_	_
+2	podem	poder	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	representar	representar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	falhas	falha	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
+5	profundas	profundo	ADJ	_	Gender=Fem|Number=Plur	4	amod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	_
+\end{verbatim}
+\caption{Example sentence in CoNLL-U format from the Portuguese UD PetroGold treebank.}
+\label{fig:ud-conllu-example}
+\end{figure}
+
+In this work, \ac{UD} data serves as a source of contextual information for fine-tuning the bidirectional ByT5 model and for conducting experiments with large language models.
+
+Since \ac{UD} often provides multiple treebanks for a given language, it was necessary to select a single resource for each case. To guide this choice, we relied on the ranking provided by the \ac{UD} project, which evaluates treebanks based on their size, annotation quality, and linguistic diversity. Whenever multiple treebanks were available for a language, the highest-ranked treebank according to this score was selected.
 
 \subsection{Data Preparation}
 
-Blah blah conversion between different formats
+Since the two data sources use different annotation schemes and file formats, several preprocessing and conversion steps were required to obtain a unified representation suitable for all experiments.
+
+For UniMorph, we followed the official SIGMORPHON shared task setup whenever available, using the predefined training, development, and test splits provided for the corresponding languages. These partitions consist of 10{,}000 training instances, 1{,}000 development instances, and 1{,}000 test instances. For languages not covered by the shared task, the data was obtained directly from the original UniMorph repository and split into training, development, and test sets using the same size configuration to maintain consistency across languages.
+
+For most \ac{UD} treebanks, predefined training, development, and test splits are provided. However, for Amharic only a test set is available. In this case, the data was randomly partitioned into training, development, and test sets according to the same proportions as the other languages, as no official split specification is provided.
+
+As the project builds upon a reimplementation of the SIGMORPHON baselines, the final data format closely follows the UniMorph specification. Each instance therefore consists of a lemma, a set of morphological tags, and the corresponding inflected form, separated by tab characters. For data originating from \ref{acro:UD}, an additional fourth column containing the sentence context is included when contextual information is required.
+
+To incorporate \ac{UD} data into this format, the morphological feature annotations provided in the CoNLL-U files were first mapped to their UniMorph equivalents. For this purpose, we used the official UniMorph conversion tool, which translates \ac{UD} feature sets into the UniMorph schema using language-specific translators \parencite{mccarthy-etal-2018-marrying}. Since not all evaluated languages were supported by the provided translators, the conversion scripts were extended following the structure of the existing templates to additionally support Georgian and Amharic.
+
+Figure~\ref{fig:marry-example} illustrates the output of the conversion tool when applied to the sentence shown in Figure~\ref{fig:ud-conllu-example}. The UniMorph-compatible tags replace the original \ac{UD} feature representations while preserving the original tokenization and syntactic structure.
+
+\begin{figure}[h]
+\centering    
+\begin{verbatim}
+# text = Estas podem representar falhas profundas.
+# sent_id = 247-20140910-MONOGRAFIA_0-42
+1	Estas	este	PRON	_	PRO;PL;FEM	2	nsubj	_	_
+2	podem	poder	VERB	_	PL;PRS;V;IND;3	0	root	_	_
+3	representar	representar	VERB	_	V;NFIN	2	xcomp	_	_
+4	falhas	falha	NOUN	_	PL;FEM;N	3	obj	_	_
+5	profundas	profundo	ADJ	_	PL;FEM;ADJ	4	amod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	_
+\end{verbatim}
+\caption{Example output from official conversion tool.}
+\label{fig:marry-example}
+\end{figure}
+
+Since the UniMorph data predominantly contains verbs, \ac{UD} data was filtered accordingly to include only verbal tokens. Concretely, for each sentence, the first verb was selected and used to construct a single instance.
+
+After conversion, the lemma, the inflected form, the mapped UniMorph tags, and the surrounding sentence context were extracted to construct the final tab-separated instances used in the downstream experiments. The resulting unified format is illustrated in Table~\ref{tab:extended-dataset-format}.
+
+\begin{table}[h]
+\centering
+\begin{tabular}{llll}
+\toprule
+Lemma & Tags & Inflected form & Context \\
+\midrule
+poder & V;IND;PRS;PL;3 & podem	& Estas podem representar falhas profundas. \\
+\bottomrule
+\end{tabular}
+\caption{Example instance of the unified tab-separated format used in this work.}
+\label{tab:extended-dataset-format}
+\end{table}
+
+All preprocessing, conversion, and extraction scripts are included in the accompanying code repository to ensure full reproducibility.
 
 \section{Languages}
 
-Placeholder text.
+The following tables summarize the languages considered in the experiments. Table~\ref{tab:languages-typology} presents general typological and linguistic information, together with the UniMorph data source for each language, indicating whether the data was obtained from the SIGMORPHON shared task or sampled directly from the original UniMorph repository. For all languages, UniMorph uses fixed training, development, and test splits of 10{,}000, 1{,}000, and 1{,}000 instances, respectively. In addition, the total number of UniMorph instances (``UM size'') is reported to reflect the overall amount of available training data. The average number of inflected forms per lemma is included as a coarse estimate of morphological richness. Finally, the linguistic diversity score proposed by \parencite{joshi-etal-2020-state} is provided as an external measure of language resource availability.
+
+Table~\ref{tab:languages-ud} provides statistics for the Universal Dependencies resources. Since UD treebanks are not available for Amuzgo and Lower Sorbian, these languages are excluded from the contextual and large language model experiments. For the remaining languages, the selected treebank and the sizes of the training, development, and test splits are listed.
+
+\begin{table}[h]
+\centering
+\small
+\begin{tabular}{lllrrrr}
+\toprule
+Language & Family & Type & Ling.\ score & UM size & Avg.\ forms \\
+\midrule
+Amharic & Semitic & Templatic & 2 & 46224 & -- \\
+Amuzgo & Oto-Manguean & Polysynthetic & 0 & 12204 & -- \\
+Ancient Greek & Hellenic & Fusional & 3 & 41593 & -- \\
+Lower Sorbian & Slavic & Fusional & 1 & 20121 & -- \\
+English & Germanic & Analytic & 5 & 115523 & -- \\
+Italian & Romance & Fusional & 4 & 509574 & -- \\
+Georgian & Kartvelian & Agglutinative & 3 & 74412 & -- \\
+Portuguese & Romance & Fusional & 4 & 303996 & -- \\
+\bottomrule
+\end{tabular}
+\caption{Typological and UniMorph statistics for the selected languages.}
+\label{tab:languages-typology}
+\end{table}
+
+\begin{table}[h]
+\centering
+\small
+\begin{tabular}{llrrrr}
+\toprule
+Language & Treebank & Train & Dev & Test \\
+\midrule
+Amharic & ATT & 811 & 102 & 99 \\
+Ancient Greek & PTNK & 692 & 424 & 404 \\
+English & GUM & 7692 & 1220 & 1171 \\
+Italian & ISDT & 10728 & 475 & 404 \\
+Georgian & GNC & 798 & 120 & 741 \\
+Portuguese & PetroGold & 5871 & 568 & 894 \\
+\bottomrule
+\end{tabular}
+\caption{Universal Dependencies treebanks and dataset sizes for the languages with available UD resources.}
+\label{tab:languages-ud}
+\end{table}

@@ -8,21 +8,41 @@ Placeholder text.
 
 Placeholder text.
 
+As a reference system, we employ the non-neural baseline provided by the SIGMORPHON shared task repository. This model is rule-based and derives transformation rules directly from the training data, without relying on trainable neural parameters. Since the approach does not involve hyperparameter tuning or gradient-based optimization, it can be executed directly using the default configuration supplied by the original implementation.
+
+For all experiments, the model is applied to the UniMorph data in the standard tab-separated format consisting of lemma, morphological tags, and target inflected form, as described in Section~\ref{chapter:datasets}.
+
 \subsection{Neural Baseline}
 
 Placeholder text.
+
+In addition to the rule-based system, we evaluate the neural baseline provided by the SIGMORPHON shared task. Unlike the non-neural approach, this model requires supervised training. The model is trained on the UniMorph training split and evaluated on the corresponding development and test sets. For languages not included in the official shared task configuration, the data is partitioned into training, development, and test sets as described in Section~\ref{sec:datasets}.
+
+The model is trained using the hyperparameters specified in the original baseline implementation. The exact configuration used in our experiments is reported for reproducibility.
 
 \subsection{ByT5}
 
 Placeholder text.
 
+For the morphological inflection task, we fine-tune the ByT5 model on the UniMorph training data. Each instance is formulated as a sequence-to-sequence problem in which the input consists of the lemma together with the corresponding morphological tags, and the target sequence corresponds to the inflected form. The model is evaluated on the held-out development and test splits described in Section~\ref{sec:datasets}.
+
+Training is performed using PyTorch and the HuggingFace Transformers framework. All hyperparameters are fixed across languages unless stated otherwise. The complete training configuration is summarized in Figure~\ref{fig:byt5_hyperparameters}.
+
 \subsection{Bidirectional Model}
 
 Placeholder text.
 
+In addition to the task-specific ByT5 models, we train a single bidirectional model that jointly learns morphological inflection and morphological analysis within a unified sequence-to-sequence framework. For each language, the UniMorph training set is randomly partitioned into two equally sized subsets. One subset is used with the inflection mapping (lemma + morphological tags $\rightarrow$ inflected form), while the other subset is converted using the inverted mapping (inflected form $\rightarrow$ lemma + morphological descriptors). The resulting instances are combined to fine-tune a single shared model.
+
+In the context of the morphological inflection experiments, this bidirectional model is evaluated by applying the inflection mapping to the test instances.
+
 \subsection{Evaluation}
 
 Placeholder text.
+
+To evaluate the performance of the proposed models on the task of morphological inflection, we report several complementary metrics. The primary measure is exact-match accuracy, defined as the proportion of predicted inflected forms that exactly match the gold-standard forms:
+
+In addition, we compute the average Levenshtein distance to quantify character-level deviations and provide a more fine-grained assessment of partial errors.
 
 \section{Morphological Analysis}
 
@@ -32,9 +52,15 @@ Placeholder text.
 
 Placeholder text.
 
+For morphological analysis, we adopt the same ByT5 architecture and training procedure, but reformulate the task by reversing the input--output mapping. In this setting, the inflected form serves as the input sequence, while the target output consists of the corresponding lemma and its morphological descriptors.
+
+Apart from this change in data representation, the training setup and hyperparameters remain identical to those used for morphological inflection.
+
 \subsection{Bidirectional Model}
 
 Placeholder text.
+
+We evaluate the same bidirectional model described in Section~\ref{sec:bidirectional_model}. For morphological analysis, the model is applied using the reversed input--output mapping, where the inflected form is provided as input and the model predicts the lemma together with the corresponding morphological descriptors. Apart from the evaluation direction, the model, training data partitioning, and hyperparameter configuration are identical to the inflection setting.
 
 \subsection{Bidirectional Model with Context}
 
@@ -43,6 +69,10 @@ Placeholder text.
 \subsection{Large Language Models}
 
 Placeholder text.
+
+We evaluate large language models in an inference-only setting via the OpenAI API. Each instance is processed independently, i.e., every prediction is generated through a separate API request without retaining conversational history between examples. To reduce stochasticity and improve reproducibility, we fix the decoding configuration across all experiments by setting the temperature to $0.0$ and by using a constant random seed.
+
+We employ a one-shot prompting strategy. Each prompt consists of (i) a short instruction describing the task, (ii) a single labeled example drawn from the dataset, and (iii) the target instance for which a prediction is required. The same template and demonstration example are included in every request to ensure consistent behavior across instances. An example of the prompt template is shown in Figure~\ref{fig:llm_prompt}.
 
 \subsection{Evaluation}
 
