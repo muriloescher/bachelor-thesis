@@ -84,7 +84,7 @@ Since the two data sources use different annotation schemes and file formats, se
 
 For UniMorph, the data was randomly sampled from the original datasets with a fixed seed, giving a preference to verbs, and then split into training, development, and test sets. This preference reflects that verbs typically exhibit the richest inflectional paradigms and constitute the primary focus of the morphological inflection task. These partitions consist of 10{,}000 training instances, 1{,}000 development instances, and 1{,}000 test instances, as in the Shared Task setup.
 
-To prevent data leakage across splits, sampling and partitioning is performed at the lemma level, i.e., all inflected forms associated with a given lemma are always assigned to the same partition. Verbal instances are identified using the UniMorph tag string, where entries whose feature bundle begins with \texttt{V} (including prefixed variants such as participles) are treated as verbs. Lemmas are then randomly shuffled and assigned to train, development, and test splits such that the resulting number of instances approximately follows the desired 10/1/1 ratio while prioritizing verbs; if a split exceeds the target size, instances are subsampled within the split. Finally, all partitions are written in a unified tab-separated format (\textit{lemma}, \textit{tags}, \textit{form}) to ensure consistency with the downstream baselines and model implementations.
+To prevent data leakage across splits, sampling and partitioning is performed at the lemma level, i.e., all inflected forms associated with a given lemma are always assigned to the same partition \parencite{goldman-etal-2022-un}. Verbal instances are identified using the UniMorph tag string, where entries whose feature bundle begins with \texttt{V} (including prefixed variants such as participles) are treated as verbs. If a split exceeds the target size, instances are subsampled within the split. Finally, all partitions are written in a unified tab-separated format (\textit{lemma}, \textit{tags}, \textit{form}) to ensure consistency with the downstream baselines and model implementations.
 
 While Table~\ref{tab:languages-um} reports the average number of inflected forms per lemma across the complete UniMorph datasets, this value varies substantially across parts of speech. In particular, Georgian exhibits a much richer verbal paradigm than suggested by the overall average. When considering verbs only, the average number of forms per lemma increases from approximately 24 to 178 forms. Because the data preparation procedure prioritizes verbal instances, this discrepancy has a noticeable impact on the effective data distribution and on the resulting train–development–test splits for Georgian.
 
@@ -150,15 +150,15 @@ Language & Family & Type & Ling.\ score & UM size & Avg.\ forms \\
 \midrule
 Amharic & Semitic & Templatic & 2 & 46224 & 18.78 \\
 Amuzgo & Oto-Manguean & Polysynthetic & 0 & 12204 & 36.76 \\
-Ancient Greek & Hellenic & Fusional & 3 & 41593 & 18.10 \\
-Lower Sorbian & Slavic & Fusional & 1 & 20121 & 20.22 \\
-English & Germanic & Analytic & 5 & 115523 & 1.63 \\
-Italian & Romance & Fusional & 4 & 509574 & 50.91 \\
+Ancient Greek & IE/Hellenic & Fusional & 3 & 41593 & 18.10 \\
+Lower Sorbian & IE/Slavic & Fusional & 1 & 20121 & 20.22 \\
+English & IE/Germanic & Analytic & 5 & 115523 & 1.63 \\
+Italian & IE/Romance & Fusional & 4 & 509574 & 50.91 \\
 Georgian & Kartvelian & Agglutinative & 3 & 74412 & 23.90 \\
-Portuguese & Romance & Fusional & 4 & 303996 & 75.96 \\
+Portuguese & IE/Romance & Fusional & 4 & 303996 & 75.96 \\
 \bottomrule
 \end{tabular}
-\caption{Typological and UniMorph statistics for the selected languages.}
+\caption{Typological overview and UniMorph statistics for the selected languages. For readability, Indo-European language families are prefixed with \textit{IE} (Indo-European). \textit{Ling.\ score} (0--5; higher means better represented in NLP resources and literature) provides a coarse external indicator of language resource availability. \textit{UM size} denotes the number of UniMorph instances (lemma--tag bundle--inflected form triples) available for each language.}
 \label{tab:languages-um}
 \end{table}
 
