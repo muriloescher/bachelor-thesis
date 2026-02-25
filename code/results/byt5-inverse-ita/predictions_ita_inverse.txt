@@ -2,16 +2,16 @@ Generate the lemma and morphological tags for the following inflected verb: abba
 Generate the lemma and morphological tags for the following inflected verb: abballini	abballinare V;SBJV;PRS;2;SG	abballinare V;POS;IMP;3;SG
 Generate the lemma and morphological tags for the following inflected verb: abborrato	abborrare V.PTCP;PST	abborrare V.PTCP;PST
 Generate the lemma and morphological tags for the following inflected verb: abbuiereste	abbuiare V;COND;2;PL	abbuiare V;COND;2;PL
-Generate the lemma and morphological tags for the following inflected verb: accantona	accantonare V;IND;PRS;3;SG	accantonare V;IND;PRS;3;SG
+Generate the lemma and morphological tags for the following inflected verb: accantona	accantonare V;POS;IMP;2;SG	accantonare V;IND;PRS;3;SG
 Generate the lemma and morphological tags for the following inflected verb: accappieranno	accappiare V;IND;FUT;3;PL	accappiare V;IND;FUT;3;PL
 Generate the lemma and morphological tags for the following inflected verb: accapponassero	accapponare V;SBJV;PST;3;PL	accapponare V;SBJV;PST;3;PL
-Generate the lemma and morphological tags for the following inflected verb: accaprettassi	accaprettare V;SBJV;PST;1;SG	accaprettare V;SBJV;PST;1;SG
-Generate the lemma and morphological tags for the following inflected verb: accaprettavi	accaprettare V;IND;PST;2;SG;IPF	accaprettare V;IND;PST;2;SG;IPFV
+Generate the lemma and morphological tags for the following inflected verb: accaprettassi	accaprettare V;SBJV;PST;2;SG	accaprettare V;SBJV;PST;1;SG
+Generate the lemma and morphological tags for the following inflected verb: accaprettavi	accaprettare V;IND;PST;2;SG;IPFV	accaprettare V;IND;PST;2;SG;IPFV
 Generate the lemma and morphological tags for the following inflected verb: accatarrasse	accatarrare V;SBJV;PST;3;SG	accatarrare V;SBJV;PST;3;SG
 Generate the lemma and morphological tags for the following inflected verb: accattivaste	accattivare V;SBJV;PST;2;PL	accattivare V;IND;PST;2;PL;PFV
 Generate the lemma and morphological tags for the following inflected verb: accertatevi	accertarsi V;POS;IMP;2;PL	accertarsi V;POS;IMP;2;PL
 Generate the lemma and morphological tags for the following inflected verb: accestito	accestire V.PTCP;PST	accestire V.PTCP;PST
-Generate the lemma and morphological tags for the following inflected verb: accesta	accestare V;IND;PRS;3;SG	accestire V;SBJV;PRS;3;SG
+Generate the lemma and morphological tags for the following inflected verb: accesta	accestare V;POS;IMP;2;SG	accestire V;SBJV;PRS;3;SG
 Generate the lemma and morphological tags for the following inflected verb: ci accigliammo	accigliarsi V;IND;PST;1;PL;PFV	accigliarsi V;IND;PST;1;PL;PFV
 Generate the lemma and morphological tags for the following inflected verb: accorpi	accorpare V;SBJV;PRS;2;SG	accorpare V;SBJV;PRS;1;SG
 Generate the lemma and morphological tags for the following inflected verb: accorpate	accorpare V;POS;IMP;2;PL	accorpare V;IND;PRS;2;PL
@@ -22,21 +22,21 @@ Generate the lemma and morphological tags for the following inflected verb: vi a
 Generate the lemma and morphological tags for the following inflected verb: si acquattavano	acquattarsi V;IND;PST;3;PL;IPFV	acquattarsi V;IND;PST;3;PL;IPFV
 Generate the lemma and morphological tags for the following inflected verb: acquisisca	acquisire V;SBJV;PRS;3;SG	acquisire V;POS;IMP;3;SG
 Generate the lemma and morphological tags for the following inflected verb: vi acuivate	acuirsi V;IND;PST;2;PL;IPFV	acuirsi V;IND;PST;2;PL;IPFV
-Generate the lemma and morphological tags for the following inflected verb: adacqua	adacquare V;IND;PRS;3;SG	adacquare V;IND;PRS;3;SG
+Generate the lemma and morphological tags for the following inflected verb: adacqua	adacquare V;POS;IMP;2;SG	adacquare V;IND;PRS;3;SG
 Generate the lemma and morphological tags for the following inflected verb: adacqueremo	adacquare V;IND;FUT;1;PL	adacquare V;IND;FUT;1;PL
-Generate the lemma and morphological tags for the following inflected verb: addecimate	addecimare V;IND;PRS;2;PL	addecimare V;POS;IMP;2;PL
+Generate the lemma and morphological tags for the following inflected verb: addecimate	addecimare V;POS;IMP;2;PL	addecimare V;POS;IMP;2;PL
 Generate the lemma and morphological tags for the following inflected verb: addiaccereste	addiacciare V;COND;2;PL	addiacciare V;COND;2;PL
 Generate the lemma and morphological tags for the following inflected verb: addiacciato	addiacciare V.PTCP;PST	addiacciare V.PTCP;PST
 Generate the lemma and morphological tags for the following inflected verb: addobbassi	addobbare V;SBJV;PST;1;SG	addobbare V;SBJV;PST;2;SG
 Generate the lemma and morphological tags for the following inflected verb: addolcavate	addolcare V;IND;PST;2;PL;IPFV	addolcare V;IND;PST;2;PL;IPFV
 Generate the lemma and morphological tags for the following inflected verb: addolcare	addolcare V;NFIN	addolcare V;NFIN
-Generate the lemma and morphological tags for the following inflected verb: aderizza	aderizzare V;IND;PRS;3;SG	aderizzare V;IND;PRS;3;SG
+Generate the lemma and morphological tags for the following inflected verb: aderizza	aderizzare V;POS;IMP;2;SG	aderizzare V;IND;PRS;3;SG
 Generate the lemma and morphological tags for the following inflected verb: adisci	adisciare V;SBJV;PRS;2;SG	adire V;IND;PRS;2;SG
-Generate the lemma and morphological tags for the following inflected verb: adissi	adissare V;SBJV;PRS;2;SG	adire V;SBJV;PST;2;SG
-Generate the lemma and morphological tags for the following inflected verb: adirono	adire V;IND;PST;3;PL;PFV	adire V;IND;PST;3;PL;PFV
+Generate the lemma and morphological tags for the following inflected verb: adissi	adire V;SBJV;PRS;2;SG	adire V;SBJV;PST;2;SG
+Generate the lemma and morphological tags for the following inflected verb: adirono	adire V;IND;PRS;3;PL	adire V;IND;PST;3;PL;PFV
 Generate the lemma and morphological tags for the following inflected verb: si adopera	adoperarsi V;IND;PRS;3;SG	adoperarsi V;IND;PRS;3;SG
 Generate the lemma and morphological tags for the following inflected verb: vi adoperavate	adoperarsi V;IND;PST;2;PL;IPFV	adoperarsi V;IND;PST;2;PL;IPFV
-Generate the lemma and morphological tags for the following inflected verb: mi adoperai	adoparsi V;IND;FUT;2;SG	adoperarsi V;IND;PST;1;SG;PFV
+Generate the lemma and morphological tags for the following inflected verb: mi adoperai	adoparsi V;IND;FUT;1;SG	adoperarsi V;IND;PST;1;SG;PFV
 Generate the lemma and morphological tags for the following inflected verb: vi adoprate	adoprarsi V;IND;PRS;2;PL	adoprarsi V;IND;PRS;2;PL
 Generate the lemma and morphological tags for the following inflected verb: adulerebbe	adulare V;COND;3;SG	adulare V;COND;3;SG
 Generate the lemma and morphological tags for the following inflected verb: aduliamo	adulare V;SBJV;PRS;1;PL	adulare V;IND;PRS;1;PL
@@ -51,12 +51,12 @@ Generate the lemma and morphological tags for the following inflected verb: affr
 Generate the lemma and morphological tags for the following inflected verb: affrangesti	affrangere V;IND;PST;2;SG;PFV	affrangere V;IND;PST;2;SG;PFV
 Generate the lemma and morphological tags for the following inflected verb: ci affretteremmo	affrettarsi V;COND;1;PL	affrettarsi V;COND;1;PL
 Generate the lemma and morphological tags for the following inflected verb: aggetterete	aggettare V;IND;FUT;2;PL	aggettare V;IND;FUT;2;PL
-Generate the lemma and morphological tags for the following inflected verb: aggettassi	aggettare V;SBJV;PST;1;SG	aggettare V;SBJV;PST;1;SG
+Generate the lemma and morphological tags for the following inflected verb: aggettassi	aggettare V;SBJV;PST;2;SG	aggettare V;SBJV;PST;1;SG
 Generate the lemma and morphological tags for the following inflected verb: aggettando	aggettare V.CVB;PRS	aggettare V.CVB;PRS
 Generate the lemma and morphological tags for the following inflected verb: aggirò	aggire V;IND;FUT;1;SG	aggirare V;IND;PST;3;SG;PFV
 Generate the lemma and morphological tags for the following inflected verb: aggirate	aggirare V;IND;PRS;2;PL	aggirare V;POS;IMP;2;PL
 Generate the lemma and morphological tags for the following inflected verb: alenare	alenare V;NFIN	alenare V;NFIN
-Generate the lemma and morphological tags for the following inflected verb: alesate	alesare V;IND;PRS;2;PL	alesare V;IND;PRS;2;PL
+Generate the lemma and morphological tags for the following inflected verb: alesate	alesare V;POS;IMP;2;PL	alesare V;IND;PRS;2;PL
 Generate the lemma and morphological tags for the following inflected verb: allaccereste	allacciare V;COND;2;PL	allacciare V;COND;2;PL
 Generate the lemma and morphological tags for the following inflected verb: allacci	allacciare V;SBJV;PRS;2;SG	allacciare V;POS;IMP;3;SG
 Generate the lemma and morphological tags for the following inflected verb: si allarmerebbero	allarmarsi V;COND;3;PL	allarmarsi V;COND;3;PL
@@ -65,7 +65,7 @@ Generate the lemma and morphological tags for the following inflected verb: alle
 Generate the lemma and morphological tags for the following inflected verb: allerterò	allertare V;IND;FUT;1;SG	allertare V;IND;FUT;1;SG
 Generate the lemma and morphological tags for the following inflected verb: allieto	allietare V;IND;PRS;1;SG	allietare V;IND;PRS;1;SG
 Generate the lemma and morphological tags for the following inflected verb: alluzzerà	alluzzare V;IND;FUT;3;SG	alluzzare V;IND;FUT;3;SG
-Generate the lemma and morphological tags for the following inflected verb: ambiste	ambire V;IND;PST;2;PL;PFV	ambire V;IND;PST;2;PL;PFV
+Generate the lemma and morphological tags for the following inflected verb: ambiste	ambire V;SBJV;PST;2;PL	ambire V;IND;PST;2;PL;PFV
 Generate the lemma and morphological tags for the following inflected verb: mi ammantai	ammantarsi V;IND;PST;1;SG;PFV	ammantarsi V;IND;PST;1;SG;PFV
 Generate the lemma and morphological tags for the following inflected verb: mi ammassai	ammassarsi V;IND;PST;1;SG;PFV	ammassarsi V;IND;PST;1;SG;PFV
 Generate the lemma and morphological tags for the following inflected verb: ammazzereste	ammazzare V;COND;2;PL	ammazzare V;COND;2;PL
@@ -74,18 +74,18 @@ Generate the lemma and morphological tags for the following inflected verb: amme
 Generate the lemma and morphological tags for the following inflected verb: ammendavano	ammendare V;IND;PST;3;PL;IPFV	ammendare V;IND;PST;3;PL;IPFV
 Generate the lemma and morphological tags for the following inflected verb: ammendarono	ammendare V;IND;PST;3;PL;PFV	ammendare V;IND;PST;3;PL;PFV
 Generate the lemma and morphological tags for the following inflected verb: ammiserisci	ammiserire V;SBJV;PRS;2;SG	ammiserire V;POS;IMP;2;SG
-Generate the lemma and morphological tags for the following inflected verb: ammiseriscano	ammiserire V;IND;PRS;3;PL	ammiserire V;POS;IMP;3;PL
+Generate the lemma and morphological tags for the following inflected verb: ammiseriscano	ammiserire V;SBJV;PRS;3;PL	ammiserire V;POS;IMP;3;PL
 Generate the lemma and morphological tags for the following inflected verb: anatrava	anatrare V;IND;PST;3;SG;IPFV	anatrare V;IND;PST;3;SG;IPFV
 Generate the lemma and morphological tags for the following inflected verb: anellerete	anellare V;IND;FUT;2;PL	anellare V;IND;FUT;2;PL
 Generate the lemma and morphological tags for the following inflected verb: anellerebbe	anellare V;COND;3;SG	anellare V;COND;3;SG
 Generate the lemma and morphological tags for the following inflected verb: annotare	annotare V;NFIN	annotare V;NFIN
 Generate the lemma and morphological tags for the following inflected verb: aonterebbe	aontare V;COND;3;SG	aontare V;COND;3;SG
-Generate the lemma and morphological tags for the following inflected verb: aontassi	aontare V;SBJV;PST;1;SG	aontare V;SBJV;PST;2;SG
+Generate the lemma and morphological tags for the following inflected verb: aontassi	aontare V;SBJV;PST;2;SG	aontare V;SBJV;PST;2;SG
 Generate the lemma and morphological tags for the following inflected verb: aontereste	aontare V;COND;2;PL	aontare V;COND;2;PL
 Generate the lemma and morphological tags for the following inflected verb: aontando	aontare V.CVB;PRS	aontare V.CVB;PRS
 Generate the lemma and morphological tags for the following inflected verb: apostato	apostare V.PTCP;PST	apostatare V;IND;PRS;1;SG
 Generate the lemma and morphological tags for the following inflected verb: apostatò	apostatare V;IND;PST;3;SG;PFV	apostatare V;IND;PST;3;SG;PFV
-Generate the lemma and morphological tags for the following inflected verb: apostatassi	apostatare V;SBJV;PST;1;SG	apostatare V;SBJV;PST;2;SG
+Generate the lemma and morphological tags for the following inflected verb: apostatassi	apostatare V;SBJV;PST;2;SG	apostatare V;SBJV;PST;2;SG
 Generate the lemma and morphological tags for the following inflected verb: appaiavi	appaiare V;IND;PST;2;SG;IPFV	appaiare V;IND;PST;2;SG;IPFV
 Generate the lemma and morphological tags for the following inflected verb: appaiamo	appaiare V;IND;PRS;1;PL	appaiare V;IND;PRS;1;PL
 Generate the lemma and morphological tags for the following inflected verb: appaiamo	appaiare V;IND;PRS;1;PL	appaiare V;SBJV;PRS;1;PL
@@ -95,9 +95,9 @@ Generate the lemma and morphological tags for the following inflected verb: appr
 Generate the lemma and morphological tags for the following inflected verb: appropinquino	appropinquare V;SBJV;PRS;3;PL	appropinquare V;POS;IMP;3;PL
 Generate the lemma and morphological tags for the following inflected verb: appurato	appurare V.PTCP;PST	appurare V.PTCP;PST
 Generate the lemma and morphological tags for the following inflected verb: armonizzavano	armonizzare V;IND;PST;3;PL;IPFV	armonizzare V;IND;PST;3;PL;IPFV
-Generate the lemma and morphological tags for the following inflected verb: arrandellate	arrandellare V;IND;PRS;2;PL	arrandellare V;IND;PRS;2;PL
+Generate the lemma and morphological tags for the following inflected verb: arrandellate	arrandellare V;POS;IMP;2;PL	arrandellare V;IND;PRS;2;PL
 Generate the lemma and morphological tags for the following inflected verb: arrandellante	arrandellare V.PTCP;PRS	arrandellare V.PTCP;PRS
-Generate the lemma and morphological tags for the following inflected verb: arrapassi	arrapare V;SBJV;PST;1;SG	arrapare V;SBJV;PST;1;SG
+Generate the lemma and morphological tags for the following inflected verb: arrapassi	arrapare V;SBJV;PST;2;SG	arrapare V;SBJV;PST;1;SG
 Generate the lemma and morphological tags for the following inflected verb: ci arrendessimo	arrendersi V;SBJV;PST;1;PL	arrendersi V;SBJV;PST;1;PL
 Generate the lemma and morphological tags for the following inflected verb: arretrassimo	arretrare V;SBJV;PST;1;PL	arretrare V;SBJV;PST;1;PL
 Generate the lemma and morphological tags for the following inflected verb: arretrasse	arretrare V;SBJV;PST;3;SG	arretrare V;SBJV;PST;3;SG
@@ -113,7 +113,7 @@ Generate the lemma and morphological tags for the following inflected verb: assa
 Generate the lemma and morphological tags for the following inflected verb: assaettavamo	assaettare V;IND;PST;1;PL;IPFV	assaettare V;IND;PST;1;PL;IPFV
 Generate the lemma and morphological tags for the following inflected verb: assaporaste	assaporare V;SBJV;PST;2;PL	assaporare V;IND;PST;2;PL;PFV
 Generate the lemma and morphological tags for the following inflected verb: assaporereste	assaporare V;COND;2;PL	assaporare V;COND;2;PL
-Generate the lemma and morphological tags for the following inflected verb: asserventesi	asservirsi V.PTCP;PRS	asservirsi V.PTCP;PRS
+Generate the lemma and morphological tags for the following inflected verb: asserventesi	asserversi V.PTCP;PRS	asservirsi V.PTCP;PRS
 Generate the lemma and morphological tags for the following inflected verb: assillerebbe	assillare V;COND;3;SG	assillare V;COND;3;SG
 Generate the lemma and morphological tags for the following inflected verb: assillo	assillare V;IND;PRS;1;SG	assillare V;IND;PRS;1;SG
 Generate the lemma and morphological tags for the following inflected verb: assuefacciamo	assuefare V;IND;PRS;1;PL	assuefare V;POS;IMP;1;PL
@@ -130,15 +130,15 @@ Generate the lemma and morphological tags for the following inflected verb: auto
 Generate the lemma and morphological tags for the following inflected verb: autocertificassero	autocertificare V;SBJV;PST;3;PL	autocertificare V;SBJV;PST;3;PL
 Generate the lemma and morphological tags for the following inflected verb: si autocitò	autocitarsi V;IND;PST;3;SG;PFV	autocitarsi V;IND;PST;3;SG;PFV
 Generate the lemma and morphological tags for the following inflected verb: si autocitavano	autocitarsi V;IND;PST;3;PL;IPFV	autocitarsi V;IND;PST;3;PL;IPFV
-Generate the lemma and morphological tags for the following inflected verb: vi autocitaste	autocitarsi V;IND;PST;2;PL;PFV	autocitarsi V;IND;PST;2;PL;PFV
+Generate the lemma and morphological tags for the following inflected verb: vi autocitaste	autocitarsi V;SBJV;PST;2;PL	autocitarsi V;IND;PST;2;PL;PFV
 Generate the lemma and morphological tags for the following inflected verb: si autociti	autocitarsi V;SBJV;PRS;3;SG	autocitarsi V;POS;IMP;3;SG
 Generate the lemma and morphological tags for the following inflected verb: vi autocommiserate	autocommiserarsi V;IND;PRS;2;PL	autocommiserarsi V;IND;PRS;2;PL
 Generate the lemma and morphological tags for the following inflected verb: mi autocommisererei	autocommiserarsi V;COND;1;SG	autocommiserarsi V;COND;1;SG
-Generate the lemma and morphological tags for the following inflected verb: ti autocommiseravi	autocommiserarsi V;IND;PST;2;SG;I	autocommiserarsi V;IND;PST;2;SG;IPFV
-Generate the lemma and morphological tags for the following inflected verb: si autocommiserarono	autocommiserarsi V;IND;PST;3;PL;	autocommiserarsi V;IND;PST;3;PL;PFV
-Generate the lemma and morphological tags for the following inflected verb: autosostenga	autosostenere V;IND;PRS;3;SG	autosostenere V;SBJV;PRS;3;SG
+Generate the lemma and morphological tags for the following inflected verb: ti autocommiseravi	autocommiserarsi V;IND;PST;2;SG;IPFV	autocommiserarsi V;IND;PST;2;SG;IPFV
+Generate the lemma and morphological tags for the following inflected verb: si autocommiserarono	autocommiserarsi V;IND;PST;3;PL;PFV	autocommiserarsi V;IND;PST;3;PL;PFV
+Generate the lemma and morphological tags for the following inflected verb: autosostenga	autosostenere V;SBJV;PRS;3;SG	autosostenere V;SBJV;PRS;3;SG
 Generate the lemma and morphological tags for the following inflected verb: autososterreste	autosostenere V;COND;2;PL	autosostenere V;COND;2;PL
-Generate the lemma and morphological tags for the following inflected verb: autosostenessi	autosostenere V;SBJV;PST;1;SG	autosostenere V;SBJV;PST;2;SG
+Generate the lemma and morphological tags for the following inflected verb: autosostenessi	autosostenere V;SBJV;PST;2;SG	autosostenere V;SBJV;PST;2;SG
 Generate the lemma and morphological tags for the following inflected verb: si avvalli	avvallarsi V;SBJV;PRS;3;SG	avvallarsi V;SBJV;PRS;3;SG
 Generate the lemma and morphological tags for the following inflected verb: avverandosi	avverarsi V.CVB;PRS	avverarsi V.CVB;PRS
 Generate the lemma and morphological tags for the following inflected verb: avvitassero	avvitare V;SBJV;PST;3;PL	avvitare V;SBJV;PST;3;PL
@@ -146,9 +146,9 @@ Generate the lemma and morphological tags for the following inflected verb: avvi
 Generate the lemma and morphological tags for the following inflected verb: avvizzivate	avvizzire V;IND;PST;2;PL;IPFV	avvizzire V;IND;PST;2;PL;IPFV
 Generate the lemma and morphological tags for the following inflected verb: vi azzimaste	azzimarsi V;IND;PST;2;PL;PFV	azzimarsi V;IND;PST;2;PL;PFV
 Generate the lemma and morphological tags for the following inflected verb: mi azzoppivo	azzoppirsi V;IND;PST;1;SG;IPFV	azzoppirsi V;IND;PST;1;SG;IPFV
-Generate the lemma and morphological tags for the following inflected verb: bacchi	baccare V;SBJV;PRS;2;SG	bacchiare V;IND;PRS;2;SG
+Generate the lemma and morphological tags for the following inflected verb: bacchi	bacchiare V;SBJV;PRS;2;SG	bacchiare V;IND;PRS;2;SG
 Generate the lemma and morphological tags for the following inflected verb: bacchierà	bacchiare V;IND;FUT;3;SG	bacchiare V;IND;FUT;3;SG
-Generate the lemma and morphological tags for the following inflected verb: vi battibeccavate	battibeccarsi V;IND;PST;2;PL;IP	battibeccarsi V;IND;PST;2;PL;IPFV
+Generate the lemma and morphological tags for the following inflected verb: vi battibeccavate	battibeccarsi V;IND;PST;2;PL;IPFV	battibeccarsi V;IND;PST;2;PL;IPFV
 Generate the lemma and morphological tags for the following inflected verb: battibeccantesi	battibeccarsi V.PTCP;PRS	battibeccarsi V.PTCP;PRS
 Generate the lemma and morphological tags for the following inflected verb: mi battibecchi	battibeccarsi V;SBJV;PRS;1;SG	battibeccarsi V;SBJV;PRS;1;SG
 Generate the lemma and morphological tags for the following inflected verb: benefichiamo	beneficare V;SBJV;PRS;1;PL	beneficare V;SBJV;PRS;1;PL
@@ -171,7 +171,7 @@ Generate the lemma and morphological tags for the following inflected verb: brac
 Generate the lemma and morphological tags for the following inflected verb: bravi	bravare V;SBJV;PRS;2;SG	bravare V;POS;IMP;3;SG
 Generate the lemma and morphological tags for the following inflected verb: brucante	brucare V.PTCP;PRS	brucare V.PTCP;PRS
 Generate the lemma and morphological tags for the following inflected verb: brucavano	brucare V;IND;PST;3;PL;IPFV	brucare V;IND;PST;3;PL;IPFV
-Generate the lemma and morphological tags for the following inflected verb: vi bruciaste	bruciarsi V;IND;PST;2;PL;PFV	bruciarsi V;IND;PST;2;PL;PFV
+Generate the lemma and morphological tags for the following inflected verb: vi bruciaste	bruciarsi V;SBJV;PST;2;PL	bruciarsi V;IND;PST;2;PL;PFV
 Generate the lemma and morphological tags for the following inflected verb: ti bruciavi	bruciarsi V;IND;PST;2;SG;IPFV	bruciarsi V;IND;PST;2;SG;IPFV
 Generate the lemma and morphological tags for the following inflected verb: si cacassero	cacarsi V;SBJV;PST;3;PL	cacarsi V;SBJV;PST;3;PL
 Generate the lemma and morphological tags for the following inflected verb: calmarono	calmare V;IND;PST;3;PL;PFV	calmare V;IND;PST;3;PL;PFV
@@ -196,36 +196,36 @@ Generate the lemma and morphological tags for the following inflected verb: circ
 Generate the lemma and morphological tags for the following inflected verb: circuisco	circuire V;IND;PRS;1;SG	circuire V;IND;PRS;1;SG
 Generate the lemma and morphological tags for the following inflected verb: clamando	clamare V.CVB;PRS	clamare V.CVB;PRS
 Generate the lemma and morphological tags for the following inflected verb: classerà	classare V;IND;FUT;3;SG	classare V;IND;FUT;3;SG
-Generate the lemma and morphological tags for the following inflected verb: cofinanzi	cofinanzare V;SBJV;PRS;2;SG	cofinanziare V;SBJV;PRS;1;SG
+Generate the lemma and morphological tags for the following inflected verb: cofinanzi	cofinanziare V;SBJV;PRS;2;SG	cofinanziare V;SBJV;PRS;1;SG
 Generate the lemma and morphological tags for the following inflected verb: cogestissimo	cogestire V;SBJV;PST;1;PL	cogestire V;SBJV;PST;1;PL
-Generate the lemma and morphological tags for the following inflected verb: collettivizza	collettivizzare V;IND;PRS;3;SG	collettivizzare V;POS;IMP;2;SG
-Generate the lemma and morphological tags for the following inflected verb: compassionavate	compassionare V;IND;PST;2;PL;IPF	compassionare V;IND;PST;2;PL;IPFV
+Generate the lemma and morphological tags for the following inflected verb: collettivizza	collettivizzare V;POS;IMP;2;SG	collettivizzare V;POS;IMP;2;SG
+Generate the lemma and morphological tags for the following inflected verb: compassionavate	compassionare V;IND;PST;2;PL;IPFV	compassionare V;IND;PST;2;PL;IPFV
 Generate the lemma and morphological tags for the following inflected verb: compungerai	compungere V;IND;FUT;2;SG	compungere V;IND;FUT;2;SG
 Generate the lemma and morphological tags for the following inflected verb: compungerei	compungere V;COND;1;SG	compungere V;COND;1;SG
-Generate the lemma and morphological tags for the following inflected verb: compunsero	compunere V;IND;PST;3;PL;PFV	compungere V;IND;PST;3;PL;PFV
+Generate the lemma and morphological tags for the following inflected verb: compunsero	compungere V;IND;PST;3;PL;PFV	compungere V;IND;PST;3;PL;PFV
 Generate the lemma and morphological tags for the following inflected verb: computò	computare V;IND;PST;3;SG;PFV	computare V;IND;PST;3;SG;PFV
 Generate the lemma and morphological tags for the following inflected verb: confezionassero	confezionare V;SBJV;PST;3;PL	confezionare V;SBJV;PST;3;PL
 Generate the lemma and morphological tags for the following inflected verb: congiurereste	congiurare V;COND;2;PL	congiurare V;COND;2;PL
 Generate the lemma and morphological tags for the following inflected verb: congiurino	congiurare V;SBJV;PRS;3;PL	congiurare V;POS;IMP;3;PL
 Generate the lemma and morphological tags for the following inflected verb: conquistavi	conquistare V;IND;PST;2;SG;IPFV	conquistare V;IND;PST;2;SG;IPFV
-Generate the lemma and morphological tags for the following inflected verb: consapevolizzarono	consapevolizzare V;IND;PST;3;PL;P	consapevolizzare V;IND;PST;3;PL;PFV
-Generate the lemma and morphological tags for the following inflected verb: contabilizza	contabilizzare V;IND;PRS;3;SG	contabilizzare V;POS;IMP;2;SG
+Generate the lemma and morphological tags for the following inflected verb: consapevolizzarono	consapevolizzare V;IND;PST;3;PL;PFV	consapevolizzare V;IND;PST;3;PL;PFV
+Generate the lemma and morphological tags for the following inflected verb: contabilizza	contabilizzare V;POS;IMP;2;SG	contabilizzare V;POS;IMP;2;SG
 Generate the lemma and morphological tags for the following inflected verb: contingentate	contingentare V;POS;IMP;2;PL	contingentare V;IND;PRS;2;PL
 Generate the lemma and morphological tags for the following inflected verb: contingentano	contingentare V;IND;PRS;3;PL	contingentare V;IND;PRS;3;PL
 Generate the lemma and morphological tags for the following inflected verb: contrapponemmo	contrapporre V;IND;PST;1;PL;PFV	contrapporre V;IND;PST;1;PL;PFV
-Generate the lemma and morphological tags for the following inflected verb: contrapponessi	contrapporre V;SBJV;PST;1;SG	contrapporre V;SBJV;PST;2;SG
+Generate the lemma and morphological tags for the following inflected verb: contrapponessi	contrapporre V;SBJV;PST;2;SG	contrapporre V;SBJV;PST;2;SG
 Generate the lemma and morphological tags for the following inflected verb: contrapponi	contrapporre V;SBJV;PRS;2;SG	contrapporre V;IND;PRS;2;SG
 Generate the lemma and morphological tags for the following inflected verb: contraggano	contrarre V;IND;PRS;3;PL	contrarre V;POS;IMP;3;PL
 Generate the lemma and morphological tags for the following inflected verb: contrattiate	contrattare V;SBJV;PRS;2;PL	contrattare V;SBJV;PRS;2;PL
-Generate the lemma and morphological tags for the following inflected verb: contrattassi	contrattare V;SBJV;PST;1;SG	contrattare V;SBJV;PST;2;SG
-Generate the lemma and morphological tags for the following inflected verb: controfirmavamo	controfirmare V;IND;PST;1;PL;IPF	controfirmare V;IND;PST;1;PL;IPFV
+Generate the lemma and morphological tags for the following inflected verb: contrattassi	contrattare V;SBJV;PST;2;SG	contrattare V;SBJV;PST;2;SG
+Generate the lemma and morphological tags for the following inflected verb: controfirmavamo	controfirmare V;IND;PST;1;PL;IPFV	controfirmare V;IND;PST;1;PL;IPFV
 Generate the lemma and morphological tags for the following inflected verb: controlleremmo	controllare V;COND;1;PL	controllare V;COND;1;PL
-Generate the lemma and morphological tags for the following inflected verb: controllate	controllare V;IND;PRS;2;PL	controllare V;IND;PRS;2;PL
+Generate the lemma and morphological tags for the following inflected verb: controllate	controllare V;POS;IMP;2;PL	controllare V;IND;PRS;2;PL
 Generate the lemma and morphological tags for the following inflected verb: contronoteremmo	contronotare V;COND;1;PL	contronotare V;COND;1;PL
 Generate the lemma and morphological tags for the following inflected verb: contronoti	contronotare V;SBJV;PRS;2;SG	contronotare V;POS;IMP;3;SG
 Generate the lemma and morphological tags for the following inflected verb: contronoterei	contronotare V;COND;1;SG	contronotare V;COND;1;SG
 Generate the lemma and morphological tags for the following inflected verb: conversavamo	conversare V;IND;PST;1;PL;IPFV	conversare V;IND;PST;1;PL;IPFV
-Generate the lemma and morphological tags for the following inflected verb: corresponsabilizzino	corresponsabilizzare V;SBJV;PRS;3;P	corresponsabilizzare V;POS;IMP;3;PL
+Generate the lemma and morphological tags for the following inflected verb: corresponsabilizzino	corresponsabilizzare V;SBJV;PRS;3;PL	corresponsabilizzare V;POS;IMP;3;PL
 Generate the lemma and morphological tags for the following inflected verb: costatavo	costatare V;IND;PST;1;SG;IPFV	costatare V;IND;PST;1;SG;IPFV
 Generate the lemma and morphological tags for the following inflected verb: costituite	costituire V;POS;IMP;2;PL	costituire V;IND;PRS;2;PL
 Generate the lemma and morphological tags for the following inflected verb: costituente	costituire V.PTCP;PRS	costituire V.PTCP;PRS
@@ -238,7 +238,7 @@ Generate the lemma and morphological tags for the following inflected verb: cred
 Generate the lemma and morphological tags for the following inflected verb: credevo	credere V;IND;PST;1;SG;IPFV	credere V;IND;PST;1;SG;IPFV
 Generate the lemma and morphological tags for the following inflected verb: crediamo	credere V;SBJV;PRS;1;PL	credere V;POS;IMP;1;PL
 Generate the lemma and morphological tags for the following inflected verb: creda	credere V;IND;PRS;3;SG	credere V;SBJV;PRS;3;SG
-Generate the lemma and morphological tags for the following inflected verb: crivellassi	crivellare V;SBJV;PST;1;SG	crivellare V;SBJV;PST;1;SG
+Generate the lemma and morphological tags for the following inflected verb: crivellassi	crivellare V;SBJV;PST;2;SG	crivellare V;SBJV;PST;1;SG
 Generate the lemma and morphological tags for the following inflected verb: crivellaste	crivellare V;SBJV;PST;2;PL	crivellare V;IND;PST;2;PL;PFV
 Generate the lemma and morphological tags for the following inflected verb: crivelleremmo	crivellare V;COND;1;PL	crivellare V;COND;1;PL
 Generate the lemma and morphological tags for the following inflected verb: ci crolliamo	crollarsi V;SBJV;PRS;1;PL	crollarsi V;IND;PRS;1;PL
@@ -255,16 +255,16 @@ Generate the lemma and morphological tags for the following inflected verb: demi
 Generate the lemma and morphological tags for the following inflected verb: demistifichino	demistificare V;SBJV;PRS;3;PL	demistificare V;SBJV;PRS;3;PL
 Generate the lemma and morphological tags for the following inflected verb: demonetassimo	demonetare V;SBJV;PST;1;PL	demonetare V;SBJV;PST;1;PL
 Generate the lemma and morphological tags for the following inflected verb: demonetavate	demonetare V;IND;PST;2;PL;IPFV	demonetare V;IND;PST;2;PL;IPFV
-Generate the lemma and morphological tags for the following inflected verb: demonetassi	demonetare V;SBJV;PST;1;SG	demonetare V;SBJV;PST;1;SG
+Generate the lemma and morphological tags for the following inflected verb: demonetassi	demonetare V;SBJV;PST;2;SG	demonetare V;SBJV;PST;1;SG
 Generate the lemma and morphological tags for the following inflected verb: denudavo	denudare V;IND;PST;1;SG;IPFV	denudare V;IND;PST;1;SG;IPFV
 Generate the lemma and morphological tags for the following inflected verb: denudasti	denudare V;IND;PST;2;SG;PFV	denudare V;IND;PST;2;SG;PFV
 Generate the lemma and morphological tags for the following inflected verb: denudassero	denudare V;SBJV;PST;3;PL	denudare V;SBJV;PST;3;PL
-Generate the lemma and morphological tags for the following inflected verb: deossigenavano	deossigenare V;IND;PST;3;PL;IPF	deossigenare V;IND;PST;3;PL;IPFV
+Generate the lemma and morphological tags for the following inflected verb: deossigenavano	deossigenare V;IND;PST;3;PL;IPFV	deossigenare V;IND;PST;3;PL;IPFV
 Generate the lemma and morphological tags for the following inflected verb: deossigeni	deossigenare V;SBJV;PRS;2;SG	deossigenare V;POS;IMP;3;SG
 Generate the lemma and morphological tags for the following inflected verb: deportino	deportare V;SBJV;PRS;3;PL	deportare V;SBJV;PRS;3;PL
 Generate the lemma and morphological tags for the following inflected verb: deporteremmo	deportare V;COND;1;PL	deportare V;COND;1;PL
 Generate the lemma and morphological tags for the following inflected verb: deprederei	depredere V;COND;1;SG	depredare V;COND;1;SG
-Generate the lemma and morphological tags for the following inflected verb: depredassi	depredare V;SBJV;PST;1;SG	depredare V;SBJV;PST;2;SG
+Generate the lemma and morphological tags for the following inflected verb: depredassi	depredare V;SBJV;PST;2;SG	depredare V;SBJV;PST;2;SG
 Generate the lemma and morphological tags for the following inflected verb: depredo	depredere V;IND;PRS;1;SG	depredare V;IND;PRS;1;SG
 Generate the lemma and morphological tags for the following inflected verb: depredano	depredere V;IND;PRS;3;PL	depredare V;IND;PRS;3;PL
 Generate the lemma and morphological tags for the following inflected verb: desensibilizzerò	desensibilizzare V;IND;FUT;1;SG	desensibilizzare V;IND;FUT;1;SG
@@ -275,7 +275,7 @@ Generate the lemma and morphological tags for the following inflected verb: dese
 Generate the lemma and morphological tags for the following inflected verb: desolerete	desolare V;IND;FUT;2;PL	desolare V;IND;FUT;2;PL
 Generate the lemma and morphological tags for the following inflected verb: desoli	desolare V;SBJV;PRS;2;SG	desolare V;SBJV;PRS;1;SG
 Generate the lemma and morphological tags for the following inflected verb: desolai	desolare V;IND;PST;1;SG;PFV	desolare V;IND;PST;1;SG;PFV
-Generate the lemma and morphological tags for the following inflected verb: diagnosticavamo	diagnosticare V;IND;PST;1;PL;IPF	diagnosticare V;IND;PST;1;PL;IPFV
+Generate the lemma and morphological tags for the following inflected verb: diagnosticavamo	diagnosticare V;IND;PST;1;PL;IPFV	diagnosticare V;IND;PST;1;PL;IPFV
 Generate the lemma and morphological tags for the following inflected verb: vi dilaniereste	dilaniarsi V;COND;2;PL	dilaniarsi V;COND;2;PL
 Generate the lemma and morphological tags for the following inflected verb: dilischiamo	diliscare V;SBJV;PRS;1;PL	diliscare V;IND;PRS;1;PL
 Generate the lemma and morphological tags for the following inflected verb: dilunghiamoci	dilungarsi V;POS;IMP;1;PL	dilungarsi V;POS;IMP;1;PL
@@ -284,20 +284,20 @@ Generate the lemma and morphological tags for the following inflected verb: dime
 Generate the lemma and morphological tags for the following inflected verb: diminuiremmo	diminuire V;COND;1;PL	diminuire V;COND;1;PL
 Generate the lemma and morphological tags for the following inflected verb: diramò	diramare V;IND;PST;3;SG;PFV	diramare V;IND;PST;3;SG;PFV
 Generate the lemma and morphological tags for the following inflected verb: diramerai	diramare V;IND;FUT;2;SG	diramare V;IND;FUT;2;SG
-Generate the lemma and morphological tags for the following inflected verb: dirami	diramare V;SBJV;PRS;1;SG	diramare V;SBJV;PRS;1;SG
+Generate the lemma and morphological tags for the following inflected verb: dirami	diramare V;SBJV;PRS;2;SG	diramare V;SBJV;PRS;1;SG
 Generate the lemma and morphological tags for the following inflected verb: dirupate	dirupare V;POS;IMP;2;PL	dirupare V;IND;PRS;2;PL
 Generate the lemma and morphological tags for the following inflected verb: disaccoppiaste	disaccoppiare V;SBJV;PST;2;PL	disaccoppiare V;IND;PST;2;PL;PFV
-Generate the lemma and morphological tags for the following inflected verb: disaccoppiassi	disaccoppiare V;SBJV;PST;1;SG	disaccoppiare V;SBJV;PST;1;SG
+Generate the lemma and morphological tags for the following inflected verb: disaccoppiassi	disaccoppiare V;SBJV;PST;2;SG	disaccoppiare V;SBJV;PST;1;SG
 Generate the lemma and morphological tags for the following inflected verb: vi disamoravate	disamorarsi V;IND;PST;2;PL;IPFV	disamorarsi V;IND;PST;2;PL;IPFV
 Generate the lemma and morphological tags for the following inflected verb: si disamorava	disamorarsi V;IND;PST;3;SG;IPFV	disamorarsi V;IND;PST;3;SG;IPFV
 Generate the lemma and morphological tags for the following inflected verb: disancorava	disancorare V;IND;PST;3;SG;IPFV	disancorare V;IND;PST;3;SG;IPFV
-Generate the lemma and morphological tags for the following inflected verb: discerni	discernare V;SBJV;PRS;2;SG	discernere V;POS;IMP;2;SG
+Generate the lemma and morphological tags for the following inflected verb: discerni	discernere V;SBJV;PRS;2;SG	discernere V;POS;IMP;2;SG
 Generate the lemma and morphological tags for the following inflected verb: disconfiggiamo	disconfiggere V;SBJV;PRS;1;PL	disconfiggere V;POS;IMP;1;PL
 Generate the lemma and morphological tags for the following inflected verb: disgelino	disgelare V;SBJV;PRS;3;PL	disgelare V;SBJV;PRS;3;PL
 Generate the lemma and morphological tags for the following inflected verb: disinfetti	disinfettare V;SBJV;PRS;2;SG	disinfettare V;SBJV;PRS;1;SG
 Generate the lemma and morphological tags for the following inflected verb: disinfettavamo	disinfettare V;IND;PST;1;PL;IPFV	disinfettare V;IND;PST;1;PL;IPFV
 Generate the lemma and morphological tags for the following inflected verb: disinflazionate	disinflazionare V;POS;IMP;2;PL	disinflazionare V;POS;IMP;2;PL
-Generate the lemma and morphological tags for the following inflected verb: si disinnamorava	disinnamorarsi V;IND;PST;3;SG;IP	disinnamorarsi V;IND;PST;3;SG;IPFV
+Generate the lemma and morphological tags for the following inflected verb: si disinnamorava	disinnamorarsi V;IND;PST;3;SG;IPFV	disinnamorarsi V;IND;PST;3;SG;IPFV
 Generate the lemma and morphological tags for the following inflected verb: disquisiremmo	disquisire V;COND;1;PL	disquisire V;COND;1;PL
 Generate the lemma and morphological tags for the following inflected verb: disquisivano	disquisire V;IND;PST;3;PL;IPFV	disquisire V;IND;PST;3;PL;IPFV
 Generate the lemma and morphological tags for the following inflected verb: disromperete	disrompere V;IND;FUT;2;PL	disrompere V;IND;FUT;2;PL
@@ -311,7 +311,7 @@ Generate the lemma and morphological tags for the following inflected verb: dupl
 Generate the lemma and morphological tags for the following inflected verb: ebevo	ebere V;IND;PST;1;SG;IPFV	ebere V;IND;PRS;1;SG
 Generate the lemma and morphological tags for the following inflected verb: edificheranno	edificare V;IND;FUT;3;PL	edificare V;IND;FUT;3;PL
 Generate the lemma and morphological tags for the following inflected verb: effingevate	effingere V;IND;PST;2;PL;IPFV	effingere V;IND;PST;2;PL;IPFV
-Generate the lemma and morphological tags for the following inflected verb: egemonizza	egemonizzare V;IND;PRS;3;SG	egemonizzare V;IND;PRS;3;SG
+Generate the lemma and morphological tags for the following inflected verb: egemonizza	egemonizzare V;POS;IMP;2;SG	egemonizzare V;IND;PRS;3;SG
 Generate the lemma and morphological tags for the following inflected verb: elitrasportando	elitrasportare V.CVB;PRS	elitrasportare V.CVB;PRS
 Generate the lemma and morphological tags for the following inflected verb: eluisca	eluire V;SBJV;PRS;3;SG	eluire V;POS;IMP;3;SG
 Generate the lemma and morphological tags for the following inflected verb: emozionammo	emozionare V;IND;PST;1;PL;PFV	emozionare V;IND;PST;1;PL;PFV
@@ -320,11 +320,11 @@ Generate the lemma and morphological tags for the following inflected verb: mi e
 Generate the lemma and morphological tags for the following inflected verb: ci esauriremo	esaurirsi V;IND;FUT;1;PL	esaurirsi V;IND;FUT;1;PL
 Generate the lemma and morphological tags for the following inflected verb: vi esaurirete	esaurirsi V;IND;FUT;2;PL	esaurirsi V;IND;FUT;2;PL
 Generate the lemma and morphological tags for the following inflected verb: esentando	esentare V.CVB;PRS	esentare V.CVB;PRS
-Generate the lemma and morphological tags for the following inflected verb: estromettessi	estromettere V;SBJV;PST;1;SG	estromettere V;SBJV;PST;2;SG
+Generate the lemma and morphological tags for the following inflected verb: estromettessi	estromettere V;SBJV;PST;2;SG	estromettere V;SBJV;PST;2;SG
 Generate the lemma and morphological tags for the following inflected verb: estrometterebbero	estromettere V;COND;3;PL	estromettere V;COND;3;PL
 Generate the lemma and morphological tags for the following inflected verb: evangelizzerei	evangelizzare V;COND;1;SG	evangelizzare V;COND;1;SG
-Generate the lemma and morphological tags for the following inflected verb: ce la fai	la farsela V;IND;PRS;3;SG	farcela V;IND;PRS;2;SG
-Generate the lemma and morphological tags for the following inflected verb: ce la facciano	farsela V;IND;PRS;3;PL	farcela V;POS;IMP;3;PL
+Generate the lemma and morphological tags for the following inflected verb: ce la fai	farsela V;IND;PST;1;SG;PFV	farcela V;IND;PRS;2;SG
+Generate the lemma and morphological tags for the following inflected verb: ce la facciano	farsela V;SBJV;PRS;3;PL	farcela V;POS;IMP;3;PL
 Generate the lemma and morphological tags for the following inflected verb: fatturare	fatturare V;NFIN	fatturare V;NFIN
 Generate the lemma and morphological tags for the following inflected verb: fiammeggiamo	fiammeggiare V;SBJV;PRS;1;PL	fiammeggiare V;POS;IMP;1;PL
 Generate the lemma and morphological tags for the following inflected verb: fiammeggi	fiammeggiare V;SBJV;PRS;2;SG	fiammeggiare V;SBJV;PRS;1;SG
@@ -343,19 +343,19 @@ Generate the lemma and morphological tags for the following inflected verb: fras
 Generate the lemma and morphological tags for the following inflected verb: frusceranno	frusciare V;IND;FUT;3;PL	frusciare V;IND;FUT;3;PL
 Generate the lemma and morphological tags for the following inflected verb: gelatinizzare	gelatinizzare V;NFIN	gelatinizzare V;NFIN
 Generate the lemma and morphological tags for the following inflected verb: gelatinizzi	gelatinizzare V;SBJV;PRS;2;SG	gelatinizzare V;SBJV;PRS;3;SG
-Generate the lemma and morphological tags for the following inflected verb: gelatinizza	gelatinizzare V;IND;PRS;3;SG	gelatinizzare V;POS;IMP;2;SG
+Generate the lemma and morphological tags for the following inflected verb: gelatinizza	gelatinizzare V;POS;IMP;2;SG	gelatinizzare V;POS;IMP;2;SG
 Generate the lemma and morphological tags for the following inflected verb: si gestisca	gestirsi V;SBJV;PRS;3;SG	gestirsi V;SBJV;PRS;3;SG
 Generate the lemma and morphological tags for the following inflected verb: gettavi	gettare V;IND;PST;2;SG;IPFV	gettare V;IND;PST;2;SG;IPFV
 Generate the lemma and morphological tags for the following inflected verb: ghindate	ghindare V;POS;IMP;2;PL	ghindare V;POS;IMP;2;PL
 Generate the lemma and morphological tags for the following inflected verb: giganteggiaste	giganteggiare V;SBJV;PST;2;PL	giganteggiare V;SBJV;PST;2;PL
 Generate the lemma and morphological tags for the following inflected verb: si giocano	giocarsi V;IND;PRS;3;PL	giocarsi V;IND;PRS;3;PL
-Generate the lemma and morphological tags for the following inflected verb: ci giostriamo	giostrarsi V;IND;PRS;1;PL	giostrarsi V;SBJV;PRS;1;PL
+Generate the lemma and morphological tags for the following inflected verb: ci giostriamo	giostrarsi V;SBJV;PRS;1;PL	giostrarsi V;SBJV;PRS;1;PL
 Generate the lemma and morphological tags for the following inflected verb: si giurava	giurarsi V;IND;PST;3;SG;IPFV	giurarsi V;IND;PST;3;SG;IPFV
 Generate the lemma and morphological tags for the following inflected verb: gotterai	gottare V;IND;FUT;2;SG	gottare V;IND;FUT;2;SG
 Generate the lemma and morphological tags for the following inflected verb: gradirai	gradire V;IND;FUT;2;SG	gradire V;IND;FUT;2;SG
 Generate the lemma and morphological tags for the following inflected verb: gradiremo	gradire V;IND;FUT;1;PL	gradire V;IND;FUT;1;PL
 Generate the lemma and morphological tags for the following inflected verb: gradisca	gradire V;SBJV;PRS;3;SG	gradire V;SBJV;PRS;2;SG
-Generate the lemma and morphological tags for the following inflected verb: gramolate	gramolare V;IND;PRS;2;PL	gramolare V;IND;PRS;2;PL
+Generate the lemma and morphological tags for the following inflected verb: gramolate	gramolare V;POS;IMP;2;PL	gramolare V;IND;PRS;2;PL
 Generate the lemma and morphological tags for the following inflected verb: gramolerò	gramolare V;IND;FUT;1;SG	gramolare V;IND;FUT;1;SG
 Generate the lemma and morphological tags for the following inflected verb: granellavamo	granellare V;IND;PST;1;PL;IPFV	granellare V;IND;PST;1;PL;IPFV
 Generate the lemma and morphological tags for the following inflected verb: grufolaste	grufolare V;SBJV;PST;2;PL	grufolare V;SBJV;PST;2;PL
@@ -365,43 +365,43 @@ Generate the lemma and morphological tags for the following inflected verb: si g
 Generate the lemma and morphological tags for the following inflected verb: si guidi	guidarsi V;SBJV;PRS;3;SG	guidarsi V;SBJV;PRS;3;SG
 Generate the lemma and morphological tags for the following inflected verb: illustreresti	illustrare V;COND;2;SG	illustrare V;COND;2;SG
 Generate the lemma and morphological tags for the following inflected verb: imbarbarivi	imbarbarire V;IND;PST;2;SG;IPFV	imbarbarire V;IND;PST;2;SG;IPFV
-Generate the lemma and morphological tags for the following inflected verb: imbecchiamo	imbeccare V;SBJV;PRS;1;PL	imbeccare V;POS;IMP;1;PL
+Generate the lemma and morphological tags for the following inflected verb: imbecchiamo	imbecchiare V;SBJV;PRS;1;PL	imbeccare V;POS;IMP;1;PL
 Generate the lemma and morphological tags for the following inflected verb: ti imboscasti	imboscarsi V;IND;PST;2;SG;PFV	imboscarsi V;IND;PST;2;SG;PFV
 Generate the lemma and morphological tags for the following inflected verb: mi imboscherò	imboscarsi V;IND;FUT;1;SG	imboscarsi V;IND;FUT;1;SG
 Generate the lemma and morphological tags for the following inflected verb: imbrocchino	imbroccare V;SBJV;PRS;3;PL	imbroccare V;SBJV;PRS;3;PL
-Generate the lemma and morphological tags for the following inflected verb: imbrocca	imbroccare V;SBJV;PRS;3;SG	imbroccare V;POS;IMP;2;SG
+Generate the lemma and morphological tags for the following inflected verb: imbrocca	imbroccare V;POS;IMP;2;SG	imbroccare V;POS;IMP;2;SG
 Generate the lemma and morphological tags for the following inflected verb: imbroccavamo	imbroccare V;IND;PST;1;PL;IPFV	imbroccare V;IND;PST;1;PL;IPFV
 Generate the lemma and morphological tags for the following inflected verb: imbrodiate	imbrodare V;SBJV;PRS;2;PL	imbrodare V;SBJV;PRS;2;PL
 Generate the lemma and morphological tags for the following inflected verb: imbroderemmo	imbrodare V;COND;1;PL	imbrodare V;COND;1;PL
 Generate the lemma and morphological tags for the following inflected verb: imbufalito	imbufalire V.PTCP;PST	imbufalire V.PTCP;PST
 Generate the lemma and morphological tags for the following inflected verb: imbufaliste	imbufalire V;SBJV;PST;2;PL	imbufalire V;IND;PST;2;PL;PFV
-Generate the lemma and morphological tags for the following inflected verb: si immagina	immaginarsi V;IND;PRS;3;SG	immaginarsi V;IND;PRS;3;SG
+Generate the lemma and morphological tags for the following inflected verb: si immagina	immaginarsi V;POS;IMP;3;SG	immaginarsi V;IND;PRS;3;SG
 Generate the lemma and morphological tags for the following inflected verb: ti immaginassi	immaginarsi V;SBJV;PST;2;SG	immaginarsi V;SBJV;PST;2;SG
 Generate the lemma and morphological tags for the following inflected verb: immolarono	immolare V;IND;PST;3;PL;PFV	immolare V;IND;PST;3;PL;PFV
 Generate the lemma and morphological tags for the following inflected verb: immucidirà	immucidire V;IND;FUT;3;SG	immucidire V;IND;FUT;3;SG
-Generate the lemma and morphological tags for the following inflected verb: impacchino	impaccare V;SBJV;PRS;3;PL	impaccare V;POS;IMP;3;PL
-Generate the lemma and morphological tags for the following inflected verb: ci impatacchiamo	impataccarsi V;SBJV;PRS;1;PL	impataccarsi V;SBJV;PRS;1;PL
+Generate the lemma and morphological tags for the following inflected verb: impacchino	impacchiare V;SBJV;PRS;3;PL	impaccare V;POS;IMP;3;PL
+Generate the lemma and morphological tags for the following inflected verb: ci impatacchiamo	impatacchiarsi V;SBJV;PRS;1;PL	impataccarsi V;SBJV;PRS;1;PL
 Generate the lemma and morphological tags for the following inflected verb: impataccandosi	impataccarsi V.CVB;PRS	impataccarsi V.CVB;PRS
 Generate the lemma and morphological tags for the following inflected verb: ti impataccherai	impataccarsi V;IND;FUT;2;SG	impataccarsi V;IND;FUT;2;SG
-Generate the lemma and morphological tags for the following inflected verb: impatacchiamoci	impataccarsi V;POS;IMP;1;PL	impataccarsi V;POS;IMP;1;PL
+Generate the lemma and morphological tags for the following inflected verb: impatacchiamoci	impatacchiarsi V;POS;IMP;1;PL	impataccarsi V;POS;IMP;1;PL
 Generate the lemma and morphological tags for the following inflected verb: impedicassero	impedicare V;SBJV;PST;3;PL	impedicare V;SBJV;PST;3;PL
 Generate the lemma and morphological tags for the following inflected verb: impermeabilizzasse	impermeabilizzare V;SBJV;PST;3;SG	impermeabilizzare V;SBJV;PST;3;SG
-Generate the lemma and morphological tags for the following inflected verb: impiallacciavamo	impiallacciare V;IND;PST;1;PL;IP	impiallacciare V;IND;PST;1;PL;IPFV
+Generate the lemma and morphological tags for the following inflected verb: impiallacciavamo	impiallacciare V;IND;PST;1;PL;IPFV	impiallacciare V;IND;PST;1;PL;IPFV
 Generate the lemma and morphological tags for the following inflected verb: ti impicciasti	impicciarsi V;IND;PST;2;SG;PFV	impicciarsi V;IND;PST;2;SG;PFV
 Generate the lemma and morphological tags for the following inflected verb: si impigrissero	impigrirsi V;SBJV;PST;3;PL	impigrirsi V;SBJV;PST;3;PL
-Generate the lemma and morphological tags for the following inflected verb: impinzate	impinzare V;IND;PRS;2;PL	impinzare V;POS;IMP;2;PL
+Generate the lemma and morphological tags for the following inflected verb: impinzate	impinzare V;POS;IMP;2;PL	impinzare V;POS;IMP;2;PL
 Generate the lemma and morphological tags for the following inflected verb: impinzeremmo	impinzare V;COND;1;PL	impinzare V;COND;1;PL
 Generate the lemma and morphological tags for the following inflected verb: si imponesse	imporsi V;SBJV;PST;3;SG	imporsi V;SBJV;PST;3;SG
 Generate the lemma and morphological tags for the following inflected verb: incalza	incalzare V;IND;PRS;3;SG	incalzare V;IND;PRS;3;SG
 Generate the lemma and morphological tags for the following inflected verb: ci incaponimmo	incaponirsi V;IND;PST;1;PL;PFV	incaponirsi V;IND;PST;1;PL;PFV
 Generate the lemma and morphological tags for the following inflected verb: ti incaponiresti	incaponirsi V;COND;2;SG	incaponirsi V;COND;2;SG
-Generate the lemma and morphological tags for the following inflected verb: ci incaponiamo	incaporsi V;SBJV;PRS;1;PL	incaponirsi V;SBJV;PRS;1;PL
-Generate the lemma and morphological tags for the following inflected verb: incapsula	incapsulare V;IND;PRS;3;SG	incapsulare V;IND;PRS;3;SG
+Generate the lemma and morphological tags for the following inflected verb: ci incaponiamo	incaponarsi V;SBJV;PRS;1;PL	incaponirsi V;SBJV;PRS;1;PL
+Generate the lemma and morphological tags for the following inflected verb: incapsula	incapsulare V;POS;IMP;2;SG	incapsulare V;IND;PRS;3;SG
 Generate the lemma and morphological tags for the following inflected verb: vi incavolerete	incavolarsi V;IND;FUT;2;PL	incavolarsi V;IND;FUT;2;PL
 Generate the lemma and morphological tags for the following inflected verb: incensai	incensare V;IND;PST;1;SG;PFV	incensare V;IND;PST;1;SG;PFV
 Generate the lemma and morphological tags for the following inflected verb: incenserete	incensare V;IND;FUT;2;PL	incensare V;IND;FUT;2;PL
 Generate the lemma and morphological tags for the following inflected verb: incensava	incensare V;IND;PST;3;SG;IPFV	incensare V;IND;PST;3;SG;IPFV
-Generate the lemma and morphological tags for the following inflected verb: incerotta	incerottare V;IND;PRS;3;SG	incerottare V;IND;PRS;3;SG
+Generate the lemma and morphological tags for the following inflected verb: incerotta	incerottare V;POS;IMP;2;SG	incerottare V;IND;PRS;3;SG
 Generate the lemma and morphological tags for the following inflected verb: incespicherete	incespicare V;IND;FUT;2;PL	incespicare V;IND;FUT;2;PL
 Generate the lemma and morphological tags for the following inflected verb: incespicavano	incespicare V;IND;PST;3;PL;IPFV	incespicare V;IND;PST;3;PL;IPFV
 Generate the lemma and morphological tags for the following inflected verb: inciamperei	inciampare V;COND;1;SG	inciampare V;COND;1;SG
@@ -437,26 +437,26 @@ Generate the lemma and morphological tags for the following inflected verb: info
 Generate the lemma and morphological tags for the following inflected verb: infosseremmo	infossare V;COND;1;PL	infossare V;COND;1;PL
 Generate the lemma and morphological tags for the following inflected verb: infosserete	infossare V;IND;FUT;2;PL	infossare V;IND;FUT;2;PL
 Generate the lemma and morphological tags for the following inflected verb: infrapporresti	infrapporre V;COND;2;SG	infrapporre V;COND;2;SG
-Generate the lemma and morphological tags for the following inflected verb: infrapponessi	infrapporre V;SBJV;PST;1;SG	infrapporre V;SBJV;PST;2;SG
+Generate the lemma and morphological tags for the following inflected verb: infrapponessi	infrapporre V;SBJV;PST;2;SG	infrapporre V;SBJV;PST;2;SG
 Generate the lemma and morphological tags for the following inflected verb: infrapporre	infrapporre V;NFIN	infrapporre V;NFIN
 Generate the lemma and morphological tags for the following inflected verb: si infratteranno	infrattarsi V;IND;FUT;3;PL	infrattarsi V;IND;FUT;3;PL
 Generate the lemma and morphological tags for the following inflected verb: vi infreddoliate	infreddolarsi V;SBJV;PRS;2;PL	infreddolirsi V;SBJV;PRS;2;PL
-Generate the lemma and morphological tags for the following inflected verb: vi infreddolite	infreddolirsi V;SBJV;PRS;2;PL	infreddolirsi V;IND;PRS;2;PL
-Generate the lemma and morphological tags for the following inflected verb: ingiunga	ingiungere V;IND;PRS;3;SG	ingiungere V;SBJV;PRS;1;SG
+Generate the lemma and morphological tags for the following inflected verb: vi infreddolite	infreddolirsi V;IND;PRS;2;PL	infreddolirsi V;IND;PRS;2;PL
+Generate the lemma and morphological tags for the following inflected verb: ingiunga	ingiungere V;SBJV;PRS;3;SG	ingiungere V;SBJV;PRS;1;SG
 Generate the lemma and morphological tags for the following inflected verb: inguainerò	inguainare V;IND;FUT;1;SG	inguainare V;IND;FUT;1;SG
 Generate the lemma and morphological tags for the following inflected verb: inguaineresti	inguainare V;COND;2;SG	inguainare V;COND;2;SG
 Generate the lemma and morphological tags for the following inflected verb: innastante	innastare V.PTCP;PRS	innastare V.PTCP;PRS
 Generate the lemma and morphological tags for the following inflected verb: innasterai	innastare V;IND;FUT;2;SG	innastare V;IND;FUT;2;SG
 Generate the lemma and morphological tags for the following inflected verb: inneggiasti	inneggiare V;IND;PST;2;SG;PFV	inneggiare V;IND;PST;2;SG;PFV
-Generate the lemma and morphological tags for the following inflected verb: ci insabbiamo	insabbiarsi V;IND;PRS;1;PL	insabbiarsi V;IND;PRS;1;PL
-Generate the lemma and morphological tags for the following inflected verb: mi insedi	insedersi V;IND;PRS;1;SG	insediarsi V;SBJV;PRS;1;SG
+Generate the lemma and morphological tags for the following inflected verb: ci insabbiamo	insabbiarsi V;SBJV;PRS;1;PL	insabbiarsi V;IND;PRS;1;PL
+Generate the lemma and morphological tags for the following inflected verb: mi insedi	insedersi V;SBJV;PRS;1;SG	insediarsi V;SBJV;PRS;1;SG
 Generate the lemma and morphological tags for the following inflected verb: si insedia	insediarsi V;SBJV;PRS;3;SG	insediarsi V;IND;PRS;3;SG
 Generate the lemma and morphological tags for the following inflected verb: insegui	inseguire V;SBJV;PRS;2;SG	inseguire V;POS;IMP;2;SG
 Generate the lemma and morphological tags for the following inflected verb: inseguivano	inseguire V;IND;PST;3;PL;IPFV	inseguire V;IND;PST;3;PL;IPFV
 Generate the lemma and morphological tags for the following inflected verb: inseguissi	inseguire V;SBJV;PST;1;SG	inseguire V;SBJV;PST;1;SG
 Generate the lemma and morphological tags for the following inflected verb: inserisci	inserire V;SBJV;PRS;2;SG	inserire V;IND;PRS;2;SG
 Generate the lemma and morphological tags for the following inflected verb: mi inspessii	inspessirsi V;IND;PST;1;SG;PFV	inspessirsi V;IND;PST;1;SG;PFV
-Generate the lemma and morphological tags for the following inflected verb: si inspessiscano	inspessirsi V;IND;PRS;3;PL	inspessirsi V;SBJV;PRS;3;PL
+Generate the lemma and morphological tags for the following inflected verb: si inspessiscano	inspessirsi V;SBJV;PRS;3;PL	inspessirsi V;SBJV;PRS;3;PL
 Generate the lemma and morphological tags for the following inflected verb: insufflerò	insufflare V;IND;FUT;1;SG	insufflare V;IND;FUT;1;SG
 Generate the lemma and morphological tags for the following inflected verb: insuffleresti	insufflare V;COND;2;SG	insufflare V;COND;2;SG
 Generate the lemma and morphological tags for the following inflected verb: ci insultiamo	insultarsi V;SBJV;PRS;1;PL	insultarsi V;IND;PRS;1;PL
@@ -476,7 +476,7 @@ Generate the lemma and morphological tags for the following inflected verb: mi i
 Generate the lemma and morphological tags for the following inflected verb: si invitavano	invitarsi V;IND;PST;3;PL;IPFV	invitarsi V;IND;PST;3;PL;IPFV
 Generate the lemma and morphological tags for the following inflected verb: si invitò	invitarsi V;IND;PST;3;SG;PFV	invitarsi V;IND;PST;3;SG;PFV
 Generate the lemma and morphological tags for the following inflected verb: si invitano	invitarsi V;IND;PRS;3;PL	invitarsi V;IND;PRS;3;PL
-Generate the lemma and morphological tags for the following inflected verb: ischeletrisca	ischeletrire V;SBJV;PRS;2;SG	ischeletrire V;SBJV;PRS;1;SG
+Generate the lemma and morphological tags for the following inflected verb: ischeletrisca	ischeletrire V;SBJV;PRS;3;SG	ischeletrire V;SBJV;PRS;1;SG
 Generate the lemma and morphological tags for the following inflected verb: ischeletrisce	ischeletrire V;IND;PRS;3;SG	ischeletrire V;IND;PRS;3;SG
 Generate the lemma and morphological tags for the following inflected verb: isolerete	isolare V;IND;FUT;2;PL	isolare V;IND;FUT;2;PL
 Generate the lemma and morphological tags for the following inflected verb: ispessire	ispessire V;NFIN	ispessire V;NFIN
@@ -508,9 +508,9 @@ Generate the lemma and morphological tags for the following inflected verb: memo
 Generate the lemma and morphological tags for the following inflected verb: menomavamo	menomare V;IND;PST;1;PL;IPFV	menomare V;IND;PST;1;PL;IPFV
 Generate the lemma and morphological tags for the following inflected verb: menomai	menomare V;IND;PST;1;SG;PFV	menomare V;IND;PST;1;SG;PFV
 Generate the lemma and morphological tags for the following inflected verb: si meravigli	meravigliarsi V;SBJV;PRS;3;SG	meravigliarsi V;POS;IMP;3;SG
-Generate the lemma and morphological tags for the following inflected verb: si meravigliava	meravigliarsi V;IND;PST;3;SG;IPF	meravigliarsi V;IND;PST;3;SG;IPFV
-Generate the lemma and morphological tags for the following inflected verb: ci meravigliamo	meravigliarsi V;IND;PRS;1;PL	meravigliarsi V;IND;PRS;1;PL
-Generate the lemma and morphological tags for the following inflected verb: ti meriti	meritarsi V;IND;PRS;2;SG	meritarsi V;IND;PRS;2;SG
+Generate the lemma and morphological tags for the following inflected verb: si meravigliava	meravigliarsi V;IND;PST;3;SG;IPFV	meravigliarsi V;IND;PST;3;SG;IPFV
+Generate the lemma and morphological tags for the following inflected verb: ci meravigliamo	meravigliarsi V;SBJV;PRS;1;PL	meravigliarsi V;IND;PRS;1;PL
+Generate the lemma and morphological tags for the following inflected verb: ti meriti	meritarsi V;SBJV;PRS;2;SG	meritarsi V;IND;PRS;2;SG
 Generate the lemma and morphological tags for the following inflected verb: metanizzino	metanizzare V;SBJV;PRS;3;PL	metanizzare V;POS;IMP;3;PL
 Generate the lemma and morphological tags for the following inflected verb: millimetrando	millimetrare V.CVB;PRS	millimetrare V.CVB;PRS
 Generate the lemma and morphological tags for the following inflected verb: mimetizzi	mimetizzare V;SBJV;PRS;1;SG	mimetizzare V;IND;PRS;2;SG
@@ -521,8 +521,8 @@ Generate the lemma and morphological tags for the following inflected verb: miti
 Generate the lemma and morphological tags for the following inflected verb: mitrare	mitrare V;NFIN	mitrare V;NFIN
 Generate the lemma and morphological tags for the following inflected verb: mitrerete	mitrare V;IND;FUT;2;PL	mitrare V;IND;FUT;2;PL
 Generate the lemma and morphological tags for the following inflected verb: mobilino	mobilare V;SBJV;PRS;3;PL	mobiliare V;SBJV;PRS;3;PL
-Generate the lemma and morphological tags for the following inflected verb: monitorizzavamo	monitorizzare V;IND;PST;1;PL;IP	monitorizzare V;IND;PST;1;PL;IPFV
-Generate the lemma and morphological tags for the following inflected verb: monitorizza	monitorizzare V;IND;PRS;3;SG	monitorizzare V;POS;IMP;2;SG
+Generate the lemma and morphological tags for the following inflected verb: monitorizzavamo	monitorizzare V;IND;PST;1;PL;IPFV	monitorizzare V;IND;PST;1;PL;IPFV
+Generate the lemma and morphological tags for the following inflected verb: monitorizza	monitorizzare V;POS;IMP;2;SG	monitorizzare V;POS;IMP;2;SG
 Generate the lemma and morphological tags for the following inflected verb: moralizzano	moralizzare V;IND;PRS;3;PL	moralizzare V;IND;PRS;3;PL
 Generate the lemma and morphological tags for the following inflected verb: mormorate	mormorare V;IND;PRS;2;PL	mormorare V;POS;IMP;2;PL
 Generate the lemma and morphological tags for the following inflected verb: ti moveresti	moversi V;COND;2;SG	muoversi V;COND;2;SG
@@ -535,7 +535,7 @@ Generate the lemma and morphological tags for the following inflected verb: nobi
 Generate the lemma and morphological tags for the following inflected verb: mi nobilitai	nobilitarsi V;IND;PST;1;SG;PFV	nobilitarsi V;IND;PST;1;SG;PFV
 Generate the lemma and morphological tags for the following inflected verb: novellai	novellare V;IND;PST;1;SG;PFV	novellare V;IND;PST;1;SG;PFV
 Generate the lemma and morphological tags for the following inflected verb: novellassero	novellare V;SBJV;PST;3;PL	novellare V;SBJV;PST;3;PL
-Generate the lemma and morphological tags for the following inflected verb: obbediamo	obbedire V;SBJV;PRS;1;PL	obbedire V;IND;PRS;1;PL
+Generate the lemma and morphological tags for the following inflected verb: obbediamo	obbedere V;SBJV;PRS;1;PL	obbedire V;IND;PRS;1;PL
 Generate the lemma and morphological tags for the following inflected verb: obbedisca	obbedire V;SBJV;PRS;3;SG	obbedire V;SBJV;PRS;1;SG
 Generate the lemma and morphological tags for the following inflected verb: obliava	obliare V;IND;PST;3;SG;IPFV	obliare V;IND;PST;3;SG;IPFV
 Generate the lemma and morphological tags for the following inflected verb: obliterava	obliterare V;IND;PST;3;SG;IPFV	obliterare V;IND;PST;3;SG;IPFV
@@ -554,9 +554,9 @@ Generate the lemma and morphological tags for the following inflected verb: osta
 Generate the lemma and morphological tags for the following inflected verb: si ostacolasse	ostacolarsi V;SBJV;PST;3;SG	ostacolarsi V;SBJV;PST;3;SG
 Generate the lemma and morphological tags for the following inflected verb: si ostacolano	ostacolarsi V;IND;PRS;3;PL	ostacolarsi V;IND;PRS;3;PL
 Generate the lemma and morphological tags for the following inflected verb: ottenebrassero	ottenebrare V;SBJV;PST;3;PL	ottenebrare V;SBJV;PST;3;PL
-Generate the lemma and morphological tags for the following inflected verb: ottenebrò	ottenebrare V;IND;FUT;1;SG	ottenebrare V;IND;PST;3;SG;PFV
-Generate the lemma and morphological tags for the following inflected verb: vi pasceste	pascersi V;IND;PST;2;PL;PFV	pascersi V;IND;PST;2;PL;PFV
-Generate the lemma and morphological tags for the following inflected verb: pencolassi	pencolare V;SBJV;PST;1;SG	pencolare V;SBJV;PST;1;SG
+Generate the lemma and morphological tags for the following inflected verb: ottenebrò	ottenebrare V;IND;PST;3;SG;PFV	ottenebrare V;IND;PST;3;SG;PFV
+Generate the lemma and morphological tags for the following inflected verb: vi pasceste	pascersi V;SBJV;PST;2;PL	pascersi V;IND;PST;2;PL;PFV
+Generate the lemma and morphological tags for the following inflected verb: pencolassi	pencolare V;SBJV;PST;2;SG	pencolare V;SBJV;PST;1;SG
 Generate the lemma and morphological tags for the following inflected verb: pensereste	pensare V;COND;2;PL	pensare V;COND;2;PL
 Generate the lemma and morphological tags for the following inflected verb: pepino	pepare V;SBJV;PRS;3;PL	pepare V;SBJV;PRS;3;PL
 Generate the lemma and morphological tags for the following inflected verb: peperò	pepare V;IND;FUT;1;SG	pepare V;IND;FUT;1;SG
@@ -572,14 +572,14 @@ Generate the lemma and morphological tags for the following inflected verb: post
 Generate the lemma and morphological tags for the following inflected verb: preavvisino	preavvisare V;SBJV;PRS;3;PL	preavvisare V;SBJV;PRS;3;PL
 Generate the lemma and morphological tags for the following inflected verb: preavviserebbero	preavvisare V;COND;3;PL	preavvisare V;COND;3;PL
 Generate the lemma and morphological tags for the following inflected verb: prefissiate	prefissare V;SBJV;PRS;2;PL	prefissare V;SBJV;PRS;2;PL
-Generate the lemma and morphological tags for the following inflected verb: premi	premare V;SBJV;PRS;2;SG	premiare V;SBJV;PRS;3;SG
-Generate the lemma and morphological tags for the following inflected verb: premiassi	premiare V;SBJV;PST;1;SG	premiare V;SBJV;PST;1;SG
+Generate the lemma and morphological tags for the following inflected verb: premi	premiare V;SBJV;PRS;2;SG	premiare V;SBJV;PRS;3;SG
+Generate the lemma and morphological tags for the following inflected verb: premiassi	premiare V;SBJV;PST;2;SG	premiare V;SBJV;PST;1;SG
 Generate the lemma and morphological tags for the following inflected verb: prendentesi	prendersi V.PTCP;PRS	prenderle V.PTCP;PRS
 Generate the lemma and morphological tags for the following inflected verb: preregistreresti	preregistrare V;COND;2;SG	preregistrare V;COND;2;SG
 Generate the lemma and morphological tags for the following inflected verb: preriscalderò	preriscaldare V;IND;FUT;1;SG	preriscaldare V;IND;FUT;1;SG
 Generate the lemma and morphological tags for the following inflected verb: preriscalderà	preriscaldare V;IND;FUT;3;SG	preriscaldare V;IND;FUT;3;SG
 Generate the lemma and morphological tags for the following inflected verb: preriscaldammo	preriscaldare V;IND;PST;1;PL;PFV	preriscaldare V;IND;PST;1;PL;PFV
-Generate the lemma and morphological tags for the following inflected verb: prescrisse	prescrivere V;SBJV;PST;3;SG	prescrivere V;IND;PST;3;SG;PFV
+Generate the lemma and morphological tags for the following inflected verb: prescrisse	prescrivere V;IND;PST;3;SG;PFV	prescrivere V;IND;PST;3;SG;PFV
 Generate the lemma and morphological tags for the following inflected verb: si preservasse	preservarsi V;SBJV;PST;3;SG	preservarsi V;SBJV;PST;3;SG
 Generate the lemma and morphological tags for the following inflected verb: vi preserverete	preservarsi V;IND;FUT;2;PL	preservarsi V;IND;FUT;2;PL
 Generate the lemma and morphological tags for the following inflected verb: pressurizzaste	pressurizzare V;SBJV;PST;2;PL	pressurizzare V;IND;PST;2;PL;PFV
@@ -587,7 +587,7 @@ Generate the lemma and morphological tags for the following inflected verb: prev
 Generate the lemma and morphological tags for the following inflected verb: si producevano	prodursi V;IND;PST;3;PL;IPFV	prodursi V;IND;PST;3;PL;IPFV
 Generate the lemma and morphological tags for the following inflected verb: proporzionassero	proporzionare V;SBJV;PST;3;PL	proporzionare V;SBJV;PST;3;PL
 Generate the lemma and morphological tags for the following inflected verb: proporzioniamo	proporzionare V;SBJV;PRS;1;PL	proporzionare V;SBJV;PRS;1;PL
-Generate the lemma and morphological tags for the following inflected verb: proruppero	proruppare V;IND;PRS;3;PL	prorompere V;IND;PST;3;PL;PFV
+Generate the lemma and morphological tags for the following inflected verb: proruppero	proruppare V;IND;PST;3;PL;PFV	prorompere V;IND;PST;3;PL;PFV
 Generate the lemma and morphological tags for the following inflected verb: proromperebbero	prorompere V;COND;3;PL	prorompere V;COND;3;PL
 Generate the lemma and morphological tags for the following inflected verb: proseguiste	proseguire V;SBJV;PST;2;PL	proseguire V;IND;PST;2;PL;PFV
 Generate the lemma and morphological tags for the following inflected verb: protrudereste	protrudere V;COND;2;PL	protrudere V;COND;2;PL
@@ -602,11 +602,11 @@ Generate the lemma and morphological tags for the following inflected verb: quie
 Generate the lemma and morphological tags for the following inflected verb: quieteremmo	quietare V;COND;1;PL	quietare V;COND;1;PL
 Generate the lemma and morphological tags for the following inflected verb: quietassero	quietare V;SBJV;PST;3;PL	quietare V;SBJV;PST;3;PL
 Generate the lemma and morphological tags for the following inflected verb: mi quieterò	quietarsi V;IND;FUT;1;SG	quietarsi V;IND;FUT;1;SG
-Generate the lemma and morphological tags for the following inflected verb: ci quietiamo	quietarsi V;IND;PRS;1;PL	quietarsi V;IND;PRS;1;PL
+Generate the lemma and morphological tags for the following inflected verb: ci quietiamo	quietarsi V;SBJV;PRS;1;PL	quietarsi V;IND;PRS;1;PL
 Generate the lemma and morphological tags for the following inflected verb: ci quieteremo	quietarsi V;IND;FUT;1;PL	quietarsi V;IND;FUT;1;PL
 Generate the lemma and morphological tags for the following inflected verb: raccorcio	raccorciare V;IND;PRS;1;SG	raccorciare V;IND;PRS;1;SG
 Generate the lemma and morphological tags for the following inflected verb: raccorciremo	raccorcire V;IND;FUT;1;PL	raccorcire V;IND;FUT;1;PL
-Generate the lemma and morphological tags for the following inflected verb: raffrena	raffrenare V;IND;PRS;3;SG	raffrenare V;IND;PRS;3;SG
+Generate the lemma and morphological tags for the following inflected verb: raffrena	raffrenare V;POS;IMP;2;SG	raffrenare V;IND;PRS;3;SG
 Generate the lemma and morphological tags for the following inflected verb: raffrenavamo	raffrenare V;IND;PST;1;PL;IPFV	raffrenare V;IND;PST;1;PL;IPFV
 Generate the lemma and morphological tags for the following inflected verb: raffrenerebbero	raffrenare V;COND;3;PL	raffrenare V;COND;3;PL
 Generate the lemma and morphological tags for the following inflected verb: ralingare	ralingare V;NFIN	ralingare V;NFIN
@@ -624,8 +624,8 @@ Generate the lemma and morphological tags for the following inflected verb: razi
 Generate the lemma and morphological tags for the following inflected verb: realizzassimo	realizzare V;SBJV;PST;1;PL	realizzare V;SBJV;PST;1;PL
 Generate the lemma and morphological tags for the following inflected verb: realizzaste	realizzare V;SBJV;PST;2;PL	realizzare V;IND;PST;2;PL;PFV
 Generate the lemma and morphological tags for the following inflected verb: realizzerò	realizzare V;IND;FUT;1;SG	realizzare V;IND;FUT;1;SG
-Generate the lemma and morphological tags for the following inflected verb: recidiveremmo	recidivare V;COND;1;PL	recidivare V;COND;1;PL
-Generate the lemma and morphological tags for the following inflected verb: recidivare	recidivare V;NFIN	recidivare V;NFIN
+Generate the lemma and morphological tags for the following inflected verb: recidiveremmo	recidivere V;COND;1;PL	recidivare V;COND;1;PL
+Generate the lemma and morphological tags for the following inflected verb: recidivare	recidire V;NFIN	recidivare V;NFIN
 Generate the lemma and morphological tags for the following inflected verb: recrimina	recriminare V;POS;IMP;2;SG	recriminare V;POS;IMP;2;SG
 Generate the lemma and morphological tags for the following inflected verb: refrangessero	refrangere V;SBJV;PST;3;PL	refrangere V;SBJV;PST;3;PL
 Generate the lemma and morphological tags for the following inflected verb: ti reimmergevi	reimmergersi V;IND;PST;2;SG;IPFV	reimmergersi V;IND;PST;2;SG;IPFV
@@ -638,44 +638,44 @@ Generate the lemma and morphological tags for the following inflected verb: resi
 Generate the lemma and morphological tags for the following inflected verb: residuai	residuare V;IND;PST;1;SG;PFV	residuare V;IND;PST;1;SG;PFV
 Generate the lemma and morphological tags for the following inflected verb: ci restarono	restarsi V;IND;PST;3;PL;PFV	restarci V;IND;PST;3;PL;PFV
 Generate the lemma and morphological tags for the following inflected verb: ci restavo	restarsi V;IND;PST;1;SG;IPFV	restarci V;IND;PST;1;SG;IPFV
-Generate the lemma and morphological tags for the following inflected verb: ci resti	restarsi V;IND;PRS;3;SG	restarci V;POS;IMP;3;SG
-Generate the lemma and morphological tags for the following inflected verb: ci restaste	restarsi V;IND;PST;2;PL;PFV	restarci V;IND;PST;2;PL;PFV
-Generate the lemma and morphological tags for the following inflected verb: riacciuffassi	riacciuffare V;SBJV;PST;1;SG	riacciuffare V;SBJV;PST;2;SG
+Generate the lemma and morphological tags for the following inflected verb: ci resti	restarsi V;SBJV;PRS;3;SG	restarci V;POS;IMP;3;SG
+Generate the lemma and morphological tags for the following inflected verb: ci restaste	restarsi V;SBJV;PST;2;PL	restarci V;IND;PST;2;PL;PFV
+Generate the lemma and morphological tags for the following inflected verb: riacciuffassi	riacciuffare V;SBJV;PST;2;SG	riacciuffare V;SBJV;PST;2;SG
 Generate the lemma and morphological tags for the following inflected verb: riacciuffassimo	riacciuffare V;SBJV;PST;1;PL	riacciuffare V;SBJV;PST;1;PL
-Generate the lemma and morphological tags for the following inflected verb: riaddormentassi	riaddormentare V;SBJV;PST;1;SG	riaddormentare V;SBJV;PST;1;SG
-Generate the lemma and morphological tags for the following inflected verb: riagguanta	riagguantare V;IND;PRS;3;SG	riagguantare V;POS;IMP;2;SG
+Generate the lemma and morphological tags for the following inflected verb: riaddormentassi	riaddormentare V;SBJV;PST;2;SG	riaddormentare V;SBJV;PST;1;SG
+Generate the lemma and morphological tags for the following inflected verb: riagguanta	riagguantare V;POS;IMP;2;SG	riagguantare V;POS;IMP;2;SG
 Generate the lemma and morphological tags for the following inflected verb: riagguantassero	riagguantare V;SBJV;PST;3;PL	riagguantare V;SBJV;PST;3;PL
 Generate the lemma and morphological tags for the following inflected verb: riagguantò	riagguantare V;IND;PST;3;SG;PFV	riagguantare V;IND;PST;3;SG;PFV
-Generate the lemma and morphological tags for the following inflected verb: riammetta	riammettere V;IND;PRS;3;SG	riammettere V;SBJV;PRS;2;SG
-Generate the lemma and morphological tags for the following inflected verb: vi rianimaste	rianimarsi V;SBJV;PST;2;PL	rianimarsi V;IND;PST;2;PL;PFV
+Generate the lemma and morphological tags for the following inflected verb: riammetta	riammettere V;SBJV;PRS;3;SG	riammettere V;SBJV;PRS;2;SG
+Generate the lemma and morphological tags for the following inflected verb: vi rianimaste	rianimarsi V;IND;PST;2;PL;PFV	rianimarsi V;IND;PST;2;PL;PFV
 Generate the lemma and morphological tags for the following inflected verb: si rianimò	rianimarsi V;IND;PST;3;SG;PFV	rianimarsi V;IND;PST;3;SG;PFV
 Generate the lemma and morphological tags for the following inflected verb: vi rianimerete	rianimarsi V;IND;FUT;2;PL	rianimarsi V;IND;FUT;2;PL
 Generate the lemma and morphological tags for the following inflected verb: riapplichi	riapplicare V;SBJV;PRS;2;SG	riapplicare V;IND;PRS;2;SG
 Generate the lemma and morphological tags for the following inflected verb: vi riaprirete	riaprirsi V;IND;FUT;2;PL	riaprirsi V;IND;FUT;2;PL
 Generate the lemma and morphological tags for the following inflected verb: riarrangiassimo	riarrangiare V;SBJV;PST;1;PL	riarrangiare V;SBJV;PST;1;PL
 Generate the lemma and morphological tags for the following inflected verb: riassettandosi	riassettarsi V.CVB;PRS	riassettarsi V.CVB;PRS
-Generate the lemma and morphological tags for the following inflected verb: ci riassettiamo	riassettarsi V;IND;PRS;1;PL	riassettarsi V;IND;PRS;1;PL
+Generate the lemma and morphological tags for the following inflected verb: ci riassettiamo	riassettarsi V;SBJV;PRS;1;PL	riassettarsi V;IND;PRS;1;PL
 Generate the lemma and morphological tags for the following inflected verb: riattiverei	riattivare V;COND;1;SG	riattivare V;COND;1;SG
 Generate the lemma and morphological tags for the following inflected verb: riattivò	riattivare V;IND;PST;3;SG;PFV	riattivare V;IND;PST;3;SG;PFV
-Generate the lemma and morphological tags for the following inflected verb: riboccassi	riboccare V;SBJV;PST;1;SG	riboccare V;SBJV;PST;1;SG
+Generate the lemma and morphological tags for the following inflected verb: riboccassi	riboccare V;SBJV;PST;2;SG	riboccare V;SBJV;PST;1;SG
 Generate the lemma and morphological tags for the following inflected verb: riboccavo	riboccare V;IND;PST;1;SG;IPFV	riboccare V;IND;PST;1;SG;IPFV
 Generate the lemma and morphological tags for the following inflected verb: ricanto	ricantare V;IND;PRS;1;SG	ricantare V;IND;PRS;1;SG
 Generate the lemma and morphological tags for the following inflected verb: ricantare	ricantare V;NFIN	ricantare V;NFIN
-Generate the lemma and morphological tags for the following inflected verb: ricercassi	ricercare V;SBJV;PST;1;SG	ricercare V;SBJV;PST;2;SG
+Generate the lemma and morphological tags for the following inflected verb: ricercassi	ricercare V;SBJV;PST;2;SG	ricercare V;SBJV;PST;2;SG
 Generate the lemma and morphological tags for the following inflected verb: riclassificheremo	riclassificare V;IND;FUT;1;PL	riclassificare V;IND;FUT;1;PL
 Generate the lemma and morphological tags for the following inflected verb: ricompaia	ricompaiare V;IND;PRS;3;SG	ricomparire V;POS;IMP;3;SG
 Generate the lemma and morphological tags for the following inflected verb: ricomparite	ricomparire V;POS;IMP;2;PL	ricomparire V;POS;IMP;2;PL
 Generate the lemma and morphological tags for the following inflected verb: riconsegni	riconsegnare V;SBJV;PRS;2;SG	riconsegnare V;SBJV;PRS;3;SG
 Generate the lemma and morphological tags for the following inflected verb: riconsegnassimo	riconsegnare V;SBJV;PST;1;PL	riconsegnare V;SBJV;PST;1;PL
 Generate the lemma and morphological tags for the following inflected verb: riconsegnerò	riconsegnare V;IND;FUT;1;SG	riconsegnare V;IND;FUT;1;SG
-Generate the lemma and morphological tags for the following inflected verb: riconsigliavo	riconsigliare V;IND;PST;1;SG;IPF	riconsigliare V;IND;PST;1;SG;IPFV
+Generate the lemma and morphological tags for the following inflected verb: riconsigliavo	riconsigliare V;IND;PST;1;SG;IPFV	riconsigliare V;IND;PST;1;SG;IPFV
 Generate the lemma and morphological tags for the following inflected verb: riconsigliarono	riconsigliare V;IND;PST;3;PL;PFV	riconsigliare V;IND;PST;3;PL;PFV
 Generate the lemma and morphological tags for the following inflected verb: mi riconsolerò	riconsolarsi V;IND;FUT;1;SG	riconsolarsi V;IND;FUT;1;SG
 Generate the lemma and morphological tags for the following inflected verb: riconsolandosi	riconsolarsi V.CVB;PRS	riconsolarsi V.CVB;PRS
 Generate the lemma and morphological tags for the following inflected verb: vi riconsoliate	riconsolarsi V;SBJV;PRS;2;PL	riconsolarsi V;SBJV;PRS;2;PL
 Generate the lemma and morphological tags for the following inflected verb: ridimensionerei	ridimensionare V;COND;1;SG	ridimensionare V;COND;1;SG
 Generate the lemma and morphological tags for the following inflected verb: ridisciogliereste	ridisciogliere V;COND;2;PL	ridisciogliere V;COND;2;PL
-Generate the lemma and morphological tags for the following inflected verb: riemerga	riemergere V;POS;IMP;2;SG	riemergere V;SBJV;PRS;1;SG
+Generate the lemma and morphological tags for the following inflected verb: riemerga	riemergere V;SBJV;PRS;3;SG	riemergere V;SBJV;PRS;1;SG
 Generate the lemma and morphological tags for the following inflected verb: riemettiate	riemettere V;SBJV;PRS;2;PL	riemettere V;SBJV;PRS;2;PL
 Generate the lemma and morphological tags for the following inflected verb: riemisero	riemire V;IND;PST;3;PL;PFV	riemettere V;IND;PST;3;PL;PFV
 Generate the lemma and morphological tags for the following inflected verb: riemisi	riemire V;IND;PST;2;SG;PFV	riemettere V;IND;PST;1;SG;PFV
@@ -683,7 +683,7 @@ Generate the lemma and morphological tags for the following inflected verb: riem
 Generate the lemma and morphological tags for the following inflected verb: riempirete	riempire V;IND;FUT;2;PL	riempiere V;IND;FUT;2;PL
 Generate the lemma and morphological tags for the following inflected verb: riempieste	riempiere V;SBJV;PST;2;PL	riempiere V;IND;PST;2;PL;PFV
 Generate the lemma and morphological tags for the following inflected verb: riesploderemmo	riesplodere V;COND;1;PL	riesplodere V;COND;1;PL
-Generate the lemma and morphological tags for the following inflected verb: si fecero	fersi V;IND;PRS;3;PL	rifarsi V;IND;PST;3;PL;PFV
+Generate the lemma and morphological tags for the following inflected verb: si fecero	fecersi V;IND;PST;3;PL;PFV	rifarsi V;IND;PST;3;PL;PFV
 Generate the lemma and morphological tags for the following inflected verb: si rifa	rifarsi V;SBJV;PRS;3;SG	rifarsi V;IND;PRS;3;SG
 Generate the lemma and morphological tags for the following inflected verb: rifenderà	rifendere V;IND;FUT;3;SG	rifendere V;IND;FUT;3;SG
 Generate the lemma and morphological tags for the following inflected verb: ci rifermeremmo	rifermarsi V;COND;1;PL	rifermarsi V;COND;1;PL
@@ -702,13 +702,13 @@ Generate the lemma and morphological tags for the following inflected verb: rimo
 Generate the lemma and morphological tags for the following inflected verb: si rimpadronisca	rimpadronirsi V;SBJV;PRS;3;SG	rimpadronirsi V;SBJV;PRS;3;SG
 Generate the lemma and morphological tags for the following inflected verb: rimpasteresti	rimpastare V;COND;2;SG	rimpastare V;COND;2;SG
 Generate the lemma and morphological tags for the following inflected verb: rimpiazzai	rimpiazzare V;IND;PST;1;SG;PFV	rimpiazzare V;IND;PST;1;SG;PFV
-Generate the lemma and morphological tags for the following inflected verb: rimpiazzassi	rimpiazzare V;SBJV;PST;1;SG	rimpiazzare V;SBJV;PST;2;SG
+Generate the lemma and morphological tags for the following inflected verb: rimpiazzassi	rimpiazzare V;SBJV;PST;2;SG	rimpiazzare V;SBJV;PST;2;SG
 Generate the lemma and morphological tags for the following inflected verb: rimpiazzi	rimpiazzare V;SBJV;PRS;2;SG	rimpiazzare V;IND;PRS;2;SG
-Generate the lemma and morphological tags for the following inflected verb: ci rimpicciolimmo	rimpicciolirsi V;IND;PST;1;PL;PF	rimpicciolirsi V;IND;PST;1;PL;PFV
+Generate the lemma and morphological tags for the following inflected verb: ci rimpicciolimmo	rimpicciolirsi V;IND;PST;1;PL;PFV	rimpicciolirsi V;IND;PST;1;PL;PFV
 Generate the lemma and morphological tags for the following inflected verb: rimuneri	rimunerare V;SBJV;PRS;2;SG	rimunerare V;SBJV;PRS;1;SG
 Generate the lemma and morphological tags for the following inflected verb: rimunererai	rimunerare V;IND;FUT;2;SG	rimunerare V;IND;FUT;2;SG
-Generate the lemma and morphological tags for the following inflected verb: rinasconda	rinascondere V;IND;PRS;3;SG	rinascondere V;SBJV;PRS;3;SG
-Generate the lemma and morphological tags for the following inflected verb: rincarassi	rincarare V;SBJV;PST;1;SG	rincarare V;SBJV;PST;1;SG
+Generate the lemma and morphological tags for the following inflected verb: rinasconda	rinascondere V;SBJV;PRS;3;SG	rinascondere V;SBJV;PRS;3;SG
+Generate the lemma and morphological tags for the following inflected verb: rincarassi	rincarare V;SBJV;PST;2;SG	rincarare V;SBJV;PST;1;SG
 Generate the lemma and morphological tags for the following inflected verb: rincarerebbero	rincarare V;COND;3;PL	rincarare V;COND;3;PL
 Generate the lemma and morphological tags for the following inflected verb: rincitrullirà	rincitrullire V;IND;FUT;3;SG	rincitrullire V;IND;FUT;3;SG
 Generate the lemma and morphological tags for the following inflected verb: rintuzzerò	rintuzzare V;IND;FUT;1;SG	rintuzzare V;IND;FUT;1;SG
@@ -720,31 +720,31 @@ Generate the lemma and morphological tags for the following inflected verb: rinv
 Generate the lemma and morphological tags for the following inflected verb: ti rioccupassi	rioccuparsi V;SBJV;PST;2;SG	rioccuparsi V;SBJV;PST;2;SG
 Generate the lemma and morphological tags for the following inflected verb: ripianerebbe	ripianare V;COND;3;SG	ripianare V;COND;3;SG
 Generate the lemma and morphological tags for the following inflected verb: ripianare	ripianare V;NFIN	ripianare V;NFIN
-Generate the lemma and morphological tags for the following inflected verb: ripianificavate	ripianificare V;IND;PST;2;PL;IPF	ripianificare V;IND;PST;2;PL;IPFV
+Generate the lemma and morphological tags for the following inflected verb: ripianificavate	ripianificare V;IND;PST;2;PL;IPFV	ripianificare V;IND;PST;2;PL;IPFV
 Generate the lemma and morphological tags for the following inflected verb: ripolarizziamo	ripolarizzare V;SBJV;PRS;1;PL	ripolarizzare V;SBJV;PRS;1;PL
-Generate the lemma and morphological tags for the following inflected verb: ripolarizzarono	ripolarizzare V;IND;PST;3;PL;PF	ripolarizzare V;IND;PST;3;PL;PFV
+Generate the lemma and morphological tags for the following inflected verb: ripolarizzarono	ripolarizzare V;IND;PST;3;PL;PFV	ripolarizzare V;IND;PST;3;PL;PFV
 Generate the lemma and morphological tags for the following inflected verb: riporgente	riporgere V.PTCP;PRS	riporgere V.PTCP;PRS
 Generate the lemma and morphological tags for the following inflected verb: riprogetterà	riprogettare V;IND;FUT;3;SG	riprogettare V;IND;FUT;3;SG
 Generate the lemma and morphological tags for the following inflected verb: riprogettaste	riprogettare V;SBJV;PST;2;PL	riprogettare V;IND;PST;2;PL;PFV
-Generate the lemma and morphological tags for the following inflected verb: si riproposero	riproporsi V;IND;PRS;3;PL	riproporsi V;IND;PST;3;PL;PFV
+Generate the lemma and morphological tags for the following inflected verb: si riproposero	riproporsi V;IND;PST;3;PL;PFV	riproporsi V;IND;PST;3;PL;PFV
 Generate the lemma and morphological tags for the following inflected verb: riproteggere	riproteggere V;NFIN	riproteggere V;NFIN
 Generate the lemma and morphological tags for the following inflected verb: riprovvedendo	riprovvedere V.CVB;PRS	riprovvedere V.CVB;PRS
 Generate the lemma and morphological tags for the following inflected verb: riprovvedrebbe	riprovvedere V;COND;3;SG	riprovvedere V;COND;3;SG
 Generate the lemma and morphological tags for the following inflected verb: riprovvedreste	riprovvedere V;COND;2;PL	riprovvedere V;COND;2;PL
 Generate the lemma and morphological tags for the following inflected verb: si riputino	riputarsi V;SBJV;PRS;3;PL	riputarsi V;SBJV;PRS;3;PL
-Generate the lemma and morphological tags for the following inflected verb: vi riqualificavate	riqualificarsi V;IND;PST;2;PL;IP	riqualificarsi V;IND;PST;2;PL;IPFV
-Generate the lemma and morphological tags for the following inflected verb: ti riqualificasti	riqualificarsi V;IND;PST;2;SG;PF	riqualificarsi V;IND;PST;2;SG;PFV
+Generate the lemma and morphological tags for the following inflected verb: vi riqualificavate	riqualificarsi V;IND;PST;2;PL;IPFV	riqualificarsi V;IND;PST;2;PL;IPFV
+Generate the lemma and morphological tags for the following inflected verb: ti riqualificasti	riqualificarsi V;IND;PST;2;SG;PFV	riqualificarsi V;IND;PST;2;SG;PFV
 Generate the lemma and morphological tags for the following inflected verb: riscaldavano	riscaldare V;IND;PST;3;PL;IPFV	riscaldare V;IND;PST;3;PL;IPFV
-Generate the lemma and morphological tags for the following inflected verb: riscaldassi	riscaldare V;SBJV;PST;1;SG	riscaldare V;SBJV;PST;2;SG
+Generate the lemma and morphological tags for the following inflected verb: riscaldassi	riscaldare V;SBJV;PST;2;SG	riscaldare V;SBJV;PST;2;SG
 Generate the lemma and morphological tags for the following inflected verb: risconvolgesse	risconvolgere V;SBJV;PST;3;SG	risconvolgere V;SBJV;PST;3;SG
 Generate the lemma and morphological tags for the following inflected verb: riseminato	riseminare V.PTCP;PST	riseminare V.PTCP;PST
-Generate the lemma and morphological tags for the following inflected verb: ritorse	ritorre V;IND;PRS;3;SG	ritorcere V;IND;PST;3;SG;PFV
+Generate the lemma and morphological tags for the following inflected verb: ritorse	ritorre V;IND;PST;3;SG;PFV	ritorcere V;IND;PST;3;SG;PFV
 Generate the lemma and morphological tags for the following inflected verb: ritorca	ritorcere V;POS;IMP;2;SG	ritorcere V;SBJV;PRS;1;SG
 Generate the lemma and morphological tags for the following inflected verb: riunissero	riunire V;SBJV;PST;3;PL	riunire V;SBJV;PST;3;PL
 Generate the lemma and morphological tags for the following inflected verb: riunirebbe	riunire V;COND;3;SG	riunire V;COND;3;SG
 Generate the lemma and morphological tags for the following inflected verb: rivacciniate	rivaccinare V;SBJV;PRS;2;PL	rivaccinare V;SBJV;PRS;2;PL
 Generate the lemma and morphological tags for the following inflected verb: rivaccinerei	rivaccinare V;COND;1;SG	rivaccinare V;COND;1;SG
-Generate the lemma and morphological tags for the following inflected verb: rivieni	rivienare V;SBJV;PRS;2;SG	rivenire V;POS;IMP;2;SG
+Generate the lemma and morphological tags for the following inflected verb: rivieni	rivienire V;SBJV;PRS;2;SG	rivenire V;POS;IMP;2;SG
 Generate the lemma and morphological tags for the following inflected verb: riversatevi	riversarsi V;POS;IMP;2;PL	riversarsi V;POS;IMP;2;PL
 Generate the lemma and morphological tags for the following inflected verb: riversati	riversarsi V;POS;IMP;2;SG	riversarsi V;POS;IMP;2;SG
 Generate the lemma and morphological tags for the following inflected verb: rizapperebbero	rizappare V;COND;3;PL	rizappare V;COND;3;PL
@@ -759,12 +759,12 @@ Generate the lemma and morphological tags for the following inflected verb: sato
 Generate the lemma and morphological tags for the following inflected verb: sblocchi	sbloccare V;SBJV;PRS;2;SG	sbloccare V;SBJV;PRS;3;SG
 Generate the lemma and morphological tags for the following inflected verb: sbloccaste	sbloccare V;SBJV;PST;2;PL	sbloccare V;SBJV;PST;2;PL
 Generate the lemma and morphological tags for the following inflected verb: sbozzimaste	sbozzimare V;SBJV;PST;2;PL	sbozzimare V;IND;PST;2;PL;PFV
-Generate the lemma and morphological tags for the following inflected verb: sbozzimi	sbozzimare V;SBJV;PRS;1;SG	sbozzimare V;SBJV;PRS;1;SG
+Generate the lemma and morphological tags for the following inflected verb: sbozzimi	sbozzimare V;SBJV;PRS;2;SG	sbozzimare V;SBJV;PRS;1;SG
 Generate the lemma and morphological tags for the following inflected verb: sbozzimerebbero	sbozzimare V;COND;3;PL	sbozzimare V;COND;3;PL
 Generate the lemma and morphological tags for the following inflected verb: sbrigliavamo	sbrigliare V;IND;PST;1;PL;IPFV	sbrigliare V;IND;PST;1;PL;IPFV
 Generate the lemma and morphological tags for the following inflected verb: sbrigliavi	sbrigliare V;IND;PST;2;SG;IPFV	sbrigliare V;IND;PST;2;SG;IPFV
-Generate the lemma and morphological tags for the following inflected verb: sbucciassi	sbucciare V;SBJV;PST;1;SG	sbucciare V;SBJV;PST;1;SG
-Generate the lemma and morphological tags for the following inflected verb: sbucci	sbucciare V;SBJV;PRS;3;SG	sbucciare V;SBJV;PRS;2;SG
+Generate the lemma and morphological tags for the following inflected verb: sbucciassi	sbucciare V;SBJV;PST;2;SG	sbucciare V;SBJV;PST;1;SG
+Generate the lemma and morphological tags for the following inflected verb: sbucci	sbucciare V;SBJV;PRS;2;SG	sbucciare V;SBJV;PRS;2;SG
 Generate the lemma and morphological tags for the following inflected verb: sbullonasse	sbullonare V;SBJV;PST;3;SG	sbullonare V;SBJV;PST;3;SG
 Generate the lemma and morphological tags for the following inflected verb: scaglionassimo	scaglionare V;SBJV;PST;1;PL	scaglionare V;SBJV;PST;1;PL
 Generate the lemma and morphological tags for the following inflected verb: scaglionerebbe	scaglionare V;COND;3;SG	scaglionare V;COND;3;SG
@@ -783,39 +783,39 @@ Generate the lemma and morphological tags for the following inflected verb: schi
 Generate the lemma and morphological tags for the following inflected verb: schivai	schivare V;IND;PST;1;SG;PFV	schivare V;IND;PST;1;SG;PFV
 Generate the lemma and morphological tags for the following inflected verb: schiveresti	schivare V;COND;2;SG	schivare V;COND;2;SG
 Generate the lemma and morphological tags for the following inflected verb: scioccasse	scioccare V;SBJV;PST;3;SG	scioccare V;SBJV;PST;3;SG
-Generate the lemma and morphological tags for the following inflected verb: sclerotizzassi	sclerotizzare V;SBJV;PST;1;SG	sclerotizzare V;SBJV;PST;1;SG
+Generate the lemma and morphological tags for the following inflected verb: sclerotizzassi	sclerotizzare V;SBJV;PST;2;SG	sclerotizzare V;SBJV;PST;1;SG
 Generate the lemma and morphological tags for the following inflected verb: sclerotizzerò	sclerotizzare V;IND;FUT;1;SG	sclerotizzare V;IND;FUT;1;SG
-Generate the lemma and morphological tags for the following inflected verb: vi scocciaste	scocciarsi V;IND;PST;2;PL;PFV	scocciarsi V;IND;PST;2;PL;PFV
+Generate the lemma and morphological tags for the following inflected verb: vi scocciaste	scocciarsi V;SBJV;PST;2;PL	scocciarsi V;IND;PST;2;PL;PFV
 Generate the lemma and morphological tags for the following inflected verb: scolorato	scolorare V.PTCP;PST	scolorarsi V.PTCP;PST
-Generate the lemma and morphological tags for the following inflected verb: scompartissi	scompartire V;SBJV;PST;1;SG	scompartire V;SBJV;PST;2;SG
+Generate the lemma and morphological tags for the following inflected verb: scompartissi	scompartire V;SBJV;PST;2;SG	scompartire V;SBJV;PST;2;SG
 Generate the lemma and morphological tags for the following inflected verb: scompartivamo	scompartire V;IND;PST;1;PL;IPFV	scompartire V;IND;PST;1;PL;IPFV
 Generate the lemma and morphological tags for the following inflected verb: scompartivo	scompartire V;IND;PST;1;SG;IPFV	scompartire V;IND;PST;1;SG;IPFV
 Generate the lemma and morphological tags for the following inflected verb: scompartirono	scompartire V;IND;PST;3;PL;PFV	scompartire V;IND;PST;3;PL;PFV
 Generate the lemma and morphological tags for the following inflected verb: scompartirei	scompartire V;COND;1;SG	scompartire V;COND;1;SG
 Generate the lemma and morphological tags for the following inflected verb: si scopassero	scoparsi V;SBJV;PST;3;PL	scoparsi V;SBJV;PST;3;PL
-Generate the lemma and morphological tags for the following inflected verb: scorniciamo	scorniciare V;IND;PRS;1;PL	scorniciare V;POS;IMP;1;PL
+Generate the lemma and morphological tags for the following inflected verb: scorniciamo	scorniciare V;SBJV;PRS;1;PL	scorniciare V;POS;IMP;1;PL
 Generate the lemma and morphological tags for the following inflected verb: scorniceremmo	scorniciare V;COND;1;PL	scorniciare V;COND;1;PL
-Generate the lemma and morphological tags for the following inflected verb: scoscendono	scoscendere V;IND;PRS;3;PL	scoscendere V;IND;PRS;3;PL
+Generate the lemma and morphological tags for the following inflected verb: scoscendono	scoscere V.CVB;PRS	scoscendere V;IND;PRS;3;PL
 Generate the lemma and morphological tags for the following inflected verb: scoscenderemmo	scoscendere V;COND;1;PL	scoscendere V;COND;1;PL
 Generate the lemma and morphological tags for the following inflected verb: secolarizzante	secolarizzare V.PTCP;PRS	secolarizzare V.PTCP;PRS
 Generate the lemma and morphological tags for the following inflected verb: sedai	sedare V;IND;PST;1;SG;PFV	sedare V;IND;PST;1;SG;PFV
 Generate the lemma and morphological tags for the following inflected verb: sedate	sedare V;IND;PRS;2;PL	sedare V;IND;PRS;2;PL
 Generate the lemma and morphological tags for the following inflected verb: serenantesi	serenarsi V.PTCP;PRS	serenarsi V.PTCP;PRS
 Generate the lemma and morphological tags for the following inflected verb: si sereni	serenarsi V;SBJV;PRS;3;SG	serenarsi V;POS;IMP;3;SG
-Generate the lemma and morphological tags for the following inflected verb: mi sereno	serenarsi V;IND;PRS;1;PL	serenarsi V;IND;PRS;1;SG
+Generate the lemma and morphological tags for the following inflected verb: mi sereno	serenarsi V;IND;PRS;1;SG	serenarsi V;IND;PRS;1;SG
 Generate the lemma and morphological tags for the following inflected verb: serriamo	serrare V;SBJV;PRS;1;PL	serrare V;POS;IMP;1;PL
 Generate the lemma and morphological tags for the following inflected verb: si sfamarono	sfamarsi V;IND;PST;3;PL;PFV	sfamarsi V;IND;PST;3;PL;PFV
 Generate the lemma and morphological tags for the following inflected verb: si sfamino	sfamarsi V;SBJV;PRS;3;PL	sfamarsi V;POS;IMP;3;PL
 Generate the lemma and morphological tags for the following inflected verb: sfenderei	sfendere V;COND;1;SG	sfendere V;COND;1;SG
 Generate the lemma and morphological tags for the following inflected verb: sferragliamo	sferragliare V;SBJV;PRS;1;PL	sferragliare V;SBJV;PRS;1;PL
 Generate the lemma and morphological tags for the following inflected verb: sferragliava	sferragliare V;IND;PST;3;SG;IPFV	sferragliare V;IND;PST;3;SG;IPFV
-Generate the lemma and morphological tags for the following inflected verb: sfida	sfidare V;IND;PRS;3;SG	sfidare V;POS;IMP;2;SG
+Generate the lemma and morphological tags for the following inflected verb: sfida	sfidare V;POS;IMP;2;SG	sfidare V;POS;IMP;2;SG
 Generate the lemma and morphological tags for the following inflected verb: sfocereste	sfociare V;COND;2;PL	sfociare V;COND;2;PL
 Generate the lemma and morphological tags for the following inflected verb: sfociavi	sfociare V;IND;PST;2;SG;IPFV	sfociare V;IND;PST;2;SG;IPFV
 Generate the lemma and morphological tags for the following inflected verb: sfociante	sfociare V.PTCP;PRS	sfociare V.PTCP;PRS
 Generate the lemma and morphological tags for the following inflected verb: si sforzerà	sforzarsi V;IND;FUT;3;SG	sforzarsi V;IND;FUT;3;SG
-Generate the lemma and morphological tags for the following inflected verb: sfrigolassi	sfrigolare V;SBJV;PST;1;SG	sfrigolare V;SBJV;PST;1;SG
-Generate the lemma and morphological tags for the following inflected verb: sganascino	sganasciare V;SBJV;PRS;3;PL	sganasciare V;SBJV;PRS;3;PL
+Generate the lemma and morphological tags for the following inflected verb: sfrigolassi	sfrigolare V;SBJV;PST;2;SG	sfrigolare V;SBJV;PST;1;SG
+Generate the lemma and morphological tags for the following inflected verb: sganascino	sganasciare V;POS;IMP;3;PL	sganasciare V;SBJV;PRS;3;PL
 Generate the lemma and morphological tags for the following inflected verb: sgancerebbero	sganciare V;COND;3;PL	sganciare V;COND;3;PL
 Generate the lemma and morphological tags for the following inflected verb: sgorgherai	sgorgare V;IND;FUT;2;SG	sgorgare V;IND;FUT;2;SG
 Generate the lemma and morphological tags for the following inflected verb: sgorgherebbero	sgorgare V;COND;3;PL	sgorgare V;COND;3;PL
@@ -829,7 +829,7 @@ Generate the lemma and morphological tags for the following inflected verb: sigi
 Generate the lemma and morphological tags for the following inflected verb: sigillerei	sigillare V;COND;1;SG	sigillare V;COND;1;SG
 Generate the lemma and morphological tags for the following inflected verb: simulai	simulare V;IND;PST;1;SG;PFV	simulare V;IND;PST;1;SG;PFV
 Generate the lemma and morphological tags for the following inflected verb: slameremo	slamare V;IND;FUT;1;PL	slamare V;IND;FUT;1;PL
-Generate the lemma and morphological tags for the following inflected verb: slamate	slamare V;IND;PRS;2;PL	slamare V;POS;IMP;2;PL
+Generate the lemma and morphological tags for the following inflected verb: slamate	slamare V;POS;IMP;2;PL	slamare V;POS;IMP;2;PL
 Generate the lemma and morphological tags for the following inflected verb: slancerebbero	slanciare V;COND;3;PL	slanciare V;COND;3;PL
 Generate the lemma and morphological tags for the following inflected verb: slogai	slogare V;IND;PST;1;SG;PFV	slogare V;IND;PST;1;SG;PFV
 Generate the lemma and morphological tags for the following inflected verb: smallassimo	smallare V;SBJV;PST;1;PL	smallare V;SBJV;PST;1;PL
@@ -856,22 +856,22 @@ Generate the lemma and morphological tags for the following inflected verb: sott
 Generate the lemma and morphological tags for the following inflected verb: vi sottoponete	sottoporsi V;IND;PRS;2;PL	sottoporsi V;IND;PRS;2;PL
 Generate the lemma and morphological tags for the following inflected verb: mi sottopongo	sottoporsi V;IND;PRS;1;SG	sottoporsi V;IND;PRS;1;SG
 Generate the lemma and morphological tags for the following inflected verb: sottoponendosi	sottoporsi V.CVB;PRS	sottoporsi V.CVB;PRS
-Generate the lemma and morphological tags for the following inflected verb: sottoscriva	sottoscrivere V;IND;PRS;3;SG	sottoscrivere V;SBJV;PRS;2;SG
+Generate the lemma and morphological tags for the following inflected verb: sottoscriva	sottoscrivere V;SBJV;PRS;3;SG	sottoscrivere V;SBJV;PRS;2;SG
 Generate the lemma and morphological tags for the following inflected verb: sottosvilupperemmo	sottosviluppare V;COND;1;PL	sottosviluppare V;COND;1;PL
 Generate the lemma and morphological tags for the following inflected verb: sovraimponga	sovraimporre V;IND;PRS;3;SG	sovraimporre V;SBJV;PRS;2;SG
-Generate the lemma and morphological tags for the following inflected verb: sovraimponeste	sovraimporre V;IND;PST;2;PL;PFV	sovraimporre V;IND;PST;2;PL;PFV
-Generate the lemma and morphological tags for the following inflected verb: sovrappopolavo	sovrappopolare V;IND;PST;1;SG;IP	sovrappopolare V;IND;PST;1;SG;IPFV
+Generate the lemma and morphological tags for the following inflected verb: sovraimponeste	sovraimporre V;SBJV;PST;2;PL	sovraimporre V;IND;PST;2;PL;PFV
+Generate the lemma and morphological tags for the following inflected verb: sovrappopolavo	sovrappopolare V;IND;PST;1;SG;IPFV	sovrappopolare V;IND;PST;1;SG;IPFV
 Generate the lemma and morphological tags for the following inflected verb: sovrascorriate	sovrascorrere V;SBJV;PRS;2;PL	sovrascorrere V;SBJV;PRS;2;PL
 Generate the lemma and morphological tags for the following inflected verb: sovrasterzino	sovrasterzare V;SBJV;PRS;3;PL	sovrasterzare V;POS;IMP;3;PL
 Generate the lemma and morphological tags for the following inflected verb: sovrasterziamo	sovrasterzare V;SBJV;PRS;1;PL	sovrasterzare V;SBJV;PRS;1;PL
 Generate the lemma and morphological tags for the following inflected verb: si spacciasse	spacciarsi V;SBJV;PST;3;SG	spacciarsi V;SBJV;PST;3;SG
 Generate the lemma and morphological tags for the following inflected verb: mi spacciavo	spacciarsi V;IND;PST;1;SG;IPFV	spacciarsi V;IND;PST;1;SG;IPFV
 Generate the lemma and morphological tags for the following inflected verb: spampinassimo	spampinare V;SBJV;PST;1;PL	spampinare V;SBJV;PST;1;PL
-Generate the lemma and morphological tags for the following inflected verb: spannocchiasti	spannocchiare V;IND;PST;2;SG;PF	spannocchiare V;IND;PST;2;SG;PFV
+Generate the lemma and morphological tags for the following inflected verb: spannocchiasti	spannocchiare V;IND;PST;2;SG;PFV	spannocchiare V;IND;PST;2;SG;PFV
 Generate the lemma and morphological tags for the following inflected verb: spannocchieremo	spannocchiare V;IND;FUT;1;PL	spannocchiare V;IND;FUT;1;PL
 Generate the lemma and morphological tags for the following inflected verb: spazzoli	spazzolare V;SBJV;PRS;2;SG	spazzolare V;SBJV;PRS;2;SG
 Generate the lemma and morphological tags for the following inflected verb: spazzolarono	spazzolare V;IND;PST;3;PL;PFV	spazzolare V;IND;PST;3;PL;PFV
-Generate the lemma and morphological tags for the following inflected verb: spazzola	spazzolare V;IND;PRS;3;SG	spazzolare V;IND;PRS;3;SG
+Generate the lemma and morphological tags for the following inflected verb: spazzola	spazzolare V;POS;IMP;2;SG	spazzolare V;IND;PRS;3;SG
 Generate the lemma and morphological tags for the following inflected verb: ti sperticassi	sperticarsi V;SBJV;PST;2;SG	sperticarsi V;SBJV;PST;2;SG
 Generate the lemma and morphological tags for the following inflected verb: splafonereste	splafonare V;COND;2;PL	splafonare V;COND;2;PL
 Generate the lemma and morphological tags for the following inflected verb: splafonasse	splafonare V;SBJV;PST;3;SG	splafonare V;SBJV;PST;3;SG
@@ -897,9 +897,9 @@ Generate the lemma and morphological tags for the following inflected verb: mi s
 Generate the lemma and morphological tags for the following inflected verb: ti stomacavi	stomacarsi V;IND;PST;2;SG;IPFV	stomacarsi V;IND;PST;2;SG;IPFV
 Generate the lemma and morphological tags for the following inflected verb: strabeviamo	strabevere V;SBJV;PRS;1;PL	strabere V;IND;PRS;1;PL
 Generate the lemma and morphological tags for the following inflected verb: stramazzerete	stramazzare V;IND;FUT;2;PL	stramazzare V;IND;FUT;2;PL
-Generate the lemma and morphological tags for the following inflected verb: straorzi	straorzare V;SBJV;PRS;3;SG	straorzare V;SBJV;PRS;2;SG
+Generate the lemma and morphological tags for the following inflected verb: straorzi	straorzare V;SBJV;PRS;1;SG	straorzare V;SBJV;PRS;2;SG
 Generate the lemma and morphological tags for the following inflected verb: stravedrai	stravedere V;IND;FUT;2;SG	stravedere V;IND;FUT;2;SG
-Generate the lemma and morphological tags for the following inflected verb: strigliassi	strigliare V;SBJV;PST;1;SG	strigliare V;SBJV;PST;1;SG
+Generate the lemma and morphological tags for the following inflected verb: strigliassi	strigliare V;SBJV;PST;2;SG	strigliare V;SBJV;PST;1;SG
 Generate the lemma and morphological tags for the following inflected verb: strusciate	strusciare V;SBJV;PRS;2;PL	strusciare V;IND;PRS;2;PL
 Generate the lemma and morphological tags for the following inflected verb: strusciavi	strusciare V;IND;PST;2;SG;IPFV	strusciare V;IND;PST;2;SG;IPFV
 Generate the lemma and morphological tags for the following inflected verb: struscerebbe	strusciare V;COND;3;SG	strusciare V;COND;3;SG
@@ -910,14 +910,14 @@ Generate the lemma and morphological tags for the following inflected verb: stup
 Generate the lemma and morphological tags for the following inflected verb: stuprarono	stuprare V;IND;PST;3;PL;PFV	stuprare V;IND;PST;3;PL;PFV
 Generate the lemma and morphological tags for the following inflected verb: stuzzicheremo	stuzzicare V;IND;FUT;1;PL	stuzzicare V;IND;FUT;1;PL
 Generate the lemma and morphological tags for the following inflected verb: stuzzica	stuzzicare V;POS;IMP;2;SG	stuzzicare V;IND;PRS;3;SG
-Generate the lemma and morphological tags for the following inflected verb: subodori	subodorare V;SBJV;PRS;3;SG	subodorare V;SBJV;PRS;1;SG
+Generate the lemma and morphological tags for the following inflected verb: subodori	subodorare V;SBJV;PRS;2;SG	subodorare V;SBJV;PRS;1;SG
 Generate the lemma and morphological tags for the following inflected verb: subodoravamo	subodorare V;IND;PST;1;PL;IPFV	subodorare V;IND;PST;1;PL;IPFV
 Generate the lemma and morphological tags for the following inflected verb: succiderebbero	succidere V;COND;3;PL	succidere V;COND;3;PL
 Generate the lemma and morphological tags for the following inflected verb: suddistinguerai	suddistinguere V;IND;FUT;2;SG	suddistinguere V;IND;FUT;2;SG
-Generate the lemma and morphological tags for the following inflected verb: suddistinguiate	suddistinguere V;SBJV;PRS;2;PL	suddistinguere V;SBJV;PRS;2;PL
+Generate the lemma and morphological tags for the following inflected verb: suddistinguiate	suddistinguire V;SBJV;PRS;2;PL	suddistinguere V;SBJV;PRS;2;PL
 Generate the lemma and morphological tags for the following inflected verb: si suicidarono	suicidarsi V;IND;PST;3;PL;PFV	suicidarsi V;IND;PST;3;PL;PFV
 Generate the lemma and morphological tags for the following inflected verb: suicidati	suicidarsi V;POS;IMP;2;SG	suicidarsi V;POS;IMP;2;SG
-Generate the lemma and morphological tags for the following inflected verb: ti suicideresti	suicidersi V;COND;2;SG	suicidarsi V;COND;2;SG
+Generate the lemma and morphological tags for the following inflected verb: ti suicideresti	suicidarsi V;COND;2;SG	suicidarsi V;COND;2;SG
 Generate the lemma and morphological tags for the following inflected verb: sumessi	sumere V;SBJV;PST;1;SG	sumere V;SBJV;PST;2;SG
 Generate the lemma and morphological tags for the following inflected verb: suonavamo	suonare V;IND;PST;1;PL;IPFV	suonare V;IND;PST;1;PL;IPFV
 Generate the lemma and morphological tags for the following inflected verb: suonavano	suonare V;IND;PST;3;PL;IPFV	suonare V;IND;PST;3;PL;IPFV
@@ -954,23 +954,23 @@ Generate the lemma and morphological tags for the following inflected verb: tras
 Generate the lemma and morphological tags for the following inflected verb: trasmigravamo	trasmigrare V;IND;PST;1;PL;IPFV	trasmigrare V;IND;PST;1;PL;IPFV
 Generate the lemma and morphological tags for the following inflected verb: trasvolgo	trasvolgere V;IND;PRS;1;SG	trasvolgere V;IND;PRS;1;SG
 Generate the lemma and morphological tags for the following inflected verb: trasvolgevano	trasvolgere V;IND;PST;3;PL;IPFV	trasvolgere V;IND;PST;3;PL;IPFV
-Generate the lemma and morphological tags for the following inflected verb: trasvolga	trasvolgere V;IND;PRS;3;SG	trasvolgere V;SBJV;PRS;2;SG
+Generate the lemma and morphological tags for the following inflected verb: trasvolga	trasvolgere V;SBJV;PRS;3;SG	trasvolgere V;SBJV;PRS;2;SG
 Generate the lemma and morphological tags for the following inflected verb: traverseranno	traversare V;IND;FUT;3;PL	traversare V;IND;FUT;3;PL
 Generate the lemma and morphological tags for the following inflected verb: tremeranno	tremare V;IND;FUT;3;PL	tremare V;IND;FUT;3;PL
 Generate the lemma and morphological tags for the following inflected verb: trepidate	trepidare V;POS;IMP;2;PL	trepidare V;POS;IMP;2;PL
 Generate the lemma and morphological tags for the following inflected verb: trepidai	trepidare V;IND;PST;1;SG;PFV	trepidare V;IND;PST;1;SG;PFV
 Generate the lemma and morphological tags for the following inflected verb: vi turaste	turarsi V;IND;PST;2;PL;PFV	turarsi V;IND;PST;2;PL;PFV
-Generate the lemma and morphological tags for the following inflected verb: ti turi	turarsi V;IND;PRS;2;SG	turarsi V;SBJV;PRS;2;SG
-Generate the lemma and morphological tags for the following inflected verb: uccellini	uccellinare V;SBJV;PRS;3;SG	uccellinare V;SBJV;PRS;1;SG
+Generate the lemma and morphological tags for the following inflected verb: ti turi	turarsi V;SBJV;PRS;2;SG	turarsi V;SBJV;PRS;2;SG
+Generate the lemma and morphological tags for the following inflected verb: uccellini	uccellinare V;SBJV;PRS;2;SG	uccellinare V;SBJV;PRS;1;SG
 Generate the lemma and morphological tags for the following inflected verb: uccellineresti	uccellinare V;COND;2;SG	uccellinare V;COND;2;SG
 Generate the lemma and morphological tags for the following inflected verb: si uccide	uccidersi V;IND;PRS;3;SG	uccidersi V;IND;PRS;3;SG
-Generate the lemma and morphological tags for the following inflected verb: ci uccidiamo	uccidersi V;IND;PRS;1;PL	uccidersi V;SBJV;PRS;1;PL
+Generate the lemma and morphological tags for the following inflected verb: ci uccidiamo	uccidersi V;SBJV;PRS;1;PL	uccidersi V;SBJV;PRS;1;PL
 Generate the lemma and morphological tags for the following inflected verb: ti uccideresti	uccidersi V;COND;2;SG	uccidersi V;COND;2;SG
 Generate the lemma and morphological tags for the following inflected verb: ufficializzasse	ufficializzare V;SBJV;PST;3;SG	ufficializzare V;SBJV;PST;3;SG
 Generate the lemma and morphological tags for the following inflected verb: ci umaneremmo	umanarsi V;COND;1;PL	umanarsi V;COND;1;PL
 Generate the lemma and morphological tags for the following inflected verb: unisce	unire V;IND;PRS;3;SG	unire V;IND;PRS;3;SG
 Generate the lemma and morphological tags for the following inflected verb: unireste	unire V;COND;2;PL	unire V;COND;2;PL
-Generate the lemma and morphological tags for the following inflected verb: unendo	unire V.CVB;PRS	unire V.CVB;PRS
+Generate the lemma and morphological tags for the following inflected verb: unendo	unere V.CVB;PRS	unire V.CVB;PRS
 Generate the lemma and morphological tags for the following inflected verb: urgenziate	urgenziare V;SBJV;PRS;2;PL	urgenzare V;SBJV;PRS;2;PL
 Generate the lemma and morphological tags for the following inflected verb: urinerai	urinare V;IND;FUT;2;SG	urinare V;IND;FUT;2;SG
 Generate the lemma and morphological tags for the following inflected verb: urino	urare V;SBJV;PRS;3;PL	urinare V;IND;PRS;1;SG
@@ -989,24 +989,24 @@ Generate the lemma and morphological tags for the following inflected verb: vici
 Generate the lemma and morphological tags for the following inflected verb: vicinate	vicinare V;POS;IMP;2;PL	vicinare V;IND;PRS;2;PL
 Generate the lemma and morphological tags for the following inflected verb: vicitando	vicitare V.CVB;PRS	vicitare V.CVB;PRS
 Generate the lemma and morphological tags for the following inflected verb: viciteremmo	vicitare V;COND;1;PL	vicitare V;COND;1;PL
-Generate the lemma and morphological tags for the following inflected verb: vicita	vicitare V;IND;PRS;3;SG	vicitare V;IND;PRS;3;SG
+Generate the lemma and morphological tags for the following inflected verb: vicita	vicitare V;POS;IMP;2;SG	vicitare V;IND;PRS;3;SG
 Generate the lemma and morphological tags for the following inflected verb: viciti	vicitare V;SBJV;PRS;2;SG	vicitare V;IND;PRS;2;SG
 Generate the lemma and morphological tags for the following inflected verb: vietasti	vietare V;IND;PST;2;SG;PFV	vietare V;IND;PST;2;SG;PFV
-Generate the lemma and morphological tags for the following inflected verb: volassi	volare V;SBJV;PST;1;SG	volare V;SBJV;PST;2;SG
+Generate the lemma and morphological tags for the following inflected verb: volassi	volare V;SBJV;PST;2;SG	volare V;SBJV;PST;2;SG
 Generate the lemma and morphological tags for the following inflected verb: volano	volare V;IND;PRS;3;PL	volare V;IND;PRS;3;PL
 Generate the lemma and morphological tags for the following inflected verb: volato	volare V.PTCP;PST	volare V.PTCP;PST
 Generate the lemma and morphological tags for the following inflected verb: zigrinerete	zigrinare V;IND;FUT;2;PL	zigrinare V;IND;FUT;2;PL
-Generate the lemma and morphological tags for the following inflected verb: zinnate	zinnare V;IND;PRS;2;PL	zinnare V;POS;IMP;2;PL
+Generate the lemma and morphological tags for the following inflected verb: zinnate	zinnare V;POS;IMP;2;PL	zinnare V;POS;IMP;2;PL
 Generate the lemma and morphological tags for the following inflected verb: zoppano	zoppare V;IND;PRS;3;PL	zoppare V;IND;PRS;3;PL
 
 Inverse Task Evaluation (Lemma/MSD):
-  Lemma accuracy: 0.9490 (949/1000)
-  Lemma mean Levenshtein distance: 0.0960
-  MSD accuracy (exact set match): 0.7720 (772/1000)
-  MSD micro-precision: 0.9294  micro-recall: 0.9239  micro-F1: 0.9267
+  Lemma accuracy: 0.9450 (945/1000)
+  Lemma mean Levenshtein distance: 0.0990
+  MSD accuracy (exact set match): 0.7890 (789/1000)
+  MSD micro-precision: 0.9327  micro-recall: 0.9268  micro-F1: 0.9297
   Example Mismatches (prediction | gold):
     abballinare V;SBJV;PRS;2;SG | abballinare V;POS;IMP;3;SG
-    accaprettare V;IND;PST;2;SG;IPF | accaprettare V;IND;PST;2;SG;IPFV
+    accantonare V;POS;IMP;2;SG | accantonare V;IND;PRS;3;SG
+    accaprettare V;SBJV;PST;2;SG | accaprettare V;SBJV;PST;1;SG
     accattivare V;SBJV;PST;2;PL | accattivare V;IND;PST;2;PL;PFV
-    accestare V;IND;PRS;3;SG | accestire V;SBJV;PRS;3;SG
-    accorpare V;SBJV;PRS;2;SG | accorpare V;SBJV;PRS;1;SG
+    accestare V;POS;IMP;2;SG | accestire V;SBJV;PRS;3;SG

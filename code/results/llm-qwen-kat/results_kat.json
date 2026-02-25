@@ -1,0 +1,25 @@
+{
+  "model_type": "llm",
+  "model_name": "qwen/qwen3-8b",
+  "language": "kat",
+  "metrics": {
+    "test": {
+      "lemma": {
+        "accuracy": 0.04048582995951417,
+        "mean_levenshtein": 17.819163292847502,
+        "correct": 30,
+        "total": 741
+      },
+      "msd": {
+        "accuracy": 0.10796221322537113,
+        "f1": 0.4362585771036475,
+        "precision": 0.7890267798824298,
+        "recall": 0.30147242325929624,
+        "correct": 80,
+        "total": 741
+      }
+    }
+  },
+  "timestamp": "2026-02-22T17:03:53.242780",
+  "test_examples": 741
+}

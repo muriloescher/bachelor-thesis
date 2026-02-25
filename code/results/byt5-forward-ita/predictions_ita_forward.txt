@@ -1001,6 +1001,7 @@ Generate the inflected form for: zoppare V;IND;PRS;3;PL	zoppano	zoppano
 
 Forward Task Evaluation:
   Accuracy: 0.9580 (958/1000)
+  Mean Levenshtein distance: 0.0910
   Example Mismatches (prediction | gold):
     accestisca | accesta
     appaiiamo | appaiamo

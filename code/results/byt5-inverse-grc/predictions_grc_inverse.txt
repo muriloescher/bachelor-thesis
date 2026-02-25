@@ -1,4 +1,4 @@
-Generate the lemma and morphological tags for the following inflected verb: Βακτριᾱνοί	Βάκτριανός N;VOC;PL	Βακτριανός N;VOC;PL
+Generate the lemma and morphological tags for the following inflected verb: Βακτριᾱνοί	Βακτριανός N;VOC;PL	Βακτριανός N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῖν Βακτριᾱνοῖν	Βάκτριανός N;GEN;DU	Βακτριανός N;GEN;DU
 Generate the lemma and morphological tags for the following inflected verb: τοῖν Βακτριᾱνοῖν	Βάκτριανός N;GEN;DU	Βακτριανός N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: Βακτριᾱνώ	Βάκτριανός N;VOC;DU	Βακτριανός N;VOC;DU
@@ -7,7 +7,7 @@ Generate the lemma and morphological tags for the following inflected verb: ο�
 Generate the lemma and morphological tags for the following inflected verb: ὁ Βακτριᾱνός	Βάκτριανός N;NOM;SG	Βακτριανός N;NOM;SG
 Generate the lemma and morphological tags for the following inflected verb: τὼ Βακτριᾱνώ	Βάκτριανός N;ACC;DU	Βακτριανός N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: τῶν Βακτριᾱνῶν	Βάκτριανός N;GEN;PL	Βακτριανός N;GEN;PL
-Generate the lemma and morphological tags for the following inflected verb: Βακτριᾱνέ	Βάκτριανός N;VOC;SG	Βακτριανός N;VOC;SG
+Generate the lemma and morphological tags for the following inflected verb: Βακτριᾱνέ	Βακτριανός N;VOC;SG	Βακτριανός N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: τοῖς Βακτριᾱνοῖς	Βάκτριανός N;DAT;PL	Βακτριανός N;DAT;PL
 Generate the lemma and morphological tags for the following inflected verb: τῷ Βακτριᾱνῷ	Βάκτριανός N;DAT;SG	Βακτριανός N;DAT;SG
 Generate the lemma and morphological tags for the following inflected verb: τὸν Βακτριᾱνόν	Βάκτριανός N;ACC;SG	Βακτριανός N;ACC;SG
@@ -20,16 +20,16 @@ Generate the lemma and morphological tags for the following inflected verb: το
 Generate the lemma and morphological tags for the following inflected verb: Γέτᾱ	Γέτης N;VOC;DU	Γέτης N;VOC;DU
 Generate the lemma and morphological tags for the following inflected verb: τοῦ Γέτου	Γέτης N;GEN;SG	Γέτης N;GEN;SG
 Generate the lemma and morphological tags for the following inflected verb: τοῖς Γέταις	Γέτης N;DAT;PL	Γέτης N;DAT;PL
-Generate the lemma and morphological tags for the following inflected verb: τὼ Γέτᾱ	Γέτης N;NOM;DU	Γέτης N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ Γέτᾱ	Γέτης N;ACC;DU	Γέτης N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: τοῖν Γέταιν	Γέτης N;GEN;DU	Γέτης N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: Γέτᾰ	Γέτης N;VOC;SG	Γέτης N;VOC;SG
-Generate the lemma and morphological tags for the following inflected verb: τῶν Γετῶν	Γέτης N;GEN;PL	Γέτης N;GEN;PL
-Generate the lemma and morphological tags for the following inflected verb: τὼ Γέτᾱ	Γέτης N;NOM;DU	Γέτης N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: τῶν Γετῶν	Γετός N;GEN;PL	Γέτης N;GEN;PL
+Generate the lemma and morphological tags for the following inflected verb: τὼ Γέτᾱ	Γέτης N;ACC;DU	Γέτης N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: τὸν Γέτην	Γέτης N;ACC;SG	Γέτης N;ACC;SG
 Generate the lemma and morphological tags for the following inflected verb: τοὺς Γέτᾱς	Γέτης N;ACC;PL	Γέτης N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: Θαψᾰκηνέ	Θαψακηνός N;VOC;SG	Θαψακηνός N;VOC;SG
-Generate the lemma and morphological tags for the following inflected verb: τὼ Θαψᾰκηνώ	Θαψακηνός N;NOM;DU	Θαψακηνός N;NOM;DU
-Generate the lemma and morphological tags for the following inflected verb: τὼ Θαψᾰκηνώ	Θαψακηνός N;NOM;DU	Θαψακηνός N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ Θαψᾰκηνώ	Θαψακηνός N;ACC;DU	Θαψακηνός N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ Θαψᾰκηνώ	Θαψακηνός N;ACC;DU	Θαψακηνός N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: τοῦ Θαψᾰκηνοῦ	Θαψακηνός N;GEN;SG	Θαψακηνός N;GEN;SG
 Generate the lemma and morphological tags for the following inflected verb: τοῖν Θαψᾰκηνοῖν	Θαψακηνός N;GEN;DU	Θαψακηνός N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: τὸν Θαψᾰκηνόν	Θαψακηνός N;ACC;SG	Θαψακηνός N;ACC;SG
@@ -44,35 +44,35 @@ Generate the lemma and morphological tags for the following inflected verb: Θα
 Generate the lemma and morphological tags for the following inflected verb: τοὺς Θαψᾰκηνούς	Θαψακηνός N;ACC;PL	Θαψακηνός N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: Λίγῠ	Λίγυς N;VOC;SG	Λίγυς N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: ὁ Λίγῠς	Λίγυς N;NOM;SG	Λίγυς N;NOM;SG
-Generate the lemma and morphological tags for the following inflected verb: τοῖν Λῐγῠ́οιν	Λίγυς N;GEN;DU	Λίγυς N;DAT;DU
-Generate the lemma and morphological tags for the following inflected verb: τὼ Λίγῠε	Λίγυς N;NOM;DU	Λίγυς N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: τοῖν Λῐγῠ́οιν	Λιγύς N;GEN;DU	Λίγυς N;DAT;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ Λίγῠε	Λίγυς N;ACC;DU	Λίγυς N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: τὸν Λίγῠν	Λίγυς N;ACC;SG	Λίγυς N;ACC;SG
 Generate the lemma and morphological tags for the following inflected verb: Λίγῠε	Λίγυς N;VOC;DU	Λίγυς N;VOC;DU
 Generate the lemma and morphological tags for the following inflected verb: Λίγῠες	Λίγυς N;VOC;PL	Λίγυς N;VOC;PL
-Generate the lemma and morphological tags for the following inflected verb: τὼ Λίγῠε	Λίγυς N;NOM;DU	Λίγυς N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ Λίγῠε	Λίγυς N;ACC;DU	Λίγυς N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: τοὺς Λίγῡς	Λίγυς N;ACC;PL	Λίγυς N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: τῷ Λίγῠϊ	Λίγυς N;DAT;SG	Λίγυς N;DAT;SG
 Generate the lemma and morphological tags for the following inflected verb: τῶν Λῐγῠ́ων	Λίγυς N;GEN;PL	Λίγυς N;GEN;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῦ Λίγῠος	Λίγυς N;GEN;SG	Λίγυς N;GEN;SG
-Generate the lemma and morphological tags for the following inflected verb: τοῖν Λῐγῠ́οιν	Λίγυς N;GEN;DU	Λίγυς N;GEN;DU
+Generate the lemma and morphological tags for the following inflected verb: τοῖν Λῐγῠ́οιν	Λιγύς N;GEN;DU	Λίγυς N;GEN;DU
 Generate the lemma and morphological tags for the following inflected verb: τοῖς Λίγῠσῐ(ν)	Λίγυς N;DAT;PL	Λίγυς N;DAT;PL
 Generate the lemma and morphological tags for the following inflected verb: οἱ Λίγῠες	Λίγυς N;NOM;PL	Λίγυς N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: τὸν Μᾰ́γον	Μάγος N;ACC;SG	Μάγος N;ACC;SG
-Generate the lemma and morphological tags for the following inflected verb: τὼ Μᾰ́γω	Μάγος N;NOM;DU	Μάγος N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ Μᾰ́γω	Μάγος N;ACC;DU	Μάγος N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: τοῖν Μᾰ́γοιν	Μάγος N;GEN;DU	Μάγος N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: Μᾰ́γω	Μάγος N;VOC;DU	Μάγος N;VOC;DU
 Generate the lemma and morphological tags for the following inflected verb: τοῦ Μᾰ́γου	Μάγος N;GEN;SG	Μάγος N;GEN;SG
 Generate the lemma and morphological tags for the following inflected verb: τοὺς Μᾰ́γους	Μάγος N;ACC;PL	Μάγος N;ACC;PL
-Generate the lemma and morphological tags for the following inflected verb: τὼ Μᾰ́γω	Μάγος N;NOM;DU	Μάγος N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ Μᾰ́γω	Μάγος N;ACC;DU	Μάγος N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: ὁ Μᾰ́γος	Μάγος N;NOM;SG	Μάγος N;NOM;SG
 Generate the lemma and morphological tags for the following inflected verb: τῷ Μᾰ́γῳ	Μάγος N;DAT;SG	Μάγος N;DAT;SG
-Generate the lemma and morphological tags for the following inflected verb: Μᾰ́γε	Μάγος N;VOC;DU	Μάγος N;VOC;SG
+Generate the lemma and morphological tags for the following inflected verb: Μᾰ́γε	Μάγος N;VOC;SG	Μάγος N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: τοῖς Μᾰ́γοις	Μάγος N;DAT;PL	Μάγος N;DAT;PL
 Generate the lemma and morphological tags for the following inflected verb: Μᾰ́γοι	Μάγος N;VOC;PL	Μάγος N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: οἱ Μᾰ́γοι	Μάγος N;NOM;PL	Μάγος N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῖν Μᾰ́γοιν	Μάγος N;GEN;DU	Μάγος N;GEN;DU
 Generate the lemma and morphological tags for the following inflected verb: τῶν Μᾰ́γων	Μάγος N;GEN;PL	Μάγος N;GEN;PL
-Generate the lemma and morphological tags for the following inflected verb: Μεγᾰλοπολῖτᾰ	Μεγαλοπολίτης N;VOC;	Μεγαλοπολίτης N;VOC;SG
+Generate the lemma and morphological tags for the following inflected verb: Μεγᾰλοπολῖτᾰ	Μεγαλοπολίτης N;VOC;SG	Μεγαλοπολίτης N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: ὁ Μεγᾰλοπολῑ́της	Μεγαλοπολίτης N;NOM;SG	Μεγαλοπολίτης N;NOM;SG
 Generate the lemma and morphological tags for the following inflected verb: τοῦ Μεγᾰλοπολῑ́του	Μεγαλοπολίτης N;GEN;SG	Μεγαλοπολίτης N;GEN;SG
 Generate the lemma and morphological tags for the following inflected verb: τοῖν Μεγᾰλοπολῑ́ταιν	Μεγαλοπολίτης N;GEN;DU	Μεγαλοπολίτης N;DAT;DU
@@ -82,70 +82,70 @@ Generate the lemma and morphological tags for the following inflected verb: Με
 Generate the lemma and morphological tags for the following inflected verb: οἱ Μεγᾰλοπολῖται	Μεγαλοπολίτης N;NOM;PL	Μεγαλοπολίτης N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: Μεγᾰλοπολῖται	Μεγαλοπολίτης N;VOC;PL	Μεγαλοπολίτης N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῖς Μεγᾰλοπολῑ́ταις	Μεγαλοπολίτης N;DAT;PL	Μεγαλοπολίτης N;DAT;PL
-Generate the lemma and morphological tags for the following inflected verb: τὼ Μεγᾰλοπολῑ́τᾱ	Μεγαλοπολίτης N;NOM;DU	Μεγαλοπολίτης N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ Μεγᾰλοπολῑ́τᾱ	Μεγαλοπολίτης N;ACC;DU	Μεγαλοπολίτης N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: τοῖν Μεγᾰλοπολῑ́ταιν	Μεγαλοπολίτης N;GEN;DU	Μεγαλοπολίτης N;GEN;DU
 Generate the lemma and morphological tags for the following inflected verb: τῶν Μεγᾰλοπολῑτῶν	Μεγαλοπολίτης N;GEN;PL	Μεγαλοπολίτης N;GEN;PL
-Generate the lemma and morphological tags for the following inflected verb: τὼ Μεγᾰλοπολῑ́τᾱ	Μεγαλοπολίτης N;NOM;DU	Μεγαλοπολίτης N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ Μεγᾰλοπολῑ́τᾱ	Μεγαλοπολίτης N;ACC;DU	Μεγαλοπολίτης N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: τοὺς Μεγᾰλοπολῑ́τᾱς	Μεγαλοπολίτης N;ACC;PL	Μεγαλοπολίτης N;ACC;PL
-Generate the lemma and morphological tags for the following inflected verb: τῶν Μεσσαπίων	Μέσσαπιος N;GEN;PL	Μεσσάπιος N;GEN;PL
+Generate the lemma and morphological tags for the following inflected verb: τῶν Μεσσαπίων	Μεσσάπιον N;GEN;PL	Μεσσάπιος N;GEN;PL
 Generate the lemma and morphological tags for the following inflected verb: τὼ Μεσσαπίω	Μεσσαπίος N;ACC;DU	Μεσσάπιος N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: τὸν Μεσσάπιον	Μεσσάπιος N;ACC;SG	Μεσσάπιος N;ACC;SG
 Generate the lemma and morphological tags for the following inflected verb: οἱ Μεσσάπιοι	Μεσσάπιος N;NOM;PL	Μεσσάπιος N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: ὁ Μεσσάπιος	Μεσσάπιος N;NOM;SG	Μεσσάπιος N;NOM;SG
 Generate the lemma and morphological tags for the following inflected verb: τοὺς Μεσσαπίους	Μεσσαπίος N;ACC;PL	Μεσσάπιος N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: τὼ Μεσσαπίω	Μεσσαπίος N;ACC;DU	Μεσσάπιος N;ACC;DU
-Generate the lemma and morphological tags for the following inflected verb: τοῖν Μεσσαπίοιν	Μεσσαπίος N;GEN;DU	Μεσσάπιος N;DAT;DU
-Generate the lemma and morphological tags for the following inflected verb: τοῖν Μεσσαπίοιν	Μεσσαπίος N;GEN;DU	Μεσσάπιος N;GEN;DU
+Generate the lemma and morphological tags for the following inflected verb: τοῖν Μεσσαπίοιν	Μεσσαπίον N;GEN;DU	Μεσσάπιος N;DAT;DU
+Generate the lemma and morphological tags for the following inflected verb: τοῖν Μεσσαπίοιν	Μεσσαπίον N;GEN;DU	Μεσσάπιος N;GEN;DU
 Generate the lemma and morphological tags for the following inflected verb: Μεσσάπιε	Μεσσάπιος N;VOC;SG	Μεσσάπιος N;VOC;SG
-Generate the lemma and morphological tags for the following inflected verb: τοῖς Μεσσαπίοις	Μεσσαπίος N;DAT;PL	Μεσσάπιος N;DAT;PL
-Generate the lemma and morphological tags for the following inflected verb: τοῦ Μεσσαπίου	Μεσσαπίος N;GEN;SG	Μεσσάπιος N;GEN;SG
+Generate the lemma and morphological tags for the following inflected verb: τοῖς Μεσσαπίοις	Μεσσαπίον N;DAT;PL	Μεσσάπιος N;DAT;PL
+Generate the lemma and morphological tags for the following inflected verb: τοῦ Μεσσαπίου	Μεσσαπίον N;GEN;SG	Μεσσάπιος N;GEN;SG
 Generate the lemma and morphological tags for the following inflected verb: τῷ Μεσσαπίῳ	Μεσσαπίος N;DAT;SG	Μεσσάπιος N;DAT;SG
-Generate the lemma and morphological tags for the following inflected verb: Μεσσαπίω	Μεσσάπιον N;VOC;DU	Μεσσάπιος N;VOC;DU
+Generate the lemma and morphological tags for the following inflected verb: Μεσσαπίω	Μεσσαπίον N;VOC;DU	Μεσσάπιος N;VOC;DU
 Generate the lemma and morphological tags for the following inflected verb: Μεσσάπιοι	Μεσσάπιος N;VOC;PL	Μεσσάπιος N;VOC;PL
-Generate the lemma and morphological tags for the following inflected verb: τοῖν Μηλῐοῖν	Μηλίος N;GEN;DU	Μηλιεύς N;GEN;DU
-Generate the lemma and morphological tags for the following inflected verb: τὸν Μηλῐᾶ	Μηλιά N;ACC;SG	Μηλιεύς N;ACC;SG
+Generate the lemma and morphological tags for the following inflected verb: τοῖν Μηλῐοῖν	Μηλιός N;GEN;DU	Μηλιεύς N;GEN;DU
+Generate the lemma and morphological tags for the following inflected verb: τὸν Μηλῐᾶ	Μηλιός N;ACC;SG	Μηλιεύς N;ACC;SG
 Generate the lemma and morphological tags for the following inflected verb: ὁ Μηλῐεύς	Μηλιεύς N;NOM;SG	Μηλιεύς N;NOM;SG
-Generate the lemma and morphological tags for the following inflected verb: τὼ Μηλῐῆ	Μηλιεύς N;NOM;DU	Μηλιεύς N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ Μηλῐῆ	Μηλιεύς N;ACC;DU	Μηλιεύς N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: τῶν Μηλῐῶν	Μηλία N;GEN;PL	Μηλιεύς N;GEN;PL
 Generate the lemma and morphological tags for the following inflected verb: Μηλῐεῖς	Μηλιεύς N;DAT;PL	Μηλιεύς N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: τοὺς Μηλῐεῖς	Μηλιεύς N;ACC;PL	Μηλιεύς N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῦ Μηλῐῶς	Μηλία N;GEN;SG	Μηλιεύς N;GEN;SG
-Generate the lemma and morphological tags for the following inflected verb: τὼ Μηλῐῆ	Μηλιεύς N;NOM;DU	Μηλιεύς N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ Μηλῐῆ	Μηλιεύς N;ACC;DU	Μηλιεύς N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: Μηλῐεῦ	Μηλιεύς N;VOC;SG	Μηλιεύς N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: τῷ Μηλῐεῖ	Μηλιεύς N;DAT;SG	Μηλιεύς N;DAT;SG
 Generate the lemma and morphological tags for the following inflected verb: οἱ Μηλῐεῖς	Μηλιεύς N;NOM;PL	Μηλιεύς N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῖς Μηλῐεῦσῐ	Μηλιεύς N;DAT;PL	Μηλιεύς N;DAT;PL
-Generate the lemma and morphological tags for the following inflected verb: Μηλῐῆ	Μηλιεύς N;VOC;SG	Μηλιεύς N;VOC;DU
-Generate the lemma and morphological tags for the following inflected verb: τοῖν Μηλῐοῖν	Μηλίος N;GEN;DU	Μηλιεύς N;DAT;DU
+Generate the lemma and morphological tags for the following inflected verb: Μηλῐῆ	Μηλιεύς N;VOC;DU	Μηλιεύς N;VOC;DU
+Generate the lemma and morphological tags for the following inflected verb: τοῖν Μηλῐοῖν	Μηλιός N;GEN;DU	Μηλιεύς N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: αἱ Σπαρτιάτῐδες	Σπαρτιάτις N;NOM;PL	Σπαρτιᾶτις N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: τὰς Σπαρτιάτῐδᾰς	Σπαρτιάτις N;ACC;PL	Σπαρτιᾶτις N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: Σπαρτιάτῐδε	Σπαρτιάτις N;VOC;DU	Σπαρτιᾶτις N;VOC;DU
-Generate the lemma and morphological tags for the following inflected verb: τοῖν Σπαρτιᾱτίδοιν	Σπαρτιατίς N;DAT;DU	Σπαρτιᾶτις N;GEN;DU
-Generate the lemma and morphological tags for the following inflected verb: τὼ Σπαρτιάτῐδε	Σπαρτιάτις N;NOM;DU	Σπαρτιᾶτις N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: τοῖν Σπαρτιᾱτίδοιν	Σπαρτιατίς N;GEN;DU	Σπαρτιᾶτις N;GEN;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ Σπαρτιάτῐδε	Σπαρτιάτις N;ACC;DU	Σπαρτιᾶτις N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: ἡ Σπαρτιᾶτῐς	Σπαρτιάτις N;NOM;SG	Σπαρτιᾶτις N;NOM;SG
 Generate the lemma and morphological tags for the following inflected verb: τῶν Σπαρτιᾱτίδων	Σπαρτιατίς N;GEN;PL	Σπαρτιᾶτις N;GEN;PL
-Generate the lemma and morphological tags for the following inflected verb: τὼ Σπαρτιάτῐδε	Σπαρτιάτις N;NOM;DU	Σπαρτιᾶτις N;ACC;DU
-Generate the lemma and morphological tags for the following inflected verb: τοῖν Σπαρτιᾱτίδοιν	Σπαρτιατίς N;DAT;DU	Σπαρτιᾶτις N;DAT;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ Σπαρτιάτῐδε	Σπαρτιάτις N;ACC;DU	Σπαρτιᾶτις N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: τοῖν Σπαρτιᾱτίδοιν	Σπαρτιατίς N;GEN;DU	Σπαρτιᾶτις N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: τὴν Σπαρτιάτῐδᾰ	Σπαρτιάτις N;ACC;SG	Σπαρτιᾶτις N;ACC;SG
 Generate the lemma and morphological tags for the following inflected verb: Σπαρτιᾶτῐ	Σπαρτιάτης N;DAT;SG	Σπαρτιᾶτις N;VOC;SG
-Generate the lemma and morphological tags for the following inflected verb: ταῖς Σπαρτιάτῐσῐ(ν)	Σπαρτιάτις N;DAT;PL	Σπαρτιᾶτις N;DAT;PL
+Generate the lemma and morphological tags for the following inflected verb: ταῖς Σπαρτιάτῐσῐ(ν)	Σπαρτιάτης N;DAT;PL	Σπαρτιᾶτις N;DAT;PL
 Generate the lemma and morphological tags for the following inflected verb: τῆς Σπαρτιάτῐδος	Σπαρτιάτις N;GEN;SG	Σπαρτιᾶτις N;GEN;SG
 Generate the lemma and morphological tags for the following inflected verb: Σπαρτιάτῐδες	Σπαρτιάτις N;VOC;PL	Σπαρτιᾶτις N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: τῇ Σπαρτιάτῐδῐ	Σπαρτιάτις N;DAT;SG	Σπαρτιᾶτις N;DAT;SG
-Generate the lemma and morphological tags for the following inflected verb: τὼ βλήμᾰτε	βλῆμα N;NOM;DU	βλῆμα N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ βλήμᾰτε	βῆμα N;ACC;DU	βλῆμα N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: τῶν βλημᾰ́των	βλῆμα N;GEN;PL	βλῆμα N;GEN;PL
 Generate the lemma and morphological tags for the following inflected verb: βλῆμᾰ	βλῆμα N;VOC;SG	βλῆμα N;VOC;SG
-Generate the lemma and morphological tags for the following inflected verb: τοῖν βλημᾰ́τοιν	βῆμα N;GEN;DU	βλῆμα N;GEN;DU
+Generate the lemma and morphological tags for the following inflected verb: τοῖν βλημᾰ́τοιν	βλῆμα N;GEN;DU	βλῆμα N;GEN;DU
 Generate the lemma and morphological tags for the following inflected verb: τοῖς βλήμᾰσῐ	βῆμα N;DAT;PL	βλῆμα N;DAT;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῦ βλήμᾰτος	βῆμα N;GEN;SG	βλῆμα N;GEN;SG
-Generate the lemma and morphological tags for the following inflected verb: τοῖν βλημᾰ́τοιν	βῆμα N;GEN;DU	βλῆμα N;DAT;DU
+Generate the lemma and morphological tags for the following inflected verb: τοῖν βλημᾰ́τοιν	βλῆμα N;GEN;DU	βλῆμα N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: τὸ βλῆμᾰ	βλῆμα N;NOM;SG	βλῆμα N;ACC;SG
 Generate the lemma and morphological tags for the following inflected verb: βλήμᾰτᾰ	βλῆμα N;VOC;PL	βλῆμα N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: τᾰ̀ βλήμᾰτᾰ	βλῆμα N;ACC;PL	βλῆμα N;ACC;PL
-Generate the lemma and morphological tags for the following inflected verb: τὼ βλήμᾰτε	βλῆμα N;NOM;DU	βλῆμα N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ βλήμᾰτε	βῆμα N;ACC;DU	βλῆμα N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: τᾰ̀ βλήμᾰτᾰ	βλῆμα N;ACC;PL	βλῆμα N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: τὸ βλῆμᾰ	βλῆμα N;NOM;SG	βλῆμα N;NOM;SG
-Generate the lemma and morphological tags for the following inflected verb: βλήμᾰτε	βλῆμα N;VOC;DU	βλῆμα N;VOC;DU
+Generate the lemma and morphological tags for the following inflected verb: βλήμᾰτε	βῆμα N;VOC;DU	βλῆμα N;VOC;DU
 Generate the lemma and morphological tags for the following inflected verb: τῷ βλήμᾰτῐ	βῆμα N;DAT;SG	βλῆμα N;DAT;SG
 Generate the lemma and morphological tags for the following inflected verb: τῇ βορᾷ	βορά N;DAT;SG	βορά N;DAT;SG
 Generate the lemma and morphological tags for the following inflected verb: τῶν βορῶν	βόρα N;GEN;PL	βορά N;GEN;PL
@@ -166,50 +166,50 @@ Generate the lemma and morphological tags for the following inflected verb: τα
 Generate the lemma and morphological tags for the following inflected verb: τοῖν βρονταῖν	βροντής N;GEN;DU	βροντή N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: τοῖν βρονταῖν	βροντής N;GEN;DU	βροντή N;GEN;DU
 Generate the lemma and morphological tags for the following inflected verb: ἡ βροντή	βροντής N;NOM;SG	βροντή N;NOM;SG
-Generate the lemma and morphological tags for the following inflected verb: βροντᾱ́	βροντής N;VOC;DU	βροντή N;VOC;DU
+Generate the lemma and morphological tags for the following inflected verb: βροντᾱ́	βρόντης N;VOC;DU	βροντή N;VOC;DU
 Generate the lemma and morphological tags for the following inflected verb: τῶν βροντῶν	βρόντης N;GEN;PL	βροντή N;GEN;PL
-Generate the lemma and morphological tags for the following inflected verb: τὼ βροντᾱ́	βροντής N;ACC;DU	βροντή N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ βροντᾱ́	βρόντης N;ACC;DU	βροντή N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: τῇ βροντῇ	βρόντης N;DAT;SG	βροντή N;DAT;SG
-Generate the lemma and morphological tags for the following inflected verb: τὰς βροντᾱ́ς	βροντής N;ACC;PL	βροντή N;ACC;PL
+Generate the lemma and morphological tags for the following inflected verb: τὰς βροντᾱ́ς	βρόντης N;ACC;PL	βροντή N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: βρονταί	βροντής N;VOC;PL	βροντή N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: αἱ βρονταί	βροντής N;NOM;PL	βροντή N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: τῆς βροντῆς	βρόντης N;GEN;SG	βροντή N;GEN;SG
 Generate the lemma and morphological tags for the following inflected verb: βροντή	βροντής N;VOC;SG	βροντή N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: τὴν βροντήν	βροντής N;ACC;SG	βροντή N;ACC;SG
-Generate the lemma and morphological tags for the following inflected verb: δικαιαδίκῳ	δικαιαδίκος N;DAT;SG	δικαιάδικος ADJ;DAT;SG;NEUT
-Generate the lemma and morphological tags for the following inflected verb: δικαιάδικον	δικαιάδικος ADJ;ACC;SG;	δικαιάδικος ADJ;VOC;SG;NEUT
-Generate the lemma and morphological tags for the following inflected verb: δικαιάδικε	δικαιάδικος ADJ;VOC;SG;	δικαιάδικος ADJ;VOC;SG
-Generate the lemma and morphological tags for the following inflected verb: δικαιαδίκου	δικαιαδίκος N;GEN;SG	δικαιάδικος ADJ;GEN;SG
-Generate the lemma and morphological tags for the following inflected verb: δικαιαδίκῳ	δικαιαδίκος N;DAT;SG	δικαιάδικος ADJ;DAT;SG
-Generate the lemma and morphological tags for the following inflected verb: δικαιάδικα	δικαιάδικος ADJ;VOC;PL;	δικαιάδικος ADJ;NOM;PL;NEUT
-Generate the lemma and morphological tags for the following inflected verb: δικαιάδικον	δικαιάδικος ADJ;ACC;SG;	δικαιάδικος ADJ;ACC;SG
+Generate the lemma and morphological tags for the following inflected verb: δικαιαδίκῳ	δικαιαδίκος ADJ;DAT;SG;NEUT	δικαιάδικος ADJ;DAT;SG;NEUT
+Generate the lemma and morphological tags for the following inflected verb: δικαιάδικον	δικαιάδικός ADJ;ACC;SG;NEUT	δικαιάδικος ADJ;VOC;SG;NEUT
+Generate the lemma and morphological tags for the following inflected verb: δικαιάδικε	δικαιάδιξ N;VOC;SG	δικαιάδικος ADJ;VOC;SG
+Generate the lemma and morphological tags for the following inflected verb: δικαιαδίκου	δικαιαδίκης N;GEN;SG	δικαιάδικος ADJ;GEN;SG
+Generate the lemma and morphological tags for the following inflected verb: δικαιαδίκῳ	δικαιαδίκος ADJ;DAT;SG;NEUT	δικαιάδικος ADJ;DAT;SG
+Generate the lemma and morphological tags for the following inflected verb: δικαιάδικα	δικαιάδικος ADJ;VOC;PL;NEUT	δικαιάδικος ADJ;NOM;PL;NEUT
+Generate the lemma and morphological tags for the following inflected verb: δικαιάδικον	δικαιάδικός ADJ;ACC;SG;NEUT	δικαιάδικος ADJ;ACC;SG
 Generate the lemma and morphological tags for the following inflected verb: δικαιαδίκω	δικαιαδίκος N;VOC;DU	δικαιάδικος ADJ;VOC;DU
 Generate the lemma and morphological tags for the following inflected verb: δικαιαδίκω	δικαιαδίκος N;VOC;DU	δικαιάδικος ADJ;ACC;DU;NEUT
-Generate the lemma and morphological tags for the following inflected verb: δικαιάδικα	δικαιάδικος ADJ;VOC;PL;	δικαιάδικος ADJ;ACC;PL;NEUT
+Generate the lemma and morphological tags for the following inflected verb: δικαιάδικα	δικαιάδικος ADJ;VOC;PL;NEUT	δικαιάδικος ADJ;ACC;PL;NEUT
 Generate the lemma and morphological tags for the following inflected verb: δικαιαδίκων	δικαιαδίκος N;GEN;PL	δικαιάδικος ADJ;GEN;PL
 Generate the lemma and morphological tags for the following inflected verb: δικαιαδίκω	δικαιαδίκος N;VOC;DU	δικαιάδικος ADJ;NOM;DU
-Generate the lemma and morphological tags for the following inflected verb: δικαιάδικος	δικαιάδικος ADJ;NOM;SG	δικαιάδικος ADJ;NOM;SG
-Generate the lemma and morphological tags for the following inflected verb: δικαιάδικον	δικαιάδικος ADJ;ACC;SG;	δικαιάδικος ADJ;ACC;SG;NEUT
-Generate the lemma and morphological tags for the following inflected verb: δικαιάδικα	δικαιάδικος ADJ;VOC;PL;	δικαιάδικος ADJ;VOC;PL;NEUT
-Generate the lemma and morphological tags for the following inflected verb: δικαιαδίκοιν	δικαιαδίκος N;DAT;DU	δικαιάδικος ADJ;GEN;DU;NEUT
-Generate the lemma and morphological tags for the following inflected verb: δικαιαδίκου	δικαιαδίκος N;GEN;SG	δικαιάδικος ADJ;GEN;SG;NEUT
-Generate the lemma and morphological tags for the following inflected verb: δικαιάδικοι	δικαιάδικος ADJ;NOM;PL;	δικαιάδικος ADJ;NOM;PL
-Generate the lemma and morphological tags for the following inflected verb: δικαιαδίκοιν	δικαιαδίκος N;DAT;DU	δικαιάδικος ADJ;DAT;DU;NEUT
+Generate the lemma and morphological tags for the following inflected verb: δικαιάδικος	δικαιάδιξ N;GEN;SG	δικαιάδικος ADJ;NOM;SG
+Generate the lemma and morphological tags for the following inflected verb: δικαιάδικον	δικαιάδικός ADJ;ACC;SG;NEUT	δικαιάδικος ADJ;ACC;SG;NEUT
+Generate the lemma and morphological tags for the following inflected verb: δικαιάδικα	δικαιάδικος ADJ;VOC;PL;NEUT	δικαιάδικος ADJ;VOC;PL;NEUT
+Generate the lemma and morphological tags for the following inflected verb: δικαιαδίκοιν	δικαιαδίκος N;GEN;DU	δικαιάδικος ADJ;GEN;DU;NEUT
+Generate the lemma and morphological tags for the following inflected verb: δικαιαδίκου	δικαιαδίκης N;GEN;SG	δικαιάδικος ADJ;GEN;SG;NEUT
+Generate the lemma and morphological tags for the following inflected verb: δικαιάδικοι	δικαιάδικος ADJ;VOC;PL	δικαιάδικος ADJ;NOM;PL
+Generate the lemma and morphological tags for the following inflected verb: δικαιαδίκοιν	δικαιαδίκος N;GEN;DU	δικαιάδικος ADJ;DAT;DU;NEUT
 Generate the lemma and morphological tags for the following inflected verb: δικαιαδίκω	δικαιαδίκος N;VOC;DU	δικαιάδικος ADJ;NOM;DU;NEUT
-Generate the lemma and morphological tags for the following inflected verb: δικαιάδικοι	δικαιάδικος ADJ;NOM;PL;	δικαιάδικος ADJ;VOC;PL
-Generate the lemma and morphological tags for the following inflected verb: δικαιαδίκοιν	δικαιαδίκος N;DAT;DU	δικαιάδικος ADJ;DAT;DU
+Generate the lemma and morphological tags for the following inflected verb: δικαιάδικοι	δικαιάδικος ADJ;VOC;PL	δικαιάδικος ADJ;VOC;PL
+Generate the lemma and morphological tags for the following inflected verb: δικαιαδίκοιν	δικαιαδίκος N;GEN;DU	δικαιάδικος ADJ;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: δικαιαδίκω	δικαιαδίκος N;VOC;DU	δικαιάδικος ADJ;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: δικαιαδίκω	δικαιαδίκος N;VOC;DU	δικαιάδικος ADJ;VOC;DU;NEUT
-Generate the lemma and morphological tags for the following inflected verb: δικαιάδικον	δικαιάδικος ADJ;ACC;SG;	δικαιάδικος ADJ;NOM;SG;NEUT
-Generate the lemma and morphological tags for the following inflected verb: δικαιαδίκοιν	δικαιαδίκος N;DAT;DU	δικαιάδικος ADJ;GEN;DU
+Generate the lemma and morphological tags for the following inflected verb: δικαιάδικον	δικαιάδικός ADJ;ACC;SG;NEUT	δικαιάδικος ADJ;NOM;SG;NEUT
+Generate the lemma and morphological tags for the following inflected verb: δικαιαδίκοιν	δικαιαδίκος N;GEN;DU	δικαιάδικος ADJ;GEN;DU
 Generate the lemma and morphological tags for the following inflected verb: δικαιαδίκοις	δικαιαδίκος N;DAT;PL	δικαιάδικος ADJ;DAT;PL
 Generate the lemma and morphological tags for the following inflected verb: δικαιαδίκοις	δικαιαδίκος N;DAT;PL	δικαιάδικος ADJ;DAT;PL;NEUT
 Generate the lemma and morphological tags for the following inflected verb: δικαιαδίκων	δικαιαδίκος N;GEN;PL	δικαιάδικος ADJ;GEN;PL;NEUT
-Generate the lemma and morphological tags for the following inflected verb: δικαιαδίκους	δικαιαδίκος N;ACC;PL	δικαιάδικος ADJ;ACC;PL
+Generate the lemma and morphological tags for the following inflected verb: δικαιαδίκους	δικαιαδίκος ADJ;ACC;PL	δικαιάδικος ADJ;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: τὴν εὐκῑνησῐ́ᾱν	εὐκινησία N;ACC;SG	εὐκινησία N;ACC;SG
-Generate the lemma and morphological tags for the following inflected verb: τὼ εὐκῑνησῐ́ᾱ	εὐκινησία N;NOM;DU	εὐκινησία N;NOM;DU
-Generate the lemma and morphological tags for the following inflected verb: εὐκῑνησῐ́ᾱ	εὐκινησία N;VOC;DU	εὐκινησία N;VOC;SG
-Generate the lemma and morphological tags for the following inflected verb: εὐκῑνησῐ́ᾱ	εὐκινησία N;VOC;DU	εὐκινησία N;VOC;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ εὐκῑνησῐ́ᾱ	εὐκινησία N;ACC;DU	εὐκινησία N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: εὐκῑνησῐ́ᾱ	εὐκινησία N;VOC;SG	εὐκινησία N;VOC;SG
+Generate the lemma and morphological tags for the following inflected verb: εὐκῑνησῐ́ᾱ	εὐκινησία N;VOC;SG	εὐκινησία N;VOC;DU
 Generate the lemma and morphological tags for the following inflected verb: τῇ εὐκῑνησῐ́ᾳ	εὐκινησία N;DAT;SG	εὐκινησία N;DAT;SG
 Generate the lemma and morphological tags for the following inflected verb: αἱ εὐκῑνησῐ́αι	εὐκινησία N;NOM;PL	εὐκινησία N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: τᾱ̀ς εὐκῑνησῐ́ᾱς	εὐκινησία N;ACC;PL	εὐκινησία N;ACC;PL
@@ -218,7 +218,7 @@ Generate the lemma and morphological tags for the following inflected verb: το
 Generate the lemma and morphological tags for the following inflected verb: τῆς εὐκῑνησῐ́ᾱς	εὐκινησία N;GEN;SG	εὐκινησία N;GEN;SG
 Generate the lemma and morphological tags for the following inflected verb: τοῖν εὐκῑνησῐ́αιν	εὐκινησία N;GEN;DU	εὐκινησία N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: τῶν εὐκῑνησῐῶν	εὐκινησία N;GEN;PL	εὐκινησία N;GEN;PL
-Generate the lemma and morphological tags for the following inflected verb: τὼ εὐκῑνησῐ́ᾱ	εὐκινησία N;NOM;DU	εὐκινησία N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ εὐκῑνησῐ́ᾱ	εὐκινησία N;ACC;DU	εὐκινησία N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: ἡ εὐκῑνησῐ́ᾱ	εὐκινησία N;NOM;SG	εὐκινησία N;NOM;SG
 Generate the lemma and morphological tags for the following inflected verb: ταῖς εὐκῑνησῐ́αις	εὐκινησία N;DAT;PL	εὐκινησία N;DAT;PL
 Generate the lemma and morphological tags for the following inflected verb: θῆραι	θήρη N;VOC;PL	θήρα N;VOC;PL
@@ -227,28 +227,28 @@ Generate the lemma and morphological tags for the following inflected verb: τ�
 Generate the lemma and morphological tags for the following inflected verb: τᾱ̀ς θήρᾱς	θήρα N;ACC;PL	θήρα N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: τῆς θήρᾱς	θήρα N;GEN;SG	θήρα N;GEN;SG
 Generate the lemma and morphological tags for the following inflected verb: θήρᾱ	θήρα N;VOC;DU	θήρα N;VOC;SG
-Generate the lemma and morphological tags for the following inflected verb: τὼ θήρᾱ	θήρα N;NOM;DU	θήρα N;NOM;DU
-Generate the lemma and morphological tags for the following inflected verb: αἱ θῆραι	θήρα N;NOM;PL	θήρα N;NOM;PL
-Generate the lemma and morphological tags for the following inflected verb: τοῖν θήραιν	θήρα N;GEN;DU	θήρα N;GEN;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ θήρᾱ	θήρα N;ACC;DU	θήρα N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: αἱ θῆραι	θήρη N;NOM;PL	θήρα N;NOM;PL
+Generate the lemma and morphological tags for the following inflected verb: τοῖν θήραιν	θήρη N;GEN;DU	θήρα N;GEN;DU
 Generate the lemma and morphological tags for the following inflected verb: θήρᾱ	θήρα N;VOC;DU	θήρα N;VOC;DU
-Generate the lemma and morphological tags for the following inflected verb: τοῖν θήραιν	θήρα N;GEN;DU	θήρα N;DAT;DU
+Generate the lemma and morphological tags for the following inflected verb: τοῖν θήραιν	θήρη N;GEN;DU	θήρα N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: τὴν θήρᾱν	θήρα N;ACC;SG	θήρα N;ACC;SG
 Generate the lemma and morphological tags for the following inflected verb: ἡ θήρᾱ	θήρα N;NOM;SG	θήρα N;NOM;SG
-Generate the lemma and morphological tags for the following inflected verb: ταῖς θήραις	θήρα N;DAT;PL	θήρα N;DAT;PL
-Generate the lemma and morphological tags for the following inflected verb: τὼ θήρᾱ	θήρα N;NOM;DU	θήρα N;ACC;DU
-Generate the lemma and morphological tags for the following inflected verb: τοὺς θερᾰ́ποντᾰς	θεράπων N;ACC;PL	θεράπων N;ACC;PL
+Generate the lemma and morphological tags for the following inflected verb: ταῖς θήραις	θήρη N;DAT;PL	θήρα N;DAT;PL
+Generate the lemma and morphological tags for the following inflected verb: τὼ θήρᾱ	θήρα N;ACC;DU	θήρα N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: τοὺς θερᾰ́ποντᾰς	θέραπων N;ACC;PL	θεράπων N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: θερᾰ́ποντε	θεράπων N;VOC;DU	θεράπων N;VOC;DU
 Generate the lemma and morphological tags for the following inflected verb: τῷ θερᾰ́ποντῐ	θεράπων N;DAT;SG	θεράπων N;DAT;SG
-Generate the lemma and morphological tags for the following inflected verb: τοῖς θερᾰ́πουσῐ	θέραπος N;DAT;PL	θεράπων N;DAT;PL
+Generate the lemma and morphological tags for the following inflected verb: τοῖς θερᾰ́πουσῐ	θέραπους N;DAT;PL	θεράπων N;DAT;PL
 Generate the lemma and morphological tags for the following inflected verb: οἱ θερᾰ́ποντες	θεράπων N;NOM;PL	θεράπων N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: ὁ θερᾰ́πων	θέραπος N;NOM;SG	θεράπων N;NOM;SG
-Generate the lemma and morphological tags for the following inflected verb: τὼ θερᾰ́ποντε	θεράπων N;ACC;DU	θεράπων N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ θερᾰ́ποντε	θέραπων N;ACC;DU	θεράπων N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: τῶν θερᾰπόντων	θέραπων N;GEN;PL	θεράπων N;GEN;PL
-Generate the lemma and morphological tags for the following inflected verb: τοῖν θερᾰπόντοιν	θέραπων N;GEN;DU	θεράπων N;DAT;DU
+Generate the lemma and morphological tags for the following inflected verb: τοῖν θερᾰπόντοιν	θεράπων N;GEN;DU	θεράπων N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: θερᾰ́πον	θεράπον N;VOC;SG	θεράπων N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: τὸν θερᾰ́ποντᾰ	θεράπων N;ACC;SG	θεράπων N;ACC;SG
-Generate the lemma and morphological tags for the following inflected verb: τοῖν θερᾰπόντοιν	θέραπων N;GEN;DU	θεράπων N;GEN;DU
-Generate the lemma and morphological tags for the following inflected verb: τὼ θερᾰ́ποντε	θεράπων N;ACC;DU	θεράπων N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: τοῖν θερᾰπόντοιν	θεράπων N;GEN;DU	θεράπων N;GEN;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ θερᾰ́ποντε	θέραπων N;ACC;DU	θεράπων N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: θερᾰ́ποντες	θεράπων N;VOC;PL	θεράπων N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῦ θερᾰ́ποντος	θέραπων N;GEN;SG	θεράπων N;GEN;SG
 Generate the lemma and morphological tags for the following inflected verb: τῶν θερᾰπευτῶν	θεραπευτής N;GEN;PL	θεραπευτής N;GEN;PL
@@ -267,18 +267,18 @@ Generate the lemma and morphological tags for the following inflected verb: τ�
 Generate the lemma and morphological tags for the following inflected verb: τοῖς θερᾰπευταῖς	θεραπευτής N;DAT;PL	θεραπευτής N;DAT;PL
 Generate the lemma and morphological tags for the following inflected verb: ὁ θερᾰπευτής	θεραπευτής N;NOM;SG	θεραπευτής N;NOM;SG
 Generate the lemma and morphological tags for the following inflected verb: τὼ θρόνω	θρόνος N;ACC;DU	θρόνος N;NOM;DU
-Generate the lemma and morphological tags for the following inflected verb: τοῖς θρόνοις	θρόνος N;DAT;PL	θρόνος N;DAT;PL
-Generate the lemma and morphological tags for the following inflected verb: θρόνε	θρόνος N;VOC;DU	θρόνος N;VOC;SG
+Generate the lemma and morphological tags for the following inflected verb: τοῖς θρόνοις	θρόν N;DAT;PL	θρόνος N;DAT;PL
+Generate the lemma and morphological tags for the following inflected verb: θρόνε	θρόν N;VOC;SG	θρόνος N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: θρόνω	θρόνος N;VOC;DU	θρόνος N;VOC;DU
-Generate the lemma and morphological tags for the following inflected verb: τοῦ θρόνου	θρόνος N;GEN;SG	θρόνος N;GEN;SG
+Generate the lemma and morphological tags for the following inflected verb: τοῦ θρόνου	θρόν N;GEN;SG	θρόνος N;GEN;SG
 Generate the lemma and morphological tags for the following inflected verb: τῷ θρόνῳ	θρόνος N;DAT;SG	θρόνος N;DAT;SG
 Generate the lemma and morphological tags for the following inflected verb: τὸν θρόνον	θρόνος N;ACC;SG	θρόνος N;ACC;SG
-Generate the lemma and morphological tags for the following inflected verb: τοῖν θρόνοιν	θρόνος N;GEN;DU	θρόνος N;DAT;DU
-Generate the lemma and morphological tags for the following inflected verb: τοῖν θρόνοιν	θρόνος N;GEN;DU	θρόνος N;GEN;DU
+Generate the lemma and morphological tags for the following inflected verb: τοῖν θρόνοιν	θρόν N;GEN;DU	θρόνος N;DAT;DU
+Generate the lemma and morphological tags for the following inflected verb: τοῖν θρόνοιν	θρόν N;GEN;DU	θρόνος N;GEN;DU
 Generate the lemma and morphological tags for the following inflected verb: οἱ θρόνοι	θρόνος N;NOM;PL	θρόνος N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: θρόνοι	θρόνος N;VOC;PL	θρόνος N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: τὼ θρόνω	θρόνος N;ACC;DU	θρόνος N;ACC;DU
-Generate the lemma and morphological tags for the following inflected verb: τῶν θρόνων	θρόνος N;GEN;PL	θρόνος N;GEN;PL
+Generate the lemma and morphological tags for the following inflected verb: τῶν θρόνων	θρόν N;GEN;PL	θρόνος N;GEN;PL
 Generate the lemma and morphological tags for the following inflected verb: ὁ θρόνος	θρόνος N;NOM;SG	θρόνος N;NOM;SG
 Generate the lemma and morphological tags for the following inflected verb: τοὺς θρόνους	θρόνος N;ACC;PL	θρόνος N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: τῷ θῠ́μῳ	θύμος N;DAT;SG	θύμος N;DAT;SG
@@ -287,30 +287,30 @@ Generate the lemma and morphological tags for the following inflected verb: το
 Generate the lemma and morphological tags for the following inflected verb: τοὺς θῠ́μους	θύμος N;ACC;PL	θύμος N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: οἱ θῠ́μοι	θύμος N;NOM;PL	θύμος N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: θῠ́μοι	θύμος N;VOC;PL	θύμος N;VOC;PL
-Generate the lemma and morphological tags for the following inflected verb: τὼ θῠ́μω	θύμος N;NOM;DU	θύμος N;ACC;DU
-Generate the lemma and morphological tags for the following inflected verb: θῠ́με	θύμος N;VOC;DU	θύμος N;VOC;SG
+Generate the lemma and morphological tags for the following inflected verb: τὼ θῠ́μω	θύμος N;ACC;DU	θύμος N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: θῠ́με	θύμος N;VOC;SG	θύμος N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: τοῖς θῠ́μοις	θύμος N;DAT;PL	θύμος N;DAT;PL
 Generate the lemma and morphological tags for the following inflected verb: θῠ́μω	θύμος N;VOC;DU	θύμος N;VOC;DU
 Generate the lemma and morphological tags for the following inflected verb: τοῦ θῠ́μου	θύμος N;GEN;SG	θύμος N;GEN;SG
 Generate the lemma and morphological tags for the following inflected verb: τῶν θῠ́μων	θύμος N;GEN;PL	θύμος N;GEN;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῖν θῠ́μοιν	θύμος N;GEN;DU	θύμος N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: τὸν θῠ́μον	θύμος N;ACC;SG	θύμος N;ACC;SG
-Generate the lemma and morphological tags for the following inflected verb: τὼ θῠ́μω	θύμος N;NOM;DU	θύμος N;NOM;DU
-Generate the lemma and morphological tags for the following inflected verb: αἱ κᾰ́και	κάκη N;NOM;PL	κάκη N;NOM;PL
-Generate the lemma and morphological tags for the following inflected verb: τῇ κᾰ́κῃ	κάκη N;DAT;SG	κάκη N;DAT;SG
+Generate the lemma and morphological tags for the following inflected verb: τὼ θῠ́μω	θύμος N;ACC;DU	θύμος N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: αἱ κᾰ́και	κάκης N;NOM;PL	κάκη N;NOM;PL
+Generate the lemma and morphological tags for the following inflected verb: τῇ κᾰ́κῃ	κάκης N;DAT;SG	κάκη N;DAT;SG
 Generate the lemma and morphological tags for the following inflected verb: ἡ κᾰ́κη	κάκης N;NOM;SG	κάκη N;NOM;SG
-Generate the lemma and morphological tags for the following inflected verb: κᾰ́κᾱ	κάκη N;VOC;DU	κάκη N;VOC;DU
-Generate the lemma and morphological tags for the following inflected verb: κᾰ́και	κάκη N;VOC;PL	κάκη N;VOC;PL
-Generate the lemma and morphological tags for the following inflected verb: τὴν κᾰ́κην	κάκη N;ACC;SG	κάκη N;ACC;SG
-Generate the lemma and morphological tags for the following inflected verb: τοῖν κᾰ́καιν	κάκη N;GEN;DU	κάκη N;GEN;DU
-Generate the lemma and morphological tags for the following inflected verb: τοῖν κᾰ́καιν	κάκη N;GEN;DU	κάκη N;DAT;DU
-Generate the lemma and morphological tags for the following inflected verb: τὼ κᾰ́κᾱ	κάκη N;NOM;DU	κάκη N;NOM;DU
-Generate the lemma and morphological tags for the following inflected verb: ταῖς κᾰ́καις	κάκη N;DAT;PL	κάκη N;DAT;PL
-Generate the lemma and morphological tags for the following inflected verb: κᾰ́κη	κάκη N;VOC;SG	κάκη N;VOC;SG
-Generate the lemma and morphological tags for the following inflected verb: τῆς κᾰ́κης	κάκη N;GEN;SG	κάκη N;GEN;SG
-Generate the lemma and morphological tags for the following inflected verb: τὼ κᾰ́κᾱ	κάκη N;NOM;DU	κάκη N;ACC;DU
-Generate the lemma and morphological tags for the following inflected verb: τῶν κᾰκῶν	κάκη N;GEN;PL	κάκη N;GEN;PL
-Generate the lemma and morphological tags for the following inflected verb: τᾱ̀ς κᾰ́κᾱς	κάκη N;ACC;PL	κάκη N;ACC;PL
+Generate the lemma and morphological tags for the following inflected verb: κᾰ́κᾱ	κάκης N;VOC;DU	κάκη N;VOC;DU
+Generate the lemma and morphological tags for the following inflected verb: κᾰ́και	κάκης N;VOC;PL	κάκη N;VOC;PL
+Generate the lemma and morphological tags for the following inflected verb: τὴν κᾰ́κην	κάκης N;ACC;SG	κάκη N;ACC;SG
+Generate the lemma and morphological tags for the following inflected verb: τοῖν κᾰ́καιν	κάκης N;GEN;DU	κάκη N;GEN;DU
+Generate the lemma and morphological tags for the following inflected verb: τοῖν κᾰ́καιν	κάκης N;GEN;DU	κάκη N;DAT;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ κᾰ́κᾱ	κάκη N;ACC;DU	κάκη N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: ταῖς κᾰ́καις	κάκης N;DAT;PL	κάκη N;DAT;PL
+Generate the lemma and morphological tags for the following inflected verb: κᾰ́κη	κάκης N;VOC;SG	κάκη N;VOC;SG
+Generate the lemma and morphological tags for the following inflected verb: τῆς κᾰ́κης	κάκης N;GEN;SG	κάκη N;GEN;SG
+Generate the lemma and morphological tags for the following inflected verb: τὼ κᾰ́κᾱ	κάκη N;ACC;DU	κάκη N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: τῶν κᾰκῶν	κακός N;GEN;PL	κάκη N;GEN;PL
+Generate the lemma and morphological tags for the following inflected verb: τᾱ̀ς κᾰ́κᾱς	κάκης N;ACC;PL	κάκη N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: κᾱ́ρᾰβε	κάραβος N;VOC;DU	κάραβος N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: τοῦ κᾱρᾰ́βου	κάραβος N;GEN;SG	κάραβος N;GEN;SG
 Generate the lemma and morphological tags for the following inflected verb: τοῖς κᾱρᾰ́βοις	κάραβος N;DAT;PL	κάραβος N;DAT;PL
@@ -328,7 +328,7 @@ Generate the lemma and morphological tags for the following inflected verb: κ�
 Generate the lemma and morphological tags for the following inflected verb: τὼ κᾱρᾰ́βω	κάραβος N;NOM;DU	κάραβος N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: καιροί	καιρός N;VOC;PL	καιρός N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: τοὺς καιρούς	καιρός N;ACC;PL	καιρός N;ACC;PL
-Generate the lemma and morphological tags for the following inflected verb: τῷ καιρῷ	καιρός N;DAT;SG	καιρός N;DAT;SG
+Generate the lemma and morphological tags for the following inflected verb: τῷ καιρῷ	καίρος N;DAT;SG	καιρός N;DAT;SG
 Generate the lemma and morphological tags for the following inflected verb: τοῖν καιροῖν	καιρός N;GEN;DU	καιρός N;GEN;DU
 Generate the lemma and morphological tags for the following inflected verb: τοῖν καιροῖν	καιρός N;GEN;DU	καιρός N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: τοῖς καιροῖς	καιρός N;DAT;PL	καιρός N;DAT;PL
@@ -337,12 +337,12 @@ Generate the lemma and morphological tags for the following inflected verb: τ�
 Generate the lemma and morphological tags for the following inflected verb: τοῦ καιροῦ	καιρός N;GEN;SG	καιρός N;GEN;SG
 Generate the lemma and morphological tags for the following inflected verb: τῶν καιρῶν	καίρα N;GEN;PL	καιρός N;GEN;PL
 Generate the lemma and morphological tags for the following inflected verb: ὁ καιρός	καιρός N;NOM;SG	καιρός N;NOM;SG
-Generate the lemma and morphological tags for the following inflected verb: τὼ καιρώ	καιρός N;ACC;DU	καιρός N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ καιρώ	καιρός N;NOM;DU	καιρός N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: καιρέ	καιρός N;VOC;SG	καιρός N;VOC;SG
-Generate the lemma and morphological tags for the following inflected verb: τὼ καιρώ	καιρός N;ACC;DU	καιρός N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ καιρώ	καιρός N;NOM;DU	καιρός N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: τοῖν κλῠστήροιν	κλύστηρ N;GEN;DU	κλυστήρ N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: ὁ κλῠστήρ	κλυστήρ N;NOM;SG	κλυστήρ N;NOM;SG
-Generate the lemma and morphological tags for the following inflected verb: τοῦ κλῠστῆρος	κλύστηρ N;GEN;SG	κλυστήρ N;GEN;SG
+Generate the lemma and morphological tags for the following inflected verb: τοῦ κλῠστῆρος	κλυστήρ N;GEN;SG	κλυστήρ N;GEN;SG
 Generate the lemma and morphological tags for the following inflected verb: τοῖν κλῠστήροιν	κλύστηρ N;GEN;DU	κλυστήρ N;GEN;DU
 Generate the lemma and morphological tags for the following inflected verb: τοὺς κλῠστῆρᾰς	κλυστήρ N;ACC;PL	κλυστήρ N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: κλῠστῆρες	κλυστήρ N;VOC;PL	κλυστήρ N;VOC;PL
@@ -355,19 +355,19 @@ Generate the lemma and morphological tags for the following inflected verb: τ�
 Generate the lemma and morphological tags for the following inflected verb: τὼ κλῠστῆρε	κλυστήρ N;NOM;DU	κλυστήρ N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: κλῠστῆρε	κλυστήρ N;VOC;DU	κλυστήρ N;VOC;DU
 Generate the lemma and morphological tags for the following inflected verb: τὸν κλῠστῆρᾰ	κλυστήρ N;ACC;SG	κλυστήρ N;ACC;SG
-Generate the lemma and morphological tags for the following inflected verb: τᾰ̀ κοιλώμᾰτᾰ	κοίλωμα N;ACC;PL	κοίλωμα N;ACC;PL
-Generate the lemma and morphological tags for the following inflected verb: τᾰ̀ κοιλώμᾰτᾰ	κοίλωμα N;ACC;PL	κοίλωμα N;NOM;PL
-Generate the lemma and morphological tags for the following inflected verb: κοίλωμᾰ	κοῖλωμα N;VOC;SG	κοίλωμα N;VOC;SG
+Generate the lemma and morphological tags for the following inflected verb: τᾰ̀ κοιλώμᾰτᾰ	κοιλώμα N;NOM;PL	κοίλωμα N;ACC;PL
+Generate the lemma and morphological tags for the following inflected verb: τᾰ̀ κοιλώμᾰτᾰ	κοιλώμα N;NOM;PL	κοίλωμα N;NOM;PL
+Generate the lemma and morphological tags for the following inflected verb: κοίλωμᾰ	κοίλωμα N;VOC;SG	κοίλωμα N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: τοῦ κοιλώμᾰτος	κόιλωμα N;GEN;SG	κοίλωμα N;GEN;SG
-Generate the lemma and morphological tags for the following inflected verb: κοιλώμᾰτε	κοίλωμα N;VOC;DU	κοίλωμα N;VOC;DU
-Generate the lemma and morphological tags for the following inflected verb: τὼ κοιλώμᾰτε	κοίλωμα N;NOM;DU	κοίλωμα N;NOM;DU
-Generate the lemma and morphological tags for the following inflected verb: κοιλώμᾰτᾰ	κοίλωμα N;VOC;PL	κοίλωμα N;VOC;PL
+Generate the lemma and morphological tags for the following inflected verb: κοιλώμᾰτε	κόιλωμα N;VOC;DU	κοίλωμα N;VOC;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ κοιλώμᾰτε	κόιλωμα N;ACC;DU	κοίλωμα N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: κοιλώμᾰτᾰ	κοιλώμα N;VOC;PL	κοίλωμα N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: τῷ κοιλώμᾰτῐ	κόιλωμα N;DAT;SG	κοίλωμα N;DAT;SG
-Generate the lemma and morphological tags for the following inflected verb: τοῖν κοιλωμᾰ́τοιν	κόιλωμα N;GEN;DU	κοίλωμα N;DAT;DU
-Generate the lemma and morphological tags for the following inflected verb: τοῖν κοιλωμᾰ́τοιν	κόιλωμα N;GEN;DU	κοίλωμα N;GEN;DU
-Generate the lemma and morphological tags for the following inflected verb: τὼ κοιλώμᾰτε	κοίλωμα N;NOM;DU	κοίλωμα N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: τοῖν κοιλωμᾰ́τοιν	κόλωμα N;GEN;DU	κοίλωμα N;DAT;DU
+Generate the lemma and morphological tags for the following inflected verb: τοῖν κοιλωμᾰ́τοιν	κόλωμα N;GEN;DU	κοίλωμα N;GEN;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ κοιλώμᾰτε	κόιλωμα N;ACC;DU	κοίλωμα N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: τὸ κοίλωμᾰ	κοίλωμα N;NOM;SG	κοίλωμα N;NOM;SG
-Generate the lemma and morphological tags for the following inflected verb: τῶν κοιλωμᾰ́των	κόιλωμα N;GEN;PL	κοίλωμα N;GEN;PL
+Generate the lemma and morphological tags for the following inflected verb: τῶν κοιλωμᾰ́των	κόλωμα N;GEN;PL	κοίλωμα N;GEN;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῖς κοιλώμᾰσῐ	κόιλωμα N;DAT;PL	κοίλωμα N;DAT;PL
 Generate the lemma and morphological tags for the following inflected verb: τὸ κοίλωμᾰ	κοίλωμα N;NOM;SG	κοίλωμα N;ACC;SG
 Generate the lemma and morphological tags for the following inflected verb: τῶν κῠνῐσμῶν	κυνισμός N;GEN;PL	κυνισμός N;GEN;PL
@@ -389,44 +389,44 @@ Generate the lemma and morphological tags for the following inflected verb: λε
 Generate the lemma and morphological tags for the following inflected verb: λεκάνη	λεκάνη N;VOC;SG	λεκάνη N;NOM;SG
 Generate the lemma and morphological tags for the following inflected verb: λεκάνᾱ	λεκάνη N;VOC;DU	λεκάνη N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: λεκάνᾱ	λεκάνη N;VOC;DU	λεκάνη N;ACC;DU
-Generate the lemma and morphological tags for the following inflected verb: λεκάναιν	λεκάνη N;DAT;DU	λεκάνη N;DAT;DU
+Generate the lemma and morphological tags for the following inflected verb: λεκάναιν	λεκάνη N;GEN;DU	λεκάνη N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: λεκάναι	λεκάνη N;VOC;PL	λεκάνη N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: λεκάνῃ	λεκάνη N;DAT;SG	λεκάνη N;DAT;SG
 Generate the lemma and morphological tags for the following inflected verb: λεκάνη	λεκάνη N;VOC;SG	λεκάνη N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: λεκάνᾱ	λεκάνη N;VOC;DU	λεκάνη N;VOC;DU
 Generate the lemma and morphological tags for the following inflected verb: λεκάνην	λεκάνη N;ACC;SG	λεκάνη N;ACC;SG
 Generate the lemma and morphological tags for the following inflected verb: λεκάναις	λεκάνη N;DAT;PL	λεκάνη N;DAT;PL
-Generate the lemma and morphological tags for the following inflected verb: λεκάναιν	λεκάνη N;DAT;DU	λεκάνη N;GEN;DU
-Generate the lemma and morphological tags for the following inflected verb: λεκάνᾱς	λεκάνη N;ACC;PL	λεκάνη N;ACC;PL
+Generate the lemma and morphological tags for the following inflected verb: λεκάναιν	λεκάνη N;GEN;DU	λεκάνη N;GEN;DU
+Generate the lemma and morphological tags for the following inflected verb: λεκάνᾱς	λεκάνη N;GEN;SG	λεκάνη N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: λεκάναι	λεκάνη N;VOC;PL	λεκάνη N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: λεκάνης	λεκάνη N;GEN;SG	λεκάνη N;GEN;SG
 Generate the lemma and morphological tags for the following inflected verb: λοχέω	λόχεος N;VOC;DU	λοχέος N;VOC;DU
-Generate the lemma and morphological tags for the following inflected verb: τοὺς λοχέους	λοχεύς N;ACC;PL	λοχέος N;ACC;PL
-Generate the lemma and morphological tags for the following inflected verb: τοῖς λοχέοις	λόχεος N;DAT;PL	λοχέος N;DAT;PL
+Generate the lemma and morphological tags for the following inflected verb: τοὺς λοχέους	λόχεος N;ACC;PL	λοχέος N;ACC;PL
+Generate the lemma and morphological tags for the following inflected verb: τοῖς λοχέοις	λόχιον N;DAT;PL	λοχέος N;DAT;PL
 Generate the lemma and morphological tags for the following inflected verb: τὼ λοχέω	λόχεος N;ACC;DU	λοχέος N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: τὼ λοχέω	λόχεος N;ACC;DU	λοχέος N;ACC;DU
-Generate the lemma and morphological tags for the following inflected verb: τῶν λοχέων	λοχεύς N;GEN;PL	λοχέος N;GEN;PL
+Generate the lemma and morphological tags for the following inflected verb: τῶν λοχέων	λόχη N;GEN;PL	λοχέος N;GEN;PL
 Generate the lemma and morphological tags for the following inflected verb: λοχέε	λοχεύς N;VOC;DU	λοχέος N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: ὁ λοχέος	λοχεύς N;NOM;SG	λοχέος N;NOM;SG
 Generate the lemma and morphological tags for the following inflected verb: τὸν λοχέον	λοχεύς N;ACC;SG	λοχέος N;ACC;SG
-Generate the lemma and morphological tags for the following inflected verb: τοῦ λοχέου	λοχεύς N;GEN;SG	λοχέος N;GEN;SG
-Generate the lemma and morphological tags for the following inflected verb: τῷ λοχέῳ	λοχεύς N;DAT;SG	λοχέος N;DAT;SG
-Generate the lemma and morphological tags for the following inflected verb: λοχέοι	λοχεύς N;VOC;PL	λοχέος N;VOC;PL
-Generate the lemma and morphological tags for the following inflected verb: τοῖν λοχέοιν	λόχεος N;GEN;DU	λοχέος N;GEN;DU
-Generate the lemma and morphological tags for the following inflected verb: τοῖν λοχέοιν	λόχεος N;GEN;DU	λοχέος N;DAT;DU
-Generate the lemma and morphological tags for the following inflected verb: οἱ λοχέοι	λοχεύς N;NOM;PL	λοχέος N;NOM;PL
+Generate the lemma and morphological tags for the following inflected verb: τοῦ λοχέου	λόχεος N;GEN;SG	λοχέος N;GEN;SG
+Generate the lemma and morphological tags for the following inflected verb: τῷ λοχέῳ	λόχιον N;DAT;SG	λοχέος N;DAT;SG
+Generate the lemma and morphological tags for the following inflected verb: λοχέοι	λόχεος N;VOC;PL	λοχέος N;VOC;PL
+Generate the lemma and morphological tags for the following inflected verb: τοῖν λοχέοιν	λόχιον N;GEN;DU	λοχέος N;GEN;DU
+Generate the lemma and morphological tags for the following inflected verb: τοῖν λοχέοιν	λόχιον N;GEN;DU	λοχέος N;DAT;DU
+Generate the lemma and morphological tags for the following inflected verb: οἱ λοχέοι	λόχεος N;NOM;PL	λοχέος N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: ταῖς λῠ́ραις	λύρα N;DAT;PL	λύρα N;DAT;PL
 Generate the lemma and morphological tags for the following inflected verb: αἱ λῠ́ραι	λύρα N;NOM;PL	λύρα N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: τῇ λῠ́ρᾳ	λύρα N;DAT;SG	λύρα N;DAT;SG
 Generate the lemma and morphological tags for the following inflected verb: τᾱ̀ς λῠ́ρᾱς	λύρα N;ACC;PL	λύρα N;ACC;PL
-Generate the lemma and morphological tags for the following inflected verb: τῶν λῠρῶν	λύρα N;GEN;PL	λύρα N;GEN;PL
+Generate the lemma and morphological tags for the following inflected verb: τῶν λῠρῶν	λυρός N;GEN;PL	λύρα N;GEN;PL
 Generate the lemma and morphological tags for the following inflected verb: λῠ́ρᾰ	λύρον N;VOC;PL	λύρα N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: τῆς λῠ́ρᾱς	λύρα N;GEN;SG	λύρα N;GEN;SG
 Generate the lemma and morphological tags for the following inflected verb: τοῖν λῠ́ραιν	λύρα N;GEN;DU	λύρα N;GEN;DU
 Generate the lemma and morphological tags for the following inflected verb: λῠ́ραι	λύρα N;VOC;PL	λύρα N;VOC;PL
-Generate the lemma and morphological tags for the following inflected verb: ἡ λῠ́ρᾰ	λύρα N;NOM;SG	λύρα N;NOM;SG
-Generate the lemma and morphological tags for the following inflected verb: τὼ λῠ́ρᾱ	λύρα N;NOM;DU	λύρα N;ACC;DU
-Generate the lemma and morphological tags for the following inflected verb: τὼ λῠ́ρᾱ	λύρα N;NOM;DU	λύρα N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: ἡ λῠ́ρᾰ	λύρον N;NOM;SG	λύρα N;NOM;SG
+Generate the lemma and morphological tags for the following inflected verb: τὼ λῠ́ρᾱ	λύρα N;ACC;DU	λύρα N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ λῠ́ρᾱ	λύρα N;ACC;DU	λύρα N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: λῠ́ρᾱ	λύρα N;VOC;DU	λύρα N;VOC;DU
 Generate the lemma and morphological tags for the following inflected verb: τοῖν λῠ́ραιν	λύρα N;GEN;DU	λύρα N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: τὴν λῠ́ρᾰν	λύρα N;ACC;SG	λύρα N;ACC;SG
@@ -435,15 +435,15 @@ Generate the lemma and morphological tags for the following inflected verb: τ�
 Generate the lemma and morphological tags for the following inflected verb: τοῖς μέτροις	μέτρον N;DAT;PL	μέτρον N;DAT;PL
 Generate the lemma and morphological tags for the following inflected verb: τὼ μέτρω	μέτρον N;NOM;DU	μέτρον N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: τῷ μέτρῳ	μέτρον N;DAT;SG	μέτρον N;DAT;SG
-Generate the lemma and morphological tags for the following inflected verb: τὰ μέτρᾰ	μέτρον N;NOM;PL	μέτρον N;NOM;PL
+Generate the lemma and morphological tags for the following inflected verb: τὰ μέτρᾰ	μέτρα N;NOM;PL	μέτρον N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῦ μέτρου	μέτρον N;GEN;SG	μέτρον N;GEN;SG
-Generate the lemma and morphological tags for the following inflected verb: τοῖν μέτροιν	μέτρον N;DAT;DU	μέτρον N;GEN;DU
+Generate the lemma and morphological tags for the following inflected verb: τοῖν μέτροιν	μέτρον N;GEN;DU	μέτρον N;GEN;DU
 Generate the lemma and morphological tags for the following inflected verb: μέτρω	μέτρον N;VOC;DU	μέτρον N;VOC;DU
-Generate the lemma and morphological tags for the following inflected verb: μέτρᾰ	μέτρον N;VOC;PL	μέτρον N;VOC;PL
-Generate the lemma and morphological tags for the following inflected verb: τὰ μέτρᾰ	μέτρον N;NOM;PL	μέτρον N;ACC;PL
-Generate the lemma and morphological tags for the following inflected verb: τὸ μέτρον	μέτρον N;ACC;SG	μέτρον N;NOM;SG
-Generate the lemma and morphological tags for the following inflected verb: τοῖν μέτροιν	μέτρον N;DAT;DU	μέτρον N;DAT;DU
-Generate the lemma and morphological tags for the following inflected verb: τὸ μέτρον	μέτρον N;ACC;SG	μέτρον N;ACC;SG
+Generate the lemma and morphological tags for the following inflected verb: μέτρᾰ	μέτρα N;VOC;PL	μέτρον N;VOC;PL
+Generate the lemma and morphological tags for the following inflected verb: τὰ μέτρᾰ	μέτρα N;NOM;PL	μέτρον N;ACC;PL
+Generate the lemma and morphological tags for the following inflected verb: τὸ μέτρον	μέτρον N;NOM;SG	μέτρον N;NOM;SG
+Generate the lemma and morphological tags for the following inflected verb: τοῖν μέτροιν	μέτρον N;GEN;DU	μέτρον N;DAT;DU
+Generate the lemma and morphological tags for the following inflected verb: τὸ μέτρον	μέτρον N;NOM;SG	μέτρον N;ACC;SG
 Generate the lemma and morphological tags for the following inflected verb: μέτρον	μέτρον N;VOC;SG	μέτρον N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: τοὺς μῑσογῠ́νᾱς	μισογύνη N;ACC;PL	μισογύνης N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: τῶν μῑσογῠνῶν	μισογύνη N;GEN;PL	μισογύνης N;GEN;PL
@@ -462,36 +462,36 @@ Generate the lemma and morphological tags for the following inflected verb: τ�
 Generate the lemma and morphological tags for the following inflected verb: τοῖν μῑσογῠ́ναιν	μισογύνη N;GEN;DU	μισογύνης N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: τοῖν μνήμαιν	μνῆμα N;GEN;DU	μνήμη N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: τῇ μνήμῃ	μνῆμα N;DAT;SG	μνήμη N;DAT;SG
-Generate the lemma and morphological tags for the following inflected verb: τὼ μνήμᾱ	μνῆμα N;NOM;DU	μνήμη N;ACC;DU
-Generate the lemma and morphological tags for the following inflected verb: αἱ μνῆμαι	μνῆμα N;NOM;PL	μνήμη N;NOM;PL
-Generate the lemma and morphological tags for the following inflected verb: τὴν μνήμην	μνήμη N;ACC;SG	μνήμη N;ACC;SG
+Generate the lemma and morphological tags for the following inflected verb: τὼ μνήμᾱ	μνῆμα N;ACC;DU	μνήμη N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: αἱ μνῆμαι	μνῆμη N;NOM;PL	μνήμη N;NOM;PL
+Generate the lemma and morphological tags for the following inflected verb: τὴν μνήμην	μνῆμη N;ACC;SG	μνήμη N;ACC;SG
 Generate the lemma and morphological tags for the following inflected verb: μνήμᾱ	μνῆμα N;VOC;DU	μνήμη N;VOC;DU
 Generate the lemma and morphological tags for the following inflected verb: ἡ μνήμη	μνήμη N;NOM;SG	μνήμη N;NOM;SG
 Generate the lemma and morphological tags for the following inflected verb: τοῖν μνήμαιν	μνῆμα N;GEN;DU	μνήμη N;GEN;DU
-Generate the lemma and morphological tags for the following inflected verb: μνήμη	μνήμη N;VOC;SG	μνήμη N;VOC;SG
+Generate the lemma and morphological tags for the following inflected verb: μνήμη	μνῆμη N;VOC;SG	μνήμη N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: ταῖς μνήμαις	μνῆμη N;DAT;PL	μνήμη N;DAT;PL
 Generate the lemma and morphological tags for the following inflected verb: τῶν μνημῶν	μνῆμα N;GEN;PL	μνήμη N;GEN;PL
-Generate the lemma and morphological tags for the following inflected verb: τὼ μνήμᾱ	μνῆμα N;NOM;DU	μνήμη N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ μνήμᾱ	μνῆμα N;ACC;DU	μνήμη N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: τᾱ̀ς μνήμᾱς	μνῆμα N;ACC;PL	μνήμη N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: τῆς μνήμης	μνῆμη N;GEN;SG	μνήμη N;GEN;SG
 Generate the lemma and morphological tags for the following inflected verb: μνῆμαι	μνῆμη N;VOC;PL	μνήμη N;VOC;PL
-Generate the lemma and morphological tags for the following inflected verb: τᾱ̀ς νῠούς	νύος N;ACC;PL	νυός N;ACC;PL
+Generate the lemma and morphological tags for the following inflected verb: τᾱ̀ς νῠούς	νύων N;ACC;PL	νυός N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: ταῖς νῠοῖς	νύων N;DAT;PL	νυός N;DAT;PL
 Generate the lemma and morphological tags for the following inflected verb: τῆς νῠοῦ	νύον N;GEN;SG	νυός N;GEN;SG
-Generate the lemma and morphological tags for the following inflected verb: νῠέ	νύος N;VOC;SG	νυός N;VOC;SG
+Generate the lemma and morphological tags for the following inflected verb: νῠέ	νύων N;VOC;SG	νυός N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: αἱ νῠοί	νύων N;NOM;PL	νυός N;NOM;PL
-Generate the lemma and morphological tags for the following inflected verb: ἡ νῠός	νυός N;NOM;SG	νυός N;NOM;SG
-Generate the lemma and morphological tags for the following inflected verb: τοῖν νῠοῖν	νύον N;GEN;DU	νυός N;GEN;DU
+Generate the lemma and morphological tags for the following inflected verb: ἡ νῠός	νύων N;NOM;SG	νυός N;NOM;SG
+Generate the lemma and morphological tags for the following inflected verb: τοῖν νῠοῖν	νύων N;GEN;DU	νυός N;GEN;DU
 Generate the lemma and morphological tags for the following inflected verb: τὼ νῠώ	νυός N;ACC;DU	νυός N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: τὴν νῠόν	νυός N;ACC;SG	νυός N;ACC;SG
 Generate the lemma and morphological tags for the following inflected verb: νῠώ	νυός N;VOC;DU	νυός N;VOC;DU
-Generate the lemma and morphological tags for the following inflected verb: τοῖν νῠοῖν	νύον N;GEN;DU	νυός N;DAT;DU
+Generate the lemma and morphological tags for the following inflected verb: τοῖν νῠοῖν	νύων N;GEN;DU	νυός N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: νῠοί	νύων N;VOC;PL	νυός N;VOC;PL
-Generate the lemma and morphological tags for the following inflected verb: τῶν νῠῶν	νύων N;GEN;PL	νυός N;GEN;PL
+Generate the lemma and morphological tags for the following inflected verb: τῶν νῠῶν	νύα N;GEN;PL	νυός N;GEN;PL
 Generate the lemma and morphological tags for the following inflected verb: τῇ νῠῷ	νύον N;DAT;SG	νυός N;DAT;SG
 Generate the lemma and morphological tags for the following inflected verb: τὼ νῠώ	νυός N;ACC;DU	νυός N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: τῶν παλαιστρῶν	παλαιστρός N;GEN;PL	παλαίστρα N;GEN;PL
-Generate the lemma and morphological tags for the following inflected verb: τοῖν παλαίστραιν	παλαιστρά N;GEN;DU	παλαίστρα N;GEN;DU
+Generate the lemma and morphological tags for the following inflected verb: τοῖν παλαίστραιν	παλαίστρα N;GEN;DU	παλαίστρα N;GEN;DU
 Generate the lemma and morphological tags for the following inflected verb: τὼ παλαίστρᾱ	παλαιστρά N;ACC;DU	παλαίστρα N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: τὼ παλαίστρᾱ	παλαιστρά N;ACC;DU	παλαίστρα N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: παλαίστρᾱ	παλαιστρά N;VOC;DU	παλαίστρα N;VOC;DU
@@ -502,39 +502,39 @@ Generate the lemma and morphological tags for the following inflected verb: τα
 Generate the lemma and morphological tags for the following inflected verb: τὴν παλαίστρᾱν	παλαιστρά N;ACC;SG	παλαίστρα N;ACC;SG
 Generate the lemma and morphological tags for the following inflected verb: παλαίστρᾱ	παλαιστρά N;VOC;DU	παλαίστρα N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: αἱ παλαῖστραι	παλαίστρα N;NOM;PL	παλαίστρα N;NOM;PL
-Generate the lemma and morphological tags for the following inflected verb: τῇ παλαίστρᾳ	παλαιστρά N;DAT;SG	παλαίστρα N;DAT;SG
-Generate the lemma and morphological tags for the following inflected verb: τοῖν παλαίστραιν	παλαιστρά N;GEN;DU	παλαίστρα N;DAT;DU
+Generate the lemma and morphological tags for the following inflected verb: τῇ παλαίστρᾳ	παλαίστρον N;DAT;SG	παλαίστρα N;DAT;SG
+Generate the lemma and morphological tags for the following inflected verb: τοῖν παλαίστραιν	παλαίστρα N;GEN;DU	παλαίστρα N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: ἡ παλαίστρᾱ	παλαιστρά N;NOM;SG	παλαίστρα N;NOM;SG
-Generate the lemma and morphological tags for the following inflected verb: παράνομα	παράνομος ADJ;VOC;PL;FEM	παράνομος ADJ;NOM;PL;NEUT
+Generate the lemma and morphological tags for the following inflected verb: παράνομα	παράνομος ADJ;VOC;PL;NEUT	παράνομος ADJ;NOM;PL;NEUT
 Generate the lemma and morphological tags for the following inflected verb: παράνομος	παράνομος ADJ;NOM;SG	παράνομος ADJ;NOM;SG
-Generate the lemma and morphological tags for the following inflected verb: παρανόμων	παράνομος ADJ;GEN;PL	παράνομος ADJ;GEN;PL
-Generate the lemma and morphological tags for the following inflected verb: παρανόμῳ	παράνομος ADJ;DAT;SG	παράνομος ADJ;DAT;SG;NEUT
+Generate the lemma and morphological tags for the following inflected verb: παρανόμων	παράνωμον N;GEN;PL	παράνομος ADJ;GEN;PL
+Generate the lemma and morphological tags for the following inflected verb: παρανόμῳ	παράνωμος ADJ;DAT;SG;NEUT	παράνομος ADJ;DAT;SG;NEUT
 Generate the lemma and morphological tags for the following inflected verb: παράνομοι	παράνομος ADJ;NOM;PL	παράνομος ADJ;VOC;PL
-Generate the lemma and morphological tags for the following inflected verb: παρανόμοιν	παράνομος ADJ;GEN;DU	παράνομος ADJ;DAT;DU
-Generate the lemma and morphological tags for the following inflected verb: παράνομον	παράνομος ADJ;ACC;SG;NEU	παράνομος ADJ;ACC;SG;NEUT
-Generate the lemma and morphological tags for the following inflected verb: παρανόμῳ	παράνομος ADJ;DAT;SG	παράνομος ADJ;DAT;SG
-Generate the lemma and morphological tags for the following inflected verb: παράνομον	παράνομος ADJ;ACC;SG;NEU	παράνομος ADJ;ACC;SG
-Generate the lemma and morphological tags for the following inflected verb: παρανόμου	παράνομος ADJ;GEN;SG	παράνομος ADJ;GEN;SG
-Generate the lemma and morphological tags for the following inflected verb: παρανόμους	παράνομος ADJ;ACC;PL	παράνομος ADJ;ACC;PL
-Generate the lemma and morphological tags for the following inflected verb: παράνομα	παράνομος ADJ;VOC;PL;FEM	παράνομος ADJ;ACC;PL;NEUT
-Generate the lemma and morphological tags for the following inflected verb: παρανόμω	παράνομος ADJ;VOC;DU	παράνομος ADJ;NOM;DU;NEUT
-Generate the lemma and morphological tags for the following inflected verb: παρανόμοις	παράνομος ADJ;DAT;PL	παράνομος ADJ;DAT;PL
-Generate the lemma and morphological tags for the following inflected verb: παράνομον	παράνομος ADJ;ACC;SG;NEU	παράνομος ADJ;NOM;SG;NEUT
-Generate the lemma and morphological tags for the following inflected verb: παρανόμω	παράνομος ADJ;VOC;DU	παράνομος ADJ;ACC;DU;NEUT
-Generate the lemma and morphological tags for the following inflected verb: παράνομα	παράνομος ADJ;VOC;PL;FEM	παράνομος ADJ;VOC;PL;NEUT
-Generate the lemma and morphological tags for the following inflected verb: παρανόμω	παράνομος ADJ;VOC;DU	παράνομος ADJ;VOC;DU;NEUT
-Generate the lemma and morphological tags for the following inflected verb: παρανόμω	παράνομος ADJ;VOC;DU	παράνομος ADJ;NOM;DU
-Generate the lemma and morphological tags for the following inflected verb: παρανόμω	παράνομος ADJ;VOC;DU	παράνομος ADJ;ACC;DU
-Generate the lemma and morphological tags for the following inflected verb: παρανόμοιν	παράνομος ADJ;GEN;DU	παράνομος ADJ;DAT;DU;NEUT
-Generate the lemma and morphological tags for the following inflected verb: παρανόμοιν	παράνομος ADJ;GEN;DU	παράνομος ADJ;GEN;DU;NEUT
-Generate the lemma and morphological tags for the following inflected verb: παρανόμοιν	παράνομος ADJ;GEN;DU	παράνομος ADJ;GEN;DU
-Generate the lemma and morphological tags for the following inflected verb: παρανόμου	παράνομος ADJ;GEN;SG	παράνομος ADJ;GEN;SG;NEUT
+Generate the lemma and morphological tags for the following inflected verb: παρανόμοιν	παράνωμος ADJ;GEN;DU	παράνομος ADJ;DAT;DU
+Generate the lemma and morphological tags for the following inflected verb: παράνομον	παράνομος ADJ;ACC;SG;NEUT	παράνομος ADJ;ACC;SG;NEUT
+Generate the lemma and morphological tags for the following inflected verb: παρανόμῳ	παράνωμος ADJ;DAT;SG;NEUT	παράνομος ADJ;DAT;SG
+Generate the lemma and morphological tags for the following inflected verb: παράνομον	παράνομος ADJ;ACC;SG;NEUT	παράνομος ADJ;ACC;SG
+Generate the lemma and morphological tags for the following inflected verb: παρανόμου	παράνωμος ADJ;GEN;SG;NEUT	παράνομος ADJ;GEN;SG
+Generate the lemma and morphological tags for the following inflected verb: παρανόμους	παράνωμος ADJ;ACC;PL	παράνομος ADJ;ACC;PL
+Generate the lemma and morphological tags for the following inflected verb: παράνομα	παράνομος ADJ;VOC;PL;NEUT	παράνομος ADJ;ACC;PL;NEUT
+Generate the lemma and morphological tags for the following inflected verb: παρανόμω	παράνωμος ADJ;NOM;DU;NEUT	παράνομος ADJ;NOM;DU;NEUT
+Generate the lemma and morphological tags for the following inflected verb: παρανόμοις	παράνωμος ADJ;DAT;PL;NEUT	παράνομος ADJ;DAT;PL
+Generate the lemma and morphological tags for the following inflected verb: παράνομον	παράνομος ADJ;ACC;SG;NEUT	παράνομος ADJ;NOM;SG;NEUT
+Generate the lemma and morphological tags for the following inflected verb: παρανόμω	παράνωμος ADJ;NOM;DU;NEUT	παράνομος ADJ;ACC;DU;NEUT
+Generate the lemma and morphological tags for the following inflected verb: παράνομα	παράνομος ADJ;VOC;PL;NEUT	παράνομος ADJ;VOC;PL;NEUT
+Generate the lemma and morphological tags for the following inflected verb: παρανόμω	παράνωμος ADJ;NOM;DU;NEUT	παράνομος ADJ;VOC;DU;NEUT
+Generate the lemma and morphological tags for the following inflected verb: παρανόμω	παράνωμος ADJ;NOM;DU;NEUT	παράνομος ADJ;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: παρανόμω	παράνωμος ADJ;NOM;DU;NEUT	παράνομος ADJ;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: παρανόμοιν	παράνωμος ADJ;GEN;DU	παράνομος ADJ;DAT;DU;NEUT
+Generate the lemma and morphological tags for the following inflected verb: παρανόμοιν	παράνωμος ADJ;GEN;DU	παράνομος ADJ;GEN;DU;NEUT
+Generate the lemma and morphological tags for the following inflected verb: παρανόμοιν	παράνωμος ADJ;GEN;DU	παράνομος ADJ;GEN;DU
+Generate the lemma and morphological tags for the following inflected verb: παρανόμου	παράνωμος ADJ;GEN;SG;NEUT	παράνομος ADJ;GEN;SG;NEUT
 Generate the lemma and morphological tags for the following inflected verb: παράνομοι	παράνομος ADJ;NOM;PL	παράνομος ADJ;NOM;PL
-Generate the lemma and morphological tags for the following inflected verb: παρανόμοις	παράνομος ADJ;DAT;PL	παράνομος ADJ;DAT;PL;NEUT
-Generate the lemma and morphological tags for the following inflected verb: παράνομον	παράνομος ADJ;ACC;SG;NEU	παράνομος ADJ;VOC;SG;NEUT
-Generate the lemma and morphological tags for the following inflected verb: παράνομε	παράνομος ADJ;VOC;SG;MAS	παράνομος ADJ;VOC;SG
-Generate the lemma and morphological tags for the following inflected verb: παρανόμων	παράνομος ADJ;GEN;PL	παράνομος ADJ;GEN;PL;NEUT
-Generate the lemma and morphological tags for the following inflected verb: παρανόμω	παράνομος ADJ;VOC;DU	παράνομος ADJ;VOC;DU
+Generate the lemma and morphological tags for the following inflected verb: παρανόμοις	παράνωμος ADJ;DAT;PL;NEUT	παράνομος ADJ;DAT;PL;NEUT
+Generate the lemma and morphological tags for the following inflected verb: παράνομον	παράνομος ADJ;ACC;SG;NEUT	παράνομος ADJ;VOC;SG;NEUT
+Generate the lemma and morphological tags for the following inflected verb: παράνομε	παράνομος ADJ;VOC;SG;NEUT	παράνομος ADJ;VOC;SG
+Generate the lemma and morphological tags for the following inflected verb: παρανόμων	παράνωμον N;GEN;PL	παράνομος ADJ;GEN;PL;NEUT
+Generate the lemma and morphological tags for the following inflected verb: παρανόμω	παράνωμος ADJ;NOM;DU;NEUT	παράνομος ADJ;VOC;DU
 Generate the lemma and morphological tags for the following inflected verb: τῇ περῐτομῇ	περιτομή N;DAT;SG	περιτομή N;DAT;SG
 Generate the lemma and morphological tags for the following inflected verb: αἱ περῐτομαί	περιτομή N;NOM;PL	περιτομή N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: τὴν περῐτομήν	περιτομή N;ACC;SG	περιτομή N;ACC;SG
@@ -550,51 +550,51 @@ Generate the lemma and morphological tags for the following inflected verb: τ�
 Generate the lemma and morphological tags for the following inflected verb: περῐτομᾱ́	περιτομή N;VOC;DU	περιτομή N;VOC;DU
 Generate the lemma and morphological tags for the following inflected verb: ἡ περῐτομή	περιτομή N;NOM;SG	περιτομή N;NOM;SG
 Generate the lemma and morphological tags for the following inflected verb: τᾱ̀ς περῐτομᾱ́ς	περιτομή N;ACC;PL	περιτομή N;ACC;PL
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικοί	πλεκτικός ADJ;NOM;PL;M	πλεκτικός ADJ;VOC;PL;MASC
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικός	πλεκτικός ADJ;NOM;SG;M	πλεκτικός ADJ;NOM;SG;MASC
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικοῦ	πλεκτικός ADJ;GEN;SG;N	πλεκτικός ADJ;GEN;SG;NEUT
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικόν	πλεκτικός ADJ;ACC;SG;N	πλεκτικός ADJ;NOM;SG;NEUT
-Generate the lemma and morphological tags for the following inflected verb: πλεκτική	πλεκτικός ADJ;VOC;SG;F	πλεκτικός ADJ;NOM;SG;FEM
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικῇ	πλεκτικός ADJ;DAT;SG;F	πλεκτικός ADJ;DAT;SG;FEM
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικοῖς	πλεκτικός ADJ;DAT;PL;M	πλεκτικός ADJ;DAT;PL;MASC
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικῷ	πλεκτικός ADJ;DAT;SG;N	πλεκτικός ADJ;DAT;SG;MASC
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικώ	πλεκτικός ADJ;VOC;DU;N	πλεκτικός ADJ;ACC;DU;NEUT
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικοῖν	πλεκτικός ADJ;GEN;DU;M	πλεκτικός ADJ;GEN;DU;NEUT
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικώ	πλεκτικός ADJ;VOC;DU;N	πλεκτικός ADJ;VOC;DU;MASC
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικαῖν	πλεκτικός ADJ;GEN;DU;F	πλεκτικός ADJ;GEN;DU;FEM
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικοῦ	πλεκτικός ADJ;GEN;SG;N	πλεκτικός ADJ;GEN;SG;MASC
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικᾱ́ς	πλεκτικός ADJ;ACC;PL;F	πλεκτικός ADJ;ACC;PL;FEM
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικώ	πλεκτικός ADJ;VOC;DU;N	πλεκτικός ADJ;NOM;DU;NEUT
-Generate the lemma and morphological tags for the following inflected verb: πλεκτική	πλεκτικός ADJ;VOC;SG;F	πλεκτικός ADJ;VOC;SG;FEM
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικῶν	πλεκτικός ADJ;GEN;PL;N	πλεκτικός ADJ;GEN;PL;NEUT
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικοῖν	πλεκτικός ADJ;GEN;DU;M	πλεκτικός ADJ;DAT;DU;MASC
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικήν	πλεκτικός ADJ;ACC;SG;F	πλεκτικός ADJ;ACC;SG;FEM
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικόν	πλεκτικός ADJ;ACC;SG;N	πλεκτικός ADJ;ACC;SG;MASC
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικῷ	πλεκτικός ADJ;DAT;SG;N	πλεκτικός ADJ;DAT;SG;NEUT
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικαί	πλεκτικός ADJ;NOM;PL;F	πλεκτικός ADJ;NOM;PL;FEM
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικώ	πλεκτικός ADJ;VOC;DU;N	πλεκτικός ADJ;ACC;DU;MASC
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικοῖν	πλεκτικός ADJ;GEN;DU;M	πλεκτικός ADJ;DAT;DU;NEUT
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικόν	πλεκτικός ADJ;ACC;SG;N	πλεκτικός ADJ;VOC;SG;NEUT
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικέ	πλεκτικός ADJ;VOC;SG;M	πλεκτικός ADJ;VOC;SG;MASC
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικοί	πλεκτικός ADJ;NOM;PL;M	πλεκτικός ADJ;NOM;PL;MASC
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικοῖν	πλεκτικός ADJ;GEN;DU;M	πλεκτικός ADJ;GEN;DU;MASC
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικᾱ́	πλεκτικός ADJ;VOC;DU;F	πλεκτικός ADJ;VOC;DU;FEM
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικᾰ́	πλεκτικός ADJ;VOC;PL;N	πλεκτικός ADJ;ACC;PL;NEUT
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικαῖς	πλεκτικός ADJ;DAT;PL;F	πλεκτικός ADJ;DAT;PL;FEM
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικῆς	πλεκτικός ADJ;GEN;SG;F	πλεκτικός ADJ;GEN;SG;FEM
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικαῖν	πλεκτικός ADJ;GEN;DU;F	πλεκτικός ADJ;DAT;DU;FEM
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικώ	πλεκτικός ADJ;VOC;DU;N	πλεκτικός ADJ;NOM;DU;MASC
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικοῖς	πλεκτικός ADJ;DAT;PL;M	πλεκτικός ADJ;DAT;PL;NEUT
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικᾰ́	πλεκτικός ADJ;VOC;PL;N	πλεκτικός ADJ;NOM;PL;NEUT
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικούς	πλεκτικός ADJ;ACC;PL;M	πλεκτικός ADJ;ACC;PL;MASC
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικᾰ́	πλεκτικός ADJ;VOC;PL;N	πλεκτικός ADJ;VOC;PL;NEUT
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικῶν	πλεκτικός ADJ;GEN;PL;N	πλεκτικός ADJ;GEN;PL;MASC
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικώ	πλεκτικός ADJ;VOC;DU;N	πλεκτικός ADJ;VOC;DU;NEUT
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικαί	πλεκτικός ADJ;NOM;PL;F	πλεκτικός ADJ;VOC;PL;FEM
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικόν	πλεκτικός ADJ;ACC;SG;N	πλεκτικός ADJ;ACC;SG;NEUT
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικᾱ́	πλεκτικός ADJ;VOC;DU;F	πλεκτικός ADJ;NOM;DU;FEM
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικᾱ́	πλεκτικός ADJ;VOC;DU;F	πλεκτικός ADJ;ACC;DU;FEM
-Generate the lemma and morphological tags for the following inflected verb: πλεκτικῶν	πλεκτικός ADJ;GEN;PL;N	πλεκτικός ADJ;GEN;PL;FEM
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικοί	πλεκτικός ADJ;VOC;PL;MASC	πλεκτικός ADJ;VOC;PL;MASC
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικός	πλεκτικός ADJ;NOM;SG;MASC	πλεκτικός ADJ;NOM;SG;MASC
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικοῦ	πλεκτικός ADJ;GEN;SG;MASC	πλεκτικός ADJ;GEN;SG;NEUT
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικόν	πλεκτικός ADJ;ACC;SG;NEUT	πλεκτικός ADJ;NOM;SG;NEUT
+Generate the lemma and morphological tags for the following inflected verb: πλεκτική	πλεκτικός ADJ;VOC;SG;FEM	πλεκτικός ADJ;NOM;SG;FEM
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικῇ	πλεκτικός ADJ;DAT;SG;FEM	πλεκτικός ADJ;DAT;SG;FEM
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικοῖς	πλεκτικός ADJ;DAT;PL;MASC	πλεκτικός ADJ;DAT;PL;MASC
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικῷ	πλεκτικός ADJ;DAT;SG;NEUT	πλεκτικός ADJ;DAT;SG;MASC
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικώ	πλεκτικός ADJ;VOC;DU;NEUT	πλεκτικός ADJ;ACC;DU;NEUT
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικοῖν	πλεκτικός ADJ;GEN;DU;MASC	πλεκτικός ADJ;GEN;DU;NEUT
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικώ	πλεκτικός ADJ;VOC;DU;NEUT	πλεκτικός ADJ;VOC;DU;MASC
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικαῖν	πλεκτικός ADJ;GEN;DU;FEM	πλεκτικός ADJ;GEN;DU;FEM
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικοῦ	πλεκτικός ADJ;GEN;SG;MASC	πλεκτικός ADJ;GEN;SG;MASC
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικᾱ́ς	πλεκτικός ADJ;ACC;PL;FEM	πλεκτικός ADJ;ACC;PL;FEM
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικώ	πλεκτικός ADJ;VOC;DU;NEUT	πλεκτικός ADJ;NOM;DU;NEUT
+Generate the lemma and morphological tags for the following inflected verb: πλεκτική	πλεκτικός ADJ;VOC;SG;FEM	πλεκτικός ADJ;VOC;SG;FEM
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικῶν	πλεκτικός ADJ;GEN;PL;FEM	πλεκτικός ADJ;GEN;PL;NEUT
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικοῖν	πλεκτικός ADJ;GEN;DU;MASC	πλεκτικός ADJ;DAT;DU;MASC
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικήν	πλεκτικός ADJ;ACC;SG;FEM	πλεκτικός ADJ;ACC;SG;FEM
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικόν	πλεκτικός ADJ;ACC;SG;NEUT	πλεκτικός ADJ;ACC;SG;MASC
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικῷ	πλεκτικός ADJ;DAT;SG;NEUT	πλεκτικός ADJ;DAT;SG;NEUT
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικαί	πλεκτικός ADJ;VOC;PL;FEM	πλεκτικός ADJ;NOM;PL;FEM
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικώ	πλεκτικός ADJ;VOC;DU;NEUT	πλεκτικός ADJ;ACC;DU;MASC
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικοῖν	πλεκτικός ADJ;GEN;DU;MASC	πλεκτικός ADJ;DAT;DU;NEUT
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικόν	πλεκτικός ADJ;ACC;SG;NEUT	πλεκτικός ADJ;VOC;SG;NEUT
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικέ	πλεκτικός ADJ;VOC;SG;MASC	πλεκτικός ADJ;VOC;SG;MASC
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικοί	πλεκτικός ADJ;VOC;PL;MASC	πλεκτικός ADJ;NOM;PL;MASC
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικοῖν	πλεκτικός ADJ;GEN;DU;MASC	πλεκτικός ADJ;GEN;DU;MASC
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικᾱ́	πλεκτικός ADJ;VOC;DU;FEM	πλεκτικός ADJ;VOC;DU;FEM
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικᾰ́	πλεκτικός ADJ;VOC;PL;NEUT	πλεκτικός ADJ;ACC;PL;NEUT
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικαῖς	πλεκτικός ADJ;DAT;PL;FEM	πλεκτικός ADJ;DAT;PL;FEM
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικῆς	πλεκτικός ADJ;GEN;SG;FEM	πλεκτικός ADJ;GEN;SG;FEM
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικαῖν	πλεκτικός ADJ;GEN;DU;FEM	πλεκτικός ADJ;DAT;DU;FEM
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικώ	πλεκτικός ADJ;VOC;DU;NEUT	πλεκτικός ADJ;NOM;DU;MASC
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικοῖς	πλεκτικός ADJ;DAT;PL;MASC	πλεκτικός ADJ;DAT;PL;NEUT
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικᾰ́	πλεκτικός ADJ;VOC;PL;NEUT	πλεκτικός ADJ;NOM;PL;NEUT
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικούς	πλεκτικός ADJ;ACC;PL;MASC	πλεκτικός ADJ;ACC;PL;MASC
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικᾰ́	πλεκτικός ADJ;VOC;PL;NEUT	πλεκτικός ADJ;VOC;PL;NEUT
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικῶν	πλεκτικός ADJ;GEN;PL;FEM	πλεκτικός ADJ;GEN;PL;MASC
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικώ	πλεκτικός ADJ;VOC;DU;NEUT	πλεκτικός ADJ;VOC;DU;NEUT
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικαί	πλεκτικός ADJ;VOC;PL;FEM	πλεκτικός ADJ;VOC;PL;FEM
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικόν	πλεκτικός ADJ;ACC;SG;NEUT	πλεκτικός ADJ;ACC;SG;NEUT
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικᾱ́	πλεκτικός ADJ;VOC;DU;FEM	πλεκτικός ADJ;NOM;DU;FEM
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικᾱ́	πλεκτικός ADJ;VOC;DU;FEM	πλεκτικός ADJ;ACC;DU;FEM
+Generate the lemma and morphological tags for the following inflected verb: πλεκτικῶν	πλεκτικός ADJ;GEN;PL;FEM	πλεκτικός ADJ;GEN;PL;FEM
 Generate the lemma and morphological tags for the following inflected verb: πόνω	πόνος N;VOC;DU	πόνος N;VOC;DU
 Generate the lemma and morphological tags for the following inflected verb: πόνου	πόνος N;GEN;SG	πόνος N;GEN;SG
 Generate the lemma and morphological tags for the following inflected verb: πόνοι	πόνος N;VOC;PL	πόνος N;NOM;PL
@@ -602,23 +602,23 @@ Generate the lemma and morphological tags for the following inflected verb: πό
 Generate the lemma and morphological tags for the following inflected verb: πόνοιν	πόνος N;GEN;DU	πόνος N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: πόνον	πόνος N;ACC;SG	πόνος N;ACC;SG
 Generate the lemma and morphological tags for the following inflected verb: πόνοι	πόνος N;VOC;PL	πόνος N;VOC;PL
-Generate the lemma and morphological tags for the following inflected verb: πόνε	πόνος N;VOC;DU	πόνος N;VOC;SG
+Generate the lemma and morphological tags for the following inflected verb: πόνε	πόνος N;VOC;SG	πόνος N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: πόνω	πόνος N;VOC;DU	πόνος N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: πόνω	πόνος N;VOC;DU	πόνος N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: πόνοις	πόνος N;DAT;PL	πόνος N;DAT;PL
 Generate the lemma and morphological tags for the following inflected verb: πόνοιν	πόνος N;GEN;DU	πόνος N;GEN;DU
 Generate the lemma and morphological tags for the following inflected verb: πόνων	πόνος N;GEN;PL	πόνος N;GEN;PL
-Generate the lemma and morphological tags for the following inflected verb: πόνος	πόνος N;NOM;SG	πόνος N;NOM;SG
+Generate the lemma and morphological tags for the following inflected verb: πόνος	πόνος N;GEN;SG	πόνος N;NOM;SG
 Generate the lemma and morphological tags for the following inflected verb: πόνους	πόνος N;ACC;PL	πόνος N;ACC;PL
-Generate the lemma and morphological tags for the following inflected verb: τὼ σώμᾰτε	σῶμα N;NOM;DU	σῶμα N;NOM;DU
-Generate the lemma and morphological tags for the following inflected verb: σώμᾰτᾰ	σῶμα N;VOC;PL	σῶμα N;VOC;PL
-Generate the lemma and morphological tags for the following inflected verb: τοῦ σώμᾰτος	σῶμα N;GEN;SG	σῶμα N;GEN;SG
-Generate the lemma and morphological tags for the following inflected verb: τᾰ̀ σώμᾰτᾰ	σῶμα N;ACC;PL	σῶμα N;ACC;PL
-Generate the lemma and morphological tags for the following inflected verb: σώμᾰτε	σῶμα N;VOC;DU	σῶμα N;VOC;DU
-Generate the lemma and morphological tags for the following inflected verb: τῶν σωμᾰ́των	σῶμα N;GEN;PL	σῶμα N;GEN;PL
-Generate the lemma and morphological tags for the following inflected verb: τᾰ̀ σώμᾰτᾰ	σῶμα N;ACC;PL	σῶμα N;NOM;PL
+Generate the lemma and morphological tags for the following inflected verb: τὼ σώμᾰτε	σῦμα N;ACC;DU	σῶμα N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: σώμᾰτᾰ	σῦμα N;VOC;PL	σῶμα N;VOC;PL
+Generate the lemma and morphological tags for the following inflected verb: τοῦ σώμᾰτος	σῦμα N;GEN;SG	σῶμα N;GEN;SG
+Generate the lemma and morphological tags for the following inflected verb: τᾰ̀ σώμᾰτᾰ	σῦμα N;ACC;PL	σῶμα N;ACC;PL
+Generate the lemma and morphological tags for the following inflected verb: σώμᾰτε	σῦμα N;VOC;DU	σῶμα N;VOC;DU
+Generate the lemma and morphological tags for the following inflected verb: τῶν σωμᾰ́των	σῦμα N;GEN;PL	σῶμα N;GEN;PL
+Generate the lemma and morphological tags for the following inflected verb: τᾰ̀ σώμᾰτᾰ	σῦμα N;ACC;PL	σῶμα N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: τὸ σῶμᾰ	σῶμα N;NOM;SG	σῶμα N;ACC;SG
-Generate the lemma and morphological tags for the following inflected verb: τὼ σώμᾰτε	σῶμα N;NOM;DU	σῶμα N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ σώμᾰτε	σῦμα N;ACC;DU	σῶμα N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: τοῖς σώμᾰσῐ	σῦμα N;DAT;PL	σῶμα N;DAT;PL
 Generate the lemma and morphological tags for the following inflected verb: σῶμᾰ	σῶμα N;VOC;SG	σῶμα N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: τοῖν σωμᾰ́τοιν	σῦμα N;GEN;DU	σῶμα N;GEN;DU
@@ -641,53 +641,53 @@ Generate the lemma and morphological tags for the following inflected verb: τρ
 Generate the lemma and morphological tags for the following inflected verb: τρόπαιᾰ	τρόπαιον N;VOC;PL	τρόπαιον N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: τρόπαιον	τρόπαιον N;VOC;SG	τρόπαιον N;ACC;SG
 Generate the lemma and morphological tags for the following inflected verb: τῆς φλογός	φλόγος N;GEN;SG	φλόξ N;GEN;SG
-Generate the lemma and morphological tags for the following inflected verb: τῶν φλογῶν	φλόγος N;GEN;PL	φλόξ N;GEN;PL
+Generate the lemma and morphological tags for the following inflected verb: τῶν φλογῶν	φλόγη N;GEN;PL	φλόξ N;GEN;PL
 Generate the lemma and morphological tags for the following inflected verb: ταῖς φλοξῐ́	φλόξ N;DAT;PL	φλόξ N;DAT;PL
 Generate the lemma and morphological tags for the following inflected verb: φλόξ	φλόξ N;VOC;SG	φλόξ N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: τᾱ̀ς φλόγᾰς	φλόγος N;ACC;PL	φλόξ N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: τὴν φλόγᾰ	φλόγος N;ACC;SG	φλόξ N;ACC;SG
-Generate the lemma and morphological tags for the following inflected verb: τὼ φλόγε	φλόγος N;NOM;DU	φλόξ N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ φλόγε	φλόγος N;ACC;DU	φλόξ N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: τοῖν φλογοῖν	φλόγος N;GEN;DU	φλόξ N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: ἡ φλόξ	φλόξ N;NOM;SG	φλόξ N;NOM;SG
 Generate the lemma and morphological tags for the following inflected verb: φλόγε	φλόγος N;VOC;SG	φλόξ N;VOC;DU
 Generate the lemma and morphological tags for the following inflected verb: φλόγες	φλόγος N;VOC;PL	φλόξ N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: αἱ φλόγες	φλόγος N;NOM;PL	φλόξ N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῖν φλογοῖν	φλόγος N;GEN;DU	φλόξ N;GEN;DU
-Generate the lemma and morphological tags for the following inflected verb: τὼ φλόγε	φλόγος N;NOM;DU	φλόξ N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ φλόγε	φλόγος N;ACC;DU	φλόξ N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: τῇ φλογῐ́	φλόγιον N;DAT;SG	φλόξ N;DAT;SG
-Generate the lemma and morphological tags for the following inflected verb: τῇ φρουρᾷ	φρουρή N;DAT;SG	φρουρά N;DAT;SG
+Generate the lemma and morphological tags for the following inflected verb: τῇ φρουρᾷ	φρούρη N;DAT;SG	φρουρά N;DAT;SG
 Generate the lemma and morphological tags for the following inflected verb: ταῖς φρουραῖς	φρουρή N;DAT;PL	φρουρά N;DAT;PL
 Generate the lemma and morphological tags for the following inflected verb: αἱ φρουραί	φρουρή N;NOM;PL	φρουρά N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῖν φρουραῖν	φρουρή N;GEN;DU	φρουρά N;DAT;DU
-Generate the lemma and morphological tags for the following inflected verb: τὼ φρουρᾱ́	φρουρή N;ACC;DU	φρουρά N;ACC;DU
-Generate the lemma and morphological tags for the following inflected verb: τῆς φρουρᾶς	φρουρά N;GEN;SG	φρουρά N;GEN;SG
+Generate the lemma and morphological tags for the following inflected verb: τὼ φρουρᾱ́	φρουρά N;ACC;DU	φρουρά N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: τῆς φρουρᾶς	φρούρα N;GEN;SG	φρουρά N;GEN;SG
 Generate the lemma and morphological tags for the following inflected verb: τῶν φρουρῶν	φρούρα N;GEN;PL	φρουρά N;GEN;PL
 Generate the lemma and morphological tags for the following inflected verb: τᾱ̀ς φρουρᾱ́ς	φρουρή N;ACC;PL	φρουρά N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῖν φρουραῖν	φρουρή N;GEN;DU	φρουρά N;GEN;DU
-Generate the lemma and morphological tags for the following inflected verb: τὼ φρουρᾱ́	φρουρή N;ACC;DU	φρουρά N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ φρουρᾱ́	φρουρά N;ACC;DU	φρουρά N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: τὴν φρουρᾱ́ν	φρουρά N;ACC;SG	φρουρά N;ACC;SG
-Generate the lemma and morphological tags for the following inflected verb: φρουρᾱ́	φρουρή N;VOC;DU	φρουρά N;VOC;SG
-Generate the lemma and morphological tags for the following inflected verb: φρουρᾱ́	φρουρή N;VOC;DU	φρουρά N;VOC;DU
+Generate the lemma and morphological tags for the following inflected verb: φρουρᾱ́	φρουρά N;VOC;DU	φρουρά N;VOC;SG
+Generate the lemma and morphological tags for the following inflected verb: φρουρᾱ́	φρουρά N;VOC;DU	φρουρά N;VOC;DU
 Generate the lemma and morphological tags for the following inflected verb: φρουραί	φρουρή N;VOC;PL	φρουρά N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: ἡ φρουρᾱ́	φρουρά N;NOM;SG	φρουρά N;NOM;SG
 Generate the lemma and morphological tags for the following inflected verb: τῷ φωτῐ́	φῶς N;DAT;SG	φώς N;DAT;SG
 Generate the lemma and morphological tags for the following inflected verb: φῶτες	φῶς N;VOC;PL	φώς N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῦ φωτός	φωτός N;GEN;SG	φώς N;GEN;SG
-Generate the lemma and morphological tags for the following inflected verb: τὼ φῶτε	φῶς N;NOM;DU	φώς N;ACC;DU
-Generate the lemma and morphological tags for the following inflected verb: τῶν φωτῶν	φωτός N;GEN;PL	φώς N;GEN;PL
+Generate the lemma and morphological tags for the following inflected verb: τὼ φῶτε	φῶς N;ACC;DU	φώς N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: τῶν φωτῶν	φῶς N;GEN;PL	φώς N;GEN;PL
 Generate the lemma and morphological tags for the following inflected verb: ὁ φώς	φῶς N;NOM;SG	φώς N;NOM;SG
 Generate the lemma and morphological tags for the following inflected verb: τοὺς φῶτᾰς	φῶς N;ACC;PL	φώς N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῖν φωτοῖν	φωτός N;GEN;DU	φώς N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: οἱ φῶτες	φῶς N;NOM;PL	φώς N;NOM;PL
-Generate the lemma and morphological tags for the following inflected verb: φώς	φῶς N;NOM;SG	φώς N;VOC;SG
-Generate the lemma and morphological tags for the following inflected verb: τὼ φῶτε	φῶς N;NOM;DU	φώς N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: φώς	φῶς N;VOC;SG	φώς N;VOC;SG
+Generate the lemma and morphological tags for the following inflected verb: τὼ φῶτε	φῶς N;ACC;DU	φώς N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: φῶτε	φῶς N;VOC;DU	φώς N;VOC;DU
 Generate the lemma and morphological tags for the following inflected verb: τοῖς φωσῐ́	φῶς N;DAT;PL	φώς N;DAT;PL
 Generate the lemma and morphological tags for the following inflected verb: τὸν φῶτᾰ	φῶς N;ACC;SG	φώς N;ACC;SG
 Generate the lemma and morphological tags for the following inflected verb: τοῖν φωτοῖν	φωτός N;GEN;DU	φώς N;GEN;DU
-Generate the lemma and morphological tags for the following inflected verb: χιλιάδοιν	χιλιάς N;DAT;DU	χιλιάς N;DAT;DU
+Generate the lemma and morphological tags for the following inflected verb: χιλιάδοιν	χιλιάς N;GEN;DU	χιλιάς N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: χιλιάδε	χιλιάς N;VOC;DU	χιλιάς N;VOC;DU
-Generate the lemma and morphological tags for the following inflected verb: χιλιά	χιλιά N;VOC;SG	χιλιάς N;VOC;SG
+Generate the lemma and morphological tags for the following inflected verb: χιλιά	χιλιός N;VOC;SG	χιλιάς N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: χιλιάδῐ	χιλιάς N;DAT;SG	χιλιάς N;DAT;SG
 Generate the lemma and morphological tags for the following inflected verb: χιλιάς	χιλιά N;GEN;SG	χιλιάς N;NOM;SG
 Generate the lemma and morphological tags for the following inflected verb: χιλιάδων	χιλιάς N;GEN;PL	χιλιάς N;GEN;PL
@@ -698,7 +698,7 @@ Generate the lemma and morphological tags for the following inflected verb: χι
 Generate the lemma and morphological tags for the following inflected verb: χιλιάδες	χιλιάς N;VOC;PL	χιλιάς N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: χιλιάδος	χιλιάς N;GEN;SG	χιλιάς N;GEN;SG
 Generate the lemma and morphological tags for the following inflected verb: χιλιάσῐ(ν)	χιλιάς N;DAT;PL	χιλιάς N;DAT;PL
-Generate the lemma and morphological tags for the following inflected verb: χιλιάδοιν	χιλιάς N;DAT;DU	χιλιάς N;GEN;DU
+Generate the lemma and morphological tags for the following inflected verb: χιλιάδοιν	χιλιάς N;GEN;DU	χιλιάς N;GEN;DU
 Generate the lemma and morphological tags for the following inflected verb: χιλιάδες	χιλιάς N;VOC;PL	χιλιάς N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: χορευταί	χορευτής N;VOC;PL	χορευτής N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: χορευτᾱ́	χορευτής N;VOC;DU	χορευτής N;VOC;DU
@@ -706,38 +706,38 @@ Generate the lemma and morphological tags for the following inflected verb: χο
 Generate the lemma and morphological tags for the following inflected verb: χορευτήν	χορευτής N;ACC;SG	χορευτής N;ACC;SG
 Generate the lemma and morphological tags for the following inflected verb: χορευτᾱ́ς	χορευτής N;ACC;PL	χορευτής N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: χορευτῶν	χορευτής N;GEN;PL	χορευτής N;GEN;PL
-Generate the lemma and morphological tags for the following inflected verb: χορευτής	χορευτής N;GEN;SG	χορευτής N;NOM;SG
+Generate the lemma and morphological tags for the following inflected verb: χορευτής	χορευτής N;NOM;SG	χορευτής N;NOM;SG
 Generate the lemma and morphological tags for the following inflected verb: χορευταῖν	χορευτής N;GEN;DU	χορευτής N;GEN;DU
 Generate the lemma and morphological tags for the following inflected verb: χορευτᾱ́	χορευτής N;VOC;DU	χορευτής N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: χορευτῇ	χορευτής N;DAT;SG	χορευτής N;DAT;SG
 Generate the lemma and morphological tags for the following inflected verb: χορευτή	χορευτής N;VOC;SG	χορευτής N;VOC;SG
-Generate the lemma and morphological tags for the following inflected verb: χορευτοῦ	χορευτός ADJ;GEN;SG;NE	χορευτής N;GEN;SG
+Generate the lemma and morphological tags for the following inflected verb: χορευτοῦ	χορευτός ADJ;GEN;SG;NEUT	χορευτής N;GEN;SG
 Generate the lemma and morphological tags for the following inflected verb: χορευταῖν	χορευτής N;GEN;DU	χορευτής N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: χορευτᾱ́	χορευτής N;VOC;DU	χορευτής N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: χορευταῖς	χορευτής N;DAT;PL	χορευτής N;DAT;PL
 Generate the lemma and morphological tags for the following inflected verb: χρησμοῦ	χρῷσμός N;GEN;SG	χρησμός N;GEN;SG
-Generate the lemma and morphological tags for the following inflected verb: χρησμοῖς	χρησμός N;DAT;PL	χρησμός N;DAT;PL
-Generate the lemma and morphological tags for the following inflected verb: χρησμοῖν	χρησμός N;GEN;DU	χρησμός N;DAT;DU
-Generate the lemma and morphological tags for the following inflected verb: χρησμέ	χρησμός N;VOC;SG	χρησμός N;VOC;SG
-Generate the lemma and morphological tags for the following inflected verb: χρησμούς	χρησμός N;ACC;PL	χρησμός N;ACC;PL
-Generate the lemma and morphological tags for the following inflected verb: χρησμοί	χρησμός N;VOC;PL	χρησμός N;VOC;PL
+Generate the lemma and morphological tags for the following inflected verb: χρησμοῖς	χρῷσμός N;DAT;PL	χρησμός N;DAT;PL
+Generate the lemma and morphological tags for the following inflected verb: χρησμοῖν	χρῷσμός N;GEN;DU	χρησμός N;DAT;DU
+Generate the lemma and morphological tags for the following inflected verb: χρησμέ	χρῷσμός N;VOC;SG	χρησμός N;VOC;SG
+Generate the lemma and morphological tags for the following inflected verb: χρησμούς	χρῷσμός N;ACC;PL	χρησμός N;ACC;PL
+Generate the lemma and morphological tags for the following inflected verb: χρησμοί	χρῷσμός N;VOC;PL	χρησμός N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: χρησμώ	χρῷσμός N;VOC;DU	χρησμός N;VOC;DU
-Generate the lemma and morphological tags for the following inflected verb: χρησμός	χρησμός N;NOM;SG	χρησμός N;NOM;SG
-Generate the lemma and morphological tags for the following inflected verb: χρησμοῖν	χρησμός N;GEN;DU	χρησμός N;GEN;DU
-Generate the lemma and morphological tags for the following inflected verb: χρησμῷ	χρῷσμος N;DAT;SG	χρησμός N;DAT;SG
-Generate the lemma and morphological tags for the following inflected verb: χρησμοί	χρησμός N;VOC;PL	χρησμός N;NOM;PL
+Generate the lemma and morphological tags for the following inflected verb: χρησμός	χρῷσμός N;NOM;SG	χρησμός N;NOM;SG
+Generate the lemma and morphological tags for the following inflected verb: χρησμοῖν	χρῷσμός N;GEN;DU	χρησμός N;GEN;DU
+Generate the lemma and morphological tags for the following inflected verb: χρησμῷ	χρῷσμός N;DAT;SG	χρησμός N;DAT;SG
+Generate the lemma and morphological tags for the following inflected verb: χρησμοί	χρῷσμός N;VOC;PL	χρησμός N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: χρησμώ	χρῷσμός N;VOC;DU	χρησμός N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: χρησμώ	χρῷσμός N;VOC;DU	χρησμός N;ACC;DU
-Generate the lemma and morphological tags for the following inflected verb: χρησμόν	χρησμός N;VOC;SG	χρησμός N;ACC;SG
-Generate the lemma and morphological tags for the following inflected verb: χρησμῶν	χρῶσμα N;GEN;PL	χρησμός N;GEN;PL
+Generate the lemma and morphological tags for the following inflected verb: χρησμόν	χρῷσμός N;VOC;SG	χρησμός N;ACC;SG
+Generate the lemma and morphological tags for the following inflected verb: χρησμῶν	χρῷσμός N;GEN;PL	χρησμός N;GEN;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῖν ἀδικίαιν	ἀδικία N;GEN;DU	ἀδικία N;GEN;DU
 Generate the lemma and morphological tags for the following inflected verb: ἡ ἀδικίᾱ	ἀδικία N;NOM;SG	ἀδικία N;NOM;SG
-Generate the lemma and morphological tags for the following inflected verb: τῇ ἀδικίᾳ	ἀδίκια N;DAT;SG	ἀδικία N;DAT;SG
+Generate the lemma and morphological tags for the following inflected verb: τῇ ἀδικίᾳ	ἀδικία N;DAT;SG	ἀδικία N;DAT;SG
 Generate the lemma and morphological tags for the following inflected verb: τὼ ἀδικίᾱ	ἀδικία N;ACC;DU	ἀδικία N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: ἀδικίᾱ	ἀδικία N;VOC;DU	ἀδικία N;VOC;DU
 Generate the lemma and morphological tags for the following inflected verb: τὼ ἀδικίᾱ	ἀδικία N;ACC;DU	ἀδικία N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: ταῖς ἀδικίαις	ἀδικία N;DAT;PL	ἀδικία N;DAT;PL
-Generate the lemma and morphological tags for the following inflected verb: τῶν ἀδικιῶν	ἀδίκια N;GEN;PL	ἀδικία N;GEN;PL
+Generate the lemma and morphological tags for the following inflected verb: τῶν ἀδικιῶν	ἀδικία N;GEN;PL	ἀδικία N;GEN;PL
 Generate the lemma and morphological tags for the following inflected verb: τᾱ̀ς ἀδικίᾱς	ἀδικία N;ACC;PL	ἀδικία N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: τῆς ἀδικίᾱς	ἀδικία N;GEN;SG	ἀδικία N;GEN;SG
 Generate the lemma and morphological tags for the following inflected verb: ἀδικίᾱ	ἀδικία N;VOC;DU	ἀδικία N;VOC;SG
@@ -745,51 +745,51 @@ Generate the lemma and morphological tags for the following inflected verb: α�
 Generate the lemma and morphological tags for the following inflected verb: τοῖν ἀδικίαιν	ἀδικία N;GEN;DU	ἀδικία N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: ἀδικῖαι	ἀδικία N;VOC;PL	ἀδικία N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: τὴν ἀδικίᾱν	ἀδικία N;ACC;SG	ἀδικία N;ACC;SG
-Generate the lemma and morphological tags for the following inflected verb: ἡ ἀκοή	ἀκόη N;NOM;SG	ἀκοή N;NOM;SG
+Generate the lemma and morphological tags for the following inflected verb: ἡ ἀκοή	ἀκόή N;NOM;SG	ἀκοή N;NOM;SG
 Generate the lemma and morphological tags for the following inflected verb: τὼ ἀκοᾱ́	ἀκός N;ACC;DU	ἀκοή N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: ἀκοᾱ́	ἀκός ADJ;VOC;DU;FEM	ἀκοή N;VOC;DU
-Generate the lemma and morphological tags for the following inflected verb: τοῖν ἀκοαῖν	ἄκοι N;GEN;DU	ἀκοή N;GEN;DU
-Generate the lemma and morphological tags for the following inflected verb: τῆς ἀκοῆς	ἄκος N;GEN;SG	ἀκοή N;GEN;SG
+Generate the lemma and morphological tags for the following inflected verb: τοῖν ἀκοαῖν	ἀκόή N;GEN;DU	ἀκοή N;GEN;DU
+Generate the lemma and morphological tags for the following inflected verb: τῆς ἀκοῆς	ἀκός N;GEN;SG	ἀκοή N;GEN;SG
 Generate the lemma and morphological tags for the following inflected verb: τῇ ἀκοῇ	ἄκος N;DAT;SG	ἀκοή N;DAT;SG
 Generate the lemma and morphological tags for the following inflected verb: τῶν ἀκοῶν	ἄκος N;GEN;PL	ἀκοή N;GEN;PL
 Generate the lemma and morphological tags for the following inflected verb: αἱ ἀκοαί	ἀκόα N;NOM;PL	ἀκοή N;NOM;PL
-Generate the lemma and morphological tags for the following inflected verb: τὴν ἀκοήν	ἀκόη N;ACC;SG	ἀκοή N;ACC;SG
+Generate the lemma and morphological tags for the following inflected verb: τὴν ἀκοήν	ἀκός N;ACC;SG	ἀκοή N;ACC;SG
 Generate the lemma and morphological tags for the following inflected verb: τὼ ἀκοᾱ́	ἀκός N;ACC;DU	ἀκοή N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: τᾱ̀ς ἀκοᾱ́ς	ἀκός N;ACC;PL	ἀκοή N;ACC;PL
-Generate the lemma and morphological tags for the following inflected verb: ἀκοή	ἀκόη N;VOC;SG	ἀκοή N;VOC;SG
+Generate the lemma and morphological tags for the following inflected verb: ἀκοή	ἀκός ADJ;VOC;SG;FEM	ἀκοή N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: ταῖς ἀκοαῖς	ἀκόα N;DAT;PL	ἀκοή N;DAT;PL
-Generate the lemma and morphological tags for the following inflected verb: τοῖν ἀκοαῖν	ἄκοι N;GEN;DU	ἀκοή N;DAT;DU
-Generate the lemma and morphological tags for the following inflected verb: ἀκοαί	ἀκός ADJ;NOM;PL;FEM	ἀκοή N;VOC;PL
+Generate the lemma and morphological tags for the following inflected verb: τοῖν ἀκοαῖν	ἀκόή N;GEN;DU	ἀκοή N;DAT;DU
+Generate the lemma and morphological tags for the following inflected verb: ἀκοαί	ἀκόα N;VOC;PL	ἀκοή N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: ὁ ἀμπελών	ἀμπελών N;NOM;SG	ἀμπελών N;NOM;SG
-Generate the lemma and morphological tags for the following inflected verb: ἀμπελών	ἀμπελός N;GEN;PL	ἀμπελών N;VOC;SG
+Generate the lemma and morphological tags for the following inflected verb: ἀμπελών	ἀμπελός ADJ;ACC;SG;NEUT	ἀμπελών N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: τοῖν ἀμπελώνοιν	ἄμπελων N;GEN;DU	ἀμπελών N;DAT;DU
-Generate the lemma and morphological tags for the following inflected verb: ἀμπελῶνες	ἀμπελών N;VOC;PL	ἀμπελών N;VOC;PL
+Generate the lemma and morphological tags for the following inflected verb: ἀμπελῶνες	ἀμπέλων N;VOC;PL	ἀμπελών N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: τοὺς ἀμπελῶνᾰς	ἀμπελών N;ACC;PL	ἀμπελών N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῦ ἀμπελῶνος	ἀμπέλων N;GEN;SG	ἀμπελών N;GEN;SG
-Generate the lemma and morphological tags for the following inflected verb: τῶν ἀμπελώνων	ἀμπέλων N;GEN;PL	ἀμπελών N;GEN;PL
-Generate the lemma and morphological tags for the following inflected verb: οἱ ἀμπελῶνες	ἀμπελών N;NOM;PL	ἀμπελών N;NOM;PL
+Generate the lemma and morphological tags for the following inflected verb: τῶν ἀμπελώνων	ἄμπελων N;GEN;PL	ἀμπελών N;GEN;PL
+Generate the lemma and morphological tags for the following inflected verb: οἱ ἀμπελῶνες	ἀμπέλων N;NOM;PL	ἀμπελών N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῖν ἀμπελώνοιν	ἄμπελων N;GEN;DU	ἀμπελών N;GEN;DU
 Generate the lemma and morphological tags for the following inflected verb: τὸν ἀμπελῶνᾰ	ἀμπελών N;ACC;SG	ἀμπελών N;ACC;SG
-Generate the lemma and morphological tags for the following inflected verb: ἀμπελῶνε	ἀμπελών N;VOC;DU	ἀμπελών N;VOC;DU
-Generate the lemma and morphological tags for the following inflected verb: τὼ ἀμπελῶνε	ἀμπελών N;NOM;DU	ἀμπελών N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: ἀμπελῶνε	ἀμπέλων N;VOC;DU	ἀμπελών N;VOC;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ ἀμπελῶνε	ἀμπέλων N;ACC;DU	ἀμπελών N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: τῷ ἀμπελῶνῐ	ἀμπελών N;DAT;SG	ἀμπελών N;DAT;SG
-Generate the lemma and morphological tags for the following inflected verb: τοῖς ἀμπελῶσῐ	ἀμπέλη N;DAT;PL	ἀμπελών N;DAT;PL
-Generate the lemma and morphological tags for the following inflected verb: τὼ ἀμπελῶνε	ἀμπελών N;NOM;DU	ἀμπελών N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: τοῖς ἀμπελῶσῐ	ἀμπέλων N;DAT;PL	ἀμπελών N;DAT;PL
+Generate the lemma and morphological tags for the following inflected verb: τὼ ἀμπελῶνε	ἀμπέλων N;ACC;DU	ἀμπελών N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: τῆς ἀποθεώσεως	ἀπόθεωσις N;GEN;SG	ἀποθέωσις N;GEN;SG
-Generate the lemma and morphological tags for the following inflected verb: τὼ ἀποθεώσει / ἀποθεώσεε	ἀπόθεωσις N;ACC;DU	ἀποθέωσις N;NOM;DU
-Generate the lemma and morphological tags for the following inflected verb: ἀποθέωσῐ	ἀπόθεωσις N;DAT;SG	ἀποθέωσις N;VOC;SG
+Generate the lemma and morphological tags for the following inflected verb: τὼ ἀποθεώσει / ἀποθεώσεε	ἄποθεώσις N;NOM;DU	ἀποθέωσις N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: ἀποθέωσῐ	ἀποθέωσις N;VOC;SG	ἀποθέωσις N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: τοῖν ἀποθεωσέοιν	ἀπόθεωσις N;GEN;DU	ἀποθέωσις N;GEN;DU
 Generate the lemma and morphological tags for the following inflected verb: ἡ ἀποθέωσῐς	ἀποθέωσις N;NOM;SG	ἀποθέωσις N;NOM;SG
 Generate the lemma and morphological tags for the following inflected verb: αἱ ἀποθεώσεις / ἀποθέωσεες	ἀπόθεωσις N;NOM;PL	ἀποθέωσις N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: ταῖς ἀποθεώσεσῐ(ν)	ἀπόθεωσις N;DAT;PL	ἀποθέωσις N;DAT;PL
-Generate the lemma and morphological tags for the following inflected verb: τὼ ἀποθεώσει / ἀποθεώσεε	ἀπόθεωσις N;ACC;DU	ἀποθέωσις N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ ἀποθεώσει / ἀποθεώσεε	ἄποθεώσις N;NOM;DU	ἀποθέωσις N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: τῇ ἀποθεώσει / ἀποθεώσεῐ̈	ἀπόθεωσις N;DAT;SG	ἀποθέωσις N;DAT;SG
 Generate the lemma and morphological tags for the following inflected verb: τὴν ἀποθέωσῐν	ἀποθέωσις N;ACC;SG	ἀποθέωσις N;ACC;SG
 Generate the lemma and morphological tags for the following inflected verb: ἀποθεώσεις / ἀποθέωσεες	ἀπόθεωσις N;VOC;PL	ἀποθέωσις N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῖν ἀποθεωσέοιν	ἀπόθεωσις N;GEN;DU	ἀποθέωσις N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: ἀποθεώσει / ἀποθεώσεε	ἀπόθεωσις N;VOC;DU	ἀποθέωσις N;VOC;DU
 Generate the lemma and morphological tags for the following inflected verb: τῶν ἀποθεώσεων	ἀπόθεωσις N;GEN;PL	ἀποθέωσις N;GEN;PL
-Generate the lemma and morphological tags for the following inflected verb: τᾱ̀ς ἀποθεώσεις	ἀποθεώσις N;ACC;PL	ἀποθέωσις N;ACC;PL
+Generate the lemma and morphological tags for the following inflected verb: τᾱ̀ς ἀποθεώσεις	ἀπόθεωσις N;ACC;PL	ἀποθέωσις N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῖν ἀπονῐ́αιν	ἀπονία N;GEN;DU	ἀπονία N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: ἀπονῐ́αι	ἀπονία N;VOC;PL	ἀπονία N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: τῆς ἀπονῐ́ᾱς	ἀπονία N;GEN;SG	ἀπονία N;GEN;SG
@@ -799,55 +799,55 @@ Generate the lemma and morphological tags for the following inflected verb: α�
 Generate the lemma and morphological tags for the following inflected verb: ἡ ἀπονῐ́ᾱ	ἀπονία N;NOM;SG	ἀπονία N;NOM;SG
 Generate the lemma and morphological tags for the following inflected verb: τᾱ̀ς ἀπονῐ́ᾱς	ἀπονία N;ACC;PL	ἀπονία N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: ἀπονῐ́ᾱ	ἀπονία N;VOC;DU	ἀπονία N;VOC;SG
-Generate the lemma and morphological tags for the following inflected verb: τὼ ἀπονῐ́ᾱ	ἀπονία N;NOM;DU	ἀπονία N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ ἀπονῐ́ᾱ	ἀπονία N;ACC;DU	ἀπονία N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: τῇ ἀπονῐ́ᾳ	ἀπονία N;DAT;SG	ἀπονία N;DAT;SG
-Generate the lemma and morphological tags for the following inflected verb: τὼ ἀπονῐ́ᾱ	ἀπονία N;NOM;DU	ἀπονία N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ ἀπονῐ́ᾱ	ἀπονία N;ACC;DU	ἀπονία N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: τοῖν ἀπονῐ́αιν	ἀπονία N;GEN;DU	ἀπονία N;GEN;DU
 Generate the lemma and morphological tags for the following inflected verb: τὴν ἀπονῐ́ᾱν	ἀπονία N;ACC;SG	ἀπονία N;ACC;SG
-Generate the lemma and morphological tags for the following inflected verb: ἆθλε	ἆθλος N;VOC;SG	ἆθλος N;VOC;SG
+Generate the lemma and morphological tags for the following inflected verb: ἆθλε	ἆθλος ADJ;VOC;SG;NEUT	ἆθλος N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: ἄθλων	ἄθλος N;GEN;PL	ἆθλος N;GEN;PL
-Generate the lemma and morphological tags for the following inflected verb: ἄθλους	ἄθλος ADJ;ACC;PL;MASC	ἆθλος N;ACC;PL
+Generate the lemma and morphological tags for the following inflected verb: ἄθλους	ἄθλος N;ACC;PL	ἆθλος N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: ἄθλω	ἄθλος N;VOC;DU	ἆθλος N;VOC;DU
-Generate the lemma and morphological tags for the following inflected verb: ἄθλοιν	ἄθλος N;DAT;DU	ἆθλος N;DAT;DU
+Generate the lemma and morphological tags for the following inflected verb: ἄθλοιν	ἄθλος N;GEN;DU	ἆθλος N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: ἄθλω	ἄθλος N;VOC;DU	ἆθλος N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: ἄθλου	ἄθλος N;GEN;SG	ἆθλος N;GEN;SG
-Generate the lemma and morphological tags for the following inflected verb: ἄθλοιν	ἄθλος N;DAT;DU	ἆθλος N;GEN;DU
-Generate the lemma and morphological tags for the following inflected verb: ἄθλῳ	ἄθλος N;DAT;SG	ἆθλος N;DAT;SG
-Generate the lemma and morphological tags for the following inflected verb: ἆθλος	ἆθλος N;NOM;SG	ἆθλος N;NOM;SG
+Generate the lemma and morphological tags for the following inflected verb: ἄθλοιν	ἄθλος N;GEN;DU	ἆθλος N;GEN;DU
+Generate the lemma and morphological tags for the following inflected verb: ἄθλῳ	ἄθλος ADJ;DAT;SG;NEUT	ἆθλος N;DAT;SG
+Generate the lemma and morphological tags for the following inflected verb: ἆθλος	ἆθλος ADJ;NOM;SG	ἆθλος N;NOM;SG
 Generate the lemma and morphological tags for the following inflected verb: ἄθλω	ἄθλος N;VOC;DU	ἆθλος N;ACC;DU
-Generate the lemma and morphological tags for the following inflected verb: ἆθλοι	ἆθλος N;VOC;PL	ἆθλος N;NOM;PL
+Generate the lemma and morphological tags for the following inflected verb: ἆθλοι	ἆθλος ADJ;VOC;PL	ἆθλος N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: ἆθλον	ἆθλος ADJ;ACC;SG;NEUT	ἆθλος N;ACC;SG
 Generate the lemma and morphological tags for the following inflected verb: ἄθλοις	ἄθλος N;DAT;PL	ἆθλος N;DAT;PL
-Generate the lemma and morphological tags for the following inflected verb: ἆθλοι	ἆθλος N;VOC;PL	ἆθλος N;VOC;PL
+Generate the lemma and morphological tags for the following inflected verb: ἆθλοι	ἆθλος ADJ;VOC;PL	ἆθλος N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῖν Ᾰ̓ντῐοχέοιν	Ἀντιοχεύς N;GEN;DU	Ἀντιοχεύς N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: τῶν Ᾰ̓ντῐοχέων	Ἀντιοχεύς N;GEN;PL	Ἀντιοχεύς N;GEN;PL
-Generate the lemma and morphological tags for the following inflected verb: τῷ Ᾰ̓ντῐοχέῐ̈ / Ᾰ̓ντῐοχεῖ	ἀντιοχεύς N;DAT;SG	Ἀντιοχεύς N;DAT;SG
-Generate the lemma and morphological tags for the following inflected verb: Ᾰ̓ντῐοχῆς	ἀντιοχεύς N;GEN;SG	Ἀντιοχεύς N;VOC;PL
+Generate the lemma and morphological tags for the following inflected verb: τῷ Ᾰ̓ντῐοχέῐ̈ / Ᾰ̓ντῐοχεῖ	Ἀντιοχεύς N;DAT;SG	Ἀντιοχεύς N;DAT;SG
+Generate the lemma and morphological tags for the following inflected verb: Ᾰ̓ντῐοχῆς	Ἀντιοχεύς N;GEN;SG	Ἀντιοχεύς N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: τοὺς Ᾰ̓ντῐοχέᾱς	Ἀντιοχεύς N;ACC;PL	Ἀντιοχεύς N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῦ Ᾰ̓ντῐοχέως	Ἀντιοχεύς N;GEN;SG	Ἀντιοχεύς N;GEN;SG
-Generate the lemma and morphological tags for the following inflected verb: ὁ Ᾰ̓ντῐοχεύς	ἀντιοχεύς N;NOM;SG	Ἀντιοχεύς N;NOM;SG
-Generate the lemma and morphological tags for the following inflected verb: τὼ Ᾰ̓ντῐοχῆ	ἀντιοχεύς N;NOM;DU	Ἀντιοχεύς N;NOM;DU
-Generate the lemma and morphological tags for the following inflected verb: τὼ Ᾰ̓ντῐοχῆ	ἀντιοχεύς N;NOM;DU	Ἀντιοχεύς N;ACC;DU
-Generate the lemma and morphological tags for the following inflected verb: τὸν Ᾰ̓ντῐοχέᾱ	ἀντιοχεία N;ACC;SG	Ἀντιοχεύς N;ACC;SG
-Generate the lemma and morphological tags for the following inflected verb: Ᾰ̓ντῐοχεῦ	ἀντιοχεύς N;VOC;SG	Ἀντιοχεύς N;VOC;SG
-Generate the lemma and morphological tags for the following inflected verb: οἱ Ᾰ̓ντῐοχῆς	ἀντιοχεύς N;NOM;PL	Ἀντιοχεύς N;NOM;PL
+Generate the lemma and morphological tags for the following inflected verb: ὁ Ᾰ̓ντῐοχεύς	Ἀντιοχεύς N;NOM;SG	Ἀντιοχεύς N;NOM;SG
+Generate the lemma and morphological tags for the following inflected verb: τὼ Ᾰ̓ντῐοχῆ	Ἀντιοχεύς N;ACC;DU	Ἀντιοχεύς N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ Ᾰ̓ντῐοχῆ	Ἀντιοχεύς N;ACC;DU	Ἀντιοχεύς N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: τὸν Ᾰ̓ντῐοχέᾱ	Ἀντιοχεία N;ACC;SG	Ἀντιοχεύς N;ACC;SG
+Generate the lemma and morphological tags for the following inflected verb: Ᾰ̓ντῐοχεῦ	Ἀντιοχεύς N;VOC;SG	Ἀντιοχεύς N;VOC;SG
+Generate the lemma and morphological tags for the following inflected verb: οἱ Ᾰ̓ντῐοχῆς	Ἀντιοχεύς N;NOM;PL	Ἀντιοχεύς N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῖν Ᾰ̓ντῐοχέοιν	Ἀντιοχεύς N;GEN;DU	Ἀντιοχεύς N;GEN;DU
 Generate the lemma and morphological tags for the following inflected verb: τοῖς Ᾰ̓ντῐοχεῦσῐ(ν)	Ἀντιοχεύς N;DAT;PL	Ἀντιοχεύς N;DAT;PL
-Generate the lemma and morphological tags for the following inflected verb: Ᾰ̓ντῐοχῆ	ἀντιοχεύς N;VOC;SG	Ἀντιοχεύς N;VOC;DU
+Generate the lemma and morphological tags for the following inflected verb: Ᾰ̓ντῐοχῆ	Ἀντιοχεύς N;VOC;DU	Ἀντιοχεύς N;VOC;DU
 Generate the lemma and morphological tags for the following inflected verb: τὸ ἐκτρόπῐον	ἐκτρόπιον N;ACC;SG	ἐκτρόπιον N;NOM;SG
-Generate the lemma and morphological tags for the following inflected verb: τοῖν ἐκτροπῐ́οιν	ἔκτροπιον N;GEN;DU	ἐκτρόπιον N;GEN;DU
-Generate the lemma and morphological tags for the following inflected verb: τοῦ ἐκτροπῐ́ου	ἐκτρόπιον N;GEN;SG	ἐκτρόπιον N;GEN;SG
+Generate the lemma and morphological tags for the following inflected verb: τοῖν ἐκτροπῐ́οιν	ἐκτρόπιον N;GEN;DU	ἐκτρόπιον N;GEN;DU
+Generate the lemma and morphological tags for the following inflected verb: τοῦ ἐκτροπῐ́ου	ἐκτροπίον N;GEN;SG	ἐκτρόπιον N;GEN;SG
 Generate the lemma and morphological tags for the following inflected verb: ἐκτρόπῐον	ἐκτρόπιον N;VOC;SG	ἐκτρόπιον N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: τᾰ̀ ἐκτρόπῐᾰ	ἐκτρόπιον N;ACC;PL	ἐκτρόπιον N;NOM;PL
-Generate the lemma and morphological tags for the following inflected verb: τῷ ἐκτροπῐ́ῳ	ἐκτρόπιον N;DAT;SG	ἐκτρόπιον N;DAT;SG
+Generate the lemma and morphological tags for the following inflected verb: τῷ ἐκτροπῐ́ῳ	ἐκτροπίον N;DAT;SG	ἐκτρόπιον N;DAT;SG
 Generate the lemma and morphological tags for the following inflected verb: τοῖς ἐκτροπῐ́οις	ἐκτρόπιον N;DAT;PL	ἐκτρόπιον N;DAT;PL
 Generate the lemma and morphological tags for the following inflected verb: ἐκτροπῐ́ω	ἐκτρόπιον N;VOC;DU	ἐκτρόπιον N;VOC;DU
-Generate the lemma and morphological tags for the following inflected verb: τοῖν ἐκτροπῐ́οιν	ἔκτροπιον N;GEN;DU	ἐκτρόπιον N;DAT;DU
+Generate the lemma and morphological tags for the following inflected verb: τοῖν ἐκτροπῐ́οιν	ἐκτρόπιον N;GEN;DU	ἐκτρόπιον N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: τᾰ̀ ἐκτρόπῐᾰ	ἐκτρόπιον N;ACC;PL	ἐκτρόπιον N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: ἐκτρόπῐᾰ	ἐκτρόπιον N;VOC;PL	ἐκτρόπιον N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: τῶν ἐκτροπῐ́ων	ἐκτρόπιον N;GEN;PL	ἐκτρόπιον N;GEN;PL
-Generate the lemma and morphological tags for the following inflected verb: τὼ ἐκτροπῐ́ω	ἐκτρόπιον N;NOM;DU	ἐκτρόπιον N;NOM;DU
-Generate the lemma and morphological tags for the following inflected verb: τὼ ἐκτροπῐ́ω	ἐκτρόπιον N;NOM;DU	ἐκτρόπιον N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ ἐκτροπῐ́ω	ἐκτρόπιον N;ACC;DU	ἐκτρόπιον N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ ἐκτροπῐ́ω	ἐκτρόπιον N;ACC;DU	ἐκτρόπιον N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: τὸ ἐκτρόπῐον	ἐκτρόπιον N;ACC;SG	ἐκτρόπιον N;ACC;SG
 Generate the lemma and morphological tags for the following inflected verb: αἱ ἐπᾰγωγαί	ἐπαγωγή N;NOM;PL	ἐπαγωγή N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: τὴν ἐπᾰγωγήν	ἐπαγωγή N;ACC;SG	ἐπαγωγή N;ACC;SG
@@ -856,89 +856,89 @@ Generate the lemma and morphological tags for the following inflected verb: ἡ 
 Generate the lemma and morphological tags for the following inflected verb: τᾱ̀ς ἐπᾰγωγᾱ́ς	ἐπαγωγή N;ACC;PL	ἐπαγωγή N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: ἐπᾰγωγή	ἐπαγωγή N;VOC;SG	ἐπαγωγή N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: τοῖν ἐπᾰγωγαῖν	ἐπαγωγή N;GEN;DU	ἐπαγωγή N;DAT;DU
-Generate the lemma and morphological tags for the following inflected verb: τὼ ἐπᾰγωγᾱ́	ἐπαγωγή N;NOM;DU	ἐπαγωγή N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ ἐπᾰγωγᾱ́	ἐπαγωγή N;ACC;DU	ἐπαγωγή N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: τῇ ἐπᾰγωγῇ	ἐπαγωγή N;DAT;SG	ἐπαγωγή N;DAT;SG
 Generate the lemma and morphological tags for the following inflected verb: τῶν ἐπᾰγωγῶν	ἐπαγωγή N;GEN;PL	ἐπαγωγή N;GEN;PL
 Generate the lemma and morphological tags for the following inflected verb: ταῖς ἐπᾰγωγαῖς	ἐπαγωγή N;DAT;PL	ἐπαγωγή N;DAT;PL
 Generate the lemma and morphological tags for the following inflected verb: τῆς ἐπᾰγωγῆς	ἐπαγωγή N;GEN;SG	ἐπαγωγή N;GEN;SG
-Generate the lemma and morphological tags for the following inflected verb: τὼ ἐπᾰγωγᾱ́	ἐπαγωγή N;NOM;DU	ἐπαγωγή N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ ἐπᾰγωγᾱ́	ἐπαγωγή N;ACC;DU	ἐπαγωγή N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: ἐπᾰγωγᾱ́	ἐπαγωγή N;VOC;DU	ἐπαγωγή N;VOC;DU
 Generate the lemma and morphological tags for the following inflected verb: ἐπᾰγωγαί	ἐπαγωγή N;VOC;PL	ἐπαγωγή N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: ἐρίω	ἔριον N;VOC;DU	ἔριον N;VOC;DU
-Generate the lemma and morphological tags for the following inflected verb: τοῖν ἐρίοιν	ἔριον N;DAT;DU	ἔριον N;DAT;DU
+Generate the lemma and morphological tags for the following inflected verb: τοῖν ἐρίοιν	ἔριον N;GEN;DU	ἔριον N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: ἔριον	ἔριον N;VOC;SG	ἔριον N;VOC;SG
-Generate the lemma and morphological tags for the following inflected verb: ἔριᾰ	ἔριον N;VOC;PL	ἔριον N;VOC;PL
+Generate the lemma and morphological tags for the following inflected verb: ἔριᾰ	ἔριον N;VOC;SG	ἔριον N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: τὰ ἔριᾰ	ἔριον N;NOM;PL	ἔριον N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῦ ἐρίου	ἔριον N;GEN;SG	ἔριον N;GEN;SG
 Generate the lemma and morphological tags for the following inflected verb: τῷ ἐρίῳ	ἔριον N;DAT;SG	ἔριον N;DAT;SG
 Generate the lemma and morphological tags for the following inflected verb: τὰ ἔριᾰ	ἔριον N;NOM;PL	ἔριον N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: τὸ ἔριον	ἔριον N;ACC;SG	ἔριον N;ACC;SG
-Generate the lemma and morphological tags for the following inflected verb: τοῖς ἐρίοις	ἔριον N;DAT;PL	ἔριον N;DAT;PL
-Generate the lemma and morphological tags for the following inflected verb: τοῖν ἐρίοιν	ἔριον N;DAT;DU	ἔριον N;GEN;DU
+Generate the lemma and morphological tags for the following inflected verb: τοῖς ἐρίοις	ἔριος N;DAT;PL	ἔριον N;DAT;PL
+Generate the lemma and morphological tags for the following inflected verb: τοῖν ἐρίοιν	ἔριον N;GEN;DU	ἔριον N;GEN;DU
 Generate the lemma and morphological tags for the following inflected verb: τὸ ἔριον	ἔριον N;ACC;SG	ἔριον N;NOM;SG
-Generate the lemma and morphological tags for the following inflected verb: τὼ ἐρίω	ἔριον N;NOM;DU	ἔριον N;NOM;DU
-Generate the lemma and morphological tags for the following inflected verb: τὼ ἐρίω	ἔριον N;NOM;DU	ἔριον N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ ἐρίω	ἔριος N;ACC;DU	ἔριον N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ ἐρίω	ἔριος N;ACC;DU	ἔριον N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: τῶν ἐρίων	ἔριον N;GEN;PL	ἔριον N;GEN;PL
-Generate the lemma and morphological tags for the following inflected verb: ἡγεμών	ἡγέμων N;ACC;SG	ἡγεμών N;VOC;SG
+Generate the lemma and morphological tags for the following inflected verb: ἡγεμών	ἡγέμων N;VOC;SG	ἡγεμών N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: τὸν, τὴν ἡγεμόνᾰ	ἡγέμων N;ACC;SG	ἡγεμών N;ACC;SG
-Generate the lemma and morphological tags for the following inflected verb: τὼ ἡγεμόνε	ἡγέμων N;NOM;DU	ἡγεμών N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ ἡγεμόνε	ἡγέμων N;ACC;DU	ἡγεμών N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: ἡγεμόνες	ἡγέμων N;VOC;PL	ἡγεμών N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: ἡγεμόνε	ἡγέμων N;VOC;SG	ἡγεμών N;VOC;DU
 Generate the lemma and morphological tags for the following inflected verb: τῷ, τῇ ἡγεμόνῐ	ἡγέμων N;DAT;SG	ἡγεμών N;DAT;SG
-Generate the lemma and morphological tags for the following inflected verb: τοῖν ἡγεμόνοιν	ἡγέμων N;DAT;DU	ἡγεμών N;DAT;DU
+Generate the lemma and morphological tags for the following inflected verb: τοῖν ἡγεμόνοιν	ἡγέμων N;GEN;DU	ἡγεμών N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: ὁ, ἡ ἡγεμών	ἡγέμων N;NOM;SG	ἡγεμών N;NOM;SG
 Generate the lemma and morphological tags for the following inflected verb: τοῖς, ταῖς ἡγεμόσῐ	ἡγέμος N;DAT;PL	ἡγεμών N;DAT;PL
 Generate the lemma and morphological tags for the following inflected verb: τῶν ἡγεμόνων	ἡγέμων N;GEN;PL	ἡγεμών N;GEN;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῦ, τῆς ἡγεμόνος	ἡγέμων N;GEN;SG	ἡγεμών N;GEN;SG
-Generate the lemma and morphological tags for the following inflected verb: τὼ ἡγεμόνε	ἡγέμων N;NOM;DU	ἡγεμών N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ ἡγεμόνε	ἡγέμων N;ACC;DU	ἡγεμών N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: οἱ, αἱ ἡγεμόνες	ἡγέμων N;NOM;PL	ἡγεμών N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: τοὺς, τᾱ̀ς ἡγεμόνᾰς	ἡγέμων N;ACC;PL	ἡγεμών N;ACC;PL
-Generate the lemma and morphological tags for the following inflected verb: τοῖν ἡγεμόνοιν	ἡγέμων N;DAT;DU	ἡγεμών N;GEN;DU
-Generate the lemma and morphological tags for the following inflected verb: τὼ ἥπᾰτε	ἥπάς N;NOM;DU	ἧπαρ N;ACC;DU
-Generate the lemma and morphological tags for the following inflected verb: τὸ ἧπᾰρ	ἧπαρ N;NOM;SG	ἧπαρ N;NOM;SG
-Generate the lemma and morphological tags for the following inflected verb: τὼ ἥπᾰτε	ἥπάς N;NOM;DU	ἧπαρ N;NOM;DU
-Generate the lemma and morphological tags for the following inflected verb: ἥπᾰτᾰ	ἥπάτης N;VOC;PL	ἧπαρ N;VOC;PL
-Generate the lemma and morphological tags for the following inflected verb: τῷ ἥπᾰτῐ	ἥπάς N;DAT;SG	ἧπαρ N;DAT;SG
-Generate the lemma and morphological tags for the following inflected verb: τὸ ἧπᾰρ	ἧπαρ N;NOM;SG	ἧπαρ N;ACC;SG
+Generate the lemma and morphological tags for the following inflected verb: τοῖν ἡγεμόνοιν	ἡγέμων N;GEN;DU	ἡγεμών N;GEN;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ ἥπᾰτε	ἥπατος N;ACC;DU	ἧπαρ N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: τὸ ἧπᾰρ	ἧπαρ N;ACC;SG	ἧπαρ N;NOM;SG
+Generate the lemma and morphological tags for the following inflected verb: τὼ ἥπᾰτε	ἥπατος N;ACC;DU	ἧπαρ N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: ἥπᾰτᾰ	ἥπατος ADJ;VOC;PL;NEUT	ἧπαρ N;VOC;PL
+Generate the lemma and morphological tags for the following inflected verb: τῷ ἥπᾰτῐ	ἥπατις N;DAT;SG	ἧπαρ N;DAT;SG
+Generate the lemma and morphological tags for the following inflected verb: τὸ ἧπᾰρ	ἧπαρ N;ACC;SG	ἧπαρ N;ACC;SG
 Generate the lemma and morphological tags for the following inflected verb: ἧπᾰρ	ἧπαρ N;VOC;SG	ἧπαρ N;VOC;SG
-Generate the lemma and morphological tags for the following inflected verb: τοῖς ἥπᾰσῐ	ἥπάς N;DAT;PL	ἧπαρ N;DAT;PL
+Generate the lemma and morphological tags for the following inflected verb: τοῖς ἥπᾰσῐ	ἥπας N;DAT;PL	ἧπαρ N;DAT;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῖν ἡπᾰ́τοιν	ἡπάτης N;GEN;DU	ἧπαρ N;GEN;DU
 Generate the lemma and morphological tags for the following inflected verb: τῶν ἡπᾰ́των	ἡπάτης N;GEN;PL	ἧπαρ N;GEN;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῖν ἡπᾰ́τοιν	ἡπάτης N;GEN;DU	ἧπαρ N;DAT;DU
-Generate the lemma and morphological tags for the following inflected verb: τᾰ̀ ἥπᾰτᾰ	ἥπάς N;ACC;PL	ἧπαρ N;ACC;PL
-Generate the lemma and morphological tags for the following inflected verb: τοῦ ἥπᾰτος	ἥπάς N;GEN;SG	ἧπαρ N;GEN;SG
-Generate the lemma and morphological tags for the following inflected verb: τᾰ̀ ἥπᾰτᾰ	ἥπάς N;ACC;PL	ἧπαρ N;NOM;PL
-Generate the lemma and morphological tags for the following inflected verb: ἥπᾰτε	ἥπάτης N;VOC;DU	ἧπαρ N;VOC;DU
+Generate the lemma and morphological tags for the following inflected verb: τᾰ̀ ἥπᾰτᾰ	ἥπατος N;ACC;PL	ἧπαρ N;ACC;PL
+Generate the lemma and morphological tags for the following inflected verb: τοῦ ἥπᾰτος	ἥπατος N;GEN;SG	ἧπαρ N;GEN;SG
+Generate the lemma and morphological tags for the following inflected verb: τᾰ̀ ἥπᾰτᾰ	ἥπατος N;ACC;PL	ἧπαρ N;NOM;PL
+Generate the lemma and morphological tags for the following inflected verb: ἥπᾰτε	ἥπατος ADJ;VOC;DU	ἧπαρ N;VOC;DU
 Generate the lemma and morphological tags for the following inflected verb: ἰχῶρε	ἰχώρ N;VOC;DU	ἰχώρ N;VOC;DU
 Generate the lemma and morphological tags for the following inflected verb: ἰχῶρᾰ	ἰχῶρον N;VOC;SG	ἰχώρ N;ACC;SG
 Generate the lemma and morphological tags for the following inflected verb: ἰχῶρε	ἰχώρ N;VOC;DU	ἰχώρ N;ACC;DU
-Generate the lemma and morphological tags for the following inflected verb: ἰχῶρσῐ(ν)	ἰχώρ N;DAT;PL	ἰχώρ N;DAT;PL
-Generate the lemma and morphological tags for the following inflected verb: ἰχώροιν	ἰχώρον N;GEN;DU	ἰχώρ N;GEN;DU
+Generate the lemma and morphological tags for the following inflected verb: ἰχῶρσῐ(ν)	ἰχῶρ N;DAT;PL	ἰχώρ N;DAT;PL
+Generate the lemma and morphological tags for the following inflected verb: ἰχώροιν	ἰχώρος N;GEN;DU	ἰχώρ N;GEN;DU
 Generate the lemma and morphological tags for the following inflected verb: ἰχώρ	ἰχώρ N;VOC;SG	ἰχώρ N;NOM;SG
 Generate the lemma and morphological tags for the following inflected verb: ἰχῶρᾰς	ἰχῶρα N;ACC;PL	ἰχώρ N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: ἰχῶρε	ἰχώρ N;VOC;DU	ἰχώρ N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: ἰχῶρες	ἰχώρ N;VOC;PL	ἰχώρ N;NOM;PL
-Generate the lemma and morphological tags for the following inflected verb: ἰχῶρῐ	ἰχῶριον N;DAT;SG	ἰχώρ N;DAT;SG
+Generate the lemma and morphological tags for the following inflected verb: ἰχῶρῐ	ἰχῶριον N;VOC;SG	ἰχώρ N;DAT;SG
 Generate the lemma and morphological tags for the following inflected verb: ἰχώρ	ἰχώρ N;VOC;SG	ἰχώρ N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: ἰχῶρες	ἰχώρ N;VOC;PL	ἰχώρ N;VOC;PL
-Generate the lemma and morphological tags for the following inflected verb: ἰχῶρος	ἰχώρ N;NOM;SG	ἰχώρ N;GEN;SG
-Generate the lemma and morphological tags for the following inflected verb: ἰχώροιν	ἰχώρον N;GEN;DU	ἰχώρ N;DAT;DU
-Generate the lemma and morphological tags for the following inflected verb: ἰχώρων	ἰχώρος N;GEN;PL	ἰχώρ N;GEN;PL
-Generate the lemma and morphological tags for the following inflected verb: τοῖν ῐ̔́πποιν	ἴππος N;GEN;DU	ἵππος N;DAT;DU
-Generate the lemma and morphological tags for the following inflected verb: τοῖς ῐ̔́πποις	ἱππός N;DAT;PL	ἵππος N;DAT;PL
-Generate the lemma and morphological tags for the following inflected verb: ῐ̔́ππω	ἱππός N;VOC;DU	ἵππος N;VOC;DU
-Generate the lemma and morphological tags for the following inflected verb: τὼ ῐ̔́ππω	ἱππός N;NOM;DU	ἵππος N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: ἰχῶρος	ἰχώρ N;GEN;SG	ἰχώρ N;GEN;SG
+Generate the lemma and morphological tags for the following inflected verb: ἰχώροιν	ἰχώρος N;GEN;DU	ἰχώρ N;DAT;DU
+Generate the lemma and morphological tags for the following inflected verb: ἰχώρων	ἰχώρ N;GEN;PL	ἰχώρ N;GEN;PL
+Generate the lemma and morphological tags for the following inflected verb: τοῖν ῐ̔́πποιν	ἴππον N;GEN;DU	ἵππος N;DAT;DU
+Generate the lemma and morphological tags for the following inflected verb: τοῖς ῐ̔́πποις	ἴππον N;DAT;PL	ἵππος N;DAT;PL
+Generate the lemma and morphological tags for the following inflected verb: ῐ̔́ππω	ἴππον N;VOC;DU	ἵππος N;VOC;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ ῐ̔́ππω	ἴππον N;ACC;DU	ἵππος N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: τοῦ ῐ̔́ππου	ἱππός N;GEN;SG	ἵππος N;GEN;SG
 Generate the lemma and morphological tags for the following inflected verb: τὸν ῐ̔́ππον	ἱππός N;ACC;SG	ἵππος N;ACC;SG
-Generate the lemma and morphological tags for the following inflected verb: τοῖν ῐ̔́πποιν	ἴππος N;GEN;DU	ἵππος N;GEN;DU
+Generate the lemma and morphological tags for the following inflected verb: τοῖν ῐ̔́πποιν	ἴππον N;GEN;DU	ἵππος N;GEN;DU
 Generate the lemma and morphological tags for the following inflected verb: τῷ ῐ̔́ππῳ	ἱππός N;DAT;SG	ἵππος N;DAT;SG
 Generate the lemma and morphological tags for the following inflected verb: ῐ̔́πποι	ἱππός N;VOC;PL	ἵππος N;VOC;PL
-Generate the lemma and morphological tags for the following inflected verb: τοὺς ῐ̔́ππους	ἱππός N;ACC;PL	ἵππος N;ACC;PL
+Generate the lemma and morphological tags for the following inflected verb: τοὺς ῐ̔́ππους	ἴππος N;ACC;PL	ἵππος N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: ὁ ῐ̔́ππος	ἱππός N;NOM;SG	ἵππος N;NOM;SG
-Generate the lemma and morphological tags for the following inflected verb: τῶν ῐ̔́ππων	ἴππος N;GEN;PL	ἵππος N;GEN;PL
+Generate the lemma and morphological tags for the following inflected verb: τῶν ῐ̔́ππων	ἴππον N;GEN;PL	ἵππος N;GEN;PL
 Generate the lemma and morphological tags for the following inflected verb: οἱ ῐ̔́πποι	ἱππός N;NOM;PL	ἵππος N;NOM;PL
-Generate the lemma and morphological tags for the following inflected verb: τὼ ῐ̔́ππω	ἱππός N;NOM;DU	ἵππος N;NOM;DU
-Generate the lemma and morphological tags for the following inflected verb: ῐ̔́ππε	ἱππός N;VOC;DU	ἵππος N;VOC;SG
+Generate the lemma and morphological tags for the following inflected verb: τὼ ῐ̔́ππω	ἴππον N;ACC;DU	ἵππος N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: ῐ̔́ππε	ἴππος N;VOC;DU	ἵππος N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: οἱ Ἰτᾰλιῶται	Ἰταλιώτης N;NOM;PL	Ἰταλιώτης N;NOM;PL
 Generate the lemma and morphological tags for the following inflected verb: ὁ Ἰτᾰλιώτης	Ἰταλιώτης N;NOM;SG	Ἰταλιώτης N;NOM;SG
 Generate the lemma and morphological tags for the following inflected verb: τοῖς Ἰτᾰλιώταις	Ἰταλιώτης N;DAT;PL	Ἰταλιώτης N;DAT;PL
@@ -946,21 +946,21 @@ Generate the lemma and morphological tags for the following inflected verb: Ἰ�
 Generate the lemma and morphological tags for the following inflected verb: τοὺς Ἰτᾰλιώτᾱς	Ἰταλιώτης N;ACC;PL	Ἰταλιώτης N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῖν Ἰτᾰλιώταιν	Ἰταλιώτης N;GEN;DU	Ἰταλιώτης N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: τῷ Ἰτᾰλιώτῃ	Ἰταλιώτης N;DAT;SG	Ἰταλιώτης N;DAT;SG
-Generate the lemma and morphological tags for the following inflected verb: τῶν Ἰτᾰλιωτῶν	Ἰταλιωτής N;GEN;PL	Ἰταλιώτης N;GEN;PL
+Generate the lemma and morphological tags for the following inflected verb: τῶν Ἰτᾰλιωτῶν	Ἰταλιώτης N;GEN;PL	Ἰταλιώτης N;GEN;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῦ Ἰτᾰλιώτου	Ἰταλιώτης N;GEN;SG	Ἰταλιώτης N;GEN;SG
 Generate the lemma and morphological tags for the following inflected verb: Ἰτᾰλιώτᾱ	Ἰταλιώτης N;VOC;DU	Ἰταλιώτης N;VOC;DU
-Generate the lemma and morphological tags for the following inflected verb: τὼ Ἰτᾰλιώτᾱ	Ἰταλιώτης N;NOM;DU	Ἰταλιώτης N;ACC;DU
-Generate the lemma and morphological tags for the following inflected verb: Ἰτᾰλιῶτᾰ	Ἰταλιώτης N;VOC;PL	Ἰταλιώτης N;VOC;SG
+Generate the lemma and morphological tags for the following inflected verb: τὼ Ἰτᾰλιώτᾱ	Ἰταλιώτης N;ACC;DU	Ἰταλιώτης N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: Ἰτᾰλιῶτᾰ	Ἰταλιώτης N;VOC;SG	Ἰταλιώτης N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: τοῖν Ἰτᾰλιώταιν	Ἰταλιώτης N;GEN;DU	Ἰταλιώτης N;GEN;DU
-Generate the lemma and morphological tags for the following inflected verb: τὼ Ἰτᾰλιώτᾱ	Ἰταλιώτης N;NOM;DU	Ἰταλιώτης N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ Ἰτᾰλιώτᾱ	Ἰταλιώτης N;ACC;DU	Ἰταλιώτης N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: τὸν Ἰτᾰλιώτην	Ἰταλιώτης N;ACC;SG	Ἰταλιώτης N;ACC;SG
 Generate the lemma and morphological tags for the following inflected verb: τοῖν ὁμῑλῐ́αιν	ὁμιλία N;GEN;DU	ὁμιλία N;GEN;DU
 Generate the lemma and morphological tags for the following inflected verb: ταῖς ὁμῑλῐ́αις	ὁμιλία N;DAT;PL	ὁμιλία N;DAT;PL
 Generate the lemma and morphological tags for the following inflected verb: τῇ ὁμῑλῐ́ᾳ	ὁμιλία N;DAT;SG	ὁμιλία N;DAT;SG
-Generate the lemma and morphological tags for the following inflected verb: τὼ ὁμῑλῐ́ᾱ	ὁμιλία N;NOM;DU	ὁμιλία N;ACC;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ ὁμῑλῐ́ᾱ	ὁμιλία N;ACC;DU	ὁμιλία N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: τοῖν ὁμῑλῐ́αιν	ὁμιλία N;GEN;DU	ὁμιλία N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: αἱ ὁμῑλῐ́αι	ὁμιλία N;NOM;PL	ὁμιλία N;NOM;PL
-Generate the lemma and morphological tags for the following inflected verb: τὼ ὁμῑλῐ́ᾱ	ὁμιλία N;NOM;DU	ὁμιλία N;NOM;DU
+Generate the lemma and morphological tags for the following inflected verb: τὼ ὁμῑλῐ́ᾱ	ὁμιλία N;ACC;DU	ὁμιλία N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: ὁμῑλῐ́ᾱ	ὁμιλία N;VOC;DU	ὁμιλία N;VOC;DU
 Generate the lemma and morphological tags for the following inflected verb: τῶν ὁμῑλῐῶν	ὁμιλία N;GEN;PL	ὁμιλία N;GEN;PL
 Generate the lemma and morphological tags for the following inflected verb: ὁμῑλῐ́ᾱ	ὁμιλία N;VOC;DU	ὁμιλία N;VOC;SG
@@ -970,7 +970,7 @@ Generate the lemma and morphological tags for the following inflected verb: τ�
 Generate the lemma and morphological tags for the following inflected verb: ὁμῑλῐ́αι	ὁμιλία N;VOC;PL	ὁμιλία N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: τῆς ὁμῑλῐ́ᾱς	ὁμιλία N;GEN;SG	ὁμιλία N;GEN;SG
 Generate the lemma and morphological tags for the following inflected verb: ὁ Ὀμβρῐκός	Ὀμβρικός N;NOM;SG	Ὀμβρικός N;NOM;SG
-Generate the lemma and morphological tags for the following inflected verb: Ὀμβρῐκέ	Ὀμβρικός ADJ;VOC;SG;MAS	Ὀμβρικός N;VOC;SG
+Generate the lemma and morphological tags for the following inflected verb: Ὀμβρῐκέ	Ὀμβρικός ADJ;VOC;SG;MASC	Ὀμβρικός N;VOC;SG
 Generate the lemma and morphological tags for the following inflected verb: τῷ Ὀμβρῐκῷ	Ὀμβρικός N;DAT;SG	Ὀμβρικός N;DAT;SG
 Generate the lemma and morphological tags for the following inflected verb: τὼ Ὀμβρῐκώ	Ὀμβρικός N;ACC;DU	Ὀμβρικός N;ACC;DU
 Generate the lemma and morphological tags for the following inflected verb: τῶν Ὀμβρῐκῶν	Ὀμβρικός N;GEN;PL	Ὀμβρικός N;GEN;PL
@@ -980,9 +980,9 @@ Generate the lemma and morphological tags for the following inflected verb: το
 Generate the lemma and morphological tags for the following inflected verb: τοῦ Ὀμβρῐκοῦ	Ὀμβρικός N;GEN;SG	Ὀμβρικός N;GEN;SG
 Generate the lemma and morphological tags for the following inflected verb: τὼ Ὀμβρῐκώ	Ὀμβρικός N;ACC;DU	Ὀμβρικός N;NOM;DU
 Generate the lemma and morphological tags for the following inflected verb: οἱ Ὀμβρῐκοί	Ὀμβρικός N;NOM;PL	Ὀμβρικός N;NOM;PL
-Generate the lemma and morphological tags for the following inflected verb: Ὀμβρῐκοί	Ὀμβρικός ADJ;VOC;PL;MAS	Ὀμβρικός N;VOC;PL
+Generate the lemma and morphological tags for the following inflected verb: Ὀμβρῐκοί	Ὀμβρικός ADJ;VOC;PL;MASC	Ὀμβρικός N;VOC;PL
 Generate the lemma and morphological tags for the following inflected verb: τοῖν Ὀμβρῐκοῖν	Ὀμβρικός N;GEN;DU	Ὀμβρικός N;GEN;DU
-Generate the lemma and morphological tags for the following inflected verb: Ὀμβρῐκώ	Ὀμβρικός ADJ;VOC;DU;NE	Ὀμβρικός N;VOC;DU
+Generate the lemma and morphological tags for the following inflected verb: Ὀμβρῐκώ	Ὀμβρικός ADJ;VOC;DU;NEUT	Ὀμβρικός N;VOC;DU
 Generate the lemma and morphological tags for the following inflected verb: τοὺς Ὀμβρῐκούς	Ὀμβρικός N;ACC;PL	Ὀμβρικός N;ACC;PL
 Generate the lemma and morphological tags for the following inflected verb: ὠλέναιν	ὠλένη N;GEN;DU	ὠλένη N;DAT;DU
 Generate the lemma and morphological tags for the following inflected verb: ὠλενῶν	ὠλενός N;GEN;PL	ὠλένη N;GEN;PL
@@ -1000,13 +1000,13 @@ Generate the lemma and morphological tags for the following inflected verb: ὠ�
 Generate the lemma and morphological tags for the following inflected verb: ὠλέναις	ὠλένη N;DAT;PL	ὠλένη N;DAT;PL
 
 Inverse Task Evaluation (Lemma/MSD):
-  Lemma accuracy: 0.6760 (676/1000)
-  Lemma mean Levenshtein distance: 0.6110
-  MSD accuracy (exact set match): 0.7070 (707/1000)
-  MSD micro-precision: 0.8948  micro-recall: 0.8904  micro-F1: 0.8926
+  Lemma accuracy: 0.5970 (597/1000)
+  Lemma mean Levenshtein distance: 0.7370
+  MSD accuracy (exact set match): 0.7340 (734/1000)
+  MSD micro-precision: 0.9050  micro-recall: 0.9080  micro-F1: 0.9065
   Example Mismatches (prediction | gold):
-    Βάκτριανός N;VOC;PL | Βακτριανός N;VOC;PL
     Βάκτριανός N;GEN;DU | Βακτριανός N;GEN;DU
     Βάκτριανός N;GEN;DU | Βακτριανός N;DAT;DU
     Βάκτριανός N;VOC;DU | Βακτριανός N;VOC;DU
     Βάκτριανός N;ACC;PL | Βακτριανός N;ACC;PL
+    Βάκτριανός N;NOM;PL | Βακτριανός N;NOM;PL

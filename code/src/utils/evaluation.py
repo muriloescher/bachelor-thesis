@@ -62,18 +62,26 @@ def evaluate_forward(predictions, gold_forms, output_path=None, debug_mismatches
     """
     correct = 0
     total = len(predictions)
+    edit_sum = 0
     mismatches = []
     
     for pred, gold in zip(predictions, gold_forms):
-        if normalize(pred) == normalize(gold):
+        pred_n = normalize(pred)
+        gold_n = normalize(gold)
+
+        if pred_n == gold_n:
             correct += 1
         elif len(mismatches) < debug_mismatches:
             mismatches.append((pred, gold))
+
+        edit_sum += _levenshtein(pred_n, gold_n)
     
     accuracy = correct / total if total > 0 else 0.0
+    mean_lev = edit_sum / total if total > 0 else 0.0
     
     results = {
         'accuracy': accuracy,
+        'mean_levenshtein': mean_lev,
         'correct': correct,
         'total': total,
         'mismatches': mismatches
@@ -83,6 +91,7 @@ def evaluate_forward(predictions, gold_forms, output_path=None, debug_mismatches
         with open(output_path, "a", encoding="utf-8") as f:
             f.write(f"\nForward Task Evaluation:\n")
             f.write(f"  Accuracy: {accuracy:.4f} ({correct}/{total})\n")
+            f.write(f"  Mean Levenshtein distance: {mean_lev:.4f}\n")
             if mismatches:
                 f.write("  Example Mismatches (prediction | gold):\n")
                 for pred, gold in mismatches:

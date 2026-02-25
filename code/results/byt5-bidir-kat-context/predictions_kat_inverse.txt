@@ -1,0 +1,1494 @@
+Given the context: 'ბავშვობა და ყრმობა თბილისში, სოლოლაკის უბნის ოთხსართულიან სახლში გავატარე.'
+Generate the lemma and morphological tags for the inflected verb: გავატარე	გატარე Ind;Sing;3;3;Pres;Fin	გატარება Ind;Sing;3;1;Past;Fin
+Given the context: 'ღრმა, ჩაბნელებულ ეზოს სამი მხრიდან ჩვენი შენობა ერტყა, მეოთხიდან – მეზობელი სახლის ყრუ კედელი.'
+Generate the lemma and morphological tags for the inflected verb: ერტყა	ერტყა Ind;Sing;3;3;Pres;Fin	რტყმა Ind;Sing;3;3;Past;Fin
+Given the context: 'გრაფ სეგედის ჩვენი სახლის სარდაფში ერთი ოთახი ეჭირა.'
+Generate the lemma and morphological tags for the inflected verb: ეჭირა	ჭირა Ind;Sing;3;3;Pres;Fin	ჭერა Ind;Sing;3;3;Past;Fin;Inv
+Given the context: 'შორეულ წარსულში კავკასიის ჟანდარმერიის სამმართველოს უფროსის თანამდებობაზე უმსახურია.'
+Generate the lemma and morphological tags for the inflected verb: უმსახურია	უმსახურია Ind;Sing;3;3;Pres;Fin	მსახურება Ind;Sing;3;3;PastPerf;Fin
+Given the context: 'ცხრაასიან წლებში სამსახურიდან გადამდგარა და ყველასგან მივიწყებული მერეც აღარავის მოჰგონებია.'
+Generate the lemma and morphological tags for the inflected verb: გადამდგარა	გადამდგარა Ind;Sing;3;3;Pres;Fin	გადადგომა Ind;Sing;3;PastPerf;Fin
+Given the context: 'იმასაც ამბობდნენ, რევოლუციის წინაშე დამსახურება აქვს და ჩვენმა წყობილებამ წარსული იმიტომ აპატიაო.'
+Generate the lemma and morphological tags for the inflected verb: ამბობდნენ	ამბობდნენ	თქმა Ind;Plur;3;3;Imp;Fin
+Given the context: 'ექვსი-შვიდი წლისამ ამ კაცისა მხოლოდ ის ვიცოდი, რასაც ვხედავდი: თავისი სარდაფიდან იმ საათებში, როცა ეზოში ვთამაშობდი, იშვიათად ამოდიოდა.'
+Generate the lemma and morphological tags for the inflected verb: ვიცოდი	ცოდილი Ind;Sing;3;3;Pres;Fin	ცოდნა Ind;Sing;3;1;Imp;Fin
+Given the context: 'მასთან ჩემთვის უცნობი და ჩემზე უფროსი გოგო-ბიჭები დაჰყავდათ.'
+Generate the lemma and morphological tags for the inflected verb: დაჰყავდათ	დაყავდა Ind;Sing;3;3;Pres;Fin	დაყოლა Ind;Plur;3;3;Imp;Fin;Inv
+Given the context: 'ზოგი მარტოც დადიოდა.'
+Generate the lemma and morphological tags for the inflected verb: დადიოდა	დადიოდა	სიარული Ind;Sing;3;Imp;Fin
+Given the context: 'ისინი სეგედისგან გერმანულ და ფრანგულ ენებს სწავლობდნენ.'
+Generate the lemma and morphological tags for the inflected verb: სწავლობდნენ	სწავლობდნენ	სწავლა Ind;Plur;3;3;Imp;Fin
+Given the context: 'მიუხედავად წლის დროისა და ამინდისა, შავი კასტორის პალტო ეცვა.'
+Generate the lemma and morphological tags for the inflected verb: ეცვა	ცვა Ind;Sing;3;3;Pres;Fin	ცმა Ind;Sing;3;3;Past;Fin
+Given the context: 'პალტოს ხავერდის საყელო ჰქონდა.'
+Generate the lemma and morphological tags for the inflected verb: ჰქონდა	ქონდა Ind;Sing;3;3;Pres;Fin	ქონა Ind;Sing;3;3;Imp;Fin;Inv
+Given the context: 'რკინისჩარჩოიან პენსნეს იკეთებდა, ქვაბუნა ქუდი ეხურა, მკლავზე ერთთავად ეკიდა კაუჭიანი ჯოხი.'
+Generate the lemma and morphological tags for the inflected verb: იკეთებდა	კეთებდა	კეთება Ind;Sing;3;3;Imp;Fin
+Given the context: 'დინჯად, მსუბუქად, მუდამ თავჩაქინდრული დადიოდა.'
+Generate the lemma and morphological tags for the inflected verb: დადიოდა	დადიოდა	სიარული Ind;Sing;3;Imp;Fin
+Given the context: 'ამიტომ კარგა ხანს არ ვიცოდი, როგორი თვალები ჰქონდა.'
+Generate the lemma and morphological tags for the inflected verb: ვიცოდი	ცოდილა Ind;Sing;3;3;Pres;Fin	ცოდნა Ind;Sing;3;1;Imp;Fin
+Given the context: 'საერთოდ, თავაზიანი ბავშვი ვიყავი, სალამს ვერავინ დამასწრებდა და გამონაკლისი მხოლოდ სეგედი იყო.'
+Generate the lemma and morphological tags for the inflected verb: დამასწრებდა	დამასწრებდა	დასწრება Cnd;Sing;Sing;1;3;3;Pres;Fin
+Given the context: 'მოვიდა დრო, როცა გულის ფანცქალით მივაკაკუნე სეგედის სარდაფის კარზე.'
+Generate the lemma and morphological tags for the inflected verb: მოვიდა	მოვიდა	მოსვლა Ind;Sing;3;Past;Fin
+Given the context: '– მობრძანდით!'
+Generate the lemma and morphological tags for the inflected verb: მობრძანდით	მობრძანდით	მობრძანება Imp;Plur;2;Fin
+Given the context: '– მოისმა შიგნიდან.'
+Generate the lemma and morphological tags for the inflected verb: მოისმა	მოსმა Ind;Sing;3;3;Pres;Fin	მოსმენა Ind;Sing;3;Past;Fin
+Given the context: 'გაუბედავად შევედი, კართან ატუზვას ვაპირებდი, მაგრამ მასწავლებელი ადგა, მომეგება და ღიმილით მომმართა:'
+Generate the lemma and morphological tags for the inflected verb: შევედი	შედილა Ind;Sing;3;3;Pres;Fin	შესვლა Ind;Sing;1;Past;Fin
+Given the context: '– დაბრძანდით, ჰერ, გთხოვთ!'
+Generate the lemma and morphological tags for the inflected verb: დაბრძანდით	დაბრძანდით	დაბრძანება Imp;Plur;2;Fin
+Given the context: 'ბოდიშს ვიხდი თქვენს წინაშე, ახლავე გეახლებით.'
+Generate the lemma and morphological tags for the inflected verb: ვიხდი	ხდება Ind;Sing;3;3;Pres;Fin	ხდა Ind;Sing;3;1;Pres;Fin
+Given the context: 'ნუ მოიწყენთ, ჰერ, ამწუთშივე დავბრუნდები.'
+Generate the lemma and morphological tags for the inflected verb: მოიწყენთ	მოწყენა Ind;Sing;3;3;Pres;Fin	მოწყენა Ind;Plur;3;2;Fut;Fin
+Given the context: 'სეგედი საკუჭნაოში შევიდა.'
+Generate the lemma and morphological tags for the inflected verb: შევიდა	შევიდა	შესვლა Ind;Sing;3;Past;Fin
+Given the context: 'მისმა გადამეტებულმა თავაზიანობამ ისეთი შთაბეჭდილება დამიტოვა, თითქოს სერიოზულად კი არ მომმართავდა, არამედ მეხუმრებოდა ან დამცინოდა.'
+Generate the lemma and morphological tags for the inflected verb: დამიტოვა	დამიტოვა Ind;Sing;3;3;Pres;Fin	დატოვება Ind;Sing;Sing;1;3;3;Past;Fin
+Given the context: 'კედლის ერთ კუთხეში იატაკიდან ჭერამდე თარო იყო ამართული.'
+Generate the lemma and morphological tags for the inflected verb: ამართული	ამართული Ind;Sing;3;3;Pres;Fin	ამართული Nom;Sing;Past;Part
+Given the context: 'თაროზე, ასე, ორმოცსანტიმეტრიანი სანთლის ქანდაკებები ელაგა.'
+Generate the lemma and morphological tags for the inflected verb: ელაგა	ლაგა Ind;Sing;3;3;Pres;Fin	ლაგება Ind;Sing;3;Past;Fin
+Given the context: 'მაგიდაზეც დაუმთავრებელი ფიგურა იდგა.'
+Generate the lemma and morphological tags for the inflected verb: იდგა	დგა Ind;Sing;3;3;Past;Fin	დგომა Ind;Sing;3;Past;Fin
+Given the context: 'სეგედის ამ ფიგურის კეთებაში შევასწარი.'
+Generate the lemma and morphological tags for the inflected verb: შევასწარი	შევასწარება Ind;Sing;3;3;Pres;Fin	შესწრება Ind;Sing;3;3;1;Past;Fin
+Given the context: 'არ ვიცი, სულ რამდენი ქანდაკება იქნებოდა, მაგრამ აქ იყვნენ სხვადასხვა ასაკის, სოციალური წარმოშობისა და ეროვნების ადამიანები – ქალები და კაცები, მღიმარნი და წარბშეკრულნი, საბრალონი და შეუპოვარნი, მოკუნტულნი და მკერდგაშლილნი, კეთილნი და ბოროტნი.'
+Generate the lemma and morphological tags for the inflected verb: ვიცი	იცი	ცოდნა Ind;Sing;3;1;Pres;Fin
+Given the context: 'კაცს ეგონებოდა, ალაპარაკდებიან, ერთ ალიაქოთს ატეხენო, და, ამასთან ერთად, მთელი თარო მაინც გაყინულ და კედელზე აყუდებულ მიცვალებულს ჰგავდა.'
+Generate the lemma and morphological tags for the inflected verb: ეგონებოდა	გონებოდა Ind;Sing;3;3;Pres;Fin	გონება Cnd;Sing;3;3;Pres;Fin;Inv
+Given the context: 'ჩემი მასწავლებელი დაბრუნდა.'
+Generate the lemma and morphological tags for the inflected verb: დაბრუნდა	დაბრუნდა	დაბრუნება Ind;Sing;3;Past;Fin
+Given the context: 'პირველ გაკვეთილს შევუდექით.'
+Generate the lemma and morphological tags for the inflected verb: შევუდექით	შედექა Ind;Sing;3;3;Pres;Fin	შედგომა Ind;Plur;3;1;Past;Fin
+Given the context: 'შვიდი წლის მანძილზე მასწავლიდა გრაფი სეგედი გერმანულ ენას და არ მახსოვს, დახვეწილი ზრდილობისა და სანდომიანი თავაზიანობის ნორმები ერთხელ მაინც დაერღვიოს.'
+Generate the lemma and morphological tags for the inflected verb: მასწავლიდა	დაერღვევა Ind;Sing;3;3;Pres;Fin	სწავლება Cnd;Sing;Sing;1;3;3;Pres;Fin
+Given the context: 'ჩვენმა დრომ წოდებები უარჰყო, მაგრამ ჩემი მასწავლებლის გვარი „ გრაფის ” გარეშე არავისგან გამიგონია.'
+Generate the lemma and morphological tags for the inflected verb: უარჰყო	უარჰყო	უარყოფა Ind;Sing;3;3;Past;Fin
+Given the context: 'ვფიქრობ, ამას თვით მისი პიროვნება, საქციელი, ადამიანებთან ურთიერთობის ბუნება აპირობებდა.'
+Generate the lemma and morphological tags for the inflected verb: ვფიქრობ	ფიქრობა Ind;Sing;3;3;Pres;Fin	ფიქრი Ind;Sing;3;1;Pres;Fin
+Given the context: 'გრაფი სეგედი სიბერით გარდაიცვალა.'
+Generate the lemma and morphological tags for the inflected verb: გარდაიცვალა	გარდაცვალა Ind;Sing;3;3;Pres;Fin	გარდაცვალება Ind;Sing;3;Past;Fin
+Given the context: 'დაიძინა და აღარ გაუღვიძია.'
+Generate the lemma and morphological tags for the inflected verb: დაიძინა	დაძინა Ind;Sing;3;3;Past;Fin	დაძინება Ind;Sing;3;Past;Fin
+Given the context: 'მიუხედავად ღრმა მოხუცებულობისა და მისი სიძაბუნისა, მან სიცოცხლის უკანასკნელ დღემდე შეინარჩუნა მშვენიერი მეხსიერება და ნათელი გონება.'
+Generate the lemma and morphological tags for the inflected verb: შეინარჩუნა	შენარჩუნა Ind;Sing;3;3;Pres;Fin	შენარჩუნება Ind;Sing;3;3;Past;Fin
+Given the context: 'მასთან მომსვლელი და მოსიარულე სხვა არავინ იყო და გრაფის სიკვდილი ისევ მისმა მოწაფეებმა აღმოაჩინეს.'
+Generate the lemma and morphological tags for the inflected verb: აღმოაჩინეს	აღმოაჩინეს	აღმოჩენა Ind;Plur;3;3;Past;Fin
+Given the context: 'მობინადრეთაგან შემდგარმა კომისიამ დაკრძალვისთვის სრულიად საკმარისი თანხა იპოვა მის ბინაში.'
+Generate the lemma and morphological tags for the inflected verb: იპოვა	პოვა Ind;Sing;3;3;Pres;Fin	პოვნა Ind;Sing;3;3;Past;Fin
+Given the context: 'კავკასიის ჟანდარმთა შეფადყოფილს სიკვდილის შემდეგ სხვა არაფერი დარჩენია.'
+Generate the lemma and morphological tags for the inflected verb: დარჩენია	დარჩენია Ind;Sing;3;3;Pres;Fin	დარჩენა Ind;Sing;3;3;PastPerf;Fin
+Given the context: 'დაიწყო გაუთავებელი სასამართლოები ბინის გამო, თუ ვის უნდა რგებოდა სეგედის „ ბინა ”.'
+Generate the lemma and morphological tags for the inflected verb: დაიწყო	დაწყო Ind;Sing;3;3;Pres;Fin	დაწყება Ind;Sing;3;Past;Fin
+Given the context: 'აღარ მახსოვს და საინტერესო არც არის, ვინ ვის ედავებოდა, რომელი მობინადრის მხარეზე იყო სამართლიანობა და ბოლოს ვინ შესახლდა სარდაფში.'
+Generate the lemma and morphological tags for the inflected verb: მახსოვს	მახსოვს	ხსოვნა Ind;Sing;3;1;Pres;Fin;Inv
+Given the context: 'სანთლის ფიგურებმა ახალი მფლობელები იშოვნეს.'
+Generate the lemma and morphological tags for the inflected verb: იშოვნეს	შოვნება Ind;Sing;3;3;Pres;Fin	შოვნა Ind;Plur;3;3;Past;Fin
+Given the context: 'ჩანაწერებიდან ნაკეთებმა მტრედებმა ჩვენი ეზოს ცა ათასჯერ გადასერ-გადმოსერეს.'
+Generate the lemma and morphological tags for the inflected verb: გადასერ-გადმოსერეს	გადასერ-გადმოსერება Ind;Sing;3;3;Pres;Fin	გადასერვა=გადმოსერვა Ind;Plur;3;3;Past;Fin
+Given the context: 'მეეზოვე რამდენჯერმე ერთობ სერიოზულად გაწყრა ეზოს დანაგვიანების გამო, მაგრამ ყურადღება არავინ მიაქცია, სანამ პატარა ბიჭებმა სარდაფში ხანძარი არ გააჩინეს.'
+Generate the lemma and morphological tags for the inflected verb: გაწყრა	მიაქცია	გაწყრომა Ind;Sing;3;Past;Fin
+Given the context: 'მხოლოდ ამის შემდეგ ვიგრძენი თავი უფლებამოსილად, ჩემი მასწავლებლის სარდაფს ვწვეოდი, და პირველად მაშინ მივხვდი, თუ რას ნიშნავდა ქართული სიტყვა „ ნადგურისცემა ”.'
+Generate the lemma and morphological tags for the inflected verb: ვიგრძენი	მიგრძენი Ind;Sing;3;3;Pres;Fin	გრძნობა Ind;Sing;3;1;Past;Fin
+Given the context: 'გრაფ სეგედის ჩანაწერების ფურცლები შევკრიბე.'
+Generate the lemma and morphological tags for the inflected verb: შევკრიბე	შეკრიბება Ind;Sing;3;3;Pres;Fin	შეკრება Ind;Sing;3;1;Past;Fin
+Given the context: 'შინ წამოვიღე.'
+Generate the lemma and morphological tags for the inflected verb: წამოვიღე	წამოვიღე	წამოღება Ind;Sing;3;1;Past;Fin
+Given the context: 'გვერდები ნუმერაციის მიხედვით დავალაგე.'
+Generate the lemma and morphological tags for the inflected verb: დავალაგე	დალაგება Ind;Sing;3;3;Pres;Fin	დალაგება Ind;Sing;3;1;Past;Fin
+Given the context: 'მაშინ იმდენი რუსული არ ვიცოდი, გაკრული ხელით ნაწერი ადვილად წამეკითხა.'
+Generate the lemma and morphological tags for the inflected verb: ვიცოდი	ცოდილი Ind;Sing;3;3;Pres;Fin	ცოდნა Ind;Sing;3;1;Imp;Fin
+Given the context: 'არც იმდენი განათლება მქონდა, დედააზრს ჩავწვდომოდი, მაგრამ აბრაგის ცხოვრებას ეხებოდა ნაწერი და ის მცირეც კი, რაც წავიკითხე და გავიგე, სამუდამოდ ჩამრჩა მეხსიერებაში.'
+Generate the lemma and morphological tags for the inflected verb: მქონდა	მქონდა Ind;Sing;3;3;Pres;Fin	ქონა Ind;Sing;3;1;Imp;Fin;Inv
+Given the context: 'დიდი ხანი გავიდა.'
+Generate the lemma and morphological tags for the inflected verb: გავიდა	გავიდა	გასვლა Ind;Sing;3;Past;Fin
+Given the context: 'მივხვდი, რომ გრაფ სეგედის პანოპტიკუმი მისი ნაწარმოების გმირთა ქანდაკებებისგან შედგებოდა.'
+Generate the lemma and morphological tags for the inflected verb: მივხვდი	მიხვდი Ind;Sing;3;3;Pres;Fin	მიხვდომა Ind;Sing;3;1;Past;Fin
+Given the context: 'ვცადე კიდეც, რამდენიმე ფიგურა მაინც მეპოვნა.'
+Generate the lemma and morphological tags for the inflected verb: ვცადე	ცადება Ind;Sing;3;3;Pres;Fin	ცდა Ind;Sing;3;1;Past;Fin
+Given the context: 'ვერაფერს გავხდი.'
+Generate the lemma and morphological tags for the inflected verb: გავხდი	გახდი	გახდა Ind;Sing;3;1;Fut;Fin
+Given the context: 'მაშინ ისევ ნაშრომის გადარჩენილ ნაწყვეტებს მივმართე, იქ ნახსენები ზოგი პიროვნება ან მისი ახლობელი მოვძებნე, მათი ნაამბობი ჩავიწერე და ახლა, თვით სეგედის ჩანაწერებთან ერთად, მკითხველს ამ წიგნის სახით ვთავაზობ.'
+Generate the lemma and morphological tags for the inflected verb: მივმართე	მიმართე Ind;Sing;3;3;Pres;Fin	მიმართვა Ind;Sing;3;1;Past;Fin
+Given the context: 'ორ ადამიანს იქნებ თანაბარი შესაძლებლობები, მაგრამ სხვადასხვაგვარი ზნეობა ჰქონდეს, მაშინ ყოველი მათგანი თავის შესაძლებლობებს საკუთარი ზნეობის თანახმად გამოიყენებს.'
+Generate the lemma and morphological tags for the inflected verb: ჰქონდეს	ქონდეს	ქონა Sub;Sing;3;3;Pres;Fin;Inv
+Given the context: 'ადამიანის ნამოქმედარის ღირებულება მისი ზნეობის ღირებულებით განისაზღვრება.'
+Generate the lemma and morphological tags for the inflected verb: განისაზღვრება	განისაზღვრება Ind;Sing;3;3;Pres;Fin	განსაზღვრა Ind;Sing;3;Fut;Fin
+Given the context: 'დარწმუნებული ვარ, ყველა დროის საზოგადოებაში იყო არწივის, სვავის თუ ჩიორას მეტ-ნაკლები ასპარეზი და ადამიანი ერთს, მეორეს თუ მესამეს ზნეობრივი მიდრეკილების თანახმად ირჩევდა.'
+Generate the lemma and morphological tags for the inflected verb: დარწმუნებული	დარწმუნებული Ind;Sing;3;3;Pres;Fin	დარწმუნებული Nom;Sing;Past;Part
+Given the context: 'ჟანდარმერიის სამმართველოს უფროსის თანამდებობაზე ხანგრძლივმა სამსახურმა, ხოლო გადადგომის შემდეგ ამ წრეებთან სიახლოვემ, შესაძლებლობა მომცა, თავიდან ბოლომდე გამედევნებინა თვალ-ყური ზემოთქმულის დამამტკიცებელ მკაფიო მაგალითისთვის.'
+Generate the lemma and morphological tags for the inflected verb: მომცა	მომცა Ind;Sing;3;3;Pres;Fin	მი-ცემა Ind;Sing;Sing;1;3;3;Past;Fin
+Given the context: 'განგებამ ისინი თანაბრად მდიდარი შესაძლებლობებით მოუვლინა ქვეყანას, მაგრამ ზნეობამ სხვადასხვა ასპარეზზე გაიყვანა.'
+Generate the lemma and morphological tags for the inflected verb: მოუვლინა	მოუვლინა Ind;Sing;3;3;Pres;Fin	მოვლენა Ind;Sing;3;3;3;Past;Fin
+Given the context: 'დავიწყებ იმით, რომ თუმც ღმერთმა მშვენიერება ყოველგვარი სიკეთისა და სათნოების წყაროდ დასახა, მაგრამ წესს გამონაკლისიც უნდა ჰქონდეს და ამჯერად მშვენიერებამ უბედურება შვა: ქართველი ქალიშვილის – ელე თუთაშხიას სილამაზემ სამსახურიდან გადამდგარ პორუჩიკს, გვარად ანდრიევსკის, დაუფიქრებელი, გრძნობისმიერი ნაბიჯი გადაადგმევინა.'
+Generate the lemma and morphological tags for the inflected verb: დავიწყებ	დავიწყება Ind;Sing;3;3;Pres;Fin	დაწყება Ind;Sing;3;1;Fut;Fin
+Given the context: 'ამის გამო ქალიშვილის ძმამ, დათა თუთაშხიამ, სასიკვდილო ჭრილობა მიაყენა ანდრიევსკის და აბრაგობას მიჰყო ხელი.'
+Generate the lemma and morphological tags for the inflected verb: მიაყენა	მიაყენა Ind;Sing;3;3;Pres;Fin	მიყენება Ind;Sing;3;3;3;Past;Fin
+Given the context: 'ეს მოხდა ათას რვაას ოთხმოცდახუთ წელს, როცა დათა თუთაშხია ცხრამეტი წლისა იყო.'
+Generate the lemma and morphological tags for the inflected verb: მოხდა	მოხდა Ind;Sing;3;3;Pres;Fin	მოხდომა Ind;Sing;3;Past;Fin
+Given the context: 'ვერა და ვერ ვიპოვე რიგიანი, წიგნიერი კაცი.'
+Generate the lemma and morphological tags for the inflected verb: ვიპოვე	პოვება Ind;Sing;3;3;Past;Fin	პოვნა Ind;Sing;3;1;Past;Fin
+Given the context: 'საღამოობით მოდის და მუშაობს.'
+Generate the lemma and morphological tags for the inflected verb: მოდის	მოდის	მოსვლა Ind;Sing;3;Pres;Fin
+Given the context: 'გიმნაზია აქვს დამთავრებული, მაგრამ საერთო ცოდნით უმაღლეს განათლებამიღებულსაც არ ჩამოუვარდება.'
+Generate the lemma and morphological tags for the inflected verb: დამთავრებული	ჩამოუვარდება Ind;Sing;3;3;Pres;Fin	დამთავრებული Nom;Sing;Past;Part
+Given the context: 'ჰუმანიტარული მეცნიერებები, განსაკუთრებით სამართალი აინტერესებს და ეხერხება კიდეც.'
+Generate the lemma and morphological tags for the inflected verb: აინტერესებს	აინტერესებს	დაინტერესება Ind;Sing;3;3;Pres;Fin
+Given the context: 'მუშნი ჰქვია, ზარანდიაა გვარად.'
+Generate the lemma and morphological tags for the inflected verb: ჰქვია	ქვია Ind;Sing;3;3;Pres;Fin	რქმევა Ind;Sing;3;3;Pres;Fin;Inv
+Given the context: 'კანცელარიის გამგის ოთახში ზის ხოლმე.'
+Generate the lemma and morphological tags for the inflected verb: ზის	ზის	ჯდომა Ind;Sing;3;Pres;Fin
+Given the context: 'ჩემს კაბინეტს ამ ოთახთან კარი აერთებს.'
+Generate the lemma and morphological tags for the inflected verb: აერთებს	აერთებს	ერთება Ind;Sing;3;3;Pres;Fin
+Given the context: 'ეს კარი ხშირად ღია მაქვს, რათა მოხელეს გავაგონო, როცა დამჭირდება.'
+Generate the lemma and morphological tags for the inflected verb: მაქვს	მაქვს	ქონა Ind;Sing;3;1;Pres;Fin;Inv
+Given the context: 'სამსახური დამთავრდა.'
+Generate the lemma and morphological tags for the inflected verb: დამთავრდა	დამთავრდა	დამთავრება Ind;Sing;3;Past;Fin
+Given the context: 'ზარანდიას დაველოდე, საბუთები მქონდა შესადგენი და გადასაწერი.'
+Generate the lemma and morphological tags for the inflected verb: დაველოდე	დალოდე	დალოდება Ind;Sing;3;1;Past;Fin
+Given the context: 'მოვიდა.'
+Generate the lemma and morphological tags for the inflected verb: მოვიდა	მოვიდა	მოსვლა Ind;Sing;3;Past;Fin
+Given the context: 'დავისვი და კარნახს შევუდექი.'
+Generate the lemma and morphological tags for the inflected verb: დავისვი	დავისვი Ind;Sing;3;3;Past;Fin	დასმა Ind;Sing;3;1;Past;Fin
+Given the context: 'იჯდა, წერდა.'
+Generate the lemma and morphological tags for the inflected verb: იჯდა	ჯდა	ჯდომა Ind;Sing;3;Past;Fin
+Given the context: 'ცოტა ხნის შემდეგ ზარანდიამ ცხვირსახოცი ამოიღო.'
+Generate the lemma and morphological tags for the inflected verb: ამოიღო	ამოიღო	ამოღება Ind;Sing;3;3;Past;Fin
+Given the context: 'ცხვირსახოცს ოქროს თუმნიანი ამოჰყვა, იატაკზე დაგორდა.'
+Generate the lemma and morphological tags for the inflected verb: ამოჰყვა	დაგორდა	ამოყოლა Ind;Sing;3;3;Past;Fin
+Given the context: 'დავინახე კიდეც, თქვენს ცხვირსახოცს რომ ამოჰყვა-მეთქი.'
+Generate the lemma and morphological tags for the inflected verb: დავინახე	დანახება Ind;Sing;3;3;Past;Fin	დანახვა Ind;Sing;3;1;Past;Fin
+Given the context: 'ზარანდია განცვიფრდა, – თან ფული არ მქონია და რანაირად ამოჰყვებოდაო.'
+Generate the lemma and morphological tags for the inflected verb: განცვიფრდა	განცვიფრდა	განცვიფრება Ind;Sing;3;Past;Fin
+Given the context: 'თუმნიანი იატაკზე ეგდო, ბზინავდა.'
+Generate the lemma and morphological tags for the inflected verb: ეგდო	გდომა Ind;Sing;3;3;Past;Fin	გდება Ind;Sing;3;Past;Fin
+Given the context: 'ზარანდია ზემოდან დასცქეროდა.'
+Generate the lemma and morphological tags for the inflected verb: დასცქეროდა	დაცქერა Ind;Sing;3;3;Pres;Fin	დაცქერა Ind;Sing;3;3;Imp;Fin
+Given the context: 'ალბათ, ფიქრობდა, საიდან უნდა მოხვედრილიყო ეს ფული ჩემს ჯიბეშიო.'
+Generate the lemma and morphological tags for the inflected verb: ფიქრობდა	ფიქრობდა	ფიქრი Ind;Sing;3;3;Imp;Fin
+Given the context: 'მერე შუბლში ხელი იტაცა, ფულს დასწვდა, მაგიდაზე დადო.'
+Generate the lemma and morphological tags for the inflected verb: იტაცა	ტაცა Ind;Sing;3;3;Past;Fin	ტაცება Ind;Sing;3;3;Past;Fin
+Given the context: 'მოუსვენრობა შეეტყო, აწრიალდა.'
+Generate the lemma and morphological tags for the inflected verb: შეეტყო	შეტყო	შეტყობა Ind;Sing;3;3;Past;Fin
+Given the context: 'როცა ჩემი ნაკარნახევის ჩაწერა დაამთავრა, მითხრა, წავალ, ნახევარ საათში დავბრუნდები და გადავწერო.'
+Generate the lemma and morphological tags for the inflected verb: დაამთავრა	დაამთავრა Ind;Sing;3;3;Pres;Fin	დამთავრება Ind;Sing;3;3;Past;Fin
+Given the context: 'გამოვკითხე, თუ რამ შეაშფოთა და საით მიიჩქაროდა.'
+Generate the lemma and morphological tags for the inflected verb: გამოვკითხე	გამოკითხე Ind;Sing;3;3;Pres;Fin	გამოკითხვა Ind;Sing;3;1;Past;Fin
+Given the context: 'აღმოჩნდა, რომ დღისით ვიღაც წვრილფეხა მრეწველი შეუმოწმებია, გადასახადს გარიდებული საქონელი უპოვია და დაუბეგრავს.'
+Generate the lemma and morphological tags for the inflected verb: აღმოჩნდა	აღმოჩნდა	აღმოჩენა Ind;Sing;3;Past;Fin
+Given the context: 'ირწმუნებოდა, – სხვა შესაძლებლობა არ არის, ეს თუმნიანი იმ მრეწველმა შეუმჩნევლად ჩამიგდო ჯიბეში, ქრთამს პირდაპირ ვერ შემომბედავდაო.'
+Generate the lemma and morphological tags for the inflected verb: ირწმუნებოდა	შემომბედავდა	რწმუნება Ind;Sing;3;Imp;Fin
+Given the context: 'ეს სხაპასხუპით განმიმარტა, ქაღალდები კანცელარიაში გაიტანა და წავიდა.'
+Generate the lemma and morphological tags for the inflected verb: განმიმარტა	განმიმარტა Ind;Sing;3;3;Pres;Fin	განმარტება Ind;Sing;Sing;1;3;3;Past;Fin
+Given the context: 'ცოტა ხნის შემდეგ მეც კანცელარიაში გავედი, გამგეს დავემშვიდობე, შინისკენ გავწიე.'
+Generate the lemma and morphological tags for the inflected verb: გავედი	გავედი	გასვლა Ind;Sing;1;Past;Fin
+Given the context: 'რვა საათი იქნებოდა, სამსახურში დავბრუნდი, კაბინეტში შევედი, მაგრამ ისე, რომ კანცელარიაზე არ გამივლია, უკანა კარიდან შევედი და, ჩანს, ჩემი მისვლა გამგეს და ზარანდიას შეუმჩნეველი დარჩათ.'
+Generate the lemma and morphological tags for the inflected verb: დავბრუნდი	დაბრუნდი Ind;Sing;3;3;Pres;Fin	დაბრუნება Ind;Sing;1;Past;Fin
+Given the context: '– გამოგართვათ ის ოქროს თუმნიანი?'
+Generate the lemma and morphological tags for the inflected verb: გამოგართვათ	გამოგართვა Ind;Sing;3;3;Pres;Fin	გამორთმევა Ind;Plur;Sing;2;3;3;Past;Fin
+Given the context: 'არ უთქვამს, მე არაფერი ჩამიდვიაო?'
+Generate the lemma and morphological tags for the inflected verb: უთქვამს	უთქვამს	თქმა Ind;Sing;3;3;Pres;Fin;Inv
+Given the context: '– მოისმა ცოტა ხნის მერე კანცელარიის გამგის ხმა.'
+Generate the lemma and morphological tags for the inflected verb: მოისმა	მოისმა Ind;Sing;3;3;Pres;Fin	მოსმენა Ind;Sing;3;Past;Fin
+Given the context: '– გამომართვა.'
+Generate the lemma and morphological tags for the inflected verb: გამომართვა	გამომართვა Ind;Sing;3;3;Pres;Fin	გამორთმევა Ind;Sing;Sing;1;3;3;Past;Fin
+Given the context: 'დარცხვენილი იყო, – მიუგო ზარანდიამ.'
+Generate the lemma and morphological tags for the inflected verb: დარცხვენილი	დარცხვენილი Ind;Sing;3;3;Pres;Fin	დარცხვენილი Nom;Sing;Past;Part
+Given the context: '– არ ვიცი.'
+Generate the lemma and morphological tags for the inflected verb: ვიცი	ცირიცია Ind;Sing;3;3;Pres;Fin	ცოდნა Ind;Sing;3;1;Pres;Fin
+Given the context: '– არ უნდა დაგებრუნებინათ!'
+Generate the lemma and morphological tags for the inflected verb: დაგებრუნებინათ	დაბრუნებინა Ind;Sing;3;3;Pres;Fin	დაბრუნება Ind;Sing;Plur;3;2;Pqp;Fin
+Given the context: '– გამოელაპარაკა ზარანდია.'
+Generate the lemma and morphological tags for the inflected verb: გამოელაპარაკა	გამოლაპარაკა Ind;Sing;3;3;Pres;Fin	გამოლაპარაკება Ind;Sing;3;3;Past;Fin
+Given the context: 'არ უნდა დაგებრუნებინათ!'
+Generate the lemma and morphological tags for the inflected verb: დაგებრუნებინათ	დაბრუნებინა Ind;Sing;3;3;Pres;Fin	დაბრუნება Ind;Sing;Plur;3;2;Pqp;Fin
+Given the context: '– არ შეიძლება.'
+Generate the lemma and morphological tags for the inflected verb: შეიძლება	შეიძლება Ind;Sing;3;3;Pres;Fin	შეძლება Ind;Sing;3;Pres;Fin
+Given the context: '– შეიძლება.'
+Generate the lemma and morphological tags for the inflected verb: შეიძლება	შეიძლება Ind;Sing;3;3;Pres;Fin	შეძლება Ind;Sing;3;Pres;Fin
+Given the context: 'ხაზინა მათხოვრულ ჯამაგირს რომ გიხდით, შეიძლება?'
+Generate the lemma and morphological tags for the inflected verb: გიხდით	გიხდით	ხდა Ind;Plur;Sing;2;3;3;Pres;Fin
+Given the context: '– გამგემ ჩაახველა და ზარანდიას პასუხს დაელოდა.'
+Generate the lemma and morphological tags for the inflected verb: ჩაახველა	ჩაახველა Ind;Sing;3;3;Pres;Fin	ჩახველება Ind;Sing;3;3;Past;Fin
+Given the context: 'კაცი უნდა ეყოს ჯამაგირს.'
+Generate the lemma and morphological tags for the inflected verb: ეყოს	ყოს	ყოფნა Sub;Sing;3;3;Past;Fin;Inv
+Given the context: 'რაც მეტს მოგცემენ, მით მეტი მოგინდება.'
+Generate the lemma and morphological tags for the inflected verb: მოგცემენ	მოცემენ	მი-ცემა Ind;Sing;Plur;2;3;3;Fut;Fin
+Given the context: 'კანცელარიის გამგემ, ჩანს, დროზე ვერაფერი მოიფიქრა და კარგა ხნის შემდეგ თქვა:'
+Generate the lemma and morphological tags for the inflected verb: ჩანს	მოფიქრა Ind;Sing;3;3;Pres;Fin	ჩენა Ind;Sing;3;Pres;Fin
+Given the context: '– თქვენ, უფალო, მადა ჯამაგირზე სამჯერ მეტი გქონიათ!'
+Generate the lemma and morphological tags for the inflected verb: გქონიათ	ქონია Ind;Sing;3;3;Pres;Fin	ქონა Ind;Plur;3;2;PastPerf;Fin;Inv
+Given the context: '– მაგაზე არ დავფიქრებულვარ.'
+Generate the lemma and morphological tags for the inflected verb: დავფიქრებულვარ	დაფიქრებულვარ	დაფიქრება Ind;Sing;1;PastPerf;Fin
+Given the context: 'რაში მატყობთ?'
+Generate the lemma and morphological tags for the inflected verb: მატყობთ	მატყობთ	ტყობა Ind;Sing;Plur;1;3;2;Pres;Fin
+Given the context: '– იმაში, რომ თქვენი ჯამაგირი არ გყოფნით და აქ კვირაში სამჯერ, საღამოობით, თვეში თუმნად კალამს აწრიპინებთ.'
+Generate the lemma and morphological tags for the inflected verb: გყოფნით	ყოფნით	ყოფნა Ind;Plur;3;2;Pres;Fin;Inv
+Given the context: 'ზარანდიამ გულიანად გაიცინა:'
+Generate the lemma and morphological tags for the inflected verb: გაიცინა	გაცინა Ind;Sing;3;3;Past;Fin	გაცინება Ind;Sing;3;Past;Fin
+Given the context: '– მე ამ თუმნისთვის არ ვმუშაობ, დრო მრჩება, ხომ უნდა გამოვიყენო რამეში?'
+Generate the lemma and morphological tags for the inflected verb: ვმუშაობ	მუშაობა Ind;Sing;3;3;Pres;Fin	მუშაობა Ind;Sing;1;Pres;Fin
+Given the context: '– თქვენი ნათქვამიდან ისე გამოდის, რომ ფულის გულისთვის არ მუშაობთ.'
+Generate the lemma and morphological tags for the inflected verb: გამოდის	გამოდის	გამოსვლა Ind;Sing;3;Pres;Fin
+Given the context: 'მაშ, ხუთ მანეთადაც იმუშავებდით, არა?'
+Generate the lemma and morphological tags for the inflected verb: იმუშავებდით	მუშავებდით	მუშაობა Cnd;Plur;2;Pres;Fin
+Given the context: '– არა, ხუთ მანეთად არ ვიმუშავებდი!'
+Generate the lemma and morphological tags for the inflected verb: ვიმუშავებდი	მუშავება Ind;Sing;3;3;Pres;Fin	მუშაობა Cnd;Sing;1;Pres;Fin
+Given the context: '– მაშ, რას იზამდით?'
+Generate the lemma and morphological tags for the inflected verb: იზამდით	ზამდით	ქმნა Cnd;Plur;3;2;Pres;Fin
+Given the context: '– თუმნიან სამსახურს მოვძებნიდი.'
+Generate the lemma and morphological tags for the inflected verb: მოვძებნიდი	მოძებნიდი	მოძებნა Cnd;Sing;3;1;Pres;Fin
+Given the context: '– არა, ჩემი ძირითადი ჯამაგირი და კიდევ ერთი თუმანი ის თანხაა, რომელიც საშუალებას მაძლევს, სამსახურისგან თავისუფალი დრო, ანუ კვირაში დანარჩენი ოთხი საღამო და კვირადღე, პირადი საჭიროებისთვის გამოვიყენო.'
+Generate the lemma and morphological tags for the inflected verb: მაძლევს	მაძლევს	მი-ცემა Ind;Sing;Sing;1;3;3;Pres;Fin
+Given the context: 'მეორე მხრივ, ის დრო, რომელსაც მუშაობას ვანდომებ, თუმანი ღირს და არა ხუთი მანეთი.'
+Generate the lemma and morphological tags for the inflected verb: ვანდომებ	ვანდომებ Ind;Sing;3;3;Pres;Fin	მონდომება Ind;Sing;3;3;1;Pres;Fin
+Given the context: '– როგორ არა, მაგრამ სხვა დროს იყოს.'
+Generate the lemma and morphological tags for the inflected verb: იყოს	იყოს	ყოფნა Sub;Sing;3;Past;Fin
+Given the context: '– ზარანდიამ საუბრის გაგრძელებისგან თავი შეიკავა.'
+Generate the lemma and morphological tags for the inflected verb: შეიკავა	შეკავა Ind;Sing;3;3;Pres;Fin	შეკავება Ind;Sing;3;3;Past;Fin
+Given the context: '– ახლავე ხომ არ აჯობებდა?'
+Generate the lemma and morphological tags for the inflected verb: აჯობებდა	აჯობებდა	ჯობნა Cnd;Sing;3;Pres;Fin
+Given the context: '– ინებეთ: ძველქართული საერო მწერლობა და ღმრთისმეტყველების ზოგიერთი წყარო.'
+Generate the lemma and morphological tags for the inflected verb: ინებეთ	ნებეთ	ნებება Imp;Plur;3;2;Fin
+Given the context: 'საინტერესოა, ეს ზარანდია მართლაც ასეთი კაცია, თუ ასეთ კაცს თამაშობს?'
+Generate the lemma and morphological tags for the inflected verb: თამაშობს	თამაშობს	თამაში Ind;Sing;3;3;Pres;Fin
+Given the context: 'გუშინ მე და დათა თუთაშხია კედიას ორადგილიანი ეტლით მაზრაში წავედით.'
+Generate the lemma and morphological tags for the inflected verb: წავედით	წავედით	წასვლა Ind;Plur;1;Past;Fin
+Given the context: 'ცხენი ტაატით მიდიოდა.'
+Generate the lemma and morphological tags for the inflected verb: მიდიოდა	მიდიოდა	მისვლა Ind;Sing;3;Imp;Fin
+Given the context: 'დროდადრო ცრიდა.'
+Generate the lemma and morphological tags for the inflected verb: ცრიდა	ცრიდა	ცრა Ind;Sing;3;3;Imp;Fin
+Given the context: 'გზად მიმავალ შუახნის ქალს წამოვეწიეთ.'
+Generate the lemma and morphological tags for the inflected verb: წამოვეწიეთ	წამოწიეთ	წამოწევა Ind;Plur;3;1;Past;Fin
+Given the context: 'დაღლილი, სველი, სიცივისგან გაცრეცილი იყო.'
+Generate the lemma and morphological tags for the inflected verb: გაცრეცილი	გაცრეცილი Ind;Sing;3;3;Pres;Fin	გაცრეცილი Nom;Sing;Past;Part
+Given the context: 'დათამ თქვა, ეს ქალი დავსვათ, რაღა დარჩა, ფეხით სიარული კიდეც მეხალისებაო.'
+Generate the lemma and morphological tags for the inflected verb: თქვა	თქმა Ind;Sing;3;3;Past;Fin	თქმა Ind;Sing;3;3;Past;Fin
+Given the context: 'რა თქმა უნდა, დავთანხმდი.'
+Generate the lemma and morphological tags for the inflected verb: დავთანხმდი	დათანხმდი	დათანხმება Ind;Sing;1;Past;Fin
+Given the context: 'დავსვით, მაზრაში ჩავიყვანეთ.'
+Generate the lemma and morphological tags for the inflected verb: დავსვით	დასვლა Ind;Sing;3;3;Past;Fin	დასმა Ind;Plur;3;1;Past;Fin
+Given the context: 'ჯერ საკანცელარიო ნივთების მაღაზიაში შევედით, საყიდლები მქონდა.'
+Generate the lemma and morphological tags for the inflected verb: შევედით	შედით	შესვლა Ind;Plur;1;Past;Fin
+Given the context: 'საბაზრო კვირადღე იყო, მუშტარი ბლომად ტრიალებდა, დახლთან პატარა რიგიც კი იდგა.'
+Generate the lemma and morphological tags for the inflected verb: ტრიალებდა	დგა Ind;Sing;3;3;Pres;Fin	ტრიალი Ind;Sing;3;Imp;Fin
+Given the context: 'ჩვენც დავდექით და დაველოდეთ.'
+Generate the lemma and morphological tags for the inflected verb: დავდექით	დადექა Ind;Sing;3;3;Past;Fin	დადგომა Ind;Plur;1;Past;Fin
+Given the context: 'რიგმა მალე მოგვიწია, ნოქარს საქონელი გადმოვაღებინეთ.'
+Generate the lemma and morphological tags for the inflected verb: მოგვიწია	მოგვიწია Ind;Sing;3;3;Pres;Fin	მოწევა Ind;Plur;Sing;1;3;3;Past;Fin
+Given the context: 'ამ დროს დარბაზში შაფათავას ცოლი შემოცქრიალდა.'
+Generate the lemma and morphological tags for the inflected verb: შემოცქრიალდა	შემოცქრიალდა	შემოცქრიალი Ind;Sing;3;Past;Fin
+Given the context: 'მასწავლებელი შაფათავა ახალგაზრდა კაცია, ცოლიც ახალგაზრდა, ლამაზი ჰყავს, მაგრამ ცოტა ცანცარაა.'
+Generate the lemma and morphological tags for the inflected verb: ჰყავს	ჰყავს	ყოლა Ind;Sing;3;3;Pres;Fin;Inv
+Given the context: 'შემოცქრიალდა და პირდაპირ ჩვენი დახლისკენ წამოვიდა.'
+Generate the lemma and morphological tags for the inflected verb: შემოცქრიალდა	შემოცქრიალდა	შემოცქრიალი Ind;Sing;3;Past;Fin
+Given the context: 'დათას მოადგა, იგივე დაუპირა.'
+Generate the lemma and morphological tags for the inflected verb: მოადგა	მოადგა	მოდგომა Ind;Sing;3;3;Past;Fin
+Given the context: 'დათამ ქალს თვალი შეავლო, გზა არ მისცა.'
+Generate the lemma and morphological tags for the inflected verb: შეავლო	შეავლო	შევლება Ind;Sing;3;3;3;Past;Fin
+Given the context: 'მისი თავაზიანობის ამბავი ვიცოდი და გამიკვირდა.'
+Generate the lemma and morphological tags for the inflected verb: ვიცოდი	ცოდილა Ind;Sing;3;3;Pres;Fin	ცოდნა Ind;Sing;3;1;Imp;Fin
+Given the context: 'ქალი ეჯაჯგურებოდა, დაჟინებით ცდილობდა, დათა როგორმე გზიდან ჩამოეცილებინა, ნოქრამდე მიეღწია, მაგრამ არაფერი გამოუდიოდა, დათას დაძვრას მამაკაცის ღონე სჭირდებოდა.'
+Generate the lemma and morphological tags for the inflected verb: ეჯაჯგურებოდა	ეჯაჯგურებოდა	დაჯაჯგური Ind;Sing;3;3;Imp;Fin
+Given the context: 'შაფათავას ლამაზი ცოლი მაინც არ ცხრებოდა.'
+Generate the lemma and morphological tags for the inflected verb: ცხრებოდა	ცხრებოდა	ცხრომა Ind;Sing;3;Imp;Fin
+Given the context: 'არც დათა გამოდგა ნაკლებად ჯიუტი, გოჯი არ დაუთმო.'
+Generate the lemma and morphological tags for the inflected verb: გამოდგა	გამოდგა Ind;Sing;3;3;Pres;Fin	გამოდგომა Ind;Sing;3;Past;Fin
+Given the context: 'ნოქარმა ნაყიდი საქონელი გაგვიხვია, ფულიც გადავიხადეთ, მაგრამ დათამ ადგილი არც ახლა დათმო, არც მე გამიშვა, – იდექიო, და ჩვენს შემდეგ მდგომ ქალს ჰკითხა, რომელი ნაჭერი გნებავთო.'
+Generate the lemma and morphological tags for the inflected verb: გაგვიხვია	გადავიხადეთ	გახვევა Ind;Plur;Sing;1;3;3;Past;Fin
+Given the context: 'როცა ნოქარს ის ნაჭერი მოატანინა, პოზიცია მერეღა დატოვა.'
+Generate the lemma and morphological tags for the inflected verb: მოატანინა	მოატანინა Ind;Sing;3;3;Pres;Fin	მოტანინება Ind;Sing;3;3;3;Past;Fin;Cau
+Given the context: 'გამოვემგზავრეთ.'
+Generate the lemma and morphological tags for the inflected verb: გამოვემგზავრეთ	გამომგზავრება Ind;Sing;3;3;Pres;Fin	გამომგზავრება Ind;Plur;1;Past;Fin
+Given the context: 'გზაში ვკითხე, – ეტლიდან ჩამოხვედი, უცნობი ქალი დასვი, მაზრამდე ფეხით იარე და შაფათავას ლამაზი ცოლი კი, მოკვდი და დახლს არ მიაკარე.'
+Generate the lemma and morphological tags for the inflected verb: ვკითხე	კითხე Ind;Sing;3;3;Past;Fin	კითხვა Ind;Sing;3;3;1;Past;Fin
+Given the context: 'ეს როგორღა გავიგოთ-მეთქი?'
+Generate the lemma and morphological tags for the inflected verb: გავიგოთ	გავიგოთ	გაგება Sub;Plur;3;1;Past;Fin
+Given the context: '– მისთვის მოვიქეცი ასე, ჩემთვის არ მოვქცეულვარ! – მითხრა დათა თუთაშხიამ.'
+Generate the lemma and morphological tags for the inflected verb: მოვიქეცი	მოქცეულვარ	მოქცევა Ind;Sing;1;Past;Fin
+Given the context: 'გამოდიოდა, რომ დათა თუთაშხიას საქციელი შაფათავას ცოლის ინტერესებს ემსახურებოდა.'
+Generate the lemma and morphological tags for the inflected verb: გამოდიოდა	გამოდიოდა	გამოსვლა Ind;Sing;3;Imp;Fin
+Given the context: 'ამ თავზეხელაღებულმა ალტრუიზმმა დამაეჭვა.'
+Generate the lemma and morphological tags for the inflected verb: დამაეჭვა	დამაეჭვა Ind;Sing;3;3;Pres;Fin	დაეჭვება Ind;Sing;Sing;1;3;Past;Fin
+Given the context: 'რიგიანად გამოვკითხე თუ რას გულისხმობდა, და, აი, რა გამოვიდა:'
+Generate the lemma and morphological tags for the inflected verb: გამოვკითხე	გამოკითხე Ind;Sing;3;3;Pres;Fin	გამოკითხვა Ind;Sing;3;1;Past;Fin
+Given the context: 'თურმე თავხედებად იმდენნი არ იბადებიან, რამდენნიც მერე ხდებიან.'
+Generate the lemma and morphological tags for the inflected verb: იბადებიან	ბადება Ind;Sing;3;3;Pres;Fin	დაბადება Ind;Plur;3;Pres;Fin
+Given the context: 'მეორედ სხვა სიტუაციაშიც შეიძლება ასე გამოუვიდეს.'
+Generate the lemma and morphological tags for the inflected verb: გამოუვიდეს	გამოუვიდეს	გამოსვლა Sub;Sing;3;3;Past;Fin
+Given the context: 'ტუტუცი კია, მაგრამ მიხვდება, – თავხედობა ცხოვრებას აადვილებსო, და სიკვდილამდე თავხედი იქნება.'
+Generate the lemma and morphological tags for the inflected verb: მიხვდება	მიხვდება Ind;Sing;3;3;Pres;Fin	მიხვდომა Ind;Sing;3;Fut;Fin
+Given the context: 'ბავშვს ჰკითხეს, რა გატირებსო?'
+Generate the lemma and morphological tags for the inflected verb: ჰკითხეს	ჰკითხეს	კითხვა Ind;Plur;3;3;3;Past;Fin
+Given the context: 'გამიდის და ვტირიო!'
+Generate the lemma and morphological tags for the inflected verb: გამიდის	გამიდის	გასვლა Ind;Sing;Sing;1;3;Pres;Fin
+Given the context: 'ხვალაც ასე მოხდა.'
+Generate the lemma and morphological tags for the inflected verb: მოხდა	მოხდა	მოხდომა Ind;Sing;3;Past;Fin
+Given the context: 'ეგ იქნებ ისეთსაც გადაეყაროს, რომ თავხედობისთვის მიუზღოს კიდეც.'
+Generate the lemma and morphological tags for the inflected verb: გადაეყაროს	გადაყაროს	გადაყრა Sub;Sing;3;3;Past;Fin
+Given the context: 'როგორი ტუტუციც უნდა იყოს ადამიანი, ბოლოს და ბოლოს, თავხედობაზე ხელს აიღებს და სამარემდე წესიერი კაცი იქნება.'
+Generate the lemma and morphological tags for the inflected verb: აიღებს	აიღებს	აღება Ind;Sing;3;3;Fut;Fin
+Given the context: 'თავხედურს თავხედი იზამს.'
+Generate the lemma and morphological tags for the inflected verb: იზამს	ზამს	ქმნა Ind;Sing;3;3;Fut;Fin
+Given the context: 'კითხვა: ბატონო ექიმო, თვლით თუ არა დაზარალებულის ჯანმრთელობას საკმაოდ ნორმალურად იმისთვის, რომ ჩვენება ჩამოვართვა და დაკითხვის ოქმს უფლებამოსილი იურიდიული საბუთის ძალა ჰქონდეს?'
+Generate the lemma and morphological tags for the inflected verb: თვლით	ქონა Ind;Sing;3;3;Pres;Fin	თვლა Ind;Plur;3;2;Pres;Fin
+Given the context: 'პასუხი: ბატონ ანდრიევსკის მიღებული აქვს ჭრილობა ღვიძლის ზედა არეში.'
+Generate the lemma and morphological tags for the inflected verb: მიღებული	აქვს	მიღებული Nom;Sing;Past;Part
+Given the context: 'ეს თქვენთვის სამედიცინო ექსპერტიზის დასკვნითაც არის ცნობილი.'
+Generate the lemma and morphological tags for the inflected verb: ცნობილი	ცნობილი Ind;Sing;3;3;Pres;Fin	ცნობილი Nom;Sing;Past;Part
+Given the context: 'ამჟამად ბატონ ანდრიევსკის დაბალი ტემპერატურა აქვს, მისი ფსიქიკური მდგომარეობაც ნორმალურია და ჯანმრთელობისთვის ზიანის მიუყენებლად შეუძლია, მოგცეთ ჩვენება.'
+Generate the lemma and morphological tags for the inflected verb: აქვს	აქვს	ქონა Ind;Sing;3;3;Pres;Fin;Inv
+Given the context: 'ხოლო ექნება თუ არა მის ჩვენებას უფლებამოსილი იურიდიული საბუთის ძალა, ამის დადასტურება ან უარყოფა ჩემს კომპეტენციაში არ შედის.'
+Generate the lemma and morphological tags for the inflected verb: ექნება	შექნება Ind;Sing;3;3;Pres;Fin	ქონა Ind;Sing;3;3;Fut;Fin;Inv
+Given the context: 'კითხვა: ბატონო პორუჩიკო, გთხოვთ, განუმარტოთ გამოძიებას სამხედრო სამსახურიდან თქვენი გადადგომისა და მხატვრის თავისუფალი პროფესიის არჩევის მოტივები.'
+Generate the lemma and morphological tags for the inflected verb: გთხოვთ	განუმარტოთ	თხოვნა Ind;Plur;Sing;2;3;1;Pres;Fin
+Given the context: 'პასუხი: ეგ საკითხი საქმეს არ ეხება და პასუხის გაცემაზე უარს ვაცხადებ.'
+Generate the lemma and morphological tags for the inflected verb: ეხება	ეხება Ind;Sing;3;3;Pres;Fin	შეხება Ind;Sing;3;3;Pres;Fin
+Given the context: 'გამომძიებელი: ჟანდარმერიის სამმართველოს უფროსმა პირადად გთხოვათ, გასცეთ პასუხი ამ კითხვაზე.'
+Generate the lemma and morphological tags for the inflected verb: გთხოვათ	გთხოვა Ind;Sing;3;3;Pres;Fin	თხოვნა Ind;Plur;Sing;2;3;3;Past;Fin
+Given the context: 'ანდრიევხკი: გადაეცით გრაფ სეგედის ჩემი უღრმესი სინანული იმის გამო, რომ ჯანმრთელობა ხელს მიშლის, შევასრულო მისი თხოვნა.'
+Generate the lemma and morphological tags for the inflected verb: გადაეცით	გადაეცით	გადაცემა Imp;Plur;3;3;2;Fin
+Given the context: 'არცა ვარ ამ თემაზე სასაუბროდ განწყობილი.'
+Generate the lemma and morphological tags for the inflected verb: განწყობილი	განწყობილი Ind;Sing;3;3;Pres;Fin	განწყობილი Nom;Sing;Past;Part
+Given the context: 'ვიმედოვნებ, მისი თხოვნის შესრულებას ახლო მომავალში შევძლებ.'
+Generate the lemma and morphological tags for the inflected verb: ვიმედოვნებ	შეძლება Ind;Sing;3;3;Pres;Fin	იმედოვნება Ind;Sing;1;Pres;Fin
+Given the context: 'კითხვა: ვინ მოგაყენათ ჭრილობა, რომელსაც ამჟამად, აქ, ფოთის სამხედრო ლაზარეთში მკურნალობთ?'
+Generate the lemma and morphological tags for the inflected verb: მოგაყენათ	მოგაყენა Ind;Sing;3;3;Pres;Fin	მოყენება Ind;Plur;Sing;2;3;3;Past;Fin
+Given the context: 'კითხვა: რით შეგიძლიათ, დაამტკიცოთ, რომ ჭრილობა, სახელდობრ, ხსენებულ დათა თუთაშხიას მოყენებულია?'
+Generate the lemma and morphological tags for the inflected verb: დაამტკიცოთ	დაამტკიცოთ	დამტკიცება Sub;Plur;3;2;Past;Fin
+Given the context: 'პასუხი: ამას იგი თვითონ დაადასტურებს: დადასტურება შეუძლია, აგრეთვე, მის დას, ელე თუთაშხიას და ჩემს მსახურს თედორე ნიკიშოვს.'
+Generate the lemma and morphological tags for the inflected verb: დაადასტურებს	დაადასტურებს	დადასტურება Ind;Sing;3;3;Fut;Fin
+Given the context: 'ჩემსა და დათა თუთაშხიას შორის სროლა ურთიერთთანხმობით, ნებაყოფლობით მოხდა.'
+Generate the lemma and morphological tags for the inflected verb: მოხდა	მოხდა	მოხდომა Ind;Sing;3;Past;Fin
+Given the context: 'კითხვა: თქვენ გნებავთ, თქვათ, რომ თქვენს შორის დუელს ჰქონდა ადგილი?'
+Generate the lemma and morphological tags for the inflected verb: გნებავთ	გნება Ind;Sing;3;3;Pres;Fin	ნება Ind;Plur;3;2;Pres;Fin;Inv
+Given the context: 'ჩვენს შორის მოხდა ურთიერთთანხმობაზე დამყარებული სროლა, წინასწარ დადგენილი პირობებისა და სეკუნდანტების გარეშე.'
+Generate the lemma and morphological tags for the inflected verb: მოხდა	მოხდა Ind;Sing;3;3;Pres;Fin	მოხდომა Ind;Sing;3;Past;Fin
+Given the context: 'მოგახსენებთ, ეს დუელად ვერ ჩაითვლება.'
+Generate the lemma and morphological tags for the inflected verb: მოგახსენებთ	მოგახსენებთ	მოხსენება Ind;Plur;Sing;2;3;1;Pres;Fin
+Given the context: 'პასუხი: არავითარ შემთხვევაში და, ამასთან ერთად, ვაცხადებ, რომ დათა თუთაშხიას მიმართ ვინმეს მიერ რაიმე საქმის აღძვრის კატეგორიულად წინააღმდეგი ვარ.'
+Generate the lemma and morphological tags for the inflected verb: ვაცხადებ	ცხადება Ind;Sing;3;3;Pres;Fin	ცხადება Ind;Sing;3;1;Pres;Fin
+Given the context: 'რა, ვგულისხმობ ჩვენი დამოკიდებულებების ფარგლებს.'
+Generate the lemma and morphological tags for the inflected verb: ვგულისხმობ	გულისხმობ Ind;Sing;3;3;Pres;Fin	გულისხმობა Ind;Sing;3;1;Pres;Fin
+Given the context: 'გამომძიებლის განმარტება: გამოძიების წინაშე არის დანაშაულის ობიექტური მხარე ანუ ფაქტი: მძიმედ დაჭრილი გადამდგარი ოფიცერი, თავისუფალი პროფესიის პირი, ტახტის აზნაური.'
+Generate the lemma and morphological tags for the inflected verb: არის	არის	ყოფნა Ind;Sing;3;Pres;Fin
+Given the context: 'ჟანდარმერიის სამმართველო, არსებული კანონების საფუძველზე, ვალდებულია, აღძრას სისხლის სამართლის საქმე ჭრილობის მიმყენებლის წინააღმდეგ.'
+Generate the lemma and morphological tags for the inflected verb: აღძრას	აღძრა Ind;Sing;3;3;Pres;Fin	აღძვრა Sub;Sing;3;3;Past;Fin
+Given the context: 'დანაშაულის სუბიექტურ მხარეს, ანუ ჩადენის მოტივებს, სასამართლო გამოარკვევს და შემამსუბუქებელ გარემოებებს, თუკი ასეთები აღმოჩნდება, განაჩენის გამოტანისას მიიღებს მხედველობაში.'
+Generate the lemma and morphological tags for the inflected verb: გამოარკვევს	მიიღებს	გამორკვევა Ind;Sing;3;3;Fut;Fin
+Given the context: 'ამჟამად ბოროტმოქმედი დათა თუთაშხია პასუხისგებას თავს არიდებს.'
+Generate the lemma and morphological tags for the inflected verb: არიდებს	არიდებს	რიდება Ind;Sing;3;3;3;Pres;Fin
+Given the context: 'მის წინააღმდეგ აღძრულია სისხლის სამართლის საქმე და დანიშნულია დამნაშავის ძებნა.'
+Generate the lemma and morphological tags for the inflected verb: აღძრული	აღძრულია Ind;Sing;3;3;Pres;Fin	აღძრული Nom;Sing;Past;Part
+Given the context: 'დაზარალებულის კითხვა: რა სასჯელი ელის დათა თუთაშხიას?'
+Generate the lemma and morphological tags for the inflected verb: ელის	დაზარალებული Ind;Sing;3;3;Pres;Fin	ლოდინი Ind;Sing;3;3;Pres;Fin
+Given the context: 'გამომძიებლის განმარტება: თუ დანაშაული არ შეიცავს პოლიტიკურ ან წოდებრივ მოტივს, ანუ ისეთ კრიმინალს, რომელსაც კანონი ტერორისტულ აქტად მიიჩნევს, მაშინ ბოროტმოქმედება კვალიფიცირებულ იქნება, როგორც წინასწარგანზრახული, მაგრამ შეუსრულებული მკვლელობა ან ჭრილობის მიყენება ჯანმრთელობისთვის მძიმე შედეგებით.'
+Generate the lemma and morphological tags for the inflected verb: შეიცავს	შეცავს	შეცვა Ind;Sing;3;3;Pres;Fin
+Given the context: 'რაც შეეხება სანქციას, ანუ სასჯელის ზომას, ამას სასამართლო განსაზღვრავს.'
+Generate the lemma and morphological tags for the inflected verb: შეეხება	შეეხება Ind;Sing;3;3;Pres;Fin	შეხება Ind;Sing;3;3;Pres;Fin
+Given the context: 'დაკმაყოფილებულ იქნება თუ არა ჩემი წერილობითი თხოვნა თუთაშხიას მიმართ სისხლის სამართლის საქმის შეწყვეტის თაობაზე?'
+Generate the lemma and morphological tags for the inflected verb: დაკმაყოფილებულ	დაკმაყოფილებული Ind;Sing;3;3;Pres;Fin	დაკმაყოფილებული Nom;Past;Part
+Given the context: 'ასეთი თხოვნით შეგიძლიათ, მიმართოთ სასამართლოს, რომელსაც თუთაშხიას საქმე ჩვენ უსათუოდ უნდა გადავცეთ.'
+Generate the lemma and morphological tags for the inflected verb: მიმართოთ	გადაცეთ	მიმართვა Sub;Plur;3;2;Past;Fin
+Given the context: 'გამომძიებლის კითხვა: გამოძიებას ესაჭიროება თქვენი ამომწურავი ჩვენება მომხდარი ინციდენტის გამო.'
+Generate the lemma and morphological tags for the inflected verb: ესაჭიროება	ესაჭიროება Ind;Sing;3;3;Pres;Fin	საჭიროება Ind;Sing;3;3;Pres;Fin;Inv
+Given the context: 'როგორ გირჩევნიათ, თანმიმდევრობით მიამბოთ ყველაფერი და მე თქვენი ნაამბობი სიტყვასიტყვით ჩავიწერო, თუ კითხვებზე გამცემთ პასუხს?'
+Generate the lemma and morphological tags for the inflected verb: გირჩევნიათ	გირჩევნიათ	რჩევა Ind;Plur;3;2;Pres;Fin;Inv
+Given the context: 'პასუხი: კითხვები დამისვით.'
+Generate the lemma and morphological tags for the inflected verb: დამისვით	დამისვით	დასმა Imp;Sing;Plur;1;3;2;Fin
+Given the context: 'კითხვა: ჭრილობის მიღებამდე იცნობდით თუ არა დათა თუთაშხიას და თუ იცნობდით – როდის, რა პირობებში გაიცანით?'
+Generate the lemma and morphological tags for the inflected verb: იცნობდით	ცნობა Ind;Sing;3;3;Pres;Fin	ცნობა Cnd;Plur;3;2;Pres;Fin
+Given the context: 'ზამთრობით თავად ანჩაბაძისგან ზღვისპირა საძოვრებს იჯარით იღებს და საქონელს იქ აზამთრებს.'
+Generate the lemma and morphological tags for the inflected verb: იღებს	იღებს	ღება Ind;Sing;3;3;Pres;Fin
+Given the context: 'იჯარა თითქმის მუდმივია, ამიტომ საძოვარზე დათა თუთაშხიას ფაცხა უდგას და იმ ფაცხაში ატარებს ზამთარს თავის დასთან – ელე თუთაშხიასთან ერთად.'
+Generate the lemma and morphological tags for the inflected verb: უდგას	უდგას	დგომა Ind;Sing;3;3;Pres;Fin
+Given the context: 'იმ ადგილზე ნაპირი კლდიანია და ჩემთვის, მხატვარ-პეიზაჟისტისთვის, გარკვეულ ინტერესს წარმოადგენს.'
+Generate the lemma and morphological tags for the inflected verb: წარმოადგენს	წარმოადგენს	წარმოდგენა Ind;Sing;3;3;Pres;Fin
+Given the context: 'როცა ადგილი მომეწონა, საძოვრის მოიჯარადრეს მივმართე, კარვის დადგმის უფლება მოეცა.'
+Generate the lemma and morphological tags for the inflected verb: მომეწონა	მოწონა Ind;Sing;3;3;Pres;Fin	მოწონება Ind;Sing;3;1;Past;Fin;Inv
+Given the context: 'როგორც მოგახსენეთ, მოიჯარადრე დათა თუთაშხია იყო.'
+Generate the lemma and morphological tags for the inflected verb: მოგახსენეთ	მოგახსენეთ	მოხსენება Ind;Plur;Sing;2;3;1;Past;Fin
+Given the context: 'ნებაც დამრთო და მე და ჩემს მსახურს კარვის დადგმაში და დაბინავებაშიც მოგვეშველა.'
+Generate the lemma and morphological tags for the inflected verb: დამრთო	დამრთო	დართვა Ind;Sing;Sing;1;3;3;Past;Fin
+Given the context: 'ეს მოხდა გასული, 1884 წლის ოქტომბერში, ანუ ხუთი თვის წინათ.'
+Generate the lemma and morphological tags for the inflected verb: მოხდა	მოხდა Ind;Sing;3;3;Pres;Fin	მოხდომა Ind;Sing;3;Past;Fin
+Given the context: 'კითხვა: როგორი გარეგნობის არის დათა თუთაშხია და აქვს თუ არა რაიმე განსაკუთრებული შესაცნობი ნიშნები?'
+Generate the lemma and morphological tags for the inflected verb: აქვს	აქვს	ქონა Ind;Sing;3;3;Pres;Fin;Inv
+Given the context: 'აქვს ლურჯი თვალები, კეხიანი ცხვირი, ოდნავ მოღუნული, მხედრის წვივები.'
+Generate the lemma and morphological tags for the inflected verb: აქვს	აქვს	ქონა Ind;Sing;3;3;Pres;Fin;Inv
+Given the context: 'კოხტად, მოხდენილად იცვამს.'
+Generate the lemma and morphological tags for the inflected verb: იცვამს	ცვამს	ცმა Ind;Sing;3;Pres;Fin
+Given the context: 'უყვარს შავი ფერის ქართული ჩოხები და ხშირად იცვლის ერთიმეორეზე უკეთეს ცხენებს.'
+Generate the lemma and morphological tags for the inflected verb: უყვარს	ცხენა Ind;Sing;3;3;Pres;Fin	სიყვარული Ind;Sing;3;3;Pres;Fin;Inv
+Given the context: 'ერთი სიტყვით, მის არისტოკრატ თანამემამულეთაგან თითქმის არაფრით განსხვავდება.'
+Generate the lemma and morphological tags for the inflected verb: განსხვავდება	განსხვავდება Ind;Sing;3;3;Pres;Fin	განსხვავება Ind;Sing;3;Pres;Fin
+Given the context: 'პასუხი: არა მგონია, ეგ შეკითხვა საქმეს ეხებოდეს.'
+Generate the lemma and morphological tags for the inflected verb: მგონია	მგონია Ind;Sing;3;3;Pres;Fin	გონება Ind;Sing;3;1;Pres;Fin;Inv
+Given the context: 'კითხვა: რა იცით დათა თუთაშხიას ახლო ნათესავებისა?'
+Generate the lemma and morphological tags for the inflected verb: იცით	ცოდნა Ind;Sing;3;3;Pres;Fin	ცოდნა Ind;Plur;3;2;Pres;Fin
+Given the context: 'რამდენადაც ვიცი, ჰყავთ მამიდა, მისი ქმარი და მამიდაშვილები.'
+Generate the lemma and morphological tags for the inflected verb: ვიცი	ცირა Ind;Sing;3;3;Pres;Fin	ცოდნა Ind;Sing;3;1;Pres;Fin
+Given the context: 'კითხვა: რას გვეტყოდით თუთაშხიას განათლებაზე?'
+Generate the lemma and morphological tags for the inflected verb: გვეტყოდით	გვეტყოდით	თქმა Cnd;Plur;Plur;1;3;2;Pres;Fin
+Given the context: 'პასუხი: სასწავლებელში არ უსწავლია, მაგრამ მაინც საკმაოდ განათლებული კაცია.'
+Generate the lemma and morphological tags for the inflected verb: უსწავლია	უსწავლია	სწავლა Ind;Sing;3;3;PastPerf;Fin
+Given the context: 'დაობლებული ბავშვები აღსაზრდელად ხსენებულ მამიდას და მის ქმარს, ხელობით დიაკვანს, აუყვანიათ.'
+Generate the lemma and morphological tags for the inflected verb: აუყვანიათ	აუყვანიათ	აყვანა Ind;Plur;3;3;PastPerf;Fin
+Given the context: 'საკუთარ შვილებთან ერთად ზრდიდნენ.'
+Generate the lemma and morphological tags for the inflected verb: ზრდიდნენ	ზრდიდნენ	ზრდა Ind;Plur;3;3;Imp;Fin
+Given the context: 'ალბათ, რუსებთან ურთიერთობაში ისწავლა, მაგრამ სად და როდის – არ ვიცი.'
+Generate the lemma and morphological tags for the inflected verb: ისწავლა	ისწავლა Ind;Sing;3;3;Pres;Fin	სწავლა Ind;Sing;3;3;Past;Fin
+Given the context: 'მკვირცხლი, საღი გონება აქვს.'
+Generate the lemma and morphological tags for the inflected verb: აქვს	აქვს	ქონა Ind;Sing;3;3;Pres;Fin;Inv
+Given the context: 'კითხვა: რა გაკავშირებდათ, რა ურთიერთობა გქონდათ დათა თუთაშხიასთან?'
+Generate the lemma and morphological tags for the inflected verb: გაკავშირებდათ	გაკავშირებდა Ind;Sing;3;3;Pres;Fin	მიკავშირება Ind;Plur;Sing;2;3;3;Imp;Fin
+Given the context: 'მიუხედავად მომხდარი კონფლიქტისა, ახლაც უდიდესი პატივისცემით ვარ გამსჭვალული, როგორც დათა თუთაშხიას, ისე მისი დის, ელეს მიმართ.'
+Generate the lemma and morphological tags for the inflected verb: გამსჭვალული	გამსჭვალული Ind;Sing;3;3;Pres;Fin	გამსჭვალული Nom;Sing;Past;Part
+Given the context: 'ალბათ, საამისო სერიოზული მიზეზიც იყო: მითხარით, რას მოჰყვა კონფლიქტი?'
+Generate the lemma and morphological tags for the inflected verb: მითხარით	მოჰყვა Ind;Sing;3;3;Pres;Fin	თქმა Ind;Sing;Plur;1;3;2;Past;Fin
+Given the context: 'პასუხი: დათა თუთაშხიამ მე და თავის დას, ელეს, ტახტზე ნახევრად წამოწოლილებს მოგვასწრო.'
+Generate the lemma and morphological tags for the inflected verb: მოგვასწრო	მოგვასწრო	მოსწრება Ind;Plur;Sing;1;3;Past;Fin
+Given the context: 'კითხვა: როგორ დაგინახათ დათა თუთაშხიამ და რა მოხდა ამის შემდეგ?'
+Generate the lemma and morphological tags for the inflected verb: დაგინახათ	დანახათ	დანახვა Ind;Plur;Sing;2;3;3;Past;Fin
+Given the context: 'ექიმი: ბატონო როტმისტრო, ავადმყოფი მოიქანცა, დაკითხვის განგრძობა მის ჯანმრთელობაზე უარყოფითად იმოქმედებს.'
+Generate the lemma and morphological tags for the inflected verb: მოიქანცა	მოქმედება Ind;Sing;3;3;Pres;Fin	მოქანცვა Ind;Sing;3;Past;Fin
+Given the context: 'ბატონ ანდრიევსკის დასვენება ესაჭიროება.'
+Generate the lemma and morphological tags for the inflected verb: ესაჭიროება	ესაჭიროება Ind;Sing;3;3;Pres;Fin	საჭიროება Ind;Sing;3;3;Pres;Fin;Inv
+Given the context: 'გამომძიებელი: ვაკმაყოფილებ თქვენს თხოვნას.'
+Generate the lemma and morphological tags for the inflected verb: ვაკმაყოფილებ	ვაკმაყოფილებ	დაკმაყოფილება Ind;Sing;3;1;Pres;Fin
+Given the context: 'იმედი მაქვს, ბატონი ანდრიევსკი რამდენიმე დღის შემდეგ გაცილებით უკეთესად იქნება და საშუალება მოგვეცემა, განვაგრძოთ დაკითხვა.'
+Generate the lemma and morphological tags for the inflected verb: მაქვს	მაქვს	ქონა Ind;Sing;3;1;Pres;Fin;Inv
+Given the context: 'თანახმად თქვენი ბრძანებისა, მოვაწყე თვალთვალი ფოთის სამხედრო ლაზარეთში მკურნალობისთვის მყოფი გადამდგარი ოფიცრის, ს. რ. ანდრიევსკის სანახავად მისულ პირებზე, ლაზარეთის პერსონალთან ურთიერთობაში მყოფ პირებზე და შემდეგ გარდაცვლილი პორუჩიკის სამარეზე მიმსვლელებზეც.'
+Generate the lemma and morphological tags for the inflected verb: მოვაწყე	მოწყევა Ind;Sing;3;3;Pres;Fin	მოწყობა Ind;Sing;3;1;Past;Fin
+Given the context: 'მოგახსენებთ, რომ ბ-ნ ანდრიევსკის გარდაცვალებამდე არ შემოსულა რაიმე ცნობა ბოროტმოქმედ დათა თუთაშხიას ან მისი კაცის ფოთში, კერძოდ, ლაზარეთში გამოჩენის შესახებ.'
+Generate the lemma and morphological tags for the inflected verb: მოგახსენებთ	შემოსულა Ind;Sing;3;3;Pres;Fin	მოხსენება Ind;Plur;Sing;2;3;1;Pres;Fin
+Given the context: 'როცა ბიბილეიშვილმა პორუჩიკის გარდაცვალება შეიტყო, დაკრძალვის ადგილი იკითხა.'
+Generate the lemma and morphological tags for the inflected verb: შეიტყო	შეტყობა Ind;Sing;3;3;Pres;Fin	შეტყობა Ind;Sing;3;3;Past;Fin
+Given the context: 'ტაბაღუამ სამარის ადგილი დაწვრილებით აუწერა.'
+Generate the lemma and morphological tags for the inflected verb: აუწერა	წერა Ind;Sing;3;3;Pres;Fin	აწერა Ind;Sing;3;3;3;Past;Fin
+Given the context: 'ბიბილეიშვილმა კიდევ ცოტა ხანს დაჰყო და წავიდა, ხოლო ტაბაღუამ ამ შეხვედრის შესახებ დაუყოვნებლივ მაცნობა.'
+Generate the lemma and morphological tags for the inflected verb: დაჰყო	დაყოფა Ind;Sing;3;3;Pres;Fin	დაყოფა Ind;Sing;3;3;Past;Fin
+Given the context: 'ამ ბოლო დროს ფოთის დუქნებში დ. თუთაშხიას სახელი ხშირად იხსენიება და შესაძლებელი გახდა იმ პირთა აღრიცხვაზე აყვანა, ვინც თუთაშხიას ნაცნობობას ან ამხანაგ-მეგობრობას კისრულობს.'
+Generate the lemma and morphological tags for the inflected verb: იხსენიება	ხსენიება Ind;Sing;3;3;Pres;Fin	მოხსენიება Ind;Sing;3;Pres;Fin
+Given the context: 'ტაბაღუას ცნობის შემდეგ დაუყოვნებლივ გავეცი ბიბილეიშვილზე თვალთვალის ბრძანება და მოვაწყე ორი საფარი სამხედრო სასაფლაოზე.'
+Generate the lemma and morphological tags for the inflected verb: გავეცი	გაცილება Ind;Sing;3;3;Pres;Fin	გაცემა Ind;Sing;3;3;1;Past;Fin
+Given the context: 'ბიბილეიშვილზე თვალთვალმა შედეგი ვერ მოიტანა.'
+Generate the lemma and morphological tags for the inflected verb: მოიტანა	მოტანა Ind;Sing;3;3;Pres;Fin	მოტანა Ind;Sing;3;3;Past;Fin
+Given the context: 'როგორც ახლა გახდა ცხადი, თუთაშხიამ მასთან შეხვედრა მოასწრო იქამდე, სანამ თვალთვალის დაწყება მოხერხდებოდა.'
+Generate the lemma and morphological tags for the inflected verb: გახდა	გახდა Ind;Sing;3;3;Pres;Fin	გახდომა Ind;Sing;3;Past;Fin
+Given the context: 'ამჟამად პატიმრობაში მყოფი ბიბილეიშვილი გადაჭრით უარყოფს როგორც თუთაშხიასთან შეხვედრის ფაქტს, ისე მასთან ნაცნობობას საერთოდ, მაგრამ ტყუის: თუთაშხიას მისვლა სასაფლაოზე და ბ-ნ ანდრიევსკის სამარის ადვილად მიგნება ბიბილეიშვილის მიერ მიწოდებული ცნობით მოხდა.'
+Generate the lemma and morphological tags for the inflected verb: უარყოფს	მოხდა	უარყოფა Ind;Sing;3;3;Pres;Fin
+Given the context: 'ბოროტმოქმედი თუთაშხია სამხედრო სასაფლაოს მიდამოში შეღამებისას გამოჩნდა.'
+Generate the lemma and morphological tags for the inflected verb: შეღამებისას	გამოჩნება Ind;Sing;3;3;Pres;Fin	შეღამება Vnoun
+Given the context: 'მოდიოდა და იქაურობას მალულად ათვალიერებდა.'
+Generate the lemma and morphological tags for the inflected verb: მოდიოდა	მოდიოდა	მოსვლა Ind;Sing;3;Imp;Fin
+Given the context: 'ერთ მხარეს საფარში ისხდნენ ფელდფებელი ივანიცკი და პოლიციელი შარია.'
+Generate the lemma and morphological tags for the inflected verb: ისხდნენ	სხდნენ	სხდომა Ind;Plur;3;Past;Fin
+Given the context: 'მე და უბნის პოლიციელი თურნავა მოშორებით ჩირგვებში ვიწექით და თვალს ვადევნებდით ოპერაციის მსვლელობას.'
+Generate the lemma and morphological tags for the inflected verb: ვიწექით	წექა Ind;Sing;3;3;Pres;Fin	წოლა Ind;Plur;1;Past;Fin
+Given the context: 'თუთაშხიამ ვერც ერთი საფარი ვერ შენიშნა, პირდაპირ ბ-ნ ანდრიევსკის სამარისკენ გასწია.'
+Generate the lemma and morphological tags for the inflected verb: შენიშნა	შენიშნა Ind;Sing;3;3;Pres;Fin	შენიშვნა Ind;Sing;3;3;Past;Fin
+Given the context: 'საფლავის ბორცვთან მხოლოდ ერთი წამით შეჩერდა.'
+Generate the lemma and morphological tags for the inflected verb: შეჩერდა	შეჩერდა Ind;Sing;3;3;Pres;Fin	შეჩერება Ind;Sing;3;Past;Fin
+Given the context: 'ჩანს, ადგილის დასახსომებლად იყო მოსული, – სტროპილინმა დაუყვირა, ხელები მაღლაო, წამოდგა, ბოროტმოქმედი მიზანში ამოიღო.'
+Generate the lemma and morphological tags for the inflected verb: ჩანს	დაუყვირა	ჩენა Ind;Sing;3;Pres;Fin
+Given the context: 'ასევე მოიქცა მახათაძეც.'
+Generate the lemma and morphological tags for the inflected verb: მოიქცა	მოქცა Ind;Sing;3;3;Past;Fin	მოქცევა Ind;Sing;3;Past;Fin
+Given the context: 'მაშინ თუთაშხიას ზურგს უკან ფელდფებელმა ივანიცკიმ ჰაერში გაისროლა და პოლიციელ შარიასთან ერთად თუთაშხიას შესაპყრობად გაემართა.'
+Generate the lemma and morphological tags for the inflected verb: გაისროლა	გამართა	გასროლა Ind;Sing;3;3;Past;Fin
+Given the context: 'ბოროტმოქმედი ჩაწვა, ორი მაუზერი მოიმარჯვა: იგი სტროპილინის და მახათაძის მხრიდან სამარის ბორცვით აღმოჩნდა დაცული.'
+Generate the lemma and morphological tags for the inflected verb: ჩაწვა	ჩაწვა Ind;Sing;3;3;Pres;Fin	ჩაწოლა Ind;Sing;3;Past;Fin
+Given the context: 'ამიტომ მათთვის ყურადღება არ მიუქცევია – მიზანში ივანიცკი და შარია ამოიღო.'
+Generate the lemma and morphological tags for the inflected verb: მიუქცევია	მიუქცევია Ind;Sing;3;3;Pres;Fin	მიქცევა Ind;Sing;3;3;PastPerf;Fin
+Given the context: 'ივანიცკიმ მეორე იარაღიდან ესროლა, მაგრამ დააცდინა.'
+Generate the lemma and morphological tags for the inflected verb: ესროლა	ესროლა Ind;Sing;3;3;Past;Fin	სროლა Ind;Sing;3;3;Past;Fin
+Given the context: 'მოპირდაპირე მხრიდან სროლა ატყდა.'
+Generate the lemma and morphological tags for the inflected verb: ატყდა	ატყდა	ატყდომა Ind;Sing;3;Past;Fin
+Given the context: 'შარიამ იყვირა და კოჭლობით გაიქცა.'
+Generate the lemma and morphological tags for the inflected verb: იყვირა	ყვირა Ind;Sing;3;3;Past;Fin	ყვირილი Ind;Sing;3;Past;Fin
+Given the context: 'ამას ორმხრივი სროლა მოჰყვა: თუთაშხია სამარის ბორცვებს შორის მიხოხავდა და ისროდა.'
+Generate the lemma and morphological tags for the inflected verb: მოჰყვა	მოჰყვა Ind;Sing;3;3;Pres;Fin	მოყოლა Ind;Sing;3;3;Past;Fin
+Given the context: 'ივანიცკი მძიმედ დაიჭრა: მე და უბნის პოლიციელი თურნავა დროულად გავეშურეთ თუთაშხიასთვის გზის გადასაჭრელად, მაგრამ სტროპილინისა და მახათაძის შაშხანების ცეცხლის არეში მოვხვდით და, რა თქმა უნდა, ჩავწექით: თუთაშხიამ არეულობით ისარგებლა და მიიმალა.'
+Generate the lemma and morphological tags for the inflected verb: დაიჭრა	დაიჭრა Ind;Sing;3;3;Pres;Fin	დაჭრა Ind;Sing;3;3;Past;Fin
+Given the context: 'მოგახსენებთ კიდევ ერთ დეტალს: პოლიციელი შარია ირწმუნება, რომ ჭრილობა გოროდოვოი მახათაძის მიერ ნასროლი ტყვიით მიიღო და არა თუთაშხიას მაუზერიდან ნასროლით.'
+Generate the lemma and morphological tags for the inflected verb: მოგახსენებთ	მოგახსენებთ	მოხსენება Ind;Plur;Sing;2;3;1;Pres;Fin
+Given the context: 'ამის შემოწმება შეუძლებელია, რადგან შარიას ჭრილობაში ტყვია არ ჩარჩენილა.'
+Generate the lemma and morphological tags for the inflected verb: ჩარჩენილა	ჩარჩენილა Ind;Sing;3;3;Pres;Fin	ჩარჩენა Ind;Sing;3;PastPerf;Fin
+Given the context: 'პირადად მე დარწმუნებული ვარ, რომ შარიას თუთაშხიამ მიაყენა ჭრილობა.'
+Generate the lemma and morphological tags for the inflected verb: დარწმუნებული	მიაყენა Ind;Sing;3;3;Pres;Fin	დარწმუნებული Nom;Sing;Past;Part
+Given the context: 'ბოროტმოქმედ დ. თუთაშხიას ძებნა, მისი შესაძლებელი მისვლის ადგილების თვალთვალი გრძელდება.'
+Generate the lemma and morphological tags for the inflected verb: გრძელდება	გრძელდება Ind;Sing;3;3;Pres;Fin	გრძელება Ind;Sing;3;Pres;Fin
+Given the context: 'როდესაც დამნაშავე პასუხისგებას თავს არიდებს, თვით ეს პროცესი სხვა, ახალ დანაშაულებებს ქმნის.'
+Generate the lemma and morphological tags for the inflected verb: არიდებს	არიდებს	რიდება Ind;Sing;3;3;3;Pres;Fin
+Given the context: 'მართლმსაჯულების წინაშე მით უფრო გადაჭრით დგება ბოროტმოქმედის შეპყრობის საჭიროება, რაც უფრო იზრდება მის მიერ ჩადენილ დანაშაულთა რიცხვი.'
+Generate the lemma and morphological tags for the inflected verb: დგება	დგება Ind;Sing;3;3;Pres;Fin	დგომა Ind;Sing;3;Pres;Fin
+Given the context: 'და იმისგან, რაც მან ჩაიდინა და გაგებით კი ვერავინ ვერაფერი გაუგო.'
+Generate the lemma and morphological tags for the inflected verb: ჩაიდინა	ჩაიდინა Ind;Sing;3;3;Pres;Fin	ჩადენა Ind;Sing;3;3;Past;Fin
+Given the context: 'პირადად მე უაღრესად მაინტერესებდა მასთან პირისპირ შეხვედრა, საუბარი, მის ფსიქიკაში ჩახედვა.'
+Generate the lemma and morphological tags for the inflected verb: მაინტერესებდა	მაინტერესებდა	დაინტერესება Ind;Sing;Sing;1;3;Imp;Fin
+Given the context: 'აბრაგობის პირველი ოთხი წლის მანძილზე თუთაშხია, თითქმის დანამდვილებით შეიძლება ითქვას, საქართველოს ფარგლებს არ გასცილებია.'
+Generate the lemma and morphological tags for the inflected verb: ითქვას	თქმა Ind;Sing;3;3;Pres;Fin	თქმა Sub;Sing;3;Past;Fin
+Given the context: 'ეს გარემოება საშუალებას გვაძლევდა, ასე თუ ისე, უწყვეტი თვალ-ყური გვედევნებინა მისთვის და იმედი გვქონდა, რომ დღეს თუ ხვალ გაებმებოდა ჩვენს მიერ დაგებულ რომელიმე მახეში.'
+Generate the lemma and morphological tags for the inflected verb: გვაძლევდა	გვაძლევდა	მი-ცემა Ind;Plur;Sing;1;3;3;Imp;Fin
+Given the context: 'ეტყობა, ეხალისებოდა პოლიციასთან და ჟანდარმერიასთან ამგვარ დამოკიდებულებაში ყოფნა, რაც, იქნებ, იმითაც აიხსნებოდეს, რომ ხალხში ყოველი მისი პატარა წარმატებაც კი დიდ გამოხმაურებას პოულობდა, ამაღლებდა მის ავტორიტეტს, აკმაყოფილებდა მის პატივმოყვარეობას.'
+Generate the lemma and morphological tags for the inflected verb: ეტყობა	ეტყობა Ind;Sing;3;3;Pres;Fin	ტყობა Ind;Sing;3;3;Pres;Fin
+Given the context: 'არსებობს გარდუვალი კანონზომიერება.'
+Generate the lemma and morphological tags for the inflected verb: არსებობს	არსებობს	არსებობა Ind;Sing;3;Pres;Fin
+Given the context: 'ზემოხსენებული ოთხი წლის მანძილზე სამძებრო დაწესებულებებმა ოცამდე ისეთი კაცის გადმობირება შეძლეს, ვისაც თუთაშხია ენდობოდა და სტუმრობდა.'
+Generate the lemma and morphological tags for the inflected verb: შეძლეს	შეძლეს	შეძლება Ind;Plur;3;3;Past;Fin
+Given the context: 'დასაშვებია, რომ ამ ოციდან ათმა მას მოსალოდნელი საფრთხე გაუმხილა, მაგრამ დანარჩენ ათს თუთაშხიამ ალღო უდავოდ თვითონ აუღო და აღარ გაჰკარებია.'
+Generate the lemma and morphological tags for the inflected verb: გაუმხილა	გამხილა Ind;Sing;3;3;Pres;Fin	გამხელა Ind;Sing;3;3;3;Past;Fin
+Given the context: 'ამავე ხნის განმავლობაში ჩვენთვის მრავალგზის გახდა ზუსტად ცნობილი, თუ სად და როდის უნდა მისულიყო იგი.'
+Generate the lemma and morphological tags for the inflected verb: გახდა	გახდა	გახდომა Ind;Sing;3;Past;Fin
+Given the context: 'აქედან ხუთჯერ თუ შვიდჯერ თუთაშხია დანიშნულ ადგილზე სულ არ მისულა და პოლიციის გაძლიერებული რაზმი მას ამაოდ ელოდა.'
+Generate the lemma and morphological tags for the inflected verb: მისულა	მისულა Ind;Sing;3;3;Pres;Fin	მისვლა Ind;Sing;3;PastPerf;Fin
+Given the context: 'ერთხელ ისიც მოხდა, რომ საიმედოდ შემორტყმული ალყიდან გაიპარა, პოლიციისავე საჯინიბოდან რვა ცხენი წაიყვანა და, როგორც შემდგომში გამოირკვა, ოზურგეთში გაყიდა.'
+Generate the lemma and morphological tags for the inflected verb: მოხდა	მოხდა	მოხდომა Ind;Sing;3;Past;Fin
+Given the context: 'ისეთი შემთხვევაც იყო, რომ თურმე, ამაოდ შემორტყმულ ალყაში რაღაცნაირად შეიპარა, მასპინძელთან ივახშმა და კვლავ გაიპარა.'
+Generate the lemma and morphological tags for the inflected verb: შეიპარა	შეპარა Ind;Sing;3;3;Pres;Fin	შეპარვა Ind;Sing;3;Past;Fin
+Given the context: 'ეს რამდენიმე მაგალითი იმისთვის მომყავს, რომ ჩემს ხანგრძლივ პრაქტიკაში ერთადერთი შემთხვევა იყო, როცა აბრაგი გაუგებარი თავგამოდებით ეხუმრებოდა და ეთამაშებოდა – სახრჩობელას თუ არა, კატორღას მაინც.'
+Generate the lemma and morphological tags for the inflected verb: მომყავს	მომყავს	მოყოლა Ind;Sing;3;1;Pres;Fin;Inv
+Given the context: 'ათას რვაას ოთხმოცდაცხრა წელს თუთაშხია უკვალოდ გაქრა.'
+Generate the lemma and morphological tags for the inflected verb: გაქრა	გაქრა Ind;Sing;3;3;Pres;Fin	გაქრობა Ind;Sing;3;Past;Fin
+Given the context: 'ამის გამო ხალხში ათასნაირი ხმა დაირხა, მაგრამ სარწმუნო – არც ერთი.'
+Generate the lemma and morphological tags for the inflected verb: დაირხა	დარხა Ind;Sing;3;3;Pres;Fin	დარხევა Ind;Sing;3;Past;Fin
+Given the context: 'ცალი თვალი გაფუჭებული რომ მაქვს, დათა თუთაშხიას გულისთვის მაქვს, თითქმის.'
+Generate the lemma and morphological tags for the inflected verb: გაფუჭებული	მაქვს	გაფუჭებული Nom;Sing;Past;Part
+Given the context: 'თვალი არ დამკარგვოდა, რა გამაჩერებდა მნათედ.'
+Generate the lemma and morphological tags for the inflected verb: დამკარგვოდა	დამკარგვოდა	დაკარგვა Ind;Sing;Sing;1;3;Pqp;Fin
+Given the context: 'ისეთი ხელობა მქონდა, წავიდოდი სამუშაოდ და ორმოცი-ორმოცდაათი თუმანი მომქონდა ოჯახში.'
+Generate the lemma and morphological tags for the inflected verb: მქონდა	მქონდა Ind;Sing;3;3;Pres;Fin	ქონა Ind;Sing;3;1;Imp;Fin;Inv
+Given the context: 'ამ ოდა-სახლს რომ უყურებ, წაბლია სუფთად, იმ ფულებით არის აშენებული და ჯიჯიხიას საყანე მიწებიც იმ ფულით ვიყიდე მაშინ.'
+Generate the lemma and morphological tags for the inflected verb: უყურებ	უყურებ	ყურება Ind;Sing;3;2;Pres;Fin
+Given the context: 'მიადგები უშველებელ წიფელს – კენწერო მზემდე წვდება, სწორია ლარივით და სუფთა, სადამდეც თვალი აგიწვდება, ნუჟრის ნასახი არ უჩანს არსად.'
+Generate the lemma and morphological tags for the inflected verb: მიადგები	წვდება Ind;Sing;3;3;Pres;Fin	მიდგომა Ind;Sing;3;2;Fut;Fin
+Given the context: 'თუ ხარ შეჩვეული, წიფლის ხის ხასიათი თუ გესმის – შეატყობ უცებ, დასკდება ადვილად, თუ ძარღვს დაიყოლიებს და გაგაწვალებს.'
+Generate the lemma and morphological tags for the inflected verb: შეჩვეული	შეჩვეული Ind;Sing;3;3;Pres;Fin	შეჩვეული Nom;Sing;Past;Part
+Given the context: 'გაჩვენებს მაშინ, ვარგა თუ არ ვარგა საკასრედ.'
+Generate the lemma and morphological tags for the inflected verb: გაჩვენებს	გაჩვენებს	ჩვენება Ind;Sing;Sing;2;3;3;Pres;Fin
+Given the context: 'ავიღე მოსავალი იმ შემოდგომაზე, გასაყიდი გავყიდე, სარჩო დავაბინავე და წავედი ყუბანში სამუშაოდ – სტანიცა არის ერთი, მთებშია, ბარაკაევკა ქვია.'
+Generate the lemma and morphological tags for the inflected verb: ავიღე	ავიღე	აღება Ind;Sing;3;1;Past;Fin
+Given the context: 'ყოველ წელიწადს მივდიოდი და მეცნობებოდა, აბა რა იქნებოდა!'
+Generate the lemma and morphological tags for the inflected verb: მივდიოდი	მიდიოდი	მისვლა Ind;Sing;1;Imp;Fin
+Given the context: 'ვიმუშავეთ ერთი თვე.'
+Generate the lemma and morphological tags for the inflected verb: ვიმუშავეთ	მუშავეთ	მუშაობა Ind;Plur;1;Past;Fin
+Given the context: 'შეხვდა სახადი საწყალს და მოკვდა.'
+Generate the lemma and morphological tags for the inflected verb: შეხვდა	შეხვდა Ind;Sing;3;3;Past;Fin	შეხვდომა Ind;Sing;3;3;Past;Fin
+Given the context: 'იმ წელიწადს დიდი სახადი იყო იქ, ბევრი ხალხი წაიღო სენმა.'
+Generate the lemma and morphological tags for the inflected verb: წაიღო	წაიღო	წაღება Ind;Sing;3;3;Past;Fin
+Given the context: 'ნამეტნავად, მოსული ხალხი დაიხოცა, თვარა, იქაურებს სახლებიც უკეთესი აქვთ, სახნავ-სათესიც არ აკლიათ, საქონელი ყავთ თავისი.'
+Generate the lemma and morphological tags for the inflected verb: დაიხოცა	დახოცა Ind;Sing;3;3;Pres;Fin	დახოცვა Ind;Sing;3;Past;Fin
+Given the context: 'მაძღრად, სუფთად მაცხოვრებელს სახადი იმდენად ვერ მიუდგება.'
+Generate the lemma and morphological tags for the inflected verb: მიუდგება	მიუდგება Ind;Sing;3;3;Pres;Fin	მიდგომა Ind;Sing;3;3;Fut;Fin
+Given the context: 'დავრჩი მარტო.'
+Generate the lemma and morphological tags for the inflected verb: დავრჩი	დარჩება Ind;Sing;3;3;Past;Fin	დარჩენა Ind;Sing;1;Past;Fin
+Given the context: 'ხალხი შეთხელდა და მუშაც არ იშოვნებოდა.'
+Generate the lemma and morphological tags for the inflected verb: შეთხელდა	შეთხელდა Ind;Sing;3;3;Pres;Fin	შეთხელება Ind;Sing;3;Past;Fin
+Given the context: 'მთელი ოჯახით გადის სამუშაოზე, ტყეს ბალახივით თიბავენ და ხვეტენ ფულებს.'
+Generate the lemma and morphological tags for the inflected verb: გადის	გადის	გასვლა Ind;Sing;3;Pres;Fin
+Given the context: 'მუშად აყვანა იქით უნდა მას შენი.'
+Generate the lemma and morphological tags for the inflected verb: უნდა	აყვანა Ind;Sing;3;3;Pres;Fin	ნდომა Ind;Sing;3;3;Pres;Fin;Inv
+Given the context: 'იმსიშორეს მისული უკან ხომ არ წამოვიდოდი და დავიწყე ჯახირი მარტომ.'
+Generate the lemma and morphological tags for the inflected verb: წამოვიდოდი	წამოვიდოდი	წამოსვლა Cnd;Sing;1;Pres;Fin
+Given the context: 'გავწვალდი, გავბეზრდი კაცი.'
+Generate the lemma and morphological tags for the inflected verb: გავწვალდი	გაწვალდი	გაწვალება Ind;Sing;1;Past;Fin
+Given the context: 'ხელის ჩაქნევა მქონდა გულში.'
+Generate the lemma and morphological tags for the inflected verb: მქონდა	მქონდა Ind;Sing;3;3;Pres;Fin	ქონა Ind;Sing;3;1;Imp;Fin;Inv
+Given the context: 'მივატოვებ და წავალ, ვფიქრობდი მე, და ამ დროს მოვიდა ტყეში დათა თუთაშხია.'
+Generate the lemma and morphological tags for the inflected verb: მივატოვებ	მივატოვებ Ind;Sing;3;3;Pres;Fin	მიტოვება Ind;Sing;3;1;Fut;Fin
+Given the context: 'შეღამებული იყო, ერთხელ, ძილს ვაპირებდით.'
+Generate the lemma and morphological tags for the inflected verb: შეღამებული	შეღამებული Ind;Sing;3;3;Pres;Fin	შეღამებული Nom;Sing;Past;Part
+Given the context: 'ატყდა დაბაში ყვირილი და დავიდარაბა.'
+Generate the lemma and morphological tags for the inflected verb: ატყდა	ატყდა	ატყდომა Ind;Sing;3;Past;Fin
+Given the context: 'ჩხართვი გაბმულად სტვენდა.'
+Generate the lemma and morphological tags for the inflected verb: სტვენდა	სტვენდა	დასტვენა Ind;Sing;3;Imp;Fin
+Given the context: 'იშვიათად თუ შეჩერდებოდა და ისევ განაგრძობდა სტვენას.'
+Generate the lemma and morphological tags for the inflected verb: შეჩერდებოდა	შეჩერდებოდა	შეჩერება Cnd;Sing;3;Pres;Fin
+Given the context: 'უზარმაზარი მზე ზანტად ჩადიოდა და სოფლებს ცეცხლს უკიდებდა.'
+Generate the lemma and morphological tags for the inflected verb: ჩადიოდა	ჩადიოდა	ჩასვლა Ind;Sing;3;Imp;Fin
+Given the context: '– მოადგა ვიღაცა ჭიშკარს.'
+Generate the lemma and morphological tags for the inflected verb: მოადგა	მოადგა	მოდგომა Ind;Sing;3;3;Past;Fin
+Given the context: 'ჩხართვმა სტვენა შეწყვიტა.'
+Generate the lemma and morphological tags for the inflected verb: შეწყვიტა	შეწყვიტა Ind;Sing;3;3;Pres;Fin	შეწყვეტა Ind;Sing;3;3;Past;Fin
+Given the context: '– ახლა მე დამიძახა სტუმარმა.'
+Generate the lemma and morphological tags for the inflected verb: დამიძახა	დამიძახა	დაძახვა Ind;Sing;Sing;1;3;3;Past;Fin
+Given the context: '– მობრძანდი!'
+Generate the lemma and morphological tags for the inflected verb: მობრძანდი	მობრძანდი	მობრძანება Imp;Sing;2;Fin
+Given the context: 'იმ წელს, პირველ აპრილს, სამტრედიაში უცნაური და იშვიათი დარი დადგა.'
+Generate the lemma and morphological tags for the inflected verb: დადგა	დადგა	დადგომა Ind;Sing;3;Past;Fin
+Given the context: 'დილიდანვე დედამიწას კუპრივით შავი ღრუბელი დააწვა.'
+Generate the lemma and morphological tags for the inflected verb: დააწვა	დაწვა Ind;Sing;3;3;Pres;Fin	დაწოლა Ind;Sing;3;3;Past;Fin
+Given the context: 'ასე არეულ-დარეულად დაიწყო სამტრედიაში პირველი აპრილი – დღე ცბიერი, ყალბი და მზაკვარი.'
+Generate the lemma and morphological tags for the inflected verb: დაიწყო	დაწყო Ind;Sing;3;3;Pres;Fin	დაწყება Ind;Sing;3;Past;Fin
+Given the context: 'იმ დღეს დილიდანვე სილიბისტრო კვაჭანტირაძის სახლში, რომელიც ხონის გზის ნაპირას იდგა, დიდი ალიაქოთი და ფაციფუცი ტრიალებდა: სილიბისტროს მეუღლე პუპი პირველ შვილზე იწვა მელოგინედ.'
+Generate the lemma and morphological tags for the inflected verb: იდგა	დგა Ind;Sing;3;3;Pres;Fin	დგომა Ind;Sing;3;Past;Fin
+Given the context: 'მთელი ოჯახი ფეხზე იდგა.'
+Generate the lemma and morphological tags for the inflected verb: იდგა	დგა Ind;Sing;3;3;Past;Fin	დგომა Ind;Sing;3;Past;Fin
+Given the context: 'მელოგინეს თავთ დასტრიალებდნენ მისი დედა ნოტიო, ბებია და მეზობელი დედაკაცები, ხოლო მისი ქმარი სილიბისტრო და მამა მისი ხუხუ ჩიჩია პირველ მემკვიდრეს გულის ფანცქალით ელოდებოდნენ მეორე ოთახში.'
+Generate the lemma and morphological tags for the inflected verb: დასტრიალებდნენ	დასტრიალებდნენ	დატრიალება Ind;Plur;3;3;Imp;Fin
+Given the context: 'შუადღემ რომ მოატანა, თითქმის სულ დაბნელდა, დაღამდა.'
+Generate the lemma and morphological tags for the inflected verb: მოატანა	მოატანა Ind;Sing;3;3;Pres;Fin	მოტანება Ind;Sing;3;3;3;Past;Fin
+Given the context: 'მიყუჩებული დედამიწა უცებ შეინძრა და აზანზარდა.'
+Generate the lemma and morphological tags for the inflected verb: შეინძრა	შენძრა Ind;Sing;3;3;Pres;Fin	შენძრევა Ind;Sing;3;Past;Fin
+Given the context: 'საშინელი გრიგალი ამოვარდა.'
+Generate the lemma and morphological tags for the inflected verb: ამოვარდა	ამოვარდა	ამოვარდნა Ind;Sing;3;Past;Fin
+Given the context: 'ქვეყანა ჰგმინავდა, ჰკვნესოდა და სჭექდა.'
+Generate the lemma and morphological tags for the inflected verb: ჰგმინავდა	ჰგმინავდა	აგმინვა Ind;Sing;3;Imp;Fin
+Given the context: 'მელოგინე ჰკიოდა, სხვები კი, თავზარდაცემულნი და დამფრთხალნი, უგზო-უკვლოდ დარბოდნენ.'
+Generate the lemma and morphological tags for the inflected verb: ჰკიოდა	ჰკიოდა	კივილი Ind;Sing;3;Imp;Fin
+Given the context: 'უცებ ისე გაიელვა, რომ ყველანი რამდენიმე წამით დაბრმავდნენ, და იმავე წამს ცის ისეთი საზარელი ჭექა და პუპის ისეთი კივილი მოისმა, ხოლო დედამიწა ისე შეინძრა, რომ ზოგი შიშით გაშეშდა, ზოგმა ჩაიკეცა, ზოგი კი კარებს ეცა.'
+Generate the lemma and morphological tags for the inflected verb: გაიელვა	გაიელვა Ind;Sing;3;3;Pres;Fin	გაელვა Ind;Past;Fin
+Given the context: 'ერთი წუთით სრული სიჩუმე ჩამოვარდა და შემდეგ იქვე კუთხეში ახალ დაბადებულის წრიპინი მოისმა:'
+Generate the lemma and morphological tags for the inflected verb: ჩამოვარდა	ჩამოვარდა	ჩამოვარდნა Ind;Sing;3;Past;Fin
+Given the context: 'და სილიბისტრო კვაჭანტირაძის პირველი ვაჟი პირველად ჩაუვარდა ფეხებში პირველ დედაკაცს – თავისსავე დედას, პუპის.'
+Generate the lemma and morphological tags for the inflected verb: ჩაუვარდა	ჩაუვარდა	ჩავარდნა Ind;Sing;3;3;Past;Fin
+Given the context: 'ატყდა სიხარულის ჟრიამული, ქოთი და ფუსფუსი.'
+Generate the lemma and morphological tags for the inflected verb: ატყდა	ატყდა	ატყდომა Ind;Sing;3;Past;Fin
+Given the context: 'იმავე წუთს სრული თორმეტი საათი შესრულდა.'
+Generate the lemma and morphological tags for the inflected verb: შესრულდა	შესრულდა	შესრულება Ind;Sing;3;Past;Fin
+Given the context: 'გრიგალსაც ენა ჩაუვარდა და სინათლემაც სიბნელეს დასძლია.'
+Generate the lemma and morphological tags for the inflected verb: ჩაუვარდა	ჩაუვარდა	ჩავარდნა Ind;Sing;3;3;Past;Fin
+Given the context: 'ბავშვის ხმაზე სილიბისტრო კვაჭანტირაძე და ხუხუ ჩიჩია მეორე ოთახიდან გამოცვივდნენ.'
+Generate the lemma and morphological tags for the inflected verb: გამოცვივდნენ	გამოცვივდნენ	გამოცვივნა Ind;Plur;3;Past;Fin
+Given the context: 'ცოტა ხნის შემდეგ დუქნის ბიჭი ბარდღა ქვემო სართულიდან ამოვარდა და ამბავი მოიტანა, რომ მეხი ალვის ხეს დაეცა რომელიც კვაჭანტირაძის ბაღში იდგა, და შუაზე გახლიჩა, ხოლო გრიგალმა ჟონდიას დუქანი დაანგრია, რომელიც კვაჭანტირაძის „ სასტუმროს ” დიდ მეტოქეობას უწევდა.'
+Generate the lemma and morphological tags for the inflected verb: ამოვარდა	დაეცა	ამოვარდნა Ind;Sing;3;Past;Fin
+Given the context: 'სილიბისტრო ჟონდიას დანგრეულ დუქნის სანახავად გავარდა და გზაში ვერცხლის მანეთიანი იპოვნა.'
+Generate the lemma and morphological tags for the inflected verb: გავარდა	გავარდა	გავარდნა Ind;Sing;3;Past;Fin
+Given the context: 'ერთი საათის შემდეგ ღრუბელი გაიფანტა და კვლავ გაზაფხულის მშვენიერი დარი დადგა.'
+Generate the lemma and morphological tags for the inflected verb: გაიფანტა	გაიფანტა Ind;Sing;3;3;Past;Fin	გაფანტვა Ind;Sing;3;Past;Fin
+Given the context: 'მზემ თავზე საუცხოვო რამ სხივოსანი გვირგვინი დაიდგა.'
+Generate the lemma and morphological tags for the inflected verb: დაიდგა	დადგა	დადგმა Ind;Sing;3;3;Past;Fin
+Given the context: 'მთელი სამტრედია გარეთ გამოსულიყო და გაოცებით ათვალიერებდა იმ გვირგვინს, ჟონდიას ნადუქნარსა და კვაჭანტირაძის გაჩეხილ ალვის ხეს.'
+Generate the lemma and morphological tags for the inflected verb: გამოსულიყო	გამოსულიყო	გამოსვლა Ind;Sing;3;Pqp;Fin
+Given the context: 'ასე დაიბადა კვაჭი კვაჭანტირაძე.'
+Generate the lemma and morphological tags for the inflected verb: დაიბადა	დაბადა	დაბადება Ind;Sing;3;Past;Fin
+Given the context: 'იმავე საღამოს ქალბატონმა ნოტიომ კვაჭიკოს ხელის გული ძლივს გაუხსნა, გაუსინჯა, ჯერ ჩაფიქრდა და მერმე მოსულიერებულ პუპის, თავმომწონე სილიბისტროს, დამშვიდებულ ხუხუს და ამპარტავან ბარდღას ასე უმკითხავა:'
+Generate the lemma and morphological tags for the inflected verb: გაუხსნა	გაუხსნა Ind;Sing;3;3;Pres;Fin	გახსნა Ind;Sing;3;3;3;Past;Fin
+Given the context: '– ქარიშხალი და ჭექა-ქუხილი იმას ნიშნავს, რომე ახალგაზრდობაში კვაჭის მრავალი გაჭირვება და თავგადასავალი მოელის, მარა ღმერთი დიდია.'
+Generate the lemma and morphological tags for the inflected verb: ნიშნავს	ნიშნა Ind;Sing;3;3;Pres;Fin	ნიშვნა Ind;Sing;3;3;Pres;Fin
+Given the context: 'ყველას გული მოულბა და მოეფხანა.'
+Generate the lemma and morphological tags for the inflected verb: მოულბა	მოულბა Ind;Sing;3;3;Pres;Fin	მოლბობა Ind;Sing;3;3;Past;Fin
+Given the context: 'მერე სილიბისტრომ სთქვა:'
+Generate the lemma and morphological tags for the inflected verb: სთქვა	სთქვა Ind;Sing;3;3;Past;Fin	თქმა Ind;Sing;3;3;Past;Fin
+Given the context: 'ახლა გთხოვთ სილიბისტრო კვაჭანტირაძე და მისი ოჯახი გაიცნოთ.'
+Generate the lemma and morphological tags for the inflected verb: გთხოვთ	გაიცნოთ	თხოვნა Ind;Plur;Sing;2;3;3;Pres;Fin
+Given the context: 'პატივცემული ბატონი სილიბისტრო იმ ხანებში დაიბადა გურიაში, როცა ბატონ-ყმობა ისპობოდა.'
+Generate the lemma and morphological tags for the inflected verb: დაიბადა	დაბადა	დაბადება Ind;Sing;3;Past;Fin
+Given the context: 'ხუხუმ და ნოტიომ პაწაწინა სილიბისტრო ხურჯინში ჩასვეს, ცხენს აჰკიდეს და დიდის ტანჯვა-წამებით გაიყვანეს სამეგრელოში, სოფელ ბანძაში, სადაც ხუხუ და ნოტიო ცხოვრობდნენ.'
+Generate the lemma and morphological tags for the inflected verb: ჩასვეს	ჩასვეს	ჩასმა Ind;Plur;3;3;Past;Fin
+Given the context: 'მეგრელებმა სილიბისტროს ქრისტიანული სახელი დაუწუნეს და ჭიპი დაარქვეს.'
+Generate the lemma and morphological tags for the inflected verb: დაუწუნეს	დაწუნეს	დაწუნება Ind;Plur;3;3;3;Past;Fin
+Given the context: 'რადგან მეორე ნათლობა უღვდლოდ მოხვდა და მეორე სახელიც არც ერთ წიგნში არ იყო ჩაწერილი, ამიტომ მის პატრონს ორივე სახელი შერჩა – სილიბისტროც და ჭიპიც.'
+Generate the lemma and morphological tags for the inflected verb: მოხვდა	მოხვდა Ind;Sing;3;3;Pres;Fin	მოხვდომა Ind;Sing;3;Past;Fin
+Given the context: 'სილიბისტრო – ჭიპი დედ-მამის სანახავად ხან გურიაში გაჰყავდათ ხურჯინით ან გოდრით, ხან უკანვე მოჰყავდათ.'
+Generate the lemma and morphological tags for the inflected verb: გაჰყავდათ	მოჰყავდა Ind;Sing;3;3;Pres;Fin	გაყოლა Ind;Plur;3;3;Imp;Fin;Inv
+Given the context: 'რუსეთ-ოსმალეთის ომი რომ დაიწყო, ანაპოდისტე ქართულ დრუჟინაში ჩაეწერა და ბათომის ასაღებად წავიდა, მაგრამ ციხისძირის ერთ-ერთი იერიშის დროს მოჰკლეს.'
+Generate the lemma and morphological tags for the inflected verb: დაიწყო	დაწყობა Ind;Sing;3;3;Pres;Fin	დაწყება Ind;Sing;3;Past;Fin
+Given the context: 'ერთი წელიწადი ძლივს გავიდა, რომ ციუციაც მეორედ გათხოვდა და ქმარს ადესაში წაჰყვა.'
+Generate the lemma and morphological tags for the inflected verb: გავიდა	გათხოვდა	გასვლა Ind;Sing;3;Past;Fin
+Given the context: 'ასე დაობლდა სილიბისტრო კვაჭანტირაძე.'
+Generate the lemma and morphological tags for the inflected verb: დაობლდა	დაობლდა	დაობლება Ind;Sing;3;Past;Fin
+Given the context: 'კიდევ კარგი, რომ მისმა დედიდამ ნოტიომ და ხუხუ ჩიჩიამ სილიბისტროს გაზრდა იკისრეს და იმის მერე მუჭა ქონებას დროზე უპატრონეს.'
+Generate the lemma and morphological tags for the inflected verb: იკისრეს	კისრება Ind;Sing;3;3;Pres;Fin	კისრება Ind;Plur;3;3;Past;Fin
+Given the context: 'ხუხუს ერთი ძმა ჰყავდა სამტრედიაში – ჯვებე ჩიჩია, რომელიც ადრე დაქვრივდა.'
+Generate the lemma and morphological tags for the inflected verb: ჰყავდა	ჰყავდა	ყოლა Ind;Sing;3;3;Imp;Fin;Inv
+Given the context: 'ჯვებე მოუცლელი კაცი იყო, ამიტომ პუპიც ხუხუს და ნოტიოს ოჯახში იზრდებოდა.'
+Generate the lemma and morphological tags for the inflected verb: იზრდებოდა	ზრდებოდა	ზრდა Ind;Sing;3;Imp;Fin
+Given the context: 'სილიბისტრო რომ წამოიზარდა, მიწის მუშაობა ითაკილა და ბათომში წავიდა აზნაურობისა და ბედის საძებნელად.'
+Generate the lemma and morphological tags for the inflected verb: წამოიზარდა	წამოზარდა	წამოზრდა Ind;Sing;3;3;Past;Fin
+Given the context: 'ხუხუ თავის ოჯახით ჯვებემ სამტრედიაში დაიბარა.'
+Generate the lemma and morphological tags for the inflected verb: დაიბარა	დაბარა Ind;Sing;3;3;Past;Fin	დაბარება Ind;Sing;3;3;Past;Fin
+Given the context: 'ჯვებე ავად იყო, ამიტომ, თავისი ქალიშვილის პუპის ბედი და პატარა დუქანი ხუხუს ჩააბარა, ხოლო სული ღმერთს დაულოცა.'
+Generate the lemma and morphological tags for the inflected verb: ჩააბარა	ჩააბარა Ind;Sing;3;3;Pres;Fin	ჩაბარება Ind;Sing;3;3;3;Past;Fin
+Given the context: 'ხუხუმ ამ დუქანს ვერ მოუარა, ამიტომ ბათომიდან სილიბისტრო დაიბარა და უთხრა: – შვილო ჭიპი!'
+Generate the lemma and morphological tags for the inflected verb: მოუარა	მოუარა Ind;Sing;3;3;Past;Fin	მოვლა Ind;Sing;3;3;3;Past;Fin
+Given the context: 'საკუთარ პაწაწა ფაცხაში ცხოვრება სჯობია სხვის სასახლეში სამსახურს, საკუთარი ხმელა ჭადი – სხვის პურს.'
+Generate the lemma and morphological tags for the inflected verb: სჯობია	სჯობია Ind;Sing;3;3;Pres;Fin	ჯობნა Ind;Sing;3;3;Pres;Fin
+Given the context: 'მარტო ქართულის წერა-კითხვით შორს ვერ წახვალ.'
+Generate the lemma and morphological tags for the inflected verb: წახვალ	წახვალი Ind;Sing;3;3;Pres;Fin	წასვლა Ind;Sing;2;Fut;Fin
+Given the context: 'ბათომში ათასი განათლებული ხალხი დეიარება, შენ გასაქანს არ მოგცემენ, ამიტომ გირჩევ საკუთარი ოჯახი გეიჩინო.'
+Generate the lemma and morphological tags for the inflected verb: დეიარება	მოცემენ	სიარული Ind;Sing;3;Pres;Fin
+Given the context: 'ბედი კარზე გიცდის და ხელს ნუ ჰკრავ, თვარა ინანებ.'
+Generate the lemma and morphological tags for the inflected verb: გიცდის	ცდება Ind;Sing;3;3;Pres;Fin	ცდა Ind;Sing;Sing;2;3;3;Pres;Fin
+Given the context: 'ეს მომართული სახლი და ბაღიც ერთ რამედ ღირს.'
+Generate the lemma and morphological tags for the inflected verb: ღირს	ღირს	ღირება Ind;Sing;3;Pres;Fin
+Given the context: 'კარზე მომდგარ ბედს ხელგაშლილი გაეგება, პუპის თავის განთქმული გვარი აჩუქა და ამ რიგად სხვის მიერ შემზადებულ ბუდეში ჩასახლდა.'
+Generate the lemma and morphological tags for the inflected verb: გაეგება	ჩასახლება Ind;Sing;3;3;Pres;Fin	გაგება Ind;Sing;3;3;Fut;Fin
+Given the context: 'სილიბისტროს ორსართულიანი მიგრეხილ-მოგრეხილი ფიცრული სახლი ხონის გზაზე იდგა.'
+Generate the lemma and morphological tags for the inflected verb: იდგა	დგა Ind;Sing;3;3;Pres;Fin	დგომა Ind;Sing;3;Past;Fin
+Given the context: 'სახლს ნახევარი ქცევა მიწა ჰქონდა, რომელსაც ბაღს ეძახოდნენ.'
+Generate the lemma and morphological tags for the inflected verb: ჰქონდა	ქონდა Ind;Sing;3;3;Pres;Fin	ქონა Ind;Sing;3;3;Imp;Fin;Inv
+Given the context: '„ ბაღში ” ათიოდე ხე იდგა – ბალი, პანტა და მაჟალო ვაშლი.'
+Generate the lemma and morphological tags for the inflected verb: იდგა	დგა Ind;Sing;3;3;Past;Fin	დგომა Ind;Sing;3;Past;Fin
+Given the context: 'იქვე ხუთიოდე კვალი მწვანილი იყო დათესილი: ბოლოკი, ქინძი, წიწმატი, ტარხუნა და ნიახური.'
+Generate the lemma and morphological tags for the inflected verb: დათესილი	დათესილი Ind;Sing;3;3;Pres;Fin	დათესილი Nom;Sing;Past;Part
+Given the context: 'ქვემო სართულში „ სასტუმრო ” იყო, სადაც ყოველთვის იშოვებოდა ხარჩო, სულუგუნი, კვერცხი, კუპატი, ხილი და მრავალნაირი ღვინო – კულაშური, სვირული და საჩინური ალადასტური.'
+Generate the lemma and morphological tags for the inflected verb: იშოვებოდა	შოვებოდა	შოვნა Ind;Sing;3;Imp;Fin
+Given the context: 'ეზოში საქონელი და ფრინველიც ჰყავდათ: ათიოდე ქათამი, ბატი და იხვი, ორიოდე თხა, რამდენიმე გოჭი და ერთგული ძაღლი.'
+Generate the lemma and morphological tags for the inflected verb: ჰყავდათ	ჰყავდა Ind;Sing;3;3;Pres;Fin	ყოლა Ind;Plur;3;3;Imp;Fin;Inv
+Given the context: 'დუქნის უკანა ოთახში ოთხი ტახტი იდგა და ზედ ლოგინის მაგიერ ძონძები ეყარა.'
+Generate the lemma and morphological tags for the inflected verb: იდგა	დგა Ind;Sing;3;3;Pres;Fin	დგომა Ind;Sing;3;Past;Fin
+Given the context: 'სახლი ძველი იყო და დანგრევას აპირებდა, სამაგიეროდ ხონის გზაზე იდგა და მუშტარი ხშირად ჰხვდებოდა.'
+Generate the lemma and morphological tags for the inflected verb: აპირებდა	აპირებდა	დაპირება Ind;Sing;3;3;Imp;Fin
+Given the context: 'ზემო სართულში სამი ოთახი ჰქონდათ – თითქმის ცალიერი, მაგრამ სუფთა და მხიარული.'
+Generate the lemma and morphological tags for the inflected verb: ჰქონდათ	ქონდა Ind;Sing;3;3;Pres;Fin	ქონა Ind;Plur;3;3;Imp;Fin;Inv
+Given the context: 'ხუხუმ და ნოტიომ თავიანთი ხაბაკ-ხუბაკი ბანძაში გაჰყიდეს და საერთო ოჯახში თავიანთი წვლილიც შეიტანეს.'
+Generate the lemma and morphological tags for the inflected verb: გაჰყიდეს	შეტანება Ind;Sing;3;3;Pres;Fin	გაყიდვა Ind;Plur;3;3;Past;Fin
+Given the context: 'სილიბისტრო და პუპი, რა თქმა უნდა, ყველა გამვლელ-გამომვლელს თავს არ უყადრებდნენ, მაგრამ თავად-აზნაურებს, ვაჭრებსა და საერთოდ სუფთა მუშტარს ისე არ გაატარებდნენ იმ გზაზე, რომ გამარჯვება მაინც არ ეთქვათ, არ მიეპატიჟათ, მათი ამბავი არ გამოეკითხათ და თავიანთიც არ ეთქვათ.'
+Generate the lemma and morphological tags for the inflected verb: უყადრებდნენ	უყადრებდნენ	გაყადრება Ind;Plur;3;3;3;Imp;Fin
+Given the context: 'სილიბისტრო სადგურზე ან ბაზარშიც რომ ყოფილიყო, მაშინვე ალღოთი ან რაღაც მანქანებით გაიგებდა ასეთი მუშტრის მისვლას და უმალვე სახლში გაჩნდებოდა ხოლმე, თუნდაც იმისთვის, რომ სასურველი მუშტარი გაეცნო, გადმოებირა ან ორიოდე ტკბილი სიტყვით მისი გული მოეგო და შემდეგში მაინც გამოეყენებინა.'
+Generate the lemma and morphological tags for the inflected verb: ყოფილიყო	გამოეყენებინა Ind;Sing;3;3;Pres;Fin	ყოფნა Ind;Sing;3;Pqp;Fin
+Given the context: 'როცა ხონის გზაზე ეტლების მოძრაობის დრო გავიდოდა, სილიბისტრო სადგურზე და ბაზარში წავიდოდა და ათასნაირ წვრილმან საქმეს აკეთებდა.'
+Generate the lemma and morphological tags for the inflected verb: გავიდოდა	წავიდოდა	გასვლა Cnd;Sing;3;Pres;Fin
+Given the context: 'აქედანაც ყოველთვის ორიოდე გროში რჩებოდა, რომელსაც ისევ სასტუმროს და თავის ოჯახს აყრიდა.'
+Generate the lemma and morphological tags for the inflected verb: რჩებოდა	რჩებოდა	რჩენა Ind;Sing;3;Imp;Fin
+Given the context: 'ერთიც და მეორეც თანდათან ივსებოდა, ფეხზე დგებოდა და ღონეში შედიოდა.'
+Generate the lemma and morphological tags for the inflected verb: ივსებოდა	ივსებოდა	ვსება Ind;Sing;3;Imp;Fin
+Given the context: 'ასეთი იყო სილიბისტროს ცხოვრება და ოჯახი, როცა კვაჭი კვაჭანტირაძე დაიბადა.'
+Generate the lemma and morphological tags for the inflected verb: დაიბადა	დაბადა	დაბადება Ind;Sing;3;Past;Fin
+Given the context: 'კვაჭი საოცარი სისწრაფით იზრდებოდა.'
+Generate the lemma and morphological tags for the inflected verb: იზრდებოდა	ზრდებოდა	ზრდა Ind;Sing;3;Imp;Fin
+Given the context: 'სხვა ბავშვები დაახლოებით ერთის წლისა აიდგამენ ხოლმე ფეხსა და ენას, ხოლო კვაჭიკო ექვსი თვისაც ძლივს იქნებოდა რომ პირველად წაილუღლუღა:'
+Generate the lemma and morphological tags for the inflected verb: აიდგამენ	წაილუღლუღა Ind;Sing;3;3;Pres;Fin	ადგმა Ind;Plur;3;3;Fut;Fin
+Given the context: 'და ფეხიც იმავ ხანებში აიდგა.'
+Generate the lemma and morphological tags for the inflected verb: აიდგა	ადგა	ადგმა Ind;Sing;3;3;Past;Fin
+Given the context: 'ნოტიომ სამართლიანად სთქვა ამის გამო:'
+Generate the lemma and morphological tags for the inflected verb: სთქვა	სთქვა Ind;Sing;3;3;Pres;Fin	თქმა Ind;Sing;3;3;Past;Fin
+Given the context: 'რა თქმა უნდა, ნოტიოს ისევ დაუჯერეს და კვაჭის მოვლა-პატრონობას მოუმატეს.'
+Generate the lemma and morphological tags for the inflected verb: დაუჯერეს	დაუჯერეს	დაჯერება Ind;Plur;3;3;3;Past;Fin
+Given the context: 'კვაჭის დაბადების შემდეგ სილიბისტროც მეტ წილად სახლში ტრიალებდა და გროშის საქმეებს აღარ დასდევდა.'
+Generate the lemma and morphological tags for the inflected verb: ტრიალებდა	დასდევდა	ტრიალი Ind;Sing;3;Imp;Fin
+Given the context: 'ზედმეტ თუმანს რომ ხელში მოიგდებდა, აბრეშუმის პარკს ან კვერცხებს ჰყიდულობდა და ამაშიც კარგ ხეირს ჰხედავდა.'
+Generate the lemma and morphological tags for the inflected verb: მოიგდებდა	მოგდებდა	მოგდება Cnd;Sing;3;3;Pres;Fin
+Given the context: 'მხოლოდ ერთი საზრუნავი, იდუმალი ფიქრი და ოცნების ჭია ჰქონდა სილიბისტროს თავსა და გულში.'
+Generate the lemma and morphological tags for the inflected verb: ჰქონდა	ქონდა Ind;Sing;3;3;Pres;Fin	ქონა Ind;Sing;3;3;Imp;Fin;Inv
+Given the context: 'იგი მას ღრღნიდა, აწვალებდა და აწამებდა: სილიბისტრო კვაჭანტირაძე აზნაური არ იყო.'
+Generate the lemma and morphological tags for the inflected verb: ღრღნიდა	ღრღნიდა Ind;Sing;3;3;Pres;Fin	ღრღნა Ind;Sing;3;3;3;Imp;Fin
+Given the context: 'არა, ბოდიშს ვიხდი: სილიბისტრო უძველესი და უნამდვილესი აზნაური იყო, ეს მთელმა ქვეყანამ იცოდა, მაგრამ აზნაურობა ჯერ დამტკიცებული არა ჰქონდა.'
+Generate the lemma and morphological tags for the inflected verb: ვიხდი	ხდება Ind;Sing;3;3;Pres;Fin	ხდა Ind;Sing;3;1;Pres;Fin
+Given the context: 'ამ საქმის მოსაჭახრაკებლად სილიბისტრომ აუარებელი დრო და ფული დაჰხარჯა, მრავალჯერ იმგზავრა ოზურგეთსა და ქუთაისში, ვექილებიც აიყვანა, მაგრამ ვერაფერი ვერ მოაგვარა.'
+Generate the lemma and morphological tags for the inflected verb: დაჰხარჯა	დაჰხარჯა Ind;Sing;3;3;Pres;Fin	დახარჯვა Ind;Sing;3;3;Past;Fin
+Given the context: 'დაპირებას და იმედს უხვად იძლეოდნენ, სამაგივროდ ფულს უხვად იღებდნენ, ხოლო სილიბისტროს წინანდებურად ეწერა პასპორტში სამარცხვინო და სათაკილო სიტყვა: „ გ-ლ-ე-ხ-ი ”.'
+Generate the lemma and morphological tags for the inflected verb: იძლეოდნენ	იღებდნენ	მი-ცემა Ind;Plur;3;3;Imp;Fin
+Given the context: 'ეს იცოდა სილიბისტრომ და გული ემღვრეოდა, მაგრამ მაინც ითმენდა, ეძებდა, ისევ დარბოდა და გამარჯვებას ელოდებოდა.'
+Generate the lemma and morphological tags for the inflected verb: იცოდა	ცოდა Ind;Sing;3;3;Pres;Fin	ცოდნა Ind;Sing;3;3;Imp;Fin
+Given the context: 'ბოლოს, ერთმა ღვთისნიერმა ადამიანმა მიასწავლა:'
+Generate the lemma and morphological tags for the inflected verb: მიასწავლა	მიასწავლა Ind;Sing;3;3;Pres;Fin	მისწავლება Ind;Sing;3;3;3;Past;Fin
+Given the context: 'სილიბისტრო უმალვე ზუგდიდში გაჩნდა.'
+Generate the lemma and morphological tags for the inflected verb: გაჩნდა	გაჩნდა	გაჩენა Ind;Sing;3;Past;Fin
+Given the context: 'ბოლოს, ბევრი ღრეჭისა და ვაჭრობის შემდეგ, ძლივს მორიგდნენ.'
+Generate the lemma and morphological tags for the inflected verb: მორიგდნენ	მორიგდნენ	მორიგება Ind;Plur;3;Past;Fin
+Given the context: 'კიდევ გავიდა რამდენიმე წელიწადი.'
+Generate the lemma and morphological tags for the inflected verb: გავიდა	გავიდა	გასვლა Ind;Sing;3;Past;Fin
+Given the context: 'ერთხელ სილიბისტროს ოჯახში დიდი ფაცი-ფუცი და ალიაქოთი ატყდა.'
+Generate the lemma and morphological tags for the inflected verb: ატყდა	ატყდა	ატყდომა Ind;Sing;3;Past;Fin
+Given the context: '– აშორდია მოდის!'
+Generate the lemma and morphological tags for the inflected verb: მოდის	შორდია Ind;Sing;3;3;Pres;Fin	მოსვლა Ind;Sing;3;Pres;Fin
+Given the context: 'საღამოზე უცხო ვინმე ადამიანი მოვიდა.'
+Generate the lemma and morphological tags for the inflected verb: მოვიდა	მოვიდა	მოსვლა Ind;Sing;3;Past;Fin
+Given the context: 'კვაჭანტირაძენი დიდი მოწიწებით და თავაზით დაუხვდნენ.'
+Generate the lemma and morphological tags for the inflected verb: დაუხვდნენ	დახვდნენ	დახვდომა Ind;Plur;3;3;Past;Fin
+Given the context: 'შეიქმნა დიდი ლხენა, ზეიმი, სიხარული და აღტაცება.'
+Generate the lemma and morphological tags for the inflected verb: შეიქმნა	შექმნა Ind;Sing;3;3;Pres;Fin	შექმნა Ind;Sing;3;Past;Fin
+Given the context: 'აშორდიამ სილიბისტროს და იმის ოჯახს სანატრელი და სასიხარულო ამბავი მოუტანა.'
+Generate the lemma and morphological tags for the inflected verb: მოუტანა	მოტანა Ind;Sing;3;3;Pres;Fin	მოტანა Ind;Sing;3;3;3;Past;Fin
+Given the context: 'აწი მე გავასწორე ისტორიის უსამართლობა და შენ და შენს ოჯახს, ჩემო სილიბისტრო, აზნოურობა დაგიმტკიცე.'
+Generate the lemma and morphological tags for the inflected verb: გავასწორე	გასწორე Ind;Sing;3;3;Pres;Fin	გასწორება Ind;Sing;3;1;Past;Fin
+Given the context: 'მოგილოცავ დიდებულ ოჯახურ დღესასწაულს და გისურვებ, რომე ღირსეულად ატარო მეფის წყალობა.'
+Generate the lemma and morphological tags for the inflected verb: მოგილოცავ	მოგილოცავ	მოლოცვა Ind;Sing;Sing;2;3;1;Fut;Fin
+Given the context: 'ვსვამ აზნოურის სილიბისტრო კვაჭანტირაძის სადღეგრძელოს.'
+Generate the lemma and morphological tags for the inflected verb: ვსვამ	სადღეგრძელოს	სმა Ind;Sing;3;1;Pres;Fin
+Given the context: 'და სილიბისტროს ოჯახში შადრევანივით იფეთქა სასიხარულო ყიჟინამ და ჟრიამულმა.'
+Generate the lemma and morphological tags for the inflected verb: იფეთქა	ფეთქა Ind;Sing;3;3;Pres;Fin	ფეთქება Ind;Sing;3;Past;Fin
+Given the context: 'იმ დღიდან სილიბისტრო კვაჭანტირაძეს და კვაჭიკოს აზნაურობა დაუმტკიცდათ.'
+Generate the lemma and morphological tags for the inflected verb: დაუმტკიცდათ	დაუმტკიცდა	დამტკიცება Ind;Plur;Sing;3;3;Past;Fin
+Given the context: 'ვახშამზე ხუთი წლის კვაჭიკომ სილიბისტროს დარიგება შეასრულა: აშორდიას ხელზე აკოცა და უთხრა:'
+Generate the lemma and morphological tags for the inflected verb: შეასრულა	შეასრულა Ind;Sing;3;3;Pres;Fin	შესრულება Ind;Sing;3;3;Past;Fin
+Given the context: 'აშორდიამ გაუღიმა, კვაჭიკოს შუბლზე აკოცა, მოუალერსა და უთხრა: – ჩემო პატარავ!'
+Generate the lemma and morphological tags for the inflected verb: გაუღიმა	გაუღიმა Ind;Sing;3;3;Pres;Fin	გაღიმება Ind;Sing;3;3;Past;Fin
+Given the context: 'მე გზა გაგიკაფე, ბედნიერებისა და წარმატებისკენ.'
+Generate the lemma and morphological tags for the inflected verb: გაგიკაფე	გაკაფე Ind;Sing;3;3;Pres;Fin	გაკაფვა Ind;Sing;Sing;2;3;1;Past;Fin
+Given the context: 'ყველა კარი გაგიღე და დანარჩენი შენ იცი.'
+Generate the lemma and morphological tags for the inflected verb: გაგიღე	გაღება Ind;Sing;3;3;Pres;Fin	გაღება Ind;Sing;Sing;2;3;1;Past;Fin
+Given the context: 'შენც ბედნიერი იყავი, შენი მშობლებიც და სამშობლოც გააბედნიერე და ასახელე.'
+Generate the lemma and morphological tags for the inflected verb: გააბედნიერე	გააბედნიერე Ind;Sing;3;3;Pres;Fin	გაბედნიერება Imp;Sing;3;2;Fin
+Given the context: 'ვსვამ პაწია კვაჭიკოს სადღეგრძელოს, ვაშა!'
+Generate the lemma and morphological tags for the inflected verb: ვსვამ	სვამ	სმა Ind;Sing;3;1;Pres;Fin
+Given the context: 'ისევ ატყდა ჟრიამული, სიმღერა და ლხენა.'
+Generate the lemma and morphological tags for the inflected verb: ატყდა	ატყდა	ატყდომა Ind;Sing;3;Past;Fin
+Given the context: 'მეორე დღეს, აშორდია რომ წასასვლელად ემზადებოდა, კვაჭიკომ ერთხელ კიდევ აკოცა ხელზე და უთხრა:'
+Generate the lemma and morphological tags for the inflected verb: ემზადებოდა	ემზადებოდა	მზადება Ind;Sing;3;Imp;Fin
+Given the context: 'აშორდიამ წააქეზა:'
+Generate the lemma and morphological tags for the inflected verb: წააქეზა	წააქეზა Ind;Sing;3;3;Pres;Fin	წაქეზება Ind;Sing;3;3;Past;Fin
+Given the context: 'არ კი დამატყუო, ბიჭიკო!'
+Generate the lemma and morphological tags for the inflected verb: დამატყუო	დამატყუო	დატყუება Sub;Sing;Sing;1;2;Past;Fin
+Given the context: 'და წავიდა.'
+Generate the lemma and morphological tags for the inflected verb: წავიდა	წავიდა	წასვლა Ind;Sing;3;Past;Fin
+Given the context: 'იმ საღამოს ნოტიო ამბობდა:'
+Generate the lemma and morphological tags for the inflected verb: ამბობდა	ამბობდა	თქმა Ind;Sing;3;3;Imp;Fin
+Given the context: '– ვენაცვალე ჩემს კვაჭიკოს!'
+Generate the lemma and morphological tags for the inflected verb: ვენაცვალე	ვენაცვალე Ind;Sing;3;3;Pres;Fin	ნაცვლება Ind;Sing;3;1;Past;Fin
+Given the context: 'ქვეყანას გადაატრიალებს და ჩვენც გაგვაბედნიერებს.'
+Generate the lemma and morphological tags for the inflected verb: გადაატრიალებს	გადაატრიალებს	გადატრიალება Ind;Sing;3;3;Fut;Fin
+Given the context: 'რა იცოდნენ მაშინ ნოტიომ ან პუპიმ, თუნდაც აშორდიამ, ან გაბღენძილმა სილიბისტრომ, რომ მომავალში პაწაწინა კვაჭიკო აშორდიას სახელს სრუალიად დაჩრდილავდა, ქვეყანას მართლა ააფორიაქებდა და თავის გვარს ბრწყინვალე შარავანდედით შეამკობდა.'
+Generate the lemma and morphological tags for the inflected verb: იცოდნენ	ცოდნენ	ცოდნა Ind;Plur;3;3;Imp;Fin
+Given the context: 'ძვირად დაუჯდა სილიბისტროს აშორდიას ხელით შეთხუპნული აზნაურობა.'
+Generate the lemma and morphological tags for the inflected verb: დაუჯდა	დაჯდა	დაჯდომა Ind;Sing;3;3;Past;Fin
+Given the context: 'მას შემდეგ რაც სილიბისტრო კვაჭანტირაძემ აზნაურობა დაიმტკიცა, მის ხასიათსა და ოჯახსაც ელფერი გამოეცვალა.'
+Generate the lemma and morphological tags for the inflected verb: დაიმტკიცა	დამტკიცა Ind;Sing;3;3;Pres;Fin	დამტკიცება Ind;Sing;3;3;Past;Fin
+Given the context: 'წინანდელ მეზობლებს ან აღარ ჰკადრულობდნენ, ან ისეთი მედიდურობით და მფარველობით იქცეოდნენ, თითქოს მათ შორის ძველი ხიდი ჩამტყდარიყო და ახალი კედელი აშენებულიყო.'
+Generate the lemma and morphological tags for the inflected verb: ჰკადრულობდნენ	ჰკადრულობდნენ	კადრულობა Ind;Plur;3;3;Imp;Fin
+Given the context: 'სილიბისტრო ზოგჯერ ასე არიგებდა პატარა კვაჭიკოს:'
+Generate the lemma and morphological tags for the inflected verb: არიგებდა	არიგებდა	რიგება Ind;Sing;3;3;Imp;Fin
+Given the context: '– შვილო კვაჭი, აი ქვეყანა ასეა მომართული: ზოგი უმფროსია, ზოგი უნცროსი.'
+Generate the lemma and morphological tags for the inflected verb: მომართული	მომართული Ind;Sing;3;3;Pres;Fin	მომართული Nom;Sing;Past;Part
+Given the context: 'რამდენიმე წელიწადი გავიდა.'
+Generate the lemma and morphological tags for the inflected verb: გავიდა	გავიდა	გასვლა Ind;Sing;3;Past;Fin
+Given the context: 'კვაჭი დაჭაბუკდა, გაიზარდა, გაიშალა.'
+Generate the lemma and morphological tags for the inflected verb: დაჭაბუკდა	დაჭაბუკდა	დაჭაბუკება Ind;Sing;3;Past;Fin
+Given the context: 'მაღალი, ჩასხმული, ლამაზი და ტანადი ჭაბუკი იზრდებოდა.'
+Generate the lemma and morphological tags for the inflected verb: იზრდებოდა	ზრდებოდა	ზრდა Ind;Sing;3;Imp;Fin
+Given the context: 'გაკვეთილების დასწავლა და დაზეპირება მისთვის ტანჯვა იყო, მაგრამ მაინც ადვილად ეწეოდა სიბრძნის უღელს, რადგან დიდი მეხსიერება ჰქონდა და კლასში გაგონილს ადვილად ითვისებდა.'
+Generate the lemma and morphological tags for the inflected verb: ეწეოდა	წეოდა Ind;Sing;3;3;Pres;Fin	წევა Ind;Sing;3;3;Imp;Fin
+Given the context: 'ვერც წიგნის კითხვას უდებდა გულს.'
+Generate the lemma and morphological tags for the inflected verb: უდებდა	უდებდა	დება Ind;Sing;3;3;3;Imp;Fin
+Given the context: 'თუმცა გატაცებით კითხულობდა მოგზაურობას, ყოველგვარ თავგადასავალს, მსხვილფეხა და წვრილფეხა ავანტიურის აღწერას.'
+Generate the lemma and morphological tags for the inflected verb: კითხულობდა	კითხულობდა	კითხვა Ind;Sing;3;3;Imp;Fin
+Given the context: 'სილიბისტროს დარიგება კვაჭის მაგრად ჩაეჭედა ტვინში.'
+Generate the lemma and morphological tags for the inflected verb: ჩაეჭედა	ჩაეჭედა Ind;Sing;3;3;Pres;Fin	ჩაჭედვა Ind;Sing;3;3;Past;Fin
+Given the context: 'ის სულ იმის ცდაში იყო, რომ ძლიერთათვის და მასწავლებელისთვის ესიამოვნებინა, მუდმივ მათს თვალწინ ეტრიალნა, თავი მოეწონებინა, შეეყვარებინა და მათგან წვრილ-წვრილი გამორჩენა და სარგებლობა ენახა.'
+Generate the lemma and morphological tags for the inflected verb: ესიამოვნებინა	ესიამოვნებინა Ind;Sing;3;3;Pres;Fin	სიამოვნება Ind;Sing;3;3;Pqp;Fin
+Given the context: 'თუ კვაჭი გულში ჩაიდებდა ვინმესთან დაახლოვებას, იგი კაცი ან ქალი ორიოდე კვირაში კვაჭს სულითა და გულით ეყოლებოდა დატყვევებული.'
+Generate the lemma and morphological tags for the inflected verb: ჩაიდებდა	ჩაიდებდა	ჩადება Cnd;Sing;3;3;Pres;Fin
+Given the context: 'სადაც პირდაპირი გზა დაკეტილი იყო და სხვა ვინმე უკან იხევდა, იქ კვაჭი ხუთიოდე მიხვეულ-მოხვეულ ბილიკს იპოვნიდა.'
+Generate the lemma and morphological tags for the inflected verb: დაკეტილი	პოვნილი Ind;Sing;3;3;Pres;Fin	დაკეტილი Nom;Sing;Past;Part
+Given the context: 'უკარო და უფანჯრო ოთხ კედელშიც რომ ჩავარდნილიყო, ათიოდე ხვრელს აღმოაჩენდა და ცხრა-კლიტურ ციხეში ისე შეძვრებოდა და გამოძვრებოდა, როგორც ნემსი ბუმბულში.'
+Generate the lemma and morphological tags for the inflected verb: ჩავარდნილიყო	ჩავარდნილიყო	ჩავარდნა Ind;Sing;3;Pqp;Fin
+Given the context: 'როცა ვინმეს შეჰკრეჭდა და მოსწველიდა, მახლობელთა შორის სინდისის დასამშვიდებლად იტყოდა ხოლმე:'
+Generate the lemma and morphological tags for the inflected verb: შეჰკრეჭდა	შეჰკრეჭდა Ind;Sing;3;3;Pres;Fin	შეკრეჭა Cnd;Sing;3;3;3;Pres;Fin
+Given the context: '– ამ ქვეყნად ზოგი უნაგირით იბადება, ზოგი კი დეზებით და მათრახით.'
+Generate the lemma and morphological tags for the inflected verb: იბადება	ბადება Ind;Sing;3;3;Pres;Fin	დაბადება Ind;Sing;3;Pres;Fin
+Given the context: 'მე დეზი და მათრახი მირჩევნია, დეე სხვებმა უნაგირი ატარონ.'
+Generate the lemma and morphological tags for the inflected verb: მირჩევნია	მირჩევნია Ind;Sing;3;3;Pres;Fin	რჩევა Ind;Sing;3;1;Pres;Fin;Inv
+Given the context: 'კვაჭის ყნოსვა და ალღო ჯიშიან ძაღლსავით ჰქონდა გალესილი.'
+Generate the lemma and morphological tags for the inflected verb: გალესილი	ქონა Ind;Sing;3;3;Pres;Fin	გალესილი Nom;Sing;Past;Part
+Given the context: 'იგი ცოცხალი ბარომეტრი იყო და გაავდრებას ან გამოდარებას ჯერ კიდევ მაშინ იგრძნობდა ხოლმე, როცა სხვები დარის გამოცვლას არც კი მოელოდნენ.'
+Generate the lemma and morphological tags for the inflected verb: იგრძნობდა	გრძნობდა Ind;Sing;3;3;Pres;Fin	გრძნობა Cnd;Sing;3;3;Pres;Fin
+Given the context: 'კვაჭი დარის გამოცვლას დროზე აუღებდა ალღოს და ახალ ტანისამოსსა და კანს უმალვე გადიცვამდა, საბრძოლველ იარაღს შეიცვლიდა, თავის ძალებს შესაფერად გადააჯგუფებდა, ჩამავალ მზეს მიაფურთხებდა, ამომავალს მიესალმებოდა, დავრდომილს ჩასწიხლავდა და წამომდგარს თამამად ამოუდგებოდა გვერდით.'
+Generate the lemma and morphological tags for the inflected verb: აუღებდა	ამოუდგებოდა	აღება Cnd;Sing;3;3;3;Pres;Fin
+Given the context: '„ ყველაფერს თავის ადგილი, დრო და ზომა აქვს ”.'
+Generate the lemma and morphological tags for the inflected verb: აქვს	აქვს	ქონა Ind;Sing;3;3;Pres;Fin;Inv
+Given the context: 'ეს უბრალო ჭეშმარიტებაც კვაჭის ზედმიწევნით ჰქონდა შეთვისებული და ამ იარაღსაც საოცარი ოსტატობით ჰხმარობდა.'
+Generate the lemma and morphological tags for the inflected verb: შეთვისებული	ჰხმარობდა	შეთვისებული Nom;Sing;Past;Part
+Given the context: 'კვაჭის ბადალი არა ჰყავდა ფულის შოვნაში, მაგრამ ან იშვიათად, ან არავინ არ იცოდა ნამდვილი წყარო და ხერხი ამ ფულების შოვნისა.'
+Generate the lemma and morphological tags for the inflected verb: ჰყავდა	ჰყავდა Ind;Sing;3;3;Pres;Fin	ყოლა Ind;Sing;3;3;Imp;Fin;Inv
+Given the context: 'ხუთი წუთის შემდეგ ფულის გამსესხებელი ნანობდა და თავში ხელს იცემდა, ფულნაშოვნი კვაჭი კი არხეინად უსტვენდა და მიალაჯებდა.'
+Generate the lemma and morphological tags for the inflected verb: ნანობდა	ნანობდა Ind;Sing;3;3;Pres;Fin	ნანობა Ind;Sing;3;Imp;Fin
+Given the context: 'კვაჭის ერთი ჩვეულებაც სჭირდა, რომელიც კანონად და წესად ჰქონდა მიჩნეული: „ ნურავის ნურასოდეს ნურაფერზე უარს ნუ ეტყვი, მაგრამ დანაპირევი მხოლოდ მაშინ შეუსრულე, თუ იგი იმავე დღეს ან ხვალ მაინც მოგიტანს სარგებლობას.'
+Generate the lemma and morphological tags for the inflected verb: სჭირდა	სჭირდა	ჭირვება Ind;Sing;3;3;Imp;Fin;Inv
+Given the context: 'ამიტომ იყო, რომ კვაჭიკოსგან უარი არავის არ გაუგია და გულკეთილი, თავაზიანი და ზრდილი ახალგაზრდა უხვად აბნევდა, მარცხნივ და მარჯვნივ ათასნაირ დაპირებას.'
+Generate the lemma and morphological tags for the inflected verb: იყო	გაუგია	ყოფნა Ind;Sing;3;Past;Fin
+Given the context: '– მოგიკვდეს კვაჭი!'
+Generate the lemma and morphological tags for the inflected verb: მოგიკვდეს	მოკვდეს	მოკვდომა Sub;Plur;Sing;2;3;Past;Fin
+Given the context: 'ფული გინდა?'
+Generate the lemma and morphological tags for the inflected verb: გინდა	გინდა	ნდომა Ind;Sing;3;2;Pres;Fin;Inv
+Given the context: 'მაინც გიშოვი, ახლავე გიშოვი.'
+Generate the lemma and morphological tags for the inflected verb: გიშოვი	გიშოვი Ind;Sing;3;3;Pres;Fin	შოვნა Ind;Sing;Sing;2;3;1;Fut;Fin
+Given the context: 'კვაჭიმ თავის ტოლ-ამხანაგებში თავიდანვე დიდი გავლენა დაიმსახურა.'
+Generate the lemma and morphological tags for the inflected verb: დაიმსახურა	დამსახურა Ind;Sing;3;3;Pres;Fin	დამსახურება Ind;Sing;3;3;Past;Fin
+Given the context: 'კლასში რომ შევიდოდა ან ბულვარზე რომ გავიდოდა, მაშინვე მის გარშემო დიდი ჯგუფი შესდგებოდა ხოლმე.'
+Generate the lemma and morphological tags for the inflected verb: შევიდოდა	შესდგებოდა	შესვლა Cnd;Sing;3;Pres;Fin
+Given the context: 'ნაცნობ-ამხანაგები ისე ეხვეოდნენ გარშემო, როგორც ბუზი თაფლს, კვაჭის ყველასთვის და ყოველთვის ჰქონდა დამზადებული შესაფერი სიტყვა, აზრი, ღიმილი, რჩევა და დარიგება.'
+Generate the lemma and morphological tags for the inflected verb: ეხვეოდნენ	ეხვეოდნენ	ხვევა Sub;Plur;3;3;Fut;Fin
+Given the context: '– კვაჭს რომ შრომა უყვარდეს, დიდი მომავალი ექნებოდა.'
+Generate the lemma and morphological tags for the inflected verb: უყვარდეს	უყვარდეს	სიყვარული Sub;Sing;3;3;Pres;Fin;Inv
+Given the context: '– ისედაც დიდი კაცი გამოვა, დაიხსომეთ ჩემი სიტყვა!'
+Generate the lemma and morphological tags for the inflected verb: გამოვა	გამოვა Ind;Sing;3;3;Pres;Fin	გამოსვლა Ind;Sing;3;Fut;Fin
+Given the context: 'ბუდუ შოლიას სამიკიტნო ბალახვანის ქუჩაზე ჰქონდა, ხოლო ბინა – იმავე სახლის ეზოში.'
+Generate the lemma and morphological tags for the inflected verb: ჰქონდა	ქონდა Ind;Sing;3;3;Pres;Fin	ქონა Ind;Sing;3;3;Imp;Fin;Inv
+Given the context: 'კვაჭიკო ამ სამიკიტნოში ხშირად დაძვრებოდა, ზოგჯერ დახლში და წვრილმანშიც შველოდა, ცალკე კაბინეტში იჭყიტებოდა, ყველაფერს ყურს უგდებდა, აკვირდებოდა, ითვისებდა და გამოცდილებას ილესავდა.'
+Generate the lemma and morphological tags for the inflected verb: დაძვრებოდა	დაძვრებოდა	დაძრომა Ind;Sing;3;Imp;Fin
+Given the context: 'ამიტომ მოხდა, რომ შოლიას სამიკიტნო კვაჭისთვის ცხოვრების ნამდვილ სკოლად გადაიქცა.'
+Generate the lemma and morphological tags for the inflected verb: მოხდა	მოხდა Ind;Sing;3;3;Pres;Fin	მოხდომა Ind;Sing;3;Past;Fin
+Given the context: 'და სხვის ჭაბუკს ისე მიეკრა როგორც მისი ქმარი თავის ქონიან დახლს.'
+Generate the lemma and morphological tags for the inflected verb: მიეკრა	მიეკრა Ind;Sing;3;3;Pres;Fin	მიკვრა Ind;Sing;3;3;Past;Fin
+Given the context: 'კვაჭის საკუთარი პაწაწინა ოთახი ჰქონდა.'
+Generate the lemma and morphological tags for the inflected verb: ჰქონდა	ქონდა Ind;Sing;3;3;Pres;Fin	ქონა Ind;Sing;3;3;Imp;Fin;Inv
+Given the context: 'მისი ოთახი და საერთო დიდი ოთახი თხელი ფიცრულით იყო გადაღობილი, ამიტომ ორივე ოთახში ყოველი სიტყვა, ჭრაჭუნი და ფუსფუსიც კი ისმოდა.'
+Generate the lemma and morphological tags for the inflected verb: გადაღობილი	ისმოდა	გადაღობილი Nom;Sing;Past;Part
+Given the context: 'ბუდუ შოლია თავის დახლს იშვიათად ჰშორდებოდა.'
+Generate the lemma and morphological tags for the inflected verb: ჰშორდებოდა	ჰშორდებოდა	შორება Ind;Sing;3;3;Imp;Fin
+Given the context: 'იმ საღამოს კვაჭი ბულვარიდან დაბრუნდა, ცოტაოდენი გადიკითხა და დაწვა.'
+Generate the lemma and morphological tags for the inflected verb: დაბრუნდა	დაბრუნდა	დაბრუნება Ind;Sing;3;Past;Fin
+Given the context: 'ცვირიმ კვაჭიკოს ოთახში რაღაც მიალაგ-მოალაგა, მერმე ლამფა ჩაუქრო, სიბნელეში ტახტზე ჩამოუჯდა კვაჭის და ხუმრობა დაუწყო.'
+Generate the lemma and morphological tags for the inflected verb: მიალაგ-მოალაგა	ჩამოუჯდა	მილაგება=მოლაგება Ind;Sing;3;3;Past;Fin
+Given the context: 'მეორე დღიდან ცვირიმ ალერსი და მზრუნველობა გააათკეცა, კვაჭიკოს ხელში ვერცხლის მანეთიანი ჩაუდო და ჩასჩურჩულა:'
+Generate the lemma and morphological tags for the inflected verb: გააათკეცა	ჩაუდო	გაათკეცება Ind;Sing;3;3;Past;Fin
+Given the context: 'იყიდე რამე, მარა სიტყვა არსად არ დასძრა, თვარა ორივენი დევიღუპებით.'
+Generate the lemma and morphological tags for the inflected verb: იყიდე	დასძრა Ind;Sing;3;3;Past;Fin	ყიდვა Imp;Sing;3;2;Fin
+Given the context: 'კვაჭიკო ისედაც გაჩუმდებოდა ამ მანეთის შესახებ, თუმცა დანარჩენის გაჩუმებაზე არც კვაჭი და არც მისი ამხანაგები ნიძლავად ერთ შაურსაც არ დასდებდნენ.'
+Generate the lemma and morphological tags for the inflected verb: გაჩუმდებოდა	გაჩუმდებოდა	გაჩუმება Cnd;Sing;3;Pres;Fin
+Given the context: 'ასე იშოვნა კვაჭი კვაჭანტირაძემ ოფლითა და შრომით პირველი მანეთი.'
+Generate the lemma and morphological tags for the inflected verb: იშოვნა	შოვნა Ind;Sing;3;3;Pres;Fin	შოვნა Ind;Sing;3;3;Past;Fin
+Given the context: 'ის მანეთი ტკბილი, ადვილი და მსუბუქი გამოდგა.'
+Generate the lemma and morphological tags for the inflected verb: გამოდგა	გამოდგა	გამოდგომა Ind;Sing;3;Past;Fin
+Given the context: 'რაკი კვაჭიმ გზა გაიკვლია და ერთხელ იგემა ასე ადვილად ნაშოვნი მანეთიანი, მალე პირველს მეორეც მოჰყვა, მეორეს – მესამე და მესამეს – მეათე.'
+Generate the lemma and morphological tags for the inflected verb: გაიკვლია	გაკვლია Ind;Sing;3;3;Pres;Fin	გაკვლევა Ind;Sing;3;3;Past;Fin
+Given the context: 'ცვირი მალე დარწმუნდა, რომ საკუთარი მამლის გაზრდა და შენახვა ძალიან ძვირად უღირდა, მაგრამ გვიანღა იყო სინანული და თითზე კბენანი.'
+Generate the lemma and morphological tags for the inflected verb: დარწმუნდა	დარწმუნდა Ind;Sing;3;3;Pres;Fin	დარწმუნება Ind;Sing;3;Past;Fin
+Given the context: 'ცვირის ძილი გაუფრთხა და სულის სიმშვიდე დაეკარგა, რადგან მისი მამალი დაუდეგარი და გაუმაძღარი გამოდგა: ჭამით ცვირის ნაკმაზსა სჭამდა და იმავ დროს სხვა ეზოებშიაც დაეხეტებოდა და იქ სხვა დედლებსაც უწევდა მამლობას.'
+Generate the lemma and morphological tags for the inflected verb: გაუფრთხა	დაეხეტებოდა	გაფრთხობა Ind;Sing;3;3;Past;Fin
+Given the context: 'ასე ჰფიქრობდა და ასე უსაყვედურებდა ცვირი კვაჭიკოს.'
+Generate the lemma and morphological tags for the inflected verb: ჰფიქრობდა	ჰფიქრობდა	ფიქრი Ind;Sing;3;Imp;Fin
+Given the context: 'მაგრამ ცვირი ისევ სცდებოდა: სხვების საქათმეშიც ეყარა ვერცხლისა და ოქროს ნაკმაზი.'
+Generate the lemma and morphological tags for the inflected verb: სცდებოდა	სცდებოდა	ცდენა Ind;Sing;3;3;Imp;Fin
+Given the context: 'ჯიბრი და ქიშპობა ძნელი იყო და მეტად ძვირადაც უჯდებოდა, ამიტომ ცვირიმ კვაჭის დასაკუთრებაზე მალე აიღო ხელი, ბედს შეურიგდა, სასიყვარულო რიგში ჩადგა და გაიფიქრა: ყვავს კაკალი გააგდებინე, ეგეც კარგიაო.'
+Generate the lemma and morphological tags for the inflected verb: უჯდებოდა	ჯდებოდა	ჯდომა Cnd;Sing;3;3;Pres;Fin
+Given the context: 'ან რა უნდა ექნა საწყალ ცვირის?'
+Generate the lemma and morphological tags for the inflected verb: ექნა	ექნა Ind;Sing;3;3;Pres;Fin	ქმნა Ind;Sing;3;3;Pqp;Fin
+Given the context: 'ყველას თავის ჯერი და წილი ჰქონია.'
+Generate the lemma and morphological tags for the inflected verb: ჰქონია	ქონია Ind;Sing;3;3;Pres;Fin	ქონა Ind;Sing;3;3;PastPerf;Fin;Inv
+Given the context: 'ნასუფრალი არც ისე დასაძრახისი ყოფილა, როგორც პირველად ეგონა ცვირის, ხოლო ამ ქვეყნად ლამაზ ვაჟკაცსა და დედაკაცსაც თურმე ისე ინაწილებენ ძლიერნი, როგორც სხვა ქონებას და ბედნიერებას.'
+Generate the lemma and morphological tags for the inflected verb: ეგონა	გონა Ind;Sing;3;3;Pres;Fin	გონება Ind;Sing;3;3;Past;Fin;Inv
+Given the context: 'სამიოდე წელიწადი კიდევ გავიდა.'
+Generate the lemma and morphological tags for the inflected verb: გავიდა	გავიდა	გასვლა Ind;Sing;3;Past;Fin
+Given the context: 'ცვირიმ რაღაც გეში აიღო, შეშინდა და მეზობლის ვარინკა დროზე დააშორა კვაჭიკოს.'
+Generate the lemma and morphological tags for the inflected verb: აიღო	აიღო	აღება Ind;Sing;3;3;Past;Fin
+Given the context: 'ცვირი ორთა შორის გარდუვალ კედლად აიტუზა, ეჭვით აივსო და კვაჭის უფრო მაგრად ჩაეჭიდა, თუმცა წინანდებურად ისევ ნასუფრალით იკვებებოდა.'
+Generate the lemma and morphological tags for the inflected verb: აიტუზა	ჩაეჭიდა	ატუზვა Ind;Sing;3;Past;Fin
+Given the context: 'მამლის შენახვაც თანდათან ძვირდებოდა, რადგან კვაჭიც იზრდებოდა და ფასს იდებდა, ამიტომ სხვებთან ჯიბრი და ქიშპობაც ძნელდებოდა.'
+Generate the lemma and morphological tags for the inflected verb: ძვირდებოდა	ძვირდებოდა	ძვირება Ind;Sing;3;Imp;Fin
+Given the context: 'ერთხელ ცვირის კვაჭის მცირედი უსიამოვნება მოუვიდათ.'
+Generate the lemma and morphological tags for the inflected verb: მოუვიდათ	მოუვიდათ	მოსვლა Ind;Plur;Sing;3;3;Past;Fin
+Given the context: 'ცვირიმ გაიცინა და უთხრა:'
+Generate the lemma and morphological tags for the inflected verb: გაიცინა	გაცინა Ind;Sing;3;3;Past;Fin	გაცინება Ind;Sing;3;Past;Fin
+Given the context: '– დიდი სულელი ყოფილხარ, ჩემო კვაჭიკო, თუ ჰფიქრობ რომე ამ ფულს საჩუქრად გაძლევ.'
+Generate the lemma and morphological tags for the inflected verb: ჰფიქრობ	გაძლევ	ფიქრი Ind;Sing;3;2;Pres;Fin
+Given the context: 'სწავლას გაათავებ, ფულს მეიგებ და დამიბრუნებ.'
+Generate the lemma and morphological tags for the inflected verb: გაათავებ	გაათავებ	გათავება Ind;Sing;3;2;Fut;Fin
+Given the context: 'ნუ ხარ ბაღანა, ეიღე.'
+Generate the lemma and morphological tags for the inflected verb: ეიღე	ეიღე	აღება Imp;Sing;3;2;Fin
+Given the context: 'კვაჭმა მოიფიქრა და უპასუხა:'
+Generate the lemma and morphological tags for the inflected verb: მოიფიქრა	მოფიქრა Ind;Sing;3;3;Pres;Fin	მოფიქრება Ind;Sing;3;3;Past;Fin
+Given the context: 'უსარგებლოდ ფულს გავასესხებ?'
+Generate the lemma and morphological tags for the inflected verb: გავასესხებ	გასესხება Ind;Sing;3;3;Pres;Fin	გასესხება Ind;Sing;3;1;Fut;Fin
+Given the context: 'ამაზე მორიგდნენ.'
+Generate the lemma and morphological tags for the inflected verb: მორიგდნენ	მორიგდნენ	მორიგება Ind;Plur;3;Past;Fin
+Given the context: 'ის კი მართალია, რომ ცვირი შოლიას კვაჭიკოზე დახარჯული ფული არასოდეს არ დაუთვლია, არც ჩაუწერია და არც ვალად ჩაუთვლია.'
+Generate the lemma and morphological tags for the inflected verb: დაუთვლია	დაუთვლია	დათვლა Ind;Sing;3;3;PastPerf;Fin
+Given the context: 'კვაჭი თავის ტოლ-ამხანაგებში არა მალავდა, რომ მას ქალების ბაზარში მრავალი მუშტარი ჰყავდა, მაგრამ ფასის შესახებ ლაპარაკს ერიდებოდა და მხოლოდ ზოგჯერ იტყოდა ხოლმე გაკვრით:'
+Generate the lemma and morphological tags for the inflected verb: მალავდა	მალავდა	მალვა Ind;Sing;3;3;Imp;Fin
+Given the context: 'ან კიდევ: ნასწავლსა და ახალგაზრდა ქალიშვილებს მხოლოდ ტუტუცები და პოეტები დასდევენ.'
+Generate the lemma and morphological tags for the inflected verb: დასდევენ	დასდევენ	დადევნა Ind;Plur;3;3;Pres;Fin
+Given the context: 'ხიფათიც ნაკლებია, თავისუფლებაც შეგრჩება, არც ბევრი დრო დაგეხარჯება და არც ფული.'
+Generate the lemma and morphological tags for the inflected verb: შეგრჩება	შეგრჩება Ind;Sing;3;3;Pres;Fin	შერჩენა Ind;Sing;Sing;2;3;Fut;Fin
+Given the context: '– ჭკვა მოიკრიფეთ, ცხოვრებას დააკვირდით, ყოლიფერი ასწონ-დასწონეთ და გაზომეთ.'
+Generate the lemma and morphological tags for the inflected verb: მოიკრიფეთ	მოკრიფეთ	მოკრეფა Imp;Plur;3;2;Fin
+Given the context: 'არ მესმის, ქალმა რავა უნდა გამაგიჟოს და გამიტაცოს ისთე, რომე გონება დავკარგო და ხუთმეტი წლის კაროჟნას შევწირო ჩემი თავისუფლება, ახალგაზრდობა, მომავალი და სიცოცხლეც?'
+Generate the lemma and morphological tags for the inflected verb: მესმის	მესმის	სმენა Ind;Sing;3;1;Pres;Fin;Inv
+Given the context: 'მიიღე მისგან რაიც მისაღები გაქვს და, თუ გინდა, მადლობა უთხარი და შენი გზით წადი.'
+Generate the lemma and morphological tags for the inflected verb: მიიღე	მიიღე Ind;Sing;3;3;Pres;Fin	მიღება Imp;Sing;3;2;Fin
+Given the context: 'დასვენების დღეს, როცა ტფილისელები კომფორტაბელური ავტოებით მიემგზავრებიან ქალაქგარედ, ჩვეულებსამებრ ჰიპოდრომზე მივდივარ ხოლმე.'
+Generate the lemma and morphological tags for the inflected verb: მიემგზავრებიან	მიემგზავრებიან	მიმგზავრება Ind;Plur;3;Pres;Fin
+Given the context: 'დოღის სეზონი მოთავებულია და ნასუქალ ულაყებს არას ავნებს საქართველოს სამხედრო გზაზე გაჯირითება.'
+Generate the lemma and morphological tags for the inflected verb: მოთავებული	მოთავებული Ind;Sing;3;3;Pres;Fin	მოთავებული Nom;Sing;Past;Part
+Given the context: 'ჰიპოდრომზე კარგად იციან ჩემი გარდაუვალი ვნება ცხენოსნობისადმი.'
+Generate the lemma and morphological tags for the inflected verb: იციან	ციანა Ind;Sing;3;3;Pres;Fin	ცოდნა Ind;Plur;3;3;Pres;Fin
+Given the context: 'მეკითხება ნოშრევანი, ძველი მეჯინიბე.'
+Generate the lemma and morphological tags for the inflected verb: მეკითხება	მეკითხება Ind;Sing;3;3;Pres;Fin	კითხვა Ind;Sing;Sing;1;3;3;Pres;Fin
+Given the context: '„ სეირა ჩინებული ცხენია, მაგრამ დაცდილი მაქვს, მანქანების ეშინია ”.'
+Generate the lemma and morphological tags for the inflected verb: დაცდილი	ცხენია Ind;Sing;3;3;Pres;Fin	დაცდილი Nom;Sing;Past;Part
+Given the context: '„ ოჰო, დარდიმანდი ყველაზე მეტად დინჯი ულაყია, არც მანქანებს ეპუება, ხიდზედაც უწყინარად გადადის ”.'
+Generate the lemma and morphological tags for the inflected verb: ეპუება	ეპუება Ind;Sing;3;3;Pres;Fin	შეპუება Ind;Sing;3;3;Pres;Fin
+Given the context: 'დარდიმანდზე შეჩერდა ჩემი არჩევანიც.'
+Generate the lemma and morphological tags for the inflected verb: შეჩერდა	შეჩერდა	შეჩერება Ind;Sing;3;Past;Fin
+Given the context: 'სწორედ იმ წელს, როცა გიორგის ბრძანებისამებრ სამი ეკლესია მოათავა ფარსმან სპარსმა სამცხეში, საქართველოს ჭილყვავი შემოესია.'
+Generate the lemma and morphological tags for the inflected verb: მოათავა	შემოესია	მოთავება Ind;Sing;3;3;Past;Fin
+Given the context: 'ახმობინა მეფემ ფარსმანი და უბრძანა მოესრა სირი.'
+Generate the lemma and morphological tags for the inflected verb: ახმობინა	ახმობინა Ind;Sing;3;3;Past;Fin	ხმობინება Ind;Sing;3;3;3;Past;Fin;Cau
+Given the context: 'ტფილისი იმჟამად სარკინოზებს ეპყრათ, ფარსმანი ამირას კარზე იყო ნამყოფი, გიორგის მამას, ბაგრატ კურაპალატს ტყვედ ჰყავდა იგი, ჯერ კიდევ სიყრმეში ჩამოყვანილი.'
+Generate the lemma and morphological tags for the inflected verb: ეპყრათ	პყრა Ind;Sing;3;3;Pres;Fin	პყრობა Ind;Plur;Sing;3;3;Past;Fin
+Given the context: 'ფრიად ბნელ ამბებს უკავშირებდნენ მის სახელს ცრუმორწმუნენი, იმასაც ამბობდნენ, გველი ჰყავსო ფარსმანს ლაგამამოდებული და ზედმჯდომი დაჰქრისო იგი არაგვის ჭალებში.'
+Generate the lemma and morphological tags for the inflected verb: უკავშირებდნენ	უკავშირებდნენ	კავშირება Ind;Plur;3;3;3;Imp;Fin
+Given the context: 'სამი კვირის მანძილზე ამზადებდნენ წამლებს ფარსმანი და მისი შეგირდები, ბოლოს ჯადოსნური რამ სითხე შეკაზმეს, მამასახლისებს დაურიგეს, ლეშები დააწამლინეს და ხეებზე გაატანინეს.'
+Generate the lemma and morphological tags for the inflected verb: ამზადებდნენ	ამზადებდნენ	მზადება Ind;Plur;3;3;Imp;Fin
+Given the context: 'გაუმაძღარი სირი მიეტანა მძორს და მოისრა სრულად.'
+Generate the lemma and morphological tags for the inflected verb: მიეტანა	მიტანა Ind;Sing;3;3;Pres;Fin	მიტანება Ind;Sing;3;3;Past;Fin
+Given the context: 'ამ მაგალითით დაშინებული ტფილისელი ამირაც გატვრინული იყო, სარკინოზები ჯერ კიდევ ბოგინობდნენ შურის ციხეში.'
+Generate the lemma and morphological tags for the inflected verb: ბოგინობდნენ	ბოგინობდნენ	ბოგინი Ind;Plur;3;Imp;Fin
+Given the context: 'გულმოცემული გიორგი დადიოდა აფხაზეთსა, სამცხესა და ქართლში, აგებდა ციხე-ქალაქებს, აგარებსა და ეკლესიებს.'
+Generate the lemma and morphological tags for the inflected verb: დადიოდა	დადიოდა	სიარული Ind;Sing;3;Imp;Fin
+Given the context: 'ხანმოკლე ზავის დროს ხანგრძლივი ომებისათვის ემზადებოდა.'
+Generate the lemma and morphological tags for the inflected verb: ემზადებოდა	ემზადებოდა	მზადება Ind;Sing;3;3;Imp;Fin
+Given the context: 'კიდევ ერთხელ დადგა თორმეტი ნოემბერი.'
+Generate the lemma and morphological tags for the inflected verb: დადგა	დადგა	დადგომა Ind;Sing;3;Past;Fin
+Given the context: 'გარეთ გაავებული ქარი ქროდა და ყვითელი ფოთლები დაღლილი პეპლებივით ფარფატებდნენ ჰაერში.'
+Generate the lemma and morphological tags for the inflected verb: ქროდა	ფარფატებდნენ	ქროლა Ind;Sing;3;Imp;Fin
+Given the context: 'აბელი სკამის საზურგეს გადასწოლოდა, სიგარეტიანი ხელი ფანჯრის რაფაზე ედო, ბოლს რგოლებად უშვებდა და მდუმარედ გასცქეროდა ბაზრის მოედანს.'
+Generate the lemma and morphological tags for the inflected verb: გადასწოლოდა	გადასწოლოდა	გადაწოლა Ind;Sing;3;3;Pqp;Fin
+Given the context: 'ასლანი სადღეგრძელოს ამბობდა, წახნაგოვანი ჩაის ჭიქა წახნაგოვანი სათითურივით ეჭირა ვეება ხელში.'
+Generate the lemma and morphological tags for the inflected verb: ამბობდა	ამბობდა	თქმა Ind;Sing;3;3;Imp;Fin
+Given the context: 'თეიმურაზ კილაძეს ორივე ლამაზი ყბა ცხვრის მწვადით გამოეტენა, თვალები მიელულა და მშვენიერ სახეზე ნეტარება ეწერა.'
+Generate the lemma and morphological tags for the inflected verb: გამოეტენა	გამოტენა Ind;Sing;3;3;Pres;Fin	გამოტენა Ind;Sing;3;3;Pqp;Fin
+Given the context: 'რომან ადეიშვილი ჩანგლის ტარით ყურძნის წიპწას დასდევდა სავსე ჭიქაში.'
+Generate the lemma and morphological tags for the inflected verb: დასდევდა	დასდევდა	დადევნა Ind;Sing;3;3;Imp;Fin
+Given the context: 'წიპწა ოსტატურად უსხლტებოდა რეჟისორის გამოცდილებას და ლაღად დაქროდა ღვინოში წრიულ ორბიტაზე.'
+Generate the lemma and morphological tags for the inflected verb: უსხლტებოდა	უსხლტებოდა	სხლტომა Ind;Sing;3;3;Imp;Fin
+Given the context: 'აბელმა შუბლი მოისრისა.'
+Generate the lemma and morphological tags for the inflected verb: მოისრისა	მოსრისა Ind;Sing;3;3;Pres;Fin	მოსრესა Ind;Sing;3;3;Past;Fin
+Given the context: 'როცა მიაღწევთ, მაშინღა მიხვდებით, რომ სხვისი ყოფილა.'
+Generate the lemma and morphological tags for the inflected verb: მიაღწევთ	მიაღწევთ	მიღწევა Ind;Plur;3;2;Fut;Fin
+Given the context: 'ცხვრის ფარა ბღავილით ბრუნდება საძოვრიდან და ფარეხში ისე მიდის, როგორც საკუთარი მიზნისკენ.'
+Generate the lemma and morphological tags for the inflected verb: ბრუნდება	ბრუნდება Ind;Sing;3;3;Pres;Fin	ბრუნება Ind;Sing;3;Pres;Fin
+Given the context: 'ქვა მოწყდება კლდეს და ხევში ჩავარდება.'
+Generate the lemma and morphological tags for the inflected verb: მოწყდება	მოწყდება Ind;Sing;3;3;Pres;Fin	მოწყდომა Ind;Sing;3;3;Fut;Fin
+Given the context: 'მიზანი მიღწეულია.'
+Generate the lemma and morphological tags for the inflected verb: მიღწეული	მიღწეული Ind;Sing;3;3;Pres;Fin	მიღწეული Nom;Sing;Past;Part
+Given the context: 'თუ მაინცდამაინც, ისეთი მიზანი უნდა დაისახოთ, რომელსაც ვერ მიაღწევთ.'
+Generate the lemma and morphological tags for the inflected verb: დაისახოთ	დაისახოთ	დასახვა Sub;Plur;3;2;Past;Fin
+Given the context: 'მე, მაგალითად, ძალიან მომწონს მრავალკუთხედის მიზანი, კუთხეების უსასრულო გაორკეცებით იქცეს წრეხაზად.'
+Generate the lemma and morphological tags for the inflected verb: მომწონს	მოწონს	მოწონება Ind;Sing;3;1;Pres;Fin;Inv
+Given the context: 'ერთი ამხანაგი მყავდა.'
+Generate the lemma and morphological tags for the inflected verb: მყავდა	მყავდა	ყოლა Ind;Sing;3;1;Imp;Fin;Inv
+Given the context: 'სულ იღიმებოდა, სულ ღიღინებდა, სულ ოხუნჯობდა.'
+Generate the lemma and morphological tags for the inflected verb: იღიმებოდა	ღიმებოდა	გაღიმება Ind;Sing;3;Imp;Fin
+Given the context: 'არ ვიცი, ისეთი რა უნდა შემთხვეოდა, რომ გუნება გაფუჭებოდა.'
+Generate the lemma and morphological tags for the inflected verb: ვიცი	შემთხვეოდა	ცოდნა Ind;Sing;3;1;Pres;Fin
+Given the context: 'ეს უთავბოლო ოპტიმიზმი ცნობისმოყვარეობას მიღიზიანებდა და მოსვენებას არ მაძლევდა.'
+Generate the lemma and morphological tags for the inflected verb: მიღიზიანებდა	მიღიზიანებდა	გაღიზიანება Ind;Sing;Sing;1;3;3;Imp;Fin
+Given the context: 'ხან აქედან ვუტრიალე, ხან იქიდან.'
+Generate the lemma and morphological tags for the inflected verb: ვუტრიალე	ვუტრიალე	ტრიალი Ind;Sing;3;1;Past;Fin
+Given the context: 'ბოლოს, როგორც იქნა, გამოვტეხე.'
+Generate the lemma and morphological tags for the inflected verb: იქნა	გამოტეხე Ind;Sing;3;3;Pres;Fin	ქმნა Ind;Sing;3;Past;Fin
+Given the context: 'მეო, მითხრა ერთხელ, მიზანი მაქვსო.'
+Generate the lemma and morphological tags for the inflected verb: მითხრა	მითხრა Ind;Sing;3;3;Pres;Fin	თქმა Ind;Sing;Sing;1;3;3;Past;Fin
+Given the context: 'ჩემთვის მხოლოდ ის ხიფათი არსებობს, რომელიც ჩემს მიზანს ემუქრება, სხვა ყველაფერი მასხრობააო.'
+Generate the lemma and morphological tags for the inflected verb: არსებობს	არსებობს	არსებობა Ind;Sing;3;Pres;Fin
+Given the context: 'მოგვიანებით ისიც გავიგე, თუ რა მიზანი ჰქონდა.'
+Generate the lemma and morphological tags for the inflected verb: გავიგე	გავიგე	გაგება Ind;Sing;3;1;Past;Fin
+Given the context: 'ნასვამი იყო და თავისი უბის წიგნაკი მაჩვენა.'
+Generate the lemma and morphological tags for the inflected verb: მაჩვენა	მაჩვენა Ind;Sing;3;3;Pres;Fin	ჩვენება Ind;Sing;Sing;1;3;3;Past;Fin
+Given the context: 'მერე ეს მიზანი დაყოფილი იყო ეტაპებად:'
+Generate the lemma and morphological tags for the inflected verb: დაყოფილი	დაყოფილი Ind;Sing;3;3;Pres;Fin	დაყოფილი Nom;Sing;Past;Part
+Given the context: 'და როგორ გგონიათ?'
+Generate the lemma and morphological tags for the inflected verb: გგონიათ	გონიათ	გონება Ind;Plur;3;2;Pres;Fin;Inv
+Given the context: 'მიაღწია კიდეც.'
+Generate the lemma and morphological tags for the inflected verb: მიაღწია	მიაღწია Ind;Sing;3;3;Pres;Fin	მიღწევა Ind;Sing;3;3;Past;Fin
+Given the context: 'თოთხმეტი წელი ჩრჩილივით ღრღნა წიგნები და, ოცდათორმეტის რომ შეიქნა, პროფესორი გახდა.'
+Generate the lemma and morphological tags for the inflected verb: ღრღნა	ღრღნა Ind;Sing;3;3;Pres;Fin	ღრღნა Ind;Sing;3;3;Past;Fin
+Given the context: 'ჭლექიც კი არ შეყრია.'
+Generate the lemma and morphological tags for the inflected verb: შეყრია	შეყრია Ind;Sing;3;3;Pres;Fin	შეყრა Ind;Sing;3;3;PastPerf;Fin
+Given the context: 'სამად სამი კილო დაიკლო წონაში, ეს იყო და ეს.'
+Generate the lemma and morphological tags for the inflected verb: დაიკლო	დაკლო	დაკლება Ind;Sing;3;3;Past;Fin
+Given the context: 'ღიღინს დავანებოთ თავი.'
+Generate the lemma and morphological tags for the inflected verb: დავანებოთ	დანებოთ	დანებება Sub;Plur;3;3;1;Past;Fin
+Given the context: 'ღიღინი ისეთი რამაა, მწიგნობარ კაცს იქნებ არც კი შეეფერებოდეს.'
+Generate the lemma and morphological tags for the inflected verb: შეეფერებოდეს	შეფერებოდეს	შეფერება Sub;Sing;3;3;Pres;Fin
+Given the context: 'დავუშვათ, სიბრძნისათვის ოხუნჯობაც ზედმეტი სიმსუბუქეა.'
+Generate the lemma and morphological tags for the inflected verb: დავუშვათ	დაშვა Ind;Sing;3;3;Pres;Fin	დაშვება Sub;Plur;3;1;Past;Fin
+Given the context: 'ღიმილი ხომ ჯიბის ფარანია, ბნელ ღამეში ყოველ წუთს შეიძლება დაგჭირდეს.'
+Generate the lemma and morphological tags for the inflected verb: დაგჭირდეს	დაჭირდება Ind;Sing;3;3;Pres;Fin	დაჭირვება Sub;Sing;3;2;Past;Fin;Inv
+Given the context: 'მე ერთხელ მანქანის შეძენა გადავწყვიტე.'
+Generate the lemma and morphological tags for the inflected verb: გადავწყვიტე	გადაწყვიტება Ind;Sing;3;3;Pres;Fin	გადაწყვეტა Ind;Sing;3;1;Past;Fin
+Given the context: 'სახლი მაქვს, კარი მაქვს, მანქანა მაქვს.'
+Generate the lemma and morphological tags for the inflected verb: მაქვს	მაქვს	ქონა Ind;Sing;3;1;Pres;Fin;Inv
+Given the context: 'მაძღარი და მსუქანი ცოლ-შვილი მყავს.'
+Generate the lemma and morphological tags for the inflected verb: მყავს	მყავს	ყოლა Ind;Sing;3;1;Pres;Fin;Inv
+Given the context: 'პიჟამა მაცვია და დილ-დილაობით საცურაო აუზში დავდივარ, რომ ცოტა წონაში დავიკლო.'
+Generate the lemma and morphological tags for the inflected verb: მაცვია	მაცვია Ind;Sing;3;3;Pres;Fin	ცმა Ind;Sing;Sing;1;3;Pres;Fin
+Given the context: 'როცა მინდა ვინმეს გავუღიმო, საკუთარ თავს ვუღიმი, რადგან მხოლოდ საკუთარი თავი მიმაჩნია ღიმილის ღირსად.'
+Generate the lemma and morphological tags for the inflected verb: მინდა	გავუღიმო	ნდომა Ind;Sing;3;1;Pres;Fin;Inv
+Given the context: 'ვცდილობ წარმოვიდგინო და მიკვირს.'
+Generate the lemma and morphological tags for the inflected verb: ვცდილობ	ცდილობა Ind;Sing;3;3;Pres;Fin	ცდილობა Ind;Sing;3;1;Pres;Fin
+Given the context: 'მიკვირს, რადგან აღარ მახსოვს, მაშინ როგორ მქონდა წარმოდგენილი ჩემი მომავალი.'
+Generate the lemma and morphological tags for the inflected verb: მიკვირს	მიკვირს	კვირვება Ind;Sing;3;1;Pres;Fin;Inv
+Given the context: 'მაგრამ საიდან დავიწყო?'
+Generate the lemma and morphological tags for the inflected verb: დავიწყო	დაწყობა Ind;Sing;3;3;Pres;Fin	დაწყება Sub;Sing;3;1;Past;Fin
+Given the context: 'საიდან დაიწყო ეს ამბავი?'
+Generate the lemma and morphological tags for the inflected verb: დაიწყო	დაწყო Ind;Sing;3;3;Pres;Fin	დაწყება Ind;Sing;3;Past;Fin
+Given the context: 'იქნებ არსაიდანაც არ დაწყებულა.'
+Generate the lemma and morphological tags for the inflected verb: დაწყებულა	დაწყებულა Ind;Sing;3;3;Pres;Fin	დაწყება Ind;Sing;3;PastPerf;Fin
+Given the context: 'იქნებ ყველანი მართლა რომელიმე კინოსცენარის პერსონაჟები ვართ და როლები იმთავითვე იყო განაწილებული.'
+Generate the lemma and morphological tags for the inflected verb: განაწილებული	განაწილებული Ind;Sing;3;3;Pres;Fin	განაწილებული Nom;Sing;Past;Part
+Given the context: 'სოფელში დავიბადე.'
+Generate the lemma and morphological tags for the inflected verb: დავიბადე	დაბადება Ind;Sing;3;3;Past;Fin	დაბადება Ind;Sing;1;Past;Fin
+Given the context: 'ბავშვობაც იქ გავატარე.'
+Generate the lemma and morphological tags for the inflected verb: გავატარე	გატარე Ind;Sing;3;3;Pres;Fin	გატარება Ind;Sing;3;1;Past;Fin
+Given the context: 'მერე პატარა პერიფერიულ ქალაქში გადამიყვანეს, ჩემი სოფლიდან ოცდახუთი კილომეტრის დაშორებით.'
+Generate the lemma and morphological tags for the inflected verb: გადამიყვანეს	გადამიყვანეს	გადაყვანა Ind;Sing;Plur;1;3;3;Past;Fin
+Given the context: 'საშუალო სკოლა რომ დავამთავრე, თბილისში ჩამოვედი და სტუდენტი გავხდი.'
+Generate the lemma and morphological tags for the inflected verb: დავამთავრე	დავამთავრე Ind;Sing;3;3;Pres;Fin	დამთავრება Ind;Sing;3;1;Past;Fin
+Given the context: 'ინჟინერი გამოვედი.'
+Generate the lemma and morphological tags for the inflected verb: გამოვედი	გამოვედი	გამოსვლა Ind;Sing;1;Past;Fin
+Given the context: 'მქონდა რაღაც ბუნდოვანი, მაგრამ ძლიერი მიდრეკილება აქეთკენ.'
+Generate the lemma and morphological tags for the inflected verb: მქონდა	მქონდა Ind;Sing;3;3;Pres;Fin	ქონა Ind;Sing;3;1;Imp;Fin;Inv
+Given the context: 'ღმერთმა იცის, იქნებ ეს იმდენად გარდასული კულტურის სიყვარული არ იყო, რამდენადაც თანამედროვე ტექნიკის სიძულვილი.'
+Generate the lemma and morphological tags for the inflected verb: იცის	ცოდნა Ind;Sing;3;3;Pres;Fin	ცოდნა Ind;Sing;3;3;Pres;Fin
+Given the context: 'ჯერ კიდევ ბავშვი ვიყავი, ძველ ეგვიპტეს რომ გადავეყარე.'
+Generate the lemma and morphological tags for the inflected verb: გადავეყარე	გადაყარება Ind;Sing;3;3;Pres;Fin	გადაყრა Ind;Sing;3;1;Past;Fin
+Given the context: 'მაშინ არც ხაზის მოქნილობა მესმოდა, არც კონტრასტის ეფექტურობა, არც ფერთა უჩვეულო ძალა.'
+Generate the lemma and morphological tags for the inflected verb: მესმოდა	მესმოდა	სმენა Ind;Sing;3;1;Imp;Fin;Inv
+Given the context: 'ეგვიპტის პატარა ნატეხი პირდაპირ სულში შემოვიდა, უმოკლესი გზით, გონებისმიერი განსჯისა და ტვინისმიერი ლაბირინთების გაუვლელად.'
+Generate the lemma and morphological tags for the inflected verb: შემოვიდა	შემოვიდა	შემოსვლა Ind;Sing;3;Past;Fin
+Given the context: 'ყველაზე მეტად მხრებმა გამაოცა, მხრების ხაზები სწორად მიდიოდა და ეს კუთხოვანი ფორმა უჩვეულო მომხიბლაობას ანიჭებდა სურათს.'
+Generate the lemma and morphological tags for the inflected verb: გამაოცა	გამაოცა Ind;Sing;3;3;Pres;Fin	გაოცება Ind;Sing;Sing;1;3;Past;Fin
+Given the context: 'მერე, როგორც ეს ბავშვის ბუნებას სჩვევია, ამ შთაბეჭდილებას სხვა შთაბეჭდილებათა ნაირ-ნაირი ფენები გადაეფარა ზემოდან და ძველი ეგვიპტის ჩვენება დავიწყებას მიეცა.'
+Generate the lemma and morphological tags for the inflected verb: სჩვევია	სჩვევა Ind;Sing;3;3;Pres;Fin	ჩვევა Ind;Sing;3;3;Pres;Fin
+Given the context: 'სკოლაში რიგიან მოწაფედ ვითვლებოდი.'
+Generate the lemma and morphological tags for the inflected verb: ვითვლებოდი	ვითვლებოდი	თვლა Ind;Sing;1;Imp;Fin
+Given the context: 'განსაკუთრებით მათემატიკური საგნები მემარჯვებოდა და, სკოლის დამთავრების შემდეგ რომ პოლიტექნიკურ ინსტიტუტში შევედი, ეს თითქოს სავსებით ბუნებრივი იყო.'
+Generate the lemma and morphological tags for the inflected verb: მემარჯვებოდა	მემარჯვებოდა	მარჯვება Ind;Sing;3;1;Imp;Fin;Inv
+Given the context: 'ამ ბუნებრიობის არაბუნებრიობა მაშინ გამოჩნდა, როცა მეორედ შევხვდი ძველ ეგვიპტეს.'
+Generate the lemma and morphological tags for the inflected verb: გამოჩნდა	გამოჩნდა	გამოჩენა Ind;Sing;3;Past;Fin
+Given the context: 'ამჯერად რომელიღაც ფარაონის პორტრეტი ჩამივარდა ხელში და, დავხედე თუ არა, წამსვე გაიღვიძა მოგონებამ, რომელიც გამქრალი მეგონა.'
+Generate the lemma and morphological tags for the inflected verb: ჩამივარდა	ჩამივარდა	ჩავარდნა Ind;Sing;Sing;1;3;Past;Fin
+Given the context: 'და დაიწყო ორმაგი ცხოვრება.'
+Generate the lemma and morphological tags for the inflected verb: დაიწყო	დაწყო	დაწყება Ind;Sing;3;Past;Fin
+Given the context: 'ინსტიტუტში მასალათა გამძლეობასა და მხაზველობით გეომეტრიას ვსწავლობდი, შინ კი, ჩემს პატარა ოთახში, ვსწავლობდი ეგვიპტისა და შუამდინარეთის ისტორიას, გილგამეშის ეპოსს, ძველისძველ მითებს ღმერთებისა და ადამიანების შესახებ, ბიბლიასა და სახარებას.'
+Generate the lemma and morphological tags for the inflected verb: ვსწავლობდი	სწავლობდი	სწავლა Ind;Sing;3;1;Imp;Fin
+Given the context: 'დავრბოდი მუზეუმებსა და ბიბლიოთეკებში, ვათვალიერებდი, ვკითხულობდი.'
+Generate the lemma and morphological tags for the inflected verb: დავრბოდი	დარბოდი	დარბენა Ind;Sing;1;Imp;Fin
+Given the context: 'ვაგროვებდი რეპროდუქციებს.'
+Generate the lemma and morphological tags for the inflected verb: ვაგროვებდი	ვაგროვებდი	გროვება Ind;Sing;3;1;Imp;Fin
+Given the context: 'ბოლოს დედოფალ ნეფერტიტის პორტრეტიც ვიშოვე.'
+Generate the lemma and morphological tags for the inflected verb: ვიშოვე	შოვება Ind;Sing;3;3;Pres;Fin	შოვნა Ind;Sing;3;1;Past;Fin
+Given the context: 'ინსტიტუტი რომ დავამთავრე, ერთ მოსაწყენზე მოსაწყენ ბიუროში დავიწყე მუშაობა.'
+Generate the lemma and morphological tags for the inflected verb: დავამთავრე	დავამთავრე Ind;Sing;3;3;Pres;Fin	დამთავრება Ind;Sing;3;1;Past;Fin
+Given the context: 'სამსახური მძულდა.'
+Generate the lemma and morphological tags for the inflected verb: მძულდა	მძულდა	ძულება Ind;Sing;3;1;Imp;Fin;Inv
+Given the context: 'მეგობრები თითქმის არ მყავდა.'
+Generate the lemma and morphological tags for the inflected verb: მყავდა	მყავდა Ind;Sing;3;3;Pres;Fin	ყოლა Ind;Sing;3;1;Imp;Fin;Inv
+Given the context: 'მარტო ცხოვრებამ კი ფიქრს შემაჩვია.'
+Generate the lemma and morphological tags for the inflected verb: შემაჩვია	შემაჩვია Ind;Sing;3;3;Pres;Fin	შეჩვევა Ind;Sing;Sing;3;1;3;Past;Fin
+Given the context: 'და დარწმუნებული ვიყავი, რომ უკუგდებული ჰიპოთეზა ქართველებისა და ეგვიპტელების ნათესაობის შესახებ ერთხელ კიდევ დადგებოდა დღის წესრიგში.'
+Generate the lemma and morphological tags for the inflected verb: დარწმუნებული	დადგებოდა	დარწმუნებული Nom;Sing;Past;Part
+Given the context: 'საბუთი არაფერი მქონდა.'
+Generate the lemma and morphological tags for the inflected verb: მქონდა	მქონდა Ind;Sing;3;3;Pres;Fin	ქონა Ind;Sing;3;1;Imp;Fin;Inv
+Given the context: 'მქონდა მხოლოდ სანტიმენტალურობამდე მისული მშობლიურობის გრძნობა.'
+Generate the lemma and morphological tags for the inflected verb: მქონდა	მქონდა Ind;Sing;3;3;Pres;Fin	ქონა Ind;Sing;3;1;Imp;Fin;Inv
+Given the context: 'თბილისში ვარდენ მექვაბიშვილთან ვიდექი მდგმურად.'
+Generate the lemma and morphological tags for the inflected verb: ვიდექი	დექა Ind;Sing;3;3;Pres;Fin	დგომა Ind;Sing;1;Past;Fin
+Given the context: 'მთელი სტუდენტობა აქ გავატარე და მერეც აქ ვცხოვრობდი, სანამ ცოლი არ მოუკვდა და ამის გამო სახლიდან არ დამითხოვა.'
+Generate the lemma and morphological tags for the inflected verb: გავატარე	ცხოვრობა Ind;Sing;3;3;Pres;Fin	გატარება Ind;Sing;3;1;Past;Fin
+Given the context: 'ერთი პატარა ოთახი მეჭირა.'
+Generate the lemma and morphological tags for the inflected verb: მეჭირა	მეჭირა Ind;Sing;3;3;Pres;Fin	ჭერა Ind;Sing;3;1;Past;Fin;Inv
+Given the context: 'კაცმა რომ თქვას, ოთახი არც ეთქმოდა და რამდენიმე წლის წინ მართლა არ ერქვა.'
+Generate the lemma and morphological tags for the inflected verb: თქვას	თქმოდა Ind;Sing;3;3;Pres;Fin	თქმა Sub;Sing;3;3;Past;Fin
+Given the context: 'მაშინ აივანი ერქვა.'
+Generate the lemma and morphological tags for the inflected verb: ერქვა	ერქვა Ind;Sing;3;3;Past;Fin	რქმევა Ind;Sing;3;3;Past;Fin
+Given the context: 'მერე აივანი ამოაშენეს, მინებით შემოსეს, ოთახი უწოდეს და ოცდახუთ მანეთად მომაქირავეს.'
+Generate the lemma and morphological tags for the inflected verb: ამოაშენეს	ამოაშენეს	ამოშენება Ind;Plur;3;3;Past;Fin
+Given the context: 'ისეთი ოთახი გამოვიდა, ზამთარში რომ შეუმჩნევლად მოვმკვდარიყავი, გაზაფხულამდე არ გავიხრწნებოდი.'
+Generate the lemma and morphological tags for the inflected verb: გამოვიდა	გამოვიდა	გამოსვლა Ind;Sing;3;Past;Fin
+Given the context: 'მაგრამ მე წლების განმავლობაში მაინც ვიდექი ამ ოთახში.'
+Generate the lemma and morphological tags for the inflected verb: ვიდექი	დექა Ind;Sing;3;3;Pres;Fin	დგომა Ind;Sing;1;Past;Fin
+Given the context: 'ჩემს გარდა აქ იდგა ერთი ჭრიალა ტახტი, ერთი კოჭლი მაგიდა და ორი კოჭლი სკამი.'
+Generate the lemma and morphological tags for the inflected verb: იდგა	დგა Ind;Sing;3;3;Past;Fin	დგომა Ind;Sing;3;Past;Fin
+Given the context: 'ტახტქვეშ ჩემოდანი იდო.'
+Generate the lemma and morphological tags for the inflected verb: იდო	დომა Ind;Sing;3;3;Past;Fin	დება Ind;Sing;3;Past;Fin
+Given the context: 'კარზე ტანსაცმლის საკიდი მქონდა მიჭედებული.'
+Generate the lemma and morphological tags for the inflected verb: მიჭედებული	მიჭედებული Ind;Sing;3;3;Pres;Fin	მიჭედებული Nom;Sing;Past;Part
+Given the context: 'კედელზე დედოფალ ნეფერტიტის სურათი მეკიდა.'
+Generate the lemma and morphological tags for the inflected verb: მეკიდა	მეკიდა	კიდება Ind;Sing;Sing;1;3;Past;Fin
+Given the context: 'სხვა ეგვიპტური რეპროდუქციები ჩემოდანში მეწყო.'
+Generate the lemma and morphological tags for the inflected verb: მეწყო	მეწყო	წყობა Ind;Sing;Sing;1;3;Past;Fin
+Given the context: 'დროდადრო ამოვალაგებდი, ვათვალიერებდი და რაღაც სიზმარეული განცდა მეუფლებოდა.'
+Generate the lemma and morphological tags for the inflected verb: ამოვალაგებდი	ამოვალაგებდი	ამოლაგება Cnd;Sing;3;1;Pres;Fin
+Given the context: 'როგორც მოგახსენეთ, ცოლი რომ მოუკვდა, ვარდენ მექვაბიშვილმა სახლიდან დამითხოვა.'
+Generate the lemma and morphological tags for the inflected verb: მოგახსენეთ	მოგახსენეთ	მოხსენება Ind;Plur;Sing;2;3;1;Past;Fin
+Given the context: 'ცოლის გარდაცვალება და მდგმურის დათხოვნა არ არის ისეთი მოვლენები, რომელთა შორის კავშირი მაინცდამაინც ნათელი და მკაფიო იყოს, მაგრამ ვარდენ მექვაბიშვილმა მაინც მოახერხა მათი დაკავშირება.'
+Generate the lemma and morphological tags for the inflected verb: მოახერხა	მოახერხა Ind;Sing;3;3;Pres;Fin	მოხერხება Ind;Sing;3;3;Past;Fin
+Given the context: 'ორი თვე გავიდა, რაც ცოლი მოუკვდა.'
+Generate the lemma and morphological tags for the inflected verb: გავიდა	გავიდა	გასვლა Ind;Sing;3;Past;Fin
+Given the context: 'მე ჩემს ოთახში ვიჯექი და ვკითხულობდი.'
+Generate the lemma and morphological tags for the inflected verb: ვიჯექი	ჯექა Ind;Sing;3;3;Pres;Fin	ჯდომა Ind;Sing;1;Past;Fin
+Given the context: 'მერე ნელ-ნელა ფიქრებმა გამიტაცეს, კითხვას თავი მივანებე და თვალები დავხუჭე.'
+Generate the lemma and morphological tags for the inflected verb: გამიტაცეს	გამიტაცეს	გატაცება Ind;Sing;Plur;1;3;Past;Fin
+Given the context: 'მქონდა ასეთი ჩვევა.'
+Generate the lemma and morphological tags for the inflected verb: მქონდა	მქონდა Ind;Sing;3;3;Pres;Fin	ქონა Ind;Sing;3;1;Imp;Fin;Inv
+Given the context: 'ვკითხულობდი, ვკითხულობდი, მერე ფიქრები გამიტაცებდა და თვალებს დავხუჭავდი.'
+Generate the lemma and morphological tags for the inflected verb: ვკითხულობდი	კითხულობდი	კითხვა Ind;Sing;1;Imp;Fin
+Given the context: 'ცოტა ხნის შემდეგ რაღაც უცნაური ბურანი ჩამომაწვებოდა და ირგვლივ ყველაფერი ქრებოდა.'
+Generate the lemma and morphological tags for the inflected verb: ჩამომაწვებოდა	ჩამომაწვებოდა	ჩამოწოლა Cnd;Sing;Sing;1;3;Pres;Fin
+Given the context: 'მალე სამყარო სულ მთლად დაიცლებოდა და რჩებოდა მხოლოდ სივრცე, ცარიელი და უკიდეგანო.'
+Generate the lemma and morphological tags for the inflected verb: დაიცლებოდა	დაცლება Ind;Sing;3;3;Pres;Fin	დაცლა Cnd;Sing;3;Pres;Fin
+Given the context: 'მერე ეს სივრცე თავიდან ივსებოდა ახალი დეტალებით.'
+Generate the lemma and morphological tags for the inflected verb: ივსებოდა	ივსებოდა	ვსება Ind;Sing;3;Imp;Fin
+Given the context: 'ჯერ ნილოსი გაწვებოდა ცისფერ ზოლად სამყაროს მთელ სიგრძეზე.'
+Generate the lemma and morphological tags for the inflected verb: გაწვებოდა	გაწვებოდა	წოლა Ind;Sing;Sing;2;3;Imp;Fin
+Given the context: 'ქრონოლოგიური თანმიმდევრობით ამოიზიდებოდა ცხელი მიწიდან ვეებერთელა პირამიდები, ჩნდებოდა ფარაონთა სამარხები, იკვეთებოდა უმცირეს დეტალებში დამუშავებული გიგანტური ქანდაკებები, რომლებიც ისეთი მეტყველი სახით შემოგცქერიან, თითქოს ეს წუთია რაღაც გკითხეს და პასუხს ელოდებიანო.'
+Generate the lemma and morphological tags for the inflected verb: ამოიზიდებოდა	ამოზიდებოდა	ამოზიდვა Cnd;Sing;3;Pres;Fin
+Given the context: 'ოსტატი ძერწავს დედოფლის პორტრეტს.'
+Generate the lemma and morphological tags for the inflected verb: ძერწავს	ძერწავს	ძერწვა Ind;Sing;3;3;Pres;Fin
+Given the context: 'ყოველ შეხებაზე გული ისე უცემს, თითქოს ნამდვილ დედოფალს შეხებოდეს.'
+Generate the lemma and morphological tags for the inflected verb: უცემს	შეხებოდეს	ცემა Ind;Sing;3;3;Pres;Fin;Inv
+Given the context: 'სამყარო დაიცალა.'
+Generate the lemma and morphological tags for the inflected verb: დაიცალა	დაცალა Ind;Sing;3;3;Past;Fin	დაცლა Ind;Sing;3;Past;Fin
+Given the context: 'მერე ნილოსი გადაიჭიმა, როგორც ქვეყნიერების ცისფერი ძარღვი, და სიცოცხლემ მოძრაობა დაიწყო.'
+Generate the lemma and morphological tags for the inflected verb: გადაიჭიმა	გადაჭიმა Ind;Sing;3;3;Pres;Fin	გადაჭიმვა Ind;Sing;3;Past;Fin
+Given the context: 'და ის იყო ოსტატი გულისფანცქალით შეეხო დედოფლის პორტრეტს, რომ კარზე კაკუნი გაისმა.'
+Generate the lemma and morphological tags for the inflected verb: იყო	შეეხო	ყოფნა Ind;Sing;3;Past;Fin
+Given the context: 'რაც ცოლი მოუკვდა, საწყალი სულ ასე უთავბოლოდ დაბორიალობდა და ადგილს ვერ პოულობდა.'
+Generate the lemma and morphological tags for the inflected verb: მოუკვდა	მოკვდა	მოკვდომა Ind;Sing;3;3;Past;Fin
+Given the context: 'დროდადრო ჩემს ოთახში შემოეხეტებოდა, ჩლუნგ მზერას მომაპყრობდა, იდგებოდა ერთხანს მუნჯივით და ისევ გავიდოდა.'
+Generate the lemma and morphological tags for the inflected verb: შემოეხეტებოდა	შემოეხეტებოდა	შემოხეტება Cnd;Sing;3;Pres;Fin
+Given the context: 'მე უკვე მიჩვეული ვიყავი მის ახირებულ ხეტიალს ოთახიდან ოთახში და ყურადღება არ მიმიქცევია.'
+Generate the lemma and morphological tags for the inflected verb: მიჩვეული	მიჩვეული Ind;Sing;3;3;Pres;Fin	მიჩვეული Nom;Sing;Past;Part
+Given the context: 'სამაგიეროდ, რაკი ხილვა ისევ გაქრა, წიგნი მოვიჩოჩე და კითხვა განვაგრძე.'
+Generate the lemma and morphological tags for the inflected verb: გაქრა	განვაგრძევა Ind;Sing;3;3;Pres;Fin	გაქრობა Ind;Sing;3;Past;Fin
+Given the context: 'მაშინ იგი ახლო მოვიდა და ყურადღებით დააცქერდა ჩემს გაშლილ წიგნს.'
+Generate the lemma and morphological tags for the inflected verb: მოვიდა	მოვიდა	მოსვლა Ind;Sing;3;Past;Fin
+Given the context: 'ერთხანს უყურა.'
+Generate the lemma and morphological tags for the inflected verb: უყურა	ყურა Ind;Sing;3;3;Pres;Fin	ყურება Ind;Sing;3;3;Past;Fin
+Given the context: 'მერე ჯიბიდან ცხვირსახოცი ამოიღო, ჯერ ერთ თვალთან მიიტანა, მერე მეორესთან და ისევ ჯიბეში ჩაიდო.'
+Generate the lemma and morphological tags for the inflected verb: ამოიღო	მიიტანა Ind;Sing;3;3;Pres;Fin	ამოღება Ind;Sing;3;Past;Fin
+Given the context: 'ამას რომ მორჩა, ხელებიც ჯიბეებში ჩაიწყო და მძიმე, დარდიანი ნაბიჯით რამდენჯერმე გაიარ-გამოიარა ოთახში.'
+Generate the lemma and morphological tags for the inflected verb: მორჩა	მორჩა Ind;Sing;3;3;Pres;Fin	მორჩენა Ind;Sing;3;3;Past;Fin
+Given the context: 'დღესავით ნათელი იყო, რომ რაღაც ჰქონდა სათქმელი.'
+Generate the lemma and morphological tags for the inflected verb: სათქმელი	ქონა Ind;Sing;3;3;Pres;Fin	სათქმელი Nom;Sing;Fut;Part
+Given the context: 'ბოლოს ჩემს წინ შეჩერდა, ნერვიულად ჩაახველა და ცოტა უფრო ხმამაღლა თქვა, ვიდრე მოსალოდნელი იყო:'
+Generate the lemma and morphological tags for the inflected verb: შეჩერდა	შეჩერდა	შეჩერება Ind;Sing;3;Past;Fin
+Given the context: 'ამ სიტყვებზე ისევ ამოიღო ჯიბიდან ცხვირსახოცი, მაგრამ ამჯერად თვალების ნაცვლად ხელისგულები გაიწმინდა.'
+Generate the lemma and morphological tags for the inflected verb: ამოიღო	ამოიღო	ამოღება Ind;Sing;3;3;Past;Fin
+Given the context: 'რაკი საქმემ სერიოზული ხასიათი მიიღო, წიგნი გვერდზე მივწიე, თავი ავიღე და ვკითხე, რა უნდა გაგიგო-მეთქი.'
+Generate the lemma and morphological tags for the inflected verb: მიიღო	მიიღო	მიღება Ind;Sing;3;3;Past;Fin
+Given the context: 'მან ჩემს მზერას გააყოლა თვალი და მოპირდაპირე კედელზე დედოფალ ნეფერტიტის პორტრეტს მიაჩერდა.'
+Generate the lemma and morphological tags for the inflected verb: გააყოლა	გააყოლა Ind;Sing;3;3;Pres;Fin	გაყოლება Ind;Sing;3;3;3;Past;Fin
+Given the context: 'ახლო მივიდა და საფუძვლიანად დაუწყო თვალიერება.'
+Generate the lemma and morphological tags for the inflected verb: მივიდა	მივიდა	მისვლა Ind;Sing;3;Past;Fin
+Given the context: 'ხელიც კი მოიჩრდილა.'
+Generate the lemma and morphological tags for the inflected verb: მოიჩრდილა	მოჩრდილა Ind;Sing;3;3;Pres;Fin	მოჩრდილვა Ind;Sing;3;3;Past;Fin
+Given the context: 'უყურა, უყურა და თქვა: – ოთახი უნდა დამიცალო.'
+Generate the lemma and morphological tags for the inflected verb: უყურა	უყურა Ind;Sing;3;3;Past;Fin	ყურება Ind;Sing;3;3;Past;Fin
+Given the context: 'წამით სახტად დავრჩი.'
+Generate the lemma and morphological tags for the inflected verb: დავრჩი	დარჩევა Ind;Sing;3;3;Past;Fin	დარჩენა Ind;Sing;1;Past;Fin
+Given the context: 'რა ბზიკმა უკბინა-მეთქი, ვიფიქრე, რატომ მითხოვს?'
+Generate the lemma and morphological tags for the inflected verb: უკბინა	უკბინა Ind;Sing;3;3;Pres;Fin	კბენა Ind;Sing;3;3;Past;Fin
+Given the context: 'ჩემზე უკეთეს მდგმურს ვის იშოვის?'
+Generate the lemma and morphological tags for the inflected verb: იშოვის	შოვის	შოვნა Ind;Sing;3;3;Fut;Fin
+Given the context: 'მერე დავეჭვდი, იქნებ ჩემდაუნებურად რამე ვაწყენინე-მეთქი, და ვკითხე კიდეც: – ხომ არაფერი გაწყენინე, ვარდენ?'
+Generate the lemma and morphological tags for the inflected verb: დავეჭვდი	დაჭვდი Ind;Sing;3;3;Pres;Fin	დაეჭვება Ind;Sing;1;Past;Fin
+Given the context: 'ამაზე ახტა და დახტა.'
+Generate the lemma and morphological tags for the inflected verb: ახტა	ახტა Ind;Sing;3;3;Past;Fin	ახტომა Ind;Sing;3;Past;Fin
+Given the context: 'მხურვალედ და, ჩემი აზრით, სავსებით გულწრფელად დამიწყო მტკიცება, რომ ასეთი ეჭვი მოკლებულია ყოველგვარ საფუძველს.'
+Generate the lemma and morphological tags for the inflected verb: დამიწყო	დამიწყო	დაწყება Ind;Sing;Sing;1;3;3;Past;Fin
+Given the context: 'რას ამბობ, კაცო!'
+Generate the lemma and morphological tags for the inflected verb: ამბობ	ამბობ	თქმა Ind;Sing;3;2;Pres;Fin
+Given the context: 'ნეტა შენისთანა ბიჭები ბლომად იყვნენ ამ ქვეყანაზე.'
+Generate the lemma and morphological tags for the inflected verb: იყვნენ	ყვნენ	ყოფნა Sub;Plur;3;Past;Fin
+Given the context: 'ხომ არაფერი გაწყენინეო!'
+Generate the lemma and morphological tags for the inflected verb: გაწყენინე	გაწყენინეო	წყენინება Ind;Sing;Sing;2;3;1;Past;Fin;Cau
+Given the context: 'მაგ რამ გათქმევინა, შე კაცო, ღვიძლ ძმაში არ გამომერჩევი!'
+Generate the lemma and morphological tags for the inflected verb: გათქმევინა	გამომერჩევა Ind;Sing;3;3;Pres;Fin	თქმევინება Ind;Sing;Sing;2;3;3;Past;Fin;Cau
+Given the context: 'მერე, ცოტა რომ დამშვიდდა, ისევ ცხვირსახოცი მოიშველია და განაგრძო:'
+Generate the lemma and morphological tags for the inflected verb: დამშვიდდა	დამშვიდდა	დამშვიდება Ind;Sing;3;Past;Fin
+Given the context: 'ჩემი საწყალი ნინელი საფლავში იწვეს და მე ქვეყანაზე დავდიოდე!'
+Generate the lemma and morphological tags for the inflected verb: იწვეს	წვეს	წოლა Sub;Sing;3;Past;Fin
+Given the context: 'ან სადილ-ვახშამს ვინ გაგვიკეთებს, ან ვინ დაგვირეცხავს, ან ვინ მოგვივლის.'
+Generate the lemma and morphological tags for the inflected verb: გაგვიკეთებს	გაგვიკეთებს	გაკეთება Ind;Plur;Sing;1;3;3;Fut;Fin
+Given the context: 'მე და შენ სიბინძურეში ამოვიხრჩობით.'
+Generate the lemma and morphological tags for the inflected verb: ამოვიხრჩობით	ამოხრჩობით	ამოხრჩობა Ind;Plur;1;Fut;Fin
+Given the context: 'ქალს დავაყენებ ამ ოთახში.'
+Generate the lemma and morphological tags for the inflected verb: დავაყენებ	დაყენება Ind;Sing;3;3;Pres;Fin	დაყენება Ind;Sing;3;1;Fut;Fin
+Given the context: 'მოვძებნი ვინმე წყნარ, წესიერ სტუდენტ გოგოს.'
+Generate the lemma and morphological tags for the inflected verb: მოვძებნი	მოძებნი Ind;Sing;3;3;Pres;Fin	მოძებნა Ind;Sing;3;1;Fut;Fin
+Given the context: 'ვიცი, შენ გამიგებ.'
+Generate the lemma and morphological tags for the inflected verb: ვიცი	გამიგებ	ცოდნა Ind;Sing;3;1;Pres;Fin
+Given the context: 'მე მშვენივრად გავუგე.'
+Generate the lemma and morphological tags for the inflected verb: გავუგე	გავუგება Ind;Sing;3;3;Pres;Fin	გაგება Ind;Sing;3;3;1;Past;Fin
+Given the context: 'უკვე მთელი ორი თვე იყო, რაც ცოლი მოუკვდა.'
+Generate the lemma and morphological tags for the inflected verb: იყო	მოკვდა	ყოფნა Ind;Sing;3;Past;Fin
+Given the context: '– კი, ვარდენ, გაგიგე.'
+Generate the lemma and morphological tags for the inflected verb: გაგიგე	გაგიგება Ind;Sing;3;3;Pres;Fin	გაგება Ind;Sing;Sing;2;3;1;Past;Fin
+Given the context: 'მართლა არ ყოფილა სამართალი ამ ქვეყანაზე, თორემ, საცოდაობა არაა, საწყალი ნინელი საფლავში იწვეს და შენ ცოცხალი იყო?!'
+Generate the lemma and morphological tags for the inflected verb: ყოფილა	წვევა Ind;Sing;3;3;Pres;Fin	ყოფნა Ind;Sing;3;PastPerf;Fin
+Given the context: 'ვარდენმა მწყრალად შემომხედა.'
+Generate the lemma and morphological tags for the inflected verb: შემომხედა	შემომხედა Ind;Sing;3;3;Pres;Fin	შემოხედვა Ind;Sing;Sing;1;3;Past;Fin
+Given the context: '– მაგას რატომ მეუბნები, შე კაცო?'
+Generate the lemma and morphological tags for the inflected verb: მეუბნები	მეუბნება Ind;Sing;3;3;Pres;Fin	თქმა Ind;Sing;Sing;1;3;2;Pres;Fin
+Given the context: '– საწყენი გითხარი რამე?'
+Generate the lemma and morphological tags for the inflected verb: გითხარი	გითხარი Ind;Sing;3;3;Pres;Fin	თქმა Ind;Sing;Sing;2;3;1;Past;Fin
+Given the context: 'ცოცხლად ჩამდე საფლავში და საწყენი გითხარიო!'
+Generate the lemma and morphological tags for the inflected verb: ჩამდე	გითხარიო	ჩადება Ind;Sing;Sing;1;2;Past;Fin
+Given the context: '– ეს შენ თქვი, ვარდენ.'
+Generate the lemma and morphological tags for the inflected verb: თქვი	თქვა Ind;Sing;3;3;Pres;Fin	თქმა Imp;Sing;3;2;Fin
+Given the context: 'ვარდენმა არ დამიჯერა და ერთხანს კიდევ მიყურა დაეჭვებულმა თავისი მორჩილი, საწყალობელი თვალებით.'
+Generate the lemma and morphological tags for the inflected verb: დამიჯერა	დამიჯერა Ind;Sing;3;3;Pres;Fin	დაჯერება Ind;Sing;Sing;1;3;3;Past;Fin
+Given the context: 'ბოლოს მოლაპარაკება დასრულებულად ჩათვალა:'
+Generate the lemma and morphological tags for the inflected verb: ჩათვალა	ჩათვალა Ind;Sing;3;3;Pres;Fin	ჩათვლა Ind;Sing;3;3;Past;Fin
+Given the context: '– აბა, აღარ გაგაცდენ მე.'
+Generate the lemma and morphological tags for the inflected verb: გაგაცდენ	გაცდენა Ind;Sing;3;3;Pres;Fin	გაცდენა Ind;Sing;Sing;2;1;Fut;Fin
+Given the context: 'ესა თქვა და გასვლა დააპირა, მაგრამ კარს რომ მიაღწია, უცებ უკანვე მოტრიალდა, ხელი დედოფალ ნეფერტიტის სურათისკენ გაიშვირა და მკითხა:'
+Generate the lemma and morphological tags for the inflected verb: თქვა	მიაღწია Ind;Sing;3;3;Pres;Fin	თქმა Ind;Sing;3;3;Past;Fin
+Given the context: 'ვარდენმა უნდოდ შემომხედა.'
+Generate the lemma and morphological tags for the inflected verb: შემომხედა	შემომხედა Ind;Sing;3;3;Pres;Fin	შემოხედვა Ind;Sing;Sing;1;3;Past;Fin
+Given the context: 'აქ, ბატონებო, ერთი უჩვეულო გარემოებას მინდა მივაქციო თქვენი ყურადღება.'
+Generate the lemma and morphological tags for the inflected verb: მინდა	მინდა Ind;Sing;3;3;Pres;Fin	ნდომა Ind;Sing;3;1;Pres;Fin;Inv
+Given the context: 'ვლაპარაკობდი უჩვეულო ენით, უჩვეულო ტონით, უჩვეულო გატაცებით, თითქოს ეს მე კი არა, ვიღაც უცხო სულიერი ჩამისახლდა სხეულში და ის ლაპარაკობდა.'
+Generate the lemma and morphological tags for the inflected verb: ვლაპარაკობდი	ლაპარაკობდი	ლაპარაკი Ind;Sing;1;Imp;Fin
+Given the context: 'რა მემართებოდა, არ ვიცი:'
+Generate the lemma and morphological tags for the inflected verb: მემართებოდა	მემართებოდა	მართვა Ind;Sing;Sing;1;3;Imp;Fin
+Given the context: 'მკერდქვეშ მტკივნეულსა და საამო ღიტინს ვიგრძნობდი, მერე ნაწლავები გამიხურდებოდა და ამეწვებოდა.'
+Generate the lemma and morphological tags for the inflected verb: ვიგრძნობდი	გრძნობდი Ind;Sing;3;3;Pres;Fin	გრძნობა Cnd;Sing;3;1;Pres;Fin
+Given the context: 'და იმავ წამს სადღაც სხეულის ღრმა ფენებიდან რაღაც დაიძრებოდა.'
+Generate the lemma and morphological tags for the inflected verb: დაიძრებოდა	დაძრებოდა	დაძვრა Cnd;Sing;3;Pres;Fin
+Given the context: 'დაიძრებოდა მძლავრად, როგორც ზღვის მოქცევა, წამოვიდოდა ზევით და მკერდსა და ყელში მომებჯინებოდა.'
+Generate the lemma and morphological tags for the inflected verb: დაიძრებოდა	დაიძრებოდა	დაძვრა Cnd;Sing;3;Pres;Fin
+Given the context: 'და მე ვლაპარაკობდი.'
+Generate the lemma and morphological tags for the inflected verb: ვლაპარაკობდი	ლაპარაკობდი	ლაპარაკი Ind;Sing;1;Imp;Fin
+Given the context: 'და გულწრფელად მჯეროდა ყველაფერი, რასაც ვლაპარაკობდი.'
+Generate the lemma and morphological tags for the inflected verb: მჯეროდა	მჯეროდა	ჯერება Ind;Sing;Sing;1;3;Imp;Fin
+Given the context: 'რას მოვაყოლე ეს ამბავი?'
+Generate the lemma and morphological tags for the inflected verb: მოვაყოლე	მოვაყოლე Ind;Sing;3;3;Pres;Fin	მოყოლა Ind;Sing;3;3;1;Past;Fin
+Given the context: 'მაშინ მომივიდა ერთი შეტევა.'
+Generate the lemma and morphological tags for the inflected verb: მომივიდა	მომივიდა	მოსვლა Ind;Sing;Sing;1;3;Past;Fin
+Given the context: 'სწორედ იმ დროს, როცა ვარდენ მექვაბიშვილმა დედოფალ ნეფერტიტის ცისკრის ვარსკვლავობა არ დაიჯერა და უნდოდ მომაპყრო ჩლუნგი, მწუხარე მზერა.'
+Generate the lemma and morphological tags for the inflected verb: დაიჯერა	დაჯერა Ind;Sing;3;3;Pres;Fin	დაჯერება Ind;Sing;3;3;Past;Fin
+Given the context: 'მკერდქვეშ მტკივნეული და საამო ღიტინი ვიგრძენი, ნაწლავები გამიხურდა და ამეწვა, სხეულის ღრმა ფენებიდან ზღვის მოქცევა დაიძრა და მკერდსა და ყელში მომებჯინა.'
+Generate the lemma and morphological tags for the inflected verb: ვიგრძენი	გამიხურდა	გრძნობა Ind;Sing;3;1;Past;Fin
+Given the context: 'წიგნი დავხურე და წამოვდექი.'
+Generate the lemma and morphological tags for the inflected verb: დავხურე	დახურე Ind;Sing;3;3;Past;Fin	დახურვა Ind;Sing;3;1;Past;Fin
+Given the context: '– ჩვენ ილუზიურ სამყაროში ვცხოვრობთ, ჩემო ვარდენ.'
+Generate the lemma and morphological tags for the inflected verb: ვცხოვრობთ	ცხოვრობა Ind;Sing;3;3;Pres;Fin	ცხოვრება Ind;Plur;1;Pres;Fin
+Given the context: 'ჩვენ კი ოცნებას ცხვირსახოცად ვხმარობთ:'
+Generate the lemma and morphological tags for the inflected verb: ვხმარობთ	ხმარობა Ind;Sing;3;3;Pres;Fin	ხმარება Ind;Plur;3;1;Pres;Fin
+Given the context: 'ამოვიღებთ ჯიბიდან და მჭახე ოფლს ვიწმენდთ.'
+Generate the lemma and morphological tags for the inflected verb: ამოვიღებთ	ამოვიღებთ	ამოღება Ind;Plur;3;1;Fut;Fin
+Given the context: 'ჰაერი ოფლისა და ელექტრონის სუნით გაიჟღინთა.'
+Generate the lemma and morphological tags for the inflected verb: გაიჟღინთა	გაიჟღინთა	გაჟღენთა Ind;Sing;3;Past;Fin
+Given the context: 'ადამიანი მანქანებისა და მჭახე ოფლის ანაბარა დარჩა.'
+Generate the lemma and morphological tags for the inflected verb: დარჩა	დარჩა Ind;Sing;3;3;Pres;Fin	დარჩენა Ind;Sing;3;Past;Fin
+Given the context: 'ნინელი მოკვდა, რათა ღმერთივით გაქცეოდა მჭახე ცხოვრებას, და შენ სიბინძურეში ამოიხრჩობი არა იმის გამო, რომ მომხედავი და სახლის დამლაგებელი არავინ გეყოლება, არამედ იმის გამო, რომ ნინელი მოგიკვდა, როგორც ოცნება, რომლითაც იატაკს გვიდი და ლოგინს ბერტყავდი.'
+Generate the lemma and morphological tags for the inflected verb: მოკვდა	მოკვდა Ind;Sing;3;3;Pres;Fin	მოკვდომა Ind;Sing;3;Past;Fin
+Given the context: '– აქ რატომღაც გამეცინა.'
+Generate the lemma and morphological tags for the inflected verb: გამეცინა	გამეცინა Ind;Sing;3;3;Pres;Fin	გაცინება Ind;Sing;3;1;Past;Fin;Inv
+Given the context: 'არ ვიცი, იქნებ ჩემდაუნებურად ვარდენ მექვაბიშვილის სახის გამომეტყველებას მივაქციე ყურადღება.'
+Generate the lemma and morphological tags for the inflected verb: ვიცი	მიციება Ind;Sing;3;3;Pres;Fin	ცოდნა Ind;Sing;3;1;Pres;Fin
+Given the context: 'მერე განვაგრძე, – ოცნება ჩვენს უკან დარჩა ანთებული პროჟექტორივით.'
+Generate the lemma and morphological tags for the inflected verb: განვაგრძე	განვაგრძე	განგრძობა Ind;Sing;3;1;Past;Fin
+Given the context: 'მაგრამ ჩვენი მოასფალტებული და კრიალა ქუჩები პროჟექტორის შუქს ბეჯითად ირეკლავენ და უკანვე აბრუნებენ.'
+Generate the lemma and morphological tags for the inflected verb: ირეკლავენ	რეკლავენ	რეკვლა Ind;Plur;3;3;Pres;Fin
+Given the context: 'ხედავ, შუბლზე ნათელი რომ ადგას?'
+Generate the lemma and morphological tags for the inflected verb: ხედავ	ხედავ	ხედვა Ind;Sing;3;2;Pres;Fin
+Given the context: 'მე შეჩერებას არ ვაპირებდი და არც პასუხს მოვითხოვდი, მაგრამ სახლის პატრონმა დამასწრო და უიმედოდ ამოილუღლუღა: – აბა ნათელი?'
+Generate the lemma and morphological tags for the inflected verb: ვაპირებდი	მოპირებდი	დაპირება Ind;Sing;3;1;Imp;Fin
+Given the context: 'რა თქმა უნდა, ის ნათელს ვერ ხედავდა.'
+Generate the lemma and morphological tags for the inflected verb: ხედავდა	ხედავდა	ხედვა Ind;Sing;3;3;Imp;Fin
+Given the context: 'მაგრამ მე ვხედავდი.'
+Generate the lemma and morphological tags for the inflected verb: ვხედავდი	ხედავდი	ხედვა Ind;Sing;3;1;Imp;Fin
+Given the context: '– შენ თვალებზე ოფლი გაქვს გადაკრული.'
+Generate the lemma and morphological tags for the inflected verb: გადაკრული	გაქვს	გადაკრული Nom;Sing;Past;Part
+Given the context: 'ერთი შეხედვით ყვავილწნულის გვირგვინი გეგონება.'
+Generate the lemma and morphological tags for the inflected verb: გეგონება	გეგონება Ind;Sing;3;3;Pres;Fin	გონება Ind;Sing;3;2;Fut;Fin;Inv
+Given the context: 'მოიწვია მთელი თავისი ნაზირ-ვეზირები და ერთად დაიწყეს ფიქრი იმაზე, თუ რისგან დაეწნათ გვირგვინი.'
+Generate the lemma and morphological tags for the inflected verb: მოიწვია	მოწვია Ind;Sing;3;3;Pres;Fin	მოწვევა Ind;Sing;3;3;Past;Fin
+Given the context: 'ბოლოს მოვიდა ღმერთი ცეცხლისმფრქვეველი ღიმილით და თქვა, გვირგვინი ეპითეტებისაგან გააკეთეთო.'
+Generate the lemma and morphological tags for the inflected verb: მოვიდა	მოვიდა	მოსვლა Ind;Sing;3;Past;Fin
+Given the context: 'სასწრაფოდ დაგზავნეს ხალხი ქვეყნიერების ყველა კუთხეში, მოაგროვეს, რაც კი ენაში საუკეთესო ეპითეტი იყო, და ღმერთმა საკუთარი ხელით დაწნა გვირგვინი.'
+Generate the lemma and morphological tags for the inflected verb: დაგზავნეს	დაგზავნეს	დაგზავნა Ind;Plur;3;3;Past;Fin
+Given the context: 'და დღეს ჩვენი ეპითეტები, რომლებითაც გულუხვად ვამკობთ ერთმანეთს, დაშრეტილ წყაროს ჰგავს, რადგან ყველაფერი, რაც კი მასში მყარი და სურნელოვანი იყო, იმ გვირგვინს მოხმარდა.'
+Generate the lemma and morphological tags for the inflected verb: ვამკობთ	მოხმარება Ind;Sing;3;3;Pres;Fin	შემკობა Ind;Plur;3;1;Pres;Fin
+Given the context: 'შეხედე ამ ქალს, ვარდენ.'
+Generate the lemma and morphological tags for the inflected verb: შეხედე	შეხედება Ind;Sing;3;3;Pres;Fin	შეხედვა Imp;Sing;3;2;Fin
+Given the context: 'ჩამოირეცხე თვალებიდან ოფლი და შეხედე.'
+Generate the lemma and morphological tags for the inflected verb: ჩამოირეცხე	ჩამორეცხე Ind;Sing;3;3;Pres;Fin	ჩამორეცხვა Imp;Sing;3;2;Fin
+Given the context: 'ეს ქალი რომ დაიბადა, იმ დროს დედამიწაზე ჯერ კიდევ იყვნენ ღმერთები.'
+Generate the lemma and morphological tags for the inflected verb: დაიბადა	დაბადა	დაბადება Ind;Sing;3;Past;Fin
+Given the context: 'ღმერთები ნათელი ნაბიჯით მიმოდიოდნენ დედამიწაზე და სიწმინდე და უწმინდურობა მკვეთრად იყო გამიჯნული ერთმანეთისგან.'
+Generate the lemma and morphological tags for the inflected verb: მიმოდიოდნენ	მიმოდიოდნენ	მიმოსვლა Ind;Plur;3;Imp;Fin
+Given the context: 'ღმერთები უაღრესად ლმობიერები იყვნენ და ძალიან უბრალოდ ეჭირათ თავი.'
+Generate the lemma and morphological tags for the inflected verb: ეჭირათ	ჭირათ Ind;Sing;3;3;Pres;Fin	ჭერა Ind;Plur;3;3;Past;Fin;Inv
+Given the context: 'თბილი, ელვარე ღიმილით იღიმებოდნენ და დროდადრო, როდესაც გულზე სანტიმენტალური სევდა შემოაწვებოდათ, თავიანთ ღვთაებრივ ხელს ჭუჭყიან თავზე უსვამდნენ ადამიანს.'
+Generate the lemma and morphological tags for the inflected verb: იღიმებოდნენ	ღიმილი Nom;Sing;3;3;Pres;Fin	გაღიმება Ind;Plur;3;Imp;Fin
+Given the context: 'მაშინ ღმერთებს ჯერ კიდევ უყვარდათ ადამიანი და არ გაურბოდნენ მას.'
+Generate the lemma and morphological tags for the inflected verb: უყვარდათ	უყვარდათ	სიყვარული Ind;Plur;3;3;Imp;Fin;Inv
+Given the context: 'და ეს ქალი, ვარდენ, ისევე როგორც მოგვიანებით იესო ქრისტე, გაჩნდა უკეთილშობილესი ღმერთისა და ულამაზესი ქალის კავშირის შედეგად.'
+Generate the lemma and morphological tags for the inflected verb: გაჩნდა	გაჩნდა	გაჩენა Ind;Sing;3;Past;Fin
+Given the context: 'და ამიტომ არა გაქვს შენ უფლება უყურებდე მას შენი ოფლიანი და მჭახე თვალებით და ფიქრობდე იმაზე, თუ რა უბედური ხარ, რომ შენი ნინელი ცოცხალი აღარა გყავს.'
+Generate the lemma and morphological tags for the inflected verb: გაქვს	გაქვს	ქონა Ind;Sing;3;2;Pres;Fin;Inv
+Given the context: 'სახლის პატრონი პირდაღებული იდგა და ისეთი სახით მიყურებდა, თითქოს ვერ გადაეწყვიტა, უკვე დროა გაქცევით უშველოს თავს, თუ ჯერ კიდევ არის იმის იმედი, რომ ყველაფერი მშვიდობიანად ჩაივლის.'
+Generate the lemma and morphological tags for the inflected verb: იდგა	დგა Ind;Sing;3;3;Pres;Fin	დგომა Ind;Sing;3;Past;Fin
+Given the context: 'ამასობაში მეც გამოვერკვიე, ყველა გაწყვეტილი კავშირი აღდგა, სხეულიდან განდევნილი სამყარო ისევ შეძვრა სხეულში, როგორც ქურქში, ირგვლივ ყველაფერი დალაგდა და გახურებულ შუბლზე მსხვილ წვეთებად დამასხა ოფლმა.'
+Generate the lemma and morphological tags for the inflected verb: გამოვერკვიე	დამასხა Ind;Sing;3;3;Pres;Fin	გამორკვევა Ind;Sing;1;Past;Fin
+Given the context: 'ერთი სიტყვით, იმ დღეს ვარდენ მექვაბიშვილმა დაძლია თანდაყოლილი სიმორცხვე და თავისი გადაწყვეტილება გამომიცხადა.'
+Generate the lemma and morphological tags for the inflected verb: დაძლია	გამომიცხადა	დაძლევა Ind;Sing;3;3;3;Past;Fin
+Given the context: 'და თუ აქამდე ცოტა მაინც ქენჯნიდა სინდისი იმის გამო, რომ უმიზეზოდ დამითხოვა, ჩემმა მონოლოგმა საბოლოოდ დაარწმუნა თავისი გადაწყვეტილების სისწორეში.'
+Generate the lemma and morphological tags for the inflected verb: ქენჯნიდა	დამითხოვა Ind;Sing;3;3;Pres;Fin	ქენჯნა Ind;Sing;3;3;Imp;Fin
+Given the context: 'მე სხვა ოთახის ძებნას შევუდექი და კვირის თავზე ვიშოვე კიდეც.'
+Generate the lemma and morphological tags for the inflected verb: შევუდექი	შედექა Ind;Sing;3;3;Past;Fin	შედგომა Ind;Sing;3;1;Past;Fin
+Given the context: 'მეორე ცოცხიანმა ქალმა თავი დაუქნია, კი, ძველი მდგმური ამ ერთი კვირის წინ გაისტუმრაო, მერე მე მომიბრუნდა და დაუმატა, ზემოთ მიბრძანდით, მეორე სართულზეო.'
+Generate the lemma and morphological tags for the inflected verb: დაუქნია	დაუმატა	დაქნევა Ind;Sing;3;3;3;Past;Fin
+Given the context: 'მე კიბეს ავუყევი.'
+Generate the lemma and morphological tags for the inflected verb: ავუყევი	ავუყევი Ind;Sing;3;3;Pres;Fin	აყოლა Ind;Sing;3;1;Past;Fin
+Given the context: 'ცოცხიანმა ქალებმა ცნობისმოყვარე მზერა დამადევნეს.'
+Generate the lemma and morphological tags for the inflected verb: დამადევნეს	დამადევნეს	დადევნება Ind;Sing;Plur;1;3;3;Past;Fin
+Given the context: 'ქალბატონი მარიამი მოხუცი დედაკაცი გამოდგა.'
+Generate the lemma and morphological tags for the inflected verb: გამოდგა	გამოდგა	გამოდგომა Ind;Sing;3;Past;Fin
+Given the context: 'დიდი, მოკაუჭებული ცხვირი ჰქონდა და პატარა, ღრმად ჩამსხდარი თვალები.'
+Generate the lemma and morphological tags for the inflected verb: ჰქონდა	ქონდა Ind;Sing;3;3;Pres;Fin	ქონა Ind;Sing;3;3;Imp;Fin;Inv
+Given the context: 'კიო, მითხრა ქალბატონმა მარიამმა და თავით ფეხებამდე შემათვალიერა, მაქვს ოთახი, თუკი მოგეწონებაო.'
+Generate the lemma and morphological tags for the inflected verb: მითხრა	მითხრა Ind;Sing;3;3;Pres;Fin	თქმა Ind;Sing;Sing;1;3;3;Past;Fin
+Given the context: 'ამ სიტყვებით სველი ხელები წინსაფარზე შეიმშრალა და წინ გამიძღვა.'
+Generate the lemma and morphological tags for the inflected verb: შეიმშრალა	შემშრალა Ind;Sing;3;3;Pres;Fin	შემშრალება Ind;Sing;3;3;Past;Fin
+Given the context: 'სამზარეულო გავიარეთ და სულ განაპირა მხარეს მივადექით ჩემს მომავალ ოთახს.'
+Generate the lemma and morphological tags for the inflected verb: გავიარეთ	გავიარეთ	გავლა Ind;Plur;3;1;Past;Fin
+Given the context: 'დიასახლისმა კარი შეაღო და შემიპატიჟა.'
+Generate the lemma and morphological tags for the inflected verb: შეაღო	შეაღო	შეღება Ind;Sing;3;3;Past;Fin
+Given the context: 'პირველი სიტყვა, რომელმაც ამ ოთახში შესვლისას თავში გამიელვა, იყო „ სამარე ”, თუმცა შემდეგ, როცა აქაურობას შევეჩვიე, ასეთი შეფასება ცოტა გადაჭარბებული მომეჩვენა.'
+Generate the lemma and morphological tags for the inflected verb: შესვლისას	შეჩვენა Ind;Sing;3;3;Pres;Fin	შესვლა Vnoun
+Given the context: 'მე და ქალბატონმა მარიამმა ერთხანს კიდევ ვიბაასეთ სკამების, მაგიდისა და სხვა წვრილმანი საკითხების თაობაზე, მერე ბედ ათი მანეთი დავუტოვე და ვუთხარი, საღამოს გადმოვბარგდები-მეთქი.'
+Generate the lemma and morphological tags for the inflected verb: ვიბაასეთ	დაბარგდება Ind;Sing;3;3;Pres;Fin	ბაასი Ind;Plur;1;Past;Fin
+Given the context: 'ქალბატონმა მარიამმა ბე დაუდევრად მიაგდო სამზარეულოს მაგიდაზე და ღიმილით გამაცილა კარამდე.'
+Generate the lemma and morphological tags for the inflected verb: მიაგდო	მიაგდო	მიგდება Ind;Sing;3;3;Past;Fin
+Given the context: 'უნდა მოგახსენოთ, ფრიად უსიამოვნო ღიმილი ჰქონდა, თითქოს მე კი არ მიღიმოდა, არამედ რაღაც ნაკლი მიპოვა და იმაზე ეღიმებოდა.'
+Generate the lemma and morphological tags for the inflected verb: მოგახსენოთ	მიღიმოდა	მოხსენება Sub;Plur;Sing;2;3;1;Past;Fin
+Given the context: 'სხვა მხრივ რიგიანი ქალი ჩანდა.'
+Generate the lemma and morphological tags for the inflected verb: ჩანდა	ჩანდა	ჩენა Ind;Sing;3;Imp;Fin
+Given the context: 'სამსახურის შემდეგ ჩემს ძველ ბუნაგს მივაშურე და ბარგის ჩალაგებას შევუდექი.'
+Generate the lemma and morphological tags for the inflected verb: მივაშურე	მივაშურე Ind;Sing;3;3;Pres;Fin	მიშურება Ind;Sing;3;1;Past;Fin
+Given the context: 'მთელი ჩემი ავლადიდება ჩემოდანში ეწყო, ლოგინიღა მქონდა შესაკრავი.'
+Generate the lemma and morphological tags for the inflected verb: ეწყო	წყობა Ind;Sing;3;3;Pres;Fin	წყობა Ind;Sing;3;Past;Fin
+Given the context: 'მეც ლოგინის შეკვრას მივყავი ხელი:'
+Generate the lemma and morphological tags for the inflected verb: მივყავი	მიყავა Ind;Sing;3;3;Pres;Fin	მიყოფა Ind;Sing;3;3;1;Past;Fin
+Given the context: 'არაფერი მავიწყდებოდა.'
+Generate the lemma and morphological tags for the inflected verb: მავიწყდებოდა	მავიწყდებოდა	ვიწყება Ind;Sing;3;1;Imp;Fin;Inv
+Given the context: 'ის იყო გავიფიქრე, ბარემ გავალ და სახლის პატრონს გამოვემშვიდობები-მეთქი, რომ ვარდენ მექვაბიშვილი თვითონ შემოვიდა.'
+Generate the lemma and morphological tags for the inflected verb: იყო	შემოვიდა	ყოფნა Ind;Sing;3;Past;Fin
+Given the context: 'შემოვიდა დაუკაკუნებლად, წყნარად.'
+Generate the lemma and morphological tags for the inflected verb: შემოვიდა	შემოვიდა	შემოსვლა Ind;Sing;3;Past;Fin
+Given the context: 'კართან შეჩერდა, ოთახი შეათვალიერა და ნაღვლიანი კილოთი მკითხა:'
+Generate the lemma and morphological tags for the inflected verb: შეჩერდა	შეჩერდა	შეჩერება Ind;Sing;3;Past;Fin
+Given the context: '– მიდიხარ უკვე?'
+Generate the lemma and morphological tags for the inflected verb: მიდიხარ	მიდიხარ	მისვლა Ind;Sing;2;Pres;Fin
+Given the context: '– მივდივარ.'
+Generate the lemma and morphological tags for the inflected verb: მივდივარ	მიდივარ	მისვლა Ind;Sing;1;Pres;Fin
+Given the context: '– ძალიან კი დამაკლდები თვალში.'
+Generate the lemma and morphological tags for the inflected verb: დამაკლდები	დამაკლდება Ind;Sing;3;3;Pres;Fin	დაკლება Ind;Sing;Sing;1;2;Fut;Fin
+Given the context: 'მაგ დანაკლისს სხვა შეგივსებს.'
+Generate the lemma and morphological tags for the inflected verb: შეგივსებს	შეგივსებს	შევსება Ind;Sing;Sing;2;3;3;Fut;Fin
+Given the context: '– მე არც მიცდია დამეფარა, რომ მისი გაუბედავი, თუმცა სრულიად ბუნებრივი და ადამიანური გადაწყვეტილების ნამდვილი აზრი ჩემთვის არავითარ საიდუმლოს არ წარმოადგენდა.'
+Generate the lemma and morphological tags for the inflected verb: მიცდია	წარმოადგენდა	ცდა Ind;Sing;3;1;PastPerf;Fin
+Given the context: 'ასე რატომ მელაპარაკები, შე კაცო?'
+Generate the lemma and morphological tags for the inflected verb: მელაპარაკები	მელაპარაკება Ind;Sing;3;3;Pres;Fin	ლაპარაკი Ind;Sing;Sing;1;2;Pres;Fin
+Given the context: '– ისე, შენს ადგილას რომ ვიყო, ცოლის საფლავზე ხანდახან ყვავილებს მივიტანდი.'
+Generate the lemma and morphological tags for the inflected verb: ვიყო	მიტანდი	ყოფნა Sub;Sing;1;Past;Fin
+Given the context: '– ოჰ, აბა, რას ვიზამ!'
+Generate the lemma and morphological tags for the inflected verb: ვიზამ	ვიზამ	ქმნა Ind;Sing;3;1;Fut;Fin
+Given the context: '– მაშინ ყველაფერი რიგზე ყოფილა.'
+Generate the lemma and morphological tags for the inflected verb: ყოფილა	ყოფილა Ind;Sing;3;3;Pres;Fin	ყოფნა Ind;Sing;3;PastPerf;Fin
+
+Inverse Task Evaluation (Lemma/MSD):
+  Lemma accuracy: 0.0607 (45/741)
+  Lemma mean Levenshtein distance: 3.1876
+  MSD accuracy (exact set match): 0.0567 (42/741)
+  MSD micro-precision: 0.7667  micro-recall: 0.3559  micro-F1: 0.4861
+  Example Mismatches (prediction | gold):
+    გატარე Ind;Sing;3;3;Pres;Fin | გატარება Ind;Sing;3;1;Past;Fin
+    ერტყა Ind;Sing;3;3;Pres;Fin | რტყმა Ind;Sing;3;3;Past;Fin
+    ჭირა Ind;Sing;3;3;Pres;Fin | ჭერა Ind;Sing;3;3;Past;Fin;Inv
+    უმსახურია Ind;Sing;3;3;Pres;Fin | მსახურება Ind;Sing;3;3;PastPerf;Fin
+    გადამდგარა Ind;Sing;3;3;Pres;Fin | გადადგომა Ind;Sing;3;PastPerf;Fin

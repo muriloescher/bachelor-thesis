@@ -4,10 +4,11 @@
   "language": "kat",
   "metrics": {
     "test": {
-      "accuracy": 0.045,
-      "correct": 45,
+      "accuracy": 0.842,
+      "mean_levenshtein": 0.43,
+      "correct": 842,
       "total": 1000
     }
   },
-  "timestamp": "2026-02-11T15:01:14.758849"
+  "timestamp": "2026-02-17T22:22:53.863759"
 }

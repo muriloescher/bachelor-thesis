@@ -1,0 +1,111 @@
+form: ዝጋ | context: መስኮቱን ዝጋ !	ዝጋ Ind;Fin	ዝጋ Jus;Fin
+form: ደንስ | context: እንደማን ነው የምትደንሰው ?	ደንስ Ind;Fin;3S;PST;Q	ደንስ Ind;Fin
+form: ኣለ | context: አለና መለሰለት ።	አለ Ind;Fin	ኣለ Ind;Fin
+form: አስመለስ | context: ገንዘቡን አስመለሰ ።	መለስ Ind;Fin	አስመለስ Ind;Fin;Cau
+form: ወደድ | context: ወደድክም ጠላህም እሷ እንደሆን መምጣቷ አይቅርም ።	ወደድ Ind;Fin;3M;P;P;P	ወደድ Ind;Fin
+form: አስያዝ | context: መጽሐፉን አስያዘኝ ።	አዝ Ind;Fin	አስያዝ Ind;Fin;Cau
+form: ብል | context: ጽጌረዳው እንደ ማበብ ብሎ ጠወለገ ።	ብል Ind;Fin	ብል Ind;Fin
+form: ሞት | context: አባቴ የሞተው በድንገት ነው ።	ሞት Ind;Pst;3M;Sing	ሞት Ind;Fin
+form: ሄድ | context: በሄደበት ሁሉ ልጆቹን ይዞ ይሄዳል ።	ሄድ Ind;Fin	ሄድ Ind;Fin
+form: ብል | context: ወገቤን ቀስ ብለሽ እሺልኝ ።	ብል Ind;Fin;3S;PST	ብል Ind;Fin
+form: አስወሰድ | context: መኪናውን አስወሰደ ።	ወሰድ Ind;Fin;3S;PST	አስወሰድ Ind;Fin;Cau
+form: አይት | context: ወጣት ብሆንም ብዙ አይቻለሁ ።	ወጣት Ind;Fin;Neg;3Sg	አይት Ind;Fin
+form: ግደል | context: አትግደለኝ ብሎ ቢለምነው ማረው ።	ግደል Ind;Fin;Neg;1S;Subj	ግደል Ind;Fin
+form: ተሰረቅ | context: ሻንጣዬን ተሰረቅሁ ።	ሰረቅ Ind;Fin;3S;Subj	ተሰረቅ Ind;Fin;Pass
+form: ምጣ | context: ልጁ ይምጣ አይምጣ አላውቅም ።	ምጣ Ind;Fin	ምጣ Ind;Fin
+form: ምጣ | context: መቼም ይምጣ መች እራቱን ሳይበላ አይተኛ ።	ምጣ Ind;Fin;3S;Pres	ምጣ Ind;Fin
+form: ሄድ | context: ሜዳ ሜዳውን ሄደ ።	ሄድ Ind;Pst;3S;Sg	ሄድ Ind;Fin
+form: መኖር | context: የህግ አለመኖር ህዝቡን በጅምላ አጫረሰ ።	መኖር Ind;Fin;Neg;3S;Subj	መኖር Vnoun
+form: ዘንብ | context: ነገ ይዘንባል ? ባልዘነበ ።	ዘንብ Ind;Fin;3S;Fut;Neg	ዘንብ Ind;Fin
+form: ሂድ | context: ሂዳ !	ሂድ Ind;Fin	ሂድ Ind;Fin
+form: ተሻል | context: ከጥቂት ልምምድ በኋላ የተሻለ አድርገው ሠሩት ።	ሻል Ind;Fin	ተሻል Ind;Fin;Pass
+form: ሆን | context: ነገሩ የሆነው ከስንት ጊዜ በፊት ነበር ?	ሆን Ind;Pst;3Sg;Subj	ሆን Ind;Fin
+form: ዘንብ | context: ዝናብ ዘንቦ መሬቱ ረጥቦ ነበር ።	ዘንብ Ind;Pst;3Sg;Subj	ዘንብ Conv
+form: አስሸከም | context: እህሉን አስሸከመ ።	ሸከም Ind;Fin	አስሸከም Ind;Fin;Cau
+form: ቅርብ | context: አልማዝ ወደፊት ቅርብ አለች ።	ቅርብ Ind;Fin	ቅርብ Ind;Fin
+form: አስጠበቅ | context: ቤቱን አስጠበቀ ።	ጠበቅ Ind;Fin;3S;PST	አስጠበቅ Ind;Fin;Cau
+form: ተሽቀዳደም | context: ተሽቀዳደሙ ።	ሽቀደም<tab>Ind;Fin 	ተሽቀዳደም Ind;Fin;Pass
+form: መጣ | context: ወደ መጣበት አገር ይመለስ ።	መጣ Ind;Fin;3Sg;Pst	መጣ Ind;Fin
+form: ሰርቅ | context: እኔን ይሰርቃል ብሎ መጠርጠር ቀልድ ነው ።	ሰርቅ Ind;Fin;3S;Fut	ሰርቅ Ind;Fin
+form: ገዛ | context: ብርም ሆነ ወርቅ ሊገዛው አይችልም ።	ገዛ Ind;Fin	ገዛ Ind;Fin
+form: መርጥ | context: የትኛውንም ብትመርጥ እገዛዋለሁ ።	መርጥ Ind;Fin;3S;PST	መርጥ Ind;Fin
+form: ጠላ | context: የምጠላው ጠላ መጠጣቷን ነው ።	ጠላ Ind;Fin;3Sg;Pst	ጠላ Ind;Fin
+form: ኣንስት | context: አንስታው ሄደች ።	አንስት Ind;Fin;Fem;3S	ኣንስት Ind;Fin
+form: መጣ | context: ካሳ መጣ እንዴ ?	መጣ Ind;Fin;3S;PST	መጣ Ind;Fin
+form: ተበላሽ | context: ምግቡ ተበላሸ ።	በላሽ Ind;Fin	ተበላሽ Ind;Fin
+form: ተጠም | context: ተጠማች ።	ጠም Ind;Fin;3S;Past	ተጠም Ind;Fin;Pass
+form: ላላክ | context: ጧዋቱን በሙሉ ስላላክ ነበር ።	ላላክ Ind;Fin	ላላክ Ind;Fin
+form: ሰር | context: አስቴር ለልጁ ምግቡን ሰራችለት ።	ሰር Ind;Fin	ሰር Ind;Fin
+form: ችል | context: አማርኛ ቢችል በተሻለ ነበር ።	ችል<tab>Ind;Fin 	ችል Ind;Fin
+form: በልት | context: ምሳውን በልቶ ይሄዳል ።	በል Ind;Fin;3S;Pres	በልት Ind;Fin
+form: ተቀምጥ | context: ተቀምጠን እንሠራለን ።	ቀምጥ Ind;Fin;3Sg;Pst	ተቀምጥ Ind;Fin;Pass
+form: ሌል | context: ትምህርት በሌለበት ጧት ተነስታ የት ሄደች ?	ሌለ Ind;Fin;3Sg;Pst	ሌል Ind;Fin
+form: ሰጥ | context: አስተማሪው ለተማሪዎች መፅሀፍ ሰጣቸው ።	ሰጥ Ind;3M;Pst;3M;S	ሰጥ Ind;Fin
+form: ብል | context: ሰነፍ ነህ ብለህ ልትወቅሰኝ አትችልም ።	ብል Ind;Fin	ብል Ind;Fin
+form: አግዝ | context: ከሰዓት በኋላ አግዝሻለሁ ብሏል በላት ።	አግዝ Ind;Fin	አግዝ Ind;Fin
+form: አስወረወር | context: አልማዝ ላይ ድንጋይ አስወረወሩባት ።	ወረወር Ind;3p;Pst;Neg;Fin	አስወረወር Ind;Fin;Cau
+form: ተበደር | context: የተበደርኩትን ገንዘብ መቼ ሳልከፍል ቀርቻለሁ ?	በደር Ind;Pst;3Sg;Subj;Neg	ተበደር Ind;Fin;Pass
+form: በላ | context: ይበላልም ይጠጣልም ።	በላ Ind;Fin	በላ Ind;Fin
+form: ወድ | context: የምወደው ሥራ መሥራትን ነው ።	ወድ Ind;Fin;3S;Pst	ወድ Ind;Fin
+form: ፈልግ | context: ወደ አዲስ አበባ ለመሄድ ፈልጌ ነበር ።	ፈልግ Ind;Pst;3Sg;Subj	ፈልግ Ind;Fin
+form: ኣስበላ | context: ጥርሴ ቆሎ አያስበላኝም ።	ኣስበ Ind;Fin;3S;PST	ኣስበላ Ind;Fin;Cau
+form: ጨልም | context: ሳይጨልም ብትመለስ ይሻላል ፤ አለዚያ ትጠፋለህ ።	ጨልም Ind;Fin	ጨልም Ind;Fin
+form: ሠራ | context: እሱም እኔም ልንሠራው አንችልም ።	ሠራ Ind;Fin	ሠራ Ind;Fin
+form: ተሰረቅ | context: እቃው ተሰረቀበት ።	ሰረቅ Ind;Pst;3M;Sing	ተሰረቅ Ind;Fin;Pass
+form: መጣ | context: አስቴር የመጣችው ከየት ነው ?	መጣ Ind;Fin;3S;PST	መጣ Ind;Fin
+form: መጣ | context: የመጣሁት በዚያ መንገድ ነው ።	መጣ Ind;Pst;3ms;Subj	መጣ Ind;Fin
+form: መስል | context: ካሳ ጎበዝ ይመስላል ።	መስል Ind;Fin;3S;Fut	መስል Ind;Fin
+form: ሆነ | context: በሽርሽር ላይ ሆነን ቢዘንብስ ?	ሆነ Ind;Fin;Neg	ሆነ Ind;Fin
+form: ሆን | context: አንደኛ ሆነች ።	ሆን Ind;3Sg;Pst;Neg	ሆን Ind;Fin
+form: ሰጥ | context: ለከበደ ገንዘብ ሰጠሁት ።	ሰጥ Ind;3M;Pst;1S	ሰጥ Ind;Fin
+form: ተባል | context: በዛሬ ጊዜ ገንዘብ ለማግኘት ሲባል እስከ መግደልም ይደረሳል ።	ባል Ind;Fin;3S;PST;3S;PST	ተባል Ind;Fin
+form: ቀር | context: ማንም ለምሳ አልቀረም ።	ቀር Ind;Neg;3ms;Pst;3mp	ቀር Ind;Fin
+form: ገዝ | context: ፍየል ገዙላት ።	ገዝ Ind;Fin	ገዝ Ind;Fin
+form: መጣ | context: መንገዱ የመጣንበት ነው ።	መጣ Ind;Fin	መጣ Ind;Fin
+form: ተነስ | context: እነሳለሁ ሲል አደናቀፈው ።	ነስ Ind;Fin;3S;PST	ተነስ Ind;Fin;Pass
+form: ቀነስ | context: መንግስት ቀለቡን ቀነሰበት ።	ቀነስ Ind;Fin	ቀነስ Ind;Fin
+form: ሄድ | context: በርግጥ ካሳ ትናንት ወደ ጎንደር ሄዷል ።	ሄድ Ind;Fin;3S;PST	ሄድ Ind;Fin
+form: ገረም | context: የአባቱ መምጣት ካሳን ገረመው ።	ገረም Ind;Fin;3Sg;Pst	ገረም Ind;Fin
+form: በላ | context: ካሳ ከእናቱ ጋር የበላው ምሳ አይደለም ።	በላ Ind;Fin	በላ Ind;Fin
+form: መሄጃ | context: የመሄጃው ቀን ተቃረበ ።	መሄጃ<tab>Ind;Fin 	መሄጃ Vnoun
+form: ኣገኝ | context: የዘላለምን ሒወትን እንዳገኝ ምን ላድርግ ?	አገኝ Ind;Fin;3Sg;Pst;Neg	ኣገኝ Ind;Fin
+form: በል | context: አንዳንድ ዓሳዎች የሚበሉ ናቸው ።	በል Ind;Fin;3S;Pst	በል Ind;Fin
+form: ፈልግ | context: ስንት መጽሐፍ ትፈልጋለህ ?	ፈልግ Ind;Fin;3S;Subj	ፈልግ Ind;Fin
+form: ተሰለፍ | context: መምህሩ ተማሪዎቹን ተሰለፉ አላቸው ።	ሰለፍ Ind;Pst;3M;Sing	ተሰለፍ Ind;Fin;Pass
+form: መስረቅ | context: ከብታችንን በመስረቁ ምክንያት ታሰረ ።	መስረቅ Ind;Pst;3M;Sing	መስረቅ Vnoun
+form: ቀር | context: ልጆቹ መጥተው ቀሩ ።	ቀር Ind;Pst;3MPl	ቀር Ind;Fin
+form: ተጀመረ | context: ከአንገት በላይ ህክምና ተጀመረ ።	ጀመረ Ind;Fin	ተጀመረ Ind;Fin;Pass
+form: ኣል | context: ሰዎች ሰይጣን አለ ብለው ያምናሉ ።	አለ Ind;Fin	ኣል Ind;Fin
+form: መውደቅ | context: ፈተና መውደቄ አበሳጨኝ ።	መውደቅ Ind;Fin	መውደቅ Vnoun
+form: ወሰድ | context: ደሞዝ አልወሰድክም እንዴ ?	ወሰድ Ind;Neg;3ms;Jus	ወሰድ Ind;Fin
+form: አሳርፍ | context: ሸክሙን አሳርፉኝ ።	አሳርፍ Ind;Fin;3M;P;3M;P	አሳርፍ Ind;Fin;Cau
+form: ጭንቅ | context: ጭንቅ አለው ።	ጭንቅ Ind;Fin	ጭንቅ Ind;Fin
+form: ሆን | context: እርሳሱን መቅረጫ የሚሆን ምላጭ ስጠኝ ።	ሆን Ind;Fin	ሆን Ind;Fin
+form: እየ_ዞርክ | context: ካንዱ አገር ወዳንዱ አገር እየዞርኩ እኖራለሁ ።	ዞርክ Ind;Fin;3M;Pst;3S	እየ_ዞርክ Ind;Fin
+form: ቆይ | context: ቤት ብትቆይ ይሻላል ወይስ ወደ ጨዋታው ብትሄድ ?	ቆይ Ind;Fin;3S;Pres	ቆይ Ind;Fin
+form: አዳን | context: የልጁን ቁስል ሐኪሙ አዳነው ።	አዳን Ind;Fin;3Sg;Pst	አዳን Ind;Fin
+form: መለስ | context: ወደ አባትሽ ቤት ብትመለሽ አይሻልሽምን ?	መለስ Ind;Fin;Neg	መለስ Ind;Fin
+form: ወድድ | context: አዳዲስ ልብስ መልበስ ይወዳል ።	ወድድ Ind;Fin	ወድድ Ind;Fin
+form: ተሰረቅ | context: ሻንጣዬን ተሰረቅሁ ።	ሰረቅ Ind;Fin;3Sg;Subj	ተሰረቅ Ind;Fin;Pass
+form: ለቀቀ | context: ይህ ሕመም ምነው በለቀቀኝ ።	ቀቀ Ind;Fin;3Sg;Pres	ለቀቀ Ind;Fin
+form: መጣ | context: መኪና ሲመጣ ስታይ አትደንግጥ ።	መጣ Ind;Fin	መጣ Ind;Fin
+form: ገደል | context: አንበሳውን ገደሉት ።	ገደል Ind;Pst;3MPl	ገደል Ind;Fin
+form: አቀለጥ | context: ቅቤውን አቀለጡት ።	አቀለ Ind;3S;PST;3S	አቀለጥ Ind;Fin;Cau
+form: ሰጥ | context: ገንዘቡን ማን እነደሰጣት ንገረን ?	ሰጣት Ind;Fin;Neg	ሰጥ Ind;Fin
+form: ሠር | context: በምንም ዐይነት ብትሠራው አለቅየው አይደሰትም ።	ሠር Ind;Fin	ሠር Ind;Fin
+form: ደረቅ | context: ወንዙ ደረቀ ።	ደረቅ Ind;Fin	ደረቅ Ind;Fin
+form: ሰጥ | context: አስተማሪው ለተማሪዎቹ ጊዜ ሰጣቸው ።	ሰጥ Ind;Pst;3M;Sg;Subj	ሰጥ Ind;Fin
+form: ሄድ | context: በየሄደበት ሁሉ እቃ ይገዛል ።	ሄድ Ind;Fin	ሄድ Ind;Fin
+form: አሳርፍ | context: ሸክሙን አሳርፉኝ ።	አሳርፍ Ind;Fin;3Sg;Fut	አሳርፍ Ind;Fin;Cau
+
+Inverse Task Evaluation (Lemma/MSD):
+  Lemma accuracy: 0.6667 (66/99)
+  Lemma mean Levenshtein distance: 0.7980
+  MSD accuracy (exact set match): 0.2727 (27/99)
+  MSD micro-precision: 0.5188  micro-recall: 0.7757  micro-F1: 0.6217
+  Example Mismatches (prediction | gold):
+    ዝጋ Ind;Fin | ዝጋ Jus;Fin
+    ደንስ Ind;Fin;3S;PST;Q | ደንስ Ind;Fin
+    አለ Ind;Fin | ኣለ Ind;Fin
+    መለስ Ind;Fin | አስመለስ Ind;Fin;Cau
+    ወደድ Ind;Fin;3M;P;P;P | ወደድ Ind;Fin

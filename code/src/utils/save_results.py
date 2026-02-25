@@ -320,6 +320,7 @@ def save_byt5_results(
         # Forward direction - only accuracy
         direction_metrics["test"] = {
             "accuracy": test_metrics.get('accuracy', 0.0),
+            "mean_levenshtein": test_metrics.get('mean_levenshtein', 0.0),
             "correct": test_metrics.get('correct', 0),
             "total": test_metrics.get('total', 0)
         }
@@ -369,6 +370,7 @@ def save_byt5_results(
         csv_metrics = {
             "lemma": {
                 "accuracy": direction_metrics["test"].get('accuracy', 0.0),
+                "mean_levenshtein": direction_metrics["test"].get('mean_levenshtein', 0.0),
                 "correct": direction_metrics["test"].get('correct', 0),
                 "total": direction_metrics["test"].get('total', 0)
             }
@@ -422,6 +424,7 @@ def save_nonneural_results(
     json_metrics = {
         "test": {
             "accuracy": test_metrics.get('accuracy', 0.0),
+            "mean_levenshtein": test_metrics.get('mean_levenshtein', 0.0),
             "correct": test_metrics.get('correct', 0),
             "total": test_metrics.get('total', 0)
         }
@@ -440,6 +443,7 @@ def save_nonneural_results(
     csv_metrics = {
         "lemma": {
             "accuracy": test_metrics.get('accuracy', 0.0),
+            "mean_levenshtein": test_metrics.get('mean_levenshtein', 0.0),
             "correct": test_metrics.get('correct', 0),
             "total": test_metrics.get('total', 0)
         }
@@ -493,6 +497,7 @@ def save_neural_results(
     json_metrics = {
         "test": {
             "accuracy": test_metrics.get('accuracy', 0.0),
+            "mean_levenshtein": test_metrics.get('mean_levenshtein', 0.0),
             "correct": test_metrics.get('correct', 0),
             "total": test_metrics.get('total', 0)
         }
@@ -512,6 +517,7 @@ def save_neural_results(
     csv_metrics = {
         "lemma": {
             "accuracy": test_metrics.get('accuracy', 0.0),
+            "mean_levenshtein": test_metrics.get('mean_levenshtein', 0.0),
             "correct": test_metrics.get('correct', 0),
             "total": test_metrics.get('total', 0)
         }

@@ -5,31 +5,32 @@
   "metrics": {
     "forward": {
       "test": {
-        "accuracy": 0.972,
-        "correct": 972,
+        "accuracy": 0.976,
+        "mean_levenshtein": 0.05,
+        "correct": 976,
         "total": 1000
       }
     },
     "inverse": {
       "test": {
         "lemma": {
-          "accuracy": 0.97,
-          "mean_levenshtein": 0.049,
-          "correct": 970,
+          "accuracy": 0.968,
+          "mean_levenshtein": 0.048,
+          "correct": 968,
           "total": 1000
         },
         "msd": {
-          "accuracy": 0.826,
-          "f1": 0.9653991092840014,
-          "precision": 0.9905096660808436,
-          "recall": 0.9415302372201804,
-          "correct": 826,
+          "accuracy": 0.817,
+          "f1": 0.9656545545047287,
+          "precision": 0.9591298615688859,
+          "recall": 0.972268626795857,
+          "correct": 817,
           "total": 1000
         }
       }
     }
   },
-  "timestamp": "2026-02-10T02:10:08.962264",
+  "timestamp": "2026-02-20T23:48:21.901183",
   "direction": "inverse",
   "configuration": {
     "use_context": false,

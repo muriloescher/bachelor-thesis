@@ -1,0 +1,19 @@
+{
+  "model_type": "neural",
+  "model_name": "neural",
+  "language": "dsb",
+  "metrics": {
+    "test": {
+      "accuracy": 0.791,
+      "mean_levenshtein": 0.379,
+      "correct": 791,
+      "total": 1000
+    }
+  },
+  "timestamp": "2026-02-17T22:23:48.729451",
+  "configuration": {
+    "epochs": "max_steps:20000",
+    "batch_size": 400,
+    "learning_rate": 0.001
+  }
+}

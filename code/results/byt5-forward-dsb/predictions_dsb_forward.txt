@@ -1001,6 +1001,7 @@ Generate the inflected form for: žyś V;PRS;3;PL	žyju	žyju
 
 Forward Task Evaluation:
   Accuracy: 0.8390 (839/1000)
+  Mean Levenshtein distance: 0.2870
   Example Mismatches (prediction | gold):
     awtoju | awśe
     awtowu | awśe

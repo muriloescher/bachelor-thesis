@@ -6,12 +6,13 @@
     "forward": {
       "test": {
         "accuracy": 0.971,
+        "mean_levenshtein": 0.067,
         "correct": 971,
         "total": 1000
       }
     }
   },
-  "timestamp": "2026-02-07T13:21:22.594389",
+  "timestamp": "2026-02-18T08:22:39.920155",
   "direction": "forward",
   "configuration": {
     "use_context": false,

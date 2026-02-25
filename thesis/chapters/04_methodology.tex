@@ -1,79 +1,208 @@
+% !TeX root = ../main.tex
 \chapter{Methodology}\label{chapter:methodology}
+
+All experiments in this thesis are executed through a unified runner that separates implementation from configuration. Model- and language-specific settings are defined in YAML configuration files (including data paths, hyperparameters, and prompt templates), while a single entry point orchestrates training and inference across languages. To ensure consistent reporting across model families and tasks, each run writes a language-specific JSON file containing the evaluation metrics and relevant metadata, and additionally appends a summary row to a central CSV file aggregating all results. The full set of scripts, configurations, and evaluation utilities used to produce the reported results is made available in the accompanying repository to support complete reproducibility.
 
 \section{Morphological Inflection}
 
-Placeholder text.
+This section describes how the different systems are trained and evaluated for morphological inflection. For each model, we summarize the concrete experimental procedure (data interface, training and inference setup, and implementation details relevant for reproducibility). Unless stated otherwise, all models operate on the unified UniMorph-based train--development--test splits described in Chapter~\ref{chapter:datasets}.
 
 \subsection{Non-Neural Baseline}
 
-Placeholder text.
-
-As a reference system, we employ the non-neural baseline provided by the SIGMORPHON shared task repository. This model is rule-based and derives transformation rules directly from the training data, without relying on trainable neural parameters. Since the approach does not involve hyperparameter tuning or gradient-based optimization, it can be executed directly using the default configuration supplied by the original implementation.
-
-For all experiments, the model is applied to the UniMorph data in the standard tab-separated format consisting of lemma, morphological tags, and target inflected form, as described in Section~\ref{chapter:datasets}.
+As a non-neural reference system, we use the official SIGMORPHON shared-task implementation described in Section~\ref{sec:background-nonneural-baseline}. The baseline code is used as provided, with a minor command-line extension that allows restricting execution to a single language (via a \texttt{--lang} argument) for convenience and to simplify batched experiment runs.
 
 \subsection{Neural Baseline}
 
-Placeholder text.
+As a neural reference system, we use the official SIGMORPHON 2023 neural transducer baseline described in Section~\ref{sec:background-neural-baseline}. Training is performed by invoking the shared-task example script \texttt{example/sigmorphon2023-shared-tasks/task0-trm.sh}, which calls the baseline training code with a fixed configuration and takes the language code as an argument.
 
-In addition to the rule-based system, we evaluate the neural baseline provided by the SIGMORPHON shared task. Unlike the non-neural approach, this model requires supervised training. The model is trained on the UniMorph training split and evaluated on the corresponding development and test sets. For languages not included in the official shared task configuration, the data is partitioned into training, development, and test sets as described in Section~\ref{sec:datasets}.
+For each language, the model is trained on the corresponding training split, monitored on the development split, and evaluated on the test split. The shared-task training code produces a decoded prediction file in TSV format for the test set, which we use as the source of model outputs when computing and reporting accuracy.
 
-The model is trained using the hyperparameters specified in the original baseline implementation. The exact configuration used in our experiments is reported for reproducibility.
+Table~\ref{tab:neural_hyperparameters} summarizes the hyperparameters used in our experiments as specified by the shared-task script.
+
+\begin{table}[h]
+\centering
+\begin{tabular}{ll}
+\toprule
+Hyperparameter & Value \\
+\midrule
+Architecture & feature-invariant Transformer (\texttt{tagtransformer}) \\
+Encoder / decoder layers & 4 / 4 \\
+Embedding dimension & 256 \\
+Hidden size ($d_{\mathrm{FF}}$ / internal) & 1024 \\
+Attention heads & 4 \\
+Dropout & 0.3 \\
+Batch size & 400 \\
+Learning rate & 0.001 \\
+Scheduler & \texttt{warmupinvsqr} (warmup: 4000 steps) \\
+Training budget & 20000 update steps (\texttt{max\_steps}) \\
+Label smoothing & 0.1 \\
+Adam $\beta_2$ & 0.98 \\
+Gradient clipping & max norm 1 \\
+Decoding & greedy, max decode length 32 \\
+Checkpoint selection & best development accuracy (\texttt{--bestacc}) \\
+\bottomrule
+\end{tabular}
+\caption{Hyperparameters of the SIGMORPHON 2023 neural baseline as used in our experiments (taken from \texttt{example/sigmorphon2023-shared-tasks/task0-trm.sh}).}
+\label{tab:neural_hyperparameters}
+\end{table}
 
 \subsection{ByT5}
 
-Placeholder text.
+For morphological inflection, we fine-tune a pretrained ByT5 model using the HuggingFace Transformers framework. Concretely, we load the \texttt{google/byt5-small} checkpoint via \texttt{AutoTokenizer} and \texttt{AutoModelForSeq2SeqLM} and train using PyTorch with the \texttt{Seq2SeqTrainer} API.
 
-For the morphological inflection task, we fine-tune the ByT5 model on the UniMorph training data. Each instance is formulated as a sequence-to-sequence problem in which the input consists of the lemma together with the corresponding morphological tags, and the target sequence corresponds to the inflected form. The model is evaluated on the held-out development and test splits described in Section~\ref{sec:datasets}.
+Each training instance is represented as a sequence-to-sequence example. The input string is constructed from the lemma and its UniMorph feature bundle using a fixed prompt template (Figure~\ref{fig:byt5_forward_prompt}), and the target string is the corresponding inflected form. Inputs are tokenized with truncation to a maximum length of 128.
 
-Training is performed using PyTorch and the HuggingFace Transformers framework. All hyperparameters are fixed across languages unless stated otherwise. The complete training configuration is summarized in Figure~\ref{fig:byt5_hyperparameters}.
+\begin{figure}[h]
+\centering
+\begin{minipage}{0.9\linewidth}
+\small\ttfamily
+Generate the inflected form for: \{lemma\} \{features\}
+\end{minipage}
+\caption{Prompt template used to construct the ByT5 input sequence for morphological inflection.}
+\label{fig:byt5_forward_prompt}
+\end{figure}
+
+Training is performed on GPU.
+
+Table~\ref{tab:byt5_hyperparameters} summarizes the training and decoding hyperparameters used in our experiments.
+
+\begin{table}[h]
+\centering
+\begin{tabular}{ll}
+\toprule
+Hyperparameter & Value \\
+\midrule
+Pretrained checkpoint & \texttt{google/byt5-small} \\
+Epochs & 3 \\
+Learning rate & $1\times 10^{-4}$ \\
+Scheduler & linear (warmup: 100 steps) \\
+Weight decay & 0.01 \\
+Batch size (train / eval, per device) & 8 / 8 \\
+Mixed precision & fp16 disabled \\
+Seed & 42 \\
+Evaluation / saving & every 50 / 100 steps (keep last 1 checkpoint) \\
+Max input length (tokenization) & 128 \\
+Max target length (tokenization) & 128 \\
+Decoding & greedy \\
+Max generation length (eval/test) & 128 \\
+Prediction batch size & 16 \\
+\bottomrule
+\end{tabular}
+\caption{ByT5 fine-tuning hyperparameters used for the morphological inflection experiments.}
+\label{tab:byt5_hyperparameters}
+\end{table}
 
 \subsection{Bidirectional Model}
+\label{sec:bidirectional_model}
 
-Placeholder text.
+In addition to the task-specific ByT5 models, we fine-tune a single bidirectional model that jointly learns morphological inflection and morphological analysis within a unified sequence-to-sequence framework. Concretely, for each language we shuffle the UniMorph training split with a fixed random seed and partition it into two equally sized subsets. One subset is converted into forward examples (lemma + tags $\rightarrow$ inflected form) using the inflection prompt template (Figure~\ref{fig:byt5_forward_prompt}), while the other subset is converted into inverse examples (inflected form $\rightarrow$ lemma + tags) using a separate prompt template (Figure~\ref{fig:byt5_inverse_prompt}). The combined dataset is then used to fine-tune a single model.
 
-In addition to the task-specific ByT5 models, we train a single bidirectional model that jointly learns morphological inflection and morphological analysis within a unified sequence-to-sequence framework. For each language, the UniMorph training set is randomly partitioned into two equally sized subsets. One subset is used with the inflection mapping (lemma + morphological tags $\rightarrow$ inflected form), while the other subset is converted using the inverted mapping (inflected form $\rightarrow$ lemma + morphological descriptors). The resulting instances are combined to fine-tune a single shared model.
+The same procedure is applied to the development split to form a mixed-direction validation set. At test time, we evaluate the bidirectional model in the forward direction for morphological inflection and in the inverse direction for morphological analysis.
 
-In the context of the morphological inflection experiments, this bidirectional model is evaluated by applying the inflection mapping to the test instances.
+\begin{figure}[h]
+\centering
+\begin{minipage}{0.9\linewidth}
+\small\ttfamily
+Generate the lemma and morphological tags for the following inflected verb: \{form\}
+\end{minipage}
+\caption{Prompt template used to construct the ByT5 input sequence for the inverse mapping (morphological analysis) in the bidirectional setting.}
+\label{fig:byt5_inverse_prompt}
+\end{figure}
+
+Table~\ref{tab:byt5_bidir_hyperparameters} summarizes the hyperparameters used for bidirectional fine-tuning and decoding.
+
+\begin{table}[h]
+\centering
+\begin{tabular}{ll}
+\toprule
+Hyperparameter & Value \\
+\midrule
+Pretrained checkpoint & \texttt{google/byt5-small} \\
+Training directions & 50\% forward + 50\% inverse (random split) \\
+Epochs & 3 \\
+Learning rate & $1\times 10^{-4}$ \\
+Scheduler & linear (warmup: 100 steps) \\
+Weight decay & 0.01 \\
+Batch size (train / eval, per device) & 8 / 8 \\
+Mixed precision & fp16 disabled \\
+Seed & 42 \\
+Evaluation / saving & every 50 / 100 steps (keep last 1 checkpoint) \\
+Max input length (tokenization) & 128 \\
+Max target length (tokenization) & 128 \\
+Decoding & greedy \\
+Max generation length (eval/test) & 128 \\
+Prediction batch size & 16 \\
+\bottomrule
+\end{tabular}
+\caption{ByT5 bidirectional fine-tuning hyperparameters used in our experiments.}
+\label{tab:byt5_bidir_hyperparameters}
+\end{table}
 
 \subsection{Evaluation}
 
-Placeholder text.
+All models are evaluated on held-out test instances by comparing each generated output to the gold label provided in the corresponding dataset test split. For the morphological inflection task, the primary metric is exact-match accuracy on the inflected form, i.e., the fraction of test instances for which the predicted inflected form exactly matches the gold form. String comparisons are performed after applying Unicode normalization (NFC), lowercasing, and whitespace trimming.
 
-To evaluate the performance of the proposed models on the task of morphological inflection, we report several complementary metrics. The primary measure is exact-match accuracy, defined as the proportion of predicted inflected forms that exactly match the gold-standard forms:
-
-In addition, we compute the average Levenshtein distance to quantify character-level deviations and provide a more fine-grained assessment of partial errors.
+In addition to accuracy, we report the mean Levenshtein distance between the predicted and gold inflected forms (computed on the same normalized strings) as a complementary measure that captures the magnitude of character-level deviations when the prediction is not exactly correct.
 
 \section{Morphological Analysis}
 
-Placeholder text.
+This section describes the experimental setup for morphological analysis.
 
 \subsection{ByT5}
 
-Placeholder text.
+For the analysis ByT5 model, we fine-tune ByT5 in the inverse direction on the UniMorph-based dataset. The only change relative to inflection is the input--output mapping and the corresponding prompt template: the model receives an inflected form as input and generates a single target string of the form ``\texttt{lemma FEATURES}'', where the lemma is followed by the semicolon-separated UniMorph tag bundle (separated by whitespace). We use the inverse prompt template shown in Figure~\ref{fig:byt5_inverse_prompt}.
 
-For morphological analysis, we adopt the same ByT5 architecture and training procedure, but reformulate the task by reversing the input--output mapping. In this setting, the inflected form serves as the input sequence, while the target output consists of the corresponding lemma and its morphological descriptors.
-
-Apart from this change in data representation, the training setup and hyperparameters remain identical to those used for morphological inflection.
+Tokenization and optimization hyperparameters are identical to the inflection ByT5 setup (Table~\ref{tab:byt5_hyperparameters}).
 
 \subsection{Bidirectional Model}
 
-Placeholder text.
-
-We evaluate the same bidirectional model described in Section~\ref{sec:bidirectional_model}. For morphological analysis, the model is applied using the reversed input--output mapping, where the inflected form is provided as input and the model predicts the lemma together with the corresponding morphological descriptors. Apart from the evaluation direction, the model, training data partitioning, and hyperparameter configuration are identical to the inflection setting.
+We evaluate the same bidirectional model described in Section~\ref{sec:bidirectional_model}, which is trained on the UniMorph-based dataset. For morphological analysis, the model is applied in the inverse direction, where the inflected form is provided as input and the model predicts the lemma together with the corresponding morphological descriptors using the inverse prompt template (Figure~\ref{fig:byt5_inverse_prompt}).
 
 \subsection{Bidirectional Model with Context}
 
-Placeholder text.
+To incorporate sentence context for morphological analysis, we fine-tune a context-aware bidirectional model initialized from the previously trained bidirectional model (one model per language). We further fine-tune it on the \ac{UD}-derived unified dataset with context, where each instance provides the inflected form together with its sentence context, and we evaluate it on the corresponding test split.
+
+Context is injected only through the input prompt. The repository configuration uses the following template:
+
+\begin{figure}[ht]
+\centering
+\begin{minipage}{0.9\linewidth}
+\small\ttfamily
+Given the context: '\{context\}'\\
+Generate the lemma and morphological tags for the inflected verb: \{form\}
+\end{minipage}
+\caption{Prompt template used for the context-aware ByT5 inverse model (morphological analysis with sentence context).}
+\label{fig:byt5_inverse_prompt_context}
+\end{figure}
+
+At inference time, we evaluate this model only on the inverse task (the configuration disables forward predictions).
 
 \subsection{Large Language Models}
 
-Placeholder text.
-
-We evaluate large language models in an inference-only setting via the OpenAI API. Each instance is processed independently, i.e., every prediction is generated through a separate API request without retaining conversational history between examples. To reduce stochasticity and improve reproducibility, we fix the decoding configuration across all experiments by setting the temperature to $0.0$ and by using a constant random seed.
+We evaluate large language models in an inference-only setting via the OpenRouter chat-completions API on the \ac{UD}-derived unified dataset with context. Each instance is processed independently, i.e., every prediction is generated through a separate API request without retaining conversational history between examples. To reduce stochasticity and improve reproducibility, we fix the decoding configuration across all experiments by setting the temperature to $0.0$ and by using a constant random seed.
 
 We employ a one-shot prompting strategy. Each prompt consists of (i) a short instruction describing the task, (ii) a single labeled example drawn from the dataset, and (iii) the target instance for which a prediction is required. The same template and demonstration example are included in every request to ensure consistent behavior across instances. An example of the prompt template is shown in Figure~\ref{fig:llm_prompt}.
 
-\subsection{Evaluation}
+\begin{figure}[h]
+\centering
+\begin{minipage}{0.9\linewidth}
+\small\ttfamily
+Based on this example:\\
+Input: \{example\_form\}\\
+Context: \{example\_context\}\\
+Prediction: \{example\_lemma\}\textbackslash t\{example\_tags\}\\
+\\
+Generate the lemma and morphological tags for the following inflected verb and context. IMPORTANT: Provide ONLY the answer in the exact format 'lemma\textbackslash ttags' with NO explanations, NO commentary, NO additional text: \{form\}\textbackslash t\{context\}\\
+\\
+Answer (lemma and tags only, no explanation):
+\end{minipage}
+\caption{Prompt structure used for the one-shot LLM baseline. The demonstration example is drawn from the development split, and the target instance consists of an inflected form together with its sentence context.}
+\label{fig:llm_prompt}
+\end{figure}
 
-Placeholder text.
+\subsection{Evaluation}
+For morphological analysis, the target output is a single string of the form ``\texttt{lemma FEATURES}''. The evaluation splits the prediction and the gold label at the first whitespace into a lemma and an \ac{MSD}. The \ac{MSD} component is interpreted as a case-insensitive set of semicolon-separated tags.
+
+We report (i) lemma exact-match accuracy, and additionally the mean Levenshtein distance between the predicted and gold lemmas (computed on normalized strings) to quantify character-level deviations. For \ac{MSD}, we compute (ii) exact set-match accuracy (prediction set equals gold set) and (iii) micro-averaged precision, recall, and $F_1$ over tags, where true positives, false positives, and false negatives are accumulated across all test instances before computing the final scores.
+
+For Georgian and Amharic in the \ac{UD}-based context experiments, the available \ac{UD} feature bundles cannot be converted to UniMorph due to missing language-specific translators. Since this yields feature inventories that are not directly comparable to the UniMorph-style \ac{MSD} tags used for other languages, we do not report the \ac{MSD}-based scores for these two languages, and instead report only the lemma metrics.

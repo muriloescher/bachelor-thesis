@@ -1,0 +1,13 @@
+LLM Results (meta-llama/llama-3.1-8b-instruct)
+==================================================
+
+Language: kat
+Test examples: 741
+
+Results:
+  Lemma Accuracy: 0.0486 (36/741)
+  Lemma Mean Levenshtein: 4.7503
+  MSD Accuracy: 0.1484 (110/741)
+  MSD Micro-Precision: 0.7900
+  MSD Micro-Recall: 0.6908
+  MSD F1: 0.7371

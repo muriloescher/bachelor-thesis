@@ -183,6 +183,7 @@ class NeuralBaselineModel:
         test_metrics = evaluate_forward(predictions, gold_forms)
         
         print(f"Test Accuracy: {test_metrics['accuracy']:.4f}")
+        print(f"Mean Levenshtein: {test_metrics['mean_levenshtein']:.4f}")
         print(f"Correct: {test_metrics['correct']}/{test_metrics['total']}")
         
         # Save results

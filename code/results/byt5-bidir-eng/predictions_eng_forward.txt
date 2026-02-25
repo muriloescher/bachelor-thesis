@@ -42,7 +42,7 @@ Generate the inflected form for: assiege V;NFIN;IMP+SBJV	assiege	assiege
 Generate the inflected form for: astone V;NFIN;IMP+SBJV	astone	astone
 Generate the inflected form for: astronomize V;NFIN;IMP+SBJV	astronomize	astronomize
 Generate the inflected form for: astroturf V;V.PTCP;PST	astroturfed	astroturfed
-Generate the inflected form for: atstand V;V.PTCP;PST	atstanded	atstood
+Generate the inflected form for: atstand V;V.PTCP;PST	atstood	atstood
 Generate the inflected form for: atwind V;NFIN;IMP+SBJV	atwind	atwind
 Generate the inflected form for: auntie V;V.PTCP;PST	auntied	auntied
 Generate the inflected form for: autumnise V;PST	autumnised	autumnised
@@ -237,7 +237,7 @@ Generate the inflected form for: dictate V;PST	dictated	dictated
 Generate the inflected form for: dictate V;NFIN;IMP+SBJV	dictate	dictate
 Generate the inflected form for: differentiate V;V.PTCP;PRS	differentiating	differentiating
 Generate the inflected form for: diffract V;NFIN;IMP+SBJV	diffract	diffract
-Generate the inflected form for: dimit V;V.PTCP;PST	dimitted	dimitted
+Generate the inflected form for: dimit V;V.PTCP;PST	dimited	dimitted
 Generate the inflected form for: disbalance V;V.PTCP;PRS	disbalancing	disbalancing
 Generate the inflected form for: discalceate V;V.PTCP;PRS	discalceating	discalceating
 Generate the inflected form for: discursivise V;PRS;3;SG	discursivises	discursivises
@@ -325,7 +325,7 @@ Generate the inflected form for: fav V;PRS;3;SG	favs	favs
 Generate the inflected form for: feat V;PRS;3;SG	feats	feats
 Generate the inflected form for: feat V;NFIN;IMP+SBJV	feat	feat
 Generate the inflected form for: feddle V;PST	feddled	feddled
-Generate the inflected form for: fee V;V.PTCP;PRS	feeing	feeing
+Generate the inflected form for: fee V;V.PTCP;PRS	feing	feeing
 Generate the inflected form for: feeble V;V.PTCP;PRS	feebling	feebling
 Generate the inflected form for: fetishise V;PRS;3;SG	fetishises	fetishises
 Generate the inflected form for: fibrize V;PRS;3;SG	fibrizes	fibrizes
@@ -352,7 +352,7 @@ Generate the inflected form for: formularise V;NFIN;IMP+SBJV	formularise	formula
 Generate the inflected form for: formularise V;PRS;3;SG	formularises	formularises
 Generate the inflected form for: forsake V;NFIN;IMP+SBJV	forsake	forsake
 Generate the inflected form for: forseethe V;V.PTCP;PRS	forseething	forseething
-Generate the inflected form for: forsing V;V.PTCP;PST	forsed	forsung
+Generate the inflected form for: forsing V;V.PTCP;PST	forsing	forsung
 Generate the inflected form for: forslinger V;NFIN;IMP+SBJV	forslinger	forslinger
 Generate the inflected form for: fractionize V;V.PTCP;PST	fractionized	fractionized
 Generate the inflected form for: fragilize V;PST	fragilized	fragilized
@@ -414,7 +414,7 @@ Generate the inflected form for: hornswoggle V;V.PTCP;PRS	hornswoggling	hornswog
 Generate the inflected form for: hot-wire V;NFIN;IMP+SBJV	hot-wire	hot-wire
 Generate the inflected form for: hothouse V;V.PTCP;PST	hothoused	hothoused
 Generate the inflected form for: hotwire V;NFIN;IMP+SBJV	hotwire	hotwire
-Generate the inflected form for: hovel V;V.PTCP;PRS	hoveling	hovelling
+Generate the inflected form for: hovel V;V.PTCP;PRS	hovelling	hovelling
 Generate the inflected form for: hulk V;PST	hulked	hulked
 Generate the inflected form for: husher V;PST	hushered	hushered
 Generate the inflected form for: huzz V;V.PTCP;PRS	huzzing	huzzing
@@ -476,7 +476,7 @@ Generate the inflected form for: lirk V;PRS;3;SG	lirks	lirks
 Generate the inflected form for: lob V;V.PTCP;PST	lobbed	lobbed
 Generate the inflected form for: loid V;NFIN;IMP+SBJV	loid	loid
 Generate the inflected form for: loid V;PST	loided	loided
-Generate the inflected form for: loo V;V.PTCP;PST	loooed	looed
+Generate the inflected form for: loo V;V.PTCP;PST	looed	looed
 Generate the inflected form for: love V;V.PTCP;PRS	loving	loving
 Generate the inflected form for: lowball V;PRS;3;SG	lowballs	lowballs
 Generate the inflected form for: lowball V;V.PTCP;PST	lowballed	lowballed
@@ -550,7 +550,7 @@ Generate the inflected form for: onlook V;PRS;3;SG	onlooks	onlooks
 Generate the inflected form for: option V;PST	optioned	optioned
 Generate the inflected form for: ostentate V;V.PTCP;PRS	ostentating	ostentating
 Generate the inflected form for: outbrake V;PRS;3;SG	outbrakes	outbrakes
-Generate the inflected form for: outbuild V;PST	outbuilded	outbuilt
+Generate the inflected form for: outbuild V;PST	outbuilt	outbuilt
 Generate the inflected form for: outbullshit V;PRS;3;SG	outbullshits	outbullshits
 Generate the inflected form for: outbullshit V;PST	outbullshitted	outbullshitted
 Generate the inflected form for: outdance V;NFIN;IMP+SBJV	outdance	outdance
@@ -907,7 +907,7 @@ Generate the inflected form for: trophy V;PST	trophied	trophied
 Generate the inflected form for: trucidate V;PST	trucidated	trucidated
 Generate the inflected form for: trustify V;V.PTCP;PRS	trustifying	trustifying
 Generate the inflected form for: tubthump V;NFIN;IMP+SBJV	tubthump	tubthump
-Generate the inflected form for: tw*t V;V.PTCP;PRS	tw*ting	tw*tting
+Generate the inflected form for: tw*t V;V.PTCP;PRS	tw*tting	tw*tting
 Generate the inflected form for: typecast V;PRS;3;SG	typecasts	typecasts
 Generate the inflected form for: uggle V;V.PTCP;PST	uggled	uggled
 Generate the inflected form for: unbespeak V;PRS;3;SG	unbespeaks	unbespeaks
@@ -946,7 +946,7 @@ Generate the inflected form for: unsteady V;PRS;3;SG	unsteadies	unsteadies
 Generate the inflected form for: unsully V;V.PTCP;PRS	unsullying	unsullying
 Generate the inflected form for: untackle V;V.PTCP;PST	untackled	untackled
 Generate the inflected form for: upblaze V;V.PTCP;PRS	upblazing	upblazing
-Generate the inflected form for: upbuild V;PST	upbuilded	upbuilt
+Generate the inflected form for: upbuild V;PST	upbuilt	upbuilt
 Generate the inflected form for: upfurl V;NFIN;IMP+SBJV	upfurl	upfurl
 Generate the inflected form for: upgun V;NFIN;IMP+SBJV	upgun	upgun
 Generate the inflected form for: urine V;NFIN;IMP+SBJV	urine	urine
@@ -1000,10 +1000,11 @@ Generate the inflected form for: zeolitize V;V.PTCP;PRS	zeolitizing	zeolitizing
 Generate the inflected form for: œconomize V;V.PTCP;PRS	œconomizing	œconomizing
 
 Forward Task Evaluation:
-  Accuracy: 0.9720 (972/1000)
+  Accuracy: 0.9760 (976/1000)
+  Mean Levenshtein distance: 0.0500
   Example Mismatches (prediction | gold):
     alledgs | alledges
     amited | amitted
-    atstanded | atstood
     besitted | besat
     bestealed | bestolen
+    causewaid | causewayed

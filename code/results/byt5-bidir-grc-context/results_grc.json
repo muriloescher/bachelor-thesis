@@ -6,23 +6,23 @@
     "inverse": {
       "test": {
         "lemma": {
-          "accuracy": 0.15841584158415842,
-          "mean_levenshtein": 4.056930693069307,
-          "correct": 64,
+          "accuracy": 0.14356435643564355,
+          "mean_levenshtein": 4.02970297029703,
+          "correct": 58,
           "total": 404
         },
         "msd": {
-          "accuracy": 0.0,
-          "f1": 0.24584199584199581,
-          "precision": 0.7134238310708899,
-          "recall": 0.14850863422291993,
-          "correct": 0,
+          "accuracy": 0.13613861386138615,
+          "f1": 0.30638078016016534,
+          "precision": 0.8644314868804664,
+          "recall": 0.18618524332810046,
+          "correct": 55,
           "total": 404
         }
       }
     }
   },
-  "timestamp": "2026-02-11T18:10:10.463367",
+  "timestamp": "2026-02-21T21:34:01.829787",
   "direction": "inverse",
   "configuration": {
     "use_context": true,

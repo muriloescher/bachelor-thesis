@@ -1001,6 +1001,7 @@ Generate the inflected form for: ጸደቀ V.CVB;3;SG;MASC	ጸድቆ	ፀድቆ
 
 Forward Task Evaluation:
   Accuracy: 0.8220 (822/1000)
+  Mean Levenshtein distance: 0.2370
   Example Mismatches (prediction | gold):
     ይልምን | ይለምን
     ትልምን | ትለምን

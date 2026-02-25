@@ -1,0 +1,32 @@
+{
+  "model_type": "byt5",
+  "model_name": "results/byt5-bidir-amh-context",
+  "language": "amh",
+  "metrics": {
+    "inverse": {
+      "test": {
+        "lemma": {
+          "accuracy": 0.898989898989899,
+          "mean_levenshtein": 0.13131313131313133,
+          "correct": 89,
+          "total": 99
+        },
+        "msd": {
+          "accuracy": 0.7777777777777778,
+          "f1": 0.9164677804295943,
+          "precision": 0.9365853658536586,
+          "recall": 0.897196261682243,
+          "correct": 77,
+          "total": 99
+        }
+      }
+    }
+  },
+  "timestamp": "2026-02-22T12:31:57.509274",
+  "direction": "inverse",
+  "configuration": {
+    "use_context": true,
+    "batch_size": 16,
+    "task": "bidirectional"
+  }
+}

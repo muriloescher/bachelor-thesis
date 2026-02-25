@@ -7,6 +7,11 @@ data_source: ud  # Uses UD data (with context)
 model_name: results/byt5-bidir-{lang}/checkpoint-3750
 output_dir_template: "results/byt5-bidir-{lang}-context"
 
+# Tokenization settings
+tokenization:
+  input_max_length: 128
+  label_max_length: 128
+
 # Training hyperparameters
 training:
   per_device_train_batch_size: 8

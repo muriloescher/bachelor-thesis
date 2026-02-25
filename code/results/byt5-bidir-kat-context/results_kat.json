@@ -1,0 +1,32 @@
+{
+  "model_type": "byt5",
+  "model_name": "results/byt5-bidir-kat-context",
+  "language": "kat",
+  "metrics": {
+    "inverse": {
+      "test": {
+        "lemma": {
+          "accuracy": 0.06072874493927125,
+          "mean_levenshtein": 3.1875843454790824,
+          "correct": 45,
+          "total": 741
+        },
+        "msd": {
+          "accuracy": 0.05668016194331984,
+          "f1": 0.48610874382137376,
+          "precision": 0.7666666666666667,
+          "recall": 0.35587721487397056,
+          "correct": 42,
+          "total": 741
+        }
+      }
+    }
+  },
+  "timestamp": "2026-02-22T13:05:22.914598",
+  "direction": "inverse",
+  "configuration": {
+    "use_context": true,
+    "batch_size": 16,
+    "task": "bidirectional"
+  }
+}

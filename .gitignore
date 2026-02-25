@@ -33,3 +33,4 @@ code/baselines/neural/neural-transducer-master/checkpoints/sig23/tagtransformer/
 # All "old" directories
 **/old/
 **/new_old/
+code/experiments

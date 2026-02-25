@@ -1,0 +1,13 @@
+LLM Results (qwen/qwen3-8b)
+==================================================
+
+Language: amh
+Test examples: 99
+
+Results:
+  Lemma Accuracy: 0.4747 (47/99)
+  Lemma Mean Levenshtein: 4.3232
+  MSD Accuracy: 0.4040 (40/99)
+  MSD Micro-Precision: 0.8169
+  MSD Micro-Recall: 0.5421
+  MSD F1: 0.6517

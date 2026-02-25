@@ -1001,6 +1001,7 @@ Generate the inflected form for: zurrar V;1;PL;IND;PST;IPFV	zurrávamos	zurráva
 
 Forward Task Evaluation:
   Accuracy: 0.9500 (950/1000)
+  Mean Levenshtein distance: 0.0720
   Example Mismatches (prediction | gold):
     abluira | abluíra
     abstêssemos | abstivéssemos

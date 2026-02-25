@@ -5,11 +5,12 @@
   "metrics": {
     "test": {
       "accuracy": 0.887,
+      "mean_levenshtein": 0.162,
       "correct": 887,
       "total": 1000
     }
   },
-  "timestamp": "2026-02-06T22:51:12.589428",
+  "timestamp": "2026-02-17T22:23:49.041313",
   "configuration": {
     "epochs": "max_steps:20000",
     "batch_size": 400,

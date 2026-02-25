@@ -139,6 +139,7 @@ class NonNeuralModel:
         if predictions:
             results = evaluate_forward(predictions, gold_forms, str(pred_output_file))
             print(f"\n✅ Accuracy: {results['accuracy']:.4f} ({results['correct']}/{results['total']})")
+            print(f"✅ Mean Levenshtein: {results['mean_levenshtein']:.4f}")
         else:
             print(f"\n✅ Accuracy from baseline: {accuracy:.4f}")
             results = {

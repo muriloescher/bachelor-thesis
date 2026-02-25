@@ -2,14 +2,14 @@ Generate the inflected form for: abballinare V;SBJV;PRS;2;SG	abballini	abballini
 Generate the inflected form for: abballinare V;POS;IMP;3;SG	abballini	abballini
 Generate the inflected form for: abborrare V.PTCP;PST	abborrato	abborrato
 Generate the inflected form for: abbuiare V;COND;2;PL	abbuiereste	abbuiereste
-Generate the inflected form for: accantonare V;IND;PRS;3;SG	accantono	accantona
-Generate the inflected form for: accappiare V;IND;FUT;3;PL	accappieranno	accappieranno
+Generate the inflected form for: accantonare V;IND;PRS;3;SG	accantona	accantona
+Generate the inflected form for: accappiare V;IND;FUT;3;PL	accapperanno	accappieranno
 Generate the inflected form for: accapponare V;SBJV;PST;3;PL	accapponassero	accapponassero
 Generate the inflected form for: accaprettare V;SBJV;PST;1;SG	accaprettassi	accaprettassi
 Generate the inflected form for: accaprettare V;IND;PST;2;SG;IPFV	accaprettavi	accaprettavi
 Generate the inflected form for: accatarrare V;SBJV;PST;3;SG	accatarrasse	accatarrasse
 Generate the inflected form for: accattivare V;IND;PST;2;PL;PFV	accattivaste	accattivaste
-Generate the inflected form for: accertarsi V;POS;IMP;2;PL	accertatevi	accertatevi
+Generate the inflected form for: accertarsi V;POS;IMP;2;PL	vi accertatevi	accertatevi
 Generate the inflected form for: accestire V.PTCP;PST	accestito	accestito
 Generate the inflected form for: accestire V;SBJV;PRS;3;SG	accestisca	accesta
 Generate the inflected form for: accigliarsi V;IND;PST;1;PL;PFV	ci accigliammo	ci accigliammo
@@ -20,21 +20,21 @@ Generate the inflected form for: accostarsi V;IND;PRS;3;PL	si accostano	si accos
 Generate the inflected form for: accucciarsi V;IND;PST;3;SG;IPFV	si accucciava	si accucciava
 Generate the inflected form for: accucciarsi V;SBJV;PRS;2;PL	vi accucciate	vi accucciate
 Generate the inflected form for: acquattarsi V;IND;PST;3;PL;IPFV	si acquattavano	si acquattavano
-Generate the inflected form for: acquisire V;POS;IMP;3;SG	acquisisca	acquisisca
+Generate the inflected form for: acquisire V;POS;IMP;3;SG	acquisi	acquisisca
 Generate the inflected form for: acuirsi V;IND;PST;2;PL;IPFV	vi acuivate	vi acuivate
-Generate the inflected form for: adacquare V;IND;PRS;3;SG	adacquo	adacqua
+Generate the inflected form for: adacquare V;IND;PRS;3;SG	adacqua	adacqua
 Generate the inflected form for: adacquare V;IND;FUT;1;PL	adacqueremo	adacqueremo
 Generate the inflected form for: addecimare V;POS;IMP;2;PL	addecimate	addecimate
-Generate the inflected form for: addiacciare V;COND;2;PL	addiaccereste	addiaccereste
+Generate the inflected form for: addiacciare V;COND;2;PL	addiacciereste	addiaccereste
 Generate the inflected form for: addiacciare V.PTCP;PST	addiacciato	addiacciato
 Generate the inflected form for: addobbare V;SBJV;PST;2;SG	addobbassi	addobbassi
 Generate the inflected form for: addolcare V;IND;PST;2;PL;IPFV	addolcavate	addolcavate
 Generate the inflected form for: addolcare V;NFIN	addolcare	addolcare
-Generate the inflected form for: aderizzare V;IND;PRS;3;SG	aderizzo	aderizza
+Generate the inflected form for: aderizzare V;IND;PRS;3;SG	aderizza	aderizza
 Generate the inflected form for: adire V;IND;PRS;2;SG	adisci	adisci
 Generate the inflected form for: adire V;SBJV;PST;2;SG	adissi	adissi
 Generate the inflected form for: adire V;IND;PST;3;PL;PFV	adirono	adirono
-Generate the inflected form for: adoperarsi V;IND;PRS;3;SG	si adopero	si adopera
+Generate the inflected form for: adoperarsi V;IND;PRS;3;SG	si adopera	si adopera
 Generate the inflected form for: adoperarsi V;IND;PST;2;PL;IPFV	vi adoperavate	vi adoperavate
 Generate the inflected form for: adoperarsi V;IND;PST;1;SG;PFV	mi adoperai	mi adoperai
 Generate the inflected form for: adoprarsi V;IND;PRS;2;PL	vi adoprate	vi adoprate
@@ -57,7 +57,7 @@ Generate the inflected form for: aggirare V;IND;PST;3;SG;PFV	aggirò	aggirò
 Generate the inflected form for: aggirare V;POS;IMP;2;PL	aggirate	aggirate
 Generate the inflected form for: alenare V;NFIN	alenare	alenare
 Generate the inflected form for: alesare V;IND;PRS;2;PL	alesate	alesate
-Generate the inflected form for: allacciare V;COND;2;PL	allaccereste	allaccereste
+Generate the inflected form for: allacciare V;COND;2;PL	allacciereste	allaccereste
 Generate the inflected form for: allacciare V;POS;IMP;3;SG	allacci	allacci
 Generate the inflected form for: allarmarsi V;COND;3;PL	si allarmerebbero	si allarmerebbero
 Generate the inflected form for: allarmarsi V;SBJV;PST;1;SG	mi allarmassi	mi allarmassi
@@ -88,8 +88,8 @@ Generate the inflected form for: apostatare V;IND;PST;3;SG;PFV	apostatò	apostat
 Generate the inflected form for: apostatare V;SBJV;PST;2;SG	apostatassi	apostatassi
 Generate the inflected form for: appaiare V;IND;PST;2;SG;IPFV	appaiavi	appaiavi
 Generate the inflected form for: appaiare V;IND;PRS;1;PL	appaiamo	appaiamo
-Generate the inflected form for: appaiare V;SBJV;PRS;1;PL	appaiamo	appaiamo
-Generate the inflected form for: appollaiarsi V;SBJV;PRS;2;PL	vi appollaiate	vi appollaiate
+Generate the inflected form for: appaiare V;SBJV;PRS;1;PL	appaiiamo	appaiamo
+Generate the inflected form for: appollaiarsi V;SBJV;PRS;2;PL	vi appollaiiate	vi appollaiate
 Generate the inflected form for: appoppare V;IND;PST;2;SG;IPFV	appoppavi	appoppavi
 Generate the inflected form for: appropinquare V;NFIN	appropinquare	appropinquare
 Generate the inflected form for: appropinquare V;POS;IMP;3;PL	appropinquino	appropinquino
@@ -136,7 +136,7 @@ Generate the inflected form for: autocommiserarsi V;IND;PRS;2;PL	vi autocommiser
 Generate the inflected form for: autocommiserarsi V;COND;1;SG	mi autocommisererei	mi autocommisererei
 Generate the inflected form for: autocommiserarsi V;IND;PST;2;SG;IPFV	ti autocommiseravi	ti autocommiseravi
 Generate the inflected form for: autocommiserarsi V;IND;PST;3;PL;PFV	si autocommiserarono	si autocommiserarono
-Generate the inflected form for: autosostenere V;SBJV;PRS;3;SG	autosostenga	autosostenga
+Generate the inflected form for: autosostenere V;SBJV;PRS;3;SG	autososteni	autosostenga
 Generate the inflected form for: autosostenere V;COND;2;PL	autosostenereste	autososterreste
 Generate the inflected form for: autosostenere V;SBJV;PST;2;SG	autosostenessi	autosostenessi
 Generate the inflected form for: avvallarsi V;SBJV;PRS;3;SG	si avvalli	si avvalli
@@ -155,10 +155,10 @@ Generate the inflected form for: beneficare V;SBJV;PRS;1;PL	benefichiamo	benefic
 Generate the inflected form for: beneficare V;IND;FUT;1;PL	beneficheremo	beneficheremo
 Generate the inflected form for: beneficare V;COND;3;PL	beneficherebbero	beneficherebbero
 Generate the inflected form for: bersela V;COND;1;SG	mi berrei	me la berrei
-Generate the inflected form for: bersela V;IND;PST;2;PL;IPFV	versela	ve la bevevate
+Generate the inflected form for: bersela V;IND;PST;2;PL;IPFV	verselate	ve la bevevate
 Generate the inflected form for: biascicare V;POS;IMP;2;SG	biascica	biascica
-Generate the inflected form for: biforcare V;IND;PRS;3;SG	biforchi	biforca
-Generate the inflected form for: biforcare V;POS;IMP;1;PL	biforciamo	biforchiamo
+Generate the inflected form for: biforcare V;IND;PRS;3;SG	biforca	biforca
+Generate the inflected form for: biforcare V;POS;IMP;1;PL	biforchiamo	biforchiamo
 Generate the inflected form for: binare V;IND;FUT;2;SG	binerai	binerai
 Generate the inflected form for: binare V;SBJV;PST;3;PL	binassero	binassero
 Generate the inflected form for: bisognare V.PTCP;PRS	bisognante	bisognante
@@ -193,7 +193,7 @@ Generate the inflected form for: cinematografare V;COND;1;PL	cinematograferemmo	
 Generate the inflected form for: circonscrivere V;IND;FUT;1;SG	circonscriverò	circonscriverò
 Generate the inflected form for: circonscrivere V;COND;1;SG	circonscriverei	circonscriverei
 Generate the inflected form for: circonscrivere V;COND;2;SG	circonscriveresti	circonscriveresti
-Generate the inflected form for: circuire V;IND;PRS;1;SG	circuisco	circuisco
+Generate the inflected form for: circuire V;IND;PRS;1;SG	circui	circuisco
 Generate the inflected form for: clamare V.CVB;PRS	clamando	clamando
 Generate the inflected form for: classare V;IND;FUT;3;SG	classerà	classerà
 Generate the inflected form for: cofinanziare V;SBJV;PRS;1;SG	cofinanzi	cofinanzi
@@ -202,7 +202,7 @@ Generate the inflected form for: collettivizzare V;POS;IMP;2;SG	collettivizza	co
 Generate the inflected form for: compassionare V;IND;PST;2;PL;IPFV	compassionavate	compassionavate
 Generate the inflected form for: compungere V;IND;FUT;2;SG	compungerai	compungerai
 Generate the inflected form for: compungere V;COND;1;SG	compungerei	compungerei
-Generate the inflected form for: compungere V;IND;PST;3;PL;PFV	compungero	compunsero
+Generate the inflected form for: compungere V;IND;PST;3;PL;PFV	compungeranno	compunsero
 Generate the inflected form for: computare V;IND;PST;3;SG;PFV	computò	computò
 Generate the inflected form for: confezionare V;SBJV;PST;3;PL	confezionassero	confezionassero
 Generate the inflected form for: congiurare V;COND;2;PL	congiurereste	congiurereste
@@ -212,10 +212,10 @@ Generate the inflected form for: consapevolizzare V;IND;PST;3;PL;PFV	consapevoli
 Generate the inflected form for: contabilizzare V;POS;IMP;2;SG	contabilizza	contabilizza
 Generate the inflected form for: contingentare V;IND;PRS;2;PL	contingentate	contingentate
 Generate the inflected form for: contingentare V;IND;PRS;3;PL	contingentano	contingentano
-Generate the inflected form for: contrapporre V;IND;PST;1;PL;PFV	contrappommo	contrapponemmo
+Generate the inflected form for: contrapporre V;IND;PST;1;PL;PFV	contrappormmo	contrapponemmo
 Generate the inflected form for: contrapporre V;SBJV;PST;2;SG	contrappossi	contrapponessi
-Generate the inflected form for: contrapporre V;IND;PRS;2;SG	contrapponga	contrapponi
-Generate the inflected form for: contrarre V;POS;IMP;3;PL	contrino	contraggano
+Generate the inflected form for: contrapporre V;IND;PRS;2;SG	contrapponi	contrapponi
+Generate the inflected form for: contrarre V;POS;IMP;3;PL	contranno	contraggano
 Generate the inflected form for: contrattare V;SBJV;PRS;2;PL	contrattiate	contrattiate
 Generate the inflected form for: contrattare V;SBJV;PST;2;SG	contrattassi	contrattassi
 Generate the inflected form for: controfirmare V;IND;PST;1;PL;IPFV	controfirmavamo	controfirmavamo
@@ -237,7 +237,7 @@ Generate the inflected form for: credere V;IND;FUT;2;PL	crederete	crederete
 Generate the inflected form for: credere V;COND;3;SG	crederebbe	crederebbe
 Generate the inflected form for: credere V;IND;PST;1;SG;IPFV	credevo	credevo
 Generate the inflected form for: credere V;POS;IMP;1;PL	crediamo	crediamo
-Generate the inflected form for: credere V;SBJV;PRS;3;SG	creda	creda
+Generate the inflected form for: credere V;SBJV;PRS;3;SG	credi	creda
 Generate the inflected form for: crivellare V;SBJV;PST;1;SG	crivellassi	crivellassi
 Generate the inflected form for: crivellare V;IND;PST;2;PL;PFV	crivellaste	crivellaste
 Generate the inflected form for: crivellare V;COND;1;PL	crivelleremmo	crivelleremmo
@@ -277,8 +277,8 @@ Generate the inflected form for: desolare V;SBJV;PRS;1;SG	desoli	desoli
 Generate the inflected form for: desolare V;IND;PST;1;SG;PFV	desolai	desolai
 Generate the inflected form for: diagnosticare V;IND;PST;1;PL;IPFV	diagnosticavamo	diagnosticavamo
 Generate the inflected form for: dilaniarsi V;COND;2;PL	vi dilaniereste	vi dilaniereste
-Generate the inflected form for: diliscare V;IND;PRS;1;PL	dilischiamo	dilischiamo
-Generate the inflected form for: dilungarsi V;POS;IMP;1;PL	dilungiamoci	dilunghiamoci
+Generate the inflected form for: diliscare V;IND;PRS;1;PL	dilisciamo	dilischiamo
+Generate the inflected form for: dilungarsi V;POS;IMP;1;PL	ci dilungiamoci	dilunghiamoci
 Generate the inflected form for: dilungarsi V;POS;IMP;3;SG	si dilunghi	si dilunghi
 Generate the inflected form for: dimenare V;IND;FUT;2;SG	dimenerai	dimenerai
 Generate the inflected form for: diminuire V;COND;1;PL	diminuiremmo	diminuiremmo
@@ -306,12 +306,12 @@ Generate the inflected form for: districarsi V;COND;2;SG	ti districheresti	ti di
 Generate the inflected form for: dividere V;SBJV;PRS;2;PL	dividiate	dividiate
 Generate the inflected form for: dividere V;IND;PRS;1;PL	dividiamo	dividiamo
 Generate the inflected form for: divulgare V;IND;PST;2;SG;IPFV	divulgavi	divulgavi
-Generate the inflected form for: duplicare V;IND;PRS;3;SG	duplichi	duplica
+Generate the inflected form for: duplicare V;IND;PRS;3;SG	duplica	duplica
 Generate the inflected form for: duplicare V;SBJV;PST;2;PL	duplicaste	duplicaste
 Generate the inflected form for: ebere V;IND;PRS;1;SG	ebo	ebevo
 Generate the inflected form for: edificare V;IND;FUT;3;PL	edificheranno	edificheranno
 Generate the inflected form for: effingere V;IND;PST;2;PL;IPFV	effingevate	effingevate
-Generate the inflected form for: egemonizzare V;IND;PRS;3;SG	egemonizzo	egemonizza
+Generate the inflected form for: egemonizzare V;IND;PRS;3;SG	egemonizza	egemonizza
 Generate the inflected form for: elitrasportare V.CVB;PRS	elitrasportando	elitrasportando
 Generate the inflected form for: eluire V;POS;IMP;3;SG	eluisca	eluisca
 Generate the inflected form for: emozionare V;IND;PST;1;PL;PFV	emozionammo	emozionammo
@@ -323,12 +323,12 @@ Generate the inflected form for: esentare V.CVB;PRS	esentando	esentando
 Generate the inflected form for: estromettere V;SBJV;PST;2;SG	estromettessi	estromettessi
 Generate the inflected form for: estromettere V;COND;3;PL	estrometterebbero	estrometterebbero
 Generate the inflected form for: evangelizzare V;COND;1;SG	evangelizzerei	evangelizzerei
-Generate the inflected form for: farcela V;IND;PRS;2;SG	farci	ce la fai
-Generate the inflected form for: farcela V;POS;IMP;3;PL	farcino	ce la facciano
+Generate the inflected form for: farcela V;IND;PRS;2;SG	farceli	ce la fai
+Generate the inflected form for: farcela V;POS;IMP;3;PL	si farcino	ce la facciano
 Generate the inflected form for: fatturare V;NFIN	fatturare	fatturare
 Generate the inflected form for: fiammeggiare V;POS;IMP;1;PL	fiammeggiamo	fiammeggiamo
 Generate the inflected form for: fiammeggiare V;SBJV;PRS;1;SG	fiammeggi	fiammeggi
-Generate the inflected form for: fiammeggiare V;IND;PST;3;SG;PFV	fiammeggiò	fiammeggiò
+Generate the inflected form for: fiammeggiare V;IND;PST;3;SG;PFV	fiammeggò	fiammeggiò
 Generate the inflected form for: figgere V;COND;2;PL	figgereste	figgereste
 Generate the inflected form for: figgere V;COND;3;SG	figgerebbe	figgerebbe
 Generate the inflected form for: filmare V;SBJV;PST;3;PL	filmassero	filmassero
@@ -348,7 +348,7 @@ Generate the inflected form for: gestirsi V;SBJV;PRS;3;SG	si gestisca	si gestisc
 Generate the inflected form for: gettare V;IND;PST;2;SG;IPFV	gettavi	gettavi
 Generate the inflected form for: ghindare V;POS;IMP;2;PL	ghindate	ghindate
 Generate the inflected form for: giganteggiare V;SBJV;PST;2;PL	giganteggiaste	giganteggiaste
-Generate the inflected form for: giocarsi V;IND;PRS;3;PL	si giocano	si giocano
+Generate the inflected form for: giocarsi V;IND;PRS;3;PL	si giochino	si giocano
 Generate the inflected form for: giostrarsi V;SBJV;PRS;1;PL	ci giostriamo	ci giostriamo
 Generate the inflected form for: giurarsi V;IND;PST;3;SG;IPFV	si giurava	si giurava
 Generate the inflected form for: gottare V;IND;FUT;2;SG	gotterai	gotterai
@@ -360,12 +360,12 @@ Generate the inflected form for: gramolare V;IND;FUT;1;SG	gramolerò	gramolerò
 Generate the inflected form for: granellare V;IND;PST;1;PL;IPFV	granellavamo	granellavamo
 Generate the inflected form for: grufolare V;SBJV;PST;2;PL	grufolaste	grufolaste
 Generate the inflected form for: guardarsene V;IND;PST;1;SG;IPFV	mi guardavo	me ne guardavo
-Generate the inflected form for: guardarsene V;IND;PRS;2;PL	ve guardate	ve ne guardate
+Generate the inflected form for: guardarsene V;IND;PRS;2;PL	ve ne guardate	ve ne guardate
 Generate the inflected form for: guardarsi V;IND;PST;3;PL;IPFV	si guardavano	si guardavano
 Generate the inflected form for: guidarsi V;SBJV;PRS;3;SG	si guidi	si guidi
 Generate the inflected form for: illustrare V;COND;2;SG	illustreresti	illustreresti
 Generate the inflected form for: imbarbarire V;IND;PST;2;SG;IPFV	imbarbarivi	imbarbarivi
-Generate the inflected form for: imbeccare V;POS;IMP;1;PL	imbecciamo	imbecchiamo
+Generate the inflected form for: imbeccare V;POS;IMP;1;PL	imbecchiamo	imbecchiamo
 Generate the inflected form for: imboscarsi V;IND;PST;2;SG;PFV	ti imboscasti	ti imboscasti
 Generate the inflected form for: imboscarsi V;IND;FUT;1;SG	mi imboscherò	mi imboscherò
 Generate the inflected form for: imbroccare V;SBJV;PRS;3;PL	imbrocchino	imbrocchino
@@ -383,7 +383,7 @@ Generate the inflected form for: impaccare V;POS;IMP;3;PL	impacchino	impacchino
 Generate the inflected form for: impataccarsi V;SBJV;PRS;1;PL	ci impatacchiamo	ci impatacchiamo
 Generate the inflected form for: impataccarsi V.CVB;PRS	impataccandosi	impataccandosi
 Generate the inflected form for: impataccarsi V;IND;FUT;2;SG	ti impataccherai	ti impataccherai
-Generate the inflected form for: impataccarsi V;POS;IMP;1;PL	impatacciamoci	impatacchiamoci
+Generate the inflected form for: impataccarsi V;POS;IMP;1;PL	ci impatacchiamo	impatacchiamoci
 Generate the inflected form for: impedicare V;SBJV;PST;3;PL	impedicassero	impedicassero
 Generate the inflected form for: impermeabilizzare V;SBJV;PST;3;SG	impermeabilizzasse	impermeabilizzasse
 Generate the inflected form for: impiallacciare V;IND;PST;1;PL;IPFV	impiallacciavamo	impiallacciavamo
@@ -392,7 +392,7 @@ Generate the inflected form for: impigrirsi V;SBJV;PST;3;PL	si impigrissero	si i
 Generate the inflected form for: impinzare V;POS;IMP;2;PL	impinzate	impinzate
 Generate the inflected form for: impinzare V;COND;1;PL	impinzeremmo	impinzeremmo
 Generate the inflected form for: imporsi V;SBJV;PST;3;SG	si imposse	si imponesse
-Generate the inflected form for: incalzare V;IND;PRS;3;SG	incalzo	incalza
+Generate the inflected form for: incalzare V;IND;PRS;3;SG	incalza	incalza
 Generate the inflected form for: incaponirsi V;IND;PST;1;PL;PFV	ci incaponimmo	ci incaponimmo
 Generate the inflected form for: incaponirsi V;COND;2;SG	ti incaponiresti	ti incaponiresti
 Generate the inflected form for: incaponirsi V;SBJV;PRS;1;PL	ci incaponiamo	ci incaponiamo
@@ -429,7 +429,7 @@ Generate the inflected form for: influenzare V;IND;PST;1;SG;IPFV	influenzavo	inf
 Generate the inflected form for: influenzare V;IND;PST;3;SG;IPFV	influenzava	influenzava
 Generate the inflected form for: influenzare V;IND;PST;3;PL;PFV	influenzarono	influenzarono
 Generate the inflected form for: informarsi V;IND;PST;2;SG;PFV	ti informasti	ti informasti
-Generate the inflected form for: informarsi V;POS;IMP;2;PL	informatevi	informatevi
+Generate the inflected form for: informarsi V;POS;IMP;2;PL	vi informatevi	informatevi
 Generate the inflected form for: informicolirsi V;SBJV;PRS;1;PL	ci informicoliamo	ci informicoliamo
 Generate the inflected form for: informicolirsi V;COND;2;SG	ti informicoliresti	ti informicoliresti
 Generate the inflected form for: infossare V;IND;PST;1;PL;IPFV	infossavamo	infossavamo
@@ -442,7 +442,7 @@ Generate the inflected form for: infrapporre V;NFIN	infrapporre	infrapporre
 Generate the inflected form for: infrattarsi V;IND;FUT;3;PL	si infratteranno	si infratteranno
 Generate the inflected form for: infreddolirsi V;SBJV;PRS;2;PL	vi infreddoliate	vi infreddoliate
 Generate the inflected form for: infreddolirsi V;IND;PRS;2;PL	vi infreddolite	vi infreddolite
-Generate the inflected form for: ingiungere V;SBJV;PRS;1;SG	ingiunga	ingiunga
+Generate the inflected form for: ingiungere V;SBJV;PRS;1;SG	ingiungi	ingiunga
 Generate the inflected form for: inguainare V;IND;FUT;1;SG	inguainerò	inguainerò
 Generate the inflected form for: inguainare V;COND;2;SG	inguaineresti	inguaineresti
 Generate the inflected form for: innastare V.PTCP;PRS	innastante	innastante
@@ -450,13 +450,13 @@ Generate the inflected form for: innastare V;IND;FUT;2;SG	innasterai	innasterai
 Generate the inflected form for: inneggiare V;IND;PST;2;SG;PFV	inneggiasti	inneggiasti
 Generate the inflected form for: insabbiarsi V;IND;PRS;1;PL	ci insabbiamo	ci insabbiamo
 Generate the inflected form for: insediarsi V;SBJV;PRS;1;SG	mi insedi	mi insedi
-Generate the inflected form for: insediarsi V;IND;PRS;3;SG	si insedia	si insedia
+Generate the inflected form for: insediarsi V;IND;PRS;3;SG	si insedi	si insedia
 Generate the inflected form for: inseguire V;POS;IMP;2;SG	inseguisci	insegui
 Generate the inflected form for: inseguire V;IND;PST;3;PL;IPFV	inseguivano	inseguivano
 Generate the inflected form for: inseguire V;SBJV;PST;1;SG	inseguissi	inseguissi
 Generate the inflected form for: inserire V;IND;PRS;2;SG	inserisci	inserisci
 Generate the inflected form for: inspessirsi V;IND;PST;1;SG;PFV	mi inspessii	mi inspessii
-Generate the inflected form for: inspessirsi V;SBJV;PRS;3;PL	si inspessiscano	si inspessiscano
+Generate the inflected form for: inspessirsi V;SBJV;PRS;3;PL	si inspessino	si inspessiscano
 Generate the inflected form for: insufflare V;IND;FUT;1;SG	insufflerò	insufflerò
 Generate the inflected form for: insufflare V;COND;2;SG	insuffleresti	insuffleresti
 Generate the inflected form for: insultarsi V;IND;PRS;1;PL	ci insultiamo	ci insultiamo
@@ -480,7 +480,7 @@ Generate the inflected form for: ischeletrire V;SBJV;PRS;1;SG	ischeletrisca	isch
 Generate the inflected form for: ischeletrire V;IND;PRS;3;SG	ischeletrisca	ischeletrisce
 Generate the inflected form for: isolare V;IND;FUT;2;PL	isolerete	isolerete
 Generate the inflected form for: ispessire V;NFIN	ispessire	ispessire
-Generate the inflected form for: ispessire V;IND;PRS;3;SG	ispessisca	ispessisce
+Generate the inflected form for: ispessire V;IND;PRS;3;SG	ispessi	ispessisce
 Generate the inflected form for: istradare V;SBJV;PST;2;PL	istradaste	istradaste
 Generate the inflected form for: lascare V;POS;IMP;3;SG	laschi	laschi
 Generate the inflected form for: lascare V;IND;PST;3;PL;IPFV	lascavano	lascavano
@@ -561,13 +561,13 @@ Generate the inflected form for: pensare V;COND;2;PL	pensereste	pensereste
 Generate the inflected form for: pepare V;SBJV;PRS;3;PL	pepino	pepino
 Generate the inflected form for: pepare V;IND;FUT;1;SG	peperò	peperò
 Generate the inflected form for: pervenire V;IND;PST;3;SG;PFV	pervenì	pervenne
-Generate the inflected form for: pervenire V;SBJV;PRS;3;SG	pervenga	pervenga
+Generate the inflected form for: pervenire V;SBJV;PRS;3;SG	pervenisca	pervenga
 Generate the inflected form for: pervertire V;IND;PST;3;PL;IPFV	pervertivano	pervertivano
-Generate the inflected form for: pescare V;IND;PRS;3;SG	pesco	pesca
+Generate the inflected form for: pescare V;IND;PRS;3;SG	pesca	pesca
 Generate the inflected form for: piazzarsi V;IND;PST;2;SG;PFV	ti piazzasti	ti piazzasti
 Generate the inflected form for: piazzarsi V;SBJV;PRS;1;SG	mi piazzi	mi piazzi
 Generate the inflected form for: portarsi V;IND;FUT;3;SG	si porterà	si porterà
-Generate the inflected form for: portarsi V;POS;IMP;2;SG	porta	portati
+Generate the inflected form for: portarsi V;POS;IMP;2;SG	ti porta	portati
 Generate the inflected form for: posticipare V;IND;FUT;2;PL	posticiperete	posticiperete
 Generate the inflected form for: preavvisare V;SBJV;PRS;3;PL	preavvisino	preavvisino
 Generate the inflected form for: preavvisare V;COND;3;PL	preavviserebbero	preavviserebbero
@@ -579,7 +579,7 @@ Generate the inflected form for: preregistrare V;COND;2;SG	preregistreresti	prer
 Generate the inflected form for: preriscaldare V;IND;FUT;1;SG	preriscalderò	preriscalderò
 Generate the inflected form for: preriscaldare V;IND;FUT;3;SG	preriscalderà	preriscalderà
 Generate the inflected form for: preriscaldare V;IND;PST;1;PL;PFV	preriscaldammo	preriscaldammo
-Generate the inflected form for: prescrivere V;IND;PST;3;SG;PFV	prescriverà	prescrisse
+Generate the inflected form for: prescrivere V;IND;PST;3;SG;PFV	prescrivì	prescrisse
 Generate the inflected form for: preservarsi V;SBJV;PST;3;SG	si preservasse	si preservasse
 Generate the inflected form for: preservarsi V;IND;FUT;2;PL	vi preserverete	vi preserverete
 Generate the inflected form for: pressurizzare V;IND;PST;2;PL;PFV	pressurizzaste	pressurizzaste
@@ -587,13 +587,13 @@ Generate the inflected form for: prevalere V;COND;1;PL	prevaleremmo	prevarremmo
 Generate the inflected form for: prodursi V;IND;PST;3;PL;IPFV	si produvano	si producevano
 Generate the inflected form for: proporzionare V;SBJV;PST;3;PL	proporzionassero	proporzionassero
 Generate the inflected form for: proporzionare V;SBJV;PRS;1;PL	proporzioniamo	proporzioniamo
-Generate the inflected form for: prorompere V;IND;PST;3;PL;PFV	prorompero	proruppero
+Generate the inflected form for: prorompere V;IND;PST;3;PL;PFV	proromperanno	proruppero
 Generate the inflected form for: prorompere V;COND;3;PL	proromperebbero	proromperebbero
 Generate the inflected form for: proseguire V;IND;PST;2;PL;PFV	proseguiste	proseguiste
 Generate the inflected form for: protrudere V;COND;2;PL	protrudereste	protrudereste
 Generate the inflected form for: protrudere V;COND;2;SG	protruderesti	protruderesti
 Generate the inflected form for: putrefarsi V;SBJV;PRS;2;PL	vi putrefiate	vi putrefacciate
-Generate the inflected form for: putrefarsi V;IND;PRS;1;PL	ci putrefiamo	ci putrefacciamo
+Generate the inflected form for: putrefarsi V;IND;PRS;1;PL	ci putrefammo	ci putrefacciamo
 Generate the inflected form for: putrefarsi V;COND;2;PL	vi putrefereste	vi putrefareste
 Generate the inflected form for: quadrare V;SBJV;PRS;1;PL	quadriamo	quadriamo
 Generate the inflected form for: quadrare V;IND;PST;3;SG;IPFV	quadrava	quadrava
@@ -604,13 +604,13 @@ Generate the inflected form for: quietare V;SBJV;PST;3;PL	quietassero	quietasser
 Generate the inflected form for: quietarsi V;IND;FUT;1;SG	mi quieterò	mi quieterò
 Generate the inflected form for: quietarsi V;IND;PRS;1;PL	ci quietiamo	ci quietiamo
 Generate the inflected form for: quietarsi V;IND;FUT;1;PL	ci quieteremo	ci quieteremo
-Generate the inflected form for: raccorciare V;IND;PRS;1;SG	raccorci	raccorcio
+Generate the inflected form for: raccorciare V;IND;PRS;1;SG	raccorco	raccorcio
 Generate the inflected form for: raccorcire V;IND;FUT;1;PL	raccorciremo	raccorciremo
-Generate the inflected form for: raffrenare V;IND;PRS;3;SG	raffreno	raffrena
+Generate the inflected form for: raffrenare V;IND;PRS;3;SG	raffrena	raffrena
 Generate the inflected form for: raffrenare V;IND;PST;1;PL;IPFV	raffrenavamo	raffrenavamo
 Generate the inflected form for: raffrenare V;COND;3;PL	raffrenerebbero	raffrenerebbero
 Generate the inflected form for: ralingare V;NFIN	ralingare	ralingare
-Generate the inflected form for: ralingare V;POS;IMP;3;SG	ralinghi	ralinghi
+Generate the inflected form for: ralingare V;POS;IMP;3;SG	ralingi	ralinghi
 Generate the inflected form for: rallegrare V.CVB;PRS	rallegrando	rallegrando
 Generate the inflected form for: rallentarsi V;IND;PST;2;PL;IPFV	vi rallentavate	vi rallentavate
 Generate the inflected form for: rallentarsi V;POS;IMP;3;SG	si rallenti	si rallenti
@@ -630,9 +630,9 @@ Generate the inflected form for: recriminare V;POS;IMP;2;SG	recrimina	recrimina
 Generate the inflected form for: refrangere V;SBJV;PST;3;PL	refrangessero	refrangessero
 Generate the inflected form for: reimmergersi V;IND;PST;2;SG;IPFV	ti reimmergevi	ti reimmergevi
 Generate the inflected form for: reimmergersi V;SBJV;PST;3;PL	si reimmergessero	si reimmergessero
-Generate the inflected form for: reintervenire V;POS;IMP;3;PL	reinterveniscano	reintervengano
+Generate the inflected form for: reintervenire V;POS;IMP;3;PL	reintervenino	reintervengano
 Generate the inflected form for: replicarsi V;IND;PST;2;PL;IPFV	vi replicavate	vi replicavate
-Generate the inflected form for: replicarsi V;POS;IMP;2;SG	replica	replicati
+Generate the inflected form for: replicarsi V;POS;IMP;2;SG	ti replica	replicati
 Generate the inflected form for: replicarsi V;SBJV;PST;1;PL	ci replicassimo	ci replicassimo
 Generate the inflected form for: residuare V;COND;1;SG	residuerei	residuerei
 Generate the inflected form for: residuare V;IND;PST;1;SG;PFV	residuai	residuai
@@ -646,7 +646,7 @@ Generate the inflected form for: riaddormentare V;SBJV;PST;1;SG	riaddormentassi	
 Generate the inflected form for: riagguantare V;POS;IMP;2;SG	riagguanta	riagguanta
 Generate the inflected form for: riagguantare V;SBJV;PST;3;PL	riagguantassero	riagguantassero
 Generate the inflected form for: riagguantare V;IND;PST;3;SG;PFV	riagguantò	riagguantò
-Generate the inflected form for: riammettere V;SBJV;PRS;2;SG	riammetta	riammetta
+Generate the inflected form for: riammettere V;SBJV;PRS;2;SG	riammetti	riammetta
 Generate the inflected form for: rianimarsi V;IND;PST;2;PL;PFV	vi rianimaste	vi rianimaste
 Generate the inflected form for: rianimarsi V;IND;PST;3;SG;PFV	si rianimò	si rianimò
 Generate the inflected form for: rianimarsi V;IND;FUT;2;PL	vi rianimerete	vi rianimerete
@@ -678,9 +678,9 @@ Generate the inflected form for: ridisciogliere V;COND;2;PL	ridisciogliereste	ri
 Generate the inflected form for: riemergere V;SBJV;PRS;1;SG	riemerga	riemerga
 Generate the inflected form for: riemettere V;SBJV;PRS;2;PL	riemettiate	riemettiate
 Generate the inflected form for: riemettere V;IND;PST;3;PL;PFV	riemettero	riemisero
-Generate the inflected form for: riemettere V;IND;PST;1;SG;PFV	riemettei	riemisi
+Generate the inflected form for: riemettere V;IND;PST;1;SG;PFV	riemetti	riemisi
 Generate the inflected form for: riempiere V;IND;PRS;2;SG	riempi	riempi
-Generate the inflected form for: riempiere V;IND;FUT;2;PL	riemperete	riempirete
+Generate the inflected form for: riempiere V;IND;FUT;2;PL	riempierete	riempirete
 Generate the inflected form for: riempiere V;IND;PST;2;PL;PFV	riempieste	riempieste
 Generate the inflected form for: riesplodere V;COND;1;PL	riesploderemmo	riesploderemmo
 Generate the inflected form for: rifarsi V;IND;PST;3;PL;PFV	si rifarono	si fecero
@@ -726,7 +726,7 @@ Generate the inflected form for: ripolarizzare V;IND;PST;3;PL;PFV	ripolarizzaron
 Generate the inflected form for: riporgere V.PTCP;PRS	riporgente	riporgente
 Generate the inflected form for: riprogettare V;IND;FUT;3;SG	riprogetterà	riprogetterà
 Generate the inflected form for: riprogettare V;IND;PST;2;PL;PFV	riprogettaste	riprogettaste
-Generate the inflected form for: riproporsi V;IND;PST;3;PL;PFV	si riproporrono	si riproposero
+Generate the inflected form for: riproporsi V;IND;PST;3;PL;PFV	si riproporranno	si riproposero
 Generate the inflected form for: riproteggere V;NFIN	riproteggere	riproteggere
 Generate the inflected form for: riprovvedere V.CVB;PRS	riprovvedendo	riprovvedendo
 Generate the inflected form for: riprovvedere V;COND;3;SG	riprovvederebbe	riprovvedrebbe
@@ -738,22 +738,22 @@ Generate the inflected form for: riscaldare V;IND;PST;3;PL;IPFV	riscaldavano	ris
 Generate the inflected form for: riscaldare V;SBJV;PST;2;SG	riscaldassi	riscaldassi
 Generate the inflected form for: risconvolgere V;SBJV;PST;3;SG	risconvolgesse	risconvolgesse
 Generate the inflected form for: riseminare V.PTCP;PST	riseminato	riseminato
-Generate the inflected form for: ritorcere V;IND;PST;3;SG;PFV	ritorcesse	ritorse
-Generate the inflected form for: ritorcere V;SBJV;PRS;1;SG	ritorca	ritorca
+Generate the inflected form for: ritorcere V;IND;PST;3;SG;PFV	ritorceà	ritorse
+Generate the inflected form for: ritorcere V;SBJV;PRS;1;SG	ritorci	ritorca
 Generate the inflected form for: riunire V;SBJV;PST;3;PL	riunissero	riunissero
 Generate the inflected form for: riunire V;COND;3;SG	riunirebbe	riunirebbe
 Generate the inflected form for: rivaccinare V;SBJV;PRS;2;PL	rivacciniate	rivacciniate
 Generate the inflected form for: rivaccinare V;COND;1;SG	rivaccinerei	rivaccinerei
-Generate the inflected form for: rivenire V;POS;IMP;2;SG	riveni	rivieni
-Generate the inflected form for: riversarsi V;POS;IMP;2;PL	riversatevi	riversatevi
-Generate the inflected form for: riversarsi V;POS;IMP;2;SG	riversa	riversati
+Generate the inflected form for: rivenire V;POS;IMP;2;SG	rivenisci	rivieni
+Generate the inflected form for: riversarsi V;POS;IMP;2;PL	vi riversatevi	riversatevi
+Generate the inflected form for: riversarsi V;POS;IMP;2;SG	ti riversa	riversati
 Generate the inflected form for: rizappare V;COND;3;PL	rizapperebbero	rizapperebbero
 Generate the inflected form for: rizappare V;IND;FUT;1;PL	rizapperemo	rizapperemo
 Generate the inflected form for: romanzare V;IND;PST;2;PL;IPFV	romanzavate	romanzavate
 Generate the inflected form for: ronzare V;IND;FUT;2;PL	ronzerete	ronzerete
 Generate the inflected form for: ronzare V.PTCP;PST	ronzato	ronzato
 Generate the inflected form for: salare V;IND;FUT;3;SG	salerà	salerà
-Generate the inflected form for: saltabeccare V;IND;PRS;3;PL	saltabeccano	saltabeccano
+Generate the inflected form for: saltabeccare V;IND;PRS;3;PL	saltabecchino	saltabeccano
 Generate the inflected form for: satollare V;IND;PRS;2;SG	satolli	satolli
 Generate the inflected form for: satollare V;SBJV;PRS;3;PL	satollino	satollino
 Generate the inflected form for: sbloccare V;SBJV;PRS;3;SG	sblocchi	sblocchi
@@ -798,7 +798,7 @@ Generate the inflected form for: scorniciare V;COND;1;PL	scornicieremmo	scornice
 Generate the inflected form for: scoscendere V;IND;PRS;3;PL	scoscendono	scoscendono
 Generate the inflected form for: scoscendere V;COND;1;PL	scoscenderemmo	scoscenderemmo
 Generate the inflected form for: secolarizzare V.PTCP;PRS	secolarizzante	secolarizzante
-Generate the inflected form for: sedare V;IND;PST;1;SG;PFV	sedò	sedai
+Generate the inflected form for: sedare V;IND;PST;1;SG;PFV	sedai	sedai
 Generate the inflected form for: sedare V;IND;PRS;2;PL	sedate	sedate
 Generate the inflected form for: serenarsi V.PTCP;PRS	serenantesi	serenantesi
 Generate the inflected form for: serenarsi V;POS;IMP;3;SG	si sereni	si sereni
@@ -817,8 +817,8 @@ Generate the inflected form for: sforzarsi V;IND;FUT;3;SG	si sforzerà	si sforze
 Generate the inflected form for: sfrigolare V;SBJV;PST;1;SG	sfrigolassi	sfrigolassi
 Generate the inflected form for: sganasciare V;SBJV;PRS;3;PL	sganascino	sganascino
 Generate the inflected form for: sganciare V;COND;3;PL	sgancerebbero	sgancerebbero
-Generate the inflected form for: sgorgare V;IND;FUT;2;SG	sgorgherai	sgorgherai
-Generate the inflected form for: sgorgare V;COND;3;PL	sgorgherebbero	sgorgherebbero
+Generate the inflected form for: sgorgare V;IND;FUT;2;SG	sgorgerai	sgorgherai
+Generate the inflected form for: sgorgare V;COND;3;PL	sgorgerebbero	sgorgherebbero
 Generate the inflected form for: sguainare V;SBJV;PRS;2;PL	sguainiate	sguainiate
 Generate the inflected form for: sguainare V;IND;PRS;2;SG	sguaini	sguaini
 Generate the inflected form for: sguinzagliare V;SBJV;PRS;3;SG	sguinzagli	sguinzagli
@@ -852,14 +852,14 @@ Generate the inflected form for: sopportarsi V;SBJV;PST;1;SG	mi sopportassi	mi s
 Generate the inflected form for: sopportarsi V;IND;PST;1;PL;PFV	ci sopportammo	ci sopportammo
 Generate the inflected form for: sorridere V;POS;IMP;2;PL	sorridete	sorridete
 Generate the inflected form for: sorridere V;IND;PST;2;SG;IPFV	sorridevi	sorridevi
-Generate the inflected form for: sottacere V;POS;IMP;3;PL	sottaccino	sottacciano
+Generate the inflected form for: sottacere V;POS;IMP;3;PL	sottaceno	sottacciano
 Generate the inflected form for: sottoporsi V;IND;PRS;2;PL	vi sottoponete	vi sottoponete
-Generate the inflected form for: sottoporsi V;IND;PRS;1;SG	mi sottopongo	mi sottopongo
+Generate the inflected form for: sottoporsi V;IND;PRS;1;SG	mi sottopo	mi sottopongo
 Generate the inflected form for: sottoporsi V.CVB;PRS	sottoponendosi	sottoponendosi
-Generate the inflected form for: sottoscrivere V;SBJV;PRS;2;SG	sottoscriva	sottoscriva
+Generate the inflected form for: sottoscrivere V;SBJV;PRS;2;SG	sottoscrivi	sottoscriva
 Generate the inflected form for: sottosviluppare V;COND;1;PL	sottosvilupperemmo	sottosvilupperemmo
-Generate the inflected form for: sovraimporre V;SBJV;PRS;2;SG	sovraimponga	sovraimponga
-Generate the inflected form for: sovraimporre V;IND;PST;2;PL;PFV	sovraimporste	sovraimponeste
+Generate the inflected form for: sovraimporre V;SBJV;PRS;2;SG	sovraimponi	sovraimponga
+Generate the inflected form for: sovraimporre V;IND;PST;2;PL;PFV	sovraimposte	sovraimponeste
 Generate the inflected form for: sovrappopolare V;IND;PST;1;SG;IPFV	sovrappopolavo	sovrappopolavo
 Generate the inflected form for: sovrascorrere V;SBJV;PRS;2;PL	sovrascorriate	sovrascorriate
 Generate the inflected form for: sovrasterzare V;POS;IMP;3;PL	sovrasterzino	sovrasterzino
@@ -871,7 +871,7 @@ Generate the inflected form for: spannocchiare V;IND;PST;2;SG;PFV	spannocchiasti
 Generate the inflected form for: spannocchiare V;IND;FUT;1;PL	spannocchieremo	spannocchieremo
 Generate the inflected form for: spazzolare V;SBJV;PRS;2;SG	spazzoli	spazzoli
 Generate the inflected form for: spazzolare V;IND;PST;3;PL;PFV	spazzolarono	spazzolarono
-Generate the inflected form for: spazzolare V;IND;PRS;3;SG	spazzolo	spazzola
+Generate the inflected form for: spazzolare V;IND;PRS;3;SG	spazzola	spazzola
 Generate the inflected form for: sperticarsi V;SBJV;PST;2;SG	ti sperticassi	ti sperticassi
 Generate the inflected form for: splafonare V;COND;2;PL	splafonereste	splafonereste
 Generate the inflected form for: splafonare V;SBJV;PST;3;SG	splafonasse	splafonasse
@@ -883,11 +883,11 @@ Generate the inflected form for: standardizzare V;POS;IMP;1;PL	standardizziamo	s
 Generate the inflected form for: stangare V;IND;PST;1;PL;IPFV	stangavamo	stangavamo
 Generate the inflected form for: stangare V;IND;PST;2;PL;IPFV	stangavate	stangavate
 Generate the inflected form for: stangare V;SBJV;PST;1;PL	stangassimo	stangassimo
-Generate the inflected form for: stangare V;SBJV;PRS;3;SG	stanghi	stanghi
+Generate the inflected form for: stangare V;SBJV;PRS;3;SG	stangi	stanghi
 Generate the inflected form for: stecchire V;IND;PST;2;SG;PFV	stecchisti	stecchisti
 Generate the inflected form for: stecchire V;IND;PRS;2;PL	stecchite	stecchite
 Generate the inflected form for: stilettare V;IND;PRS;2;SG	stiletti	stiletti
-Generate the inflected form for: stirarsi V;POS;IMP;2;SG	stira	stirati
+Generate the inflected form for: stirarsi V;POS;IMP;2;SG	ti stira	stirati
 Generate the inflected form for: stirarsi V;IND;PRS;3;PL	si stirano	si stirano
 Generate the inflected form for: stirarsi V;IND;PST;2;SG;PFV	ti stirasti	ti stirasti
 Generate the inflected form for: stirarsi V;SBJV;PRS;3;SG	si stiri	si stiri
@@ -916,7 +916,7 @@ Generate the inflected form for: succidere V;COND;3;PL	succiderebbero	succidereb
 Generate the inflected form for: suddistinguere V;IND;FUT;2;SG	suddistinguerai	suddistinguerai
 Generate the inflected form for: suddistinguere V;SBJV;PRS;2;PL	suddistinguiate	suddistinguiate
 Generate the inflected form for: suicidarsi V;IND;PST;3;PL;PFV	si suicidarono	si suicidarono
-Generate the inflected form for: suicidarsi V;POS;IMP;2;SG	suicida	suicidati
+Generate the inflected form for: suicidarsi V;POS;IMP;2;SG	ti suicida	suicidati
 Generate the inflected form for: suicidarsi V;COND;2;SG	ti suicideresti	ti suicideresti
 Generate the inflected form for: sumere V;SBJV;PST;2;SG	sumessi	sumessi
 Generate the inflected form for: suonare V;IND;PST;1;PL;IPFV	suonavamo	suonavamo
@@ -936,7 +936,7 @@ Generate the inflected form for: svolazzare V.PTCP;PRS	svolazzante	svolazzante
 Generate the inflected form for: tartagliare V;COND;2;PL	tartagliereste	tartagliereste
 Generate the inflected form for: telefonare V;SBJV;PRS;2;PL	telefoniate	telefoniate
 Generate the inflected form for: teorizzare V;POS;IMP;1;PL	teorizziamo	teorizziamo
-Generate the inflected form for: teorizzare V;IND;PST;1;SG;PFV	teorizzò	teorizzai
+Generate the inflected form for: teorizzare V;IND;PST;1;SG;PFV	teorizzai	teorizzai
 Generate the inflected form for: tesserare V;IND;FUT;3;SG	tessererà	tessererà
 Generate the inflected form for: tesserare V;IND;FUT;3;PL	tessereranno	tessereranno
 Generate the inflected form for: tingere V;SBJV;PST;1;PL	tingessimo	tingessimo
@@ -944,7 +944,7 @@ Generate the inflected form for: titubare V;SBJV;PRS;1;SG	titubi	titubi
 Generate the inflected form for: tonare V;IND;PST;1;SG;IPFV	tonavo	tonavo
 Generate the inflected form for: tonare V;COND;1;PL	toneremmo	toneremmo
 Generate the inflected form for: tonificare V;SBJV;PRS;2;PL	tonifichiate	tonifichiate
-Generate the inflected form for: tornarsene V;SBJV;PRS;2;PL	ve torniate	ve ne torniate
+Generate the inflected form for: tornarsene V;SBJV;PRS;2;PL	ve ne torniate	ve ne torniate
 Generate the inflected form for: tramestare V;NFIN	tramestare	tramestare
 Generate the inflected form for: tramestare V.CVB;PRS	tramestando	tramestando
 Generate the inflected form for: tramestare V;POS;IMP;3;PL	tramestino	tramestino
@@ -963,14 +963,14 @@ Generate the inflected form for: turarsi V;IND;PST;2;PL;PFV	vi turaste	vi turast
 Generate the inflected form for: turarsi V;SBJV;PRS;2;SG	ti turi	ti turi
 Generate the inflected form for: uccellinare V;SBJV;PRS;1;SG	uccellini	uccellini
 Generate the inflected form for: uccellinare V;COND;2;SG	uccellineresti	uccellineresti
-Generate the inflected form for: uccidersi V;IND;PRS;3;SG	si uccida	si uccide
+Generate the inflected form for: uccidersi V;IND;PRS;3;SG	si uccide	si uccide
 Generate the inflected form for: uccidersi V;SBJV;PRS;1;PL	ci uccidiamo	ci uccidiamo
 Generate the inflected form for: uccidersi V;COND;2;SG	ti uccideresti	ti uccideresti
 Generate the inflected form for: ufficializzare V;SBJV;PST;3;SG	ufficializzasse	ufficializzasse
 Generate the inflected form for: umanarsi V;COND;1;PL	ci umaneremmo	ci umaneremmo
 Generate the inflected form for: unire V;IND;PRS;3;SG	unisca	unisce
 Generate the inflected form for: unire V;COND;2;PL	unireste	unireste
-Generate the inflected form for: unire V.CVB;PRS	unindo	unendo
+Generate the inflected form for: unire V.CVB;PRS	unire	unendo
 Generate the inflected form for: urgenzare V;SBJV;PRS;2;PL	urgenziate	urgenziate
 Generate the inflected form for: urinare V;IND;FUT;2;SG	urinerai	urinerai
 Generate the inflected form for: urinare V;IND;PRS;1;SG	urino	urino
@@ -1000,10 +1000,11 @@ Generate the inflected form for: zinnare V;POS;IMP;2;PL	zinnate	zinnate
 Generate the inflected form for: zoppare V;IND;PRS;3;PL	zoppano	zoppano
 
 Forward Task Evaluation:
-  Accuracy: 0.9080 (908/1000)
+  Accuracy: 0.8980 (898/1000)
+  Mean Levenshtein distance: 0.2430
   Example Mismatches (prediction | gold):
-    accantono | accantona
+    accapperanno | accappieranno
+    vi accertatevi | accertatevi
     accestisca | accesta
-    adacquo | adacqua
-    aderizzo | aderizza
-    si adopero | si adopera
+    acquisi | acquisisca
+    addiacciereste | addiaccereste

@@ -7,7 +7,7 @@ Generate the lemma and morphological tags for the inflected verb: Fanno	fare V;I
 Given the context: 'Loro non ci sarebbero mai potuti arrivare, perché la loro mente seguiva le strade consuete, e l'altra no, l'altra lottava contro l'impossibile.'
 Generate the lemma and morphological tags for the inflected verb: arrivare	arrivare V;NFIN	arrivare V;NFIN
 Given the context: 'Anche Maria, ricorda Wojtyla, "portò il peso" di una storica emarginazione ... eppure "il figlio di Dio non esitò a mettersi alla sua scuola".'
-Generate the lemma and morphological tags for the inflected verb: ricorda	ricordare V;IND;PRS;SG;3	ricordare V;IND;PRS;SG;3
+Generate the lemma and morphological tags for the inflected verb: ricorda	ricordare V;IND;PFV;PST;SG;3	ricordare V;IND;PRS;SG;3
 Given the context: 'Il nome del carabiniere (i corazzieri sono infatti un reparto speciale dell'Arma) è "top secret", ma la vicenda è stata denunciata alla magistratura e il procuratore militare Antonino Intelisano ha aperto un'inchiesta per il reato di offesa all'onore del presidente della Repubblica.'
 Generate the lemma and morphological tags for the inflected verb: denunciata	denunciare PST;V.PTCP	denunciare PST;V.PTCP
 Given the context: 'L'altro giorno mio figlio, che ha una casetta in affitto a Palù del Fersina, in Trentino, voleva portarlo su al fresco, perché si riposasse qualche giorno, ma lui non se l'è sentita di partire.'
@@ -59,9 +59,9 @@ Generate the lemma and morphological tags for the inflected verb: regalò	regala
 Given the context: 'Qui solo due anni fa dominava il coprifuoco imposto dai soldati israeliani.'
 Generate the lemma and morphological tags for the inflected verb: dominava	dominare V;IND;IPFV;PST;SG;3	dominare V;IND;IPFV;PST;SG;3
 Given the context: '"Venite al primo circo nella storia di Gaza", avvisano le locandine.'
-Generate the lemma and morphological tags for the inflected verb: Venite	venire V;IND;PRS;2;PL	venire V;IMP;PRS;2;PL
+Generate the lemma and morphological tags for the inflected verb: Venite	venire V;IMP;PRS;2;PL	venire V;IMP;PRS;2;PL
 Given the context: '"Chirac, ricordati Hiroshima".'
-Generate the lemma and morphological tags for the inflected verb: ricorda	ricordare V;IND;PRS;SG;2	ricordare V;IMP;PRS;SG;2
+Generate the lemma and morphological tags for the inflected verb: ricorda	ricordare V;IMP;PRS;SG;2	ricordare V;IMP;PRS;SG;2
 Given the context: 'Per quanto se ne sa, il presidente non ha inviato un messaggio al primo ministro giapponese Tomiichi Murayama per l'anniversario di Hiroshima.'
 Generate the lemma and morphological tags for the inflected verb: sa	sapere V;IND;PRS;SG;3	sapere V;IND;PRS;SG;3
 Given the context: 'Tra loro, in silenzio, c'erano cinquemila "hibakusha", i superstiti dell'esplosione di "Little Boy" e di "Fat Man", tali erano i nomi dei due ordigni, il primo destinato a Hiroshima; il secondo, tre giorni dopo, a Nagasaki.'
@@ -99,7 +99,7 @@ Generate the lemma and morphological tags for the inflected verb: bastasse	basta
 Given the context: 'Si finirà per scoprire che, prima di dedicarsi alla terza età e di sfruttare le perversioni dei suoi anziani ospiti, Irma ha lavorato come prostituta in un bordello.'
 Generate the lemma and morphological tags for the inflected verb: finirà	finire V;IND;FUT;SG;3	finire V;IND;FUT;SG;3
 Given the context: 'Basti sapere che costui uccide memore delle vespe d'autunno (ecco il titolo) che, quando il loro nido va in briciole e la bella stagione muore, "diventano erratiche e aggressive".'
-Generate the lemma and morphological tags for the inflected verb: Basti	bastare V;IND;PRS;SG;2	bastare V;SBJV;PRS;SG;3
+Generate the lemma and morphological tags for the inflected verb: Basti	bastare V;IMP;PRS;SG;2	bastare V;SBJV;PRS;SG;3
 Given the context: 'Mi provo a ripetere con la variante le frasi di poco fa:'
 Generate the lemma and morphological tags for the inflected verb: provo	provare V;IND;PRS;SG;1	provare V;IND;PRS;1;SG
 Given the context: '"A me questa "Traviata" è piaciuta molto.'
@@ -205,7 +205,7 @@ Generate the lemma and morphological tags for the inflected verb: cominciato	com
 Given the context: '"Con l'esempio di Saverio abbiamo voluto dare un'iniezione di fiducia a tutti i cardiopatici, dimostrare che la vita, grazie a una buona riabilitazione, può essere estremamente attiva, quasi del tutto normale anche dopo un incidente cardiaco.'
 Generate the lemma and morphological tags for the inflected verb: dare	dare V;NFIN	dare V;NFIN
 Given the context: 'Significa che sono state tagliate le vie nervose attraverso le quali è normalmente regolata l'attività cardiaca.'
-Generate the lemma and morphological tags for the inflected verb: Significa	significare V;IMP;PRS;SG;3	significare V;IND;PRS;SG;3
+Generate the lemma and morphological tags for the inflected verb: Significa	significare V;IND;PRS;SG;3	significare V;IND;PRS;SG;3
 Given the context: 'Per questo un "trapiantato" non riesce ad avvertire la sensazione di cardiopalmo, non ha controllo cosciente della frequenza cardiaca.'
 Generate the lemma and morphological tags for the inflected verb: riesce	riescere V;IND;PRS;SG;3	riuscire V;IND;PRS;SG;3
 Given the context: 'Tutti gli edifici sono collegati tra loro da gallerie, percorse in continuazione da medici, personale di servizio e pazienti.'
@@ -225,7 +225,7 @@ Generate the lemma and morphological tags for the inflected verb: porterà	porta
 Given the context: 'l'essenzialità, in quanto delineano e definiscono il contenuto del diritto stesso;'
 Generate the lemma and morphological tags for the inflected verb: delineano	delineare V;IND;PRS;3;PL	delineare V;IND;PRS;PL;3
 Given the context: 'stillicidio [v. 908]).'
-Generate the lemma and morphological tags for the inflected verb: v.	v.cvb	vedere V;IMP;PRS;SG;2
+Generate the lemma and morphological tags for the inflected verb: v.	vedere V;IND;PRS;SG;3	vedere V;IMP;PRS;SG;2
 Given the context: 'L'espropriazione è realizzata attraverso un atto amministrativo;'
 Generate the lemma and morphological tags for the inflected verb: realizzata	realizzare PST;V.PTCP	realizzare PST;V.PTCP
 Given the context: 'La norma prevede una sottospecie di espropriazione, fondata non sulla pubblica utilità del bene, ma sul cattivo uso di alcuni beni da parte del proprietario, e sul danno che il cattivo uso può arrecare alla produzione nazionale, al decoro e all'igiene nelle città.'
@@ -347,7 +347,7 @@ Generate the lemma and morphological tags for the inflected verb: allunga	allung
 Given the context: 'Se venivi colto sul fatto, ti aspettavano otto anni di carcere.'
 Generate the lemma and morphological tags for the inflected verb: colto	cogliere PST;V.PTCP	cogliere PST;V.PTCP
 Given the context: 'Lei sostiene che c'è un aspetto inquietante nella rivolta di Valona e nel crack delle finanziarie.'
-Generate the lemma and morphological tags for the inflected verb: sostiene	sostenere V;IND;PRS;SG;3	sostenere V;IND;PRS;SG;3
+Generate the lemma and morphological tags for the inflected verb: sostiene	sostienere V;IND;PRS;SG;3	sostenere V;IND;PRS;SG;3
 Given the context: 'E i soldi delle piramidi dove sono finiti?'
 Generate the lemma and morphological tags for the inflected verb: finiti	finire PST;V.PTCP	finire PST;V.PTCP
 Given the context: 'Giancarlo Pagliarini ha difeso le ragioni economiche della secessione.'
@@ -393,11 +393,11 @@ Generate the lemma and morphological tags for the inflected verb: scatena	scaten
 Given the context: 'In 500 mila, un albanese su sette, hanno scommesso su questa pesca miracolosa con la promessa di rendimenti mensili sul capitale versato dal 30% al 50%, in un Paese in cui l'inflazione ufficiale è del 20% l'anno e il reddito medio pro capite non supera i 700 dollari.'
 Generate the lemma and morphological tags for the inflected verb: scommesso	scommettere PST;V.PTCP	scommettere PST;V.PTCP
 Given the context: 'Le indagini, condotte dal Comando carabinieri politiche agricole di Roma e dai Comandi provinciali della Guardia di finanza di Catanzaro e Reggio Calabria sono state coordinate dalla Procura della Repubblica di Palmi.'
-Generate the lemma and morphological tags for the inflected verb: condotte	condurre PST;V.PTCP	condurre PST;V.PTCP
+Generate the lemma and morphological tags for the inflected verb: condotte	condere PST;V.PTCP	condurre PST;V.PTCP
 Given the context: 'Ci ha messo freddezza nel realizzare il rigore del 2-1, tirandolo sulla sinistra del portiere Manninger, poi sulla destra, nella ripetizione imposta perché troppa gente era entrata in area.'
 Generate the lemma and morphological tags for the inflected verb: messo	mettere PST;V.PTCP	mettere PST;V.PTCP
 Given the context: 'Ciascuno ne tragga il significato che crede sullo stato del pallone.'
-Generate the lemma and morphological tags for the inflected verb: tragga	traggere V;SBJV;PRS;SG;3	trarre V;SBJV;PRS;SG;3
+Generate the lemma and morphological tags for the inflected verb: tragga	traggare V;SBJV;PRS;SG;3	trarre V;SBJV;PRS;SG;3
 Given the context: 'Sarebbe stata probabilmente un'altra storia se Negro avesse raddoppiato in avvio di ripresa con un colpo di tacco nell'angolo basso, dove Julio Cesar arrivava miracolosamente col piede come un portiere da calcetto.'
 Generate the lemma and morphological tags for the inflected verb: raddoppiato	raddoppiare PST;V.PTCP	raddoppiare PST;V.PTCP
 Given the context: 'Nell'1 si troveranno lo stand del paese ospite, la Lituania, e, oltre alla Sala rossa, un'altra novità creata in occasione delle venti candeline:'
@@ -583,7 +583,7 @@ Generate the lemma and morphological tags for the inflected verb: Elenca	elencar
 Given the context: 'Quale animale ha le impronte digitali simili a quelle umane?'
 Generate the lemma and morphological tags for the inflected verb: ha	avere V;IND;PRS;SG;3	avere V;IND;PRS;SG;3
 Given the context: 'A quale azienda appartiene il marchio di bevande non alcoliche "Gatorade"?'
-Generate the lemma and morphological tags for the inflected verb: appartiene	appartenere V;IND;PRS;SG;3	appartenere V;IND;PRS;SG;3
+Generate the lemma and morphological tags for the inflected verb: appartiene	appartienere V;IND;PRS;SG;3	appartenere V;IND;PRS;SG;3
 Given the context: 'Quali paesi ha visitato la first lady Hillary Clinton?'
 Generate the lemma and morphological tags for the inflected verb: visitato	visitare PST;V.PTCP	visitare PST;V.PTCP
 Given the context: 'In quale provincia canadese si trova il maggior numero di persone di origine francese?'
@@ -639,7 +639,7 @@ Generate the lemma and morphological tags for the inflected verb: ipotizzano	ipo
 Given the context: 'è già avvenuto in Lombardia, dove la crisi ha spinto la Regione a liberalizzare le promozioni non solo a dicembre ma tutto l'anno.'
 Generate the lemma and morphological tags for the inflected verb: avvenuto	avvenire PST;V.PTCP	avvenire PST;V.PTCP
 Given the context: 'prima che l'inchiesta colpisse addirittura il vertice di Finmeccanica, Giuseppe Orsi, indagato nell'ambito di un altro filone, poi trasferito da Napoli a Busto Arstizio.'
-Generate the lemma and morphological tags for the inflected verb: colpisse	colpire V;SBJV;IPFV;PST;SG;3	colpire V;SBJV;IPFV;PST;SG;3
+Generate the lemma and morphological tags for the inflected verb: colpisse	colpire V;SBJV;PST;SG;3	colpire V;SBJV;IPFV;PST;SG;3
 Given the context: 'E non dimentichiamo che secondo Borgogni è stata assunta anche la figlia di Massimo Ponzellini.'
 Generate the lemma and morphological tags for the inflected verb: dimentichiamo	dimenticare V;IND;PRS;1;PL	dimenticare V;IND;PRS;1;PL
 Given the context: 'Altre tre persone, tra cui Marco Tornatore, figlio di Gianfranco, sono indagate a piede libero.'
@@ -659,7 +659,7 @@ Generate the lemma and morphological tags for the inflected verb: acquisirà	acq
 Given the context: 'Francamente vorrei cose più serie per iniziare il 2014 ″, aggiunge.'
 Generate the lemma and morphological tags for the inflected verb: vorrei	volere V;IND;FUT;SG;1	volere V;COND;1;SG
 Given the context: 'Altri utenti, invece, si sono profusi in una serie di apprezzamenti all’iniziativa di Grillo.'
-Generate the lemma and morphological tags for the inflected verb: profusi	profuggere PST;V.PTCP	profondere PST;V.PTCP
+Generate the lemma and morphological tags for the inflected verb: profusi	proferire PST;V.PTCP	profondere PST;V.PTCP
 Given the context: 'Attribuzione - Condividi allo stesso modo 2.0 (Italia).'
 Generate the lemma and morphological tags for the inflected verb: Condividi	condividere V;IMP;PRS;SG;2	condividere V;IMP;PRS;SG;2
 Given the context: 'Ogni utilizzazione dell'opera che non sia autorizzata ai sensi della presente licenza o del diritto d'autore è proibita.'
@@ -707,7 +707,7 @@ Generate the lemma and morphological tags for the inflected verb: Pianificò	pia
 Given the context: 'Nonostante Balzac fosse "talvolta un eremita e un girovago", ha sempre provato a rimanere in contatto con la società che forniva materiale per il suo lavoro.'
 Generate the lemma and morphological tags for the inflected verb: provato	provare PST;V.PTCP	provare PST;V.PTCP
 Given the context: 'La salute di lui peggiorò lungo il cammino, e Ewelina scrisse a sua figlia che Balzac era "in uno stato di estrema debolezza" e "sudava copiosamente".'
-Generate the lemma and morphological tags for the inflected verb: peggiorò	peggiorare V;IND;IPFV;PST;SG;3	peggiorare V;IND;PFV;PST;SG;3
+Generate the lemma and morphological tags for the inflected verb: peggiorò	peggiorare V;IND;PFV;PST;SG;3	peggiorare V;IND;PFV;PST;SG;3
 Given the context: 'Sua madre era la sola persona presente quando egli spirò;'
 Generate the lemma and morphological tags for the inflected verb: spirò	spirare V;IND;IPFV;PST;SG;3	spirare V;IND;PFV;PST;SG;3
 Given the context: 'Come fece con la gente attorno a sè, Balzac studiò in profondità quei luoghi, viaggiando in luoghi remoti e prendendo nota di ciò che aveva fatto nelle visite precedenti.'
@@ -763,7 +763,7 @@ Generate the lemma and morphological tags for the inflected verb: applicano	appl
 Given the context: 'Il comitato adotta il proprio regolamento interno.'
 Generate the lemma and morphological tags for the inflected verb: adotta	adottare V;IND;PRS;SG;3	adottare V;IND;PRS;SG;3
 Given the context: 'Il primo giorno lavorativo di ciascun mese del corrispondente anno viene corrisposto alla Bulgaria e alla Romania un dodicesimo di ciascun importo annuale.'
-Generate the lemma and morphological tags for the inflected verb: corrisposto	corrisporre PST;V.PTCP	corrispondere PST;V.PTCP
+Generate the lemma and morphological tags for the inflected verb: corrisposto	corrispondere PST;V.PTCP	corrispondere PST;V.PTCP
 Given the context: 'Tutti i fondi inutilizzati o spesi ingiustificatamente sono recuperati dalla commissione.'
 Generate the lemma and morphological tags for the inflected verb: spesi	spendere PST;V.PTCP	spendere PST;V.PTCP
 Given the context: 'La commissione può adottare qualsiasi provvedimento tecnico necessario al funzionamento dello strumento temporaneo per i flussi di tesoreria e strumento Schengen.'
@@ -808,13 +808,13 @@ Given the context: 'Se tale decisione è presa anteriormente alla data di adesio
 Generate the lemma and morphological tags for the inflected verb: presa	prendere PST;V.PTCP	prendere PST;V.PTCP
 
 Inverse Task Evaluation (Lemma/MSD):
-  Lemma accuracy: 0.9579 (387/404)
-  Lemma mean Levenshtein distance: 0.1559
-  MSD accuracy (exact set match): 0.9629 (389/404)
-  MSD micro-precision: 0.9855  micro-recall: 0.9781  micro-F1: 0.9818
+  Lemma accuracy: 0.9554 (386/404)
+  Lemma mean Levenshtein distance: 0.1485
+  MSD accuracy (exact set match): 0.9678 (391/404)
+  MSD micro-precision: 0.9856  micro-recall: 0.9815  micro-F1: 0.9836
   Example Mismatches (prediction | gold):
-    venire V;IND;PRS;2;PL | venire V;IMP;PRS;2;PL
-    ricordare V;IND;PRS;SG;2 | ricordare V;IMP;PRS;SG;2
+    ricordare V;IND;PFV;PST;SG;3 | ricordare V;IND;PRS;SG;3
     dare V;IND;FUT;3;PL | dare V;IND;PRS;PL;3
     bastare V;SBJV;PST;SG;3 | bastare V;SBJV;IPFV;PST;SG;3
-    bastare V;IND;PRS;SG;2 | bastare V;SBJV;PRS;SG;3
+    bastare V;IMP;PRS;SG;2 | bastare V;SBJV;PRS;SG;3
+    vare V;IND;PRS;SG;3 | andare V;IND;PRS;SG;3

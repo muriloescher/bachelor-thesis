@@ -1,11 +1,11 @@
 Given the context: 'Sociologists have explored the adverse consequences of discrimination [3 – 5];'
-Generate the lemma and morphological tags for the inflected verb: explored	explore V;PST;V.PTCP	explore V;PST;V.PTCP
+Generate the lemma and morphological tags for the inflected verb: explored	expore V;PST;V.PTCP	explore V;PST;V.PTCP
 Given the context: 'psychologists have examined the mental processes that underpin conscious and unconscious biases [6];'
 Generate the lemma and morphological tags for the inflected verb: examined	examine V;PST;V.PTCP	examine V;PST;V.PTCP
 Given the context: 'neuroscientists have examined the neurobiological underpinnings of discrimination [7 – 9];'
 Generate the lemma and morphological tags for the inflected verb: examined	examine V;PST;V.PTCP	examine V;PST;V.PTCP
 Given the context: 'and evolutionary theorists have explored the various ways that in-group / out-group biases emerged across the history of our species. [10]'
-Generate the lemma and morphological tags for the inflected verb: explored	explore V;PST;V.PTCP	explore V;PST;V.PTCP
+Generate the lemma and morphological tags for the inflected verb: explored	expore V;PST;V.PTCP	explore V;PST;V.PTCP
 Given the context: 'In many respects, researchers already possess a wealth of knowledge concerning the origins and consequences of discrimination and bias. [11]'
 Generate the lemma and morphological tags for the inflected verb: possess	possess V;PRS;PL;3	possess V;PRS;3;PL
 Given the context: 'What also should not be lost in discussion of discrimination is the growing push to implement social policy aimed at reducing the occurrence of discriminatory practices.'
@@ -119,7 +119,7 @@ Generate the lemma and morphological tags for the inflected verb: written	write 
 Given the context: 'Names of the villages of Mof-Ávvi are written using the Eegimaa orthography and following the pronunciation of village names by native speakers.'
 Generate the lemma and morphological tags for the inflected verb: written	write V;PST;V.PTCP	write V;PST;V.PTCP
 Given the context: 'Jóola language varieties which are closely related to Eegimaa include Kujireray/Kuluunaay (from the village of Brin with 76% lexical similarity) and Gufiñamay (from the village of Afiniam with 74% lexical similarity (based on Lewis et al., 2014 eds.)).'
-Generate the lemma and morphological tags for the inflected verb: include	include V;PRS;V.PTCP	include V;PRS;3;PL
+Generate the lemma and morphological tags for the inflected verb: include	include V;PST;V.PTCP	include V;PRS;3;PL
 Given the context: 'They are located north of the Casamance River in the Jóola Búluf area.'
 Generate the lemma and morphological tags for the inflected verb: located	locate V;PST;V.PTCP	locate V;PST;V.PTCP
 Given the context: 'There are also small migrant Eegimaa communities in villages like Djifanghor (east of Ziguinchor) and in Bourofaye (south of Ziguinchor), where they cohabit with speakers of Baïnounk languages.'
@@ -213,7 +213,7 @@ Generate the lemma and morphological tags for the inflected verb: applied	apply 
 Given the context: 'This term is qualified by a further concept called a junction which represents one idea, expressed by means of two or more elements, whereas a nexus combines two ideas.'
 Generate the lemma and morphological tags for the inflected verb: qualified	qualify V;PST;V.PTCP	qualify V;PST;V.PTCP
 Given the context: 'Junction and nexus proved valuable in bringing the concept of context to the forefront of the attention of the world of linguistics.'
-Generate the lemma and morphological tags for the inflected verb: proved	prove V;PST;PL;3	prove V;PST;3;PL
+Generate the lemma and morphological tags for the inflected verb: proved	prove V;PST;SG;3	prove V;PST;3;PL
 Given the context: 'He was most widely recognized for some of his books.'
 Generate the lemma and morphological tags for the inflected verb: recognized	recognize V;PST;V.PTCP	recognize V;PST;V.PTCP
 Given the context: 'Language: Its Nature, Development and Origin (1922) is considered by many to be his masterpiece.'
@@ -239,7 +239,7 @@ Generate the lemma and morphological tags for the inflected verb: see	see V;IMP;
 Given the context: 'Jespersen was a proponent of phonosemanticism and wrote:'
 Generate the lemma and morphological tags for the inflected verb: wrote	write V;PST;SG;3	write V;PST;SG;3
 Given the context: '“Is there really much more logic in the opposite extreme which denies any kind of sound symbolism (apart from the small class of evident echoisms and ‘onomatopoeia’) and sees in our words only a collection of accidental and irrational associations of sound and meaning? ...'
-Generate the lemma and morphological tags for the inflected verb: Is	deny V;PRS;SG;3	be V;PRS;SG;3
+Generate the lemma and morphological tags for the inflected verb: Is	be V;PRS;SG;3	be V;PRS;SG;3
 Given the context: 'There is no denying that there are words which we feel instinctively to be adequate to express the ideas they stand for.”'
 Generate the lemma and morphological tags for the inflected verb: is	be V;PRS;SG;3	be V;PRS;SG;3
 Given the context: 'After his retirement in 1925, Jespersen remained active in the international linguistic community.'
@@ -257,7 +257,7 @@ Generate the lemma and morphological tags for the inflected verb: elected	elect 
 Given the context: 'Are you — do they still teach at Bahia on Sunday?'
 Generate the lemma and morphological tags for the inflected verb: teach	teach V;NFIN	teach V;NFIN
 Given the context: 'In fact I would have gone today, if it wasn't for my back.'
-Generate the lemma and morphological tags for the inflected verb: gone	go V;PST;V.PTCP	go V;PST;V.PTCP
+Generate the lemma and morphological tags for the inflected verb: gone	get V;PST;V.PTCP	go V;PST;V.PTCP
 Given the context: 'Well I finally found some people there I can dance with.'
 Generate the lemma and morphological tags for the inflected verb: found	find V;PST;SG;1	find V;PST;SG;1
 Given the context: 'So that helps.'
@@ -319,7 +319,7 @@ Generate the lemma and morphological tags for the inflected verb: think	think V;
 Given the context: 'And like, well they were attractive women, the one had on a real real short skirt.'
 Generate the lemma and morphological tags for the inflected verb: had	have V;PST;SG;3	have V;PST;SG;3
 Given the context: 'Anyway, there was this guy in his fifties, out there dancing, by himself.'
-Generate the lemma and morphological tags for the inflected verb: was	be V;PRS;SG;3	be V;PST;SG;3
+Generate the lemma and morphological tags for the inflected verb: was	be V;PST;SG;3	be V;PST;SG;3
 Given the context: 'And the woman was just looking at him, making eyes, then she went out there, got on her knees, in front of him, in this skirt that's this short, takes her hands, and goes along his toes, and then up, and is just doing like that.'
 Generate the lemma and morphological tags for the inflected verb: looking	look V;PRS;V.PTCP	look V;PRS;V.PTCP
 Given the context: 'I figured, oh, they must know each other.'
@@ -367,7 +367,7 @@ Generate the lemma and morphological tags for the inflected verb: thinking	think
 Given the context: 'But I just thought that —'
 Generate the lemma and morphological tags for the inflected verb: thought	think V;PST;SG;1	think V;PST;SG;1
 Given the context: 'No wonder they forbid this dance.'
-Generate the lemma and morphological tags for the inflected verb: forbid	forbid V;PRS;PL;3	forbid V;PRS;3;PL
+Generate the lemma and morphological tags for the inflected verb: forbid	forbid V;PST;PL;3	forbid V;PRS;3;PL
 Given the context: 'Well, maybe I shouldn't go there then.'
 Generate the lemma and morphological tags for the inflected verb: go	go V;NFIN	go V;NFIN
 Given the context: 'Sam has been, has taken such an interest in this retirement bit that it — it really surprises me.'
@@ -433,7 +433,7 @@ Generate the lemma and morphological tags for the inflected verb: wan	want V;PRS
 Given the context: 'Can I grow some basil?'
 Generate the lemma and morphological tags for the inflected verb: grow	grow V;NFIN	grow V;NFIN
 Given the context: 'Yes, that's how I've –'
-Generate the lemma and morphological tags for the inflected verb: 've	ve V;PRS;SG;1	have V;PRS;SG;1
+Generate the lemma and morphological tags for the inflected verb: 've	be V;PRS;SG;1	have V;PRS;SG;1
 Given the context: 'I don't have any this year, but I've grown it other years.'
 Generate the lemma and morphological tags for the inflected verb: have	have V;NFIN	have V;NFIN
 Given the context: 'There's no proble-.'
@@ -449,13 +449,13 @@ Generate the lemma and morphological tags for the inflected verb: think	think V;
 Given the context: 'It comes right up.'
 Generate the lemma and morphological tags for the inflected verb: comes	come V;PRS;SG;3	come V;PRS;SG;3
 Given the context: 'Isn't that what you gave the neighbor one time?'
-Generate the lemma and morphological tags for the inflected verb: gave	give V;PST;SG;2	give V;PST;2;SG
+Generate the lemma and morphological tags for the inflected verb: gave	get V;PST;SG;2	give V;PST;2;SG
 Given the context: 'You gave him some kind of herb.'
-Generate the lemma and morphological tags for the inflected verb: gave	give V;PST;SG;2	give V;PST;2;SG
+Generate the lemma and morphological tags for the inflected verb: gave	get V;PST;SG;2	give V;PST;2;SG
 Given the context: 'Did I give him some?'
 Generate the lemma and morphological tags for the inflected verb: give	give V;NFIN	give V;NFIN
 Given the context: 'I gave him a red pepper.'
-Generate the lemma and morphological tags for the inflected verb: gave	give V;PST;SG;1	give V;PST;SG;1
+Generate the lemma and morphological tags for the inflected verb: gave	get V;PST;SG;1	give V;PST;SG;1
 Given the context: 'I think you – I think you gave him some herb of some kind.'
 Generate the lemma and morphological tags for the inflected verb: think	think V;PRS;SG;1	think V;PRS;SG;1
 Given the context: 'I may have given – given him some basil, yes.'
@@ -547,7 +547,7 @@ Generate the lemma and morphological tags for the inflected verb: excuse	excuse 
 Given the context: 'Well, it is true in Lynch v. Overholser this Court suggested certain, uh, rationales for a commitment, but it didn't then go on to say whether those rationales were ones which would justify an indefinite commitment or simply one that would persist as long as the sentence that might have been imposed.'
 Generate the lemma and morphological tags for the inflected verb: suggested	suggest V;PST;SG;3	suggest V;PST;SG;3
 Given the context: 'And it's our view that those rationales, whether you call them punitive or not, are, are all ones which evaporate once the accou- -- once the insanity acquittee has been confined for as long as he could have been confined if he had been convicted.'
-Generate the lemma and morphological tags for the inflected verb: call	call V;PRS;SG;2	call V;PRS;2;SG
+Generate the lemma and morphological tags for the inflected verb: call	call V;PRS;PL;2	call V;PRS;2;SG
 Given the context: 'Does your position depend at all on whether or not the initial crime was a crime of violence?'
 Generate the lemma and morphological tags for the inflected verb: depend	depend V;NFIN	depend V;NFIN
 Given the context: 'Uh, suppose this had been a street mugging, for example?'
@@ -643,7 +643,7 @@ Generate the lemma and morphological tags for the inflected verb: Learning	learn
 Given the context: 'We have a tendency to trust our tribe mates and authorities, especially when it comes to danger.'
 Generate the lemma and morphological tags for the inflected verb: have	have V;PRS;1;PL	have V;PRS;1;PL
 Given the context: 'It is adaptive: Parents and wise old men told us not to eat a special plant, or not to go to an area in the woods, or we would be hurt.'
-Generate the lemma and morphological tags for the inflected verb: told	tell V;PST;PL;3	tell V;PST;3;PL
+Generate the lemma and morphological tags for the inflected verb: told	tell V;PST;SG;3	tell V;PST;3;PL
 Given the context: 'By trusting them, we would not die like a great-grandfather who died eating that plant.'
 Generate the lemma and morphological tags for the inflected verb: trusting	trust V;PRS;V.PTCP	trust V;PRS;V.PTCP
 Given the context: 'This way we accumulated knowledge.'
@@ -737,7 +737,7 @@ Generate the lemma and morphological tags for the inflected verb: began	begin V;
 Given the context: 'Toyota flew this rowdy crew to Japan, to see an entirely different way of working: The Toyota Way.'
 Generate the lemma and morphological tags for the inflected verb: flew	fly V;PST;SG;3	flead V;PST;SG;3
 Given the context: 'At Toyota, labor and management considered themselves on the same team; when workers got stuck, managers didn’t yell at them, but asked how they could help and solicited suggestions.'
-Generate the lemma and morphological tags for the inflected verb: considered	consider V;PST;PL;3	consider V;PST;3;PL
+Generate the lemma and morphological tags for the inflected verb: considered	consider V;PST;SG;3	consider V;PST;3;PL
 Given the context: '“You had union workers—grizzled old folks that had worked on the plant floor for 30 years, and they were hugging their Japanese counterparts, just absolutely in tears,” recalls their Toyota trainer.'
 Generate the lemma and morphological tags for the inflected verb: had	have V;PST;SG;2	have V;PST;2;SG
 Given the context: '“And it might sound flowery to say 25 years later, but they had had such a powerful emotional experience of learning a new way of working, a way that people could actually work together collaboratively — as a team.'
@@ -745,7 +745,7 @@ Generate the lemma and morphological tags for the inflected verb: sound	sound V;
 Given the context: 'Three months after they got back to the US and reopened the plant, everything had changed.'
 Generate the lemma and morphological tags for the inflected verb: got	get V;PST;PL;3	get V;PST;3;PL
 Given the context: 'Grievances and absenteeism fell away and workers started saying they actually enjoyed coming to work.'
-Generate the lemma and morphological tags for the inflected verb: fell	feel V;PST;PL;3	fall V;PST;3;PL
+Generate the lemma and morphological tags for the inflected verb: fell	feel V;PST;SG;3	fall V;PST;3;PL
 Given the context: 'The Fremont factory, once one of the worst in the US, had skyrocketed to become the best.'
 Generate the lemma and morphological tags for the inflected verb: skyrocketed	skyrocket V;PST;V.PTCP	skyrocket V;PST;V.PTCP
 Given the context: 'The cars they made got near-perfect quality ratings.'
@@ -803,7 +803,7 @@ Generate the lemma and morphological tags for the inflected verb: leaning	lean V
 Given the context: 'You never get tired of watching them.'
 Generate the lemma and morphological tags for the inflected verb: get	get V;PRS;SG;2	get V;PRS;2;SG
 Given the context: 'Someone’s hung it up here — a hundred meters of clean gray and green twentieth-century modernism, plucked up from the river Main and suspended in the chilly air 2,360 meters up, between a lump of wooded parkland and a cluster of antique subway cars.'
-Generate the lemma and morphological tags for the inflected verb: hung	hine V;PST;V.PTCP	hang V;PST;V.PTCP
+Generate the lemma and morphological tags for the inflected verb: hung	have V;PST;V.PTCP	hang V;PST;V.PTCP
 Given the context: 'She’s wearing a 1950s sundress and a broad-brimmed hat, and it’s like an essay on the last century — the austere steel bridge, the bright blobs of subway graffiti, and her yellow dress, flapping against her legs as she climbs over the bridge’s rail.'
 Generate the lemma and morphological tags for the inflected verb: wearing	wear V;PRS;V.PTCP	wear V;PRS;V.PTCP
 Given the context: 'She’s beyond the rail now, hanging out over the mountain - high drop.'
@@ -855,7 +855,7 @@ Generate the lemma and morphological tags for the inflected verb: Watch	watch V;
 Given the context: 'She’s swept past the whalelike oval of the public pool on the 202nd, past the sloping mandala of the Google of offices on the 164th.'
 Generate the lemma and morphological tags for the inflected verb: swept	sweep V;PST;V.PTCP	sweep V;PST;V.PTCP
 Given the context: 'At the 131st, below her, is the old Stock Exchange, hung upside-down now as a hipster den.'
-Generate the lemma and morphological tags for the inflected verb: hung	hine V;PST;SG;3	hang V;PST;V.PTCP
+Generate the lemma and morphological tags for the inflected verb: hung	hink V;PST;SG;3	hang V;PST;V.PTCP
 Given the context: 'Now the mites are finally closing in.'
 Generate the lemma and morphological tags for the inflected verb: closing	close V;PRS;V.PTCP	close V;PRS;V.PTCP
 Given the context: 'A silver swarm coalesces around the 164th, and she vanishes into it, like a snip of scallion into cloudy miso soup.'
@@ -953,7 +953,7 @@ Generate the lemma and morphological tags for the inflected verb: took	take V;PS
 Given the context: 'He had effervescent tablets that turned the canteen drinking water into that exact same pink mixture that the dentist gave you to rinse your mouth out after scraping around inside, and guaranteed to make the other kids splutter and spit it out when the taste slowly percolated through and met the memory of their last checkup.'
 Generate the lemma and morphological tags for the inflected verb: had	have V;PST;SG;3	have V;PST;SG;3
 Given the context: 'Then there was the event that became the rite of passage into our group of misfits and outcasts: making a mould of your teeth.'
-Generate the lemma and morphological tags for the inflected verb: was	be V;PRS;SG;3	be V;PST;SG;3
+Generate the lemma and morphological tags for the inflected verb: was	be V;PST;SG;3	be V;PST;SG;3
 Given the context: 'It was inevitable that one of us, seeing the plaster casts on the shelf by Steven’s bed would ask how they were done.'
 Generate the lemma and morphological tags for the inflected verb: seeing	see V;PRS;V.PTCP	see V;PRS;V.PTCP
 Given the context: 'It was just as inevitable that a few minutes later, Steven would be mixing up various powders and liquids, and pouring them into a horse-shoe shaped contraption.'
@@ -969,19 +969,19 @@ Generate the lemma and morphological tags for the inflected verb: filled	fill V;
 Given the context: 'And you seemed to be suddenly drowning in your own saliva.'
 Generate the lemma and morphological tags for the inflected verb: seemed	seem V;PST;SG;2	seem V;PST;2;SG
 Given the context: 'Things generally got better when Steven reminded you that you could actually breathe, and swallow, normally.'
-Generate the lemma and morphological tags for the inflected verb: got	get V;PST;PL;3	get V;PST;3;PL
+Generate the lemma and morphological tags for the inflected verb: got	get V;PST;SG;3	get V;PST;3;PL
 Given the context: 'He watched the second hand trotting round the dial of his watch mouthing the quarters, before poking the setting goo to check its consistency.'
 Generate the lemma and morphological tags for the inflected verb: watched	watch V;PST;SG;3	watch V;PST;SG;3
 Given the context: 'Then, when he gave you the nod, you tried to prise your jaws apart.'
-Generate the lemma and morphological tags for the inflected verb: gave	give V;PST;SG;3	give V;PST;SG;3
+Generate the lemma and morphological tags for the inflected verb: gave	get V;PST;SG;3	give V;PST;SG;3
 Given the context: 'As the seal around your gums and teeth was pretty solid, you thought it would never come off, as the others giggled at your expressions and grimaces.'
-Generate the lemma and morphological tags for the inflected verb: thought	think V;PST;SG;2	think V;PST;2;SG
+Generate the lemma and morphological tags for the inflected verb: thought	think V;PST;SG;1	think V;PST;2;SG
 Given the context: 'Steven jiggled the handle that stuck out beyond your front teeth like some metallic duck’s bill, turning and twisting it most professionally and murmuring encouragements.'
 Generate the lemma and morphological tags for the inflected verb: jiggled	jiggle V;PST;SG;3	jiggle V;PST;SG;3
 Given the context: 'And, then, with an awful sucking slurp, it came free.'
 Generate the lemma and morphological tags for the inflected verb: sucking	suck V;PRS;V.PTCP	suck V;PRS;V.PTCP
 Given the context: 'The initiated then revelled in retelling the gross sensation of having this evil-smelling plastic slug invade your mouth, while the others waited their turn with mixed trepidation and excitement.'
-Generate the lemma and morphological tags for the inflected verb: initiated	initiate V;PST;SG;3	initiate V;PST;V.PTCP
+Generate the lemma and morphological tags for the inflected verb: initiated	initiate V;PST;V.PTCP	initiate V;PST;V.PTCP
 Given the context: 'Raucous laughter greeted the suggestions of the other body parts that could receive the same treatment.'
 Generate the lemma and morphological tags for the inflected verb: greeted	greet V;PST;SG;3	greet V;PST;SG;3
 Given the context: 'Steven measured and mixed the plaster of Paris and prepared for the cast by using a bright blue putty to build up the form of the jaw, and shoring up gaps and holes.'
@@ -993,7 +993,7 @@ Generate the lemma and morphological tags for the inflected verb: visited	visit 
 Given the context: 'We were all perfectly happy with the result, even wanting one as a trophy until Steven passed an expert eye over them, pointing out here a gap, here a filling, and there a completely misaligned incisor.'
 Generate the lemma and morphological tags for the inflected verb: wanting	want V;PRS;V.PTCP	want V;PRS;V.PTCP
 Given the context: 'We were, he told us, mediocre specimens for his collection.'
-Generate the lemma and morphological tags for the inflected verb: told	tell V;PST;1;PL	tell V;PST;SG;3
+Generate the lemma and morphological tags for the inflected verb: told	tell V;PST;SG;3	tell V;PST;SG;3
 Given the context: 'It didn’t matter.'
 Generate the lemma and morphological tags for the inflected verb: matter	matter V;NFIN	matter V;NFIN
 Given the context: 'We were all friends, a group bonded by the common experience of being able to see our teeth on Steven’s shelf.'
@@ -1015,7 +1015,7 @@ Generate the lemma and morphological tags for the inflected verb: serve	serve V;
 Given the context: 'Why run for president?'
 Generate the lemma and morphological tags for the inflected verb: run	run V;IMP;2	run V;NFIN;2
 Given the context: 'Why not run for a lower office that you would be more likely to win and effect change?'
-Generate the lemma and morphological tags for the inflected verb: run	run V;NFIN	run V;NFIN;2
+Generate the lemma and morphological tags for the inflected verb: run	run V;IMP;2	run V;NFIN;2
 Given the context: 'When I was a young man in Air Force ROTC I was chosen to attend a unique Pilot Training Program called Euro- NATO Joint Jet Pilot Training.'
 Generate the lemma and morphological tags for the inflected verb: chosen	choose V;PST;V.PTCP	choose V;PST;V.PTCP
 Given the context: 'The Air Force only selected 180 Officers a year from the Academy, Squadron Officer School and ROTC to attend.'
@@ -1175,7 +1175,7 @@ Generate the lemma and morphological tags for the inflected verb: considered	con
 Given the context: 'He did neither.'
 Generate the lemma and morphological tags for the inflected verb: did	do V;PST;SG;3	do V;PST;SG;3
 Given the context: 'He sat on them 'til some reporter's warned him that they were hot merchandise.'
-Generate the lemma and morphological tags for the inflected verb: sat	sit V;PST;SG;3	sit V;PST;SG;3
+Generate the lemma and morphological tags for the inflected verb: sat	see V;PST;SG;3	sit V;PST;SG;3
 Given the context: 'Then with the idea of seeking cover made a judge (apparently ignorant of the law) appoint an administrator for Mrs. Phillips's estate for stolen merchandise held in posession of acourt appointed guardian of Mrs. Phillips.'
 Generate the lemma and morphological tags for the inflected verb: seeking	seek V;PRS;V.PTCP	seek V;PRS;V.PTCP
 Given the context: 'To cap it all he permitted publication of these stolen letters by the press, although they were ordered by him to be under lock and key.'
@@ -1209,7 +1209,7 @@ Generate the lemma and morphological tags for the inflected verb: succeed	succee
 Given the context: 'If the Court insists on these letters being an asset and refuses to close the estate and insists that they be appraised and sold by the administrator at highest value offered, we would want to be sure that the sales price received covers the expenditures and that any trans-action in connection with such a sale remain entirely free from press and publication abuse.'
 Generate the lemma and morphological tags for the inflected verb: insists	insist V;PRS;SG;3	insist V;PRS;SG;3
 Given the context: 'In our business of antiques, that of antiquarians, we have and must have in certain states, licensed appraisers.'
-Generate the lemma and morphological tags for the inflected verb: have	have V;PRS;1;PL	have V;PRS;1;PL
+Generate the lemma and morphological tags for the inflected verb: have	have V;NFIN	have V;PRS;1;PL
 Given the context: 'All of them own their own respective businesses and sell.'
 Generate the lemma and morphological tags for the inflected verb: own	own V;PRS;PL;3	own V;PRS;3;PL
 Given the context: 'Then of course there seem to be in this picture, so called historians, like the man you mentioned over the phone, Ed. K. Gross etc.'
@@ -1315,7 +1315,7 @@ Generate the lemma and morphological tags for the inflected verb: celebrated	cel
 Given the context: 'On April 12, 1981, Space Shuttle Columbia lifted off from the Kennedy Space Center on STS-1, the first space shuttle mission.'
 Generate the lemma and morphological tags for the inflected verb: lifted	lift V;PST;SG;3	lift V;PST;SG;3
 Given the context: 'NASA held a ceremony commemorating the date outside the hangar, known as Orbiter Processing Facility-1, for Space Shuttle Atlantis, which is being prepped for its final mission which will be STS-135, which will be the last Space Shuttle mission.'
-Generate the lemma and morphological tags for the inflected verb: held	help V;PST;SG;3	hold V;PST;SG;3
+Generate the lemma and morphological tags for the inflected verb: held	held V;PST;SG;3	hold V;PST;SG;3
 Given the context: 'At the ceremony, NASA Administrator Charles Bolden announced the locations that would be given the three remaining Space Shuttle orbiters following the end of the Space Shuttle program.'
 Generate the lemma and morphological tags for the inflected verb: announced	announce V;PST;SG;3	announce V;PST;SG;3
 Given the context: 'The prototype orbiter, Space Shuttle Enterprise would be relocated from the Smithsonian's National Air and Space Museum Steven F. Udvar-Hazy Center at Washington Dulles International Airport to the Intrepid Sea-Air-Space Museum in New York City.'
@@ -1369,7 +1369,7 @@ Generate the lemma and morphological tags for the inflected verb: said	say V;PST
 Given the context: 'As the home of modern day air travel and the 747, which has gracefully transported shuttles for the last 30 years, Seattle would have been a perfect fit.'
 Generate the lemma and morphological tags for the inflected verb: transported	transport V;PST;V.PTCP	transport V;PST;V.PTCP
 Given the context: 'While the Museum of Flight was in the top running, I’m disappointed that NASA did not choose them.'
-Generate the lemma and morphological tags for the inflected verb: disappointed	disappoint V;PST;V.PTCP	disappoint V;PST;V.PTCP
+Generate the lemma and morphological tags for the inflected verb: disappointed	disappoint V;PRS;V.PTCP	disappoint V;PST;V.PTCP
 Given the context: 'In 2008, Endeavour and Atlantis await a journey on their respective launchpads.'
 Generate the lemma and morphological tags for the inflected verb: await	await V;PRS;PL;3	await V;PRS;3;PL
 Given the context: '"However, the full fuselage trainer, that every astronaut including [former Museum of Flight CEO] Bonnie Dunbar has been trained on, will soon call the Museum of Flight home.'
@@ -1463,7 +1463,7 @@ Generate the lemma and morphological tags for the inflected verb: Thank	thank V;
 Given the context: 'For what C-Span does.'
 Generate the lemma and morphological tags for the inflected verb: does	do V;PRS;SG;3	do V;PRS;SG;3
 Given the context: 'Mr. McIntosh, my question to you is, how does the space programs by these various millionaire -- billionaires --'
-Generate the lemma and morphological tags for the inflected verb: does	do V;PRS;SG;3	do V;PRS;SG;3
+Generate the lemma and morphological tags for the inflected verb: does	program V;PRS;SG;3	do V;PRS;SG;3
 Given the context: 'It shows the failure of trickle down economics upon which you base a lot of your, you know, your stances and everything.'
 Generate the lemma and morphological tags for the inflected verb: shows	show V;PRS;SG;3	show V;PRS;SG;3
 Given the context: 'How is -- how is that putting these billions into space instead of improving the conditions of the workers that make these people the richest men on Earth?'
@@ -1575,7 +1575,7 @@ Generate the lemma and morphological tags for the inflected verb: happens	happen
 Given the context: 'What they find is that the best way to be productive in the office is to try and focus on one task at a time, focus on just sending that memo out, writing that email, doing whatever that operation is for a short period of time, then take a break and then come back to it.'
 Generate the lemma and morphological tags for the inflected verb: find	find V;PRS;PL;3	find V;PRS;3;PL
 Given the context: 'Don’t try and juggle back and forth because you’ll get confused, you’ll get lost, you’ll be this — “Where was I?” kind of switch cost.'
-Generate the lemma and morphological tags for the inflected verb: try	try V;NFIN	try V;IMP;2
+Generate the lemma and morphological tags for the inflected verb: try	try V;IMP;2	try V;IMP;2
 Given the context: 'This year has once again confirmed the importance of the United Nations as the truly indispensable multilateral forum for addressing today’s global problems.'
 Generate the lemma and morphological tags for the inflected verb: confirmed	confirm V;PST;V.PTCP	confirm V;PST;V.PTCP
 Given the context: 'The humanitarian crisis in the Horn of Africa, ecological disasters such as Fukushima, political developments like the Arab Spring and terrorist attacks such as the assault on the United Nations building in Abuja last August require concerted action by the United Nations and its Member States.'
@@ -1775,7 +1775,7 @@ Generate the lemma and morphological tags for the inflected verb: created	create
 Given the context: 'Testing Dalton’s Atomic Theory'
 Generate the lemma and morphological tags for the inflected verb: Testing	test V;PRS;V.PTCP	test V;PRS;V.PTCP
 Given the context: 'In the following drawing, the green spheres represent atoms of a certain element.'
-Generate the lemma and morphological tags for the inflected verb: following	follow V;PRS;PL;3	follow V;PRS;V.PTCP
+Generate the lemma and morphological tags for the inflected verb: following	follow V;PRS;V.PTCP	follow V;PRS;V.PTCP
 Given the context: 'The purple spheres represent atoms of another element.'
 Generate the lemma and morphological tags for the inflected verb: represent	represent V;PRS;PL;3	represent V;PRS;3;PL
 Given the context: 'If the spheres touch, they are part of a single unit of a compound.'
@@ -1793,7 +1793,7 @@ Generate the lemma and morphological tags for the inflected verb: appear	appear 
 Given the context: 'Check Your Learning'
 Generate the lemma and morphological tags for the inflected verb: Check	check V;IMP;2	check V;IMP;2
 Given the context: 'In the following drawing, the green spheres represent atoms of a certain element.'
-Generate the lemma and morphological tags for the inflected verb: following	follow V;PRS;PL;3	follow V;PRS;V.PTCP
+Generate the lemma and morphological tags for the inflected verb: following	follow V;PRS;V.PTCP	follow V;PRS;V.PTCP
 Given the context: 'The purple spheres represent atoms of another element.'
 Generate the lemma and morphological tags for the inflected verb: represent	represent V;PRS;PL;3	represent V;PRS;3;PL
 Given the context: 'If the spheres touch, they are part of a single unit of a compound.'
@@ -1827,9 +1827,9 @@ Generate the lemma and morphological tags for the inflected verb: experienced	ex
 Given the context: 'Without the population of the North, it faced a shortage of manpower.'
 Generate the lemma and morphological tags for the inflected verb: faced	face V;PST;SG;3	face V;PST;SG;3
 Given the context: 'The lack of industry, compared to the North, undercut the ability to sustain and wage war.'
-Generate the lemma and morphological tags for the inflected verb: compared	compare V;PST;V.PTCP	compare V;PST;V.PTCP
+Generate the lemma and morphological tags for the inflected verb: compared	compare V;PST;SG;3	compare V;PST;V.PTCP
 Given the context: 'Rampant inflation as well as food shortages in the South lowered morale.'
-Generate the lemma and morphological tags for the inflected verb: lowered	lower V;PST;V.PTCP	lower V;PST;3;PL
+Generate the lemma and morphological tags for the inflected verb: lowered	lower V;PST;PL;3	lower V;PST;3;PL
 Given the context: 'From the beginning of the war, the Confederacy placed great hope in being recognized and supported by Great Britain and France.'
 Generate the lemma and morphological tags for the inflected verb: placed	place V;PST;SG;3	place V;PST;SG;3
 Given the context: 'European intervention in the conflict remained a strong possibility, but when it did occur, it was not in a way anticipated by either the Confederacy or the Union.'
@@ -1897,13 +1897,13 @@ Generate the lemma and morphological tags for the inflected verb: given	give V;P
 Given the context: 'One such regiment, the Fifty-Fourth Regiment of Massachusetts Volunteers, distinguished itself at Fort Wagner in South Carolina by fighting valiantly against an entrenched Confederate position.'
 Generate the lemma and morphological tags for the inflected verb: distinguished	distinguish V;PST;SG;3	distinguish V;PST;SG;3
 Given the context: 'They willingly gave their lives for the cause.'
-Generate the lemma and morphological tags for the inflected verb: gave	give V;PST;PL;3	give V;PST;3;PL
+Generate the lemma and morphological tags for the inflected verb: gave	get V;PST;PL;3	give V;PST;3;PL
 Given the context: 'The Confederacy, not surprisingly, showed no mercy to African American troops.'
 Generate the lemma and morphological tags for the inflected verb: showed	show V;PST;SG;3	show V;PST;SG;3
 Given the context: 'In April 1864, Southern forces attempted to take Fort Pillow in Tennessee from the Union forces that had captured it in 1862.'
 Generate the lemma and morphological tags for the inflected verb: attempted	attempt V;PST;PL;3	attempt V;PST;3;PL
 Given the context: 'Confederate troops under Major General Nathan Bedford Forrest, the future founder of the Ku Klux Klan, quickly overran the fort, and the Union defenders surrendered.'
-Generate the lemma and morphological tags for the inflected verb: overran	overread V;PST;PL;3	overrun V;PST;3;PL
+Generate the lemma and morphological tags for the inflected verb: overran	overrange V;PST;PL;3	overrun V;PST;3;PL
 Given the context: 'Instead of taking the African American soldiers prisoner, as they did the White soldiers, the Confederates executed them.'
 Generate the lemma and morphological tags for the inflected verb: taking	take V;PRS;V.PTCP	take V;PRS;V.PTCP
 Given the context: 'The massacre outraged the North, and the Union refused to engage in any future exchanges of prisoners with the Confederacy.'
@@ -1925,7 +1925,7 @@ Generate the lemma and morphological tags for the inflected verb: has	have V;PRS
 Given the context: 'So there's nothing too special about the bed itself, but it does have a very important function, which, it has a lot of storage.'
 Generate the lemma and morphological tags for the inflected verb: 's	be V;PRS;SG;3	be V;PRS;SG;3
 Given the context: 'So down here is basically where I keep everything that I can't really keep in my room, because there's not enough space.'
-Generate the lemma and morphological tags for the inflected verb: keep	keep V;PRS;SG;3	keep V;PRS;SG;1
+Generate the lemma and morphological tags for the inflected verb: keep	keep V;PRS;SG;1	keep V;PRS;SG;1
 Given the context: 'I've got an ironing board, all of my suitcases, socks, clothes that I don't wear that often, anything that I need for fixing the house like screwdrivers, drills, nails, all these things that I definitely wouldn't want to have laid out in my room, but I still need somewhere in the house.'
 Generate the lemma and morphological tags for the inflected verb: got	get V;PST;V.PTCP	get V;PST;V.PTCP
 Given the context: 'I love that this room has floor-to-ceiling windows as well, it really lets the light come in, especially in the summer time.'
@@ -1951,7 +1951,7 @@ Generate the lemma and morphological tags for the inflected verb: doing	do V;PRS
 Given the context: 'And I just left Starbucks, don't mind what I look like.'
 Generate the lemma and morphological tags for the inflected verb: left	leave V;PST;SG;1	leave V;PST;SG;1
 Given the context: 'I literally just pretty much woke up and left this morning.'
-Generate the lemma and morphological tags for the inflected verb: woke	weak V;PST;SG;1	wake V;PST;SG;1
+Generate the lemma and morphological tags for the inflected verb: woke	wear V;PST;SG;1	wake V;PST;SG;1
 Given the context: 'I'm starting the review for all the chapters for my final exam, and it is a lot of information so I already planned on getting up early today and going.'
 Generate the lemma and morphological tags for the inflected verb: starting	start V;PRS;V.PTCP	start V;PRS;V.PTCP
 Given the context: 'And then I'm gonna do the same thing tomorrow.'
@@ -1979,7 +1979,7 @@ Generate the lemma and morphological tags for the inflected verb: going	go V;PRS
 Given the context: 'I bought these Vans from DSW.'
 Generate the lemma and morphological tags for the inflected verb: bought	bear V;PST;SG;1	buy V;PST;SG;1
 Given the context: 'You guys know I have the white ones and I wear them all the time and these ones are just like black perforated Vans.'
-Generate the lemma and morphological tags for the inflected verb: know	know V;PRS;PL;2	know V;PRS;3;PL
+Generate the lemma and morphological tags for the inflected verb: know	know V;PRS;PL;3	know V;PRS;3;PL
 Given the context: 'I love them and they are definitely the right size because I have two other pairs of Vans that are this size, but one of these ones is like messed up or something.'
 Generate the lemma and morphological tags for the inflected verb: love	love V;PRS;SG;1	love V;PRS;SG;1
 Given the context: 'I think it's like this part on the left foot because my foot feels super tight in only the left side, so something's up because they're both the right size but I don't know.'
@@ -1989,7 +1989,7 @@ Generate the lemma and morphological tags for the inflected verb: gon	go V;PRS;V
 Given the context: 'So I just got finished at the library.'
 Generate the lemma and morphological tags for the inflected verb: got	get V;PST;V.PTCP	get V;PST;SG;1
 Given the context: 'I just sat in there for like an hour and a half straight and studied.'
-Generate the lemma and morphological tags for the inflected verb: sat	sit V;PST;SG;1	sit V;PST;SG;1
+Generate the lemma and morphological tags for the inflected verb: sat	see V;PST;SG;1	sit V;PST;SG;1
 Given the context: 'I'm really proud of myself and now I'm about to go get some lunch, and go to DSW and see if I can exchange those Vans.'
 Generate the lemma and morphological tags for the inflected verb: go	go V;NFIN	go V;NFIN
 Given the context: 'So while I was in the library one of you guys came up to me, and said hi.'
@@ -2071,7 +2071,7 @@ Generate the lemma and morphological tags for the inflected verb: make	make V;PR
 Given the context: 'South of Rockridge, and southeast of Temescal lies Piedmont Avenue, a street extending from Broadway near 34th and Hawthorne and an area with a group of hospitals on a hill (Pill Hill) up and through a neighborhood bordered on both sides by picturesque hills, houses and trees.'
 Generate the lemma and morphological tags for the inflected verb: lies	lie V;PRS;SG;3	lie V;PRS;SG;3
 Given the context: 'Another of North Oakland's group of foodie spots, home to the city's single Michelin-rated restaurant and many others; cafes, ice cream, coffee shops and pleasant walks complete the vision of this interesting and quiet neighborhood.'
-Generate the lemma and morphological tags for the inflected verb: rated	rate V;PST;PL;3	rate V;PST;V.PTCP
+Generate the lemma and morphological tags for the inflected verb: rated	rate V;PST;V.PTCP	rate V;PST;V.PTCP
 Given the context: 'East along I-580 and not far from Piedmont Avenue are two neighborhoods separated by a couple of blocks.'
 Generate the lemma and morphological tags for the inflected verb: separated	separate V;PST;V.PTCP	separate V;PST;V.PTCP
 Given the context: 'Grand Lake and Lakeshore both share a friendly, suburban sort of feel.'
@@ -2111,7 +2111,7 @@ Generate the lemma and morphological tags for the inflected verb: surrounding	su
 Given the context: 'Neiafu is the official port of entry for yachts coming to Vava'u, which attracts over 500 yachts every winter sailing season between June and October.'
 Generate the lemma and morphological tags for the inflected verb: coming	come V;PRS;V.PTCP	come V;PRS;V.PTCP
 Given the context: 'A string of islands and reefs along the eastern edge of the Group shelters the area from strong winds and ocean swellS and humpback whales come to these protected waters to give birth.'
-Generate the lemma and morphological tags for the inflected verb: shelters	shelter V;PRS;SG;3	shelter V;PRS;SG;3
+Generate the lemma and morphological tags for the inflected verb: shelters	shelter V;PRS;PL;3	shelter V;PRS;SG;3
 Given the context: 'between December and April few people visit and many tour companies and restaurants close down.'
 Generate the lemma and morphological tags for the inflected verb: visit	visit V;PRS;PL;3	visit V;PRS;3;PL
 Given the context: 'It is on the southern point of the main island of Utu Vava'u and has an attractive setting on one of the world's most beautiful harbours.'
@@ -2143,7 +2143,7 @@ Generate the lemma and morphological tags for the inflected verb: lies	lie V;PRS
 Given the context: 'How to Grow Beavertail Cactus'
 Generate the lemma and morphological tags for the inflected verb: Grow	grow V;NFIN	grow V;NFIN
 Given the context: 'The Beavertail Cactus (Opunitia basilares), found primarily in the Mojave Desert and northwest Mexico; can grow to be about 24 inches (60 cm) high; has pads that look like beavertails; and yields red or purple flowers from spring to early summer.'
-Generate the lemma and morphological tags for the inflected verb: found	find V;PST;SG;3	find V;PST;V.PTCP
+Generate the lemma and morphological tags for the inflected verb: found	find V;PST;V.PTCP	find V;PST;V.PTCP
 Given the context: 'Growing Beavertail can be done at any time of year by scattering seeds in a shady bed or, for faster results, planting cuttings in a mix of soil and sand and ensuring that they have a bit of water and plenty of sun.'
 Generate the lemma and morphological tags for the inflected verb: Growing	grow V;PRS;V.PTCP	grow V;PRS;V.PTCP
 Given the context: 'Read the following steps to find out how to grow Beavertail cactus.'
@@ -2201,7 +2201,7 @@ Generate the lemma and morphological tags for the inflected verb: Make	make V;IM
 Given the context: 'Wait for a month.'
 Generate the lemma and morphological tags for the inflected verb: Wait	wait V;IMP;2	wait V;IMP;2
 Given the context: 'Do not water the cutting for the first month.'
-Generate the lemma and morphological tags for the inflected verb: water	water V;NFIN	water V;IMP;2
+Generate the lemma and morphological tags for the inflected verb: water	water V;IMP;2	water V;IMP;2
 Given the context: 'The moisture in the pad will provide enough nutrients for roots to grow.'
 Generate the lemma and morphological tags for the inflected verb: provide	provide V;NFIN	provide V;NFIN
 Given the context: 'Too much water might cause rot.'
@@ -2342,13 +2342,13 @@ Given the context: 'However, you might attract other types of owls or birds of p
 Generate the lemma and morphological tags for the inflected verb: attract	attract V;NFIN	attract V;NFIN
 
 Inverse Task Evaluation (Lemma/MSD):
-  Lemma accuracy: 0.9778 (1145/1171)
-  Lemma mean Levenshtein distance: 0.0487
-  MSD accuracy (exact set match): 0.9564 (1120/1171)
-  MSD micro-precision: 0.9820  micro-recall: 0.9825  micro-F1: 0.9822
+  Lemma accuracy: 0.9693 (1135/1171)
+  Lemma mean Levenshtein distance: 0.0717
+  MSD accuracy (exact set match): 0.9573 (1121/1171)
+  MSD micro-precision: 0.9830  micro-recall: 0.9830  micro-F1: 0.9830
   Example Mismatches (prediction | gold):
-    include V;PRS;V.PTCP | include V;PRS;3;PL
+    expore V;PST;V.PTCP | explore V;PST;V.PTCP
+    expore V;PST;V.PTCP | explore V;PST;V.PTCP
+    include V;PST;V.PTCP | include V;PRS;3;PL
     premier V;PST;V.PTCP | premiere V;PST;V.PTCP
     take V;PST;SG;3 | Teach V;PST;SG;3
-    concentrate V;PST;V.PTCP | concentrate V;PST;SG;3
-    see V;IMP;2 | see V;NFIN;2

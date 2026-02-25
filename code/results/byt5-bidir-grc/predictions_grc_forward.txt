@@ -2,14 +2,14 @@ Generate the inflected form for: Βακτριανός N;VOC;PL	Βακτριᾱν
 Generate the inflected form for: Βακτριανός N;GEN;DU	τοῖν Βακτριᾱνοῖν	τοῖν Βακτριᾱνοῖν
 Generate the inflected form for: Βακτριανός N;DAT;DU	τοῖν Βακτριᾱνοῖν	τοῖν Βακτριᾱνοῖν
 Generate the inflected form for: Βακτριανός N;VOC;DU	Βακτριᾱνώ	Βακτριᾱνώ
-Generate the inflected form for: Βακτριανός N;ACC;PL	τοὺς Βακτριᾱνούς	τοὺς Βακτριᾱνούς
-Generate the inflected form for: Βακτριανός N;NOM;PL	οἱ Βακτριανοί	οἱ Βακτριᾱνοί
-Generate the inflected form for: Βακτριανός N;NOM;SG	ὁ Βακτριανός	ὁ Βακτριᾱνός
+Generate the inflected form for: Βακτριανός N;ACC;PL	τᾱ̀ς Βακτριᾱνούς	τοὺς Βακτριᾱνούς
+Generate the inflected form for: Βακτριανός N;NOM;PL	οἱ Βακτριᾱνοί	οἱ Βακτριᾱνοί
+Generate the inflected form for: Βακτριανός N;NOM;SG	ὁ Βακτριᾱνός	ὁ Βακτριᾱνός
 Generate the inflected form for: Βακτριανός N;NOM;DU	τὼ Βακτριᾱνώ	τὼ Βακτριᾱνώ
 Generate the inflected form for: Βακτριανός N;GEN;PL	τῶν Βακτριᾱνῶν	τῶν Βακτριᾱνῶν
 Generate the inflected form for: Βακτριανός N;VOC;SG	Βακτριᾱνέ	Βακτριᾱνέ
 Generate the inflected form for: Βακτριανός N;DAT;PL	τοῖς Βακτριᾱνοῖς	τοῖς Βακτριᾱνοῖς
-Generate the inflected form for: Βακτριανός N;DAT;SG	τῷ Βᾰκτριᾱνῷ	τῷ Βακτριᾱνῷ
+Generate the inflected form for: Βακτριανός N;DAT;SG	τῷ Βακτριᾱνῷ	τῷ Βακτριᾱνῷ
 Generate the inflected form for: Βακτριανός N;ACC;SG	τὸν Βακτριᾱνόν	τὸν Βακτριᾱνόν
 Generate the inflected form for: Βακτριανός N;ACC;DU	τὼ Βακτριᾱνώ	τὼ Βακτριᾱνώ
 Generate the inflected form for: Γέτης N;NOM;SG	ὁ Γέτης	ὁ Γέτης
@@ -21,42 +21,42 @@ Generate the inflected form for: Γέτης N;VOC;DU	Γέτᾱ	Γέτᾱ
 Generate the inflected form for: Γέτης N;GEN;SG	τοῦ Γέτου	τοῦ Γέτου
 Generate the inflected form for: Γέτης N;DAT;PL	τοῖς Γέταις	τοῖς Γέταις
 Generate the inflected form for: Γέτης N;ACC;DU	τὼ Γέτᾱ	τὼ Γέτᾱ
-Generate the inflected form for: Γέτης N;DAT;DU	τοῖν Γέταιν	τοῖν Γέταιν
+Generate the inflected form for: Γέτης N;DAT;DU	τοῖν Γεταῖν	τοῖν Γέταιν
 Generate the inflected form for: Γέτης N;VOC;SG	Γέτη	Γέτᾰ
-Generate the inflected form for: Γέτης N;GEN;PL	τῶν Γέτων	τῶν Γετῶν
+Generate the inflected form for: Γέτης N;GEN;PL	τῶν Γέτῶν	τῶν Γετῶν
 Generate the inflected form for: Γέτης N;NOM;DU	τὼ Γέτᾱ	τὼ Γέτᾱ
-Generate the inflected form for: Γέτης N;ACC;SG	τὸν Γέτᾰ	τὸν Γέτην
-Generate the inflected form for: Γέτης N;ACC;PL	τοὺς Γέτᾱς	τοὺς Γέτᾱς
+Generate the inflected form for: Γέτης N;ACC;SG	τὸν Γέτην	τὸν Γέτην
+Generate the inflected form for: Γέτης N;ACC;PL	τᾱ̀ς Γέτᾱς	τοὺς Γέτᾱς
 Generate the inflected form for: Θαψακηνός N;VOC;SG	Θᾰψᾰκηνέ	Θαψᾰκηνέ
 Generate the inflected form for: Θαψακηνός N;NOM;DU	τὼ Θᾰψᾰκηνώ	τὼ Θαψᾰκηνώ
-Generate the inflected form for: Θαψακηνός N;ACC;DU	τὼ Θᾰψᾰκηνώ	τὼ Θαψᾰκηνώ
-Generate the inflected form for: Θαψακηνός N;GEN;SG	τοῦ Θᾰψᾰκηνοῦ	τοῦ Θαψᾰκηνοῦ
-Generate the inflected form for: Θαψακηνός N;DAT;DU	τοῖν Θᾰψᾰκηνοῖν	τοῖν Θαψᾰκηνοῖν
-Generate the inflected form for: Θαψακηνός N;ACC;SG	τὸν Θᾰψᾰκηνόν	τὸν Θαψᾰκηνόν
-Generate the inflected form for: Θαψακηνός N;GEN;PL	τῶν Θᾰψᾰκηνῶν	τῶν Θαψᾰκηνῶν
-Generate the inflected form for: Θαψακηνός N;DAT;SG	τῷ Θᾰψᾰκηνῷ	τῷ Θαψᾰκηνῷ
+Generate the inflected form for: Θαψακηνός N;ACC;DU	τὼ Θαψᾰκηνώ	τὼ Θαψᾰκηνώ
+Generate the inflected form for: Θαψακηνός N;GEN;SG	τοῦ Θαψᾰκηνοῦ	τοῦ Θαψᾰκηνοῦ
+Generate the inflected form for: Θαψακηνός N;DAT;DU	τοῖν Θαψᾰκηνοῖν	τοῖν Θαψᾰκηνοῖν
+Generate the inflected form for: Θαψακηνός N;ACC;SG	τὸν Θαψᾰκηνόν	τὸν Θαψᾰκηνόν
+Generate the inflected form for: Θαψακηνός N;GEN;PL	τῶν Θαψᾰκηνῶν	τῶν Θαψᾰκηνῶν
+Generate the inflected form for: Θαψακηνός N;DAT;SG	τῷ Θαψᾰκηνῷ	τῷ Θαψᾰκηνῷ
 Generate the inflected form for: Θαψακηνός N;NOM;PL	οἱ Θᾰψᾰκηνοί	οἱ Θαψᾰκηνοί
-Generate the inflected form for: Θαψακηνός N;GEN;DU	τοῖν Θᾰψᾰκηνοῖν	τοῖν Θαψᾰκηνοῖν
-Generate the inflected form for: Θαψακηνός N;DAT;PL	τοῖς Θᾰψᾰκηνοῖς	τοῖς Θαψᾰκηνοῖς
+Generate the inflected form for: Θαψακηνός N;GEN;DU	τοῖν Θαψᾰκηνοῖν	τοῖν Θαψᾰκηνοῖν
+Generate the inflected form for: Θαψακηνός N;DAT;PL	τοῖς Θαψᾰκηνοῖς	τοῖς Θαψᾰκηνοῖς
 Generate the inflected form for: Θαψακηνός N;VOC;DU	Θᾰψᾰκηνώ	Θαψᾰκηνώ
 Generate the inflected form for: Θαψακηνός N;NOM;SG	ὁ Θαψακηνός	ὁ Θαψᾰκηνός
-Generate the inflected form for: Θαψακηνός N;VOC;PL	Θᾰψᾰκηνοί	Θαψᾰκηνοί
-Generate the inflected form for: Θαψακηνός N;ACC;PL	τοὺς Θᾰψᾰκηνούς	τοὺς Θαψᾰκηνούς
-Generate the inflected form for: Λίγυς N;VOC;SG	Λῐγῡ́	Λίγῠ
-Generate the inflected form for: Λίγυς N;NOM;SG	ὁ Λῐγῠ́ς	ὁ Λίγῠς
-Generate the inflected form for: Λίγυς N;DAT;DU	τοῖν Λῐγῠ́δοιν	τοῖν Λῐγῠ́οιν
-Generate the inflected form for: Λίγυς N;NOM;DU	τὼ Λῐγῠ́δε	τὼ Λίγῠε
-Generate the inflected form for: Λίγυς N;ACC;SG	τὸν Λῐγῡ́ς	τὸν Λίγῠν
-Generate the inflected form for: Λίγυς N;VOC;DU	Λῐγῠ́ς	Λίγῠε
-Generate the inflected form for: Λίγυς N;VOC;PL	Λῐγῠ́δες	Λίγῠες
-Generate the inflected form for: Λίγυς N;ACC;DU	τὼ Λῐγῠ́δε	τὼ Λίγῠε
-Generate the inflected form for: Λίγυς N;ACC;PL	τᾱ̀ς Λῐγῠ́ς	τοὺς Λίγῡς
-Generate the inflected form for: Λίγυς N;DAT;SG	τῇ Λῐγῡ́ς	τῷ Λίγῠϊ
+Generate the inflected form for: Θαψακηνός N;VOC;PL	Θαψᾰκηνοί	Θαψᾰκηνοί
+Generate the inflected form for: Θαψακηνός N;ACC;PL	τᾱ̀ς Θαψᾰκηνούς	τοὺς Θαψᾰκηνούς
+Generate the inflected form for: Λίγυς N;VOC;SG	Λῐ́γῡ	Λίγῠ
+Generate the inflected form for: Λίγυς N;NOM;SG	ὁ Λῐ́γυς	ὁ Λίγῠς
+Generate the inflected form for: Λίγυς N;DAT;DU	τοῖν Λῐγῡ́γοιν	τοῖν Λῐγῠ́οιν
+Generate the inflected form for: Λίγυς N;NOM;DU	τὼ Λῐγῡ́γῡ	τὼ Λίγῠε
+Generate the inflected form for: Λίγυς N;ACC;SG	τὸν Λῐγῡ́γῡ	τὸν Λίγῠν
+Generate the inflected form for: Λίγυς N;VOC;DU	Λῐγῡ́	Λίγῠε
+Generate the inflected form for: Λίγυς N;VOC;PL	Λῐγῡ́γῡες	Λίγῠες
+Generate the inflected form for: Λίγυς N;ACC;DU	τὼ Λῐγῡ́γᾱ	τὼ Λίγῠε
+Generate the inflected form for: Λίγυς N;ACC;PL	τᾱ̀ς Λῐγῡ́γᾰς	τοὺς Λίγῡς
+Generate the inflected form for: Λίγυς N;DAT;SG	τῷ Λῐ́γῡν	τῷ Λίγῠϊ
 Generate the inflected form for: Λίγυς N;GEN;PL	τῶν Λῐγῶν	τῶν Λῐγῠ́ων
-Generate the inflected form for: Λίγυς N;GEN;SG	τοῦ Λῐγῡς	τοῦ Λίγῠος
-Generate the inflected form for: Λίγυς N;GEN;DU	τοῖν Λῐγῠ́δοιν	τοῖν Λῐγῠ́οιν
-Generate the inflected form for: Λίγυς N;DAT;PL	ταῖς Λῐγῠ́σῐ(ν)	τοῖς Λίγῠσῐ(ν)
-Generate the inflected form for: Λίγυς N;NOM;PL	οἱ Λῐγῠ́δες	οἱ Λίγῠες
+Generate the inflected form for: Λίγυς N;GEN;SG	τοῦ Λῐγῡ́γου	τοῦ Λίγῠος
+Generate the inflected form for: Λίγυς N;GEN;DU	τοῖν Λῐγῡ́γοιν	τοῖν Λῐγῠ́οιν
+Generate the inflected form for: Λίγυς N;DAT;PL	τοῖς Λῐγῡ́γῐ(ν)	τοῖς Λίγῠσῐ(ν)
+Generate the inflected form for: Λίγυς N;NOM;PL	οἱ Λῐγῡ́γοι	οἱ Λίγῠες
 Generate the inflected form for: Μάγος N;ACC;SG	τὸν Μάγον	τὸν Μᾰ́γον
 Generate the inflected form for: Μάγος N;ACC;DU	τὼ Μάγω	τὼ Μᾰ́γω
 Generate the inflected form for: Μάγος N;DAT;DU	τοῖν Μάγοιν	τοῖν Μᾰ́γοιν
@@ -72,185 +72,185 @@ Generate the inflected form for: Μάγος N;VOC;PL	Μάγοι	Μᾰ́γοι
 Generate the inflected form for: Μάγος N;NOM;PL	οἱ Μάγοι	οἱ Μᾰ́γοι
 Generate the inflected form for: Μάγος N;GEN;DU	τοῖν Μάγοιν	τοῖν Μᾰ́γοιν
 Generate the inflected form for: Μάγος N;GEN;PL	τῶν Μάγων	τῶν Μᾰ́γων
-Generate the inflected form for: Μεγαλοπολίτης N;VOC;SG	Μεγαλοπολῑ́τᾱ	Μεγᾰλοπολῖτᾰ
+Generate the inflected form for: Μεγαλοπολίτης N;VOC;SG	Μεγᾰλοπολῑ́τη	Μεγᾰλοπολῖτᾰ
 Generate the inflected form for: Μεγαλοπολίτης N;NOM;SG	ὁ Μεγαλοπολῑ́της	ὁ Μεγᾰλοπολῑ́της
-Generate the inflected form for: Μεγαλοπολίτης N;GEN;SG	τοῦ Μεγαλοπολῑ́το	τοῦ Μεγᾰλοπολῑ́του
-Generate the inflected form for: Μεγαλοπολίτης N;DAT;DU	τοῖν Μεγαλοπολῑ́τ	τοῖν Μεγᾰλοπολῑ́ταιν
-Generate the inflected form for: Μεγαλοπολίτης N;DAT;SG	τῷ Μεγᾰλοπολῑ́τ	τῷ Μεγᾰλοπολῑ́τῃ
-Generate the inflected form for: Μεγαλοπολίτης N;ACC;SG	τὸν Μεγαλοπολῑ́τᾱ	τὸν Μεγᾰλοπολῑ́την
-Generate the inflected form for: Μεγαλοπολίτης N;VOC;DU	Μεγαλοπολῑ́τᾱ	Μεγᾰλοπολῑ́τᾱ
-Generate the inflected form for: Μεγαλοπολίτης N;NOM;PL	οἱ Μεγᾰλοπολῑ́ται	οἱ Μεγᾰλοπολῖται
-Generate the inflected form for: Μεγαλοπολίτης N;VOC;PL	Μεγαλοπολῑ́ται	Μεγᾰλοπολῖται
-Generate the inflected form for: Μεγαλοπολίτης N;DAT;PL	τοῖς Μεγᾰλοπολῑ́τ	τοῖς Μεγᾰλοπολῑ́ταις
+Generate the inflected form for: Μεγαλοπολίτης N;GEN;SG	τοῦ Μεγαλοπολῑ́του	τοῦ Μεγᾰλοπολῑ́του
+Generate the inflected form for: Μεγαλοπολίτης N;DAT;DU	τοῖν Μεγαλοπολῑ́ταιν	τοῖν Μεγᾰλοπολῑ́ταιν
+Generate the inflected form for: Μεγαλοπολίτης N;DAT;SG	τῷ Μεγᾰλοπολῑ́τῃ	τῷ Μεγᾰλοπολῑ́τῃ
+Generate the inflected form for: Μεγαλοπολίτης N;ACC;SG	τὸν Μεγαλοπολῑ́την	τὸν Μεγᾰλοπολῑ́την
+Generate the inflected form for: Μεγαλοπολίτης N;VOC;DU	Μεγᾰλοπολῑ́τᾱ	Μεγᾰλοπολῑ́τᾱ
+Generate the inflected form for: Μεγαλοπολίτης N;NOM;PL	οἱ Μεγαλοπολῑ́ται	οἱ Μεγᾰλοπολῖται
+Generate the inflected form for: Μεγαλοπολίτης N;VOC;PL	Μεγᾰλοπολῑ́ται	Μεγᾰλοπολῖται
+Generate the inflected form for: Μεγαλοπολίτης N;DAT;PL	τοῖς Μεγᾰλοπολῑ́ταις	τοῖς Μεγᾰλοπολῑ́ταις
 Generate the inflected form for: Μεγαλοπολίτης N;NOM;DU	τὼ Μεγᾰλοπολῑ́τᾱ	τὼ Μεγᾰλοπολῑ́τᾱ
-Generate the inflected form for: Μεγαλοπολίτης N;GEN;DU	τοῖν Μεγαλοπολῑ́τ	τοῖν Μεγᾰλοπολῑ́ταιν
+Generate the inflected form for: Μεγαλοπολίτης N;GEN;DU	τοῖν Μεγαλοπολῑ́ταιν	τοῖν Μεγᾰλοπολῑ́ταιν
 Generate the inflected form for: Μεγαλοπολίτης N;GEN;PL	τῶν Μεγᾰλοπολῑ́των	τῶν Μεγᾰλοπολῑτῶν
 Generate the inflected form for: Μεγαλοπολίτης N;ACC;DU	τὼ Μεγᾰλοπολῑ́τᾱ	τὼ Μεγᾰλοπολῑ́τᾱ
-Generate the inflected form for: Μεγαλοπολίτης N;ACC;PL	τοὺς Μεγᾰλοπολῑ́τ	τοὺς Μεγᾰλοπολῑ́τᾱς
+Generate the inflected form for: Μεγαλοπολίτης N;ACC;PL	τᾱ̀ς Μεγᾰλοπολῑ́τᾱς	τοὺς Μεγᾰλοπολῑ́τᾱς
 Generate the inflected form for: Μεσσάπιος N;GEN;PL	τῶν Μεσσᾰπῐ́ων	τῶν Μεσσαπίων
 Generate the inflected form for: Μεσσάπιος N;NOM;DU	τὼ Μεσσᾰπῐ́ω	τὼ Μεσσαπίω
 Generate the inflected form for: Μεσσάπιος N;ACC;SG	τὸν Μεσσᾰπῐ́ον	τὸν Μεσσάπιον
 Generate the inflected form for: Μεσσάπιος N;NOM;PL	οἱ Μεσσᾰπῐ́οι	οἱ Μεσσάπιοι
-Generate the inflected form for: Μεσσάπιος N;NOM;SG	ὁ Μεσσάπιος	ὁ Μεσσάπιος
-Generate the inflected form for: Μεσσάπιος N;ACC;PL	τοὺς Μεσσᾰπῐ́ους	τοὺς Μεσσαπίους
+Generate the inflected form for: Μεσσάπιος N;NOM;SG	ὁ Μεσσᾰπῐ́ος	ὁ Μεσσάπιος
+Generate the inflected form for: Μεσσάπιος N;ACC;PL	τᾱ̀ς Μεσσᾰπῐ́ους	τοὺς Μεσσαπίους
 Generate the inflected form for: Μεσσάπιος N;ACC;DU	τὼ Μεσσᾰπῐ́ω	τὼ Μεσσαπίω
-Generate the inflected form for: Μεσσάπιος N;DAT;DU	τοῖν Μεσσᾰπῐ́οι	τοῖν Μεσσαπίοιν
+Generate the inflected form for: Μεσσάπιος N;DAT;DU	τοῖν Μεσσᾰπῐ́οιν	τοῖν Μεσσαπίοιν
 Generate the inflected form for: Μεσσάπιος N;GEN;DU	τοῖν Μεσσᾰπῐ́οιν	τοῖν Μεσσαπίοιν
-Generate the inflected form for: Μεσσάπιος N;VOC;SG	Μεσσάπιε	Μεσσάπιε
-Generate the inflected form for: Μεσσάπιος N;DAT;PL	τοῖς Μεσσᾰπῐ́οι	τοῖς Μεσσαπίοις
+Generate the inflected form for: Μεσσάπιος N;VOC;SG	Μεσσᾰπῐ́ε	Μεσσάπιε
+Generate the inflected form for: Μεσσάπιος N;DAT;PL	τοῖς Μεσσᾰπῐ́οις	τοῖς Μεσσαπίοις
 Generate the inflected form for: Μεσσάπιος N;GEN;SG	τοῦ Μεσσᾰπῐ́ου	τοῦ Μεσσαπίου
 Generate the inflected form for: Μεσσάπιος N;DAT;SG	τῷ Μεσσᾰπῐ́ῳ	τῷ Μεσσαπίῳ
-Generate the inflected form for: Μεσσάπιος N;VOC;DU	Μεσσάπιω	Μεσσαπίω
+Generate the inflected form for: Μεσσάπιος N;VOC;DU	Μεσσᾰπῐ́ω	Μεσσαπίω
 Generate the inflected form for: Μεσσάπιος N;VOC;PL	Μεσσᾰπῐ́οι	Μεσσάπιοι
-Generate the inflected form for: Μηλιεύς N;GEN;DU	τοῖν Μηλιέοιν	τοῖν Μηλῐοῖν
-Generate the inflected form for: Μηλιεύς N;ACC;SG	τὸν Μηλιέᾰ	τὸν Μηλῐᾶ
+Generate the inflected form for: Μηλιεύς N;GEN;DU	τοῖν Μηλῐέοιν	τοῖν Μηλῐοῖν
+Generate the inflected form for: Μηλιεύς N;ACC;SG	τὸν Μηλιέν	τὸν Μηλῐᾶ
 Generate the inflected form for: Μηλιεύς N;NOM;SG	ὁ Μηλιεύς	ὁ Μηλῐεύς
-Generate the inflected form for: Μηλιεύς N;NOM;DU	τὼ Μηλιέω	τὼ Μηλῐῆ
+Generate the inflected form for: Μηλιεύς N;NOM;DU	τὼ Μηλιέ	τὼ Μηλῐῆ
 Generate the inflected form for: Μηλιεύς N;GEN;PL	τῶν Μηλιῶν	τῶν Μηλῐῶν
-Generate the inflected form for: Μηλιεύς N;VOC;PL	Μηλιέοι	Μηλῐεῖς
-Generate the inflected form for: Μηλιεύς N;ACC;PL	τοὺς Μηλιέᾱς	τοὺς Μηλῐεῖς
-Generate the inflected form for: Μηλιεύς N;GEN;SG	τοῦ Μηλιέους	τοῦ Μηλῐῶς
-Generate the inflected form for: Μηλιεύς N;ACC;DU	τὼ Μηλιέω	τὼ Μηλῐῆ
+Generate the inflected form for: Μηλιεύς N;VOC;PL	Μηλιέεύς	Μηλῐεῖς
+Generate the inflected form for: Μηλιεύς N;ACC;PL	τᾱ̀ς Μηλιεᾱ́ς	τοὺς Μηλῐεῖς
+Generate the inflected form for: Μηλιεύς N;GEN;SG	τοῦ Μηλῐοῦ	τοῦ Μηλῐῶς
+Generate the inflected form for: Μηλιεύς N;ACC;DU	τὼ Μηλιέ	τὼ Μηλῐῆ
 Generate the inflected form for: Μηλιεύς N;VOC;SG	Μηλιέ	Μηλῐεῦ
-Generate the inflected form for: Μηλιεύς N;DAT;SG	τῷ Μηλῐῷ	τῷ Μηλῐεῖ
+Generate the inflected form for: Μηλιεύς N;DAT;SG	τῷ Μηλιῆ	τῷ Μηλῐεῖ
 Generate the inflected form for: Μηλιεύς N;NOM;PL	οἱ Μηλιέοι	οἱ Μηλῐεῖς
-Generate the inflected form for: Μηλιεύς N;DAT;PL	τοῖς Μηλιέοις	τοῖς Μηλῐεῦσῐ
-Generate the inflected form for: Μηλιεύς N;VOC;DU	Μηλιέω	Μηλῐῆ
-Generate the inflected form for: Μηλιεύς N;DAT;DU	τοῖν Μηλιέοιν	τοῖν Μηλῐοῖν
-Generate the inflected form for: Σπαρτιᾶτις N;NOM;PL	οἱ Σπᾰρτῐᾱ́τεις	αἱ Σπαρτιάτῐδες
-Generate the inflected form for: Σπαρτιᾶτις N;ACC;PL	τοὺς Σπᾰρτῐᾱ́τ	τὰς Σπαρτιάτῐδᾰς
-Generate the inflected form for: Σπαρτιᾶτις N;VOC;DU	Σπᾰρτῐ́ᾱτει / Σπᾰρτῐ́ᾱ	Σπαρτιάτῐδε
-Generate the inflected form for: Σπαρτιᾶτις N;GEN;DU	τοῖν Σπᾰρτῐᾱ́τ	τοῖν Σπαρτιᾱτίδοιν
-Generate the inflected form for: Σπαρτιᾶτις N;NOM;DU	τὼ Σπᾰρτῐᾱ́τει / Σ	τὼ Σπαρτιάτῐδε
-Generate the inflected form for: Σπαρτιᾶτις N;NOM;SG	ὁ Σπαρτιάτης	ἡ Σπαρτιᾶτῐς
+Generate the inflected form for: Μηλιεύς N;DAT;PL	τοῖς Μηλῐέοις	τοῖς Μηλῐεῦσῐ
+Generate the inflected form for: Μηλιεύς N;VOC;DU	Μηλιᾱ́	Μηλῐῆ
+Generate the inflected form for: Μηλιεύς N;DAT;DU	τοῖν Μηλῐέοιν	τοῖν Μηλῐοῖν
+Generate the inflected form for: Σπαρτιᾶτις N;NOM;PL	οἱ Σπᾰρτῐ́ατεις / Σπᾰρτῐ́ᾱτεες	αἱ Σπαρτιάτῐδες
+Generate the inflected form for: Σπαρτιᾶτις N;ACC;PL	τᾱ̀ς Σπᾰρτῐ́ᾱτᾱς	τὰς Σπαρτιάτῐδᾰς
+Generate the inflected form for: Σπαρτιᾶτις N;VOC;DU	Σπᾰρτῐ́ᾱτᾱ	Σπαρτιάτῐδε
+Generate the inflected form for: Σπαρτιᾶτις N;GEN;DU	τοῖν Σπᾰρτῐᾱ́τειν	τοῖν Σπαρτιᾱτίδοιν
+Generate the inflected form for: Σπαρτιᾶτις N;NOM;DU	τὼ Σπᾰρτῐ́ᾱτᾱ	τὼ Σπαρτιάτῐδε
+Generate the inflected form for: Σπαρτιᾶτις N;NOM;SG	ὁ Σπαρτῐ́ᾱτις	ἡ Σπαρτιᾶτῐς
 Generate the inflected form for: Σπαρτιᾶτις N;GEN;PL	τῶν Σπᾰρτῐᾱ́των	τῶν Σπαρτιᾱτίδων
-Generate the inflected form for: Σπαρτιᾶτις N;ACC;DU	τὼ Σπᾰρτῐᾱ́τει	τὼ Σπαρτιάτῐδε
-Generate the inflected form for: Σπαρτιᾶτις N;DAT;DU	τοῖν Σπᾰρτῐάτ	τοῖν Σπαρτιᾱτίδοιν
-Generate the inflected form for: Σπαρτιᾶτις N;ACC;SG	τὸν Σπᾰρτῐᾱ́τῐν	τὴν Σπαρτιάτῐδᾰ
-Generate the inflected form for: Σπαρτιᾶτις N;VOC;SG	Σπᾰρτῐ́ᾱτε	Σπαρτιᾶτῐ
-Generate the inflected form for: Σπαρτιᾶτις N;DAT;PL	ταῖς Σπᾰρτῐᾱ́τεσῐ	ταῖς Σπαρτιάτῐσῐ(ν)
-Generate the inflected form for: Σπαρτιᾶτις N;GEN;SG	τοῦ Σπᾰρτῐᾱ́τε	τῆς Σπαρτιάτῐδος
-Generate the inflected form for: Σπαρτιᾶτις N;VOC;PL	Σπᾰρτῐ́ᾱτες	Σπαρτιάτῐδες
-Generate the inflected form for: Σπαρτιᾶτις N;DAT;SG	τῇ Σπᾰρτῐᾱ́τῐ	τῇ Σπαρτιάτῐδῐ
+Generate the inflected form for: Σπαρτιᾶτις N;ACC;DU	τὼ Σπᾰρτῐ́ᾱτᾱ	τὼ Σπαρτιάτῐδε
+Generate the inflected form for: Σπαρτιᾶτις N;DAT;DU	τοῖν Σπᾰρτῐᾱ́τειν	τοῖν Σπαρτιᾱτίδοιν
+Generate the inflected form for: Σπαρτιᾶτις N;ACC;SG	τὸν Σπᾰρτῐ́ᾱτεν	τὴν Σπαρτιάτῐδᾰ
+Generate the inflected form for: Σπαρτιᾶτις N;VOC;SG	Σπᾰρτῐ́ᾱτῐ	Σπαρτιᾶτῐ
+Generate the inflected form for: Σπαρτιᾶτις N;DAT;PL	τοῖς Σπᾰρτῐᾱ́τεσῐ(ν)	ταῖς Σπαρτιάτῐσῐ(ν)
+Generate the inflected form for: Σπαρτιᾶτις N;GEN;SG	τοῦ Σπᾰρτῐ́ατου	τῆς Σπαρτιάτῐδος
+Generate the inflected form for: Σπαρτιᾶτις N;VOC;PL	Σπαρτῐ́ᾱτες	Σπαρτιάτῐδες
+Generate the inflected form for: Σπαρτιᾶτις N;DAT;SG	τῷ Σπᾰρτῐ́ᾱτῐ́τῐς	τῇ Σπαρτιάτῐδῐ
 Generate the inflected form for: βλῆμα N;NOM;DU	τὼ βλήμᾰτε	τὼ βλήμᾰτε
 Generate the inflected form for: βλῆμα N;GEN;PL	τῶν βλήμᾰτων	τῶν βλημᾰ́των
-Generate the inflected form for: βλῆμα N;VOC;SG	βλῆμᾰ	βλῆμᾰ
-Generate the inflected form for: βλῆμα N;GEN;DU	τοῖν βλήματοιν	τοῖν βλημᾰ́τοιν
-Generate the inflected form for: βλῆμα N;DAT;PL	ταῖς βλήμᾰσῐ(ν)	τοῖς βλήμᾰσῐ
+Generate the inflected form for: βλῆμα N;VOC;SG	βλήμᾰτε	βλῆμᾰ
+Generate the inflected form for: βλῆμα N;GEN;DU	τοῖν βλήμᾰτοιν	τοῖν βλημᾰ́τοιν
+Generate the inflected form for: βλῆμα N;DAT;PL	τοῖς βλήμᾰσῐ(ν)	τοῖς βλήμᾰσῐ
 Generate the inflected form for: βλῆμα N;GEN;SG	τοῦ βλήμᾰτος	τοῦ βλήμᾰτος
-Generate the inflected form for: βλῆμα N;DAT;DU	τοῖν βλήματοιν	τοῖν βλημᾰ́τοιν
-Generate the inflected form for: βλῆμα N;ACC;SG	τὸν βλῆμᾰν	τὸ βλῆμᾰ
-Generate the inflected form for: βλῆμα N;VOC;PL	βλῆμᾰτᾰ	βλήμᾰτᾰ
-Generate the inflected form for: βλῆμα N;ACC;PL	τᾱ̀ς βλῆμᾰς	τᾰ̀ βλήμᾰτᾰ
+Generate the inflected form for: βλῆμα N;DAT;DU	τοῖν βλήμᾰτοιν	τοῖν βλημᾰ́τοιν
+Generate the inflected form for: βλῆμα N;ACC;SG	τὸν βλήμᾰτε	τὸ βλῆμᾰ
+Generate the inflected form for: βλῆμα N;VOC;PL	βλήμᾰτᾰ	βλήμᾰτᾰ
+Generate the inflected form for: βλῆμα N;ACC;PL	τᾱ̀ς βλήμᾰτᾰς	τᾰ̀ βλήμᾰτᾰ
 Generate the inflected form for: βλῆμα N;ACC;DU	τὼ βλήμᾰτε	τὼ βλήμᾰτε
-Generate the inflected form for: βλῆμα N;NOM;PL	αἱ βλήματες	τᾰ̀ βλήμᾰτᾰ
-Generate the inflected form for: βλῆμα N;NOM;SG	ὁ βλήμα	τὸ βλῆμᾰ
-Generate the inflected form for: βλῆμα N;VOC;DU	βλῆμᾰτε	βλήμᾰτε
-Generate the inflected form for: βλῆμα N;DAT;SG	τῇ βλήμᾰτῐ	τῷ βλήμᾰτῐ
-Generate the inflected form for: βορά N;DAT;SG	τῇ βορᾰ́	τῇ βορᾷ
+Generate the inflected form for: βλῆμα N;NOM;PL	αἱ βλήμᾰτες	τᾰ̀ βλήμᾰτᾰ
+Generate the inflected form for: βλῆμα N;NOM;SG	ὁ βλήματος	τὸ βλῆμᾰ
+Generate the inflected form for: βλῆμα N;VOC;DU	βλήμᾰτε	βλήμᾰτε
+Generate the inflected form for: βλῆμα N;DAT;SG	τῷ βλήμᾰτῐ	τῷ βλήμᾰτῐ
+Generate the inflected form for: βορά N;DAT;SG	τῷ βορᾱ́ν	τῇ βορᾷ
 Generate the inflected form for: βορά N;GEN;PL	τῶν βορῶν	τῶν βορῶν
 Generate the inflected form for: βορά N;DAT;DU	τοῖν βοραῖν	τοῖν βοραῖν
-Generate the inflected form for: βορά N;VOC;SG	βορᾰ	βορᾱ́
-Generate the inflected form for: βορά N;VOC;PL	βοραί	βοραί
+Generate the inflected form for: βορά N;VOC;SG	βορᾱ́	βορᾱ́
+Generate the inflected form for: βορά N;VOC;PL	βορᾰ́	βοραί
 Generate the inflected form for: βορά N;NOM;DU	τὼ βορᾱ́	τὼ βορᾱ́
-Generate the inflected form for: βορά N;NOM;SG	ὁ βορᾱ́ς	ἡ βορᾱ́
+Generate the inflected form for: βορά N;NOM;SG	ὁ βορᾱ́	ἡ βορᾱ́
 Generate the inflected form for: βορά N;NOM;PL	αἱ βοραί	αἱ βοραί
 Generate the inflected form for: βορά N;GEN;DU	τοῖν βοραῖν	τοῖν βοραῖν
 Generate the inflected form for: βορά N;VOC;DU	βορᾱ́	βορᾱ́
 Generate the inflected form for: βορά N;ACC;PL	τᾱ̀ς βορᾱ́ς	τᾱ̀ς βορᾱ́ς
 Generate the inflected form for: βορά N;ACC;SG	τὸν βορᾱ́ν	τὴν βορᾱ́ν
-Generate the inflected form for: βορά N;DAT;PL	ταῖς βοραῖς	ταῖς βοραῖς
+Generate the inflected form for: βορά N;DAT;PL	τοῖς βοραῖς	ταῖς βοραῖς
 Generate the inflected form for: βορά N;GEN;SG	τοῦ βορᾰ́τος	τῆς βορᾶς
 Generate the inflected form for: βορά N;ACC;DU	τὼ βορᾱ́	τὼ βορᾱ́
 Generate the inflected form for: βροντή N;DAT;PL	ταῖς βρονταῖς	ταῖς βρονταῖς
 Generate the inflected form for: βροντή N;DAT;DU	τοῖν βρονταῖν	τοῖν βρονταῖν
 Generate the inflected form for: βροντή N;GEN;DU	τοῖν βρονταῖν	τοῖν βρονταῖν
-Generate the inflected form for: βροντή N;NOM;SG	ὁ βροντή	ἡ βροντή
+Generate the inflected form for: βροντή N;NOM;SG	ὁ βροντής	ἡ βροντή
 Generate the inflected form for: βροντή N;VOC;DU	βροντᾱ́	βροντᾱ́
 Generate the inflected form for: βροντή N;GEN;PL	τῶν βροντῶν	τῶν βροντῶν
 Generate the inflected form for: βροντή N;ACC;DU	τὼ βροντᾱ́	τὼ βροντᾱ́
-Generate the inflected form for: βροντή N;DAT;SG	τῇ βροντῇ	τῇ βροντῇ
+Generate the inflected form for: βροντή N;DAT;SG	τῷ βροντῷ	τῇ βροντῇ
 Generate the inflected form for: βροντή N;ACC;PL	τᾱ̀ς βροντᾱ́ς	τὰς βροντᾱ́ς
 Generate the inflected form for: βροντή N;VOC;PL	βρονταί	βρονταί
 Generate the inflected form for: βροντή N;NOM;PL	αἱ βρονταί	αἱ βρονταί
 Generate the inflected form for: βροντή N;GEN;SG	τοῦ βροντοῦ	τῆς βροντῆς
 Generate the inflected form for: βροντή N;VOC;SG	βροντή	βροντή
-Generate the inflected form for: βροντή N;ACC;SG	τὸν βροντᾱ́	τὴν βροντήν
+Generate the inflected form for: βροντή N;ACC;SG	τὸν βροντᾰ́	τὴν βροντήν
 Generate the inflected form for: δικαιάδικος ADJ;DAT;SG;NEUT	δικαιᾱδῐκῷ	δικαιαδίκῳ
 Generate the inflected form for: δικαιάδικος ADJ;VOC;SG;NEUT	δικαιαδίκε	δικαιάδικον
-Generate the inflected form for: δικαιάδικος ADJ;VOC;SG	δικαιᾰδῐκε	δικαιάδικε
+Generate the inflected form for: δικαιάδικος ADJ;VOC;SG	δῐκαιᾰδῐκε	δικαιάδικε
 Generate the inflected form for: δικαιάδικος ADJ;GEN;SG	δικαιαδίκου	δικαιαδίκου
-Generate the inflected form for: δικαιάδικος ADJ;DAT;SG	δικαιᾰδῐκῷ	δικαιαδίκῳ
-Generate the inflected form for: δικαιάδικος ADJ;NOM;PL;NEUT	δικαιαδίκαι	δικαιάδικα
+Generate the inflected form for: δικαιάδικος ADJ;DAT;SG	δικαιᾱδῐκῷ	δικαιαδίκῳ
+Generate the inflected form for: δικαιάδικος ADJ;NOM;PL;NEUT	δικαιαδίκοι	δικαιάδικα
 Generate the inflected form for: δικαιάδικος ADJ;ACC;SG	δικαιαδίκον	δικαιάδικον
-Generate the inflected form for: δικαιάδικος ADJ;VOC;DU	δικαιᾱδῐ́κω	δικαιαδίκω
+Generate the inflected form for: δικαιάδικος ADJ;VOC;DU	δικαιαδίκω	δικαιαδίκω
 Generate the inflected form for: δικαιάδικος ADJ;ACC;DU;NEUT	δικαιαδίκω	δικαιαδίκω
-Generate the inflected form for: δικαιάδικος ADJ;ACC;PL;NEUT	δικαιαδίκαι	δικαιάδικα
-Generate the inflected form for: δικαιάδικος ADJ;GEN;PL	δικαιᾱδῐκοῖς	δικαιαδίκων
+Generate the inflected form for: δικαιάδικος ADJ;ACC;PL;NEUT	δικαιαδίκοι	δικαιάδικα
+Generate the inflected form for: δικαιάδικος ADJ;GEN;PL	δικαιαδίκων	δικαιαδίκων
 Generate the inflected form for: δικαιάδικος ADJ;NOM;DU	δικαιαδίκω	δικαιαδίκω
 Generate the inflected form for: δικαιάδικος ADJ;NOM;SG	δικαιαδίκος	δικαιάδικος
 Generate the inflected form for: δικαιάδικος ADJ;ACC;SG;NEUT	δικαιαδίκον	δικαιάδικον
-Generate the inflected form for: δικαιάδικος ADJ;VOC;PL;NEUT	δικαιᾰδῐκαί	δικαιάδικα
+Generate the inflected form for: δικαιάδικος ADJ;VOC;PL;NEUT	δικαιαδίκαι	δικαιάδικα
 Generate the inflected form for: δικαιάδικος ADJ;GEN;DU;NEUT	δικαιαδίκοιν	δικαιαδίκοιν
 Generate the inflected form for: δικαιάδικος ADJ;GEN;SG;NEUT	δικαιαδίκου	δικαιαδίκου
-Generate the inflected form for: δικαιάδικος ADJ;NOM;PL	δικαιᾱδῐ́κοι	δικαιάδικοι
+Generate the inflected form for: δικαιάδικος ADJ;NOM;PL	δικαιαδίκοι	δικαιάδικοι
 Generate the inflected form for: δικαιάδικος ADJ;DAT;DU;NEUT	δικαιαδίκοιν	δικαιαδίκοιν
 Generate the inflected form for: δικαιάδικος ADJ;NOM;DU;NEUT	δικαιαδίκω	δικαιαδίκω
-Generate the inflected form for: δικαιάδικος ADJ;VOC;PL	δικαιᾰδῐκοί	δικαιάδικοι
+Generate the inflected form for: δικαιάδικος ADJ;VOC;PL	δικαιαδίκοι	δικαιάδικοι
 Generate the inflected form for: δικαιάδικος ADJ;DAT;DU	δικαιαδίκοιν	δικαιαδίκοιν
 Generate the inflected form for: δικαιάδικος ADJ;ACC;DU	δικαιαδίκω	δικαιαδίκω
 Generate the inflected form for: δικαιάδικος ADJ;VOC;DU;NEUT	δικαιαδίκω	δικαιαδίκω
-Generate the inflected form for: δικαιάδικος ADJ;NOM;SG;NEUT	δικαιαδίκον	δικαιάδικον
+Generate the inflected form for: δικαιάδικος ADJ;NOM;SG;NEUT	δικαιαδίκος	δικαιάδικον
 Generate the inflected form for: δικαιάδικος ADJ;GEN;DU	δικαιαδίκοιν	δικαιαδίκοιν
-Generate the inflected form for: δικαιάδικος ADJ;DAT;PL	δικαιᾱδῐκοῖς	δικαιαδίκοις
+Generate the inflected form for: δικαιάδικος ADJ;DAT;PL	δικαιαδίκοις	δικαιαδίκοις
 Generate the inflected form for: δικαιάδικος ADJ;DAT;PL;NEUT	δικαιᾱδῐκοῖς	δικαιαδίκοις
 Generate the inflected form for: δικαιάδικος ADJ;GEN;PL;NEUT	δικαιᾱδῐκῶν	δικαιαδίκων
-Generate the inflected form for: δικαιάδικος ADJ;ACC;PL	δικαιᾱδῐκοί	δικαιαδίκους
-Generate the inflected form for: εὐκινησία N;ACC;SG	τὴν εὐκῐνησῐ́ᾱν	τὴν εὐκῑνησῐ́ᾱν
+Generate the inflected form for: δικαιάδικος ADJ;ACC;PL	δικαιαδίκοις	δικαιαδίκους
+Generate the inflected form for: εὐκινησία N;ACC;SG	τὸ εὐκῐνησῐ́ᾱ	τὴν εὐκῑνησῐ́ᾱν
 Generate the inflected form for: εὐκινησία N;NOM;DU	τὼ εὐκῐνησῐ́ᾱ	τὼ εὐκῑνησῐ́ᾱ
 Generate the inflected form for: εὐκινησία N;VOC;SG	εὐκῐνησῐ́ᾱ	εὐκῑνησῐ́ᾱ
 Generate the inflected form for: εὐκινησία N;VOC;DU	εὐκῐνησῐ́ᾱ	εὐκῑνησῐ́ᾱ
-Generate the inflected form for: εὐκινησία N;DAT;SG	τῇ εὐκῐνησῐῐ́ᾳ	τῇ εὐκῑνησῐ́ᾳ
+Generate the inflected form for: εὐκινησία N;DAT;SG	τῷ εὐκῐνησῐ́ᾳ	τῇ εὐκῑνησῐ́ᾳ
 Generate the inflected form for: εὐκινησία N;NOM;PL	αἱ εὐκῐνησῐ́αι	αἱ εὐκῑνησῐ́αι
 Generate the inflected form for: εὐκινησία N;ACC;PL	τᾱ̀ς εὐκῐνησῐ́ᾱς	τᾱ̀ς εὐκῑνησῐ́ᾱς
 Generate the inflected form for: εὐκινησία N;VOC;PL	εὐκῐνησῐ́αι	εὐκῑνησῐ́αι
-Generate the inflected form for: εὐκινησία N;GEN;DU	τοῖν εὐκῐνησῐ́αι	τοῖν εὐκῑνησῐ́αιν
+Generate the inflected form for: εὐκινησία N;GEN;DU	τοῖν εὐκῐνησῐ́αιν	τοῖν εὐκῑνησῐ́αιν
 Generate the inflected form for: εὐκινησία N;GEN;SG	τοῦ εὐκῐνησῐ́ας	τῆς εὐκῑνησῐ́ᾱς
-Generate the inflected form for: εὐκινησία N;DAT;DU	τοῖν εὐκῐνησῐ́αι	τοῖν εὐκῑνησῐ́αιν
+Generate the inflected form for: εὐκινησία N;DAT;DU	τοῖν εὐκῐνησῐ́αιν	τοῖν εὐκῑνησῐ́αιν
 Generate the inflected form for: εὐκινησία N;GEN;PL	τῶν εὐκῐνησῐῶν	τῶν εὐκῑνησῐῶν
 Generate the inflected form for: εὐκινησία N;ACC;DU	τὼ εὐκῐνησῐ́ᾱ	τὼ εὐκῑνησῐ́ᾱ
-Generate the inflected form for: εὐκινησία N;NOM;SG	ὁ εὐκινησῐ́α	ἡ εὐκῑνησῐ́ᾱ
-Generate the inflected form for: εὐκινησία N;DAT;PL	ταῖς εὐκῐνησῐ́αι	ταῖς εὐκῑνησῐ́αις
+Generate the inflected form for: εὐκινησία N;NOM;SG	ὁ εὐκῐνησῐ́α	ἡ εὐκῑνησῐ́ᾱ
+Generate the inflected form for: εὐκινησία N;DAT;PL	ταῖς εὐκῐνησῐ́αις	ταῖς εὐκῑνησῐ́αις
 Generate the inflected form for: θήρα N;VOC;PL	θήραι	θῆραι
 Generate the inflected form for: θήρα N;GEN;PL	τῶν θηρῶν	τῶν θηρῶν
-Generate the inflected form for: θήρα N;DAT;SG	τῇ θήρᾳ	τῇ θήρᾳ
+Generate the inflected form for: θήρα N;DAT;SG	τῷ θήρᾳ	τῇ θήρᾳ
 Generate the inflected form for: θήρα N;ACC;PL	τᾱ̀ς θήρᾱς	τᾱ̀ς θήρᾱς
 Generate the inflected form for: θήρα N;GEN;SG	τοῦ θήρατος	τῆς θήρᾱς
-Generate the inflected form for: θήρα N;VOC;SG	θήρᾰ	θήρᾱ
+Generate the inflected form for: θήρα N;VOC;SG	θήρᾱ	θήρᾱ
 Generate the inflected form for: θήρα N;NOM;DU	τὼ θήρᾱ	τὼ θήρᾱ
 Generate the inflected form for: θήρα N;NOM;PL	αἱ θήραι	αἱ θῆραι
-Generate the inflected form for: θήρα N;GEN;DU	τοῖν θήραιν	τοῖν θήραιν
+Generate the inflected form for: θήρα N;GEN;DU	τοῖν θηραῖν	τοῖν θήραιν
 Generate the inflected form for: θήρα N;VOC;DU	θήρᾱ	θήρᾱ
 Generate the inflected form for: θήρα N;DAT;DU	τοῖν θήραιν	τοῖν θήραιν
 Generate the inflected form for: θήρα N;ACC;SG	τὸν θήρᾱν	τὴν θήρᾱν
-Generate the inflected form for: θήρα N;NOM;SG	ὁ θήρᾱ	ἡ θήρᾱ
+Generate the inflected form for: θήρα N;NOM;SG	ὁ θήρα	ἡ θήρᾱ
 Generate the inflected form for: θήρα N;DAT;PL	ταῖς θήραις	ταῖς θήραις
 Generate the inflected form for: θήρα N;ACC;DU	τὼ θήρᾱ	τὼ θήρᾱ
-Generate the inflected form for: θεράπων N;ACC;PL	τᾱ̀ς θερᾱπονᾱ́ς	τοὺς θερᾰ́ποντᾰς
-Generate the inflected form for: θεράπων N;VOC;DU	θερᾱ́πωνε	θερᾰ́ποντε
-Generate the inflected form for: θεράπων N;DAT;SG	τῷ θερᾰπώνῐ	τῷ θερᾰ́ποντῐ
-Generate the inflected form for: θεράπων N;DAT;PL	ταῖς θερᾰπονῐ́	τοῖς θερᾰ́πουσῐ
+Generate the inflected form for: θεράπων N;ACC;PL	τᾱ̀ς θερᾱ́πωνᾰς	τοὺς θερᾰ́ποντᾰς
+Generate the inflected form for: θεράπων N;VOC;DU	θερᾰ́πων	θερᾰ́ποντε
+Generate the inflected form for: θεράπων N;DAT;SG	τῷ θερᾰ́πωνῐ	τῷ θερᾰ́ποντῐ
+Generate the inflected form for: θεράπων N;DAT;PL	τοῖς θερᾰ́πονσῐ(ν)	τοῖς θερᾰ́πουσῐ
 Generate the inflected form for: θεράπων N;NOM;PL	αἱ θερᾰ́ποντες	οἱ θερᾰ́ποντες
-Generate the inflected form for: θεράπων N;NOM;SG	ὁ θερᾰ́πων	ὁ θερᾰ́πων
-Generate the inflected form for: θεράπων N;NOM;DU	τὼ θερᾰπώνω	τὼ θερᾰ́ποντε
-Generate the inflected form for: θεράπων N;GEN;PL	τῶν θερᾰπώνων	τῶν θερᾰπόντων
-Generate the inflected form for: θεράπων N;DAT;DU	τοῖν θερᾰπώνοιν	τοῖν θερᾰπόντοιν
+Generate the inflected form for: θεράπων N;NOM;SG	ὁ θερᾶπων	ὁ θερᾰ́πων
+Generate the inflected form for: θεράπων N;NOM;DU	τὼ θερᾰ́πωνε	τὼ θερᾰ́ποντε
+Generate the inflected form for: θεράπων N;GEN;PL	τῶν θερᾰπόνων	τῶν θερᾰπόντων
+Generate the inflected form for: θεράπων N;DAT;DU	τοῖν θερᾰπόνοιν	τοῖν θερᾰπόντοιν
 Generate the inflected form for: θεράπων N;VOC;SG	θερᾰ́πων	θερᾰ́πον
-Generate the inflected form for: θεράπων N;ACC;SG	τὸν θερᾰ́πων	τὸν θερᾰ́ποντᾰ
-Generate the inflected form for: θεράπων N;GEN;DU	τοῖν θερᾰπώνοιν	τοῖν θερᾰπόντοιν
-Generate the inflected form for: θεράπων N;ACC;DU	τὼ θερᾰπώνω	τὼ θερᾰ́ποντε
-Generate the inflected form for: θεράπων N;VOC;PL	θερᾱ́ποντες	θερᾰ́ποντες
-Generate the inflected form for: θεράπων N;GEN;SG	τοῦ θερᾰπώνων	τοῦ θερᾰ́ποντος
+Generate the inflected form for: θεράπων N;ACC;SG	τὸν θερᾰ́πωνν	τὸν θερᾰ́ποντᾰ
+Generate the inflected form for: θεράπων N;GEN;DU	τοῖν θερᾰπόνοιν	τοῖν θερᾰπόντοιν
+Generate the inflected form for: θεράπων N;ACC;DU	τὼ θερᾰ́πωνε	τὼ θερᾰ́ποντε
+Generate the inflected form for: θεράπων N;VOC;PL	θερᾰ́πωνες	θερᾰ́ποντες
+Generate the inflected form for: θεράπων N;GEN;SG	τοῦ θερᾰ́ποντος	τοῦ θερᾰ́ποντος
 Generate the inflected form for: θεραπευτής N;GEN;PL	τῶν θερᾱπευτῶν	τῶν θερᾰπευτῶν
 Generate the inflected form for: θεραπευτής N;GEN;DU	τοῖν θερᾱπευταῖν	τοῖν θερᾰπευταῖν
 Generate the inflected form for: θεραπευτής N;VOC;SG	θερᾱπευτή	θερᾰπευτᾰ́
@@ -260,22 +260,22 @@ Generate the inflected form for: θεραπευτής N;NOM;DU	τὼ θερᾱπ
 Generate the inflected form for: θεραπευτής N;ACC;DU	τὼ θερᾱπευτᾱ́	τὼ θερᾰπευτᾱ́
 Generate the inflected form for: θεραπευτής N;VOC;DU	θερᾱπευτᾱ́	θερᾰπευτᾱ́
 Generate the inflected form for: θεραπευτής N;VOC;PL	θερᾱπευταί	θερᾰπευταί
-Generate the inflected form for: θεραπευτής N;ACC;PL	τοὺς θερᾱπευτᾱ́ς	τοὺς θερᾰπευτᾱ́ς
+Generate the inflected form for: θεραπευτής N;ACC;PL	τᾱ̀ς θερᾱπευτᾱ́ς	τοὺς θερᾰπευτᾱ́ς
 Generate the inflected form for: θεραπευτής N;ACC;SG	τὸν θερᾱπευτᾰ́	τὸν θερᾰπευτήν
 Generate the inflected form for: θεραπευτής N;DAT;DU	τοῖν θερᾱπευταῖν	τοῖν θερᾰπευταῖν
 Generate the inflected form for: θεραπευτής N;DAT;SG	τῷ θερᾱπευτῷ	τῷ θερᾰπευτῇ
-Generate the inflected form for: θεραπευτής N;DAT;PL	τοῖς θερᾱπευταῖ	τοῖς θερᾰπευταῖς
+Generate the inflected form for: θεραπευτής N;DAT;PL	τοῖς θερᾱπευταῖς	τοῖς θερᾰπευταῖς
 Generate the inflected form for: θεραπευτής N;NOM;SG	ὁ θερᾱπευτής	ὁ θερᾰπευτής
 Generate the inflected form for: θρόνος N;NOM;DU	τὼ θρόνω	τὼ θρόνω
 Generate the inflected form for: θρόνος N;DAT;PL	τοῖς θρόνοις	τοῖς θρόνοις
 Generate the inflected form for: θρόνος N;VOC;SG	θρόνε	θρόνε
 Generate the inflected form for: θρόνος N;VOC;DU	θρόνω	θρόνω
-Generate the inflected form for: θρόνος N;GEN;SG	τοῦ θρόνου	τοῦ θρόνου
+Generate the inflected form for: θρόνος N;GEN;SG	τοῦ θρονοῦ	τοῦ θρόνου
 Generate the inflected form for: θρόνος N;DAT;SG	τῷ θρόνῳ	τῷ θρόνῳ
 Generate the inflected form for: θρόνος N;ACC;SG	τὸν θρόνον	τὸν θρόνον
 Generate the inflected form for: θρόνος N;DAT;DU	τοῖν θρόνοιν	τοῖν θρόνοιν
 Generate the inflected form for: θρόνος N;GEN;DU	τοῖν θρόνοιν	τοῖν θρόνοιν
-Generate the inflected form for: θρόνος N;NOM;PL	αἱ θρόνοι	οἱ θρόνοι
+Generate the inflected form for: θρόνος N;NOM;PL	οἱ θρόνοι	οἱ θρόνοι
 Generate the inflected form for: θρόνος N;VOC;PL	θρόνοι	θρόνοι
 Generate the inflected form for: θρόνος N;ACC;DU	τὼ θρόνω	τὼ θρόνω
 Generate the inflected form for: θρόνος N;GEN;PL	τῶν θρόνων	τῶν θρόνων
@@ -284,8 +284,8 @@ Generate the inflected form for: θρόνος N;ACC;PL	τοὺς θρόνους	
 Generate the inflected form for: θύμος N;DAT;SG	τῷ θῠ́μῳ	τῷ θῠ́μῳ
 Generate the inflected form for: θύμος N;NOM;SG	ὁ θῠ́μος	ὁ θῠ́μος
 Generate the inflected form for: θύμος N;GEN;DU	τοῖν θῠ́μοιν	τοῖν θῠ́μοιν
-Generate the inflected form for: θύμος N;ACC;PL	τοὺς θῠ́μους	τοὺς θῠ́μους
-Generate the inflected form for: θύμος N;NOM;PL	αἱ θῠ́μοι	οἱ θῠ́μοι
+Generate the inflected form for: θύμος N;ACC;PL	τᾱ̀ς θῠ́μους	τοὺς θῠ́μους
+Generate the inflected form for: θύμος N;NOM;PL	οἱ θῠ́μοι	οἱ θῠ́μοι
 Generate the inflected form for: θύμος N;VOC;PL	θῠ́μοι	θῠ́μοι
 Generate the inflected form for: θύμος N;ACC;DU	τὼ θῠ́μω	τὼ θῠ́μω
 Generate the inflected form for: θύμος N;VOC;SG	θῠ́με	θῠ́με
@@ -296,20 +296,20 @@ Generate the inflected form for: θύμος N;GEN;PL	τῶν θῠ́μων	τῶ
 Generate the inflected form for: θύμος N;DAT;DU	τοῖν θῠ́μοιν	τοῖν θῠ́μοιν
 Generate the inflected form for: θύμος N;ACC;SG	τὸν θῠ́μον	τὸν θῠ́μον
 Generate the inflected form for: θύμος N;NOM;DU	τὼ θῠ́μω	τὼ θῠ́μω
-Generate the inflected form for: κάκη N;NOM;PL	οἱ κᾰ́και	αἱ κᾰ́και
-Generate the inflected form for: κάκη N;DAT;SG	τῇ κᾰ́κῃ	τῇ κᾰ́κῃ
+Generate the inflected form for: κάκη N;NOM;PL	αἱ κᾰ́και	αἱ κᾰ́και
+Generate the inflected form for: κάκη N;DAT;SG	τῷ κᾰ́κῃ	τῇ κᾰ́κῃ
 Generate the inflected form for: κάκη N;NOM;SG	ὁ κᾰ́κη	ἡ κᾰ́κη
 Generate the inflected form for: κάκη N;VOC;DU	κᾰ́κᾱ	κᾰ́κᾱ
 Generate the inflected form for: κάκη N;VOC;PL	κᾰ́και	κᾰ́και
 Generate the inflected form for: κάκη N;ACC;SG	τὸν κᾰ́κην	τὴν κᾰ́κην
-Generate the inflected form for: κάκη N;GEN;DU	τοῖν κᾰκαῖν	τοῖν κᾰ́καιν
-Generate the inflected form for: κάκη N;DAT;DU	τοῖν κᾰκαῖν	τοῖν κᾰ́καιν
+Generate the inflected form for: κάκη N;GEN;DU	τοῖν κᾰ́καιν	τοῖν κᾰ́καιν
+Generate the inflected form for: κάκη N;DAT;DU	τοῖν κᾰ́καιν	τοῖν κᾰ́καιν
 Generate the inflected form for: κάκη N;NOM;DU	τὼ κᾰ́κᾱ	τὼ κᾰ́κᾱ
 Generate the inflected form for: κάκη N;DAT;PL	ταῖς κᾰ́καις	ταῖς κᾰ́καις
 Generate the inflected form for: κάκη N;VOC;SG	κᾰ́κη	κᾰ́κη
-Generate the inflected form for: κάκη N;GEN;SG	τοῦ κᾰ́κης	τῆς κᾰ́κης
+Generate the inflected form for: κάκη N;GEN;SG	τοῦ κᾰ́κου	τῆς κᾰ́κης
 Generate the inflected form for: κάκη N;ACC;DU	τὼ κᾰ́κᾱ	τὼ κᾰ́κᾱ
-Generate the inflected form for: κάκη N;GEN;PL	τῶν κᾰ́κῶν	τῶν κᾰκῶν
+Generate the inflected form for: κάκη N;GEN;PL	τῶν κᾰ́κων	τῶν κᾰκῶν
 Generate the inflected form for: κάκη N;ACC;PL	τᾱ̀ς κᾰ́κᾱς	τᾱ̀ς κᾰ́κᾱς
 Generate the inflected form for: κάραβος N;VOC;SG	κᾰ́ρᾰβε	κᾱ́ρᾰβε
 Generate the inflected form for: κάραβος N;GEN;SG	τοῦ κᾰρᾰ́βου	τοῦ κᾱρᾰ́βου
@@ -319,12 +319,12 @@ Generate the inflected form for: κάραβος N;NOM;SG	ὁ κᾰ́ρᾰβος	
 Generate the inflected form for: κάραβος N;NOM;PL	οἱ κᾰρᾰ́βοι	οἱ κᾱ́ρᾰβοι
 Generate the inflected form for: κάραβος N;NOM;DU	τὼ κᾰρᾰ́βω	τὼ κᾱρᾰ́βω
 Generate the inflected form for: κάραβος N;DAT;SG	τῷ κᾰρᾰ́βῳ	τῷ κᾱρᾰ́βῳ
-Generate the inflected form for: κάραβος N;ACC;SG	τὸν κᾰ́ρᾰβον	τὸν κᾱ́ρᾰβον
+Generate the inflected form for: κάραβος N;ACC;SG	τὸν κᾰρᾰ́βον	τὸν κᾱ́ρᾰβον
 Generate the inflected form for: κάραβος N;GEN;PL	τῶν κᾰρᾰ́βων	τῶν κᾱρᾰ́βων
 Generate the inflected form for: κάραβος N;VOC;DU	κᾰρᾰ́βω	κᾱρᾰ́βω
-Generate the inflected form for: κάραβος N;ACC;PL	τοὺς κᾰρᾰ́βους	τοὺς κᾱρᾰ́βους
+Generate the inflected form for: κάραβος N;ACC;PL	τᾱ̀ς κᾰρᾰ́βους	τοὺς κᾱρᾰ́βους
 Generate the inflected form for: κάραβος N;GEN;DU	τοῖν κᾰρᾰ́βοιν	τοῖν κᾱρᾰ́βοιν
-Generate the inflected form for: κάραβος N;VOC;PL	κᾰ́ρᾰβοι	κᾱ́ρᾰβοι
+Generate the inflected form for: κάραβος N;VOC;PL	κάρᾰβοι	κᾱ́ρᾰβοι
 Generate the inflected form for: κάραβος N;ACC;DU	τὼ κᾰρᾰ́βω	τὼ κᾱρᾰ́βω
 Generate the inflected form for: καιρός N;VOC;PL	καιροί	καιροί
 Generate the inflected form for: καιρός N;ACC;PL	τοὺς καιρούς	τοὺς καιρούς
@@ -346,69 +346,69 @@ Generate the inflected form for: κλυστήρ N;GEN;SG	τοῦ κλῠστήρ
 Generate the inflected form for: κλυστήρ N;GEN;DU	τοῖν κλῠσταροῖν	τοῖν κλῠστήροιν
 Generate the inflected form for: κλυστήρ N;ACC;PL	τᾱ̀ς κλῠστήρᾱς	τοὺς κλῠστῆρᾰς
 Generate the inflected form for: κλυστήρ N;VOC;PL	κλῠστήρες	κλῠστῆρες
-Generate the inflected form for: κλυστήρ N;NOM;DU	τὼ κλῠστήρω	τὼ κλῠστῆρε
+Generate the inflected form for: κλυστήρ N;NOM;DU	τὼ κλῠστήρε	τὼ κλῠστῆρε
 Generate the inflected form for: κλυστήρ N;GEN;PL	τῶν κλῠστηρῶν	τῶν κλῠστήρων
 Generate the inflected form for: κλυστήρ N;VOC;SG	κλῠστήρ	κλῠστήρ
-Generate the inflected form for: κλυστήρ N;NOM;PL	οἱ κλῠσταίρες	οἱ κλῠστῆρες
-Generate the inflected form for: κλυστήρ N;DAT;PL	ταῖς κλῠσταίροις	τοῖς κλῠστῆρσῐ
-Generate the inflected form for: κλυστήρ N;DAT;SG	τῇ κλῠστήρῐ	τῷ κλῠστῆρῐ
-Generate the inflected form for: κλυστήρ N;ACC;DU	τὼ κλῠστήρω	τὼ κλῠστῆρε
-Generate the inflected form for: κλυστήρ N;VOC;DU	κλῠστήρω	κλῠστῆρε
-Generate the inflected form for: κλυστήρ N;ACC;SG	τὸν κλῠστήρᾰ	τὸν κλῠστῆρᾰ
+Generate the inflected form for: κλυστήρ N;NOM;PL	οἱ κλῠσταρες	οἱ κλῠστῆρες
+Generate the inflected form for: κλυστήρ N;DAT;PL	τοῖς κλῠσταροῖς	τοῖς κλῠστῆρσῐ
+Generate the inflected form for: κλυστήρ N;DAT;SG	τῷ κλῠστήρῐ	τῷ κλῠστῆρῐ
+Generate the inflected form for: κλυστήρ N;ACC;DU	τὼ κλῠστήρε	τὼ κλῠστῆρε
+Generate the inflected form for: κλυστήρ N;VOC;DU	κλῠστήρε	κλῠστῆρε
+Generate the inflected form for: κλυστήρ N;ACC;SG	τὸν κλῠστήρε	τὸν κλῠστῆρᾰ
 Generate the inflected form for: κοίλωμα N;ACC;PL	τᾱ̀ς κοιλώμᾰτᾰς	τᾰ̀ κοιλώμᾰτᾰ
 Generate the inflected form for: κοίλωμα N;NOM;PL	οἱ κοίλωμαι	τᾰ̀ κοιλώμᾰτᾰ
-Generate the inflected form for: κοίλωμα N;VOC;SG	κοίλωμα	κοίλωμᾰ
+Generate the inflected form for: κοίλωμα N;VOC;SG	κοῖλωμᾰ	κοίλωμᾰ
 Generate the inflected form for: κοίλωμα N;GEN;SG	τοῦ κοιλώμᾰτος	τοῦ κοιλώμᾰτος
-Generate the inflected form for: κοίλωμα N;VOC;DU	κοίλωμᾰτε	κοιλώμᾰτε
+Generate the inflected form for: κοίλωμα N;VOC;DU	κοῖλωμᾰ́	κοιλώμᾰτε
 Generate the inflected form for: κοίλωμα N;NOM;DU	τὼ κοιλώμᾰτε	τὼ κοιλώμᾰτε
-Generate the inflected form for: κοίλωμα N;VOC;PL	κοίλωματᾰ	κοιλώμᾰτᾰ
-Generate the inflected form for: κοίλωμα N;DAT;SG	τῇ κοιλώμᾰτῐ	τῷ κοιλώμᾰτῐ
-Generate the inflected form for: κοίλωμα N;DAT;DU	τοῖν κοιλώματοιν	τοῖν κοιλωμᾰ́τοιν
-Generate the inflected form for: κοίλωμα N;GEN;DU	τοῖν κοιλώματοιν	τοῖν κοιλωμᾰ́τοιν
+Generate the inflected form for: κοίλωμα N;VOC;PL	κοῖλωμᾰ́τες	κοιλώμᾰτᾰ
+Generate the inflected form for: κοίλωμα N;DAT;SG	τῷ κοιλώμᾰτῐ	τῷ κοιλώμᾰτῐ
+Generate the inflected form for: κοίλωμα N;DAT;DU	τοῖν κοιλώμᾰτοιν	τοῖν κοιλωμᾰ́τοιν
+Generate the inflected form for: κοίλωμα N;GEN;DU	τοῖν κοιλώμᾰτοιν	τοῖν κοιλωμᾰ́τοιν
 Generate the inflected form for: κοίλωμα N;ACC;DU	τὼ κοιλώμᾰτε	τὼ κοιλώμᾰτε
 Generate the inflected form for: κοίλωμα N;NOM;SG	ὁ κοίλωμα	τὸ κοίλωμᾰ
 Generate the inflected form for: κοίλωμα N;GEN;PL	τῶν κοιλώμᾰτων	τῶν κοιλωμᾰ́των
-Generate the inflected form for: κοίλωμα N;DAT;PL	ταῖς κοιλώμᾰσῐ(ν)	τοῖς κοιλώμᾰσῐ
-Generate the inflected form for: κοίλωμα N;ACC;SG	τὸν κοίλωμᾰν	τὸ κοίλωμᾰ
+Generate the inflected form for: κοίλωμα N;DAT;PL	τοῖς κοιλώμᾰσῐ(ν)	τοῖς κοιλώμᾰσῐ
+Generate the inflected form for: κοίλωμα N;ACC;SG	τὸν κοίλωμᾰ	τὸ κοίλωμᾰ
 Generate the inflected form for: κυνισμός N;GEN;PL	τῶν κῠνῐσμῶν	τῶν κῠνῐσμῶν
 Generate the inflected form for: κυνισμός N;DAT;PL	τοῖς κῠνῐσμοῖς	τοῖς κῠνῐσμοῖς
 Generate the inflected form for: κυνισμός N;VOC;DU	κῡνῐσμώ	κῠνῐσμώ
 Generate the inflected form for: κυνισμός N;VOC;SG	κῡνῐσμέ	κῠνῐσμέ
 Generate the inflected form for: κυνισμός N;DAT;SG	τῷ κῠνῐσμῷ	τῷ κῠνῐσμῷ
 Generate the inflected form for: κυνισμός N;NOM;SG	ὁ κῠνῐσμός	ὁ κῠνῐσμός
-Generate the inflected form for: κυνισμός N;GEN;DU	τοῖν κῠνῐσμοῖν	τοῖν κῠνῐσμοῖν
-Generate the inflected form for: κυνισμός N;ACC;PL	τοὺς κῠνῐσμούς	τοὺς κῠνῐσμούς
+Generate the inflected form for: κυνισμός N;GEN;DU	τοῖν κῡνῐσμοῖν	τοῖν κῠνῐσμοῖν
+Generate the inflected form for: κυνισμός N;ACC;PL	τᾱ̀ς κῠνῐσμούς	τοὺς κῠνῐσμούς
 Generate the inflected form for: κυνισμός N;NOM;PL	οἱ κῠνῐσμοί	οἱ κῠνῐσμοί
 Generate the inflected form for: κυνισμός N;GEN;SG	τοῦ κῠνῐσμοῦ	τοῦ κῠνῐσμοῦ
 Generate the inflected form for: κυνισμός N;VOC;PL	κῡνῐσμοί	κῠνῐσμοί
-Generate the inflected form for: κυνισμός N;NOM;DU	τὼ κῠνῐσμώ	τὼ κῠνῐσμώ
-Generate the inflected form for: κυνισμός N;DAT;DU	τοῖν κῠνῐσμοῖν	τοῖν κῠνῐσμοῖν
+Generate the inflected form for: κυνισμός N;NOM;DU	τὼ κῡνῐσμώ	τὼ κῠνῐσμώ
+Generate the inflected form for: κυνισμός N;DAT;DU	τοῖν κῡνῐσμοῖν	τοῖν κῠνῐσμοῖν
 Generate the inflected form for: κυνισμός N;ACC;DU	τὼ κῠνῐσμώ	τὼ κῠνῐσμώ
 Generate the inflected form for: κυνισμός N;ACC;SG	τὸν κῠνῐσμόν	τὸν κῠνῐσμόν
-Generate the inflected form for: λεκάνη N;GEN;PL	τῶν λεκᾰ́νῶν	λεκανῶν
+Generate the inflected form for: λεκάνη N;GEN;PL	τῶν λεκᾱ́νων	λεκανῶν
 Generate the inflected form for: λεκάνη N;NOM;SG	ὁ λεκᾱ́νη	λεκάνη
 Generate the inflected form for: λεκάνη N;NOM;DU	τὼ λεκᾱ́νᾱ	λεκάνᾱ
 Generate the inflected form for: λεκάνη N;ACC;DU	τὼ λεκᾱ́νᾱ	λεκάνᾱ
-Generate the inflected form for: λεκάνη N;DAT;DU	τοῖν λεκᾰναῖν	λεκάναιν
-Generate the inflected form for: λεκάνη N;VOC;PL	λεκᾰ́ναι	λεκάναι
-Generate the inflected form for: λεκάνη N;DAT;SG	τῇ λεκᾰ́νῃ	λεκάνῃ
-Generate the inflected form for: λεκάνη N;VOC;SG	λεκᾰ́νη	λεκάνη
+Generate the inflected form for: λεκάνη N;DAT;DU	τοῖν λεκᾱ́ναιν	λεκάναιν
+Generate the inflected form for: λεκάνη N;VOC;PL	λεκᾱ́ναι	λεκάναι
+Generate the inflected form for: λεκάνη N;DAT;SG	τῷ λεκᾱ́νῃ	λεκάνῃ
+Generate the inflected form for: λεκάνη N;VOC;SG	λεκᾱ́νη	λεκάνη
 Generate the inflected form for: λεκάνη N;VOC;DU	λεκᾱ́νᾱ	λεκάνᾱ
-Generate the inflected form for: λεκάνη N;ACC;SG	τὸν λεκᾰ́νην	λεκάνην
+Generate the inflected form for: λεκάνη N;ACC;SG	τὸν λεκᾱ́νην	λεκάνην
 Generate the inflected form for: λεκάνη N;DAT;PL	ταῖς λεκᾰ́ναις	λεκάναις
-Generate the inflected form for: λεκάνη N;GEN;DU	τοῖν λεκᾰναῖν	λεκάναιν
+Generate the inflected form for: λεκάνη N;GEN;DU	τοῖν λεκᾱ́ναιν	λεκάναιν
 Generate the inflected form for: λεκάνη N;ACC;PL	τᾱ̀ς λεκᾱ́νᾱς	λεκάνᾱς
 Generate the inflected form for: λεκάνη N;NOM;PL	αἱ λεκᾱ́ναι	λεκάναι
-Generate the inflected form for: λεκάνη N;GEN;SG	τοῦ λεκᾰ́νης	λεκάνης
+Generate the inflected form for: λεκάνη N;GEN;SG	τοῦ λεκᾱ́νου	λεκάνης
 Generate the inflected form for: λοχέος N;VOC;DU	λοχέω	λοχέω
-Generate the inflected form for: λοχέος N;ACC;PL	τοὺς λοχέους	τοὺς λοχέους
+Generate the inflected form for: λοχέος N;ACC;PL	τᾱ̀ς λοχέους	τοὺς λοχέους
 Generate the inflected form for: λοχέος N;DAT;PL	τοῖς λοχέοις	τοῖς λοχέοις
 Generate the inflected form for: λοχέος N;NOM;DU	τὼ λοχέω	τὼ λοχέω
 Generate the inflected form for: λοχέος N;ACC;DU	τὼ λοχέω	τὼ λοχέω
 Generate the inflected form for: λοχέος N;GEN;PL	τῶν λοχέων	τῶν λοχέων
 Generate the inflected form for: λοχέος N;VOC;SG	λοχέε	λοχέε
-Generate the inflected form for: λοχέος N;NOM;SG	ὁ λοχέω	ὁ λοχέος
-Generate the inflected form for: λοχέος N;ACC;SG	τὸν λοχέων	τὸν λοχέον
+Generate the inflected form for: λοχέος N;NOM;SG	ὁ λοχέος	ὁ λοχέος
+Generate the inflected form for: λοχέος N;ACC;SG	τὸν λοχέον	τὸν λοχέον
 Generate the inflected form for: λοχέος N;GEN;SG	τοῦ λοχέου	τοῦ λοχέου
 Generate the inflected form for: λοχέος N;DAT;SG	τῷ λοχέῳ	τῷ λοχέῳ
 Generate the inflected form for: λοχέος N;VOC;PL	λοχέοι	λοχέοι
@@ -417,12 +417,12 @@ Generate the inflected form for: λοχέος N;DAT;DU	τοῖν λοχέοιν	
 Generate the inflected form for: λοχέος N;NOM;PL	λοχέοι	οἱ λοχέοι
 Generate the inflected form for: λύρα N;DAT;PL	ταῖς λῠ́ραις	ταῖς λῠ́ραις
 Generate the inflected form for: λύρα N;NOM;PL	αἱ λῠ́ραι	αἱ λῠ́ραι
-Generate the inflected form for: λύρα N;DAT;SG	τῇ λῠ́ρᾳ	τῇ λῠ́ρᾳ
+Generate the inflected form for: λύρα N;DAT;SG	τῷ λῠ́ρᾳ	τῇ λῠ́ρᾳ
 Generate the inflected form for: λύρα N;ACC;PL	τᾱ̀ς λῠ́ρᾱς	τᾱ̀ς λῠ́ρᾱς
 Generate the inflected form for: λύρα N;GEN;PL	τῶν λῠ́ρῶν	τῶν λῠρῶν
 Generate the inflected form for: λύρα N;VOC;SG	λῠ́ρᾱ	λῠ́ρᾰ
 Generate the inflected form for: λύρα N;GEN;SG	τοῦ λῠ́ρας	τῆς λῠ́ρᾱς
-Generate the inflected form for: λύρα N;GEN;DU	τοῖν λῠραῖν	τοῖν λῠ́ραιν
+Generate the inflected form for: λύρα N;GEN;DU	τοῖν λῠ́ραιν	τοῖν λῠ́ραιν
 Generate the inflected form for: λύρα N;VOC;PL	λῠ́ραι	λῠ́ραι
 Generate the inflected form for: λύρα N;NOM;SG	ὁ λῠ́ρᾱ	ἡ λῠ́ρᾰ
 Generate the inflected form for: λύρα N;ACC;DU	τὼ λῠ́ρᾱ	τὼ λῠ́ρᾱ
@@ -440,121 +440,121 @@ Generate the inflected form for: μέτρον N;GEN;SG	τοῦ μέτρου	το
 Generate the inflected form for: μέτρον N;GEN;DU	τοῖν μέτροιν	τοῖν μέτροιν
 Generate the inflected form for: μέτρον N;VOC;DU	μέτρω	μέτρω
 Generate the inflected form for: μέτρον N;VOC;PL	μέτροι	μέτρᾰ
-Generate the inflected form for: μέτρον N;ACC;PL	τοὺς μέτρους	τὰ μέτρᾰ
-Generate the inflected form for: μέτρον N;NOM;SG	ὁ μέτρος	τὸ μέτρον
+Generate the inflected form for: μέτρον N;ACC;PL	τᾱ̀ς μέτρᾱς	τὰ μέτρᾰ
+Generate the inflected form for: μέτρον N;NOM;SG	ὁ μέτρον	τὸ μέτρον
 Generate the inflected form for: μέτρον N;DAT;DU	τοῖν μέτροιν	τοῖν μέτροιν
 Generate the inflected form for: μέτρον N;ACC;SG	τὸν μέτρον	τὸ μέτρον
 Generate the inflected form for: μέτρον N;VOC;SG	μέτρε	μέτρον
-Generate the inflected form for: μισογύνης N;ACC;PL	τοὺς μῐσογῠ́νᾱς	τοὺς μῑσογῠ́νᾱς
+Generate the inflected form for: μισογύνης N;ACC;PL	τᾱ̀ς μῐσογῠ́νᾱς	τοὺς μῑσογῠ́νᾱς
 Generate the inflected form for: μισογύνης N;GEN;PL	τῶν μῐσογῠ́νων	τῶν μῑσογῠνῶν
 Generate the inflected form for: μισογύνης N;NOM;DU	τὼ μῐσογῠ́νᾱ	τὼ μῑσογῠ́νᾱ
-Generate the inflected form for: μισογύνης N;NOM;PL	οἱ μῐσογῠ́ναι	οἱ μῑσογῠ́ναι
+Generate the inflected form for: μισογύνης N;NOM;PL	αἱ μῐσογῠ́ναι	οἱ μῑσογῠ́ναι
 Generate the inflected form for: μισογύνης N;GEN;DU	τοῖν μῐσογῠ́ναιν	τοῖν μῑσογῠ́ναιν
 Generate the inflected form for: μισογύνης N;GEN;SG	τοῦ μῐσογῠ́νου	τοῦ μῑσογῠ́νου
 Generate the inflected form for: μισογύνης N;DAT;PL	τοῖς μῐσογῠ́ναις	τοῖς μῑσογῠ́ναις
-Generate the inflected form for: μισογύνης N;NOM;SG	ὁ μισογύνης	ὁ μῑσογῠ́νης
+Generate the inflected form for: μισογύνης N;NOM;SG	ὁ μῐσογῠ́νης	ὁ μῑσογῠ́νης
 Generate the inflected form for: μισογύνης N;VOC;SG	μισογῠ́νη	μῑσογῠ́νη
 Generate the inflected form for: μισογύνης N;ACC;SG	τὸν μῐσογῠ́νην	τὸν μῑσογῠ́νην
 Generate the inflected form for: μισογύνης N;VOC;PL	μισογῠ́ναι	μῑσογῠ́ναι
-Generate the inflected form for: μισογύνης N;VOC;DU	μισογῠ́νᾱ	μῑσογῠ́νᾱ
-Generate the inflected form for: μισογύνης N;DAT;SG	τῷ μῐσογῠ́νῳ	τῷ μῑσογῠ́νῃ
+Generate the inflected form for: μισογύνης N;VOC;DU	μῐσογῠ́νᾱ	μῑσογῠ́νᾱ
+Generate the inflected form for: μισογύνης N;DAT;SG	τῷ μῐσογῠ́νῃ	τῷ μῑσογῠ́νῃ
 Generate the inflected form for: μισογύνης N;ACC;DU	τὼ μῐσογῠ́νᾱ	τὼ μῑσογῠ́νᾱ
 Generate the inflected form for: μισογύνης N;DAT;DU	τοῖν μῐσογῠ́ναιν	τοῖν μῑσογῠ́ναιν
-Generate the inflected form for: μνήμη N;DAT;DU	τοῖν μνημαῖν	τοῖν μνήμαιν
-Generate the inflected form for: μνήμη N;DAT;SG	τῇ μνήμῃ	τῇ μνήμῃ
+Generate the inflected form for: μνήμη N;DAT;DU	τοῖν μνήμαιν	τοῖν μνήμαιν
+Generate the inflected form for: μνήμη N;DAT;SG	τῷ μνήμῃ	τῇ μνήμῃ
 Generate the inflected form for: μνήμη N;ACC;DU	τὼ μνήμᾱ	τὼ μνήμᾱ
 Generate the inflected form for: μνήμη N;NOM;PL	αἱ μνήμαι	αἱ μνῆμαι
-Generate the inflected form for: μνήμη N;ACC;SG	τὸν μνήμᾰν	τὴν μνήμην
+Generate the inflected form for: μνήμη N;ACC;SG	τὸν μνήμην	τὴν μνήμην
 Generate the inflected form for: μνήμη N;VOC;DU	μνήμᾱ	μνήμᾱ
 Generate the inflected form for: μνήμη N;NOM;SG	ὁ μνήμη	ἡ μνήμη
-Generate the inflected form for: μνήμη N;GEN;DU	τοῖν μνημαῖν	τοῖν μνήμαιν
+Generate the inflected form for: μνήμη N;GEN;DU	τοῖν μνήμαιν	τοῖν μνήμαιν
 Generate the inflected form for: μνήμη N;VOC;SG	μνήμη	μνήμη
-Generate the inflected form for: μνήμη N;DAT;PL	ταῖς μνήματαις	ταῖς μνήμαις
-Generate the inflected form for: μνήμη N;GEN;PL	τῶν μνημῶν	τῶν μνημῶν
+Generate the inflected form for: μνήμη N;DAT;PL	ταῖς μνήμασῐ(ν)	ταῖς μνήμαις
+Generate the inflected form for: μνήμη N;GEN;PL	τῶν μνήμῶν	τῶν μνημῶν
 Generate the inflected form for: μνήμη N;NOM;DU	τὼ μνήμᾱ	τὼ μνήμᾱ
 Generate the inflected form for: μνήμη N;ACC;PL	τᾱ̀ς μνήμᾱς	τᾱ̀ς μνήμᾱς
-Generate the inflected form for: μνήμη N;GEN;SG	τοῦ μνήμης	τῆς μνήμης
+Generate the inflected form for: μνήμη N;GEN;SG	τοῦ μνήμητος	τῆς μνήμης
 Generate the inflected form for: μνήμη N;VOC;PL	μνήματες	μνῆμαι
-Generate the inflected form for: νυός N;ACC;PL	νυοί	τᾱ̀ς νῠούς
-Generate the inflected form for: νυός N;DAT;PL	νυοῖς	ταῖς νῠοῖς
-Generate the inflected form for: νυός N;GEN;SG	νυοῦ	τῆς νῠοῦ
+Generate the inflected form for: νυός N;ACC;PL	τᾱ̀ς νυούς	τᾱ̀ς νῠούς
+Generate the inflected form for: νυός N;DAT;PL	τοῖς νῠοῖς	ταῖς νῠοῖς
+Generate the inflected form for: νυός N;GEN;SG	τοῦ νυοῦ	τῆς νῠοῦ
 Generate the inflected form for: νυός N;VOC;SG	νυέ	νῠέ
 Generate the inflected form for: νυός N;NOM;PL	νυοί	αἱ νῠοί
 Generate the inflected form for: νυός N;NOM;SG	ὁ νυός	ἡ νῠός
-Generate the inflected form for: νυός N;GEN;DU	νυοῖν	τοῖν νῠοῖν
-Generate the inflected form for: νυός N;NOM;DU	νυώ	τὼ νῠώ
+Generate the inflected form for: νυός N;GEN;DU	τοῖν νῠοῖν	τοῖν νῠοῖν
+Generate the inflected form for: νυός N;NOM;DU	τὼ νῡώ	τὼ νῠώ
 Generate the inflected form for: νυός N;ACC;SG	τὸν νυόν	τὴν νῠόν
 Generate the inflected form for: νυός N;VOC;DU	νυώ	νῠώ
-Generate the inflected form for: νυός N;DAT;DU	νυοῖν	τοῖν νῠοῖν
+Generate the inflected form for: νυός N;DAT;DU	τοῖν νῠοῖν	τοῖν νῠοῖν
 Generate the inflected form for: νυός N;VOC;PL	νυοί	νῠοί
-Generate the inflected form for: νυός N;GEN;PL	νυοῖς	τῶν νῠῶν
+Generate the inflected form for: νυός N;GEN;PL	τῶν νυῶν	τῶν νῠῶν
 Generate the inflected form for: νυός N;DAT;SG	τῷ νυῷ	τῇ νῠῷ
-Generate the inflected form for: νυός N;ACC;DU	νυώ	τὼ νῠώ
-Generate the inflected form for: παλαίστρα N;GEN;PL	τῶν πᾰλᾰιστρῶν	τῶν παλαιστρῶν
+Generate the inflected form for: νυός N;ACC;DU	τὼ νῡώ	τὼ νῠώ
+Generate the inflected form for: παλαίστρα N;GEN;PL	τῶν παλαιστρῶν	τῶν παλαιστρῶν
 Generate the inflected form for: παλαίστρα N;GEN;DU	τοῖν πᾰλαιστραιν	τοῖν παλαίστραιν
 Generate the inflected form for: παλαίστρα N;ACC;DU	τὼ πᾰλαιστρᾱ	τὼ παλαίστρᾱ
-Generate the inflected form for: παλαίστρα N;NOM;DU	τὼ πᾰλᾰιστρᾱ	τὼ παλαίστρᾱ
+Generate the inflected form for: παλαίστρα N;NOM;DU	τὼ πᾰλαίστρᾱ	τὼ παλαίστρᾱ
 Generate the inflected form for: παλαίστρα N;VOC;DU	παλαίστρᾱ	παλαίστρᾱ
-Generate the inflected form for: παλαίστρα N;ACC;PL	τᾱ̀ς πᾰλᾰιστρᾱς	τᾱ̀ς παλαίστρᾱς
+Generate the inflected form for: παλαίστρα N;ACC;PL	τᾱ̀ς παλαιστρᾱς	τᾱ̀ς παλαίστρᾱς
 Generate the inflected form for: παλαίστρα N;VOC;PL	παλαίστραι	παλαῖστραι
-Generate the inflected form for: παλαίστρα N;GEN;SG	τοῦ παλαιστρας	τῆς παλαίστρᾱς
-Generate the inflected form for: παλαίστρα N;DAT;PL	ταῖς πᾰλᾰιστραις	ταῖς παλαίστραις
-Generate the inflected form for: παλαίστρα N;ACC;SG	τὸν παλαίστρᾱν	τὴν παλαίστρᾱν
+Generate the inflected form for: παλαίστρα N;GEN;SG	τοῦ παλαιστρου	τῆς παλαίστρᾱς
+Generate the inflected form for: παλαίστρα N;DAT;PL	ταῖς πᾰλαιστραις	ταῖς παλαίστραις
+Generate the inflected form for: παλαίστρα N;ACC;SG	τὸν παλαίστραν	τὴν παλαίστρᾱν
 Generate the inflected form for: παλαίστρα N;VOC;SG	παλαίστρᾰ	παλαίστρᾱ
-Generate the inflected form for: παλαίστρα N;NOM;PL	αἱ παλαιστραι	αἱ παλαῖστραι
-Generate the inflected form for: παλαίστρα N;DAT;SG	τῇ πᾰλᾰίστρῐ	τῇ παλαίστρᾳ
+Generate the inflected form for: παλαίστρα N;NOM;PL	αἱ παλαίστραι	αἱ παλαῖστραι
+Generate the inflected form for: παλαίστρα N;DAT;SG	τῷ παλαιστρῐ	τῇ παλαίστρᾳ
 Generate the inflected form for: παλαίστρα N;DAT;DU	τοῖν πᾰλαιστραιν	τοῖν παλαίστραιν
 Generate the inflected form for: παλαίστρα N;NOM;SG	ὁ παλαίστρα	ἡ παλαίστρᾱ
-Generate the inflected form for: παράνομος ADJ;NOM;PL;NEUT	παρανόμοι	παράνομα
-Generate the inflected form for: παράνομος ADJ;NOM;SG	παράνωμε	παράνομος
-Generate the inflected form for: παράνομος ADJ;GEN;PL	παρανόμων	παρανόμων
-Generate the inflected form for: παράνομος ADJ;DAT;SG;NEUT	παρανόμῳ	παρανόμῳ
-Generate the inflected form for: παράνομος ADJ;VOC;PL	παρανόμοι	παράνομοι
-Generate the inflected form for: παράνομος ADJ;DAT;DU	παρανόμοιν	παρανόμοιν
-Generate the inflected form for: παράνομος ADJ;ACC;SG;NEUT	παρανόμον	παράνομον
+Generate the inflected form for: παράνομος ADJ;NOM;PL;NEUT	παράνομα	παράνομα
+Generate the inflected form for: παράνομος ADJ;NOM;SG	παράνομος	παράνομος
+Generate the inflected form for: παράνομος ADJ;GEN;PL	παράνομων	παρανόμων
+Generate the inflected form for: παράνομος ADJ;DAT;SG;NEUT	παράνωμῳ	παρανόμῳ
+Generate the inflected form for: παράνομος ADJ;VOC;PL	παράνομα	παράνομοι
+Generate the inflected form for: παράνομος ADJ;DAT;DU	παράνωμοιν	παρανόμοιν
+Generate the inflected form for: παράνομος ADJ;ACC;SG;NEUT	παράνωμον	παράνομον
 Generate the inflected form for: παράνομος ADJ;DAT;SG	παράνωμῳ	παρανόμῳ
-Generate the inflected form for: παράνομος ADJ;ACC;SG	παράνωμε	παράνομον
-Generate the inflected form for: παράνομος ADJ;GEN;SG	παράνωμου	παρανόμου
-Generate the inflected form for: παράνομος ADJ;ACC;PL	παρανόμοις	παρανόμους
-Generate the inflected form for: παράνομος ADJ;ACC;PL;NEUT	παρανόμοι	παράνομα
-Generate the inflected form for: παράνομος ADJ;NOM;DU;NEUT	παρανόμω	παρανόμω
-Generate the inflected form for: παράνομος ADJ;DAT;PL	παρανόμοις	παρανόμοις
-Generate the inflected form for: παράνομος ADJ;NOM;SG;NEUT	παρανόμος	παράνομον
-Generate the inflected form for: παράνομος ADJ;ACC;DU;NEUT	παρανόμω	παρανόμω
-Generate the inflected form for: παράνομος ADJ;VOC;PL;NEUT	παρανόμοι	παράνομα
-Generate the inflected form for: παράνομος ADJ;VOC;DU;NEUT	παρανόμω	παρανόμω
-Generate the inflected form for: παράνομος ADJ;NOM;DU	παρανόμω	παρανόμω
-Generate the inflected form for: παράνομος ADJ;ACC;DU	παρανόμω	παρανόμω
-Generate the inflected form for: παράνομος ADJ;DAT;DU;NEUT	παρανόμοιν	παρανόμοιν
+Generate the inflected form for: παράνομος ADJ;ACC;SG	παράνωμον	παράνομον
+Generate the inflected form for: παράνομος ADJ;GEN;SG	παράνομου	παρανόμου
+Generate the inflected form for: παράνομος ADJ;ACC;PL	παράνομοι	παρανόμους
+Generate the inflected form for: παράνομος ADJ;ACC;PL;NEUT	παράνωμα	παράνομα
+Generate the inflected form for: παράνομος ADJ;NOM;DU;NEUT	παράνωμω	παρανόμω
+Generate the inflected form for: παράνομος ADJ;DAT;PL	παράνομοις	παρανόμοις
+Generate the inflected form for: παράνομος ADJ;NOM;SG;NEUT	παράνωμον	παράνομον
+Generate the inflected form for: παράνομος ADJ;ACC;DU;NEUT	παράνωμω	παρανόμω
+Generate the inflected form for: παράνομος ADJ;VOC;PL;NEUT	παράνομα	παράνομα
+Generate the inflected form for: παράνομος ADJ;VOC;DU;NEUT	παράνωμω	παρανόμω
+Generate the inflected form for: παράνομος ADJ;NOM;DU	παράνωμω	παρανόμω
+Generate the inflected form for: παράνομος ADJ;ACC;DU	παράνωμω	παρανόμω
+Generate the inflected form for: παράνομος ADJ;DAT;DU;NEUT	παράνωμοιν	παρανόμοιν
 Generate the inflected form for: παράνομος ADJ;GEN;DU;NEUT	παρανόμοιν	παρανόμοιν
 Generate the inflected form for: παράνομος ADJ;GEN;DU	παρανόμοιν	παρανόμοιν
-Generate the inflected form for: παράνομος ADJ;GEN;SG;NEUT	παρανόμου	παρανόμου
-Generate the inflected form for: παράνομος ADJ;NOM;PL	παρανόμοι	παράνομοι
-Generate the inflected form for: παράνομος ADJ;DAT;PL;NEUT	παρανόμοις	παρανόμοις
-Generate the inflected form for: παράνομος ADJ;VOC;SG;NEUT	παρανόμε	παράνομον
+Generate the inflected form for: παράνομος ADJ;GEN;SG;NEUT	παράνομου	παρανόμου
+Generate the inflected form for: παράνομος ADJ;NOM;PL	παράνομοι	παράνομοι
+Generate the inflected form for: παράνομος ADJ;DAT;PL;NEUT	παράνωμοις	παρανόμοις
+Generate the inflected form for: παράνομος ADJ;VOC;SG;NEUT	παράνωμε	παράνομον
 Generate the inflected form for: παράνομος ADJ;VOC;SG	παράνωμε	παράνομε
-Generate the inflected form for: παράνομος ADJ;GEN;PL;NEUT	παρανόμων	παρανόμων
-Generate the inflected form for: παράνομος ADJ;VOC;DU	παρανόμω	παρανόμω
-Generate the inflected form for: περιτομή N;DAT;SG	τῇ περιτομῇ	τῇ περῐτομῇ
+Generate the inflected form for: παράνομος ADJ;GEN;PL;NEUT	παράνομων	παρανόμων
+Generate the inflected form for: παράνομος ADJ;VOC;DU	παράνωμω	παρανόμω
+Generate the inflected form for: περιτομή N;DAT;SG	περιτομῷ	τῇ περῐτομῇ
 Generate the inflected form for: περιτομή N;NOM;PL	αἱ περῐτομαί	αἱ περῐτομαί
-Generate the inflected form for: περιτομή N;ACC;SG	περιτομᾱ́	τὴν περῐτομήν
-Generate the inflected form for: περιτομή N;GEN;SG	περιτομήν	τῆς περῐτομῆς
-Generate the inflected form for: περιτομή N;GEN;PL	τῶν περῐτομῶν	τῶν περῐτομῶν
-Generate the inflected form for: περιτομή N;GEN;DU	τοῖν περιτομαῖν	τοῖν περῐτομαῖν
+Generate the inflected form for: περιτομή N;ACC;SG	περιτομήν	τὴν περῐτομήν
+Generate the inflected form for: περιτομή N;GEN;SG	περιτομής	τῆς περῐτομῆς
+Generate the inflected form for: περιτομή N;GEN;PL	περιτομῶν	τῶν περῐτομῶν
+Generate the inflected form for: περιτομή N;GEN;DU	τοῖν περῐτομαῖν	τοῖν περῐτομαῖν
 Generate the inflected form for: περιτομή N;NOM;DU	περιτομᾱ́	τὼ περῐτομᾱ́
-Generate the inflected form for: περιτομή N;VOC;SG	περιτομή	περῐτομή
-Generate the inflected form for: περιτομή N;VOC;PL	περιτομαί	περῐτομαί
-Generate the inflected form for: περιτομή N;DAT;DU	τοῖν περιτομαῖν	τοῖν περῐτομαῖν
-Generate the inflected form for: περιτομή N;DAT;PL	ταῖς περῐτομαῖς	ταῖς περῐτομαῖς
+Generate the inflected form for: περιτομή N;VOC;SG	περῐτομή	περῐτομή
+Generate the inflected form for: περιτομή N;VOC;PL	περῐτομαί	περῐτομαί
+Generate the inflected form for: περιτομή N;DAT;DU	τοῖν περῐτομαῖν	τοῖν περῐτομαῖν
+Generate the inflected form for: περιτομή N;DAT;PL	περιτομαῖς	ταῖς περῐτομαῖς
 Generate the inflected form for: περιτομή N;ACC;DU	περιτομᾱ́	τὼ περῐτομᾱ́
-Generate the inflected form for: περιτομή N;VOC;DU	περιτομᾱ́	περῐτομᾱ́
+Generate the inflected form for: περιτομή N;VOC;DU	περῐτομᾱ́	περῐτομᾱ́
 Generate the inflected form for: περιτομή N;NOM;SG	ὁ περιτομή	ἡ περῐτομή
-Generate the inflected form for: περιτομή N;ACC;PL	τᾱ̀ς περῐτομᾱ́ς	τᾱ̀ς περῐτομᾱ́ς
+Generate the inflected form for: περιτομή N;ACC;PL	περιτομᾱ́ς	τᾱ̀ς περῐτομᾱ́ς
 Generate the inflected form for: πλεκτικός ADJ;VOC;PL;MASC	πλεκτικοί	πλεκτικοί
-Generate the inflected form for: πλεκτικός ADJ;NOM;SG;MASC	πλεκτικόν	πλεκτικός
+Generate the inflected form for: πλεκτικός ADJ;NOM;SG;MASC	πλεκτικός	πλεκτικός
 Generate the inflected form for: πλεκτικός ADJ;GEN;SG;NEUT	πλεκτικοῦ	πλεκτικοῦ
 Generate the inflected form for: πλεκτικός ADJ;NOM;SG;NEUT	πλεκτικόν	πλεκτικόν
-Generate the inflected form for: πλεκτικός ADJ;NOM;SG;FEM	πλεκτική	πλεκτική
+Generate the inflected form for: πλεκτικός ADJ;NOM;SG;FEM	πλεκτικόν	πλεκτική
 Generate the inflected form for: πλεκτικός ADJ;DAT;SG;FEM	πλεκτικῷ	πλεκτικῇ
 Generate the inflected form for: πλεκτικός ADJ;DAT;PL;MASC	πλεκτικοῖς	πλεκτικοῖς
 Generate the inflected form for: πλεκτικός ADJ;DAT;SG;MASC	πλεκτικῷ	πλεκτικῷ
@@ -565,17 +565,17 @@ Generate the inflected form for: πλεκτικός ADJ;GEN;DU;FEM	πλεκτι�
 Generate the inflected form for: πλεκτικός ADJ;GEN;SG;MASC	πλεκτικοῦ	πλεκτικοῦ
 Generate the inflected form for: πλεκτικός ADJ;ACC;PL;FEM	πλεκτικαί	πλεκτικᾱ́ς
 Generate the inflected form for: πλεκτικός ADJ;NOM;DU;NEUT	πλεκτικώ	πλεκτικώ
-Generate the inflected form for: πλεκτικός ADJ;VOC;SG;FEM	πλεκτική	πλεκτική
+Generate the inflected form for: πλεκτικός ADJ;VOC;SG;FEM	πλεκτικᾱ́	πλεκτική
 Generate the inflected form for: πλεκτικός ADJ;GEN;PL;NEUT	πλεκτικῶν	πλεκτικῶν
 Generate the inflected form for: πλεκτικός ADJ;DAT;DU;MASC	πλεκτικοῖν	πλεκτικοῖν
-Generate the inflected form for: πλεκτικός ADJ;ACC;SG;FEM	πλεκτικήν	πλεκτικήν
+Generate the inflected form for: πλεκτικός ADJ;ACC;SG;FEM	πλεκτικᾱ́	πλεκτικήν
 Generate the inflected form for: πλεκτικός ADJ;ACC;SG;MASC	πλεκτικόν	πλεκτικόν
 Generate the inflected form for: πλεκτικός ADJ;DAT;SG;NEUT	πλεκτικῷ	πλεκτικῷ
 Generate the inflected form for: πλεκτικός ADJ;NOM;PL;FEM	πλεκτικαί	πλεκτικαί
 Generate the inflected form for: πλεκτικός ADJ;ACC;DU;MASC	πλεκτικώ	πλεκτικώ
 Generate the inflected form for: πλεκτικός ADJ;DAT;DU;NEUT	πλεκτικοῖν	πλεκτικοῖν
 Generate the inflected form for: πλεκτικός ADJ;VOC;SG;NEUT	πλεκτικόν	πλεκτικόν
-Generate the inflected form for: πλεκτικός ADJ;VOC;SG;MASC	πλεκτικόν	πλεκτικέ
+Generate the inflected form for: πλεκτικός ADJ;VOC;SG;MASC	πλεκτική	πλεκτικέ
 Generate the inflected form for: πλεκτικός ADJ;NOM;PL;MASC	πλεκτικοί	πλεκτικοί
 Generate the inflected form for: πλεκτικός ADJ;GEN;DU;MASC	πλεκτικοῖν	πλεκτικοῖν
 Generate the inflected form for: πλεκτικός ADJ;VOC;DU;FEM	πλεκτικᾱ́	πλεκτικᾱ́
@@ -585,10 +585,10 @@ Generate the inflected form for: πλεκτικός ADJ;GEN;SG;FEM	πλεκτι�
 Generate the inflected form for: πλεκτικός ADJ;DAT;DU;FEM	πλεκτικαῖν	πλεκτικαῖν
 Generate the inflected form for: πλεκτικός ADJ;NOM;DU;MASC	πλεκτικώ	πλεκτικώ
 Generate the inflected form for: πλεκτικός ADJ;DAT;PL;NEUT	πλεκτικοῖς	πλεκτικοῖς
-Generate the inflected form for: πλεκτικός ADJ;NOM;PL;NEUT	πλεκτικαί	πλεκτικᾰ́
+Generate the inflected form for: πλεκτικός ADJ;NOM;PL;NEUT	πλεκτικοί	πλεκτικᾰ́
 Generate the inflected form for: πλεκτικός ADJ;ACC;PL;MASC	πλεκτικοί	πλεκτικούς
 Generate the inflected form for: πλεκτικός ADJ;VOC;PL;NEUT	πλεκτικαί	πλεκτικᾰ́
-Generate the inflected form for: πλεκτικός ADJ;GEN;PL;MASC	πλεκτικοῖς	πλεκτικῶν
+Generate the inflected form for: πλεκτικός ADJ;GEN;PL;MASC	πλεκτικῶν	πλεκτικῶν
 Generate the inflected form for: πλεκτικός ADJ;VOC;DU;NEUT	πλεκτικώ	πλεκτικώ
 Generate the inflected form for: πλεκτικός ADJ;VOC;PL;FEM	πλεκτικαί	πλεκτικαί
 Generate the inflected form for: πλεκτικός ADJ;ACC;SG;NEUT	πλεκτικόν	πλεκτικόν
@@ -598,107 +598,107 @@ Generate the inflected form for: πλεκτικός ADJ;GEN;PL;FEM	πλεκτι�
 Generate the inflected form for: πόνος N;VOC;DU	πόνω	πόνω
 Generate the inflected form for: πόνος N;GEN;SG	πόνου	πόνου
 Generate the inflected form for: πόνος N;NOM;PL	πόνοι	πόνοι
-Generate the inflected form for: πόνος N;DAT;SG	τῷ πόνῳ	πόνῳ
-Generate the inflected form for: πόνος N;DAT;DU	πόνοιν	πόνοιν
+Generate the inflected form for: πόνος N;DAT;SG	πόνῳ	πόνῳ
+Generate the inflected form for: πόνος N;DAT;DU	τοῖν πόνοιν	πόνοιν
 Generate the inflected form for: πόνος N;ACC;SG	πόνον	πόνον
 Generate the inflected form for: πόνος N;VOC;PL	πόνοι	πόνοι
 Generate the inflected form for: πόνος N;VOC;SG	πόνε	πόνε
 Generate the inflected form for: πόνος N;NOM;DU	πόνω	πόνω
 Generate the inflected form for: πόνος N;ACC;DU	πόνω	πόνω
-Generate the inflected form for: πόνος N;DAT;PL	τοῖς πόνοις	πόνοις
+Generate the inflected form for: πόνος N;DAT;PL	πόνοις	πόνοις
 Generate the inflected form for: πόνος N;GEN;DU	πόνοιν	πόνοιν
-Generate the inflected form for: πόνος N;GEN;PL	τῶν πόνων	πόνων
+Generate the inflected form for: πόνος N;GEN;PL	πόνων	πόνων
 Generate the inflected form for: πόνος N;NOM;SG	ὁ πόνος	πόνος
-Generate the inflected form for: πόνος N;ACC;PL	τοὺς πόνους	πόνους
-Generate the inflected form for: σῶμα N;NOM;DU	τὼ σῶμᾰτε	τὼ σώμᾰτε
-Generate the inflected form for: σῶμα N;VOC;PL	σῶμᾰτᾰ	σώμᾰτᾰ
-Generate the inflected form for: σῶμα N;GEN;SG	τοῦ σῶμᾰτος	τοῦ σώμᾰτος
-Generate the inflected form for: σῶμα N;ACC;PL	τᾱ̀ς σῶμᾰς	τᾰ̀ σώμᾰτᾰ
-Generate the inflected form for: σῶμα N;VOC;DU	σῶμᾰτε	σώμᾰτε
-Generate the inflected form for: σῶμα N;GEN;PL	τῶν σῶμᾰτων	τῶν σωμᾰ́των
-Generate the inflected form for: σῶμα N;NOM;PL	αἱ σῶμαι	τᾰ̀ σώμᾰτᾰ
-Generate the inflected form for: σῶμα N;ACC;SG	τὸν σῶμᾰν	τὸ σῶμᾰ
-Generate the inflected form for: σῶμα N;ACC;DU	τὼ σῶμᾰτε	τὼ σώμᾰτε
-Generate the inflected form for: σῶμα N;DAT;PL	ταῖς σῶμᾰσῐ(ν)	τοῖς σώμᾰσῐ
-Generate the inflected form for: σῶμα N;VOC;SG	σῶμᾰ	σῶμᾰ
-Generate the inflected form for: σῶμα N;GEN;DU	τοῖν σώματοιν	τοῖν σωμᾰ́τοιν
-Generate the inflected form for: σῶμα N;DAT;DU	τοῖν σώμαιν	τοῖν σωμᾰ́τοιν
-Generate the inflected form for: σῶμα N;NOM;SG	ὁ σῶμᾰ	τὸ σῶμᾰ
-Generate the inflected form for: σῶμα N;DAT;SG	τῇ σῶμᾰτῐ	τῷ σώμᾰτῐ
+Generate the inflected form for: πόνος N;ACC;PL	πόνοις	πόνους
+Generate the inflected form for: σῶμα N;NOM;DU	τὼ σώμᾰτε	τὼ σώμᾰτε
+Generate the inflected form for: σῶμα N;VOC;PL	σώμᾰτᾰ	σώμᾰτᾰ
+Generate the inflected form for: σῶμα N;GEN;SG	τοῦ σώμᾰτος	τοῦ σώμᾰτος
+Generate the inflected form for: σῶμα N;ACC;PL	τᾱ̀ς σώμᾰτᾰς	τᾰ̀ σώμᾰτᾰ
+Generate the inflected form for: σῶμα N;VOC;DU	σώμᾰτε	σώμᾰτε
+Generate the inflected form for: σῶμα N;GEN;PL	τῶν σώμᾰτων	τῶν σωμᾰ́των
+Generate the inflected form for: σῶμα N;NOM;PL	τᾰ̀ σῦμᾰτᾰ	τᾰ̀ σώμᾰτᾰ
+Generate the inflected form for: σῶμα N;ACC;SG	τὸν σώμᾰν	τὸ σῶμᾰ
+Generate the inflected form for: σῶμα N;ACC;DU	σώμᾰτε	τὼ σώμᾰτε
+Generate the inflected form for: σῶμα N;DAT;PL	ταῖς σώμᾰσῐ(ν)	τοῖς σώμᾰσῐ
+Generate the inflected form for: σῶμα N;VOC;SG	σώμᾰ	σῶμᾰ
+Generate the inflected form for: σῶμα N;GEN;DU	τοῖν σώμᾰτοιν	τοῖν σωμᾰ́τοιν
+Generate the inflected form for: σῶμα N;DAT;DU	τοῖν σώμᾰτοιν	τοῖν σωμᾰ́τοιν
+Generate the inflected form for: σῶμα N;NOM;SG	ὁ σώματος	τὸ σῶμᾰ
+Generate the inflected form for: σῶμα N;DAT;SG	τῷ σώμᾰτῐ	τῷ σώμᾰτῐ
 Generate the inflected form for: τρόπαιον N;VOC;DU	τροπαίω	τροπαίω
 Generate the inflected form for: τρόπαιον N;GEN;PL	τῶν τροπαίων	τροπαίων
 Generate the inflected form for: τρόπαιον N;NOM;DU	τὼ τροπαίω	τροπαίω
 Generate the inflected form for: τρόπαιον N;DAT;PL	τοῖς τροπαίοις	τροπαίοις
-Generate the inflected form for: τρόπαιον N;ACC;PL	τοὺς τροπαίους	τρόπαιᾰ
+Generate the inflected form for: τρόπαιον N;ACC;PL	τᾱ̀ς τροπαίᾱς	τρόπαιᾰ
 Generate the inflected form for: τρόπαιον N;ACC;DU	τὼ τροπαίω	τροπαίω
 Generate the inflected form for: τρόπαιον N;VOC;SG	τροπαίε	τρόπαιον
 Generate the inflected form for: τρόπαιον N;GEN;DU	τοῖν τροπαίοιν	τροπαίοιν
 Generate the inflected form for: τρόπαιον N;DAT;SG	τῷ τροπαίῳ	τροπαίῳ
 Generate the inflected form for: τρόπαιον N;NOM;SG	ὁ τροπαίον	τρόπαιον
 Generate the inflected form for: τρόπαιον N;DAT;DU	τοῖν τροπαίοιν	τροπαίοιν
-Generate the inflected form for: τρόπαιον N;GEN;SG	τροπαίου	τροπαίου
-Generate the inflected form for: τρόπαιον N;NOM;PL	αἱ τροπαίοι	τρόπαιᾰ
+Generate the inflected form for: τρόπαιον N;GEN;SG	τοῦ τροπαίου	τροπαίου
+Generate the inflected form for: τρόπαιον N;NOM;PL	οἱ τροπαίοι	τρόπαιᾰ
 Generate the inflected form for: τρόπαιον N;VOC;PL	τροπαίοι	τρόπαιᾰ
 Generate the inflected form for: τρόπαιον N;ACC;SG	τὸν τροπαίον	τρόπαιον
 Generate the inflected form for: φλόξ N;GEN;SG	τοῦ φλόκου	τῆς φλογός
 Generate the inflected form for: φλόξ N;GEN;PL	τῶν φλόκων	τῶν φλογῶν
-Generate the inflected form for: φλόξ N;DAT;PL	ταῖς φλόκοις	ταῖς φλοξῐ́
+Generate the inflected form for: φλόξ N;DAT;PL	τοῖς φλόκοις	ταῖς φλοξῐ́
 Generate the inflected form for: φλόξ N;VOC;SG	φλόκ	φλόξ
-Generate the inflected form for: φλόξ N;ACC;PL	τᾱ̀ς φλόκᾱς	τᾱ̀ς φλόγᾰς
-Generate the inflected form for: φλόξ N;ACC;SG	τὸν φλόκᾰ	τὴν φλόγᾰ
+Generate the inflected form for: φλόξ N;ACC;PL	τᾱ̀ς φλόκᾰς	τᾱ̀ς φλόγᾰς
+Generate the inflected form for: φλόξ N;ACC;SG	τὸν φλόκε	τὴν φλόγᾰ
 Generate the inflected form for: φλόξ N;NOM;DU	τὼ φλόκω	τὼ φλόγε
 Generate the inflected form for: φλόξ N;DAT;DU	τοῖν φλόκοιν	τοῖν φλογοῖν
-Generate the inflected form for: φλόξ N;NOM;SG	ὁ φλόξ	ἡ φλόξ
+Generate the inflected form for: φλόξ N;NOM;SG	ὁ φλόκ	ἡ φλόξ
 Generate the inflected form for: φλόξ N;VOC;DU	φλόκε	φλόγε
 Generate the inflected form for: φλόξ N;VOC;PL	φλόκες	φλόγες
-Generate the inflected form for: φλόξ N;NOM;PL	αἱ φλόκοι	αἱ φλόγες
+Generate the inflected form for: φλόξ N;NOM;PL	οἱ φλόκες	αἱ φλόγες
 Generate the inflected form for: φλόξ N;GEN;DU	τοῖν φλόκοιν	τοῖν φλογοῖν
-Generate the inflected form for: φλόξ N;ACC;DU	τὼ φλόκε	τὼ φλόγε
-Generate the inflected form for: φλόξ N;DAT;SG	τῇ φλόκῐ	τῇ φλογῐ́
-Generate the inflected form for: φρουρά N;DAT;SG	τῇ φρουρῐ́ᾳ	τῇ φρουρᾷ
+Generate the inflected form for: φλόξ N;ACC;DU	τὼ φλόκω	τὼ φλόγε
+Generate the inflected form for: φλόξ N;DAT;SG	τῷ φλόκῐ	τῇ φλογῐ́
+Generate the inflected form for: φρουρά N;DAT;SG	τῷ φρουρᾳῐ́ῳ	τῇ φρουρᾷ
 Generate the inflected form for: φρουρά N;DAT;PL	ταῖς φρουραῖς	ταῖς φρουραῖς
-Generate the inflected form for: φρουρά N;NOM;PL	αἱ φρουραί	αἱ φρουραί
+Generate the inflected form for: φρουρά N;NOM;PL	οἱ φρουραί	αἱ φρουραί
 Generate the inflected form for: φρουρά N;DAT;DU	τοῖν φρουραῖν	τοῖν φρουραῖν
 Generate the inflected form for: φρουρά N;ACC;DU	τὼ φρουρᾱ́	τὼ φρουρᾱ́
-Generate the inflected form for: φρουρά N;GEN;SG	τοῦ φρουρῆς	τῆς φρουρᾶς
+Generate the inflected form for: φρουρά N;GEN;SG	τοῦ φρουράτου	τῆς φρουρᾶς
 Generate the inflected form for: φρουρά N;GEN;PL	τῶν φρουρῶν	τῶν φρουρῶν
 Generate the inflected form for: φρουρά N;ACC;PL	τᾱ̀ς φρουρᾱ́ς	τᾱ̀ς φρουρᾱ́ς
 Generate the inflected form for: φρουρά N;GEN;DU	τοῖν φρουραῖν	τοῖν φρουραῖν
 Generate the inflected form for: φρουρά N;NOM;DU	τὼ φρουρᾱ́	τὼ φρουρᾱ́
-Generate the inflected form for: φρουρά N;ACC;SG	τὴν φρουρᾱ́ν	τὴν φρουρᾱ́ν
+Generate the inflected form for: φρουρά N;ACC;SG	τὸν φρουρᾰ́ν	τὴν φρουρᾱ́ν
 Generate the inflected form for: φρουρά N;VOC;SG	φρουρᾰ	φρουρᾱ́
 Generate the inflected form for: φρουρά N;VOC;DU	φρουρᾱ́	φρουρᾱ́
 Generate the inflected form for: φρουρά N;VOC;PL	φρουραί	φρουραί
-Generate the inflected form for: φρουρά N;NOM;SG	ὁ φρουρά	ἡ φρουρᾱ́
-Generate the inflected form for: φώς N;DAT;SG	τῇ φώνῐ	τῷ φωτῐ́
+Generate the inflected form for: φρουρά N;NOM;SG	ὁ φρουρᾰ́	ἡ φρουρᾱ́
+Generate the inflected form for: φώς N;DAT;SG	τῷ φώῐ	τῷ φωτῐ́
 Generate the inflected form for: φώς N;VOC;PL	φῶν	φῶτες
-Generate the inflected form for: φώς N;GEN;SG	τοῦ φώος	τοῦ φωτός
+Generate the inflected form for: φώς N;GEN;SG	τοῦ φώου	τοῦ φωτός
 Generate the inflected form for: φώς N;ACC;DU	τὼ φών	τὼ φῶτε
-Generate the inflected form for: φώς N;GEN;PL	τῶν φωνῶν	τῶν φωτῶν
+Generate the inflected form for: φώς N;GEN;PL	τῶν φότῶν	τῶν φωτῶν
 Generate the inflected form for: φώς N;NOM;SG	ὁ φώς	ὁ φώς
-Generate the inflected form for: φώς N;ACC;PL	τᾱ̀ς φῶν	τοὺς φῶτᾰς
-Generate the inflected form for: φώς N;DAT;DU	τοῖν φώοιν	τοῖν φωτοῖν
-Generate the inflected form for: φώς N;NOM;PL	αἱ φώδες	οἱ φῶτες
-Generate the inflected form for: φώς N;VOC;SG	φών	φώς
-Generate the inflected form for: φώς N;NOM;DU	τὼ φώς	τὼ φῶτε
-Generate the inflected form for: φώς N;VOC;DU	φώτε	φῶτε
-Generate the inflected form for: φώς N;DAT;PL	ταῖς φώδοις	τοῖς φωσῐ́
-Generate the inflected form for: φώς N;ACC;SG	τὸν φώς	τὸν φῶτᾰ
-Generate the inflected form for: φώς N;GEN;DU	τοῖν φώνοιν	τοῖν φωτοῖν
-Generate the inflected form for: χιλιάς N;DAT;DU	χιλιάδοιν	χιλιάδοιν
-Generate the inflected form for: χιλιάς N;VOC;DU	χιλῐᾱ́δε	χιλιάδε
-Generate the inflected form for: χιλιάς N;VOC;SG	χιλῐ́ᾱ	χιλιά
-Generate the inflected form for: χιλιάς N;DAT;SG	χιλῐᾰ́	χιλιάδῐ
-Generate the inflected form for: χιλιάς N;NOM;SG	ὁ χιλιάς	χιλιάς
-Generate the inflected form for: χιλιάς N;GEN;PL	τῶν χῐλῐᾶων	χιλιάδων
-Generate the inflected form for: χιλιάς N;NOM;DU	χιλῐᾱ́δε	χιλιάδε
-Generate the inflected form for: χιλιάς N;ACC;PL	τοὺς χῐλῐᾱ́ς	χιλιάδᾰς
-Generate the inflected form for: χιλιάς N;ACC;SG	χιλιᾱ́δᾰ	χιλιάδᾰ
-Generate the inflected form for: χιλιάς N;ACC;DU	χιλῐᾱ́δε	χιλιάδε
-Generate the inflected form for: χιλιάς N;NOM;PL	αἱ χῐλῐᾱ́δες	χιλιάδες
-Generate the inflected form for: χιλιάς N;GEN;SG	χιλιᾰ́δος	χιλιάδος
-Generate the inflected form for: χιλιάς N;DAT;PL	τοῖς χῐλῐᾱ́σῐ	χιλιάσῐ(ν)
-Generate the inflected form for: χιλιάς N;GEN;DU	χιλιάδοιν	χιλιάδοιν
+Generate the inflected form for: φώς N;ACC;PL	τᾱ̀ς φώς	τοὺς φῶτᾰς
+Generate the inflected form for: φώς N;DAT;DU	τοῖν φώνοιν	τοῖν φωτοῖν
+Generate the inflected form for: φώς N;NOM;PL	οἱ φώδες	οἱ φῶτες
+Generate the inflected form for: φώς N;VOC;SG	φῶν	φώς
+Generate the inflected form for: φώς N;NOM;DU	τὼ φώδε	τὼ φῶτε
+Generate the inflected form for: φώς N;VOC;DU	φών	φῶτε
+Generate the inflected form for: φώς N;DAT;PL	τοῖς φώσεσῐ(ν)	τοῖς φωσῐ́
+Generate the inflected form for: φώς N;ACC;SG	τὸν φών	τὸν φῶτᾰ
+Generate the inflected form for: φώς N;GEN;DU	τοῖν φόδοιν	τοῖν φωτοῖν
+Generate the inflected form for: χιλιάς N;DAT;DU	τοῖν χῐλῐᾱ́δοιν	χιλιάδοιν
+Generate the inflected form for: χιλιάς N;VOC;DU	χιλῐᾱ́	χιλιάδε
+Generate the inflected form for: χιλιάς N;VOC;SG	χιλῐᾱ́	χιλιά
+Generate the inflected form for: χιλιάς N;DAT;SG	τῷ χιλῐᾱ́δῐ	χιλιάδῐ
+Generate the inflected form for: χιλιάς N;NOM;SG	ὁ χιλῐᾰ́ς	χιλιάς
+Generate the inflected form for: χιλιάς N;GEN;PL	τῶν χιλιᾶν	χιλιάδων
+Generate the inflected form for: χιλιάς N;NOM;DU	χιλιᾱ́	χιλιάδε
+Generate the inflected form for: χιλιάς N;ACC;PL	τᾱ̀ς χιλῐᾱ́ς	χιλιάδᾰς
+Generate the inflected form for: χιλιάς N;ACC;SG	χιλιᾰ́δε	χιλιάδᾰ
+Generate the inflected form for: χιλιάς N;ACC;DU	χιλιᾱ́	χιλιάδε
+Generate the inflected form for: χιλιάς N;NOM;PL	οἱ χῐλῐᾰ́δες	χιλιάδες
+Generate the inflected form for: χιλιάς N;GEN;SG	τοῦ χιλῐᾰ́του	χιλιάδος
+Generate the inflected form for: χιλιάς N;DAT;PL	τοῖς χῐλῐᾰ́σῐ(ν)	χιλιάσῐ(ν)
+Generate the inflected form for: χιλιάς N;GEN;DU	τοῖν χιλῐᾰ́δοιν	χιλιάδοιν
 Generate the inflected form for: χιλιάς N;VOC;PL	χιλῐᾰ́δες	χιλιάδες
 Generate the inflected form for: χορευτής N;NOM;PL	οἱ χορευταί	χορευταί
 Generate the inflected form for: χορευτής N;VOC;DU	χορευτᾱ́	χορευτᾱ́
@@ -711,7 +711,7 @@ Generate the inflected form for: χορευτής N;GEN;DU	χορευταῖν	�
 Generate the inflected form for: χορευτής N;ACC;DU	χορευτᾱ́	χορευτᾱ́
 Generate the inflected form for: χορευτής N;DAT;SG	χορευτῷ	χορευτῇ
 Generate the inflected form for: χορευτής N;VOC;SG	χορευτή	χορευτή
-Generate the inflected form for: χορευτής N;GEN;SG	χορευτήτων	χορευτοῦ
+Generate the inflected form for: χορευτής N;GEN;SG	χορευτοῦ	χορευτοῦ
 Generate the inflected form for: χορευτής N;DAT;DU	χορευταῖν	χορευταῖν
 Generate the inflected form for: χορευτής N;NOM;DU	χορευτᾱ́	χορευτᾱ́
 Generate the inflected form for: χορευτής N;DAT;PL	χορευταῖς	χορευταῖς
@@ -719,7 +719,7 @@ Generate the inflected form for: χρησμός N;GEN;SG	χρησμοῦ	χρη�
 Generate the inflected form for: χρησμός N;DAT;PL	χρησμοῖς	χρησμοῖς
 Generate the inflected form for: χρησμός N;DAT;DU	χρησμοῖν	χρησμοῖν
 Generate the inflected form for: χρησμός N;VOC;SG	χρησμέ	χρησμέ
-Generate the inflected form for: χρησμός N;ACC;PL	χρησμοί	χρησμούς
+Generate the inflected form for: χρησμός N;ACC;PL	χρησμούς	χρησμούς
 Generate the inflected form for: χρησμός N;VOC;PL	χρησμοί	χρησμοί
 Generate the inflected form for: χρησμός N;VOC;DU	χρησμώ	χρησμώ
 Generate the inflected form for: χρησμός N;NOM;SG	ὁ χρησμός	χρησμός
@@ -729,70 +729,70 @@ Generate the inflected form for: χρησμός N;NOM;PL	οἱ χρησμοί	χ
 Generate the inflected form for: χρησμός N;NOM;DU	χρησμώ	χρησμώ
 Generate the inflected form for: χρησμός N;ACC;DU	χρησμώ	χρησμώ
 Generate the inflected form for: χρησμός N;ACC;SG	χρησμόν	χρησμόν
-Generate the inflected form for: χρησμός N;GEN;PL	χρησμοῖς	χρησμῶν
-Generate the inflected form for: ἀδικία N;GEN;DU	τοῖν ἀδῐκῐ́αιν	τοῖν ἀδικίαιν
+Generate the inflected form for: χρησμός N;GEN;PL	χρησμῶν	χρησμῶν
+Generate the inflected form for: ἀδικία N;GEN;DU	τοῖν ᾰ̓δῐκῐ́αιν	τοῖν ἀδικίαιν
 Generate the inflected form for: ἀδικία N;NOM;SG	ἡ ἀδῐκῐ́ᾱ	ἡ ἀδικίᾱ
-Generate the inflected form for: ἀδικία N;DAT;SG	τῇ ἀδῐκῐ́ᾳ	τῇ ἀδικίᾳ
+Generate the inflected form for: ἀδικία N;DAT;SG	τῷ ἀδῐκῐ́ᾳ	τῇ ἀδικίᾳ
 Generate the inflected form for: ἀδικία N;NOM;DU	τὼ ᾰ̓δῐκῐ́ᾱ	τὼ ἀδικίᾱ
 Generate the inflected form for: ἀδικία N;VOC;DU	ἀδῐκῐ́ᾱ	ἀδικίᾱ
 Generate the inflected form for: ἀδικία N;ACC;DU	τὼ ᾰ̓δῐκῐ́ᾱ	τὼ ἀδικίᾱ
 Generate the inflected form for: ἀδικία N;DAT;PL	ταῖς ᾰ̓δῐκῐ́αις	ταῖς ἀδικίαις
-Generate the inflected form for: ἀδικία N;GEN;PL	τῶν ἀδῐκῐῶν	τῶν ἀδικιῶν
+Generate the inflected form for: ἀδικία N;GEN;PL	τῶν ᾰ̓δῐκῐῶν	τῶν ἀδικιῶν
 Generate the inflected form for: ἀδικία N;ACC;PL	τᾱ̀ς ᾰ̓δῐκῐ́ᾱς	τᾱ̀ς ἀδικίᾱς
-Generate the inflected form for: ἀδικία N;GEN;SG	τοῦ ἀδῐκῐ́ᾱς	τῆς ἀδικίᾱς
+Generate the inflected form for: ἀδικία N;GEN;SG	τοῦ ἀδῐκῐ́ας	τῆς ἀδικίᾱς
 Generate the inflected form for: ἀδικία N;VOC;SG	ἀδῐκῐ́ᾱ	ἀδικίᾱ
 Generate the inflected form for: ἀδικία N;NOM;PL	αἱ ἀδῐκῐ́αι	αἱ ἀδικῖαι
 Generate the inflected form for: ἀδικία N;DAT;DU	τοῖν ᾰ̓δῐκῐ́αιν	τοῖν ἀδικίαιν
 Generate the inflected form for: ἀδικία N;VOC;PL	ἀδῐκῐ́αι	ἀδικῖαι
-Generate the inflected form for: ἀδικία N;ACC;SG	τὴν ἀδῐκῐ́ᾱν	τὴν ἀδικίᾱν
+Generate the inflected form for: ἀδικία N;ACC;SG	τὸν ἀδῐκῐ́ᾱν	τὴν ἀδικίᾱν
 Generate the inflected form for: ἀκοή N;NOM;SG	ἡ ἀκοή	ἡ ἀκοή
-Generate the inflected form for: ἀκοή N;NOM;DU	τὼ ᾰ̓κοή	τὼ ἀκοᾱ́
+Generate the inflected form for: ἀκοή N;NOM;DU	τὼ ᾰ̓κοᾱ́	τὼ ἀκοᾱ́
 Generate the inflected form for: ἀκοή N;VOC;DU	ἀκοᾱ́	ἀκοᾱ́
 Generate the inflected form for: ἀκοή N;GEN;DU	τοῖν ἀκοαῖν	τοῖν ἀκοαῖν
-Generate the inflected form for: ἀκοή N;GEN;SG	τοῦ ἀκοήν	τῆς ἀκοῆς
-Generate the inflected form for: ἀκοή N;DAT;SG	τῇ ἀκοή	τῇ ἀκοῇ
+Generate the inflected form for: ἀκοή N;GEN;SG	τοῦ ἀκοοῦ	τῆς ἀκοῆς
+Generate the inflected form for: ἀκοή N;DAT;SG	τῷ ἀκοῷ	τῇ ἀκοῇ
 Generate the inflected form for: ἀκοή N;GEN;PL	τῶν ἀκοῶν	τῶν ἀκοῶν
 Generate the inflected form for: ἀκοή N;NOM;PL	αἱ ἀκοαί	αἱ ἀκοαί
-Generate the inflected form for: ἀκοή N;ACC;SG	τὴν ἀκοήν	τὴν ἀκοήν
-Generate the inflected form for: ἀκοή N;ACC;DU	τὼ ᾰ̓κοαί	τὼ ἀκοᾱ́
-Generate the inflected form for: ἀκοή N;ACC;PL	τᾱ̀ς ᾰ̓κοας	τᾱ̀ς ἀκοᾱ́ς
+Generate the inflected form for: ἀκοή N;ACC;SG	τὸν ἀκοήν	τὴν ἀκοήν
+Generate the inflected form for: ἀκοή N;ACC;DU	τὼ ᾰ̓κοᾱ́	τὼ ἀκοᾱ́
+Generate the inflected form for: ἀκοή N;ACC;PL	τᾱ̀ς ἀκοᾱ́ς	τᾱ̀ς ἀκοᾱ́ς
 Generate the inflected form for: ἀκοή N;VOC;SG	ἀκοή	ἀκοή
-Generate the inflected form for: ἀκοή N;DAT;PL	ταῖς ᾰ̓κοαῖς	ταῖς ἀκοαῖς
+Generate the inflected form for: ἀκοή N;DAT;PL	ταῖς ἀκοαῖς	ταῖς ἀκοαῖς
 Generate the inflected form for: ἀκοή N;DAT;DU	τοῖν ᾰ̓κοαῖν	τοῖν ἀκοαῖν
 Generate the inflected form for: ἀκοή N;VOC;PL	ἀκοαί	ἀκοαί
 Generate the inflected form for: ἀμπελών N;NOM;SG	ἡ ἀμπελών	ὁ ἀμπελών
 Generate the inflected form for: ἀμπελών N;VOC;SG	ἀμπελών	ἀμπελών
 Generate the inflected form for: ἀμπελών N;DAT;DU	τοῖν ᾰ̓μπελώνοιν	τοῖν ἀμπελώνοιν
 Generate the inflected form for: ἀμπελών N;VOC;PL	ἀμπελώνες	ἀμπελῶνες
-Generate the inflected form for: ἀμπελών N;ACC;PL	τᾱ̀ς ᾰ̓μπελώνᾱς	τοὺς ἀμπελῶνᾰς
-Generate the inflected form for: ἀμπελών N;GEN;SG	τοῦ ἀμπελώνου	τοῦ ἀμπελῶνος
-Generate the inflected form for: ἀμπελών N;GEN;PL	τῶν ἀμπελώνων	τῶν ἀμπελώνων
-Generate the inflected form for: ἀμπελών N;NOM;PL	αἱ ᾰ̓μπελονοί	οἱ ἀμπελῶνες
+Generate the inflected form for: ἀμπελών N;ACC;PL	τᾱ̀ς ᾰ̓μπελώνᾰς	τοὺς ἀμπελῶνᾰς
+Generate the inflected form for: ἀμπελών N;GEN;SG	τοῦ ἀμπελόνου	τοῦ ἀμπελῶνος
+Generate the inflected form for: ἀμπελών N;GEN;PL	τῶν ᾰ̓μπελώνων	τῶν ἀμπελώνων
+Generate the inflected form for: ἀμπελών N;NOM;PL	οἱ ἀμπελώνες	οἱ ἀμπελῶνες
 Generate the inflected form for: ἀμπελών N;GEN;DU	τοῖν ᾰ̓μπελώνοιν	τοῖν ἀμπελώνοιν
-Generate the inflected form for: ἀμπελών N;ACC;SG	τὸν ἀμπελώνᾰ	τὸν ἀμπελῶνᾰ
-Generate the inflected form for: ἀμπελών N;VOC;DU	ἀμπελώνω	ἀμπελῶνε
-Generate the inflected form for: ἀμπελών N;NOM;DU	τὼ ᾰ̓μπελώνω	τὼ ἀμπελῶνε
-Generate the inflected form for: ἀμπελών N;DAT;SG	τῇ ἀμπελώνῐ	τῷ ἀμπελῶνῐ
-Generate the inflected form for: ἀμπελών N;DAT;PL	ταῖς ᾰ̓μπελονῐ́	τοῖς ἀμπελῶσῐ
+Generate the inflected form for: ἀμπελών N;ACC;SG	τὸν ἀμπελώνην	τὸν ἀμπελῶνᾰ
+Generate the inflected form for: ἀμπελών N;VOC;DU	ἀμπελώνε	ἀμπελῶνε
+Generate the inflected form for: ἀμπελών N;NOM;DU	τὼ ᾰ̓μπελώντε	τὼ ἀμπελῶνε
+Generate the inflected form for: ἀμπελών N;DAT;SG	τῷ ᾰ̓μπελώνῐ	τῷ ἀμπελῶνῐ
+Generate the inflected form for: ἀμπελών N;DAT;PL	τοῖς ᾰ̓μπελόνοις	τοῖς ἀμπελῶσῐ
 Generate the inflected form for: ἀμπελών N;ACC;DU	τὼ ᾰ̓μπελώνω	τὼ ἀμπελῶνε
 Generate the inflected form for: ἀποθέωσις N;GEN;SG	τοῦ ᾰ̓ποθεώσεως	τῆς ἀποθεώσεως
-Generate the inflected form for: ἀποθέωσις N;NOM;DU	τὼ ᾰ̓ποθέωσει / ᾰ	τὼ ἀποθεώσει / ἀποθεώσεε
-Generate the inflected form for: ἀποθέωσις N;VOC;SG	ᾰ̓ποθέωσει / ᾰ	ἀποθέωσῐ
+Generate the inflected form for: ἀποθέωσις N;NOM;DU	τὼ ᾰ̓ποθεώσει / ᾰ̓ποθεώσεε	τὼ ἀποθεώσει / ἀποθεώσεε
+Generate the inflected form for: ἀποθέωσις N;VOC;SG	ἀποθέωσει / ᾰ̓ποθέωσεε	ἀποθέωσῐ
 Generate the inflected form for: ἀποθέωσις N;GEN;DU	τοῖν ᾰ̓ποθεώσειν	τοῖν ἀποθεωσέοιν
-Generate the inflected form for: ἀποθέωσις N;NOM;SG	ἡ ᾰ̓ποθέωσες	ἡ ἀποθέωσῐς
-Generate the inflected form for: ἀποθέωσις N;NOM;PL	αἱ ᾰ̓ποθέωσεις / ᾰ	αἱ ἀποθεώσεις / ἀποθέωσεες
-Generate the inflected form for: ἀποθέωσις N;DAT;PL	ταῖς ᾰ̓ποθέωσεσῐ	ταῖς ἀποθεώσεσῐ(ν)
-Generate the inflected form for: ἀποθέωσις N;ACC;DU	τὼ ᾰ̓ποθέωσει / ᾰ	τὼ ἀποθεώσει / ἀποθεώσεε
-Generate the inflected form for: ἀποθέωσις N;DAT;SG	τῇ ᾰ̓ποθεώσῐν	τῇ ἀποθεώσει / ἀποθεώσεῐ̈
-Generate the inflected form for: ἀποθέωσις N;ACC;SG	τὸν ᾰ̓ποθέωσει / ᾰ	τὴν ἀποθέωσῐν
-Generate the inflected form for: ἀποθέωσις N;VOC;PL	ᾰ̓ποθέωσεις / ᾰ	ἀποθεώσεις / ἀποθέωσεες
+Generate the inflected form for: ἀποθέωσις N;NOM;SG	ἡ ἀποθέωσεις	ἡ ἀποθέωσῐς
+Generate the inflected form for: ἀποθέωσις N;NOM;PL	οἱ ᾰ̓ποθέωσεις / ᾰ̓ποθέωσεες	αἱ ἀποθεώσεις / ἀποθέωσεες
+Generate the inflected form for: ἀποθέωσις N;DAT;PL	ταῖς ᾰ̓ποθεώσεις	ταῖς ἀποθεώσεσῐ(ν)
+Generate the inflected form for: ἀποθέωσις N;ACC;DU	τὼ ᾰ̓ποθεώσει / ᾰ̓ποθεώσεε	τὼ ἀποθεώσει / ἀποθεώσεε
+Generate the inflected form for: ἀποθέωσις N;DAT;SG	τῷ ᾰ̓ποθεώσεῐ̈	τῇ ἀποθεώσει / ἀποθεώσεῐ̈
+Generate the inflected form for: ἀποθέωσις N;ACC;SG	τὸν ᾰ̓ποθέωσει / ᾰ̓ποθέωσεε	τὴν ἀποθέωσῐν
+Generate the inflected form for: ἀποθέωσις N;VOC;PL	ἀποθέωσεις / ᾰ̓ποθέωσεες	ἀποθεώσεις / ἀποθέωσεες
 Generate the inflected form for: ἀποθέωσις N;DAT;DU	τοῖν ᾰ̓ποθεώσειν	τοῖν ἀποθεωσέοιν
-Generate the inflected form for: ἀποθέωσις N;VOC;DU	ᾰ̓ποθέωσει / ᾰ	ἀποθεώσει / ἀποθεώσεε
+Generate the inflected form for: ἀποθέωσις N;VOC;DU	ᾰ̓ποθέωσει / ᾰ̓ποθέωσεε	ἀποθεώσει / ἀποθεώσεε
 Generate the inflected form for: ἀποθέωσις N;GEN;PL	τῶν ᾰ̓ποθεώσεων	τῶν ἀποθεώσεων
-Generate the inflected form for: ἀποθέωσις N;ACC;PL	τᾱ̀ς ᾰ̓ποθέωσεως	τᾱ̀ς ἀποθεώσεις
+Generate the inflected form for: ἀποθέωσις N;ACC;PL	τᾱ̀ς ᾰ̓ποθεώσεις / ᾰ̓ποθεώσεες	τᾱ̀ς ἀποθεώσεις
 Generate the inflected form for: ἀπονία N;DAT;DU	τοῖν ᾰ̓πονῐ́αιν	τοῖν ἀπονῐ́αιν
 Generate the inflected form for: ἀπονία N;VOC;PL	ᾰ̓πονῐ́αι	ἀπονῐ́αι
-Generate the inflected form for: ἀπονία N;GEN;SG	τοῦ ᾰ̓πονῐ́ᾱς	τῆς ἀπονῐ́ᾱς
+Generate the inflected form for: ἀπονία N;GEN;SG	τοῦ ᾰ̓πονῐ́ας	τῆς ἀπονῐ́ᾱς
 Generate the inflected form for: ἀπονία N;VOC;DU	ᾰ̓πονῐ́ᾱ	ἀπονῐ́ᾱ
 Generate the inflected form for: ἀπονία N;DAT;PL	ταῖς ᾰ̓πονῐ́αις	ταῖς ἀπονῐ́αις
 Generate the inflected form for: ἀπονία N;NOM;PL	αἱ ᾰ̓πονῐ́αι	αἱ ἀπονῐ́αι
@@ -800,13 +800,13 @@ Generate the inflected form for: ἀπονία N;NOM;SG	ἡ ἀπονῐ́ᾱ	�
 Generate the inflected form for: ἀπονία N;ACC;PL	τᾱ̀ς ᾰ̓πονῐ́ᾱς	τᾱ̀ς ἀπονῐ́ᾱς
 Generate the inflected form for: ἀπονία N;VOC;SG	ἀπονῐ́ᾱ	ἀπονῐ́ᾱ
 Generate the inflected form for: ἀπονία N;ACC;DU	τὼ ᾰ̓πονῐ́ᾱ	τὼ ἀπονῐ́ᾱ
-Generate the inflected form for: ἀπονία N;DAT;SG	τῇ ᾰ̓πονῐ́ᾳ	τῇ ἀπονῐ́ᾳ
+Generate the inflected form for: ἀπονία N;DAT;SG	τῷ ᾰ̓πονῐ́ᾳ	τῇ ἀπονῐ́ᾳ
 Generate the inflected form for: ἀπονία N;NOM;DU	τὼ ᾰ̓πονῐ́ᾱ	τὼ ἀπονῐ́ᾱ
 Generate the inflected form for: ἀπονία N;GEN;DU	τοῖν ᾰ̓πονῐ́αιν	τοῖν ἀπονῐ́αιν
-Generate the inflected form for: ἀπονία N;ACC;SG	τὴν ᾰ̓πονῐ́ᾱν	τὴν ἀπονῐ́ᾱν
+Generate the inflected form for: ἀπονία N;ACC;SG	τὸν ᾰ̓πονῐ́ᾱν	τὴν ἀπονῐ́ᾱν
 Generate the inflected form for: ἆθλος N;VOC;SG	ἆθλε	ἆθλε
 Generate the inflected form for: ἆθλος N;GEN;PL	τῶν ἆθλων	ἄθλων
-Generate the inflected form for: ἆθλος N;ACC;PL	τοὺς ἆθλους	ἄθλους
+Generate the inflected form for: ἆθλος N;ACC;PL	τᾱ̀ς ἆθλους	ἄθλους
 Generate the inflected form for: ἆθλος N;VOC;DU	ἆθλω	ἄθλω
 Generate the inflected form for: ἆθλος N;DAT;DU	τοῖν ἆθλοιν	ἄθλοιν
 Generate the inflected form for: ἆθλος N;NOM;DU	τὼ ἆθλω	ἄθλω
@@ -819,121 +819,121 @@ Generate the inflected form for: ἆθλος N;NOM;PL	οἱ ἆθλοι	ἆθλ�
 Generate the inflected form for: ἆθλος N;ACC;SG	τὸν ἆθλον	ἆθλον
 Generate the inflected form for: ἆθλος N;DAT;PL	τοῖς ἆθλοις	ἄθλοις
 Generate the inflected form for: ἆθλος N;VOC;PL	ἆθλοι	ἆθλοι
-Generate the inflected form for: Ἀντιοχεύς N;DAT;DU	τοῖν Ἀντῐοχέοι	τοῖν Ᾰ̓ντῐοχέοιν
+Generate the inflected form for: Ἀντιοχεύς N;DAT;DU	τοῖν Ἀντῐοχέοιν	τοῖν Ᾰ̓ντῐοχέοιν
 Generate the inflected form for: Ἀντιοχεύς N;GEN;PL	τῶν Ἀντῐοχῶν	τῶν Ᾰ̓ντῐοχέων
-Generate the inflected form for: Ἀντιοχεύς N;DAT;SG	τῷ Ἀντῐοχῐ́ῳ	τῷ Ᾰ̓ντῐοχέῐ̈ / Ᾰ̓ντῐοχεῖ
+Generate the inflected form for: Ἀντιοχεύς N;DAT;SG	τῷ Ἀντῐοχῦ	τῷ Ᾰ̓ντῐοχέῐ̈ / Ᾰ̓ντῐοχεῖ
 Generate the inflected form for: Ἀντιοχεύς N;VOC;PL	Ἀντῐοχεῖς	Ᾰ̓ντῐοχῆς
-Generate the inflected form for: Ἀντιοχεύς N;ACC;PL	τᾱ̀ς Ἀντῐοχέᾱς	τοὺς Ᾰ̓ντῐοχέᾱς
+Generate the inflected form for: Ἀντιοχεύς N;ACC;PL	τᾱ̀ς Ἀντῐοχεῦς	τοὺς Ᾰ̓ντῐοχέᾱς
 Generate the inflected form for: Ἀντιοχεύς N;GEN;SG	τοῦ Ἀντῐοχεῦ	τοῦ Ᾰ̓ντῐοχέως
-Generate the inflected form for: Ἀντιοχεύς N;NOM;SG	ἡ Ἀντιοχεύς	ὁ Ᾰ̓ντῐοχεύς
-Generate the inflected form for: Ἀντιοχεύς N;NOM;DU	τὼ Ἀντῐοχέω	τὼ Ᾰ̓ντῐοχῆ
-Generate the inflected form for: Ἀντιοχεύς N;ACC;DU	τὼ Ἀντῐοχέω	τὼ Ᾰ̓ντῐοχῆ
-Generate the inflected form for: Ἀντιοχεύς N;ACC;SG	τὸν Ἀντῐοχεῦ	τὸν Ᾰ̓ντῐοχέᾱ
-Generate the inflected form for: Ἀντιοχεύς N;VOC;SG	Ἀντῐοχεί	Ᾰ̓ντῐοχεῦ
-Generate the inflected form for: Ἀντιοχεύς N;NOM;PL	οἱ Ἀντῐοχέοι	οἱ Ᾰ̓ντῐοχῆς
+Generate the inflected form for: Ἀντιοχεύς N;NOM;SG	ἡ Ἀντῐοχεύς	ὁ Ᾰ̓ντῐοχεύς
+Generate the inflected form for: Ἀντιοχεύς N;NOM;DU	τὼ Ἀντῐοχέ	τὼ Ᾰ̓ντῐοχῆ
+Generate the inflected form for: Ἀντιοχεύς N;ACC;DU	τὼ Ἀντῐοχέ	τὼ Ᾰ̓ντῐοχῆ
+Generate the inflected form for: Ἀντιοχεύς N;ACC;SG	τὸν Ἀντῐοχέν	τὸν Ᾰ̓ντῐοχέᾱ
+Generate the inflected form for: Ἀντιοχεύς N;VOC;SG	Ἀντῐοχεῦ	Ᾰ̓ντῐοχεῦ
+Generate the inflected form for: Ἀντιοχεύς N;NOM;PL	οἱ Ἀντῐοχείς	οἱ Ᾰ̓ντῐοχῆς
 Generate the inflected form for: Ἀντιοχεύς N;GEN;DU	τοῖν Ἀντῐοχέοιν	τοῖν Ᾰ̓ντῐοχέοιν
-Generate the inflected form for: Ἀντιοχεύς N;DAT;PL	ταῖς Ἀντῐοχέοις	τοῖς Ᾰ̓ντῐοχεῦσῐ(ν)
-Generate the inflected form for: Ἀντιοχεύς N;VOC;DU	Ἀντῐοχέω	Ᾰ̓ντῐοχῆ
-Generate the inflected form for: ἐκτρόπιον N;NOM;SG	ἡ ἐκτροπίον	τὸ ἐκτρόπῐον
-Generate the inflected form for: ἐκτρόπιον N;GEN;DU	τοῖν ἐκτροπῐ́οι	τοῖν ἐκτροπῐ́οιν
+Generate the inflected form for: Ἀντιοχεύς N;DAT;PL	τοῖς Ἀντῐοχεῖς	τοῖς Ᾰ̓ντῐοχεῦσῐ(ν)
+Generate the inflected form for: Ἀντιοχεύς N;VOC;DU	Ἀντῐοχέ	Ᾰ̓ντῐοχῆ
+Generate the inflected form for: ἐκτρόπιον N;NOM;SG	ἡ ἐκτροπῐ́ον	τὸ ἐκτρόπῐον
+Generate the inflected form for: ἐκτρόπιον N;GEN;DU	τοῖν ἐκτροπῐ́οιν	τοῖν ἐκτροπῐ́οιν
 Generate the inflected form for: ἐκτρόπιον N;GEN;SG	τοῦ ἐκτροπῐ́ου	τοῦ ἐκτροπῐ́ου
 Generate the inflected form for: ἐκτρόπιον N;VOC;SG	ἐκτροπίε	ἐκτρόπῐον
 Generate the inflected form for: ἐκτρόπιον N;NOM;PL	οἱ ἐκτροπῐ́οι	τᾰ̀ ἐκτρόπῐᾰ
 Generate the inflected form for: ἐκτρόπιον N;DAT;SG	τῷ ἐκτροπῐ́ῳ	τῷ ἐκτροπῐ́ῳ
-Generate the inflected form for: ἐκτρόπιον N;DAT;PL	τοῖς ἐκτροπῐ́οι	τοῖς ἐκτροπῐ́οις
-Generate the inflected form for: ἐκτρόπιον N;VOC;DU	ἐκτροπίω	ἐκτροπῐ́ω
-Generate the inflected form for: ἐκτρόπιον N;DAT;DU	τοῖν ἐκτροπίοιν	τοῖν ἐκτροπῐ́οιν
-Generate the inflected form for: ἐκτρόπιον N;ACC;PL	τοὺς ἐκτροπῐ́ους	τᾰ̀ ἐκτρόπῐᾰ
-Generate the inflected form for: ἐκτρόπιον N;VOC;PL	ἐκτροπίοι	ἐκτρόπῐᾰ
-Generate the inflected form for: ἐκτρόπιον N;GEN;PL	τῶν ἐκτροπῐ́ων	τῶν ἐκτροπῐ́ων
+Generate the inflected form for: ἐκτρόπιον N;DAT;PL	τοῖς ἐκτροπῐ́οις	τοῖς ἐκτροπῐ́οις
+Generate the inflected form for: ἐκτρόπιον N;VOC;DU	ἐκτροπῐ́ω	ἐκτροπῐ́ω
+Generate the inflected form for: ἐκτρόπιον N;DAT;DU	τοῖν ἐκτροπῐ́οιν	τοῖν ἐκτροπῐ́οιν
+Generate the inflected form for: ἐκτρόπιον N;ACC;PL	τᾱ̀ς ἐκτροπῐ́ᾱς	τᾰ̀ ἐκτρόπῐᾰ
+Generate the inflected form for: ἐκτρόπιον N;VOC;PL	ἐκτροπῐ́οι	ἐκτρόπῐᾰ
+Generate the inflected form for: ἐκτρόπιον N;GEN;PL	τῶν ἐκτροπῐῶν	τῶν ἐκτροπῐ́ων
 Generate the inflected form for: ἐκτρόπιον N;NOM;DU	τὼ ἐκτροπῐ́ω	τὼ ἐκτροπῐ́ω
 Generate the inflected form for: ἐκτρόπιον N;ACC;DU	τὼ ἐκτροπῐ́ω	τὼ ἐκτροπῐ́ω
 Generate the inflected form for: ἐκτρόπιον N;ACC;SG	τὸν ἐκτροπῐ́ον	τὸ ἐκτρόπῐον
 Generate the inflected form for: ἐπαγωγή N;NOM;PL	αἱ ἐπᾰγωγαί	αἱ ἐπᾰγωγαί
-Generate the inflected form for: ἐπαγωγή N;ACC;SG	ἐπαγωγή	τὴν ἐπᾰγωγήν
+Generate the inflected form for: ἐπαγωγή N;ACC;SG	τὸν ἐπᾰγωγᾰ́	τὴν ἐπᾰγωγήν
 Generate the inflected form for: ἐπαγωγή N;GEN;DU	τοῖν ἐπᾰγωγαῖν	τοῖν ἐπᾰγωγαῖν
-Generate the inflected form for: ἐπαγωγή N;NOM;SG	ἡ ἐπαγωγή	ἡ ἐπᾰγωγή
+Generate the inflected form for: ἐπαγωγή N;NOM;SG	ἡ ἐπᾰγωγή	ἡ ἐπᾰγωγή
 Generate the inflected form for: ἐπαγωγή N;ACC;PL	τᾱ̀ς ἐπᾰγωγᾱ́ς	τᾱ̀ς ἐπᾰγωγᾱ́ς
 Generate the inflected form for: ἐπαγωγή N;VOC;SG	ἐπᾰγωγή	ἐπᾰγωγή
 Generate the inflected form for: ἐπαγωγή N;DAT;DU	τοῖν ἐπᾰγωγαῖν	τοῖν ἐπᾰγωγαῖν
 Generate the inflected form for: ἐπαγωγή N;ACC;DU	τὼ ἐπᾰγωγᾱ́	τὼ ἐπᾰγωγᾱ́
-Generate the inflected form for: ἐπαγωγή N;DAT;SG	τῇ ἐπᾰγωγῇ	τῇ ἐπᾰγωγῇ
+Generate the inflected form for: ἐπαγωγή N;DAT;SG	τῷ ἐπᾰγωγῷ	τῇ ἐπᾰγωγῇ
 Generate the inflected form for: ἐπαγωγή N;GEN;PL	τῶν ἐπᾰγωγῶν	τῶν ἐπᾰγωγῶν
 Generate the inflected form for: ἐπαγωγή N;DAT;PL	ταῖς ἐπᾰγωγαῖς	ταῖς ἐπᾰγωγαῖς
-Generate the inflected form for: ἐπαγωγή N;GEN;SG	τοῦ ἐπᾰγωγής	τῆς ἐπᾰγωγῆς
+Generate the inflected form for: ἐπαγωγή N;GEN;SG	τοῦ ἐπᾰγωγοῦ	τῆς ἐπᾰγωγῆς
 Generate the inflected form for: ἐπαγωγή N;NOM;DU	τὼ ἐπᾰγωγᾱ́	τὼ ἐπᾰγωγᾱ́
 Generate the inflected form for: ἐπαγωγή N;VOC;DU	ἐπᾰγωγᾱ́	ἐπᾰγωγᾱ́
 Generate the inflected form for: ἐπαγωγή N;VOC;PL	ἐπᾰγωγαί	ἐπᾰγωγαί
-Generate the inflected form for: ἔριον N;VOC;DU	ἐρῐώ	ἐρίω
-Generate the inflected form for: ἔριον N;DAT;DU	τοῖν ἐρῐ́οιν	τοῖν ἐρίοιν
+Generate the inflected form for: ἔριον N;VOC;DU	ἔριω	ἐρίω
+Generate the inflected form for: ἔριον N;DAT;DU	τοῖν ἐρίοιν	τοῖν ἐρίοιν
 Generate the inflected form for: ἔριον N;VOC;SG	ἔριε	ἔριον
 Generate the inflected form for: ἔριον N;VOC;PL	ἔριοι	ἔριᾰ
 Generate the inflected form for: ἔριον N;NOM;PL	οἱ ἐρῐ́οι	τὰ ἔριᾰ
-Generate the inflected form for: ἔριον N;GEN;SG	τοῦ ἐρῐου	τοῦ ἐρίου
-Generate the inflected form for: ἔριον N;DAT;SG	τῷ ἐρῐῷ	τῷ ἐρίῳ
-Generate the inflected form for: ἔριον N;ACC;PL	τοὺς ἐρῐ́ους	τὰ ἔριᾰ
-Generate the inflected form for: ἔριον N;ACC;SG	τὸν ἐρῐῳ	τὸ ἔριον
-Generate the inflected form for: ἔριον N;DAT;PL	τοῖς ἐρῐῐ́οις	τοῖς ἐρίοις
-Generate the inflected form for: ἔριον N;GEN;DU	τοῖν ἐρῐοῖν	τοῖν ἐρίοιν
-Generate the inflected form for: ἔριον N;NOM;SG	ἡ ἔριον	τὸ ἔριον
-Generate the inflected form for: ἔριον N;NOM;DU	τὼ ἐρῐώ	τὼ ἐρίω
-Generate the inflected form for: ἔριον N;ACC;DU	τὼ ἐρῐώ	τὼ ἐρίω
-Generate the inflected form for: ἔριον N;GEN;PL	τῶν ἐρῐῶν	τῶν ἐρίων
+Generate the inflected form for: ἔριον N;GEN;SG	τοῦ ἐρῐ́ου	τοῦ ἐρίου
+Generate the inflected form for: ἔριον N;DAT;SG	τῷ ἐρῐ́ῳ	τῷ ἐρίῳ
+Generate the inflected form for: ἔριον N;ACC;PL	τᾱ̀ς ἐρῐ́ᾱς	τὰ ἔριᾰ
+Generate the inflected form for: ἔριον N;ACC;SG	ἔριον	τὸ ἔριον
+Generate the inflected form for: ἔριον N;DAT;PL	τοῖς ἐρίοις	τοῖς ἐρίοις
+Generate the inflected form for: ἔριον N;GEN;DU	τοῖν ἐρίοιν	τοῖν ἐρίοιν
+Generate the inflected form for: ἔριον N;NOM;SG	ἔριον	τὸ ἔριον
+Generate the inflected form for: ἔριον N;NOM;DU	τὼ ἐρῐ́ω	τὼ ἐρίω
+Generate the inflected form for: ἔριον N;ACC;DU	τὼ ἐρῐ́ω	τὼ ἐρίω
+Generate the inflected form for: ἔριον N;GEN;PL	τῶν ἐρίων	τῶν ἐρίων
 Generate the inflected form for: ἡγεμών N;VOC;SG	ἡγεμών	ἡγεμών
-Generate the inflected form for: ἡγεμών N;ACC;SG	τὸν ἡγεμώνᾰ	τὸν, τὴν ἡγεμόνᾰ
-Generate the inflected form for: ἡγεμών N;NOM;DU	τὼ ἡγεμώνω	τὼ ἡγεμόνε
-Generate the inflected form for: ἡγεμών N;VOC;PL	ἡγεμῶνες	ἡγεμόνες
-Generate the inflected form for: ἡγεμών N;VOC;DU	ἡγεμώνω	ἡγεμόνε
-Generate the inflected form for: ἡγεμών N;DAT;SG	τῇ ἡγεμῶνῐ	τῷ, τῇ ἡγεμόνῐ
+Generate the inflected form for: ἡγεμών N;ACC;SG	τὸν ἡγεμώνην	τὸν, τὴν ἡγεμόνᾰ
+Generate the inflected form for: ἡγεμών N;NOM;DU	τὼ ἡγεμώντε	τὼ ἡγεμόνε
+Generate the inflected form for: ἡγεμών N;VOC;PL	ἡγεμώνες	ἡγεμόνες
+Generate the inflected form for: ἡγεμών N;VOC;DU	ἡγεμώντε	ἡγεμόνε
+Generate the inflected form for: ἡγεμών N;DAT;SG	τῷ ἡγεμώνῐ	τῷ, τῇ ἡγεμόνῐ
 Generate the inflected form for: ἡγεμών N;DAT;DU	τοῖν ἡγεμώνοιν	τοῖν ἡγεμόνοιν
-Generate the inflected form for: ἡγεμών N;NOM;SG	ἡγεμών	ὁ, ἡ ἡγεμών
-Generate the inflected form for: ἡγεμών N;DAT;PL	ταῖς ἡγεμῶνοις	τοῖς, ταῖς ἡγεμόσῐ
-Generate the inflected form for: ἡγεμών N;GEN;PL	τῶν ἡγεμῶνων	τῶν ἡγεμόνων
+Generate the inflected form for: ἡγεμών N;NOM;SG	ἡ ἡγεμών	ὁ, ἡ ἡγεμών
+Generate the inflected form for: ἡγεμών N;DAT;PL	τοῖς ἡγεμώνοις	τοῖς, ταῖς ἡγεμόσῐ
+Generate the inflected form for: ἡγεμών N;GEN;PL	τῶν ἡγεμώνων	τῶν ἡγεμόνων
 Generate the inflected form for: ἡγεμών N;GEN;SG	τοῦ ἡγεμώνου	τοῦ, τῆς ἡγεμόνος
 Generate the inflected form for: ἡγεμών N;ACC;DU	τὼ ἡγεμώνω	τὼ ἡγεμόνε
-Generate the inflected form for: ἡγεμών N;NOM;PL	αἱ ἡγεμονοί	οἱ, αἱ ἡγεμόνες
-Generate the inflected form for: ἡγεμών N;ACC;PL	τᾱ̀ς ἡγεμῶνᾱς	τοὺς, τᾱ̀ς ἡγεμόνᾰς
+Generate the inflected form for: ἡγεμών N;NOM;PL	οἱ ἡγεμώνες	οἱ, αἱ ἡγεμόνες
+Generate the inflected form for: ἡγεμών N;ACC;PL	τᾱ̀ς ἡγεμώνᾰς	τοὺς, τᾱ̀ς ἡγεμόνᾰς
 Generate the inflected form for: ἡγεμών N;GEN;DU	τοῖν ἡγεμώνοιν	τοῖν ἡγεμόνοιν
-Generate the inflected form for: ἧπαρ N;ACC;DU	τὼ ἧπᾰ́ρτε	τὼ ἥπᾰτε
+Generate the inflected form for: ἧπαρ N;ACC;DU	τὼ ἧπᾰ́ρε	τὼ ἥπᾰτε
 Generate the inflected form for: ἧπαρ N;NOM;SG	ἡ ἧπᾰ́ρ	τὸ ἧπᾰρ
-Generate the inflected form for: ἧπαρ N;NOM;DU	τὼ ἧπᾰ́ρτε	τὼ ἥπᾰτε
+Generate the inflected form for: ἧπαρ N;NOM;DU	τὼ ἧπᾰ́ρε	τὼ ἥπᾰτε
 Generate the inflected form for: ἧπαρ N;VOC;PL	ἧπᾰ́ρες	ἥπᾰτᾰ
-Generate the inflected form for: ἧπαρ N;DAT;SG	τῇ ἧπᾰ́ρῐ	τῷ ἥπᾰτῐ
+Generate the inflected form for: ἧπαρ N;DAT;SG	τῷ ἧπᾰ́ρῐ	τῷ ἥπᾰτῐ
 Generate the inflected form for: ἧπαρ N;ACC;SG	τὸν ἧπᾰ́ρν	τὸ ἧπᾰρ
 Generate the inflected form for: ἧπαρ N;VOC;SG	ἧπᾰ́ρ	ἧπᾰρ
-Generate the inflected form for: ἧπαρ N;DAT;PL	ταῖς ἧπᾰ́ροις	τοῖς ἥπᾰσῐ
-Generate the inflected form for: ἧπαρ N;GEN;DU	τοῖν ἧπᾰροιν	τοῖν ἡπᾰ́τοιν
-Generate the inflected form for: ἧπαρ N;GEN;PL	τῶν ἧπᾰ́ρων	τῶν ἡπᾰ́των
+Generate the inflected form for: ἧπαρ N;DAT;PL	ταῖς ἧπᾰ́ρεσῐ(ν)	τοῖς ἥπᾰσῐ
+Generate the inflected form for: ἧπαρ N;GEN;DU	τοῖν ἧπᾰροῖν	τοῖν ἡπᾰ́τοιν
+Generate the inflected form for: ἧπαρ N;GEN;PL	τῶν ἧπᾰρῶν	τῶν ἡπᾰ́των
 Generate the inflected form for: ἧπαρ N;DAT;DU	τοῖν ἧπᾰ́ροιν	τοῖν ἡπᾰ́τοιν
 Generate the inflected form for: ἧπαρ N;ACC;PL	τᾱ̀ς ἧπᾰ́ρᾱς	τᾰ̀ ἥπᾰτᾰ
-Generate the inflected form for: ἧπαρ N;GEN;SG	τοῦ ἧπᾰρος	τοῦ ἥπᾰτος
-Generate the inflected form for: ἧπαρ N;NOM;PL	αἱ ἧπᾰ́ρες	τᾰ̀ ἥπᾰτᾰ
-Generate the inflected form for: ἧπαρ N;VOC;DU	ἧπᾰ́ρτε	ἥπᾰτε
+Generate the inflected form for: ἧπαρ N;GEN;SG	τοῦ ἧπᾰ́ρου	τοῦ ἥπᾰτος
+Generate the inflected form for: ἧπαρ N;NOM;PL	οἱ ἧπᾰ́ρες	τᾰ̀ ἥπᾰτᾰ
+Generate the inflected form for: ἧπαρ N;VOC;DU	ἧπᾰ́ρε	ἥπᾰτε
 Generate the inflected form for: ἰχώρ N;VOC;DU	ἰχώρω	ἰχῶρε
-Generate the inflected form for: ἰχώρ N;ACC;SG	τὸν ἰχώρᾰ	ἰχῶρᾰ
-Generate the inflected form for: ἰχώρ N;ACC;DU	τὼ ἰχώρω	ἰχῶρε
-Generate the inflected form for: ἰχώρ N;DAT;PL	ταῖς ἰχόροις	ἰχῶρσῐ(ν)
-Generate the inflected form for: ἰχώρ N;GEN;DU	τοῖν ἰχώροιν	ἰχώροιν
+Generate the inflected form for: ἰχώρ N;ACC;SG	τὸν ἰχώρε	ἰχῶρᾰ
+Generate the inflected form for: ἰχώρ N;ACC;DU	τὼ ῐ̓χώρω	ἰχῶρε
+Generate the inflected form for: ἰχώρ N;DAT;PL	τοῖς ἰχόροις	ἰχῶρσῐ(ν)
+Generate the inflected form for: ἰχώρ N;GEN;DU	τοῖν ῐ̓χώροιν	ἰχώροιν
 Generate the inflected form for: ἰχώρ N;NOM;SG	ἡ ἰχώρ	ἰχώρ
 Generate the inflected form for: ἰχώρ N;ACC;PL	τᾱ̀ς ἰχώρᾱς	ἰχῶρᾰς
-Generate the inflected form for: ἰχώρ N;NOM;DU	τὼ ἰχώρω	ἰχῶρε
-Generate the inflected form for: ἰχώρ N;NOM;PL	αἱ ἰχώροι	ἰχῶρες
-Generate the inflected form for: ἰχώρ N;DAT;SG	τῇ ἰχόρῐ	ἰχῶρῐ
+Generate the inflected form for: ἰχώρ N;NOM;DU	τὼ ῐ̓χώρω	ἰχῶρε
+Generate the inflected form for: ἰχώρ N;NOM;PL	οἱ ἰχώρες	ἰχῶρες
+Generate the inflected form for: ἰχώρ N;DAT;SG	τῷ ἰχώρῐ	ἰχῶρῐ
 Generate the inflected form for: ἰχώρ N;VOC;SG	ἰχώρ	ἰχώρ
-Generate the inflected form for: ἰχώρ N;VOC;PL	ἰχῶρες	ἰχῶρες
+Generate the inflected form for: ἰχώρ N;VOC;PL	ἰχώρες	ἰχῶρες
 Generate the inflected form for: ἰχώρ N;GEN;SG	τοῦ ἰχόρου	ἰχῶρος
-Generate the inflected form for: ἰχώρ N;DAT;DU	τοῖν ἰχώροιν	ἰχώροιν
+Generate the inflected form for: ἰχώρ N;DAT;DU	τοῖν ῐ̓χώροιν	ἰχώροιν
 Generate the inflected form for: ἰχώρ N;GEN;PL	τῶν ἰχόρων	ἰχώρων
 Generate the inflected form for: ἵππος N;DAT;DU	τοῖν ἵπποιν	τοῖν ῐ̔́πποιν
-Generate the inflected form for: ἵππος N;DAT;PL	τοῖς ἵπποῖς	τοῖς ῐ̔́πποις
+Generate the inflected form for: ἵππος N;DAT;PL	τοῖς ἵπποις	τοῖς ῐ̔́πποις
 Generate the inflected form for: ἵππος N;VOC;DU	ἵππω	ῐ̔́ππω
 Generate the inflected form for: ἵππος N;ACC;DU	τὼ ἵππω	τὼ ῐ̔́ππω
 Generate the inflected form for: ἵππος N;GEN;SG	τοῦ ἵππου	τοῦ ῐ̔́ππου
-Generate the inflected form for: ἵππος N;ACC;SG	τὸν ἵππον	τὸν ῐ̔́ππον
+Generate the inflected form for: ἵππος N;ACC;SG	ἵππον	τὸν ῐ̔́ππον
 Generate the inflected form for: ἵππος N;GEN;DU	τοῖν ἵπποῖν	τοῖν ῐ̔́πποιν
 Generate the inflected form for: ἵππος N;DAT;SG	τῷ ἵππῳ	τῷ ῐ̔́ππῳ
 Generate the inflected form for: ἵππος N;VOC;PL	ἵπποι	ῐ̔́πποι
-Generate the inflected form for: ἵππος N;ACC;PL	τοὺς ἵππους	τοὺς ῐ̔́ππους
+Generate the inflected form for: ἵππος N;ACC;PL	τᾱ̀ς ἵππους	τοὺς ῐ̔́ππους
 Generate the inflected form for: ἵππος N;NOM;SG	ἡ ἵππος	ὁ ῐ̔́ππος
 Generate the inflected form for: ἵππος N;GEN;PL	τῶν ἵππων	τῶν ῐ̔́ππων
 Generate the inflected form for: ἵππος N;NOM;PL	οἱ ἵπποι	οἱ ῐ̔́πποι
@@ -941,35 +941,35 @@ Generate the inflected form for: ἵππος N;NOM;DU	τὼ ἵππω	τὼ ῐ�
 Generate the inflected form for: ἵππος N;VOC;SG	ἵππε	ῐ̔́ππε
 Generate the inflected form for: Ἰταλιώτης N;NOM;PL	οἱ Ἰτᾰλῐώται	οἱ Ἰτᾰλιῶται
 Generate the inflected form for: Ἰταλιώτης N;NOM;SG	ἡ Ἰταλιώτης	ὁ Ἰτᾰλιώτης
-Generate the inflected form for: Ἰταλιώτης N;DAT;PL	τοῖς Ἰτᾰλῐώται	τοῖς Ἰτᾰλιώταις
+Generate the inflected form for: Ἰταλιώτης N;DAT;PL	τοῖς Ἰτᾰλῐώταις	τοῖς Ἰτᾰλιώταις
 Generate the inflected form for: Ἰταλιώτης N;VOC;PL	Ἰτᾰλῐώται	Ἰτᾰλιῶται
-Generate the inflected form for: Ἰταλιώτης N;ACC;PL	τοὺς Ἰτᾰλῐώτᾱς	τοὺς Ἰτᾰλιώτᾱς
-Generate the inflected form for: Ἰταλιώτης N;DAT;DU	τοῖν Ἰτᾰλῐώται	τοῖν Ἰτᾰλιώταιν
-Generate the inflected form for: Ἰταλιώτης N;DAT;SG	τῷ Ἰτᾰλῐώτῳ	τῷ Ἰτᾰλιώτῃ
-Generate the inflected form for: Ἰταλιώτης N;GEN;PL	τῶν Ἰτᾰλῐώτῶν	τῶν Ἰτᾰλιωτῶν
+Generate the inflected form for: Ἰταλιώτης N;ACC;PL	τᾱ̀ς Ἰτᾰλῐώτᾱς	τοὺς Ἰτᾰλιώτᾱς
+Generate the inflected form for: Ἰταλιώτης N;DAT;DU	τοῖν Ἰτᾰλῐώταιν	τοῖν Ἰτᾰλιώταιν
+Generate the inflected form for: Ἰταλιώτης N;DAT;SG	τῷ Ἰτᾰλῐώτῃ	τῷ Ἰτᾰλιώτῃ
+Generate the inflected form for: Ἰταλιώτης N;GEN;PL	τῶν Ἰτᾰλῐώτων	τῶν Ἰτᾰλιωτῶν
 Generate the inflected form for: Ἰταλιώτης N;GEN;SG	τοῦ Ἰτᾰλῐώτου	τοῦ Ἰτᾰλιώτου
 Generate the inflected form for: Ἰταλιώτης N;VOC;DU	Ἰτᾰλῐώτᾱ	Ἰτᾰλιώτᾱ
 Generate the inflected form for: Ἰταλιώτης N;ACC;DU	τὼ Ἰτᾰλῐώτᾱ	τὼ Ἰτᾰλιώτᾱ
-Generate the inflected form for: Ἰταλιώτης N;VOC;SG	Ἰταλιώτη	Ἰτᾰλιῶτᾰ
+Generate the inflected form for: Ἰταλιώτης N;VOC;SG	Ἰτᾰλῐώτη	Ἰτᾰλιῶτᾰ
 Generate the inflected form for: Ἰταλιώτης N;GEN;DU	τοῖν Ἰτᾰλῐώταιν	τοῖν Ἰτᾰλιώταιν
 Generate the inflected form for: Ἰταλιώτης N;NOM;DU	τὼ Ἰτᾰλῐώτᾱ	τὼ Ἰτᾰλιώτᾱ
-Generate the inflected form for: Ἰταλιώτης N;ACC;SG	τὸν Ἰτᾰλῐώτᾰ	τὸν Ἰτᾰλιώτην
+Generate the inflected form for: Ἰταλιώτης N;ACC;SG	τὸν Ἰτᾰλῐώτην	τὸν Ἰτᾰλιώτην
 Generate the inflected form for: ὁμιλία N;GEN;DU	τοῖν ὁμῐλῐ́αιν	τοῖν ὁμῑλῐ́αιν
 Generate the inflected form for: ὁμιλία N;DAT;PL	ταῖς ὁμῐλῐ́αις	ταῖς ὁμῑλῐ́αις
-Generate the inflected form for: ὁμιλία N;DAT;SG	τῇ ὁμῐλῐ́ᾳ	τῇ ὁμῑλῐ́ᾳ
+Generate the inflected form for: ὁμιλία N;DAT;SG	τῷ ὁμῐλῐ́ᾳ	τῇ ὁμῑλῐ́ᾳ
 Generate the inflected form for: ὁμιλία N;ACC;DU	τὼ ὁμῐλῐ́ᾱ	τὼ ὁμῑλῐ́ᾱ
 Generate the inflected form for: ὁμιλία N;DAT;DU	τοῖν ὁμῐλῐ́αιν	τοῖν ὁμῑλῐ́αιν
 Generate the inflected form for: ὁμιλία N;NOM;PL	αἱ ὁμῐλῐ́αι	αἱ ὁμῑλῐ́αι
-Generate the inflected form for: ὁμιλία N;NOM;DU	ὁμῐλῐ́ᾱ	τὼ ὁμῑλῐ́ᾱ
+Generate the inflected form for: ὁμιλία N;NOM;DU	τὼ ὁμῐλῐ́ᾱ	τὼ ὁμῑλῐ́ᾱ
 Generate the inflected form for: ὁμιλία N;VOC;DU	ὁμῐλῐ́ᾱ	ὁμῑλῐ́ᾱ
 Generate the inflected form for: ὁμιλία N;GEN;PL	τῶν ὁμῐλῐῶν	τῶν ὁμῑλῐῶν
 Generate the inflected form for: ὁμιλία N;VOC;SG	ὁμῐλῐ́ᾱ	ὁμῑλῐ́ᾱ
-Generate the inflected form for: ὁμιλία N;NOM;SG	ὁμιλῐ́ᾱ	ἡ ὁμῑλῐ́ᾱ
-Generate the inflected form for: ὁμιλία N;ACC;SG	ὁμιλῐ́ᾱ	τὴν ὁμῑλῐ́ᾱν
+Generate the inflected form for: ὁμιλία N;NOM;SG	ὁμῐλῐ́ᾱ	ἡ ὁμῑλῐ́ᾱ
+Generate the inflected form for: ὁμιλία N;ACC;SG	τὸν ὁμῐλῐ́ᾱν	τὴν ὁμῑλῐ́ᾱν
 Generate the inflected form for: ὁμιλία N;ACC;PL	τᾱ̀ς ὁμῐλῐ́ᾱς	τᾱ̀ς ὁμῑλῐ́ᾱς
 Generate the inflected form for: ὁμιλία N;VOC;PL	ὁμῐλῐ́αι	ὁμῑλῐ́αι
-Generate the inflected form for: ὁμιλία N;GEN;SG	τοῦ ὁμῐλῐ́ᾱς	τῆς ὁμῑλῐ́ᾱς
-Generate the inflected form for: Ὀμβρικός N;NOM;SG	ὁ Ὀμβρικός	ὁ Ὀμβρῐκός
+Generate the inflected form for: ὁμιλία N;GEN;SG	τοῦ ὁμῐλῐ́ας	τῆς ὁμῑλῐ́ᾱς
+Generate the inflected form for: Ὀμβρικός N;NOM;SG	Ὀμβρῐκός	ὁ Ὀμβρῐκός
 Generate the inflected form for: Ὀμβρικός N;VOC;SG	Ὀμβρῐκέ	Ὀμβρῐκέ
 Generate the inflected form for: Ὀμβρικός N;DAT;SG	τῷ Ὀμβρῐκῷ	τῷ Ὀμβρῐκῷ
 Generate the inflected form for: Ὀμβρικός N;ACC;DU	τὼ Ὀμβρῐκώ	τὼ Ὀμβρῐκώ
@@ -983,12 +983,12 @@ Generate the inflected form for: Ὀμβρικός N;NOM;PL	οἱ Ὀμβρῐκ
 Generate the inflected form for: Ὀμβρικός N;VOC;PL	Ὀμβρῐκοί	Ὀμβρῐκοί
 Generate the inflected form for: Ὀμβρικός N;GEN;DU	τοῖν Ὀμβρῐκοῖν	τοῖν Ὀμβρῐκοῖν
 Generate the inflected form for: Ὀμβρικός N;VOC;DU	Ὀμβρῐκώ	Ὀμβρῐκώ
-Generate the inflected form for: Ὀμβρικός N;ACC;PL	τοὺς Ὀμβρῐκούς	τοὺς Ὀμβρῐκούς
+Generate the inflected form for: Ὀμβρικός N;ACC;PL	τᾱ̀ς Ὀμβρῐκούς	τοὺς Ὀμβρῐκούς
 Generate the inflected form for: ὠλένη N;DAT;DU	τοῖν ὠλέναιν	ὠλέναιν
-Generate the inflected form for: ὠλένη N;GEN;PL	τῶν ὠλένῶν	ὠλενῶν
-Generate the inflected form for: ὠλένη N;ACC;SG	τὴν ὠλένην	ὠλένην
+Generate the inflected form for: ὠλένη N;GEN;PL	τῶν ὠλένων	ὠλενῶν
+Generate the inflected form for: ὠλένη N;ACC;SG	τὸν ὠλένην	ὠλένην
 Generate the inflected form for: ὠλένη N;NOM;PL	αἱ ὠλέναι	ὠλέναι
-Generate the inflected form for: ὠλένη N;DAT;SG	τῇ ὠλένῃ	ὠλένῃ
+Generate the inflected form for: ὠλένη N;DAT;SG	τῷ ὠλένῃ	ὠλένῃ
 Generate the inflected form for: ὠλένη N;ACC;DU	τὼ ὠλένᾱ	ὠλένᾱ
 Generate the inflected form for: ὠλένη N;ACC;PL	τᾱ̀ς ὠλένᾱς	ὠλένᾱς
 Generate the inflected form for: ὠλένη N;VOC;SG	ὠλένη	ὠλένη
@@ -996,14 +996,15 @@ Generate the inflected form for: ὠλένη N;VOC;PL	ὠλέναι	ὠλένα�
 Generate the inflected form for: ὠλένη N;NOM;DU	τὼ ὠλένᾱ	ὠλένᾱ
 Generate the inflected form for: ὠλένη N;NOM;SG	ὠλένη	ὠλένη
 Generate the inflected form for: ὠλένη N;GEN;DU	τοῖν ὠλέναιν	ὠλέναιν
-Generate the inflected form for: ὠλένη N;GEN;SG	τοῦ ὠλένης	ὠλένης
+Generate the inflected form for: ὠλένη N;GEN;SG	τοῦ ὠλένου	ὠλένης
 Generate the inflected form for: ὠλένη N;DAT;PL	ταῖς ὠλέναις	ὠλέναις
 
 Forward Task Evaluation:
-  Accuracy: 0.3320 (332/1000)
+  Accuracy: 0.3480 (348/1000)
+  Mean Levenshtein distance: 2.0200
   Example Mismatches (prediction | gold):
-    οἱ Βακτριανοί | οἱ Βακτριᾱνοί
-    ὁ Βακτριανός | ὁ Βακτριᾱνός
-    τῷ Βᾰκτριᾱνῷ | τῷ Βακτριᾱνῷ
+    τᾱ̀ς Βακτριᾱνούς | τοὺς Βακτριᾱνούς
     τῷ Γέτῳ | τῷ Γέτῃ
+    τοῖν Γεταῖν | τοῖν Γέταιν
     Γέτη | Γέτᾰ
+    τῶν Γέτῶν | τῶν Γετῶν

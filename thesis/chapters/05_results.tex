@@ -2,8 +2,183 @@
 
 \section{Morphological Inflection}
 
-Placeholder text.
+This section reports test-set performance on the UniMorph-based forward inflection task. For each experiment setting (model, language, and direction), only the most recent rerun is included.
+
+\begin{table}[p]
+\centering
+\small
+\begin{tabular}{llrr}
+\toprule
+Language & Model & Accuracy $\uparrow$ & Mean Lev. $\downarrow$ \\
+\midrule
+\multicolumn{4}{l}{\textbf{Amharic}} \\
+ & Non-neural baseline & 0.390 & -- \\
+ & \textbf{Neural baseline} & \textbf{0.887} & \textbf{0.162} \\
+ & ByT5 & 0.822 & 0.237 \\
+ & ByT5 (bidirectional) & 0.608 & 0.606 \\
+\addlinespace
+\multicolumn{4}{l}{\textbf{Amuzgo}} \\
+ & Non-neural baseline & 0.061 & -- \\
+ & Neural baseline & 0.201 & 3.703 \\
+ & \textbf{ByT5} & \textbf{0.265} & \textbf{3.413} \\
+ & ByT5 (bidirectional) & 0.244 & 3.564 \\
+\addlinespace
+\multicolumn{4}{l}{\textbf{Lower Sorbian}} \\
+ & \textbf{Non-neural baseline} & \textbf{0.852} & -- \\
+ & Neural baseline & 0.791 & 0.379 \\
+ & ByT5 & 0.839 & \textbf{0.287} \\
+ & ByT5 (bidirectional) & 0.783 & 0.375 \\
+\addlinespace
+\multicolumn{4}{l}{\textbf{English}} \\
+ & Non-neural baseline & 0.958 & -- \\
+ & Neural baseline & 0.966 & 0.069 \\
+ & ByT5 & 0.971 & 0.067 \\
+ & \textbf{ByT5 (bidirectional)} & \textbf{0.976} & \textbf{0.050} \\
+\addlinespace
+\multicolumn{4}{l}{\textbf{Ancient Greek}} \\
+ & Non-neural baseline & 0.290 & -- \\
+ & Neural baseline & 0.194 & 2.212 \\
+ & \textbf{ByT5} & \textbf{0.416} & \textbf{1.713} \\
+ & ByT5 (bidirectional) & 0.348 & 2.020 \\
+\addlinespace
+\multicolumn{4}{l}{\textbf{Italian}} \\
+ & Non-neural baseline & 0.762 & -- \\
+ & Neural baseline & 0.783 & 0.266 \\
+ & \textbf{ByT5} & \textbf{0.958} & \textbf{0.091} \\
+ & ByT5 (bidirectional) & 0.898 & 0.243 \\
+\addlinespace
+\multicolumn{4}{l}{\textbf{Georgian}} \\
+ & Non-neural baseline & 0.842 & 0.430 \\
+ & \textbf{Neural baseline} & \textbf{0.892} & \textbf{0.297} \\
+ & ByT5 & 0.851 & 0.480 \\
+ & ByT5 (bidirectional) & 0.829 & 0.634 \\
+\addlinespace
+\multicolumn{4}{l}{\textbf{Portuguese}} \\
+ & Non-neural baseline & 0.966 & -- \\
+ & \textbf{Neural baseline} & \textbf{0.976} & \textbf{0.031} \\
+ & ByT5 & 0.950 & 0.072 \\
+ & ByT5 (bidirectional) & 0.911 & 0.149 \\
+\bottomrule
+\end{tabular}
+\caption{Forward inflection results on the UniMorph test sets. For each language, the best accuracy among the listed models is highlighted in bold. Mean Levenshtein distance is reported on the same normalized outputs as in the evaluation pipeline (lower is better). Missing values (``--'') indicate that a metric was not logged for that run.}
+\label{tab:results-inflection}
+\end{table}
+
+\subsection{Qualitative comparison}
+To complement the quantitative results, we qualitatively compare typical error patterns across models by inspecting incorrect predictions.
+
+\paragraph{Template for error examples.}
+For each language, we record (i) the input, (ii) the gold output, (iii) the model prediction, and (iv) a short note describing the error type.
+
+\begin{itemize}
+	\item \textbf{Language:} \emph{TBD}. \textbf{Input:} \emph{TBD}. \textbf{Gold:} \emph{TBD}. \textbf{Prediction:} \emph{TBD}. \textbf{Note:} \emph{TBD}.
+	\item \textbf{Language:} \emph{TBD}. \textbf{Input:} \emph{TBD}. \textbf{Gold:} \emph{TBD}. \textbf{Prediction:} \emph{TBD}. \textbf{Note:} \emph{TBD}.
+\end{itemize}
 
 \section{Morphological Analysis}
 
-Placeholder text.
+This section reports test-set performance on morphological analysis. As in the evaluation pipeline, results are reported for (i) predicting the lemma and (ii) predicting the target \ac{MSD} (interpreted as a set of tags).
+
+\subsection{UniMorph-based analysis}
+Table~\ref{tab:results-analysis-unimorph} compares the UniMorph-based inverse direction for the single-direction ByT5 model and the bidirectional ByT5 model.
+
+\begin{table}[p]
+\centering
+\small
+\begin{tabular}{llrrrr}
+\toprule
+Language & Model & Lemma Acc. $\uparrow$ & Lemma Lev. $\downarrow$ & \acs{MSD} Acc. $\uparrow$ & \acs{MSD} F1 $\uparrow$ \\
+\midrule
+\multicolumn{6}{l}{\textbf{Amharic}} \\
+ & \textbf{ByT5 (inverse)} & \textbf{0.762} & 0.287 & 0.832 & 0.928 \\
+ & ByT5 (bidirectional, inverse) & 0.646 & 0.408 & 0.723 & 0.884 \\
+\addlinespace
+\multicolumn{6}{l}{\textbf{Amuzgo}} \\
+ & ByT5 (inverse) & 0.344 & 2.618 & 0.778 & 0.944 \\
+ & \textbf{ByT5 (bidirectional, inverse)} & \textbf{0.371} & 2.343 & 0.692 & 0.890 \\
+\addlinespace
+\multicolumn{6}{l}{\textbf{Lower Sorbian}} \\
+ & ByT5 (inverse) & 0.613 & 0.597 & 0.462 & 0.724 \\
+ & \textbf{ByT5 (bidirectional, inverse)} & \textbf{0.643} & 0.546 & 0.368 & 0.679 \\
+\addlinespace
+\multicolumn{6}{l}{\textbf{English}} \\
+ & \textbf{ByT5 (inverse)} & \textbf{0.970} & 0.044 & 0.813 & 0.964 \\
+ & ByT5 (bidirectional, inverse) & 0.968 & 0.048 & 0.817 & 0.966 \\
+\addlinespace
+\multicolumn{6}{l}{\textbf{Ancient Greek}} \\
+ & ByT5 (inverse) & 0.597 & 0.737 & 0.734 & 0.906 \\
+ & \textbf{ByT5 (bidirectional, inverse)} & \textbf{0.640} & 0.701 & 0.638 & 0.849 \\
+\addlinespace
+\multicolumn{6}{l}{\textbf{Italian}} \\
+ & \textbf{ByT5 (inverse)} & \textbf{0.945} & 0.099 & 0.789 & 0.930 \\
+ & ByT5 (bidirectional, inverse) & 0.926 & 0.141 & 0.781 & 0.925 \\
+\addlinespace
+\multicolumn{6}{l}{\textbf{Georgian}} \\
+ & ByT5 (inverse) & 0.756 & 0.462 & 0.727 & 0.870 \\
+ & \textbf{ByT5 (bidirectional, inverse)} & \textbf{0.762} & 0.434 & 0.730 & 0.849 \\
+\addlinespace
+\multicolumn{6}{l}{\textbf{Portuguese}} \\
+ & \textbf{ByT5 (inverse)} & \textbf{0.948} & 0.076 & 0.661 & 0.890 \\
+ & ByT5 (bidirectional, inverse) & 0.942 & 0.091 & 0.657 & 0.885 \\
+\bottomrule
+\end{tabular}
+\caption{Morphological analysis results on the UniMorph test sets. For each language, the best lemma accuracy is highlighted in bold.}
+\label{tab:results-analysis-unimorph}
+\end{table}
+
+\subsection{UD-derived contextual analysis and LLM baseline}
+Table~\ref{tab:results-analysis-ud} reports results on the UD-derived unified test sets for both the context-aware bidirectional ByT5 model and the LLM baseline.
+
+For Georgian and Amharic, the UD-to-UniMorph conversion is not available. Therefore, we only report lemma-based metrics for UD-derived experiments in these languages (i.e., the \acs{MSD}-based columns are left blank).
+
+\begin{table}[p]
+\centering
+\small
+\begin{tabular}{llrrrr}
+\toprule
+Language & Model & Lemma Acc. $\uparrow$ & Lemma Lev. $\downarrow$ & \acs{MSD} Acc. $\uparrow$ & \acs{MSD} F1 $\uparrow$ \\
+\midrule
+\multicolumn{6}{l}{\textbf{Amharic}} \\
+ & \textbf{ByT5 (bidirectional + context)} & \textbf{0.899} & 0.131 & -- & -- \\
+ & LLM (Llama-3.1-8B) & 0.667 & 0.798 & -- & -- \\
+ & LLM (Qwen3-8B) & 0.475 & 4.323 & -- & -- \\
+\addlinespace
+\multicolumn{6}{l}{\textbf{English}} \\
+ & \textbf{ByT5 (bidirectional + context)} & \textbf{0.969} & 0.072 & 0.957 & 0.983 \\
+ & LLM (Llama-3.1-8B) & 0.664 & 0.855 & 0.105 & 0.375 \\
+ & LLM (Qwen3-8B) & 0.491 & 5.465 & 0.067 & 0.407 \\
+\addlinespace
+\multicolumn{6}{l}{\textbf{Ancient Greek}} \\
+ & ByT5 (bidirectional + context) & 0.144 & 4.030 & 0.136 & 0.306 \\
+ & \textbf{LLM (Llama-3.1-8B)} & \textbf{0.351} & 4.057 & 0.366 & 0.817 \\
+ & LLM (Qwen3-8B) & 0.327 & 6.077 & 0.478 & 0.818 \\
+\addlinespace
+\multicolumn{6}{l}{\textbf{Italian}} \\
+ & \textbf{ByT5 (bidirectional + context)} & \textbf{0.955} & 0.149 & 0.968 & 0.984 \\
+ & LLM (Llama-3.1-8B) & 0.782 & 2.002 & 0.035 & 0.177 \\
+ & LLM (Qwen3-8B) & 0.428 & 8.332 & 0.218 & 0.247 \\
+\addlinespace
+\multicolumn{6}{l}{\textbf{Georgian}} \\
+ & \textbf{ByT5 (bidirectional + context)} & \textbf{0.061} & 3.188 & -- & -- \\
+ & LLM (Llama-3.1-8B) & 0.049 & 4.750 & -- & -- \\
+ & LLM (Qwen3-8B) & 0.040 & 17.819 & -- & -- \\
+\addlinespace
+\multicolumn{6}{l}{\textbf{Portuguese}} \\
+ & \textbf{ByT5 (bidirectional + context)} & \textbf{0.745} & 0.596 & 0.718 & 0.838 \\
+ & LLM (Llama-3.1-8B) & 0.713 & 0.751 & 0.019 & 0.458 \\
+ & LLM (Qwen3-8B) & 0.516 & 8.453 & 0.028 & 0.415 \\
+\bottomrule
+\end{tabular}
+\caption{Morphological analysis on the UD-derived unified test sets. For each model and language, we report the most recent rerun. For Georgian and Amharic, \acs{MSD}-based metrics are not reported due to missing UD-to-UniMorph conversion support.}
+\label{tab:results-analysis-ud}
+\end{table}
+
+\subsection{Qualitative comparison}
+In addition to aggregate metrics, we compare typical error patterns.
+
+\paragraph{Template for error categories.}
+\begin{itemize}
+	\item \textbf{Lemma errors:} \emph{TBD} (e.g., wrong segmentation, missing diacritics, copying surface form).
+	\item \textbf{\acs{MSD} errors:} \emph{TBD} (e.g., missing features, incorrect person/number, overgeneration).
+	\item \textbf{Context sensitivity:} \emph{TBD} (e.g., disambiguation successes/failures with sentence context).
+\end{itemize}

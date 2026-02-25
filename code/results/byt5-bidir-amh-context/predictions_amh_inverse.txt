@@ -1,0 +1,210 @@
+Given the context: 'መስኮቱን ዝጋ !'
+Generate the lemma and morphological tags for the inflected verb: ዝጋ	ዝጋ Ind;Fin	ዝጋ Jus;Fin
+Given the context: 'እንደማን ነው የምትደንሰው ?'
+Generate the lemma and morphological tags for the inflected verb: ደንስ	ደንስ Ind;Fin	ደንስ Ind;Fin
+Given the context: 'አለና መለሰለት ።'
+Generate the lemma and morphological tags for the inflected verb: ኣለ	ኣለ Ind;Fin	ኣለ Ind;Fin
+Given the context: 'ገንዘቡን አስመለሰ ።'
+Generate the lemma and morphological tags for the inflected verb: አስመለስ	አስመለስ Ind;Fin;Cau	አስመለስ Ind;Fin;Cau
+Given the context: 'ወደድክም ጠላህም እሷ እንደሆን መምጣቷ አይቅርም ።'
+Generate the lemma and morphological tags for the inflected verb: ወደድ	ወደድ Ind;Fin	ወደድ Ind;Fin
+Given the context: 'መጽሐፉን አስያዘኝ ።'
+Generate the lemma and morphological tags for the inflected verb: አስያዝ	አስያዝ Ind;Fin;Cau	አስያዝ Ind;Fin;Cau
+Given the context: 'ጽጌረዳው እንደ ማበብ ብሎ ጠወለገ ።'
+Generate the lemma and morphological tags for the inflected verb: ብል	ብል Ind;Fin	ብል Ind;Fin
+Given the context: 'አባቴ የሞተው በድንገት ነው ።'
+Generate the lemma and morphological tags for the inflected verb: ሞት	ሞት Ind;Fin	ሞት Ind;Fin
+Given the context: 'በሄደበት ሁሉ ልጆቹን ይዞ ይሄዳል ።'
+Generate the lemma and morphological tags for the inflected verb: ሄድ	ሄድ Ind;Fin	ሄድ Ind;Fin
+Given the context: 'ወገቤን ቀስ ብለሽ እሺልኝ ።'
+Generate the lemma and morphological tags for the inflected verb: ብል	ብል Ind;Fin	ብል Ind;Fin
+Given the context: 'መኪናውን አስወሰደ ።'
+Generate the lemma and morphological tags for the inflected verb: አስወሰድ	አስወሰድ Ind;Fin;Pass	አስወሰድ Ind;Fin;Cau
+Given the context: 'ወጣት ብሆንም ብዙ አይቻለሁ ።'
+Generate the lemma and morphological tags for the inflected verb: አይት	አይት Ind;Fin	አይት Ind;Fin
+Given the context: 'አትግደለኝ ብሎ ቢለምነው ማረው ።'
+Generate the lemma and morphological tags for the inflected verb: ግደል	ግደል Ind;Fin	ግደል Ind;Fin
+Given the context: 'ሻንጣዬን ተሰረቅሁ ።'
+Generate the lemma and morphological tags for the inflected verb: ተሰረቅ	ተሰረቅ Ind;Fin	ተሰረቅ Ind;Fin;Pass
+Given the context: 'ልጁ ይምጣ አይምጣ አላውቅም ።'
+Generate the lemma and morphological tags for the inflected verb: ምጣ	ምጣ Ind;Fin	ምጣ Ind;Fin
+Given the context: 'መቼም ይምጣ መች እራቱን ሳይበላ አይተኛ ።'
+Generate the lemma and morphological tags for the inflected verb: ምጣ	ምጣ Ind;Fin	ምጣ Ind;Fin
+Given the context: 'ሜዳ ሜዳውን ሄደ ።'
+Generate the lemma and morphological tags for the inflected verb: ሄድ	ሄድ Ind;Fin	ሄድ Ind;Fin
+Given the context: 'የህግ አለመኖር ህዝቡን በጅምላ አጫረሰ ።'
+Generate the lemma and morphological tags for the inflected verb: መኖር	ኖር Ind;Fin	መኖር Vnoun
+Given the context: 'ነገ ይዘንባል ? ባልዘነበ ።'
+Generate the lemma and morphological tags for the inflected verb: ዘንብ	ዘንብ Ind;Fin	ዘንብ Ind;Fin
+Given the context: 'ሂዳ !'
+Generate the lemma and morphological tags for the inflected verb: ሂድ	ሂድ Ind;Fin	ሂድ Ind;Fin
+Given the context: 'ከጥቂት ልምምድ በኋላ የተሻለ አድርገው ሠሩት ።'
+Generate the lemma and morphological tags for the inflected verb: ተሻል	ተሻል Ind;Fin	ተሻል Ind;Fin;Pass
+Given the context: 'ነገሩ የሆነው ከስንት ጊዜ በፊት ነበር ?'
+Generate the lemma and morphological tags for the inflected verb: ሆን	ሆን Ind;Fin	ሆን Ind;Fin
+Given the context: 'ዝናብ ዘንቦ መሬቱ ረጥቦ ነበር ።'
+Generate the lemma and morphological tags for the inflected verb: ዘንብ	ዘንብ Ind;Fin	ዘንብ Conv
+Given the context: 'እህሉን አስሸከመ ።'
+Generate the lemma and morphological tags for the inflected verb: አስሸከም	አስሸከም Ind;Fin;Cau	አስሸከም Ind;Fin;Cau
+Given the context: 'አልማዝ ወደፊት ቅርብ አለች ።'
+Generate the lemma and morphological tags for the inflected verb: ቅርብ	ቅርብ Ind;Fin	ቅርብ Ind;Fin
+Given the context: 'ቤቱን አስጠበቀ ።'
+Generate the lemma and morphological tags for the inflected verb: አስጠበቅ	አስጠበቅ Ind;Fin;Cau	አስጠበቅ Ind;Fin;Cau
+Given the context: 'ተሽቀዳደሙ ።'
+Generate the lemma and morphological tags for the inflected verb: ተሽቀዳደም	ተሻቀዳደም Ind;Fin	ተሽቀዳደም Ind;Fin;Pass
+Given the context: 'ወደ መጣበት አገር ይመለስ ።'
+Generate the lemma and morphological tags for the inflected verb: መጣ	መጣ Ind;Fin	መጣ Ind;Fin
+Given the context: 'እኔን ይሰርቃል ብሎ መጠርጠር ቀልድ ነው ።'
+Generate the lemma and morphological tags for the inflected verb: ሰርቅ	ሰርቅ Ind;Fin	ሰርቅ Ind;Fin
+Given the context: 'ብርም ሆነ ወርቅ ሊገዛው አይችልም ።'
+Generate the lemma and morphological tags for the inflected verb: ገዛ	ገዛ Ind;Fin	ገዛ Ind;Fin
+Given the context: 'የትኛውንም ብትመርጥ እገዛዋለሁ ።'
+Generate the lemma and morphological tags for the inflected verb: መርጥ	መርጥ Ind;Fin	መርጥ Ind;Fin
+Given the context: 'የምጠላው ጠላ መጠጣቷን ነው ።'
+Generate the lemma and morphological tags for the inflected verb: ጠላ	ጠላ Ind;Fin	ጠላ Ind;Fin
+Given the context: 'አንስታው ሄደች ።'
+Generate the lemma and morphological tags for the inflected verb: ኣንስት	ኣንስት Ind;Fin	ኣንስት Ind;Fin
+Given the context: 'ካሳ መጣ እንዴ ?'
+Generate the lemma and morphological tags for the inflected verb: መጣ	መጣ Ind;Fin	መጣ Ind;Fin
+Given the context: 'ምግቡ ተበላሸ ።'
+Generate the lemma and morphological tags for the inflected verb: ተበላሽ	ተበላሸ Ind;Fin	ተበላሽ Ind;Fin
+Given the context: 'ተጠማች ።'
+Generate the lemma and morphological tags for the inflected verb: ተጠም	ተጠም Ind;Fin	ተጠም Ind;Fin;Pass
+Given the context: 'ጧዋቱን በሙሉ ስላላክ ነበር ።'
+Generate the lemma and morphological tags for the inflected verb: ላላክ	ኣላክ Ind;Fin	ላላክ Ind;Fin
+Given the context: 'አስቴር ለልጁ ምግቡን ሰራችለት ።'
+Generate the lemma and morphological tags for the inflected verb: ሰር	ሰር Ind;Fin	ሰር Ind;Fin
+Given the context: 'አማርኛ ቢችል በተሻለ ነበር ።'
+Generate the lemma and morphological tags for the inflected verb: ችል	ችል Ind;Fin	ችል Ind;Fin
+Given the context: 'ምሳውን በልቶ ይሄዳል ።'
+Generate the lemma and morphological tags for the inflected verb: በልት	በልት Ind;Fin	በልት Ind;Fin
+Given the context: 'ተቀምጠን እንሠራለን ።'
+Generate the lemma and morphological tags for the inflected verb: ተቀምጥ	ተቀምጥ Ind;Fin	ተቀምጥ Ind;Fin;Pass
+Given the context: 'ትምህርት በሌለበት ጧት ተነስታ የት ሄደች ?'
+Generate the lemma and morphological tags for the inflected verb: ሌል	ሌል Ind;Fin	ሌል Ind;Fin
+Given the context: 'አስተማሪው ለተማሪዎች መፅሀፍ ሰጣቸው ።'
+Generate the lemma and morphological tags for the inflected verb: ሰጥ	ሰጥ Ind;Fin	ሰጥ Ind;Fin
+Given the context: 'ሰነፍ ነህ ብለህ ልትወቅሰኝ አትችልም ።'
+Generate the lemma and morphological tags for the inflected verb: ብል	ብል Ind;Fin	ብል Ind;Fin
+Given the context: 'ከሰዓት በኋላ አግዝሻለሁ ብሏል በላት ።'
+Generate the lemma and morphological tags for the inflected verb: አግዝ	አግዝ Ind;Fin	አግዝ Ind;Fin
+Given the context: 'አልማዝ ላይ ድንጋይ አስወረወሩባት ።'
+Generate the lemma and morphological tags for the inflected verb: አስወረወር	አስወረወር Ind;Fin;Pass	አስወረወር Ind;Fin;Cau
+Given the context: 'የተበደርኩትን ገንዘብ መቼ ሳልከፍል ቀርቻለሁ ?'
+Generate the lemma and morphological tags for the inflected verb: ተበደር	ተበደር Ind;Fin	ተበደር Ind;Fin;Pass
+Given the context: 'ይበላልም ይጠጣልም ።'
+Generate the lemma and morphological tags for the inflected verb: በላ	በላ Ind;Fin	በላ Ind;Fin
+Given the context: 'የምወደው ሥራ መሥራትን ነው ።'
+Generate the lemma and morphological tags for the inflected verb: ወድ	ወድ Ind;Fin	ወድ Ind;Fin
+Given the context: 'ወደ አዲስ አበባ ለመሄድ ፈልጌ ነበር ።'
+Generate the lemma and morphological tags for the inflected verb: ፈልግ	ፈልግ Ind;Fin	ፈልግ Ind;Fin
+Given the context: 'ጥርሴ ቆሎ አያስበላኝም ።'
+Generate the lemma and morphological tags for the inflected verb: ኣስበላ	ኣስበላ Ind;Fin;Cau	ኣስበላ Ind;Fin;Cau
+Given the context: 'ሳይጨልም ብትመለስ ይሻላል ፤ አለዚያ ትጠፋለህ ።'
+Generate the lemma and morphological tags for the inflected verb: ጨልም	ጨልም Ind;Fin	ጨልም Ind;Fin
+Given the context: 'እሱም እኔም ልንሠራው አንችልም ።'
+Generate the lemma and morphological tags for the inflected verb: ሠራ	ሠራ Ind;Fin	ሠራ Ind;Fin
+Given the context: 'እቃው ተሰረቀበት ።'
+Generate the lemma and morphological tags for the inflected verb: ተሰረቅ	ተሰረቅ Ind;Fin	ተሰረቅ Ind;Fin;Pass
+Given the context: 'አስቴር የመጣችው ከየት ነው ?'
+Generate the lemma and morphological tags for the inflected verb: መጣ	መጣ Ind;Fin	መጣ Ind;Fin
+Given the context: 'የመጣሁት በዚያ መንገድ ነው ።'
+Generate the lemma and morphological tags for the inflected verb: መጣ	መጣ Ind;Fin	መጣ Ind;Fin
+Given the context: 'ካሳ ጎበዝ ይመስላል ።'
+Generate the lemma and morphological tags for the inflected verb: መስል	መስል Ind;Fin	መስል Ind;Fin
+Given the context: 'በሽርሽር ላይ ሆነን ቢዘንብስ ?'
+Generate the lemma and morphological tags for the inflected verb: ሆነ	ሆን Ind;Fin	ሆነ Ind;Fin
+Given the context: 'አንደኛ ሆነች ።'
+Generate the lemma and morphological tags for the inflected verb: ሆን	ሆን Ind;Fin	ሆን Ind;Fin
+Given the context: 'ለከበደ ገንዘብ ሰጠሁት ።'
+Generate the lemma and morphological tags for the inflected verb: ሰጥ	ሰጥ Ind;Fin	ሰጥ Ind;Fin
+Given the context: 'በዛሬ ጊዜ ገንዘብ ለማግኘት ሲባል እስከ መግደልም ይደረሳል ።'
+Generate the lemma and morphological tags for the inflected verb: ተባል	ተባል Ind;Fin	ተባል Ind;Fin
+Given the context: 'ማንም ለምሳ አልቀረም ።'
+Generate the lemma and morphological tags for the inflected verb: ቀር	ቀር Ind;Fin	ቀር Ind;Fin
+Given the context: 'ፍየል ገዙላት ።'
+Generate the lemma and morphological tags for the inflected verb: ገዝ	ገዝ Ind;Fin	ገዝ Ind;Fin
+Given the context: 'መንገዱ የመጣንበት ነው ።'
+Generate the lemma and morphological tags for the inflected verb: መጣ	መጣ Ind;Fin	መጣ Ind;Fin
+Given the context: 'እነሳለሁ ሲል አደናቀፈው ።'
+Generate the lemma and morphological tags for the inflected verb: ተነስ	ተነስ Ind;Fin	ተነስ Ind;Fin;Pass
+Given the context: 'መንግስት ቀለቡን ቀነሰበት ።'
+Generate the lemma and morphological tags for the inflected verb: ቀነስ	ቀነስ Ind;Fin	ቀነስ Ind;Fin
+Given the context: 'በርግጥ ካሳ ትናንት ወደ ጎንደር ሄዷል ።'
+Generate the lemma and morphological tags for the inflected verb: ሄድ	ሄድ Ind;Fin	ሄድ Ind;Fin
+Given the context: 'የአባቱ መምጣት ካሳን ገረመው ።'
+Generate the lemma and morphological tags for the inflected verb: ገረም	ገረም Ind;Fin	ገረም Ind;Fin
+Given the context: 'ካሳ ከእናቱ ጋር የበላው ምሳ አይደለም ።'
+Generate the lemma and morphological tags for the inflected verb: በላ	በላ Ind;Fin	በላ Ind;Fin
+Given the context: 'የመሄጃው ቀን ተቃረበ ።'
+Generate the lemma and morphological tags for the inflected verb: መሄጃ	መሄጅ Ind;Fin	መሄጃ Vnoun
+Given the context: 'የዘላለምን ሒወትን እንዳገኝ ምን ላድርግ ?'
+Generate the lemma and morphological tags for the inflected verb: ኣገኝ	ኣገኝ Ind;Fin	ኣገኝ Ind;Fin
+Given the context: 'አንዳንድ ዓሳዎች የሚበሉ ናቸው ።'
+Generate the lemma and morphological tags for the inflected verb: በል	በል Ind;Fin	በል Ind;Fin
+Given the context: 'ስንት መጽሐፍ ትፈልጋለህ ?'
+Generate the lemma and morphological tags for the inflected verb: ፈልግ	ፈልግ Ind;Fin	ፈልግ Ind;Fin
+Given the context: 'መምህሩ ተማሪዎቹን ተሰለፉ አላቸው ።'
+Generate the lemma and morphological tags for the inflected verb: ተሰለፍ	ተሰለፍ Ind;Fin	ተሰለፍ Ind;Fin;Pass
+Given the context: 'ከብታችንን በመስረቁ ምክንያት ታሰረ ።'
+Generate the lemma and morphological tags for the inflected verb: መስረቅ	መስረቅ Ind;Fin	መስረቅ Vnoun
+Given the context: 'ልጆቹ መጥተው ቀሩ ።'
+Generate the lemma and morphological tags for the inflected verb: ቀር	ቀር Ind;Fin	ቀር Ind;Fin
+Given the context: 'ከአንገት በላይ ህክምና ተጀመረ ።'
+Generate the lemma and morphological tags for the inflected verb: ተጀመረ	ተጀመር Ind;Fin	ተጀመረ Ind;Fin;Pass
+Given the context: 'ሰዎች ሰይጣን አለ ብለው ያምናሉ ።'
+Generate the lemma and morphological tags for the inflected verb: ኣል	ኣል Ind;Fin	ኣል Ind;Fin
+Given the context: 'ፈተና መውደቄ አበሳጨኝ ።'
+Generate the lemma and morphological tags for the inflected verb: መውደቅ	መውደቅ Ind;Fin	መውደቅ Vnoun
+Given the context: 'ደሞዝ አልወሰድክም እንዴ ?'
+Generate the lemma and morphological tags for the inflected verb: ወሰድ	ወሰድ Ind;Fin	ወሰድ Ind;Fin
+Given the context: 'ሸክሙን አሳርፉኝ ።'
+Generate the lemma and morphological tags for the inflected verb: አሳርፍ	አሳርፍ Ind;Fin	አሳርፍ Ind;Fin;Cau
+Given the context: 'ጭንቅ አለው ።'
+Generate the lemma and morphological tags for the inflected verb: ጭንቅ	ጭንቅ Ind;Fin	ጭንቅ Ind;Fin
+Given the context: 'እርሳሱን መቅረጫ የሚሆን ምላጭ ስጠኝ ።'
+Generate the lemma and morphological tags for the inflected verb: ሆን	ሆን Ind;Fin	ሆን Ind;Fin
+Given the context: 'ካንዱ አገር ወዳንዱ አገር እየዞርኩ እኖራለሁ ።'
+Generate the lemma and morphological tags for the inflected verb: እየ_ዞርክ	ዞር Ind;Fin	እየ_ዞርክ Ind;Fin
+Given the context: 'ቤት ብትቆይ ይሻላል ወይስ ወደ ጨዋታው ብትሄድ ?'
+Generate the lemma and morphological tags for the inflected verb: ቆይ	ቆይ Ind;Fin	ቆይ Ind;Fin
+Given the context: 'የልጁን ቁስል ሐኪሙ አዳነው ።'
+Generate the lemma and morphological tags for the inflected verb: አዳን	አዳን Ind;Fin	አዳን Ind;Fin
+Given the context: 'ወደ አባትሽ ቤት ብትመለሽ አይሻልሽምን ?'
+Generate the lemma and morphological tags for the inflected verb: መለስ	መለስ Ind;Fin	መለስ Ind;Fin
+Given the context: 'አዳዲስ ልብስ መልበስ ይወዳል ።'
+Generate the lemma and morphological tags for the inflected verb: ወድድ	ወድድ Ind;Fin	ወድድ Ind;Fin
+Given the context: 'ሻንጣዬን ተሰረቅሁ ።'
+Generate the lemma and morphological tags for the inflected verb: ተሰረቅ	ተሰረቅ Ind;Fin	ተሰረቅ Ind;Fin;Pass
+Given the context: 'ይህ ሕመም ምነው በለቀቀኝ ።'
+Generate the lemma and morphological tags for the inflected verb: ለቀቀ	ለቀቅ Ind;Fin	ለቀቀ Ind;Fin
+Given the context: 'መኪና ሲመጣ ስታይ አትደንግጥ ።'
+Generate the lemma and morphological tags for the inflected verb: መጣ	መጣ Ind;Fin	መጣ Ind;Fin
+Given the context: 'አንበሳውን ገደሉት ።'
+Generate the lemma and morphological tags for the inflected verb: ገደል	ገደል Ind;Fin	ገደል Ind;Fin
+Given the context: 'ቅቤውን አቀለጡት ።'
+Generate the lemma and morphological tags for the inflected verb: አቀለጥ	አቀለጥ Ind;Fin	አቀለጥ Ind;Fin;Cau
+Given the context: 'ገንዘቡን ማን እነደሰጣት ንገረን ?'
+Generate the lemma and morphological tags for the inflected verb: ሰጥ	ሰጥ Ind;Fin	ሰጥ Ind;Fin
+Given the context: 'በምንም ዐይነት ብትሠራው አለቅየው አይደሰትም ።'
+Generate the lemma and morphological tags for the inflected verb: ሠር	ሰር Ind;Fin	ሠር Ind;Fin
+Given the context: 'ወንዙ ደረቀ ።'
+Generate the lemma and morphological tags for the inflected verb: ደረቅ	ደረቅ Ind;Fin	ደረቅ Ind;Fin
+Given the context: 'አስተማሪው ለተማሪዎቹ ጊዜ ሰጣቸው ።'
+Generate the lemma and morphological tags for the inflected verb: ሰጥ	ሰጥ Ind;Fin	ሰጥ Ind;Fin
+Given the context: 'በየሄደበት ሁሉ እቃ ይገዛል ።'
+Generate the lemma and morphological tags for the inflected verb: ሄድ	ሄድ Ind;Fin	ሄድ Ind;Fin
+Given the context: 'ሸክሙን አሳርፉኝ ።'
+Generate the lemma and morphological tags for the inflected verb: አሳርፍ	አሳርፍ Ind;Fin	አሳርፍ Ind;Fin;Cau
+
+Inverse Task Evaluation (Lemma/MSD):
+  Lemma accuracy: 0.8990 (89/99)
+  Lemma mean Levenshtein distance: 0.1313
+  MSD accuracy (exact set match): 0.7778 (77/99)
+  MSD micro-precision: 0.9366  micro-recall: 0.8972  micro-F1: 0.9165
+  Example Mismatches (prediction | gold):
+    ዝጋ Ind;Fin | ዝጋ Jus;Fin
+    አስወሰድ Ind;Fin;Pass | አስወሰድ Ind;Fin;Cau
+    ተሰረቅ Ind;Fin | ተሰረቅ Ind;Fin;Pass
+    ኖር Ind;Fin | መኖር Vnoun
+    ተሻል Ind;Fin | ተሻል Ind;Fin;Pass

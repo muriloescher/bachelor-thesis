@@ -1,3 +1,4 @@
+% !TeX root = ../main.tex
 \chapter{Background}\label{chapter:background}
 
 Different models have been used in this thesis to tackle two different, but related tasks. This chapter presents both tasks, the theoretical background and functionality behind the models used, as well as explanations of linguistic concepts pertaining to the tasks.
@@ -6,7 +7,7 @@ Different models have been used in this thesis to tackle two different, but rela
 
 This thesis addresses two closely related problems that can be viewed as inverse linguistic operations. Both tasks, introduced in the following subsections, involve applying a set of linguistic transformations to a base form of a word in order to produce an inflected form.
 
-A lemma, commonly referred to as the root or canonical form, denotes the base representation of a word. This base form can undergo various transformations belonging to different grammatical categories, including mood, aspect, tense, case, number, and person. These transformations are represented as a collection of morphological features, which in this work are often referred to as \emph{morphological tags}. Applying a specific set of such features to a lemma yields the corresponding inflected form.
+A lemma, commonly referred to as the canonical form, denotes the base representation of a word. This base form can undergo various transformations belonging to different grammatical categories, including mood, aspect, tense, case, number, and person. These transformations are represented as a collection of morphological features, which in this work are often referred to as \emph{morphological tags}. Applying a specific set of such features to a lemma yields the corresponding inflected form.
 
 \subsection{Morphological Inflection}
 
@@ -47,6 +48,7 @@ Beyond these task formulations, accurate morphological modeling plays an importa
 \section{Inflection Baselines}
 
 \subsection{Non-Neural Baseline}
+\label{sec:background-nonneural-baseline}
 
 Earlier approaches to morphological inflection primarily relied on explicit hand-crafted transformations to generate inflected word forms. In line with this tradition, the first baseline evaluated in this work adopts a simple edit-rule strategy.
 
@@ -75,7 +77,7 @@ Table~\ref{tab:rule_examples} illustrates representative examples of such transf
 \centering
 \begin{tabular}{llll}
 \toprule
-Lemma & MSD & Inflected form & Example candidate rule \\
+Lemma & \acs{MSD} & Inflected form & Example candidate rule \\
 \midrule
 walk  & V;PST;3;SG & walked  & $\epsilon \rightarrow$ ed \\
 talk  & V;PST;3;SG & talked  & lk $\rightarrow$ lked \\
@@ -100,8 +102,9 @@ While this allows the model to efficiently capture regular patterns, it can lead
 Despite these limitations, the approach provides a simple, transparent, and computationally efficient baseline. Its explicit rule extraction makes the predictions easily interpretable and offers a useful reference point for comparing the more complex neural models introduced in the following sections.
 
 \subsection{Neural Baseline}
+\label{sec:background-neural-baseline}
 
-As a neural reference system, we use the official neural baseline provided as part of the SIGMORPHON 2023 Shared Task. This system corresponds to the character-level Transformer model proposed by Wu et al.~\parencite{wu-etal-2021-applying}, which has been adopted as a strong baseline for morphological inflection. 
+As a neural reference system, we use the official neural baseline provided as part of the SIGMORPHON 2023 Shared Task. This system corresponds to the character-level Transformer model proposed by Wu et al.~\parencite*{wu-etal-2021-applying}, which has been adopted as a strong baseline for morphological inflection. 
 
 The model follows a standard encoder-decoder Transformer architecture \parencite{vaswani2017attention}, operating directly on character sequences. To better suit low-resource transduction tasks, a compact configuration is used, consisting of four encoder layers and four decoder layers with multi-head self-attention. Each layer employs four attention heads, a model dimension of $d_{\mathrm{model}} = 256$, and a feed-forward dimension of $d_{\mathrm{FF}} = 1024$. Decoding is performed autoregressively. For feature-guided tasks such as morphological inflection, morphological tags are encoded as special feature tokens that are concatenated with the input character sequence and processed jointly by the encoder. Wu et al. further propose a feature-invariant positional encoding scheme to avoid imposing an arbitrary order over the feature set.
 

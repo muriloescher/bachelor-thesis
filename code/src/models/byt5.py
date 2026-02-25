@@ -25,19 +25,19 @@ from ..utils import evaluate_forward, evaluate_inverse, ensure_dir, resolve_path
 from ..utils.save_results import save_byt5_results
 
 
-def preprocess(example, tokenizer):
+def preprocess(example, tokenizer, input_max_length=128, label_max_length=128):
     """Preprocess example for seq2seq training."""
-    model_inputs = tokenizer(example["input"], max_length=128, truncation=True)
-    
+    model_inputs = tokenizer(example["input"], max_length=input_max_length, truncation=True)
+
     try:
-        labels_enc = tokenizer(text_target=example["target"], max_length=32, truncation=True)
+        labels_enc = tokenizer(text_target=example["target"], max_length=label_max_length, truncation=True)
     except TypeError:
         try:
             with tokenizer.as_target_tokenizer():
-                labels_enc = tokenizer(example["target"], max_length=32, truncation=True)
+                labels_enc = tokenizer(example["target"], max_length=label_max_length, truncation=True)
         except AttributeError:
-            labels_enc = tokenizer(example["target"], max_length=32, truncation=True)
-    
+            labels_enc = tokenizer(example["target"], max_length=label_max_length, truncation=True)
+
     model_inputs["labels"] = labels_enc["input_ids"]
     return model_inputs
 
@@ -59,6 +59,10 @@ class ByT5Model:
         self.mode = mode
         self.task = config['task']
         self.lang_code = lang_config['language']['code']
+
+        token_cfg = config.get('tokenization', {})
+        self.input_max_length = token_cfg.get('input_max_length', 128)
+        self.label_max_length = token_cfg.get('label_max_length', 128)
         
         # Set seed
         seed = config['training'].get('seed', 42)
@@ -149,12 +153,22 @@ class ByT5Model:
         
         # Tokenize datasets
         train_dataset = train_dataset.map(
-            lambda x: preprocess(x, tokenizer),
+            lambda x: preprocess(
+                x,
+                tokenizer,
+                input_max_length=self.input_max_length,
+                label_max_length=self.label_max_length,
+            ),
             batched=False,
             remove_columns=[c for c in train_dataset.column_names if c in ("input", "target")]
         )
         dev_dataset = dev_dataset.map(
-            lambda x: preprocess(x, tokenizer),
+            lambda x: preprocess(
+                x,
+                tokenizer,
+                input_max_length=self.input_max_length,
+                label_max_length=self.label_max_length,
+            ),
             batched=False,
             remove_columns=[c for c in dev_dataset.column_names if c in ("input", "target")]
         )
@@ -249,6 +263,7 @@ class ByT5Model:
                 self._save_predictions(output_file, test_inputs, predictions, gold_outputs)
                 results['forward'] = evaluate_forward(predictions, gold_outputs, output_file)
                 print(f"  Forward accuracy: {results['forward']['accuracy']:.4f}")
+                print(f"  Forward mean Levenshtein: {results['forward']['mean_levenshtein']:.4f}")
             
             # Inverse direction
             print("Predicting inverse direction...")
@@ -330,6 +345,7 @@ class ByT5Model:
             self._save_predictions(output_file, test_inputs, predictions, gold_outputs)
             results = evaluate_forward(predictions, gold_outputs, output_file)
             print(f"  Accuracy: {results['accuracy']:.4f}")
+            print(f"  Mean Levenshtein: {results['mean_levenshtein']:.4f}")
             
             # Save results in JSON and CSV formats
             config = {
@@ -354,7 +370,7 @@ class ByT5Model:
     def _batch_predict(self, model, tokenizer, inputs, batch_size):
         """Make predictions in batches."""
         predictions = []
-        max_length = self.config['prediction'].get('max_length', 32)
+        max_length = self.config['prediction'].get('max_length', 128)
         
         for i in tqdm(range(0, len(inputs), batch_size), desc="Predicting", unit="batch"):
             batch_inputs = inputs[i:i+batch_size]

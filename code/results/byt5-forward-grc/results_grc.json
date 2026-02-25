@@ -5,13 +5,14 @@
   "metrics": {
     "forward": {
       "test": {
-        "accuracy": 0.389,
-        "correct": 389,
+        "accuracy": 0.416,
+        "mean_levenshtein": 1.713,
+        "correct": 416,
         "total": 1000
       }
     }
   },
-  "timestamp": "2026-02-08T06:30:36.105240",
+  "timestamp": "2026-02-18T11:16:10.475617",
   "direction": "forward",
   "configuration": {
     "use_context": false,
