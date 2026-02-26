@@ -80,7 +80,7 @@ Since \ac{UD} often provides multiple treebanks for a given language, it was nec
 
 Since the two data sources use different annotation schemes and file formats, several preprocessing and conversion steps were required to obtain a unified representation suitable for all experiments.
 
-\paragraph{UniMorph}
+\paragraph{UniMorph.}
 
 For UniMorph, the data was randomly sampled from the original datasets with a fixed seed, giving a preference to verbs, and then split into training, development, and test sets. This preference reflects that verbs typically exhibit the richest inflectional paradigms and constitute the primary focus of the morphological inflection task. These partitions consist of 10{,}000 training instances, 1{,}000 development instances, and 1{,}000 test instances, as in the Shared Task setup.
 
@@ -90,7 +90,7 @@ While Table~\ref{tab:languages-um} reports the average number of inflected forms
 
 To maintain comparable dataset sizes across languages, the preprocessing script allows specifying a maximum number of forms retained per lemma. For Georgian, a language-specific limit of 15 forms was applied in order to prevent individual paradigms from dominating the sampled data while preserving broad lemma coverage.
 
-\paragraph{Universal Dependencies}
+\paragraph{Universal Dependencies.}
 
 For most \ac{UD} treebanks, predefined training, development, and test splits are provided. However, for Amharic only a test set is available. In this case, this data was randomly partitioned into training, development, and test sets following an 8/1/1 proportion, as no official split specification is provided by \ac{UD} and no common ratio can be derived from the analyzed languages.
 
@@ -122,6 +122,7 @@ After conversion, the lemma, the inflected form, the mapped UniMorph tags, and t
 
 \begin{table}[h]
 \centering
+\resizebox{\textwidth}{!}{%
 \begin{tabular}{llll}
 \toprule
 Lemma & Tags & Inflected form & Context \\
@@ -129,6 +130,7 @@ Lemma & Tags & Inflected form & Context \\
 poder & V;IND;PRS;PL;3 & podem	& Estas podem representar falhas profundas. \\
 \bottomrule
 \end{tabular}
+}%
 \caption{Example instance of the unified tab-separated format used in this work.}
 \label{tab:extended-dataset-format}
 \end{table}
@@ -144,21 +146,23 @@ Table~\ref{tab:languages-ud} provides statistics for the Universal Dependencies 
 \begin{table}[h]
 \centering
 \small
-\begin{tabular}{lllrrrr}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{llllrrrr}
 \toprule
-Language & Family & Type & Ling.\ score & UM size & Avg.\ forms \\
+Language & ISO & Family & Type & Ling.\ score & UM size & Avg.\ forms \\
 \midrule
-Amharic & Semitic & Templatic & 2 & 46224 & 18.78 \\
-Amuzgo & Oto-Manguean & Polysynthetic & 0 & 12204 & 36.76 \\
-Ancient Greek & IE/Hellenic & Fusional & 3 & 41593 & 18.10 \\
-Lower Sorbian & IE/Slavic & Fusional & 1 & 20121 & 20.22 \\
-English & IE/Germanic & Analytic & 5 & 115523 & 1.63 \\
-Italian & IE/Romance & Fusional & 4 & 509574 & 50.91 \\
-Georgian & Kartvelian & Agglutinative & 3 & 74412 & 23.90 \\
-Portuguese & IE/Romance & Fusional & 4 & 303996 & 75.96 \\
+Amharic & amh & Semitic & Templatic & 2 & 46224 & 18.78 \\
+Amuzgo & azg & Oto-Manguean & Polysynthetic & 0 & 12204 & 36.76 \\
+Ancient Greek & grc & IE/Hellenic & Fusional & 3 & 41593 & 18.10 \\
+Lower Sorbian & dsb & IE/Slavic & Fusional & 1 & 20121 & 20.22 \\
+English & eng & IE/Germanic & Analytic & 5 & 115523 & 1.63 \\
+Italian & ita & IE/Romance & Fusional & 4 & 509574 & 50.91 \\
+Georgian & kat & Kartvelian & Agglutinative & 3 & 74412 & 23.90 \\
+Portuguese & por & IE/Romance & Fusional & 4 & 303996 & 75.96 \\
 \bottomrule
 \end{tabular}
-\caption{Typological overview and UniMorph statistics for the selected languages. For readability, Indo-European language families are prefixed with \textit{IE} (Indo-European). \textit{Ling.\ score} (0--5; higher means better represented in NLP resources and literature) provides a coarse external indicator of language resource availability. \textit{UM size} denotes the number of UniMorph instances (lemma--tag bundle--inflected form triples) available for each language.}
+}%
+\caption{Typological overview and UniMorph statistics for the selected languages. Language identifiers follow ISO 639-3 and are used throughout the Results tables. For readability, Indo-European language families are prefixed with \textit{IE} (Indo-European). \textit{Ling.\ score} (0--5; higher means better represented in \ac{NLP} resources and literature) provides a coarse external indicator of language resource availability. \textit{UM size} denotes the number of UniMorph instances (lemma--tag bundle--inflected form triples) available for each language.}
 \label{tab:languages-um}
 \end{table}
 

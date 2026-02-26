@@ -42,7 +42,7 @@ Decoding & greedy, max decode length 32 \\
 Checkpoint selection & best development accuracy (\texttt{--bestacc}) \\
 \bottomrule
 \end{tabular}
-\caption{Hyperparameters of the SIGMORPHON 2023 neural baseline as used in our experiments (taken from \texttt{example/sigmorphon2023-shared-tasks/task0-trm.sh}).}
+\caption{Hyperparameters of the SIGMORPHON 2023 neural baseline as used in our experiments.}
 \label{tab:neural_hyperparameters}
 \end{table}
 
@@ -131,6 +131,7 @@ Answer (lemma and tags only, no explanation):
 \end{figure}
 
 \subsection{Evaluation}
+\label{sec:analysis-eval}
 For morphological analysis, the target output is a single string of the form ``\texttt{lemma FEATURES}''. The evaluation splits the prediction and the gold label at the first whitespace into a lemma and an \ac{MSD}. The \ac{MSD} component is interpreted as a case-insensitive set of semicolon-separated tags.
 
 We report (i) lemma exact-match accuracy, and (ii) the mean Levenshtein distance between the predicted and gold lemmas (computed on normalized strings) to quantify character-level deviations. For \ac{MSD}, we compute (iii) exact set-match accuracy (prediction set equals gold set) and (iv) micro-averaged precision, recall, and $F_1$ over tags, where true positives, false positives, and false negatives are accumulated across all test instances before computing the final scores.

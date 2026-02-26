@@ -24,11 +24,15 @@ Morphological inflection refers to the process of generating a surface word form
 
 Automatic morphological inflection has long been studied in computational linguistics. Early approaches relied on rule-based systems and finite-state transducers \parencite{Koskenniemi1983,Kaplan1994, BeesleyKarttunen2003}, which required curated rules determined by linguistic experts. More recently, the problem has been formulated as a supervised sequence-to-sequence learning task, in which neural encoder-decoder models operate directly on character sequences \parencite{faruqui-etal-2016-morphological,kann-schutze-2016-single,aharoni-goldberg-2017-morphological}. Such models learn morphological transformations from data and have become the dominant paradigm for the task.
 
-The task has gained particular prominence through a series of multilingual shared tasks, most notably the SIGMORPHON and CoNLL--SIGMORPHON reinflection challenges \parencite{cotterell-etal-2017-conll, cotterell-etal-2018-conll, goldman-etal-2023-sigmorphon}. These benchmarks provide standardized training and evaluation settings across dozens of typologically diverse languages and have established morphological inflection as a common testbed for studying character-level generalization and low-resource learning. Large-scale resources such as UniMorph further facilitate this research by offering broad cross-linguistic coverage and consistent morphological annotations \parencite{batsuren-etal-2022-unimorph}.
+The task has gained particular prominence through a series of multilingual shared tasks, most notably the SIGMORPHON and CoNLL--SIGMORPHON reinflection challenges \parencite{cotterell-etal-2017-conll, cotterell-etal-2018-conll, goldman-etal-2023-sigmorphon}. These benchmarks provide standardized training and evaluation settings across dozens of typologically diverse languages and have established morphological inflection as a common testbed for studying character-level generalization and low-resource learning. Large-scale resources such as UniMorph further facilitate this research by offering broad cross-linguistic coverage and consistent morphological annotations \parencite{batsuren-etal-2022-unimorph}. The UniMorph annotation style 
+encodes a \ac{MSD} as a single string of semicolon-separated feature labels (e.g., \texttt{V;PST;3;SG}). In other words, the set of grammatical properties in Figure~\ref{fig:inflection_example} is represented as a compact sequence of tags rather than as a structured set. Using this notation, the example in Figure~\ref{fig:inflection_example} can be written as
+\[
+(\textit{walk}, \texttt{\{V;PST;3;SG\}}) \;\rightarrow\; \textit{walked}.
+\]
 
 \subsection{Morphological Analysis}
 
-Full morphological analysis refers to the task of recovering both the lemma and the associated set of morphological descriptors from an inflected surface form. The task is closely related to the subtasks of lemmatization and morphological tagging, which predict the canonical form and grammatical features, respectively. An example in English is shown in Figure~\ref{fig:analysis_example}.
+Full morphological analysis refers to the task of recovering both the lemma and the associated set of morphological descriptors from an inflected surface form. The task is composed of the subtasks of lemmatization and morphological tagging, which predict the canonical form and grammatical features, respectively. An example in English is shown in Figure~\ref{fig:analysis_example}.
 
 \begin{figure}[h]
 \centering
@@ -41,11 +45,11 @@ Full morphological analysis refers to the task of recovering both the lemma and 
 
 Automatic morphological analysis has traditionally been addressed using rule-based and finite-state techniques similar to those employed for inflection. Classical two-level and finite-state morphology frameworks model analysis and generation within a single bidirectional system, enabling both the decomposition of surface forms into lexical representations and the production of inflected forms from abstract specifications \parencite{Koskenniemi1983,BeesleyKarttunen2003}.
 
-More recently, data-driven approaches have largely replaced manually engineered analyzers. Related problems are often formulated as lemmatization or morphological tagging, where models predict either the lemma or the set of grammatical features directly from the surface form. Neural character-level architectures have proven effective for these tasks, learning morphological regularities directly from data without explicit rules \parencite{malaviya-etal-2019-simple,cotterell-heigold-2017-cross}. In this thesis, we adopt the more general formulation of full morphological analysis, which jointly predicts both the lemma and the complete set of morphological descriptors.
+More recently, data-driven approaches have largely replaced manually engineered analyzers. Related problems are often formulated as lemmatization or morphological tagging, where models predict either the lemma or the set of grammatical features directly from the surface form. Neural character-level architectures have proven effective for these tasks, learning morphological regularities directly from data without explicit rules \parencite{malaviya-etal-2019-simple,cotterell-heigold-2017-cross}. In this thesis, we adopt the more general formulation of full morphological analysis, which \emph{jointly} predicts both the lemma and the complete set of morphological descriptors.
 
-Beyond these task formulations, accurate morphological modeling plays an important role in downstream natural language processing applications more broadly. Generating and analyzing correct surface forms is essential for systems that must produce grammatically well-formed text, such as machine translation and text generation, and for tasks that rely on reliable morphological features, including tagging and syntactic parsing. Prior work has shown that incorporating morphological or subword structure improves neural machine translation for morphologically rich languages \parencite{sennrich-etal-2016-neural}, while morphology-aware representations and feature prediction benefit language modeling and tagging performance \parencite{pmlr-v32-botha14, cotterell-heigold-2017-cross}. These findings motivate the study of both inflection and analysis as complementary components of robust morphological processing.
+Beyond these task formulations, accurate morphological modeling plays an important role in downstream natural language processing applications more broadly. Generating and analyzing correct surface forms is essential for systems that must produce grammatically well-formed text, such as machine translation and text generation, and for tasks that rely on morphological features, including tagging and syntactic parsing. Prior work has shown that incorporating morphological or subword structure improves neural machine translation for morphologically rich languages \parencite{sennrich-etal-2016-neural}, while morphology-aware representations and feature prediction benefit language modeling and tagging performance \parencite{pmlr-v32-botha14, cotterell-heigold-2017-cross}. These findings motivate the study of both inflection and analysis as complementary components of robust morphological processing.
 
-\section{Inflection Baselines}
+\section{Morphological Inflection Baselines}
 
 \subsection{Non-Neural Baseline}
 \label{sec:background-nonneural-baseline}
@@ -56,18 +60,24 @@ The system is provided as part of the SIGMORPHON 2023 Shared Task \parencite{gol
 
 Unlike neural sequence-to-sequence approaches, this model does not learn continuous representations. Instead, it derives explicit string edit rules directly from the training data. For each training triple consisting of a lemma, a set of morphological tags, and the corresponding inflected form, the system first aligns the two strings using Levenshtein distance. The aligned pair is then decomposed into a prefix part, a shared stem, and a suffix part. Based on this decomposition, both prefix-changing and suffix-changing transformation rules are extracted.
 
-To illustrate this procedure, we reproduce a simplified alignment example adapted from the official baseline documentation \parencite{vylomova-etal-2020-sigmorphon}. For the German pair \textit{schielen} $\rightarrow$ \textit{geschielt}, one possible alignment is:
-\begin{verbatim}
-__schielen
-geschielt_
-\end{verbatim}
+To illustrate this procedure, we reproduce a simplified alignment example adapted from the official baseline documentation \parencite{vylomova-etal-2020-sigmorphon}. For the German pair \textit{schielen} $\rightarrow$ \textit{geschielt} ("to squint"), one possible alignment is:
+\begin{center}
+\ttfamily
+\begin{tabular}{@{}l@{}}
+\_\_schielen\\
+geschielt\_\\
+\end{tabular}
+\end{center}
 which can be segmented into prefix (Pr), stem (St), and suffix (Su) regions:
-\begin{verbatim}
-Pr |   St    | Su
-__ | schiele | n
-ge | schielt | _
-\end{verbatim}
-From this decomposition, the system extracts both prefix rules (e.g., $\epsilon \rightarrow$ \textit{ge}) and suffix rules describing the stem-final changes.
+\begin{center}
+\ttfamily
+\begin{tabular}{@{}lll@{}}
+Pr & St & Su\\
+\_\_ & schiele & n\\
+ge & schielt & \_\\
+\end{tabular}
+\end{center}
+From this decomposition, the system extracts both prefix rules (e.g., $\epsilon \rightarrow$ \textit{ge}) and suffix rules describing the stem-final changes. Here, $\epsilon$ represents an empty string. 
 
 Each training example may therefore yield multiple candidate rules of varying specificity. During inference, the system first selects the rule whose left-hand side matches the longest portion of the lemma (suffixes for suffix rules or prefixes for prefix rules). If several rules of equal length apply, the most frequent one observed in the training data is chosen.
 
@@ -104,19 +114,17 @@ Despite these limitations, the approach provides a simple, transparent, and comp
 \subsection{Neural Baseline}
 \label{sec:background-neural-baseline}
 
-As a neural reference system, we use the official neural baseline provided as part of the SIGMORPHON 2023 Shared Task. This system corresponds to the character-level Transformer model proposed by Wu et al.~\parencite*{wu-etal-2021-applying}, which has been adopted as a strong baseline for morphological inflection. 
+The other reference system used is the official neural baseline provided as part of the SIGMORPHON 2023 Shared Task. This system corresponds to the character-level Transformer model proposed by \textcite{wu-etal-2021-applying}, which has been adopted as a strong baseline for morphological inflection. 
 
-The model follows a standard encoder-decoder Transformer architecture \parencite{vaswani2017attention}, operating directly on character sequences. To better suit low-resource transduction tasks, a compact configuration is used, consisting of four encoder layers and four decoder layers with multi-head self-attention. Each layer employs four attention heads, a model dimension of $d_{\mathrm{model}} = 256$, and a feed-forward dimension of $d_{\mathrm{FF}} = 1024$. Decoding is performed autoregressively. For feature-guided tasks such as morphological inflection, morphological tags are encoded as special feature tokens that are concatenated with the input character sequence and processed jointly by the encoder. Wu et al. further propose a feature-invariant positional encoding scheme to avoid imposing an arbitrary order over the feature set.
+The model follows a standard encoder-decoder Transformer architecture \parencite{vaswani2017attention}, operating directly on character sequences. To better suit low-resource transduction tasks, a compact configuration is used, consisting of four encoder layers and four decoder layers with multi-head self-attention. Each layer employs four attention heads, a model dimension of $d_{\mathrm{model}} = 256$, and a feed-forward dimension of $d_{\mathrm{FF}} = 1024$. Decoding is performed autoregressively. For feature-guided tasks such as morphological inflection, morphological tags are encoded as special feature tokens that are concatenated with the input character sequence and processed jointly by the encoder. \textcite{wu-etal-2021-applying} further propose a feature-invariant positional encoding scheme to avoid imposing an arbitrary order over the feature set.
 
 \section{ByT5}
 
-In addition to character-level and token-based models, we consider ByT5 \parencite{xue-etal-2022-byt5}, a token-free variant of the T5 architecture. ByT5 is an encoder-decoder Transformer model that operates directly on UTF-8 byte sequences instead of subword tokens. Unlike conventional Transformer models that rely on learned vocabularies (e.g., SentencePiece), ByT5 uses a fixed vocabulary of 256 byte embeddings corresponding to all possible byte values, thereby eliminating the need for tokenization.
+In addition to character-level and token-based models, the other analyzed model is ByT5 \parencite{xue-etal-2022-byt5}, a token-free variant of the T5 architecture \parencite{raffel2020t5}. ByT5 is an encoder-decoder Transformer model that operates directly on UTF-8 byte sequences instead of subword tokens. Unlike conventional Transformer models that rely on learned vocabularies (e.g., SentencePiece), ByT5 uses a fixed vocabulary of 256 byte embeddings corresponding to all possible byte values, thereby eliminating the need for tokenization.
 
-Architecturally, ByT5 follows the T5 framework \parencite{raffel2020t5} and its multilingual variant mT5 \parencite{xue-etal-2021-mt5}. To better accommodate longer byte sequences, the encoder and decoder depths are decoupled, employing a substantially heavier encoder stack with a 3:1 encoder–decoder ratio, in contrast to the balanced configuration used in T5 and mT5.
+Architecturally, ByT5 follows the T5 framework and its multilingual variant mT5 \parencite{xue-etal-2021-mt5}. To better accommodate longer byte sequences, the encoder and decoder depths are decoupled, employing a substantially heavier encoder stack with a 3:1 encoder–decoder ratio, in contrast to the balanced configuration used in T5 and mT5.
 
-Because ByT5 operates directly on raw byte sequences, it has been hypothesized to be particularly suitable for tasks that are sensitive to orthographic or phonological structure, including morphological inflection. This property makes it especially relevant for the evaluation conducted in this thesis.
-
-In our experiments, ByT5 is fine-tuned on the target morphological task. The fine-tuning configuration is described in Section~\ref{chapter:methodology}.
+Because ByT5 operates directly on raw byte sequences, it has been hypothesized to be particularly suitable for tasks that are sensitive to orthographic or phonological structure, including morphological inflection. \textcite{xue-etal-2022-byt5} provide the performance results of ByT5 on the SIGMORPHON 2020 \parencite{vylomova-etal-2020-sigmorphon} tasks of grapheme-to-phoneme conversion and morphological inflection as part of their benchmark. This property makes it especially relevant for the evaluation conducted in this thesis.
 
 \section{Large Language Models}
 
@@ -124,4 +132,4 @@ Large language models (LLMs) are Transformer-based neural networks pretrained on
 
 In this work, we evaluate two open-weight instruction-tuned LLMs: Qwen3-8B \parencite{qwen3technicalreport} and Llama-3.1-8B-Instruct \parencite{llama3technicalreport}. Both models are decoder-only Transformer architectures with approximately 8 billion parameters and are designed for general-purpose text generation. The 8B parameter scale represents a compromise between strong performance and practical computational requirements.
 
-Qwen3-8B, developed by Alibaba, is part of the Qwen model family and is trained on large-scale multilingual data to provide strong general-purpose language understanding and generation capabilities. Llama-3.1-8B-Instruct, developed by Meta AI, belongs to the LLaMA series and incorporates improved pretraining data and alignment procedures relative to earlier versions. Both models are instruction-tuned to follow natural language prompts, making them suitable for prompt-based evaluation settings. In this thesis, they are used without additional fine-tuning and evaluated in a one-shot prompting setup.
+Qwen3-8B, developed by Alibaba, is part of the Qwen model family and is trained on large-scale multilingual data to provide strong general-purpose language understanding and generation capabilities. Llama-3.1-8B-Instruct, developed by Meta AI, belongs to the LLaMA series and incorporates improved pretraining data and alignment procedures relative to earlier versions. Both models are instruction-tuned to follow natural language prompts, making them suitable for prompt-based evaluation settings.
