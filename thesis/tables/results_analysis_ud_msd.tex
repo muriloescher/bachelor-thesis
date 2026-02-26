@@ -1,0 +1,23 @@
+\begin{table}[h]
+\centering
+\small
+\setlength{\tabcolsep}{5pt}
+\renewcommand{\arraystretch}{1.10}
+\begin{tabular}{lrrrr}
+\toprule
+Model & eng & grc & ita & por \\
+\midrule
+\multicolumn{5}{l}{\textit{\acs{MSD} accuracy (\%, $\uparrow$)}} \\
+ByT5 ctx & \textbf{95.7} & 13.6 & \textbf{96.8} & \textbf{71.8} \\
+LLM Llama & 10.5 & 36.6 & 3.5 & 1.9 \\
+LLM Qwen & 6.7 & \textbf{47.8} & 21.8 & 2.8 \\
+\midrule
+\multicolumn{5}{l}{\textit{\acs{MSD} F1 (\%, $\uparrow$)}} \\
+ByT5 ctx & \textbf{98.3} & 30.6 & \textbf{98.4} & \textbf{83.8} \\
+LLM Llama & 37.5 & 81.7 & 17.7 & 45.8 \\
+LLM Qwen & 40.7 & \textbf{81.8} & 24.7 & 41.5 \\
+\bottomrule
+\end{tabular}
+\caption{Morphological analysis (UD, test set): \acs{MSD} metrics.}
+\label{tab:results-analysis-ud-msd-matrix}
+\end{table}

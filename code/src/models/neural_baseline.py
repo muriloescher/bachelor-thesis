@@ -74,7 +74,6 @@ class NeuralBaselineModel:
         cmd = ['bash', str(script_path), self.lang_code]
         
         print(f"Running: bash {script_path.name} {self.lang_code}")
-        print("This may take 10-30 minutes depending on your hardware...")
         
         # Ensure checkpoint directory exists
         ensure_dir(str(self.checkpoint_dir))

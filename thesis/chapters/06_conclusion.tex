@@ -1,3 +1,23 @@
 \chapter{Conclusion}\label{chapter:conclusion}
 
-Placeholder text.
+This thesis investigated how different modeling approaches perform on two fundamental tasks in morphological processing: (i) morphological inflection (lemma + feature bundle $\rightarrow$ inflected form) and (ii) morphological analysis (inflected form $\rightarrow$ lemma + \ac{MSD}). Experiments were conducted across a set of typologically diverse languages using both UniMorph and \ac{UD}-derived data, with the overarching goal of obtaining a clear, reproducible comparison under a unified preprocessing and evaluation pipeline.
+
+\paragraph{Summary of approaches.}
+For inflection, we evaluated a non-neural shared-task baseline, a neural transducer baseline, and fine-tuned ByT5 models, including a bidirectional variant trained on a mixture of forward and inverse examples. For analysis, we evaluated ByT5 models trained on UniMorph in the inverse direction and compared them to \ac{UD}-based context experiments, including a context-aware ByT5 model and prompting-based LLM baselines.
+
+\paragraph{Key findings.}
+Across languages, fine-tuned sequence-to-sequence models (ByT5) provide a strong and generally robust approach for morphological generation and inversion, especially when trained directly on the target task and annotation scheme. At the same time, performance varies substantially by language, reflecting differences in paradigm size, orthographic complexity, and effective training-set coverage.
+
+For morphological analysis, the results support a clear separation between (i) UniMorph-trained inverse models and (ii) \ac{UD}-derived context and LLM experiments. UniMorph-trained models benefit from a consistent tag inventory and a direct supervision signal for the UniMorph-style \ac{MSD} representation. In contrast, \ac{UD}-based experiments introduce an additional conversion layer from \ac{UD} feature bundles to UniMorph-style tags. When conversion is incomplete or not available, comparability breaks down for \ac{MSD} metrics, motivating the reporting choices described in Section~\ref{sec:analysis-eval}.
+
+Finally, several language-level outliers illustrate that ``better'' or ``worse'' numbers can arise from dataset and annotation differences rather than from modeling alone. In particular, cross-resource comparisons are sensitive to part-of-speech coverage and to lemma conventions (e.g., verbal-noun versus finite-form lemmas), which can strongly impact lemma-level scores even when the underlying model behavior is stable.
+
+\paragraph{Limitations.}
+This work is limited by (i) the fact that, for the specific set of languages considered in this thesis, UniMorph and \ac{UD} resources were not always available in a directly comparable form, (ii) the reliance on a fixed set of hyperparameters for fine-tuning, and (iii) the need to align resources with different annotation schemes. The LLM evaluation is additionally constrained by prompt design choices and by the difficulty of eliciting structured outputs reliably without task-specific fine-tuning.
+
+\paragraph{Future work.}
+Several extensions would strengthen the conclusions and broaden applicability. First, future work could conduct broader hyperparameter sweeps for ByT5 fine-tuning (learning rate schedules, sequence lengths, regularization, and decoding), and evaluate larger pretrained checkpoints to test scaling effects. Second, it would be valuable to expand to additional languages with both UniMorph and \ac{UD} resources, prioritizing settings where \ac{UD}$\rightarrow$UniMorph translation is available or can be developed.
+
+Finally, improved cross-resource evaluation could reduce confounds: rather than forcing all \ac{UD} experiments into a UniMorph-style \ac{MSD} space, one could report results in both tag inventories (or develop more faithful translators) to separate modeling limitations from conversion artifacts. 
+
+In summary, the results in this thesis indicate that modern sequence-to-sequence models are effective tools for morphological inflection and analysis across diverse languages, but that careful attention to dataset construction and annotation conventions is essential for drawing reliable cross-language and cross-resource conclusions.

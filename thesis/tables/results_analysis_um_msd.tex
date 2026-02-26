@@ -1,0 +1,21 @@
+\begin{table}[h]
+\centering
+\small
+\setlength{\tabcolsep}{5pt}
+\renewcommand{\arraystretch}{1.10}
+\begin{tabular}{lrrrrrrrr}
+\toprule
+Model & amh & azg & dsb & eng & grc & ita & kat & por \\
+\midrule
+\multicolumn{9}{l}{\textit{\acs{MSD} accuracy (\%, $\uparrow$)}} \\
+ByT5 inv & \textbf{83.2} & \textbf{77.8} & \textbf{46.2} & 81.3 & \textbf{73.4} & \textbf{78.9} & 72.7 & \textbf{66.1} \\
+ByT5 bi-inv & 72.3 & 69.2 & 36.8 & \textbf{81.7} & 63.8 & 78.1 & \textbf{73.0} & 65.7 \\
+\midrule
+\multicolumn{9}{l}{\textit{\acs{MSD} F1 (\%, $\uparrow$)}} \\
+ByT5 inv & \textbf{92.8} & \textbf{94.4} & \textbf{72.4} & 96.4 & \textbf{90.6} & \textbf{93.0} & \textbf{87.0} & \textbf{89.0} \\
+ByT5 bi-inv & 88.4 & 89.0 & 67.9 & \textbf{96.6} & 84.9 & 92.5 & 84.9 & 88.5 \\
+\bottomrule
+\end{tabular}
+\caption{Morphological analysis (UniMorph, test set): \acs{MSD} metrics.}
+\label{tab:results-analysis-um-msd-matrix}
+\end{table}

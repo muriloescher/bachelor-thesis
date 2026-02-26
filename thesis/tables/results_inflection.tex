@@ -1,0 +1,25 @@
+\begin{table}[h]
+\centering
+\normalsize
+\setlength{\tabcolsep}{5pt}
+\renewcommand{\arraystretch}{1.10}
+\begin{tabular}{lrrrrrrrr}
+\toprule
+Model & amh & azg & dsb & eng & grc & ita & kat & por \\
+\midrule
+\multicolumn{9}{l}{\textit{Accuracy (\%, $\uparrow$)}} \\
+Non-neural & 39.0 & 6.1 & \textbf{85.2} & 95.8 & 29.0 & 76.2 & 84.2 & 96.6 \\
+Neural & \textbf{88.7} & 20.1 & 79.1 & 96.6 & 19.4 & 78.3 & \textbf{89.2} & \textbf{97.6} \\
+ByT5 & 82.2 & \textbf{26.5} & 83.9 & 97.1 & \textbf{41.6} & \textbf{95.8} & 85.1 & 95.0 \\
+ByT5 bi & 60.8 & 24.4 & 78.3 & \textbf{97.6} & 34.8 & 89.8 & 82.9 & 91.1 \\
+\midrule
+\multicolumn{9}{l}{\textit{Mean Levenshtein distance ($\downarrow$)}} \\
+Non-neural & 1.010 & 5.660 & \textbf{0.267} & 0.086 & 1.852 & 0.761 & 0.430 & 0.054 \\
+Neural & \textbf{0.162} & 3.703 & 0.379 & 0.069 & 2.212 & 0.266 & \textbf{0.297} & \textbf{0.031} \\
+ByT5 & 0.237 & \textbf{3.413} & 0.287 & 0.067 & \textbf{1.713} & \textbf{0.091} & 0.480 & 0.072 \\
+ByT5 bi & 0.606 & 3.564 & 0.375 & \textbf{0.050} & 2.020 & 0.243 & 0.634 & 0.149 \\
+\bottomrule
+\end{tabular}
+\caption{Inflection results (test set): accuracy and mean Levenshtein distance.}
+\label{tab:results-inflection-matrix}
+\end{table}

@@ -9,7 +9,7 @@ Usage:
     python run.py --model byt5_bidirectional --language por --train
     python run.py --model byt5_bidirectional --language por --predict
     python run.py --model byt5_bidirectional --language por,eng,ita --train --predict
-    python run.py --model llm --language por --predict --test-only
+    python run.py --model llm_qwen --language por --predict
 """
 
 import argparse
@@ -125,7 +125,7 @@ Examples:
   python run.py --model byt5_bidirectional --language por --predict --inverse-only
   
   # LLM evaluation
-  python run.py --model llm --language por --predict
+    python run.py --model llm_qwen --language por --predict
         """
     )
     
@@ -170,7 +170,7 @@ Examples:
     if not args.model:
         parser.error("--model is required")
     if not args.language:
-        parser.error("--language/--lang is required")
+        parser.error("--language is required")
     
     # Validate that at least one action is specified
     if not (args.train or args.predict):
