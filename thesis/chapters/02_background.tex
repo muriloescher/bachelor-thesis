@@ -116,7 +116,48 @@ Despite these limitations, the approach provides a simple, transparent, and comp
 
 The other reference system used is the official neural baseline provided as part of the SIGMORPHON 2023 Shared Task. This system corresponds to the character-level Transformer model proposed by \textcite{wu-etal-2021-applying}, which has been adopted as a strong baseline for morphological inflection. 
 
-The model follows a standard encoder-decoder Transformer architecture \parencite{vaswani2017attention}, operating directly on character sequences. To better suit low-resource transduction tasks, a compact configuration is used, consisting of four encoder layers and four decoder layers with multi-head self-attention. Each layer employs four attention heads, a model dimension of $d_{\mathrm{model}} = 256$, and a feed-forward dimension of $d_{\mathrm{FF}} = 1024$. Decoding is performed autoregressively. For feature-guided tasks such as morphological inflection, morphological tags are encoded as special feature tokens that are concatenated with the input character sequence and processed jointly by the encoder. \textcite{wu-etal-2021-applying} further propose a feature-invariant positional encoding scheme to avoid imposing an arbitrary order over the feature set.
+In their experiments, \textcite{wu-etal-2021-applying} train and evaluate the model monolingually (i.e., as a separate model per language), rather than using a single multilingual model with shared parameters across languages.
+
+The model follows a standard encoder-decoder Transformer architecture \parencite{vaswani2017attention}, operating directly on character sequences. To better suit low-resource transduction tasks, a compact configuration is used, consisting of four encoder layers and four decoder layers with multi-head self-attention. Each layer employs four attention heads, a model dimension of $d_{\mathrm{model}} = 256$, and a feed-forward dimension of $d_{\mathrm{FF}} = 1024$. Decoding is performed autoregressively.
+
+For feature-guided tasks such as morphological inflection, the input sequence is formed by concatenating special feature tokens (representing the morphological tags) with the lemma character sequence, and encoding the combined sequence with the Transformer encoder. Since the tags form an unordered set, \textcite{wu-etal-2021-applying} propose a simple \emph{feature-invariant} encoding: all feature tokens share the same positional index (set to 0), while positional indices for characters start at 1; additionally, a learned type embedding marks whether a symbol is a feature token or a character. Figure~\ref{fig:feature_invariant_encoding} illustrates this encoding.
+
+\begin{figure}[t]
+\centering
+\begin{tikzpicture}[
+	token/.style={draw, rounded corners=1pt, minimum width=10mm, minimum height=6mm, inner sep=1pt},
+	rowlabel/.style={anchor=east, font=\scriptsize\color{TUMDarkGray}},
+	every node/.style={font=\small}
+]
+	\def\dx{1.05}
+	\def\ySym{0}
+	\def\yType{-0.8}
+	\def\yPos{-1.6}
+
+	\node[rowlabel] at (-0.35,\ySym) {symbols};
+	\node[rowlabel] at (-0.35,\yType) {type};
+	\node[rowlabel] at (-0.35,\yPos) {pos.};
+
+	\foreach \k/\sym/\typ/\pos in {
+		0/{\texttt{V}}/F/0,
+		1/{\texttt{PST}}/F/0,
+		2/{\texttt{PTCP}}/F/0,
+		3/{s}/C/1,
+		4/{m}/C/2,
+		5/{e}/C/3,
+		6/{a}/C/4,
+		7/{r}/C/5
+	} {
+		\node[token] at (\k*\dx,\ySym) {\sym};
+		\node[token] at (\k*\dx,\yType) {\typ};
+		\node[token] at (\k*\dx,\yPos) {\pos};
+	}
+\end{tikzpicture}
+\caption{Schematic illustration of the feature-invariant input encoding of \textcite{wu-etal-2021-applying}. Feature tokens (F) are concatenated with the lemma characters (C). All features share positional index 0, while character positions start at 1; a type embedding distinguishes feature tokens from characters.}
+\label{fig:feature_invariant_encoding}
+\end{figure}
+
+The model is trained in a standard sequence-to-sequence fashion by maximizing the likelihood of the target character sequence given the input (teacher forcing with a cross-entropy loss over the next character at each decoding step). \textcite{wu-etal-2021-applying} optimize with Adam at learning rate 0.001 and an inverse square-root learning-rate schedule with 4000 warm-up steps. They train for 20k gradient updates, save and evaluate checkpoints every 400 updates, and select the best checkpoint based on development-set accuracy. At inference time, decoding proceeds left-to-right and is performed greedily.
 
 \section{ByT5}
 

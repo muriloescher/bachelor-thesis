@@ -1,3 +1,9 @@
 \chapter{\abstractname}
 
-%TODO: Abstract
+Morphological competence is essential for many \ac{NLP} systems, especially for languages with rich inflection. This thesis studies two standard tasks that make morphological knowledge measurable: \emph{morphological inflection} (generate an inflected form from a lemma and a bundle of features) and \emph{morphological analysis} (recover lemma and \ac{MSD} from an observed word form). We additionally explore context-based analysis setups derived from \ac{UD}.
+
+We present a unified experimental pipeline to train and evaluate diverse model families across multiple typologically diverse languages. Our experiments compare established shared-task baselines (a non-neural baseline and a neural transducer) with modern sequence-to-sequence approaches based on fine-tuned ByT5, including a bidirectional setup that supports both tasks within a shared modeling framework. For analysis, we additionally consider inverse-direction ByT5 training on UniMorph data and context-based experiments derived from \ac{UD}, including a context-aware ByT5 variant and one-shot prompting baselines with different \ac{LLM} variants.
+
+A central challenge in cross-dataset comparison is that UniMorph and \ac{UD} differ in file formats, annotation conventions, and tag inventories. To address this, we construct consistent train--development--test splits and a shared instance representation, and we map \ac{UD} features to a UniMorph-style inventory where official translators are available. We report task-appropriate metrics: for inflection, exact-match accuracy and Levenshtein distance on the generated form; for analysis, lemma exact-match accuracy and Levenshtein distance, alongside \ac{MSD} accuracy and F1. We analyze how annotation and lemma conventions influence apparent outliers.
+
+All code and configuration files are organized to support full reproducibility of the reported results.
