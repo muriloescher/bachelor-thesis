@@ -3,17 +3,17 @@
 \small
 \setlength{\tabcolsep}{5pt}
 \renewcommand{\arraystretch}{1.10}
-\begin{tabular}{lrrrrrrrr}
+\begin{tabular}{lrrrrrrrrr}
 \toprule
-Model & amh & azg & dsb & eng & grc & ita & kat & por \\
+Model & amh & azg & dsb & eng & grc & ita & kat & por & avg \\
 \midrule
-\multicolumn{9}{l}{\textit{Lemma accuracy (\%, $\uparrow$)}} \\
-ByT5 inv & \textbf{76.2} & 34.4 & 61.3 & \textbf{97.0} & 59.7 & \textbf{94.5} & 75.6 & \textbf{94.8} \\
-ByT5 bi-inv & 64.6 & \textbf{37.1} & \textbf{64.3} & 96.8 & \textbf{64.0} & 92.6 & \textbf{76.2} & 94.2 \\
+\multicolumn{10}{l}{\textit{Lemma accuracy (\%, $\uparrow$)}} \\
+ByT5 inv & \textbf{76.2} & 34.4 & 61.3 & \textbf{97.0} & 59.7 & \textbf{94.5} & 75.6 & \textbf{94.8} & \textbf{74.2} \\
+ByT5 bi-inv & 64.6 & \textbf{37.1} & \textbf{64.3} & 96.8 & \textbf{64.0} & 92.6 & \textbf{76.2} & 94.2 & 73.7 \\
 \midrule
-\multicolumn{9}{l}{\textit{Lemma mean Levenshtein ($\downarrow$)}} \\
-ByT5 inv & \textbf{0.287} & 2.618 & 0.597 & \textbf{0.044} & 0.737 & \textbf{0.099} & 0.462 & \textbf{0.076} \\
-ByT5 bi-inv & 0.408 & \textbf{2.343} & \textbf{0.546} & 0.048 & \textbf{0.701} & 0.141 & \textbf{0.434} & 0.091 \\
+\multicolumn{10}{l}{\textit{Lemma mean Levenshtein ($\downarrow$)}} \\
+ByT5 inv & \textbf{0.287} & 2.618 & 0.597 & \textbf{0.044} & 0.737 & \textbf{0.099} & 0.462 & \textbf{0.076} & 0.615 \\
+ByT5 bi-inv & 0.408 & \textbf{2.343} & \textbf{0.546} & 0.048 & \textbf{0.701} & 0.141 & \textbf{0.434} & 0.091 & \textbf{0.589} \\
 \bottomrule
 \end{tabular}
 \caption{Morphological analysis (UniMorph, test set): lemma metrics.}

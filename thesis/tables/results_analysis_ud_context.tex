@@ -16,8 +16,18 @@ LLM Qwen & 47.5 & 49.1 & 32.7 & 42.8 & 4.0 & 51.6 & 37.9 \\
 ByT5 ctx & \textbf{0.131} & \textbf{0.072} & \textbf{4.030} & \textbf{0.149} & \textbf{3.188} & \textbf{0.596} & \textbf{1.361} \\
 LLM Llama & 0.798 & 0.855 & 4.057 & 2.002 & 4.750 & 0.751 & 2.202 \\
 LLM Qwen & 4.323 & 5.465 & 6.077 & 8.332 & 17.819 & 8.453 & 8.412 \\
+\midrule
+\multicolumn{8}{l}{\textit{\acs{MSD} accuracy (\%, $\uparrow$)}} \\
+ByT5 ctx & -- & \textbf{95.7} & 13.6 & \textbf{96.8} & -- & \textbf{71.8} & \textbf{69.5} \\
+LLM Llama & -- & 10.5 & 36.6 & 3.5 & -- & 1.9 & 13.1 \\
+LLM Qwen & -- & 6.7 & \textbf{47.8} & 21.8 & -- & 2.8 & 19.8 \\
+\midrule
+\multicolumn{8}{l}{\textit{\acs{MSD} F1 (\%, $\uparrow$)}} \\
+ByT5 ctx & -- & \textbf{98.3} & 30.6 & \textbf{98.4} & -- & \textbf{83.8} & \textbf{77.8} \\
+LLM Llama & -- & 37.5 & 81.7 & 17.7 & -- & 45.8 & 45.7 \\
+LLM Qwen & -- & 40.7 & \textbf{81.8} & 24.7 & -- & 41.5 & 47.2 \\
 \bottomrule
 \end{tabular}
-\caption{Morphological analysis (UD, test set): lemma metrics.}
-\label{tab:results-analysis-ud-lemma-matrix}
+\caption{In-context morphological analysis (UD, test set): lemma and \acs{MSD} metrics.}
+\label{tab:results-analysis-ud-context-matrix}
 \end{table}

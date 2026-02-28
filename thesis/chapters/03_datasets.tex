@@ -3,13 +3,13 @@
 
 \section{Datasets}
 
-To address the tasks of morphological inflection and morphological analysis and to train the proposed models, labeled data is required. Each instance consists of a lemma, a set of morphological tags describing the target grammatical features, and the corresponding inflected form. For this purpose, this work relies on two widely used resources: UniMorph \parencite{batsuren-etal-2022-unimorph} and \ac{UD} \parencite{nivre-etal-2020-universal}.
+To address the tasks of morphological inflection and morphological analysis and to train the proposed models, labeled data is required. Each instance consists of a lemma, a set of morphological tags describing the target grammatical features, and the corresponding inflected form. For this purpose, this work relies on two widely used resources: UniMorph \parencite{batsuren-etal-2022-unimorph} and \acl{UD} \parencite{nivre-etal-2020-universal}.
 
 \subsection{UniMorph}
 
 UniMorph is a multilingual project dedicated to providing large-scale morphological resources in the form of inflection tables and structured morphological annotations across a wide range of languages. At the time of writing, the dataset covers up to 182 languages, including both high-resource and low-resource as well as endangered languages.
 
-For each language, UniMorph provides a dataset consisting of individual instances that pair a lemma with a bundle of morphological features and the corresponding inflected form. Concretely, the data is distributed as tab-separated lines, where each row represents a single lemma, tags, form triple. Multiple rows typically share the same lemma and correspond to different morphological feature combinations, effectively encoding the full inflectional paradigm in a flat, line-based format, as illustrated in Table~\ref{tab:unimorph-example}.
+For each language, UniMorph provides a dataset consisting of individual instances that pair a lemma with a bundle of morphological features and the corresponding inflected form. Concretely, the data is distributed as tab-separated lines, where each row represents a single (lemma, morphological tag, form) triple. Multiple rows typically share the same lemma and correspond to different morphological feature combinations, effectively encoding the full inflectional paradigm in a flat, line-based format, as illustrated in Table~\ref{tab:unimorph-example}.
 
 \begin{table}[h]
 \centering
@@ -139,7 +139,7 @@ All preprocessing, conversion, and extraction scripts are included in the accomp
 
 \section{Languages}
 
-The following tables summarize the languages considered in the experiments. Table~\ref{tab:languages-um} presents general typological and linguistic information, together with the linguistic diversity score proposed by Joshi et al. \parencite*{joshi-etal-2020-state} as an external measure of language resource availability. In addition, the total number of UniMorph instances is reported to reflect the overall amount of available training data. The average number of inflected forms per lemma is included as a coarse estimate of morphological richness. 
+The following tables summarize the languages considered in the experiments. Table~\ref{tab:languages-um} presents general typological and linguistic information, together with the resource-availability score proposed by Joshi et al. \parencite*{joshi-etal-2020-state} as a coarse external indicator of a language's \ac{NLP} resource level. In addition, the total number of UniMorph instances is reported to reflect the overall amount of available training data. The average number of inflected forms per lemma is included as a coarse estimate of morphological richness. 
 
 Table~\ref{tab:languages-ud} provides statistics for the Universal Dependencies resources. Since UD treebanks are not available for Amuzgo and Lower Sorbian, these languages are excluded from the contextual and large language model experiments. For the remaining languages, the selected treebank and the sizes of the training, development, and test splits are listed; for Amharic, these correspond to the splits obtained by randomly partitioning the original \ac{UD} test-only data into train/dev/test.
 
@@ -151,14 +151,14 @@ Table~\ref{tab:languages-ud} provides statistics for the Universal Dependencies 
 \toprule
 Language & ISO & Family & Type & Ling.\ score & UM size & Avg.\ forms \\
 \midrule
-Amharic & amh & Semitic & Templatic & 2 & 46224 & 18.78 \\
-Amuzgo & azg & Oto-Manguean & Polysynthetic & 0 & 12204 & 36.76 \\
-Ancient Greek & grc & IE/Hellenic & Fusional & 3 & 41593 & 18.10 \\
-Lower Sorbian & dsb & IE/Slavic & Fusional & 1 & 20121 & 20.22 \\
-English & eng & IE/Germanic & Analytic & 5 & 115523 & 1.63 \\
-Italian & ita & IE/Romance & Fusional & 4 & 509574 & 50.91 \\
-Georgian & kat & Kartvelian & Agglutinative & 3 & 74412 & 23.90 \\
-Portuguese & por & IE/Romance & Fusional & 4 & 303996 & 75.96 \\
+Amharic & amh & Semitic & Templatic & 2 & 46{,}224 & 18.78 \\
+Amuzgo & azg & Oto-Manguean & Polysynthetic & 0 & 12{,}204 & 36.76 \\
+Ancient Greek & grc & IE/Hellenic & Fusional & 3 & 41{,}593 & 18.10 \\
+Lower Sorbian & dsb & IE/Slavic & Fusional & 1 & 20{,}121 & 20.22 \\
+English & eng & IE/Germanic & Analytic & 5 & 115{,}523 & 1.63 \\
+Italian & ita & IE/Romance & Fusional & 4 & 509{,}574 & 50.91 \\
+Georgian & kat & Kartvelian & Agglutinative & 3 & 74{,}412 & 23.90 \\
+Portuguese & por & IE/Romance & Fusional & 4 & 303{,}996 & 75.96 \\
 \bottomrule
 \end{tabular}
 }%

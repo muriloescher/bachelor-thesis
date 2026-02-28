@@ -104,31 +104,17 @@ This section describes the experimental setup for morphological analysis.
 
 For the analysis ByT5 model, we fine-tune ByT5 in the inverse direction on the UniMorph-based dataset. The only change relative to inflection is the input--output mapping and the corresponding prompt template: the model receives an inflected form as input and generates a single target string of the form ``\texttt{lemma FEATURES}'', where the lemma is followed by the semicolon-separated UniMorph tag bundle (separated by whitespace). We use the inverse prompt template shown in Figure~\ref{fig:byt5_inverse_prompt}.
 
-Encoding and optimization hyperparameters are identical to the inflection ByT5 setup (Table~\ref{tab:byt5_hyperparameters}).
-
-\subsection{Large Language Models}
-
-We evaluate large language models in an inference-only setting via the OpenRouter chat-completions API on the \ac{UD}-derived unified dataset with context. Each instance is processed independently, i.e., every prediction is generated through a separate API request without retaining conversational history between examples. To reduce stochasticity and improve reproducibility, we fix the decoding configuration across all experiments by setting the temperature to $0.0$ and by using a constant random seed.
-
-We employ a one-shot prompting strategy. Each prompt consists of (i) a short instruction describing the task, (ii) a single labeled example drawn from the first data point of the development split, and (iii) the target instance for which a prediction is required. The same template and demonstration example are included in every request to ensure consistent behavior across instances. An example of the prompt template is shown in Figure~\ref{fig:llm_prompt}.
-
 \begin{figure}[h]
 \centering
-\begin{tcolorbox}[width=0.9\linewidth]
-\begin{lstlisting}[basicstyle=\footnotesize\ttfamily,breaklines=true,breakatwhitespace=true,breakindent=0pt,breakautoindent=false,postbreak=\mbox{}]
-Based on this example:
-Input: {example_form}
-Context: {example_context}
-Prediction: {example_lemma}\t{example_tags}
-
-Generate the lemma and morphological tags for the following inflected verb and context. IMPORTANT: Provide ONLY the answer in the exact format 'lemma\ttags' with NO explanations, NO commentary, NO additional text: {form}\t{context}
-
-Answer (lemma and tags only, no explanation):
-\end{lstlisting}
-\end{tcolorbox}
-\caption{Prompt structure used for the one-shot LLM baseline. The target instance consists of an inflected form together with its sentence context.}
-\label{fig:llm_prompt}
+\begin{minipage}{0.9\linewidth}
+\small\ttfamily
+Generate the lemma and morphological tags for the following inflected verb: \{form\}
+\end{minipage}
+\caption{Prompt template used to construct the ByT5 input sequence for the inverse mapping (morphological analysis) in the bidirectional setting.}
+\label{fig:byt5_inverse_prompt}
 \end{figure}
+
+Encoding and optimization hyperparameters are identical to the inflection ByT5 setup (Table~\ref{tab:byt5_hyperparameters}).
 
 \subsection{Evaluation}
 \label{sec:analysis-eval}
@@ -144,16 +130,6 @@ For Georgian and Amharic in the \ac{UD}-based context experiments, the available
 In addition to the task-specific ByT5 models, we fine-tune a single bidirectional model that jointly learns morphological inflection and morphological analysis within a unified sequence-to-sequence framework. Concretely, for each language we shuffle the UniMorph training split with a fixed random seed and partition it into two equally sized subsets. One subset is converted into forward (inflection) examples (lemma + tags $\rightarrow$ inflected form) using the inflection prompt template (Figure~\ref{fig:byt5_forward_prompt}), while the other subset is converted into inverse (analysis) examples (inflected form $\rightarrow$ lemma + tags) using a separate prompt template (Figure~\ref{fig:byt5_inverse_prompt}). The combined dataset is then used to fine-tune a single model.
 
 The same procedure is applied to the development split to form a mixed-direction validation set. At test time, we evaluate the bidirectional model in the forward direction for morphological inflection and in the inverse direction for morphological analysis.
-
-\begin{figure}[h]
-\centering
-\begin{minipage}{0.9\linewidth}
-\small\ttfamily
-Generate the lemma and morphological tags for the following inflected verb: \{form\}
-\end{minipage}
-\caption{Prompt template used to construct the ByT5 input sequence for the inverse mapping (morphological analysis) in the bidirectional setting.}
-\label{fig:byt5_inverse_prompt}
-\end{figure}
 
 Table~\ref{tab:byt5_bidir_hyperparameters} summarizes the hyperparameters used for bidirectional fine-tuning and decoding.
 
@@ -185,6 +161,9 @@ Prediction batch size & 16 \\
 \end{table}
 
 \section{Context-Aware Morphological Analysis}
+This section describes the experimental setup for context-aware morphological analysis.
+
+\subsection{ByT5}
 \label{sec:bidirectional_context}
 
 To incorporate sentence context for morphological analysis, we start from the language-specific bidirectional ByT5 model trained in Section~\ref{sec:bidirectional} and further fine-tune it on the \ac{UD}-derived unified dataset that provides sentence context (one model per language). Table~\ref{tab:byt5_context_hyperparameters} summarizes the key differences introduced by this additional fine-tuning stage relative to the standard bidirectional setup. All remaining optimization and decoding hyperparameters are taken unchanged from Table~\ref{tab:byt5_bidir_hyperparameters}.
@@ -218,4 +197,28 @@ Generate the lemma and morphological tags for the inflected verb: \{form\}
 \end{minipage}
 \caption{Prompt template used for the context-aware ByT5 inverse model.}
 \label{fig:byt5_inverse_prompt_context}
+\end{figure}
+
+\subsection{Large Language Models}
+
+We evaluate large language models in an inference-only setting via the OpenRouter chat-completions API on the \ac{UD}-derived unified dataset with context. Each instance is processed independently, i.e., every prediction is generated through a separate API request without retaining conversational history between examples. To reduce randomness and improve reproducibility, we fix the decoding configuration across all experiments by setting the temperature to $0.0$ and by using a constant random seed.
+
+We employ a one-shot prompting strategy. Each prompt consists of (i) a short instruction describing the task, (ii) a single labeled example drawn from the first data point of the development split, and (iii) the target instance for which a prediction is required. The same template and demonstration example are included in every request to ensure consistent behavior across instances. An example of the prompt template is shown in Figure~\ref{fig:llm_prompt}.
+
+\begin{figure}[h]
+\centering
+\begin{tcolorbox}[width=0.9\linewidth]
+\begin{lstlisting}[basicstyle=\footnotesize\ttfamily,breaklines=true,breakatwhitespace=true,breakindent=0pt,breakautoindent=false,postbreak=\mbox{}]
+Based on this example:
+Input: {example_form}
+Context: {example_context}
+Prediction: {example_lemma}\t{example_tags}
+
+Generate the lemma and morphological tags for the following inflected verb and context. IMPORTANT: Provide ONLY the answer in the exact format 'lemma\ttags' with NO explanations, NO commentary, NO additional text: {form}\t{context}
+
+Answer (lemma and tags only, no explanation):
+\end{lstlisting}
+\end{tcolorbox}
+\caption{Prompt structure used for the one-shot LLM baseline. The target instance consists of an inflected form together with its sentence context.}
+\label{fig:llm_prompt}
 \end{figure}
