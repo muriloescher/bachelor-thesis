@@ -101,26 +101,49 @@ To regenerate all languages in one go, there is also:
 
 Note: this is a bash script, so on Windows it is easiest to run it in **WSL**.
 
-### 2.2 UD → (lemma, tags, form, context) files
+### 2.2 UD → CoNLL-U with UniMorph tags ("marriage" step)
+
+Before extracting the final 4-column files, the UD morphological features in each `.conllu` file must be converted from UD-style tags to UniMorph-style tags. This is done by the **marriage script** from the bundled [ud-compatibility](https://github.com/unimorph/ud-compatibility) library:
+
+- `code/data/ud-compatibility-master/ud_compatibility/marry.py`
+
+The script rewrites the feature column in-place inside the CoNLL-U format, producing the `-um-` files (e.g. `en_gum-um-train.conllu`) that are already included in `code/data/ud/`.
+
+To regenerate them for a single file:
+
+```bash
+cd code/data/ud-compatibility-master
+python -m ud_compatibility.marry convert --ud ../ud/pt_petrogold-ud-train.conllu
+```
+
+To convert multiple languages at once (after setting the paths in `ud_compatibility/paths.py`):
+
+```bash
+python -m ud_compatibility.marry convert --langs pt it en el
+```
+
+The resulting `-um-` files are what `conllu_to_unimorph.py` (see §2.3) reads to produce the final training data.
+
+### 2.3 CoNLL-U (UniMorph tags) → (lemma, tags, form, context) files
 
 Prepared UD `.trn/.dev/.tst` files live in `code/data/ud/`.
 
-The folder also contains the original treebanks as `.conllu` files (e.g. `pt_petrogold-ud-train.conllu`) and conversion helpers:
+The folder also contains the original treebanks as `.conllu` files (e.g. `pt_petrogold-ud-train.conllu`) and the married versions with UniMorph tags (e.g. `pt_petrogold-um-train.conllu`), plus conversion helpers:
 
-- `code/data/ud/conllu_to_unimorph.py` (extracts the first verb per sentence, reorders tags, outputs 4 columns)
+- `code/data/ud/conllu_to_unimorph.py` (extracts the first verb per sentence, reorders UniMorph tags, outputs 4 columns)
 - `code/data/ud/conllu_extract_ud.py` (extracts the first verb per sentence, keeps UD-style tags)
 - `code/data/ud/swap_metadata.py` (fixes ordering of `# sent_id` / `# text` lines if needed)
 
-Example conversion (Portuguese train split):
+Example conversion using the married `-um-` files (Portuguese train split):
 
 ```bash
 cd code/data/ud
-python conllu_to_unimorph.py pt_petrogold-ud-train.conllu por.trn
-python conllu_to_unimorph.py pt_petrogold-ud-dev.conllu   por.dev
-python conllu_to_unimorph.py pt_petrogold-ud-test.conllu  por.tst
+python conllu_to_unimorph.py pt_petrogold-um-train.conllu por.trn
+python conllu_to_unimorph.py pt_petrogold-um-dev.conllu   por.dev
+python conllu_to_unimorph.py pt_petrogold-um-test.conllu  por.tst
 ```
 
-If your `.conllu` blocks start with `# text = ...` before `# sent_id = ...`, you can normalize them:
+If your `.conllu` blocks start with `# text = ...` before `# sent_id = ...`, normalize them first:
 
 ```bash
 cd code/data/ud
