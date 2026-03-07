@@ -1,0 +1,29 @@
+% Methodology
+
+\begin{frame}
+    \frametitle{Method overview}
+    \begin{PraesentationAufzaehlung}
+        \item Frame both tasks as \textbf{text-to-text} problems
+        \item Input/Output templates encode lemma, form, and MSD
+        \item Fine-tune ByT5 on task-specific pairs
+    \end{PraesentationAufzaehlung}
+\end{frame}
+
+\begin{frame}
+    \frametitle{Directionality setups}
+    \begin{PraesentationAufzaehlung}
+        \item \textbf{Forward}: inflection only
+        \item \textbf{Inverse}: analysis only
+        \item \textbf{Bidirectional}: mix both directions in training
+        \item Goal: shared representations across tasks
+    \end{PraesentationAufzaehlung}
+\end{frame}
+
+\begin{frame}
+    \frametitle{Training and evaluation}
+    \begin{PraesentationAufzaehlung}
+        \item Fine-tuning details: see thesis Chapter 4
+        \item Metrics: exact-match accuracy for lemma / MSD / form (as applicable)
+        \item Compare across datasets and languages
+    \end{PraesentationAufzaehlung}
+\end{frame}

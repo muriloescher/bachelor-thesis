@@ -1,0 +1,19 @@
+% Background / related concepts
+
+\begin{frame}
+    \frametitle{Background: morphological features}
+    \begin{PraesentationAufzaehlung}
+        \item MSD (morphosyntactic description): bundles features like \textsc{tense}, \textsc{number}, \textsc{case}
+        \item Label spaces can be large and sparse, especially for low-resource languages
+        \item Character-level modeling is a natural fit for morphology
+    \end{PraesentationAufzaehlung}
+\end{frame}
+
+\begin{frame}
+    \frametitle{Model choice: ByT5}
+    \begin{PraesentationAufzaehlung}
+        \item Sequence-to-sequence Transformer operating on \textbf{bytes/characters}
+        \item Avoids OOV issues and heavy tokenization assumptions
+        \item Same architecture can handle generation (inflection) and parsing (analysis)
+    \end{PraesentationAufzaehlung}
+\end{frame}

@@ -1,0 +1,45 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% TUM-Vorlage: Präsentation (16:9)
+% Minimaler Startpunkt für eine Thesis-Präsentation
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Aspect ratio 16:9
+\input{./resources/presentation/preamble-16x9.tex}
+
+% Personal information (name, chair, ...)
+\input{./settings.tex} % customize
+
+\newcommand{\Datum}{February 27, 2026}
+
+% Metadata / title slide
+\title{Bidirectional Morphological Inflection and Analysis for Low-Resource Languages}
+\author{\PersonVorname{} \PersonNachname}
+\institute[]{\UniversitaetName \\ \FakultaetName \\ \LehrstuhlName \\ Supervisor: \ThesisSupervisor{} \\ Advisor: \ThesisAdvisor{}}
+\date[\Datum]{Munich, \Datum}
+\subject{Bachelor's Thesis Presentation}
+
+% Extra vertical space between title and the info block on the title slide.
+\newcommand{\PraesentationTitelseiteAbstand}{55mm}
+
+% TUM Beamer layout / macros
+\input{./resources/presentation/begin.tex} % do not remove
+
+% Folienstil
+\PraesentationMasterStandard
+
+% Titelfolie
+\PraesentationTitelseite
+
+% Slide content (split by thesis structure)
+\input{slides/00_agenda}
+\input{slides/01_introduction}
+\input{slides/02_background}
+\input{slides/03_datasets}
+\input{slides/04_methodology}
+\input{slides/05_results}
+\input{slides/06_conclusion}
+
+% Optional backup slides (uncomment if you want them included in the PDF)
+%\input{slides/99_backup}
+
+\end{document}
